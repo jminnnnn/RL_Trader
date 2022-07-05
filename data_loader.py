@@ -42,14 +42,14 @@ class Dataloader:
         elif length == 3:
             start_date = self._3y_from_today
         elif length == 5:
-            start_date = self._5y_From_today
+            start_date = self._5y_from_today
 
         start_date = self._make_date_to_str(start_date)
         today = self._make_date_to_str(self.today)
 
         query = (
-            f'SELECT * FROM {DT_TABLE} '
-            f'WHERE date BETWEEN {start_date} AND {today} FROM {DT_TABLE})'
+            f"SELECT * FROM {DT_TABLE} "
+            f"WHERE date BETWEEN '{start_date}' AND '{today}';"
         )
 
         df = pd.read_sql(query, self.dt_sql)
