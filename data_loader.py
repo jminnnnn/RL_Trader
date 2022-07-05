@@ -7,7 +7,7 @@ from mysql_config import DT_ENGINE, MY_SQL
 
 
 class Dataloader:
-
+# UPDATE DB USING DATA FROM DT
     def __init__(self):
         self.data_df = None
         self.dt_sql = DT_ENGINE
@@ -17,6 +17,8 @@ class Dataloader:
         self._1y_from_today = None
         self._3y_from_today = None
         self._5y_from_today = None
+
+        self.MYSQL_TABLE = 'chart_data'
 
     def update_database(self):
         print('Update starting..')
@@ -56,16 +58,32 @@ class Dataloader:
         self.data_df = df
 
     def _insert_data_to_mysql(self):
-        MYSQL_TABLE = 'chart_data'
-        self.data_df.to_sql(MYSQL_TABLE, self.my_sql, if_exists='append', index=False)
+        # MYSQL_TABLE = 'chart_data'
+        self.data_df.to_sql(self.MYSQL_TABLE, self.my_sql, if_exists='append', index=False)
 
     def _make_date_to_str(self, date):
         str_date = date.strftime("%Y-%m-%d")
         return str_date
 
+    def _get_total_data_from_mysql_(self):
+        # MYSQL_TABLE = 'chart_data'
+        query = (
+            f"SELECT * FROM {self.MYSQL_TABLE}; "
+        )
 
+        df = pd.read_sql(query, self.my_sql)
+        return df
 
-dl = Dataloader()
-if __name__ == '__main__':
-    dl.update_database()
+    def _get_certain_stock_from_mysql(self, stock_code):
+
+        query = (
+            f"SELECT * FROM {self.MYSQL_TABLE}"
+            f"WHERE symbol IN {stock_code}"
+        )
+        df = pd.read_sql(query, self.my_sql)
+        return df
+
+# dl = Dataloader()
+# if __name__ == '__main__':
+#     dl.update_database()
 
