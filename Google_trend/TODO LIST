@@ -1,0 +1,6 @@
+Make a simple 1DCNN model that predicts stock price based on the new features created
+
+there needs to be an addition of google trends data to the new features of my local db
+Also, note that trends data should also be modified!
+
+Target companies are 100 companies!
