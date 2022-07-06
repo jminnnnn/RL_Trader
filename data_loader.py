@@ -77,10 +77,11 @@ class Dataloader:
     def _get_certain_stock_from_mysql(self, stock_symbol):
 
         query = (
-            f"SELECT * FROM {self.MYSQL_TABLE}"
-            f"WHERE symbol IN {stock_symbol}"
+            f"SELECT * FROM {self.MYSQL_TABLE} "
+            f"WHERE symbol='{stock_symbol}'"
         )
         df = pd.read_sql(query, self.my_sql)
+
         return df
 
 # dl = Dataloader()
