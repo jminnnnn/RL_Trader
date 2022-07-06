@@ -42,7 +42,7 @@ class FeatureCreator:
         print(self.failed_list)
 
     ###############################################################################################
-    
+
     def _read_snp_500_list(self):
         f = open('snp500_list.txt', 'r', encoding='UTF-8')
         list = []
