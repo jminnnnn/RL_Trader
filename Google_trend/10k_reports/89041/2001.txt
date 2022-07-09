@@ -1,0 +1,3614 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GYjVY6C6STEzcfe9mwnPq3CbO5vK+1wOfljaV7aF4c8vCsM9OHt4Z05A4OANB2fI
+ EkNwdPAE1yoyPRMV/nIY1g==
+
+<SEC-DOCUMENT>0001019056-01-500047.txt : 20010410
+<SEC-HEADER>0001019056-01-500047.hdr.sgml : 20010410
+ACCESSION NUMBER:		0001019056-01-500047
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010405
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAGEMARK COMPANIES LTD
+		CENTRAL INDEX KEY:			0000089041
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC [8093]
+		IRS NUMBER:				131948169
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-04186
+		FILM NUMBER:		1595830
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1285 AVE OF THE AMERICAS
+		STREET 2:		35TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2126648949
+
+	MAIL ADDRESS:	
+		STREET 1:		1285 AVE OF THE AMERICAS
+		STREET 2:		35TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSOLIDATED TECHNOLOGY GROUP LTD
+		DATE OF NAME CHANGE:	19950525
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SEQUENTIAL INFORMATION SYSTEMS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SEQUENTIAL ELECTRONIC SYSTEMS INC
+		DATE OF NAME CHANGE:	19680822
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>file001.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+                     U.S. Securities and Exchange Commission
+                             Washington, D.C. 20549
+                                   Form 10-KSB
+(Mark One)
+[X] ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+    1934
+For the fiscal year ended December 31, 2000
+
+[ ] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+    OF 1934
+For the transition period from        to        .
+                               ------    -------
+
+                          Commission file Number 0-4186
+
+                           THE SAGEMARK COMPANIES LTD.
+           (Name of small business issuer as specified in its charter)
+
+               New York                               13-1948169
+    (State or other jurisdiction of      (IRS Employer Identification Number)
+    incorporation or organization)
+
+      1285 Avenue of the Americas,
+        35th Floor, New York, NY                               10019
+ (Address of principal executive offices)                    (Zip Code)
+
+Issuer's telephone number, including area code:  (212) 554-4219
+
+Securities registered pursuant to Section 12(b) of the Exchange Act:  None
+
+Securities registered pursuant to Section 12(g) of the Exchange Act:
+                     Common Stock, par value $0.01 per share
+                                (Title of Class)
+
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes [X]  No [ ]
+
+Check if there is no disclosure of delinquent filers in response to Item 405 of
+Regulation S-B is not contained in this form, and no disclosure will be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-KSB
+or any amendment to this Form 10-KSB. [ ]
+
+The issuer's revenues for the fiscal year ended December 31, 2000 were $877,000.
+
+The aggregate market value of the common equity held by non-affiliates of the
+Registrant as of March 16, 2001 was approximately $1.5 million computed on the
+basis of the reported closing price per share on said date ($1.125) of such
+stock on the National Association of Securities Dealers, Inc.'s Over the Counter
+Bulletin Board. Shares of Common Stock held by each officer and director and by
+each person who owns 5% or more of the outstanding Common Stock have been
+excluded in that such persons may be deemed to be affiliates. This determination
+of affiliate status is not necessarily a conclusive determination for other
+purposes.
+
+As of March 16, 2001, the Registrant has 1,584,247 shares of its par value $0.01
+Common Stock outstanding.
+
+Transitional Small Business Disclosure Format (check one):  Yes [X]  No [ ]
+<PAGE>
+
+DISCLOSURE REGARDING FORWARD LOOKING STATEMENTS
+
+ALL STATEMENTS, OTHER THAN STATEMENTS OF HISTORICAL FACT, INCLUDED IN THIS
+ANNUAL REPORT ON FORM 10-KSB, INCLUDING WITHOUT LIMITATION THE STATEMENTS UNDER
+"RISK FACTORS" AND "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS" ARE, OR MAY BE, FORWARD-LOOKING STATEMENTS WITHIN THE
+MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED (THE
+"SECURITIES ACT") AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED (THE "EXCHANGE ACT").
+
+WITHOUT LIMITING THE FOREGOING, (I) THE WORDS "BELIEVES," "ANTICIPATES,"
+"PLANS," "EXPECTS," "INTENDS," "ESTIMATES" AND SIMILAR EXPRESSIONS ARE INTENDED
+TO IDENTIFY FORWARD-LOOKING STATEMENTS AND (II) FORWARD-LOOKING STATEMENTS
+INCLUDE ANY STATEMENTS WITH RESPECT TO THE POSSIBLE FUTURE RESULTS OF THE
+REGISTRANT, INCLUDING ANY PROJECTIONS OR DESCRIPTIONS OF ANTICIPATED REVENUE
+ENHANCEMENTS OR COST SAVINGS. SUCH FORWARD-LOOKING STATEMENTS INVOLVE KNOWN AND
+UNKNOWN RISKS, UNCERTAINTIES AND OTHER FACTORS, WHICH MAY CAUSE THE ACTUAL
+RESULTS, PERFORMANCE OR ACHIEVEMENTS OF THE COMPANY, OR INDUSTRY RESULTS, TO BE
+MATERIALLY DIFFERENT FROM ANY FUTURE RESULTS, PERFORMANCE, OR ACHIEVEMENTS
+EXPRESSED OR IMPLIED BY SUCH FORWARD-LOOKING STATEMENTS.
+
+SUCH FACTORS INCLUDE, AMONG OTHERS, THE FOLLOWING: POTENTIAL SUBJECTION TO THE
+INVESTMENT COMPANY ACT, THE COMPANY'S HISTORY OF LOSSES AND CASH FLOW DEFICITS,
+THE LIMITED MARKET FOR OUR COMMON STOCK, RESTRICTIONS ON THE TRADING IN OUR
+SECURITIES DUE TO APPLICABLE PENNY STOCK REGULATIONS, THE NEED FOR SIGNIFICANT
+FINANCING IN ORDER TO FACILITATE THE ACQUISITION OR ESTABLISHMENT OF ANY
+POTENTIAL OPERATING BUSINESS SEGMENTS, THE DEPENDENCE OF ANY FUTURE BUSINESS
+OPERATIONS ON THE SERVICES OF OUR EXECUTIVE OFFICERS AND OUR ABILITY TO
+INTEGRATE NEW OFFICERS AND KEY PERSONNEL, THE LACK OF DIVIDEND PAYMENTS ON OUR
+COMMON STOCK, LIMITED LIABILITY OF OUR OFFICERS AND DIRECTORS TO OUR
+SHAREHOLDERS, THE RISKS RELATING TO LEGAL PROCEEDINGS AND OTHER FACTORS BOTH
+REFERENCED AND NOT REFERENCED IN THIS ANNUAL REPORT ON FORM 10-KSB, INCLUDING
+THOSE SET FORTH UNDER "RISK FACTORS." ALL SUBSEQUENT WRITTEN AND ORAL
+FORWARD-LOOKING STATEMENTS ATTRIBUTABLE TO THE COMPANY OR PERSONS ACTING ON ITS
+BEHALF ARE EXPRESSLY QUALIFIED IN THEIR ENTIRETY BY THE CAUTIONARY STATEMENTS
+CONTAINED THROUGHOUT THIS ANNUAL REPORT ON FORM 10-KSB.
+
+
+Page 2
+<PAGE>
+
+PART I
+
+Item 1. Description of Business.
+
+Nature of Operations
+
+Organization of the Company
+
+The Sagemark Companies Ltd. ("Sagemark", the "Company" or the "Registrant"),
+(formerly Consolidated Technology Group Ltd., formerly Sequential Information
+Systems, Inc.) is a New York corporation organized in 1961. The Company is a
+publicly owned holding company which had controlling interests, (either directly
+or indirectly through its wholly owned subsidiary, SIS Capital Corp. ("SISC")),
+in consolidated subsidiaries operating in various business segments throughout
+the United States. During the time period from 1997 through 1999, the Company
+discontinued all of the operating activities of all such subsidiaries.
+
+Letter of Intent to Acquire Premier P.E.T. Imaging International, Inc. and
+- --------------------------------------------------------------------------
+Premier Cyclotron International Corp.
+- -------------------------------------
+
+On March 28, 2001 the Company entered into a Letter of Intent which sets forth
+the principal terms and conditions of a proposed acquisition of Premier P.E.T.
+Imaging International, Inc. ("Premier") and Premier Cyclotron International
+Corp. ("PCI") by the Company. Premier is owned by Dr. Stephen A. Schulman, Dr.
+Robert McFarland, Tara Capital, Inc. ("Tara Capital") and Robert L. Blessey (the
+"Selling Stockholders"). Theodore B. Shapiro, the Company's Chief Executive
+Officer, President and Director, owns 10% of Tara Capital and the remaining 90%
+is owned by his relatives. Premier was formed to engage in the ownership and
+operation of outpatient diagnostic imaging centers (the "PET Centers")
+throughout the United States utilizing positron emission tomography scanning
+equipment ("PET Scanning Equipment"). PCI, also owned by the Selling
+Stockholders, was formed to own and operate equipment which manufactures
+flouro-deoxy-glucose and other radioisotopes utilized in the diagnostic imaging
+procedures performed by the PET Scanning Equipment.
+
+The Letter of Intent does not contain all of the terms and conditions to be
+negotiated and agreed upon between the parties but is, to the extent provided in
+the Letter of Intent, binding upon the parties who have agreed to enter into a
+Stock Purchase Agreement, pursuant to which the Company will purchase from the
+Selling Stockholders all of the shares of the capital stock of Premier and PCI
+owned by each of them in exchange for shares of the Company's Common Stock.
+
+The Letter of Intent provides that the Company will issue 6,000 shares of its
+Common Stock upon and subject to the consummation of the proposed acquisition.
+Additionally, if, and to the extent each of the first six PET Centers achieves
+positive earnings, calculated before the deduction of interest expense, income
+taxes, depreciation and amortization ("EBITDA"), at any time during the first
+eighteen months of their operations, the Company will issue to the Selling
+Stockholders an aggregate of 250,000 shares of its Common Stock for each of such
+Centers. The shares of Common Stock issued by the Company will have certain
+registration rights and in the event that either the Centers discontinue their
+operations or are adjudicated bankrupt within two years after the consummation
+of the proposed acquisition, the Company will have the right to repurchase from
+the Selling Stockholders all shares of the Company's Common Stock shares owned
+by them for a purchase price of One Dollar ($1.00).
+
+
+Page 3
+<PAGE>
+
+In addition upon the consummation of the proposed acquisition, the Company will
+provide working capital to Premier in the amount of $1,000,000, the proceeds of
+which will be used to establish and operate the PET Centers. To the extent
+required, the Company will guarantee Premier's obligations under any leasing or
+purchase agreement between Premier and the manufacturer or supplier of the PET
+Scanning Equipment or between Premier and any entity which provides financing
+for same.
+
+Consummation of the proposed acquisition is subject to certain conditions among
+which are due diligence by the Company, financing commitment and fairness
+opinion. There is no assurance that the acquisition will be consummated or if
+so, on what terms.
+
+Operations of the Company During the Year 2000
+- ----------------------------------------------
+
+During 2000 Sagemark operated as a financial services company and through
+Sagemark Capital LP ("Sagemark Capital"), a partnership in which Sagemark holds
+a 61.5% limited partnership interest, made investments and loans to companies
+engaged in e-commerce, telecommunications, and human resources outsourcing.
+Sagemark Capital operates as a Small Business Investment Company ("SBIC")
+pursuant to a license awarded to it by the Small Business Administration ("SBA")
+on May 23, 2000.
+
+In addition to its investments made through Sagemark Capital, in 1999 and 2000
+Sagemark made non-controlling, direct investments and loans to two privately
+held e-commerce companies, Gavelnet.com, Inc. ("Gavelnet") and JewlersEdge.com,
+Inc. ("JewlersEdge").
+
+On November 20, 2000, the Company entered into a Transition Agreement that
+effectuated a change of management. Simultaneously with the execution of such
+agreement, Sagemark entered into a Purchase Agreement whereby it sold all of its
+equity interest in Gavelnet and JewelersEdge to a company owned by members of
+the former management team.
+
+Change of Management
+- --------------------
+
+On November 20, 2000, the Company, Frank DeLape and Richard Young entered into a
+transition agreement (the "Transition Agreement") with Edward D. Bright, acting
+on his own behalf and on behalf of certain shareholders of the Company. The
+Transition Agreement was consummated in order to effectuate an agreed upon
+change of management and provide for, among other things, the termination of the
+existing employment and stock option agreements between the Company and Frank
+DeLape and Richard Young and the resignation of Frank DeLape, Richard Young and
+Steve Jones as officers and directors of the Company and all of its
+subsidiaries.
+
+Edward D. Bright and Theodore B. Shapiro were appointed to the Company's Board
+of Directors pursuant to the terms of the Transition Agreement to fill the
+vacancies created by the resignations of Frank DeLape, Richard Young and Steve
+Jones. On March 7, 2001, the Board of Directors appointed Theodore B. Shapiro as
+President and Chief Executive Officer and Edward D. Bright as Chairman of the
+Board. On March 4, 2001, the Company entered into a letter agreement to employ
+George W. Mahoney as its Chief Financial Officer.
+
+As a result of the above, on December 31, 2000, the Company had two employees
+and as of March 16, 2001, three employees.
+
+
+Page 4
+
+<PAGE>
+
+RISK FACTORS
+
+PROSPECTIVE INVESTORS SHOULD CAREFULLY CONSIDER THE FOLLOWING RISK FACTORS,
+TOGETHER WITH THE OTHER INFORMATION CONTAINED IN THIS ANNUAL REPORT ON FORM
+10-KSB, IN EVALUATING THE COMPANY AND ITS BUSINESS BEFORE PURCHASING ITS
+SECURITIES. IN PARTICULAR, PROSPECTIVE INVESTORS SHOULD NOTE THAT THIS ANNUAL
+REPORT ON FORM 10-KSB CONTAINS FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF
+SECTION 27A OF THE SECURITIES ACT AND SECTION 21E OF THE EXCHANGE ACT AND THAT
+ACTUAL RESULTS COULD DIFFER MATERIALLY FROM THOSE CONTEMPLATED BY SUCH
+STATEMENTS. SEE "DISCLOSURE REGARDING FORWARD-LOOKING STATEMENTS." THE FACTORS
+LISTED HEREIN REPRESENT CERTAIN IMPORTANT FACTORS THE COMPANY BELIEVES COULD
+CAUSE SUCH RESULTS TO DIFFER. THESE FACTORS ARE NOT INTENDED TO REPRESENT A
+COMPLETE LIST OF THE GENERAL OR SPECIFIC RISKS THAT MAY AFFECT THE COMPANY. IT
+SHOULD BE RECOGNIZED THAT OTHER RISKS MAY BE SIGNIFICANT, PRESENTLY OR IN THE
+FUTURE, AND THE RISKS SET FORTH BELOW MAY AFFECT THE COMPANY TO A GREATER EXTENT
+THAN INDICATED. BUSINESS AND OTHER RISKS DESCRIBED HEREIN ARE APPLICABLE TO BOTH
+SAGEMARK AND ITS SUBSIDIARIES.
+
+The Company May Be Subject to the Investment Company Act
+- --------------------------------------------------------
+
+Until such time, if ever, that the proposed acquisition of Premier and PCI is
+consummated, or until such time as the Company acquires or organizes another
+operating entity, it will have no operating entity. In the absence of an
+applicable exemption or administrative relief, the Company might be required to
+register as an investment company under the Investment Company Act of 1940, as
+amended (the "1940 Act"), because more than 40% of the value of its assets
+exclusive of government securities, cash and temporary investments would be
+deemed invested in securities of companies which are not majority owned
+subsidiaries of the Company. The Company would then be subject to the
+restrictions and limitations imposed by the 1940 Act on the activities of
+registered investment companies, which could have a material adverse affect on
+the Company.
+
+The Company Has a History of Losses and Cash Flow Deficits
+- ----------------------------------------------------------
+
+For the two years ended December 31, 2000, revenues have been nominal, losses
+from continuing operations were $2.437 million and cash used in continuing
+operations were $4.164 million. The Company expects to incur additional losses
+during the time period in which it is reviewing potential opportunities to
+establish or acquire a controlling interest in an operating business segment and
+it cannot be assured of when, if ever, it will establish or acquire such an
+operating business. The Company also cannot be assured that in the event an
+operating business segment is established or acquired, that such operating
+business, if established or acquired will reverse the current trends of negative
+cash flow and operating losses.
+
+The Company Lacks Control Over the Operations and Decisions of Sagemark Capital
+- -------------------------------------------------------------------------------
+
+The Company owns a 61.5% limited partnership interest in Sagemark Capital whose
+operations are controlled by its general partner, Sagemark Management, LLC
+("Sagemark Management"). During 2000, the Company's share of Sagemark Capital's
+loss was $620,000 which included $506,000 of investment losses from Sagemark
+Capital's investment write-downs in several of its portfolio companies. As of
+December 31, 2000, Sagemark Capital had $7.5 million of investments in private
+companies that are carried at estimated fair market value. Private company
+equities are not traded on a stock exchange and as a result do not have readily
+determinable values. As a result, the determination of the fair market value of
+investments in private companies requires significant estimates and broad
+assumptions. As a 61.5% limited partner, to the extent that Sagemark Capital
+incurs future losses, the Company's share of such losses may be significant and
+therefore have a significant adverse impact on the Company.
+
+There is a Limited Market for the Company's Common Stock
+- --------------------------------------------------------
+
+Currently, the Company's Common Stock trades on the National Association of
+Securities Dealers Automated Quotation System Over-the- Counter Bulletin Board
+(the "NASDAQ Bulletin Board"). By its nature, the NASDAQ Bulletin Board is a
+limited market and investors may find it more difficult to dispose of our
+securities which are owned by them.
+
+
+Page 5
+
+<PAGE>
+
+Trading in the Company's Securities May Be Restricted Due to Compliance with
+- ----------------------------------------------------------------------------
+Applicable Penny Stock Regulations
+- ----------------------------------
+
+Broker-dealer practices in connection with transactions in "penny stocks" are
+regulated by certain penny stock rules and regulations adopted by the SEC. Penny
+stocks generally are equity securities with a price of less than $5.00 (other
+than securities registered on certain national securities exchanges or quoted on
+NASDAQ provided that current price and volume information with respect to
+transactions in such securities is provided by the exchange or system). The
+penny stock rules require a broker-dealer, prior to a transaction in a penny
+stock not otherwise exempt from the rules, to deliver a standardized risk
+disclosure document that provides information about penny stocks and the risks
+in the penny stock market. These rules also impose additional sales practice
+requirements on broker-dealers which sell such securities to persons other than
+established customers or institutional accredited investors. For transactions
+covered by this rule, broker-dealers must also make a special suitability
+determination for the purchaser and receive the purchaser's written consent to
+the transaction prior to a sale. Consequently, the application of this rule to
+the trading of the Company's Common Stock may affect the ability or willingness
+of broker-dealers to sell the Company's securities and adversely affect market
+liquidity for such securities.
+
+The Company May Require Significant Financing to Facilitate the Acquisition or
+- ------------------------------------------------------------------------------
+Establishment of Any Potential Operating Business Segments
+- ----------------------------------------------------------
+
+The Company is currently reviewing potential opportunities to establish or
+acquire a controlling interest in an operating business segment. The Company has
+limited operating capital and the inability of the Company to obtain a
+significant financing may adversely affect its plans to establish or acquire an
+operating business segment.
+
+Any Future Business Operations Will Depend on the Services of the Company's
+- ---------------------------------------------------------------------------
+Executive Officers and Key Personnel and the Company's Ability to Integrate New
+- -------------------------------------------------------------------------------
+Officers and Key Personnel
+- --------------------------
+
+The Company's future success will depend, to a significant extent, on the
+continued services of its executive officers and key personnel. The loss of the
+services of Edward D. Bright, Chairman of the Board, Theodore B. Shapiro, Chief
+Executive Officer, President and Director, or George W. Mahoney, Chief Financial
+Officer, could have a material adverse effect on the potential acquisition or
+establishment of an operating business segment. Both Theodore B. Shapiro and
+Edward D. Bright have been appointed as officers of the Company on a
+month-to-month basis and the Company's agreement with George W. Mahoney may be
+terminated by him as early as September of 2001 in the event that the Company
+does not acquire or otherwise establish an operating business. The loss of
+services of any of these individuals or the inability to attract or retain other
+key employees or to otherwise create and maintain an effective team of senior
+managers for any potential operating business will have a material adverse
+effect on the Company's business.
+
+
+Page 6
+
+<PAGE>
+
+The Proposed Acquisition of Premier and PCI May Result in Significant Dilution
+- ------------------------------------------------------------------------------
+of the Company's Existing Common Stockholders Ownership Interests
+- -----------------------------------------------------------------
+
+As more fully described in Part I, Item. 1. "Business Description", on March 26,
+2001, the Company entered into a Letter of Intent to Acquire Premier and PCI. If
+the acquisition as proposed in the Letter of Intent is consummated and certain
+criteria as defined in the Letter of Intent are achieved, there will be
+significant dilution of the Company's existing Common Stockholders ownership
+interest.
+
+The Company Does Not Intend to Pay Any Dividends on the Company's Common Stock
+- ------------------------------------------------------------------------------
+in the Foreseeable Future
+- -------------------------
+
+The Company currently intends to retain all future earnings, if any, to finance
+the Company's current and proposed business activities and does not anticipate
+paying any cash dividends on its Common Stock in the foreseeable future. As
+described elsewhere in this Form 10-KSB, the holders of the Company's Preferred
+Stock have rights senior to the holders of the Company's Common Stock with
+respect to any dividends. The Company may also incur indebtedness in the future
+that may prohibit or effectively restrict the payment of cash dividends on its
+Common Stock.
+
+The Liability of the Company's Officers and Directors to the Company and Its
+- ----------------------------------------------------------------------------
+Shareholders is Limited
+- -----------------------
+
+The applicable provisions of the New York Business Corporation Law (the "BCL")
+and our Certificate of Incorporation limit the liability of the Company's
+officers and directors to the Company and its shareholders for monetary damages
+for breaches of their fiduciary duties, with certain exceptions, and for other
+specified acts or omissions of such persons. In addition, the applicable
+provisions of the BCL and of the Company's Certificate of Incorporation and
+By-Laws provide for indemnification of such persons under certain circumstances.
+As a result of these provisions, shareholders may be unable to recover damages
+against the Company's officers and directors for actions taken by them which
+constitute negligence, gross negligence or a violation of their fiduciary duties
+and may otherwise discourage or deter the Company's shareholders from suing its
+officers or directors even though such actions, if successful, might otherwise
+benefit the Company and its shareholders.
+
+Item 2.  Properties
+
+Since November 20, 2000, the Company's executive offices have been located in
+New York, NY, which it leases on a month-to-month basis for $500 per month. From
+April 20, 1999 until November 20, 2000, the Company's executive offices were in
+Houston, TX, which the Company leased from Benchmark Equity Group ("Benchmark"),
+a private company owned by Frank DeLape, for $1,200 per month. Rental expense
+for 2000 and 1999 was $17,000 and $52,000, respectively.
+
+
+Page 7
+
+<PAGE>
+
+Item 3.  Legal Proceedings
+
+Although the Company is a party to certain legal proceedings that have occurred
+in the ordinary course of business, the Company does not believe such
+proceedings to be of a material nature with the exception of the following. Due
+to uncertainties in the legal process, it is at least reasonably possible that
+management's opinion of the outcome of the following contingent liabilities will
+change in the near term and there exists the possibility that there could be a
+material adverse impact on the operations of the Company and its subsidiary as a
+result of such legal proceedings.
+
+On or about December 14, 1999, an action styled Expert Radiology Network v.
+Comprehensive Medical Imaging, Inc.; International Magnetic Imaging, Inc.,
+George Mahoney; and Joe Does 1 through 100 was filed in the Circuit Court of the
+Fifteenth Judicial Circuit, in and for Palm Beach County Florida, and assigned
+Case No. CL99-11947AD. The action seeks damages against International Magnetic
+Imaging, Inc. ("IMI"), an inactive and discontinued subsidiary of the Company,
+in excess of $15,000 for alleged breaches of a contract and for allegedly
+fraudulently inducing Expert Radiology Network ("ERN") to enter into said
+contract, under which ERN was to read and interpret diagnostic imaging scans
+performed at certain magnetic resonance imaging centers previously owned by IMI.
+The action also seeks an accounting of amounts due and owing to ERN under the
+contract. The contract was assigned to Comprehensive Medical Imaging, Inc.
+("CMI"), in March 1998 in connection with the sale of IMI's assets to CMI. The
+third named Defendant, George Mahoney, is a former Chief Financial Officer of
+IMI and the current Chief Financial of the Company. IMI has answered the
+complaint, denying any liability and raising various affirmative defenses. It is
+contesting the case vigorously. At this stage of the proceedings, it is not
+possible to evaluate the outcome of the action, nor to reasonably estimate the
+amount of any judgment, if any, that might be entered against IMI.
+
+On or about July 6, 1998, an action styled Ronald Feldstein v. Consolidated
+Technology Group, Inc., a Florida corporation was filed in the Circuit Court of
+the Fifteenth Judicial Circuit, in and for Palm Beach County Florida, and
+assigned Case No. 98-5943-AG. The action sought damages in excess of $15,000 for
+an alleged breach by Consolidated Technology Group, Ltd. (the Company's prior
+name) of an alleged consulting agreement under which the Company allegedly
+promised to deliver to the Plaintiff, Ronald Feldstein, 250,000 options to
+purchase stock of International Magnetic Imaging, Inc. at $3.50 per share, and
+200,000 share of the stock of Trans Global Services, Inc. ("Trans Global"). It
+is alleged the shares of Trans Global stock were to have been delivered by April
+18, 1997. The Company answered the Plaintiff's complaint denying liability and
+asserting various defenses. The Company also propounded discovery requests,
+which were not answered by the Plaintiff. The Court ordered the Plaintiff to
+respond to the discovery requests, but the Plaintiff did not comply with the
+Court's order and on March 12, 2001, the Court dismissed the action without
+prejudice.
+
+In July 1999, Mitel Communications Solutions, Inc. ("Mitel") served an amended
+Complaint upon the Company, impleading the Company and SISC and purportedly
+served Technology Acquisitions Ltd. ("TAL"), a significant shareholder in the
+company's Common Stock, in a case commenced against Arc, in the Supreme Court of
+the State of New York, County of New York, entitled, Mitel Communications
+Solutions, Inc. v. Arc Networks, Inc. et al., Index No. 99-600123 (Sup. Ct. N.Y.
+Cty., 1999). Mitel seeks to recover the sum of $1.7 million, allegedly pre-paid
+to Arc when Mitel engaged Arc as a subcontractor for a subsequently aborted
+project for the New York City Board of Education. Mitel seeks to recover the
+purported pre-payment with interest against all defendants, including the
+Company, SISC and TAL on a variety of legal and equitable theories. The Company
+has responded by denying all of the relevant allegations set forth in the
+amended complaint and it is the Company's position that it is in no way
+responsible for any liability Arc may or may not have to the plaintiff under the
+facts as alleged by the plaintiff. The Company is
+
+
+Page 8
+
+<PAGE>
+
+contesting this case vigorously. The Company has been advised that on December
+1, 1999, Arc and Mitel entered into a settlement agreement pursuant to which,
+among other things, Arc agreed to perform certain work for Mitel and make a
+certain escrow payment. The Company has been advised that Arc has not made the
+required escrow payment; however, it continues to perform all work requested by
+Mitel under the terms of the Settlement Agreement. As of this date, the Company
+is advised that the balance due from Arc to Mitel has been reduced to less than
+$300,000 and Arc is currently engaging in work for Mitel to further reduce and
+eventually eliminate the alleged obligation underlying the litigation. To the
+extent Arc satisfies the terms of the settlement agreement in full, it is
+anticipated that the Company will be released from the litigation. However,
+there can be no assurance that Arc will fully discharge the terms of the
+settlement agreement.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+No matter was submitted during the fourth quarter of 2000 to a vote of security
+holders, through the solicitation of proxies or otherwise.
+
+PART II
+
+Item 5.  Market for Common Equity and Related Stockholder Matters.
+
+The Company's Common Stock is traded on the National Association of Securities
+Dealers, Inc.'s Over the Counter Bulletin Board ("OTC Bulletin Board") under the
+symbol "SKCO". The following table sets forth, for the periods indicated, the
+quarterly range of the high and low closing bid prices per share of our Common
+Stock as reported by the OTC Bulletin Board Trading and market services. Such
+bid quotations reflect inter-dealer prices, without retail mark-up, mark-down or
+commission and may not represent actual transactions.
+
+                            Bid Prices
+                            -----------
+Quarter ended               High    Low
+March 31, 2000              $5.25   $2.75
+June 30, 2000               $5.75   $2.88
+September 30, 2000          $3.84   $2.13
+December 31, 2000           $3.00   $0.88
+
+March 31, 1999              $6.60   $2.70
+June 30, 1999               $5.18   $3.30
+September 30, 1999          $4.50   $3.90
+December 31, 1999           $3.56   $1.50
+
+As of March 16, 2001, there were approximately 18,193 holders of record of the
+Company's common stock. The Company has not paid dividends on common stock and
+does not anticipate paying dividends in the foreseeable future. The Company
+intends to retain future earnings, if any, to finance the expansion of its
+operations and for general corporate purposes, including future acquisitions.
+
+Preferred Stock - As of December 31, 2000, the authorized number of shares of
+undesignated preferred stock, par value $1.00 per share, is 2,000,000 shares of
+which 2,962 shares of several series of preferred stock are issued and
+outstanding as of December 31, 2000.
+
+
+Page 9
+<PAGE>
+
+Item 6.  Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+THIS MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS MAY BE DEEMED TO INCLUDE FORWARD-LOOKING STATEMENTS WITHIN THE
+MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED, AND SECTION
+21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, THAT INVOLVE RISK AND
+UNCERTAINTY. ALTHOUGH MANAGEMENT BELIEVES THAT ITS EXPECTATIONS ARE BASED ON
+REASONABLE ASSUMPTIONS, IT CAN GIVE NO ASSURANCE THAT ITS EXPECTATIONS WILL BE
+ACHIEVED.
+
+THE IMPORTANT FACTORS THAT COULD CAUSE ACTUAL RESULTS TO DIFFER FROM THOSE IN
+THE FORWARD-LOOKING STATEMENTS HEREIN (THE "CAUTIONARY STATEMENTS") INCLUDE,
+WITHOUT LIMITATION: POTENTIAL SUBJECTION TO THE INVESTMENT COMPANY ACT, THE
+COMPANY'S HISTORY OF LOSSES AND CASH FLOW DEFICITS, THE LIMITED MARKET FOR OUR
+COMMON STOCK, RESTRICTIONS ON THE TRADING IN OUR SECURITIES DUE TO APPLICABLE
+PENNY STOCK REGULATIONS, THE NEED FOR SIGNIFICANT FINANCING IN ORDER TO
+FACILITATE THE ACQUISITION OR ESTABLISHMENT OF ANY POTENTIAL OPERATING BUSINESS
+SEGMENTS, THE DEPENDENCE OF ANY FUTURE BUSINESS OPERATIONS ON THE SERVICES OF
+OUR EXECUTIVE OFFICERS AND OUR ABILITY TO INTEGRATE NEW OFFICERS AND KEY
+PERSONNEL, THE LACK OF DIVIDEND PAYMENTS ON OUR COMMON STOCK, LIMITED LIABILITY
+OF OUR OFFICERS AND DIRECTORS TO OUR SHAREHOLDERS, THE RISKS RELATING TO LEGAL
+PROCEEDINGS AS WELL AS OTHER RISKS REFERENCED FROM TIME TO TIME IN THE COMPANY'S
+FILINGS WITH THE SEC. ALL SUBSEQUENT WRITTEN AND ORAL FORWARD-LOOKING STATEMENTS
+ATTRIBUTABLE TO THE COMPANY OR PERSONS ACTING ON ITS BEHALF ARE EXPRESSLY
+QUALIFIED IN THEIR ENTIRETY BY THE CAUTIONARY STATEMENTS. THE COMPANY DOES NOT
+UNDERTAKE ANY OBLIGATION TO RELEASE PUBLICLY ANY REVISIONS TO SUCH
+FORWARD-LOOKING STATEMENTS TO REFLECT EVENTS OR CIRCUMSTANCES AFTER THE DATE
+HEREOF OR TO REFLECT THE OCCURRENCE OF UNANTICIPATED EVENTS.
+
+Financial Condition - Liquidity and Capital Resources
+- -----------------------------------------------------
+
+Working Capital:
+
+As of December 31, 2000, the Company's working capital assets include cash of
+$2.907 million and current marketable securities of $3,000 and as of such date,
+the Company has $2.638 million of working capital available for use in its
+business, representing a decrease of $4.64 million.
+
+Uses of working capital during 2000 included $4.030 million of capital
+contributions to Sagemark Capital L.P., $253,000 loaned to JewlersEdge, $757,000
+paid for salaries and related expenses, $485,000 paid for professional fees,
+$140,000 paid for consulting fees, $120,000 paid to Richard Young pursuant to
+the Transition Agreement, $313,000 paid for general and administrative expenses,
+$49,000 paid for Federal and state taxes and $12,000 paid for interest.
+
+Contingent Obligations:
+
+As described more fully in Part I, Item 1, "Description of Business", on March
+28, 2001, the Company entered into a Letter of Intent to Acquire Premier and
+PCI. Upon the consummation of the proposed acquisition, the Company will provide
+working capital to Premier in the amount of $1,000,000, the proceeds of which
+will be used to establish and operate the PET Centers. To the extent required,
+the Company will guarantee Premier's obligations under any leasing or purchase
+agreement between Premier and the manufacturer or supplier of the PET Scanning
+Equipment or between Premier and any entity which provides financing for same.
+As part of the foregoing commitment, the Company will pay any commitment or
+similar fee to any entity which provides a financing commitment to Premier in
+connection with Premier's purchase of the first PET Scanning Equipment for its
+first
+
+
+Page 10
+
+<PAGE>
+
+PET Center at any time after the date of the Letter of Intent that such fee
+becomes due and payable. If Premier does not execute the necessary agreements to
+consummate the proposed acquisition for any reason other than the terms of such
+agreements not being consistent with the provisions of the Letter of Intent,
+Premier will repay to the Company any such commitment or similar fee that may
+have been paid or advanced by the Company. If the Company does not execute the
+necessary agreements to consummate the proposed acquisition for any reason other
+than the terms of such agreements not being consistent with the provisions of
+this Letter of Intent, the Company will forfeit, as liquidated damages, its
+right to require Premier to repay any such commitment or similar fee that may
+have been paid or advanced by the Company.
+
+Trans Global Services, Inc. ("Trans Global"), a former subsidiary of the
+Company, was the holder of a $1.2 million promissory note issued by Arc. The
+Company guaranteed the outstanding indebtedness of Arc to Trans Global. In
+addition, during 1998, the Company guaranteed $550,000 of indebtedness that Arc
+had outstanding under a promissory note to Batei Sefer Limlacha. On September 6,
+2000, InfoHighway paid, on behalf of Arc, all outstanding indebtedness of Arc to
+Trans Global and Batei Sefer Limlacha. Effective upon such payments by
+InfoHighway, the Company's aforementioned guaranties were canceled and are no
+longer in force or effect.
+
+Results of Operations
+- ---------------------
+
+Revenue:
+
+The Company earned management fees of $477,000 in 2000 pursuant to a
+reimbursement agreement with Sagemark Management that was in effect from January
+1, 2000 through November 20, 2000 on which date the agreement was terminated
+pursuant to the Transition Agreement. During 2000, loan interest from related
+parties included $287,000 earned on the Arc loan and $27,000 earned on the
+JewelersEdge loan and related party loan financing fees included $75,000 from
+the Arc loan and $10,000 from the JewlersEdge loan. For 1999, all $170,000 of
+the related party loan interest and $27,000 of related party loan financing fees
+were earned on the Arc loan. The other loan interest of $2,000 and $14,000 for
+2000 and 1999, respectively, and the 1999 other loan financing fees of $15,000
+were all earned on the William Baquet loan. Currently, the Company does not
+anticipate generating any significant revenues until such time, if ever, that an
+operating business is established or acquired.
+
+Operating Expenses:
+
+Salaries, Payroll Taxes and Fringe Benefits:
+
+Salaries, payroll taxes and fringe benefits of $753,000 for
+2000 and $693,000 for 1999 are related to officers and other employees who
+resigned as of or prior to November 20, 2000. For 2000, the remaining $32,000
+represents the salaries and benefits of the current officers of the Company for
+the period from November 20, 2000 through December 31, 2000 plus a year end
+accrual for interim financial executives. As of the date of this report, the
+Company has three employees with current aggregate annual base salaries of
+$220,000 subject to contingent increases in the event the Company consummates an
+acquisition of an operating business segment which would increase the aggregate
+annual base salaries to $390,000. In addition, the current executives of the
+Company are currently entitled to annual benefits aggregating $43,000.
+
+
+Page 11
+
+<PAGE>
+
+Related Party Bad Debt Expense:
+
+Related party bad debt expense of $700,000 for 2000 reflects a 100% provision
+applied to notes receivable due from JewelersEdge and Joseph Sicinski.
+
+JewelersEdge - In March 2000, the Company loaned JewelersEdge $250,000 pursuant
+to a note bearing interest at 13% per annum with principal due thirteen months
+from the date of execution. In June 2000, the Company advanced JewelersEdge
+$3,000 through a convertible note receivable. Mr. Frank DeLape is the beneficial
+owner of 24.3% of the common stock of JewelersEdge, and is a director of
+JewelersEdge. During 2000 the Company earned $26,000 of interest income and
+$10,000 of financing fees on the JewelersEdge note. As of December 31, 2000, the
+outstanding principal and accrued interest owed on the JewlersEdge note
+receivable aggregated $280,000. On February 14, 2001, the Company received
+notification from JewlersEdge that, among other things, it had discontinued its
+operations. As a result, effective December 31, 2000, the Company recorded a
+reserve for $280,000, representing all amounts owed to the Company by
+JewelersEdge.
+
+Joseph Sicinski - In 1997, SISC sold 258,333 common shares of Trans Global to
+Joseph Sicinski, the president of Trans Global, for $1.67 per share, the fair
+market value of the Trans Global common stock on the date of sale. Payment by
+Joseph Sicinski for such shares is evidenced by his $420,000, non-interest
+bearing, promissory note due in 2002 (the "Sicinski Note"). Pursuant to the
+terms of the Sicinski Note, the Company's only recourse against Sicinksi is the
+underlying shares which he purchased. Based on the significant decrease in the
+value of the underlying Trans Global shares, the Company recorded a reserve of
+420,000 against the Sicinski Note on December 31, 2000.
+
+Professional Fees:
+
+Professional fees for 2000 were $498,000 including $173,000 for the change of
+control and management matters, $167,000 for litigation and general legal
+matters, $108,000 for lending and investing activities and $50,000 in accounting
+fees. Professional fees for 1999 were $919,000 and consisted of legal fees of
+$774,000 and accounting fees of $145,000. The legal fees in 1999 included
+$306,000 for the disposal of Arc Networks, Trans Global and Netsmart, $166,000
+for litigation settlements and the remaining $302,000 for general legal matters,
+including proxy and change of control issues.
+
+Other General and Administrative Expenses:
+
+Comparing 2000 and 1999, other general and administrative expenses decreased
+$230,000 from $554,000 for 1999 to $324,000 for 2000. Significant costs incurred
+in 1999 that were not incurred in 2000 includes $65,000 for the 1999 annual
+shareholder meeting and related proxy, $40,000 of rent for office space that was
+closed in 1999, $43,000 in non-recurring printing costs for a litigation project
+and $21,000 of business development costs related to the formation of Sagemark
+Capital, L.P.
+
+Executive Contract Termination Expense:
+
+Executive contract termination expense for 2000 of $171,000 relates to the
+November 20, 2000 Transition Agreement, which, among other things, provides for
+the termination of the existing employment and stock option agreements between
+the Company and Frank DeLape and Richard Young, the issuance to Frank DeLape of
+24,000 shares of the Company's common stock (valued at $51,000) in consideration
+of the return and cancellation of certain stock options previously issued to
+Frank DeLape by the Company, the payment to Richard Young of $60,000 of
+severance compensation and $60,000 as compensation for consulting services to be
+provided during the first 90 days after the execution of the Transition
+Agreement.
+
+
+Page 12
+
+<PAGE>
+
+Executive contract termination expense for 1999 was $108,000 of which $60,000
+was paid to Seymour Richter pursuant to a consulting agreement he entered into
+with the Company upon his April 20, 1999 resignation as the Company's President
+and Chief Executive Officer and $48,000 paid to George W. Mahoney upon his
+resignation in May of 1999 as Chief Financial Officer. As noted elsewhere within
+this report, George W. Mahoney was reappointed as Chief Financial Officer in
+March of 2001.
+
+Consulting Fees:
+
+Consulting fees for 2000 represents $140,000 paid to various consultants for
+evaluating potential acquisitions and other investment advisory services.
+Consulting fees for 1999 represents $18,000 paid to a consultant in connection
+with the closing of the Company's New York offices.
+
+Settlement Costs:
+
+During 1999, the Company incurred $38,000 of expense to settle claims relating
+to former subsidiaries.
+
+Non Operating Income and Expense:
+
+Gain (Loss) on Sale of Marketable Securities, Related Parties:
+
+During 2000 the Company recognized a loss of $125,000 on the sale of Trans
+Global common shares and during 1999 recognized a gain of $2,624,000 on the sale
+of Netsmart common shares.
+
+Gain on Sale of Marketable Securities, Other:
+
+During 2000, the Company recognized a gain of $118,000 on the sale of I-Link
+common shares and in 1999 recognized a gain of $168,000 from the sale of US
+Treasury Bills and $4,000 from the sale of commercial paper.
+
+Gain on Sale of Related Party Non Marketable Securities:
+
+During 1999, the Company received warrants to purchase common stock of
+InfoHighway, Arc's parent, in consideration for the Company extending the
+repayment date of the Arc note. Such warrants were sold to InfoHighway in
+September 2000 for $369,000 representing the 2000 gain on sale of related party
+non marketable securities.
+
+Loss from Permanently Impaired Investments:
+
+On September 7, 1999, the Company acquired 100,000 shares of 12% convertible
+preferred stock of Gavelnet (the "Gavelnet Shares") for $950,000. Concurrent
+with the Company's investment in Gavelnet, TAL invested $1 million under
+substantially the same terms. Prior to the Company's investment in Gavelnet,
+certain affiliates and related parties of Benchmark acquired approximately 4.1
+million common shares, on a fully diluted basis, of Gavelnet for financial
+investment and other services that enabled Gavelnet to satisfy certain criteria
+in validating its business model. Benchmark is a privately held company wholly
+owned by Frank DeLape, Sagemark's Chief Executive Officer and Chairman of the
+Board from April 20, 1999 until November 20, 2000, which also owns 100% of TAL's
+voting stock. In September 2000, the Company recorded a permanent investment
+write-off of its $950,000 investment as a result of its review of the realizable
+value of the Gavelnet Shares.
+
+
+Page 13
+
+<PAGE>
+
+Interest Income, Investments:
+
+During 2000 and 1999, the Company earned $53,000 and $60,000, respectively, of
+interest income on bank deposits.
+
+Loss on Disposal of Fixed Assets:
+
+As a part to the change in control and management of the Company, all furniture
+and fixtures of the Company as of November 20, 2000 were transferred to Sagemark
+Management. The net book value of the furniture and fixtures on November 20,
+2000 was $71,000. In connection with the transfer of such assets, Sagemark
+Management assumed all of the Company's capital lease obligations having a net
+present value of $3,000 and as a result of the above, the Company recorded a
+loss on disposal of fixed assets of $68,000.
+
+Value of Marketable Securities Issued to a Related Party to Extend Debt
+Guarantees:
+
+Trans Global was the holder of a $1.2 million promissory note issued by Arc. The
+Company guaranteed the outstanding indebtedness of Arc to Trans Global. On
+September 6, 2000, InfoHighway paid, on behalf of Arc, all outstanding
+indebtedness of Arc to Trans Global. Effective upon such payments by
+InfoHighway, the Company's aforementioned guaranties were canceled and are no
+longer in force or effect. Prior to InfoHighway's payment of Arc's obligation to
+Trans Global, the Company transferred to Trans Global, in consideration of Trans
+Global's extension of the maturity date of the Arc indebtedness guaranteed by
+the Company, 50,000 shares of Trans Global common shares owned by it having a
+value of $56,000.
+
+Interest Expense:
+
+The Company incurred interest expense of $4,000 and $5,000 for 2000 and 1999,
+respectively, on a capitalized equipment lease obligation which effective
+November 20, 2000, was assumed by Sagemark Management.
+
+Other Income:
+
+The other income recognized in 2000 and 1999 of $48,000 and $3,000,
+respectively, reflects the write-off of obligations that existed prior to 1998
+that the Company does not believe it will be required to pay.
+
+Minority Interest in Income of Subsidiaries:
+
+In 1999 the minority portion of Trans Global's income prior to the disposal of
+Trans Global in the first quarter of 1999 was $296,000.
+
+Share of Income of Unconsolidated Affiliate:
+
+Sagemark Capital - Pursuant to the terms of the limited partnership agreement
+dated November 30, 1999, between the Company and Sagemark Management, (the
+"Sagemark Capital Partnership Agreement"), the Company is committed to make
+$4,920,000 in capital contributions to Sagemark Capital. As of December 31,
+2000, the Company has paid on such commitments $4,587,000 (of which $1,577,000
+represents the fair value of marketable securities transferred to Sagemark
+Capital, $557,000 represents expenses paid on behalf of Sagemark Capital in 1999
+and $2,453,000 represents cash payments made during 2000), leaving a
+subscription payable balance of $333,000.
+
+
+Page 14
+
+<PAGE>
+
+As a part of the transactions relating to the Transition Agreement, the Company
+entered into an agreement with Sagemark Management on November 20, 2000 (the
+"General Partner Letter Agreement") whereby Sagemark Management in its capacity
+as general partner of Sagemark Capital, agreed not to seek to have the Company
+contribute the $333,000 balance of its $4,920,000 capital contribution
+commitment until the following conditions occur: (i) All other limited partners
+of Sagemark Capital must fund the same percentage of their total capital
+contribution commitment as the Company has funded; (ii) Sagemark Capital must
+have drawn down or otherwise received all funds to which the SBA determines it
+is entitled based upon Sagemark Capital's total capital contributions,
+calculated after condition (i) above has been met; and, (iii) all capital
+contributions and investment funds referred to in (i) and (ii) above must be
+fully invested by Sagemark Capital. The General Partner Letter Agreement also
+precludes Sagemark Management from offsetting any amounts owed by the Company to
+Sagemark Capital against the Company's capital account and requires Sagemark
+Management, upon written request, to appoint Theodore B. Shapiro to the advisory
+board of Sagemark Capital.
+
+The Company will continue to own its limited partnership interest in Sagemark
+Capital (61.5% as of December 31, 2000), and Sagemark Capital will continue to
+be managed by Sagemark Management; but, by virtue of the resignation of Frank
+DeLape and Richard Young as officers and directors of the Company, the Company
+will have a limited say in the day to day operations of Sagemark Capital,
+requiring the Company to report Sagemark Capital as an unconsolidated affiliate
+using the equity method. The Company's share of Sagemark Capital's loss for 2000
+was $620,000.
+
+Netsmart Technologies, Inc.- As of January 1, 1999, the Company had an
+investment in Netsmart Technologies, Inc. ("Netsmart") that was accounted for
+using the equity method. On March 25, 1999, the Company reduced its ownership in
+Netsmart to approximately 10% at which point the investment in Netsmart no
+longer qualified for treatment as an equity method investment and was converted
+to a marketable security. During the period from January 1, 1999 through March
+25, 1999, the Company's equity method share of Netsmart's income was $113,000.
+
+Income Tax Expense:
+
+The Company's income tax expense for 2000 represents $3,000 of state taxes and
+for 1999 includes federal taxes of $17,000 and state taxes of $8,000. The
+Company had net operating loss carryforwards of approximately $44.7 million as
+of December 31,2000, which expire during the years from 2001 through 2020.
+
+
+Page 15
+
+<PAGE>
+
+Discontinued Operations:
+
+The Company's income (loss) from operations of discontinued segments and the
+gain on disposal of segments are presented in the following table.
+
+Year Ended December 31, 1999
+- ----------------------------
+Income from operations of discontinued segments:
+  Trans Global                                       $  499,000
+  Intercompany transactions                             139,000
+                                                     ----------
+                                                     $  638,000
+                                                     ==========
+Gain on disposal of segments:
+  Trans Global                                       $  759,000
+  Arc                                                 7,365,000
+  3D Holdings Intl., Inc.                               481,000
+  IMI                                                   156,000
+  Income taxes                                          (31,000)
+                                                     ----------
+                                                     $8,730,000
+                                                     ==========
+
+Net Income or Loss:
+
+As a result of the foregoing, the Company's net income (loss) for 2000 and 1999
+was ($2.979 million) and $9.91 million, respectively and earnings (loss) per
+share was ($1.91) and $6.32, respectively.
+
+Item 7.  Financial Statements and Supplementary Data
+
+The information required by Item 7. is included as Exhibit 99.1 to this Form
+10-KSB.
+
+Item 8.  Changes In and Disagreements With Accountants on Accounting and
+Financial Disclosure
+
+None.
+
+
+Page 16
+
+<PAGE>
+
+PART III
+
+Item 9.  Directors, Executive Officers, Promoters and Control Persons of the
+Registrant; Compliance With Section 16(a) of the Exchange Act
+
+Officers are elected by, and serve at the pleasure of, the Board of Directors.
+Set forth below is information concerning the directors and executive officers
+of the registrant as of December 31, 2000.
+
+Name                    Age     Position with the Company
+- ----                    ---     -------------------------
+Theodore B. Shapiro     65      Chief Executive Officer, President, and Director
+Edward D. Bright        64      Chairman of the Board
+
+On November 20, 2000, Edward D. Bright and Theodore B. Shapiro were appointed to
+the Company's Board of Directors pursuant to the terms of the Transition
+Agreement to fill the vacancies created by the resignations of Frank DeLape and
+Richard Young.
+
+Theodore B. Shapiro has served as the Company's Chief Executive Officer and
+President since November 20, 2000. From January 6, 1998 until October 25, 2000,
+Mr. Shapiro was the Chief Executive Officer, President and a Director of Trimol
+Group, Inc., a public holding company with controlling investments in companies
+operating in the banking, insurance and hotel industries. From 1992 to 1997, Mr.
+Shapiro was the Vice-Chairman of the Board of Directors of EMX Corporation
+("EMX"), a research and development technology firm.
+
+Edward D. Bright has served as the Company's Chairman of the Board and a
+Director since November 20, 2000 and previously in such capacity from April 1998
+through April 1999. Since April 1998, Mr. Bright has also served as Chairman of
+the Board and a Director of Netsmart, a public company that is a leader in the
+design, development, implementation and licensing of management information
+systems for the behavioral health care industry through its wholly-owned
+operating subsidiary, Creative Socio-Medics Corp. From January 1996 until April
+1998, Mr. Bright was an executive officer of and advisor to Creative
+Socio-Medics Corp. From June 1994 until January 1996, Mr. Bright was the Chief
+Executive Officer of Netsmart and for more than two years prior thereto, he was
+a senior executive officer of Creative Socio-Medics and its former parent. Mr.
+Bright is also the Chairman of the Board of Trans Global, a public company that
+provides technical temporary staffing services.
+
+Item 10. Executive Compensation
+
+Summary Compensation Table
+
+Set forth below is information concerning the Company's Chief Executive Officer
+and other executive officers who received or accrued compensation from the
+Company in excess of $100,000 (on an annualized basis) during 2000 and 1999.
+
+
+Page 17
+
+<PAGE>
+
+All amounts in the following table are in '000s unless otherwise indicated:
+<TABLE>
+<CAPTION>
+
+                                                            Long-term Compensation
+                                                   --------------------------------------
+                                                         Awards             Payouts
+                                                   -----------------   ------------------
+                            Annual Compensation              Securi-
+                           ----------------------            ties
+                                          Other    Restri-   Under-             All
+                                          Annual   stricted  lying     LTIP     Other
+Name and Principal                        Compen-  Stock     Options/  Payouts  Compen-
+ Position            Year  Salary  Bonus  sation   Awards    SARs(#)   ($)      sation($)
+- ------------------   ----  ------  -----  -------  ------    --------  -------  ---------
+<S>                  <C>     <C>    <C>     <C>      <C>         <C>       <C>        <C>
+Theodore B. Shapiro,
+ Chief Executive
+ Officer and
+ President since
+ November 2000       2000    $ 11     --    $  3(2)    --         --       --         --
+
+Edward D. Bright,
+ Chairman of the
+ Board since
+ November 2000
+ and from April      2000    $  6     --    $  1(3)    --         --       --         --
+ to April 1999       1999      --     --      --       --          3(9)    --         --
+
+Frank DeLape,
+ Chief Executive
+ Officer, April
+ 1999 to             2000    $228     --    $ 12(4)  $ 51(8)      24(8)    --         --
+ November 2000       1999    $170     --    $  9(4)    --        400(9)    --         --
+
+Richard Young,
+ President and
+ Chief Operating
+ Officer, April
+ 1999 to             2000    $121     --    $132(5)    --         --       --         --
+ November 2000       1999    $ 92     --    $  7(5)    --        250(9)    --         --
+
+Steve Jones,
+ Chief Financial
+ Officer, May 2000
+ to November 2000    2000    $ 69     --      --       --         --       --         --
+
+George W. Mahoney,
+ Chief Financial
+ Officer             1999    $ 95     --    $ 48(6)    --         --       --         --
+
+Seymour H. Richter,
+ Chief Executive
+ Officer and
+ President,
+ April 1998
+ to April 1999       1999    $ 27   $ 40(1) $ 61(7)    --         --       --         --
+</TABLE>
+
+
+Page 18
+
+<PAGE>
+
+(1) Mr. Richter received discretionary bonuses in 1999 as approved by the board
+of directors.
+
+(2) Mr. Shapiro's other annual compensation consisted of auto and insurance
+allowances.
+
+(3) Mr. Bright's other annual compensation consisted of auto and insurance
+allowances.
+
+(4) Mr. DeLape's other annual compensation consists of auto and club membership
+allowances.
+
+(5) Mr. Young's other annual compensation for 2000 includes an auto allowance of
+$12,000, $60,000 of severance compensation and $60,000 of consulting fees for
+services to be provided during the first 90 days subsequent to his resignation.
+Mr. Young's other annual compensation for 1999 consists of an auto allowance.
+
+(6) Mr. Mahoney's other annual compensation for 1999 represents early
+termination compensation related to a prior employment agreement. On March 7,
+2001 Mr. Mahoney was reappointed as the Company's Chief Financial Officer.
+
+(7) Mr. Richter's other annual compensation for 1999 includes $56,000 paid to
+him pursuant to a consulting agreement for services performed after his
+resignation, and $5,000 for post employment, medical insurance reimbursements.
+
+(8) Mr. DeLape received 24,000 shares of the Company's common stock (valued at
+$51,000) in consideration of the return and cancellation of certain stock
+options previously issued to him by the Company.
+
+(9) Options were awarded on April 20, 1999 under the Company's 1999 Long-term
+Incentive Plan at an exercise price equal to the fair market value of the Common
+Stock on the date of grant ($4.20). Mr. DeLape transferred 150,000 of his
+options to his assignees on October 11, 1999. Pursuant to the Transition
+Agreement, the options issued to Mr. DeLape and Mr. Young in 1999 were
+cancelled.
+
+Option/SAR Grants in Last Year
+
+No options or stock appreciation rights were granted to the named executive
+officers during 2000. On April 13, 2000, 15,000 options previously granted to
+Matthew Finch, former Secretary of the Company, were transferred to Frank
+DeLape. Pursuant to the Transition Agreement, the options transferred to Frank
+DeLape were cancelled.
+
+Aggregated Option/SAR Exercises in Last Year and Year-end Option/SAR Values
+
+The following table sets forth certain information with respect to the
+unexercised options and stock appreciation rights to purchase shares of the
+Company's Common Stock held by the named executive officers at December 31,
+2000. None of the named executive officers exercised any stock options or stock
+appreciation rights during 2000.
+
+
+Page 19
+<PAGE>
+
+                                      Number of Securities  Value of Unexercised
+                                     Underlying Unexercised    In-the-Money
+                                          Options/SARs         Options/SARs
+                  Shares                  at Year End(#)       at Year End(#)
+                 Acquired    Value    --------------------  --------------------
+                   On        Real-    Exercis-  Unexercis-  Exercis-  Unexercis-
+Name            Exercise(#)  ized($)    able       able       able       able
+- -----------     -----------  -------  --------  ----------  --------  ----------
+Theodore B.
+ Shapiro            --         --        --        --          --        --
+Edward D.
+ Bright             --         --     8,333(1)     --          --        --
+
+(1) The exercise price on 5,000 of the options is $7.50 and on 3,333 of the
+options is $4.50. As of December 31, 2000, none of the options are in the money.
+
+Compensation of Directors
+
+Edward D. Bright has served as our Chairman of the Board and a Director since
+November 2000 and previously in such capacity from April 1998 to April 1999. Mr.
+Bright is also a Director of Netsmart and Trans Global, both former subsidiaries
+of the Company. As a non-employee director of Netsmart and Trans Global, Mr.
+Bright received options granted under Netsmart's and Trans Global's long-term
+incentive plans. In addition, in 1998, Mr. Bright received an option to purchase
+5,000 shares of the Company's common stock at an exercise price of $7.50 per
+share, the fair market value of the common stock on the date of issuance and in
+1999, pursuant to the Company's 1999 Long-term Incentive Plan received an option
+to purchase 3,333 shares of the Company's common stock at an exercise price of
+$4.50 per share.
+
+Employment Agreements
+
+On March 7, 2001, the Board of Directors approved and ratified the terms of
+employment arrangements between the Company and Theodore B. Shapiro and Edward
+D. Bright.
+
+The terms of Mr. Shapiro's employment include the appointment of Mr. Shapiro as
+the Company's President and Chief Executive Officer, on a month-to-month basis,
+at an annual base salary of $100,000, plus certain fringe benefits and expense
+allowances. Mr. Shapiro's annual base salary is subject to increase to $200,000
+per year at such time as the Company consummates an acquisition of the business
+of another entity. In addition, Mr. Shapiro was granted a warrant to purchase up
+to 125,000 shares of the Company 's common stock during a term of five years at
+an exercise price of $1.125 per share (the "Warrant"), which exercise price
+reflects the market price of the Company 's common stock on March 7, 2001, the
+date of grant of the Warrant. Mr. Shapiro was also granted a warrant to purchase
+up to an additional 150,000 shares of the Company 's common stock during a term
+of five years at an exercise price of $1.125 per share (the "Incentive
+Warrant"), which exercise price reflects the market price of the Company 's
+common stock on March 7, 2001, the date of grant of the Incentive Warrant. The
+Incentive Warrant cannot, however, be exercised unless and until the Company
+consummates an acquisition of the business of another entity. The shares of
+common stock subject to the Warrant and the Incentive Warrant have "piggy-back"
+and demand registration rights.
+
+The terms of Mr. Bright's employment include the appointment of Mr. Bright as
+the Company's Chairman of the Board, on a month-to-month basis, at an annual
+base salary of $50,000, plus certain fringe benefits and expense allowances. Mr.
+Bright's annual base salary is subject to quarterly review by the Board of
+Directors. In addition, Mr. Bright
+
+
+Page 20
+
+<PAGE>
+
+was granted a warrant to purchase up to 50,000 shares of the Company 's common
+stock during a term of five years at an exercise price of $1.125 per share,
+which exercise price reflects the market price of the Company 's common stock on
+March 7, 2001, the date of grant of such warrant. The shares of common stock
+subject to the warrant have "piggy-back" and demand registration rights.
+
+On March 4, 2001, the Company entered into a letter agreement to employ George
+W. Mahoney as its Chief Financial Officer for a period of 3 years at an annual
+base salary of $70,000 per year. Per the terms of the letter agreement, it is
+the intention of the parties to enter into a definitive employment agreement
+whereby Mr. Mahoney will receive an annual base salary of $140,000. In the event
+that the Company does not consummate an acquisition of another business by
+February 28, 2002, the Company may terminate this agreement upon ten days notice
+to Mr. Mahoney. In the event that the Company does not consummate an acquisition
+of another business by September 1, 2001 and does not enter into a definitive
+Employment Agreement with Mr. Mahoney by September 1, 2001, Mr. Mahoney may
+terminate this letter agreement upon thirty days notice to the Company. In May
+of 1999, Mr. Mahoney received $48,000 in consideration of the mutually agreed
+upon termination of his prior employment agreement with the Company.
+
+Effective April 21, 1999, the Company entered into three-year employment
+agreements with Frank DeLape and Richard Young pursuant to which such
+individuals were entitled to annual salaries of $250,000 and $135,000,
+respectively. Pursuant to such agreements, Mr. DeLape served as the Chairman of
+the Board and Chief Executive Officer of the Company and Mr. Young served as the
+President and Chief Operating Officer of the Company. The options granted to
+Messrs. DeLape (400,000 options) and Young (250,000 options) during 1999 were
+granted pursuant to their employment agreements. On November 20, 2000, the
+Company and Messrs. DeLape and Young entered into the Transition Agreement. The
+Transition Agreement was consummated in order to effectuate an agreed upon
+change of management.
+
+The Transition Agreement provided for, among other things, the termination of
+the existing employment and stock option agreements between the Company and
+Frank DeLape and Richard Young, the issuance to Frank DeLape of 24,000 shares of
+the Company's common stock (valued at $51,000) in consideration of the return
+and cancellation of certain stock options previously issued to Frank DeLape by
+the Company, the payment to Richard Young of $60,000 of severance compensation
+and $60,000 as compensation for consulting services to be provided during the
+first 90 days after the execution of the Transition Agreement and the
+resignation of Frank DeLape, Richard Young and Steve Jones as officers and
+directors of the Company and all of its subsidiaries.
+
+Contemporaneously with Seymour Richter's resignation as an officer and director
+of the Company in April 1999, Mr. Richter and the Company entered into a
+consulting agreement for a nine-month period expiring in December 1999. Pursuant
+to such agreement, Mr. Richter received $56,000 in consulting fees and $5,000
+for continued medical benefits.
+
+
+Page 21
+
+<PAGE>
+
+Item 11. Security Ownership of Certain Beneficial Owners and Management
+
+The following table sets forth certain information regarding the beneficial
+ownership of our Common Stock as of December 31, 2000 by: (i) each of our
+executive officers and directors; (ii) each person whom we know to be the
+beneficial owner of more than 5% of our outstanding Common Stock; and (iii) all
+of our officers and directors as a group.
+
+Unless otherwise indicated, to our knowledge, all persons listed below have sole
+voting and investment power with respect to their shares of Common Stock, except
+to the extent applicable law gives spouses shared authority. Any shares of
+Common Stock that an individual or group has the right to acquire within sixty
+(60) days after December 31, 2000 pursuant to the exercise of warrants or
+options are deemed to be outstanding for the purpose of computing the percentage
+ownership of such person or group, but are not deemed outstanding for the
+purpose of calculating the percentage owned by any other person listed below.
+
+                                             Amount                Percent
+                                           and Nature                of
+                                               of                  Common
+                                           Beneficial              Stock
+Name and address of Beneficial Owner          Owner             Outstanding(1)
+- ------------------------------------       ----------           --------------
+Officers and Directors:
+ Theodore B. Shapiro
+ 3505 S. Ocean Blvd.
+ Highland Beach, FL 33487                       --                     --
+
+ Edward D. Bright
+ 33 Harbor Drive West
+ Blue Point, NY 11715                          579                     (4)
+Officer and directors as
+ a group (2 persons)                           579                     (4)
+
+Other Beneficial Owners:
+ Technology Acq., Ltd.
+ 700 Gemini Street
+ Houston, Texas 77058                      266,667                   16.0%(2)
+
+ Frank DeLape
+ 700 Gemini Street
+ Houston, Texas 77058                      290,667(2)                17.5%(3)
+
+(1) The "Percent of Common Stock Outstanding" is based on the 1,664,343 shares
+of Common Stock currently outstanding and the assumption that the related
+beneficial owner had converted or exercised all potential Common Stock related
+to that beneficial owner.
+
+(2) Represents 266,667 shares of Common Stock owned by TAL.
+
+(3) Represents 24,000 shares owned by Frank DeLape and 266,667 shares owned by
+TAL. Mr. DeLape is the chief executive officer of TAL and may have, or be deemed
+to have, beneficial ownership of such shares.
+
+(4) Less than 1%.
+
+
+Page 22
+
+<PAGE>
+
+Item 12. Certain Relationships and Related Transactions
+
+In 1997, SISC sold 258,333 common shares of Trans Global to Joseph Sicinski, the
+president of Trans Global, for $1.67 per share, the fair market value of the
+Trans Global common stock on the date of sale. Payment by Joseph Sicinski for
+such shares is evidenced by his $420,000, non-interest bearing, promissory note
+due in 2002, the Sicinski Note. Pursuant to the terms of the Sicinski Note, the
+Company's only recourse against Sicinksi is the underlying shares which he
+purchased. Based on the significant decrease in the value of the underlying
+Trans Global shares, the Company recorded a reserve of $420,000 on December 31,
+2000.
+
+In March 1999, the Company entered into an agreement with TAL, pursuant to which
+the Company sold its 67% equity interest in Arc Networks to TAL for $850,000.
+The sale was completed in June 1999.
+
+On April 20, 1999, TAL purchased 266,667 shares, or approximately 16% of the
+outstanding shares of the Company's Common Stock, from nine shareholders of the
+Company in a private transaction, for an aggregate purchase price of $2,000,000
+or $7.50 per share. Contemporaneously with such purchase, TAL was also granted
+options to purchase an aggregate of additional 266,660 shares of the Company's
+Common Stock from six other shareholders of the Company, such options having a
+term of 13 months and providing for an aggregate exercise price of $2,799,925 or
+$10.50 per share. Such options expired unexercised.
+
+In April and June 1999, the Company sold an aggregate of 792,624 shares of the
+common stock of Netsmart owned by it to a group of investors, including certain
+officers and directors of Netsmart, pursuant to a March 25, 1999 agreement
+between the Company, Netsmart, and such investors. All of such shares were sold
+at $2.014 per share. Edward D. Bright purchased 62,500 of such shares on the
+same terms as the other investors.
+
+The Company and Trans Global entered into an agreement whereby in May 1999, the
+Company transferred 1,150,000 shares of Trans Global's common stock owned by it
+to Trans Global and Trans Global transferred all of the Series G 2% Cumulative
+Redeemable Preferred Stock of the Company that it owned to the Company and
+cancelled accrued dividends thereon of approximately $140,000 and intercompany
+debt obligations of approximately $326,000 owed by the Company to Trans Global.
+
+On June 10, 1999 the Company executed an agreement between the Company and
+Benchmark, (the "Expense Sharing Agreement") whereby the Company agreed to
+reimburse Benchmark for its allocable portion of certain shared office and
+administrative support services. Pursuant to the Transition Agreement, the
+Expense Sharing Agreement was terminated on November 20, 2000. For 2000 and
+1999, the Company paid Benchmark $69,000 and $117,000, respectively, pursuant to
+the agreement and during 1999 the Company paid an additional $29,000 for
+reimbursement of a portion of the March 1999 and April 1999 salaries that
+Benchmark had paid to Frank DeLape, Richard Young and Mathew Finch.
+
+During 1999, the Company paid Frank DeLape $11,000 for furniture and leasehold
+improvements sold by him to the Company.
+
+On September 7, 1999, the Company acquired 100,000 shares of the 12% convertible
+preferred stock of Gavelnet (the "Gavelnet Shares") for $950,000. Concurrent
+with the Company's investment in Gavelnet, TAL invested $1 million in Gavelnet
+on substantially the same terms. Prior to the Company's investment in Gavelnet,
+certain affiliates and related parties of Benchmark acquired approximately 4.1
+million common shares, on a fully diluted basis, of Gavelnet for financial
+investment and other services that enabled Gavelnet to satisfy certain criteria
+in validating its business model. Benchmark is a privately held
+
+
+Page 23
+
+<PAGE>
+
+company wholly owned by Frank DeLape, Sagemark's Chief Executive Officer and
+Chairman of the Board from April 20, 1999 until November 20, 2000, which also
+owns 100% of TAL's voting stock. In September 2000, the Company recorded a
+permanent investment write-off of its $950,000 investment as a result of its
+review of the realizable value of the Gavelnet Shares. On November 20, 2000, the
+Company sold the Gavelnet Shares.
+
+On January 1, 2000, the Company entered into an agreement with Sagemark
+Management (the "Management Agreement") whereby Sagemark Management agreed to
+reimburse the Company for certain employee and other expenses incurred on behalf
+of Sagemark Capital not to exceed $46,875 per month. Pursuant to the General
+Partner Letter Agreement, the Management Agreement was terminated on November
+20, 2000. During 2000, Sagemark Management paid the Company $477,000 during the
+time period in which the Management Agreement was in effect.
+
+In March 2000, the Company loaned JewelersEdge $250,000 pursuant to a note
+bearing interest at 13% per annum with principal due thirteen months from the
+date of execution. In June 2000, the Company advanced JewelersEdge $3,000
+pursuant to a convertible note receivable. Mr. Frank DeLape, is the beneficial
+owner of 24.3% of the common stock of JewelersEdge, and is a director of
+JewelersEdge. During 2000 the Company earned $26,000 of interest income and
+$10,000 of financing fees pursuant to the JewelersEdge note. As of December 31,
+2000, the outstanding principal and accrued interest owed on the JewlersEdge
+note receivable aggregated $280,000. On February 14, 2001, the Company received
+notification from JewlersEdge that, among other things, it had discontinued its
+operations. As a result, effective December 31, 2000, the Company recorded a
+reserve of $280,000, representing all amounts owed to the Company by
+JewelersEdge. In March 2000, the Company received warrants to purchase 137,500
+shares of JewelersEdge common stock (the "JewelersEdge Shares") in connection
+with the loan made to JewelersEdge. Prior to September 30, 2000 the Company
+exercised such warrant and purchased the shares at a nominal price.
+
+On September 6, 2000 the Company received from Arc $3,053,000 representing
+payment of all principal and accrued interest then due from Arc pursuant to
+Arc's outstanding promissory note to the Company. During 1999, the Company
+received warrants to purchase common stock of InfoHighway Communications
+Corporation ("InfoHighway"), Arc's parent, in consideration for the Company's
+extending the repayment date of the Arc note. Such warrants were sold to
+InfoHighway in September 2000 for $369,000. In connection with the Arc note the
+Company earned interest income of $287,000 and $170,000 for 2000 and 1999,
+respectively, and earned financing fees of $75,000 and $27,000 for 2000 and
+1999, respectively. Trans Global was the holder of a $1.2 million promissory
+note issued by Arc. The Company guaranteed the outstanding indebtedness of Arc
+to Trans Global under such note. On September 6, 2000, InfoHighway paid, on
+behalf of Arc, all outstanding indebtedness of Arc to Trans Global. Effective
+upon such payments by InfoHighway, the Company's aforementioned guaranties were
+canceled and are no longer in force or effect. Prior to InfoHighway's payment of
+Arc's obligation to Trans Global, the Company transferred to Trans Global, in
+consideration of Trans Global's extension of the maturity of said debt, 50,000
+shares of its Trans Global common shares owned by it which was valued at
+$56,000.
+
+Pursuant to the terms of the limited partnership agreement dated November 30,
+1999, between the Company and Sagemark Management, (the "Sagemark Capital
+Partnership Agreement"), the Company is committed to make $4,920,000 in capital
+contributions to Sagemark Capital. As of December 31, 2000, the Company has paid
+on such commitments $4,587,000 (of which $1,577,000 represents the fair value of
+marketable securities transferred to Sagemark Capital, $557,000 represents
+expenses paid on behalf of Sagemark Capital in 1999 and $2,453,000 represents
+cash payments made to Sagemark Capital during 2000), leaving a subscription
+payable balance of $333,000. Pursuant to the Transition, the Company entered
+into an agreement with Sagemark Management on November 20, 2000 (the "General
+Partner Letter Agreement") whereby Sagemark Management in its capacity as
+general
+
+
+Page 24
+
+<PAGE>
+
+partner of Sagemark Capital, agreed not to seek to have the Company contribute
+the $333,000 balance of its $4,920,000 capital contribution commitment until the
+following conditions occur: (i) All other limited partners of Sagemark Capital
+must fund the same percentage of their total capital contribution commitment as
+the Company has funded; (ii) Sagemark Capital must have drawn down or otherwise
+received all funds to which the SBA determines it is entitled based upon
+Sagemark Capital's total capital contributions, calculated after condition (i)
+above has been met; and, (iii) all capital contributions and investment funds
+referred to in (i) and (ii) above must be fully invested by Sagemark Capital.
+The General Partner Letter Agreement also precludes Sagemark Management from
+offsetting any amounts owed by the Company to Sagemark Capital against the
+Company's capital account and requires Sagemark Management, upon written
+request, to appoint Theodore B. Shapiro to the advisory board of Sagemark
+Capital.
+
+On November 20, 2000, simultaneously with the execution of the Transition
+Agreement, the Company and Gemini VII, Inc. ("Gemini") entered into a stock
+purchase agreement pursuant to which Sagemark sold the Gavelnet and JewelersEdge
+Shares for $3,500,000 (the "Purchase Price"). Gemini is a company with
+negligible assets and liabilities which is owned by Frank DeLape and Richard
+Young. The Purchase Price was paid by Gemini's non-interest bearing,
+non-negotiable promissory note (the "Gemini Note") due on the later of November
+30, 2009 or the date of expiration of the term of the Sagemark Capital
+Partnership Agreement. The Gemini Note requires mandatory prepayments as
+follows: (i) if Sagemark Management receives distributions from Sagemark
+Capital, then 50% of such distributions must be prepaid on the Gemini Note (less
+any applicable taxes and less up to 33% of such distribution as may be payable
+to a member of Sagemark Management) or (ii) if Gemini receives proceeds from the
+sale of any or all of its shares of Gavelnet or JewlersEdge, the full extent of
+such proceeds must be used to prepay the Gemini Note. The Gemini Note is with
+recourse to Gemini only to the extent of any breach of such mandatory prepayment
+provisions and the principal amount of the Gemini Note will be reduced at the
+maturity date by an amount equal to the difference between such principal and
+the aggregate amount of all such distribution and sales proceeds actually
+received prior to the maturity date. The obligations of Gemini under the Gemini
+Note, to the extent that there is recourse against Gemini, is severally
+personally guaranteed by Frank DeLape and Richard Young, but only to the extent
+that either of such individuals receives the proceeds of any such distributions
+(less the amount of all applicable Federal, state and local taxes computed at
+the maximum applicable tax rate). There is no assurance that any such
+distribution or sale proceeds will be received or, if so, when and to what
+extent and as a result of such contingencies, the Company has not recorded any
+receivable or gain related to its sale of the Gavelnet and JewlersEdge Shares.
+
+As a part to the change in control and management of the Company, all furniture
+and fixtures of the Company as of November 20, 2000, the date of the Transition
+Agreement and Partnership Letter Agreement, were transferred to Sagemark
+Management. The net book value of the furniture and fixtures on November 20,
+2000 was $71,000. Pursuant to the Partnership Letter Agreement, Sagemark
+Management assumed all of the Company's capital lease obligations having a net
+present value of $3,000. As a result of the above, the Company recorded a loss
+on disposal of fixed assets of $68,000.
+
+Item 13. Exhibits and Reports on Form 8-K.
+
+(a) Exhibits - See Exhibit Index for the Exhibits filed as part of or
+incorporated by reference into this Report.
+
+(b) No reports on Form 8-K were filed during the 4th quarter of 2000.
+
+
+Page 25
+
+<PAGE>
+
+Signatures
+- ----------
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+THE SAGEMARK COMPANIES LTD.
+
+/s/ THEODORE B. SHAPIRO
+- --------------------------------
+Theodore B. Shapiro
+Chief Executive Officer, President and Director
+April 5, 2001
+
+In accordance with the Exchange Act, this report has been signed below by the
+following person on behalf of the registrant and in the capacities and on the
+dates indicated.
+
+/s/ THEODORE B. SHAPIRO
+- --------------------------------
+Theodore B. Shapiro
+Chief Executive Officer,
+President and Director
+April 5, 2001
+
+/s/ EDWARD D. BRIGHT
+- --------------------------------
+Edward D. Bright
+Chairman of the Board
+April 5, 2001
+
+/s/ GEORGE W. MAHONEY
+- --------------------------------
+George W. Mahoney
+Chief Financial Officer
+April 5, 2001
+
+
+Page 26
+
+<PAGE>
+
+Index to Exhibits
+- -----------------
+Exhibit No.   Description of Document
+- -----------   -----------------------
+(2), (10)     Form of Transition Agreement among the Registrant, Frank DeLape,
+               Richard Young and Edward D. Bright, individually and on behalf of
+               certain shareholders of the Registrant.(1)
+(2)           Letter of Intent Re: Sagemark Acquisition of Premier P.E.T.
+               Imaging International, Inc.
+(3)(i)        Certificate of Incorporation.(2)
+(3)(ii)       By-laws.(2)
+(10)          Form of Letter Agreement by and between The Sagemark Companies,
+               Ltd. and Sagemark Management.(1)
+(10)          Form of Promissory Note by and between Gemini VII, Inc. and the
+               Sagemark Companies, Ltd.(1)
+(10)          Form of Stock Purchase Agreement by and between Gemini VII, Inc.
+               and the Sagemark Companies, Ltd.(1)
+(10)          Form of Guaranty executed by Frank DeLape and Richard Young to be
+               dated November 20, 2000.(1)
+(21)          Subsidiaries of the Registrant.
+(99.1)        Financial Statements
+
+(1)  Incorporated by reference to Form 10-Q for the quarterly period ended
+     September 30, 2000.
+(2)  Filed as an exhibit to the Company's annual report on Form 10-K for the
+     fiscal year ended July 31, 1994 and incorporated herein by reference.
+(3) Filed with the Securities and Exchange Commission in electronic format only.
+
+
+Page 27
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>2
+<FILENAME>file002.txt
+<DESCRIPTION>EXHIBIT 2
+<TEXT>
+
+
+Exhibit (2)
+
+                          The Sagemark Companies, Ltd.
+           1285 Avenue of the Americas, 35th Floor, New York, NY 10019
+                    telephone 212.554.4219 - fax 212.554.4258
+
+
+
+                                 March 28, 2001
+
+
+Premier P.E.T. Imaging International, Inc.
+2300 Glades Road, Suite 100-W
+Boca Raton, FL 33431
+
+        Re: Sagemark Acquisition of Premier P.E.T. Imaging International, Inc.
+            ------------------------------------------------------------------
+
+Gentlemen:
+
+     This letter (the "Letter of Intent") will serve to confirm our
+understanding regarding the principal terms and conditions of the proposed
+acquisition of Premier P.E.T. Imaging International, Inc. and Premier Cyclotron
+International Corp. by The Sagemark Companies Ltd. This Letter of Intent does
+not contain all of the terms and conditions to be negotiated and agreed upon
+between the parties hereto with respect to such acquisition but is, to the
+extent provided herein, intended to be binding upon the parties hereto. The
+principal terms and conditions of our understanding and agreement with respect
+to such acquisition are as follows:
+
+1.   Parties to the Transaction. Premier P.E.T. Imaging International, Inc., a
+Delaware corporation with offices at 2300 Glades Road, Suite 100-W, Boca Raton,
+Florida 33431("Premier"), a corporation owned by the Selling Stockholders
+(hereinafter defined), was formed to own and operate outpatient diagnostic
+imaging centers (the "PET Centers") throughout the United States utilizing
+positron emission tomography scanning equipment ("PET Scanning Equipment").
+Premier Cyclotron International Corp., a Delaware corporation with offices at
+2300 Glades Road, Suite 100-W, Boca Raton, Florida 33431("PCI"), a corporation
+also owned by the Selling Stockholders, was formed to own and operate equipment
+which manufactures FDG and other radioisotopes utilized in the diagnostic
+imaging procedures performed by the PET Scanning Equipment.
+
+      Premier intends to own and operate the PET Centers through separate wholly
+owned subsidiary corporations. It intends to establish the first three PET
+Centers in Wichita, Kansas and at two other locations to be identified prior to
+or after the Closing Date (hereinafter defined). As of the date hereof, Premier
+has formed, and wholly owns, Premier P.E.T. Imaging of Wichita, Inc.
+
+
+Page 28
+
+<PAGE>
+
+Premier P.E.T. Imaging International, Inc.
+March 28. 2001
+Page 2
+
+
+     The Sagemark Companies, Ltd., a New York corporation with offices at 1285
+Avenue of the Americas, 35th Floor, New York, New York will purchase the
+Sellers' Shares from the Selling Shareholders (as such terms are hereinafter
+defined) and will be hereafter referred to as "Purchaser" or "Sagemark".
+
+     Dr. Stephen A. Schulman ("Schulman"), Tara Capital, Inc. ("Tara"), Robert
+L. Blessey ("Blessey") and Dr. Robert McFarland ("McFarland") are hereinafter
+collectively referred to as the "Selling Stockholders."
+
+2.   Stock Purchase Agreement. Purchaser and the Selling Stockholders will enter
+into a Stock Purchase Agreement (the "Agreement"), pursuant to which Purchaser
+will purchase from the Selling Stockholders all of the shares of the capital
+stock of Premier and PCI owned by each of them (the "Sellers' Shares") in
+exchange for shares of the common stock of Sagemark which are hereinafter
+referred to as the "Sagemark Shares." The Sagemark Shares will be allocated
+among the Selling Stockholders as follows:
+
+     Schulman  -    60.45% of the Sagemark Shares
+     Tara      -    16.275% of the Sagemark Shares
+     Blessey   -    16.275% of the Sagemark Shares
+     McFarland -    7% of the Sagemark Shares
+
+     On the Closing Date, Sagemark will issue to the Selling Stockholders an
+aggregate of 6,000 shares of its common stock (the "Initial Sagemark Shares").
+
+     In addition, the Selling Stockholders will also be entitled to receive
+additional shares of the common stock of Sagemark (the "Additional Sagemark
+Shares") pursuant to the Agreement in the following amounts upon the following
+occurrences:
+
+     If, and to the extent each of the first six PET Centers achieves positive
+EBITDA at any time during the first eighteen months of their operations,
+Sagemark will issue to the Selling Stockholders an aggregate of 250,000
+Additional Sagemark Shares for each of such Centers.
+
+     References herein to the term "Sagemark Shares" shall mean the Initial
+Sagemark Shares and the Additional Sagemark Shares.
+
+      The transaction contemplated by the Agreement will be structured and
+consummated as a tax-free exchange between the parties thereto. The date of
+closing under the Agreement will be referred to herein as the "Closing Date."
+
+     The Sagemark Shares will, upon the issuance thereof to the Selling
+Stockholders, be "restricted" securities as defined under the Federal securities
+laws and will be subject to the resale limitations of Rule 144 thereunder. The
+Selling Stockholders will have customary "piggy-back"
+
+
+Page 29
+
+<PAGE>
+
+Premier P.E.T. Imaging International, Inc.
+March 28. 2001
+Page 3
+
+
+registration rights and certain demand registration rights with respect to such
+shares as hereinafter provided.
+
+3.   Redemption. In the event that either all of the PET Centers discontinue
+their operations or are adjudicated bankrupt within two years after the Closing
+Date, Sagemark shall have the right to repurchase from the Selling Stockholders
+all of the Sagemark Shares owned by them for a purchase price of One Dollar
+($1.00).
+
+4.   Capital Contribution. On the Closing Date, Sagemark will provide working
+capital to Premier in the amount of $1,000,000, the proceeds of which will be
+used to establish and operate the PET Centers. To the extent required, Sagemark
+will guarantee Premier's obligations under any leasing or purchase agreement
+between Premier and the manufacturer or supplier of the PET Scanning Equipment
+or between Premier and any entity which provides financing for the acquisition
+of such PET Scanning Equipment (including DVI Financial Services, Inc.).
+
+      As part of the foregoing commitment, Sagemark will pay any commitment or
+similar fee to any entity (including DVI Financial Services, Inc.) which
+provides a financing commitment to Premier in connection with Premier's purchase
+of the first PET Scanning Equipment for its first PET Center at any time after
+the date hereof that such fee shall become due and payable. If Premier does not
+execute the Agreement for any reason other than the terms thereof not being
+consistent with the provisions of this Letter of Intent, Premier will repay to
+Sagemark any such commitment or similar fee that may have been paid or advanced
+by Sagemark pursuant to the provisions hereof. If Sagemark does not execute the
+Agreement for any reason other than the terms thereof not being consistent with
+the provisions of this Letter of Intent, Sagemark will forfeit, as liquidated
+damages, its right to require Premier to repay any such commitment or similar
+fee that may have been paid or advanced by Sagemark pursuant to the provisions
+hereof.
+
+5.   Registration Rights. Subject to Sagemark's right of redemption hereinabove
+provided, the owners of the Sagemark Shares will be granted customary
+"piggy-back" registration rights with respect to the Sagemark Shares. In the
+event that all of the Sagemark Shares are not registered within 18 months after
+the Closing Date, the owners of the Sagemark Shares will have one demand
+registration right with respect thereto.
+
+6.   Management. On the Closing Date, Dr. Stephen A. Schulman will be the Chief
+Executive Officer and Chairman of the Board of Directors of Premier pursuant to
+a three year Employment or Management Agreement to be entered into between Dr.
+Schulman and Premier (the "Schulman Agreement"). Dr. Schulman shall be entitled
+to such compensation thereunder as shall be approved by Sagemark, provided,
+however, that he will not be entitled to any compensation during the first year
+of the term thereof.
+
+
+Page 30
+
+<PAGE>
+
+Premier P.E.T. Imaging International, Inc.
+March 28. 2001
+Page 4
+
+
+7.   Conditions to Closing of Agreements.
+
+     (a) The approval of the Agreement by the respective Boards of Directors of
+Sagemark, on the one hand, and Premier and PCI, on the other hand.
+
+     (b) The absence of any material pending or threatened litigation against
+Sagemark, on the one hand, or Premier and PCI, on the other hand, and the
+absence of any liens or encumbrances on the capital stock of any of such
+entities.
+
+     (c)     Execution of the Schulman Agreement.
+
+     (d) The consummation of an agreement between Premier and DVI Financial
+Services, Inc. with respect to the financing for the lease or purchase of the
+PET Scanning Equipment for the first PET Center in Wichita, Kansas, in form and
+substance satisfactory to Sagemark.
+
+     (e) The consummation of an agreement between Premier and Premier Health
+Systems, Inc. with respect to the lease of the first PET Center to be located in
+Wichita, Kansas, including construction of the facility for Premier at such
+site, in form and substance satisfactory to Sagemark.
+
+     (f) Such evaluations and independent reports or opinions with respect to
+the transaction as Sagemark may require.
+
+     (g) Formation of a Medical Advisory Board for Premier, the members of which
+will be approved by Sagemark.
+
+     (h) Satisfactory due diligence inquiry by Sagemark of Premier and its
+proposed operations.
+
+8.   Public Announcements. There shall be no press release or other public
+announcement or disclosure of the transactions contemplated by this Letter of
+Intent without the prior written consent of Sagemark.
+
+9.   Brokers. There are no brokers or finders in connection with the proposed
+Agreements.
+
+10.  MISCELLANEOUS. This Letter of Intent (i) constitutes the sole and entire
+agreement between the parties hereto with respect to the subject matter hereof
+and supersedes all prior agreements and understandings between the parties
+hereto with respect to the subject matter hereof, (ii) may only be modified or
+waived by an instrument in writing signed by the party to be bound thereby,
+(iii) shall be binding upon and inure to the benefit of the parties hereto and
+their respective successors, heirs, personal representatives, administrators,
+executors, and permitted
+
+
+Page 31
+
+<PAGE>
+
+Premier P.E.T. Imaging International, Inc.
+March 28. 2001
+Page 5
+
+
+assigns, and (iv) shall be governed by and construed in accordance with the
+internal laws of the State of New York.
+
+     The Letter of Intent sets forth the principal terms and conditions of the
+proposed acquisition of Premier and PCI by Sagemark and is binding upon the
+parties hereto. Notwithstanding the foregoing, in the event that Sagemark is not
+satisfied, for any reason, with its due diligence inquiries with respect to
+Premier and PCI and their proposed operations at any time after the date hereof
+or, in the event that Sagemark does not execute the Agreement, for any reason,
+Sagemark shall have no obligations under this Letter of Intent or otherwise with
+respect to such proposed acquisition. If the foregoing accurately reflects our
+understanding and agreement with respect to the foregoing transaction, please
+execute this Letter of Intent in the space provided below and return same to the
+undersigned on or before March 30, 2001.
+
+                                    Very truly yours,
+
+                                    THE SAGEMARK COMPANIES LTD.
+
+
+                                    By: /s/ EDWARD D. BRIGHT
+                                        ---------------------------------------
+                                        Edward D. Bright, Chairman of the Board
+
+AGREED TO AND ACCEPTED
+this 28th day of March, 2001
+
+PREMIER P.E.T. IMAGING INTERNATIONAL, INC.
+
+
+By: /s/ DR. STEPHEN SCHULMAN
+    ---------------------------------
+    Dr. Stephen Schulman
+    Chairman of the Board and
+    Chief Executive Officer
+
+
+PREMIER CYCLOTRON INTERNATIONAL CORP.
+
+
+By: /s/ DR. STEPHEN SCHULMAN
+    ---------------------------------
+    Dr. Stephen Schulman
+    Chairman of the Board and
+    Chief Executive Officer
+
+
+Page 32
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<FILENAME>file003.txt
+<DESCRIPTION>EXHIBIT 21
+<TEXT>
+
+
+Exhibit (21) List of Subsidiaries of the Registrant
+
+
+                                      State of
+Company                             Incorporation
+- ----------------                    -------------
+SIS Capital Corp.                   Delaware
+
+
+There are no other subsidiaries with significant operations or liabilities.
+However, one subsidiary (also no longer active) is involved in litigation as
+discussed in Part I, Item 3. "Legal Proceedings."
+
+
+Page 33
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>file004.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+
+
+Exhibit (99.1)
+Consolidated Financial Statements
+
+
+The following exhibit comprises the Financial Statements and Supplementary Data
+as specified by Item 7 of Part II of Form 10-KSB.
+
+
+Page 34
+
+<PAGE>
+
+                   The Sagemark Companies, Ltd. and Subsidiary
+                        Consolidated Financial Statements
+                                December 31, 2000
+
+
+
+Page F-1
+<PAGE>
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+To the Board of Directors and Shareholders of
+The Sagemark Companies Ltd.
+New York, New York
+
+
+We have audited the accompanying consolidated balance sheet of The Sagemark
+Companies Ltd. and its subsidiary as of December 31, 2000, and the related
+consolidated statements of operations, comprehensive income (loss),
+shareholders' equity (deficit), and cash flows for each of the two years in the
+period ended December 31, 2000. These consolidated financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the consolidated financial statements. An audit also includes assessing the
+accounting principles used and significant estimates made by management as well
+as evaluating the overall consolidated financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of The
+Sagemark Companies Ltd. and its subsidiary as of December 31, 2000, and the
+consolidated results of their operations and their cash flows for each of the
+two years in the period ended December 31, 2000, in conformity with accounting
+principles generally accepted in the United States of America.
+
+
+
+
+MOORE STEPHENS, P.C.
+Certified Public Accountants,
+
+Cranford, New Jersey
+March 16, 2001
+[except for Note 20, as to which the date is March 28, 2001]
+
+
+Page F-2
+
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Balance Sheet
+As of December 31, 2000
+- ---------------------------------------------------------------------------
+
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents                                      $  2,907,000
+Marketable securities, current                                        3,000
+- ---------------------------------------------------------------------------
+Total current assets                                              2,910,000
+Marketable securities                                                 9,000
+Investment in unconsolidated affiliate                            3,410,000
+- ---------------------------------------------------------------------------
+TOTAL ASSETS                                                   $  6,329,000
+===========================================================================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Accounts payable                                               $    194,000
+Accrued payroll                                                      32,000
+Income taxes payable                                                  2,000
+Accrued dividends                                                    44,000
+- ---------------------------------------------------------------------------
+Total current liabilities                                           272,000
+- ---------------------------------------------------------------------------
+
+COMMITMENTS AND CONTINGENCIES (footnotes 10 and 18)
+
+SHAREHOLDERS' EQUITY
+Preferred stock, par value $0.01 per share                            3,000
+Common stock, par value $0.01 per share,
+ (25,000,000 shares authorized, 1,664,343
+ shares issued 1,584,247 shares outstanding
+ as of December 31, 2000)                                            17,000
+Additional paid-in-capital, common stock                         58,205,000
+Accumulated other comprehensive loss                                (22,000)
+Accumulated deficit                                             (51,899,000)
+Less common stock in treasury, at cost                             (247,000)
+- ---------------------------------------------------------------------------
+Total shareholders' equity                                        6,057,000
+- ---------------------------------------------------------------------------
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                     $  6,329,000
+===========================================================================
+
+See Notes to Consolidated Financial Statements.
+
+
+Page F-3
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Statements of Operations
+Years Ended December 31,                                  2000           1999
+- -----------------------------------------------------------------------------
+
+Management fees, related party                     $   477,000    $        --
+Loan interest, related party                           313,000        170,000
+Loan interest, other                                     2,000         14,000
+Loan financing fees, related party                      85,000         27,000
+Loan financing fees, other                                  --         15,000
+- -----------------------------------------------------------------------------
+Total revenue                                          877,000        226,000
+- -----------------------------------------------------------------------------
+Operating expenses:
+ Salaries, payroll taxes and fringe benefits           785,000        693,000
+ Related party bad debt                                700,000             --
+ Professional fees                                     498,000        919,000
+ Other general and administrative expenses             324,000        554,000
+ Executive contract termination expense                171,000        108,000
+ Consulting fees                                       140,000         18,000
+ Settlement costs                                           --         38,000
+- -----------------------------------------------------------------------------
+Total operating expenses                             2,618,000      2,330,000
+- -----------------------------------------------------------------------------
+Loss from operations                                (1,741,000)    (2,104,000)
+Gain (loss) on sale of marketable securities,
+ related party                                        (125,000)     2,624,000
+Gain on sale of marketable securities, other           118,000        172,000
+Gain on sale of related party
+ non marketable securities                             369,000             --
+Loss from permanently impaired investments            (950,000)            --
+Interest income, investments                            53,000         60,000
+Loss on disposal of fixed assets                       (68,000)            --
+Value of marketable securities issued to a
+ related party to extend debt guarantees               (56,000)            --
+Interest expense                                        (4,000)        (5,000)
+Other income                                            48,000          3,000
+- -----------------------------------------------------------------------------
+Income (loss) from continuing operations
+ before minority interest, share of income
+ of unconsolidated affiliate and income taxes       (2,356,000)       750,000
+Minority interest in income of subsidiaries                 --       (296,000)
+Share of income (loss) of unconsolidated affiliates   (620,000)       113,000
+Income tax expense                                      (3,000)       (25,000)
+- -----------------------------------------------------------------------------
+Income (loss) from continuing operations            (2,979,000)       542,000
+Discontinued operations:
+ Income from operations of discontinued segments            --        638,000
+ Gain on disposal of segments
+  (net of taxes of $31,000 for 1999)                        --      8,730,000
+- -----------------------------------------------------------------------------
+Net income (loss)                                  $(2,979,000)   $ 9,910,000
+=============================================================================
+                                                                   (continued)
+See Notes to Consolidated Financial Statements.
+
+
+Page F-4
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Statements of Operations
+Years Ended December 31,                                  2000           1999
+- -----------------------------------------------------------------------------
+
+Amounts available to common shareholders:
+Income (loss) from continuing operations, less
+ preferred dividends of $22,000 for 1999           $(2,979,000)   $   520,000
+
+Net income (loss) less preferred dividends
+ of $22,000 for 1999                               $(2,979,000)   $ 9,888,000
+
+Weighted average common shares outstanding           1,563,001      1,563,579
+
+Basic and diluted income (loss) per common share:
+ Income (loss) from continuing operations          $     (1.91)   $      0.33
+ Income from operations of discontinued segment             --           0.41
+ Gain on disposal of segments                               --           5.58
+- -----------------------------------------------------------------------------
+ Net income (loss)                                 $     (1.91)   $      6.32
+=============================================================================
+                                                                   (concluded)
+See Notes to Consolidated Financial Statements.
+
+
+Page F-5
+
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Statements of Comprehensive Income (Loss)
+Years Ended December 31,                                  2000            1999
+- ------------------------------------------------------------------------------
+
+Net income (loss)                                  $(2,979,000)    $ 9,910,000
+- ------------------------------------------------------------------------------
+Other comprehensive income (expense):
+ Unrealized holding gains (losses) on
+  available for sale securities                        (11,000)      1,357,000
+ Reversal of net unrealized holding loss
+  (gain) on sale of securities                         265,000      (1,685,000)
+- ------------------------------------------------------------------------------
+   Total unrealized investment holding
+    income (expense)                                   254,000        (328,000)
+- ------------------------------------------------------------------------------
+Comprehensive income (loss)                        $(2,725,000)    $ 9,582,000
+==============================================================================
+
+See Notes to Consolidated Financial Statements.
+
+
+Page F-6
+
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Statements of Cash Flows
+Years Ended December 31,                                  2000           1999
+- -----------------------------------------------------------------------------
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+Income (loss) from continuing operations           $(2,979,000)   $   542,000
+Gain on disposal of segments                                --      8,730,000
+- -----------------------------------------------------------------------------
+                                                    (2,979,000)     9,272,000
+Adjustments to reconcile income (loss) from
+ continuing operations to net cash
+ used in continuing operations:
+  Gain on disposal of segments                              --     (8,730,000)
+  (Gain) loss on sale of marketable securities,
+   related party                                       125,000     (2,624,000)
+   Gain on sale of marketable securities, other       (118,000)      (172,000)
+   Gain on sale of related party non marketable
+     Securities                                       (369,000)            --
+   Loss from permanently impaired investments          950,000             --
+   Loss on disposal of fixed assets                     68,000             --
+   Value of marketable securities issued to a
+    related party to extend debt guarantees             56,000             --
+   Stock compensation portion of executive contract
+    termination expense                                 51,000             --
+   Related party bad debt expense                      700,000             --
+   Depreciation and amortization                         9,000          8,000
+   Minority interest in income of subsidiaries              --        296,000
+   Share of (income) loss of unconsolidated
+    Affiliates                                         620,000       (113,000)
+   Other non-cash components of operating activities  (27,000)             --
+   Change in assets and liabilities:
+    (Increase) decrease in assets:
+     Other current assets                               32,000        (15,000)
+    Increase (decrease) in liabilities:
+     Accounts payable                                   13,000       (271,000)
+     Accrued litigation settlement costs                    --       (843,000)
+     Accrued payroll and related expenses               28,000        (27,000)
+     Accrued interest                                   (8,000)         3,000
+     Income taxes payable                              (46,000)       (53,000)
+- -----------------------------------------------------------------------------
+Net cash used in continuing operations                (895,000)    (3,269,000)
+- -----------------------------------------------------------------------------
+Income from operations of discontinued segments             --        638,000
+Adjustments to reconcile income from
+ discontinued operations to net cash
+ used by discontinued operations:
+  Net change in assets and liabilities                      --       (680,000)
+  Depreciation and amortization                             --             --
+Net cash used in discontinued operations                    --        (42,000)
+- -----------------------------------------------------------------------------
+Net cash used in operating activities                 (895,000)    (3,311,000)
+- -----------------------------------------------------------------------------
+                                                                   (continued)
+See Notes to Consolidated Financial Statements.
+
+
+Page F-7
+
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Statements of Cash Flows
+Years Ended December 31,                                  2000           1999
+- -----------------------------------------------------------------------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+Proceeds from sale of marketable securities,
+ related party                                         338,000      3,497,000
+Proceeds from sale of marketable securities, other     309,000      9,052,000
+Proceeds from sale of related party
+ non marketable securities                             369,000             --
+Investment in marketable securities                         --     (5,607,000)
+Investment in related party
+ non marketable securities                                  --       (950,000)
+Subscription payments for investment in
+ unconsolidated affiliate                           (2,453,000)            --
+Collections from notes receivable repayments,
+ related party                                       3,828,000         36,000
+Collections from notes receivable
+ repayments, other                                     689,000             --
+Advances made on notes receivable,
+ related party                                      (1,132,000)      (868,000)
+Advances made on notes receivable, other                    --       (689,000)
+Net proceeds from disposal of segments                      --        855,000
+Capital expenditures                                    (5,000)       (79,000)
+- -----------------------------------------------------------------------------
+Net cash provided by investing activities            1,943,000      5,247,000
+- -----------------------------------------------------------------------------
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+Purchase treasury stock                                     --       (129,000)
+Payment of discontinued segments debt obligations           --        (93,000)
+Payment for fractional shares upon 1-for-30
+ reverse split                                              --        (33,000)
+Payments on capital lease obligations                   (1,000)            --
+- -----------------------------------------------------------------------------
+Net cash used in financing activities                   (1,000)      (255,000)
+- -----------------------------------------------------------------------------
+Net increase in cash and cash equivalents            1,047,000      1,681,000
+Cash and cash equivalents at beginning of year       1,860,000        179,000
+- -----------------------------------------------------------------------------
+Cash and cash equivalents at end of year           $ 2,907,000    $ 1,860,000
+=============================================================================
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Cash paid during the year for:
+Interest                                           $    12,000    $     2,000
+
+Income taxes                                       $    49,000    $   109,000
+- -----------------------------------------------------------------------------
+                                                                   (continued)
+See Notes to Consolidated Financial Statements.
+
+
+Page F-8
+
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Statements of Cash Flows
+Years Ended December 31, 2000 and 1999
+- -----------------------------------------------------------------------------
+
+SUPPLEMENTAL DISCLOSURES OF NON CASH INVESTING AND FINANCING ACTIVITIES
+
+During the year ended December 31, 2000:
+
+In connection with the resignation of an officer of the Company, such officer
+received 24,000 shares of the Company's Common Stock, having a value of $51,000.
+This non-cash executive termination expense was charged to operations for 2000.
+
+In consideration of Trans Global's extension of a debt guarantee which the
+Company had previously given to Trans Global on obligations owed to Trans Global
+by Arc, the Company transferred to Trans Global, shares of Trans Global's common
+stock which the Company then owned having a value of $56,000.
+
+During 2000, the Company transferred marketable securities valued at $1,577,000
+to Sagemark Capital in payment of a portion of its capital contribution
+commitment owed to Sagemark Capital.
+
+During the year ended December 31, 1999:
+
+As of December 31, 1998, Arc Networks was a consolidated subsidiary and a $2
+million note receivable balance, advanced by the Company to Arc Networks, was
+eliminated in consolidation. As of December 31 1999, the Company has sold all of
+its equity investment in Arc Networks, and accordingly, the note receivable
+balance was not eliminated, resulting in a non-cash increase in notes receivable
+for 1999.
+
+During 1999, the Company capitalized a lease obligation having a net present
+value approximating $4,000, resulting in a non-cash increase to furniture and
+fixtures.
+
+                                                                  (concluded)
+See Notes to Consolidated Financial Statements.
+
+
+Page F-9
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+The Sagemark Companies Ltd. and Subsidiary
+Consolidated Statements of Shareholders' Equity (Deficit)
+Years Ended December 31, 1998 through December 31, 2000
+- ----------------------------------------------------------------------------------------------------------------------
+                                                            Addi-   Accumulated
+                     Pref-                                 tional     Other                                  Total
+                     erred     Common            Common    Paid-in    Compre-                    Less        Share-
+                     Shares    Shares    Pref-   Stock,    Capital,   hensive      Accumu-      Common       holders'
+                      Out-      Out-     erred   Par       Common,    Income       lated       Stock in      Equity
+                    standing  standing   Stock   Value     Stock      (Loss)      Deficit      Treasury     (Deficit)
+- ----------------------------------------------------------------------------------------------------------------------
+<S>                   <C>    <C>        <C>    <C>      <C>           <C>      <C>            <C>          <C>
+BALANCE,
+ December 31, 1998    2,962  1,635,133  $3,000 $16,000  $58,188,000   $52,000  $(58,808,000)  $(118,000)   $ (667,000)
+Fractional shares
+ adjustment and
+ payment on
+ 1-for-30
+ reverse split          --      5,210      --       --      (33,000)       --            --          --       (33,000)
+Unrealized Investment
+ Holding Losses         --         --      --       --           --  (328,000)           --          --      (328,000)
+Net income              --         --      --       --           --        --     9,910,000          --     9,910,000
+Preferred Dividends     --         --      --       --           --        --       (22,000)         --       (22,000)
+Cost of treasury
+ shares acquired        --         --      --       --           --        --            --    (129,000)     (129,000)
+- ----------------------------------------------------------------------------------------------------------------------
+BALANCE,
+ December 31, 1999   2,962  1,640,343   3,000   16,000   58,155,000  (276,000)  (48,920,000)   (247,000)    8,731,000
+Issuance of common
+ shares to officer
+ upon his resignation   --     24,000      --    1,000       50,000        --            --          --        51,000
+Unrealized Investment
+ holding gains          --         --      --       --           --   254,000            --          --       254,000
+Net loss                --         --      --       --           --        --    (2,979,000)         --    (2,979,000)
+- ----------------------------------------------------------------------------------------------------------------------
+BALANCE,
+ December 31, 200    2,962  1,664,343  $3,000  $17,000  $58,205,000  $(22,000) $(51,899,000)  $(247,000)   $6,057,000
+======================================================================================================================
+</TABLE>
+
+See Notes to Consolidated Financial Statements.
+
+
+Page F-10
+<PAGE>
+
+The Sagemark Companies Ltd. and Subsidiary
+Notes to Consolidated Financial Statements
+Years Ended December 31, 2000 and 1999
+- ------------------------------------------------------------------------------
+
+(1) Summary of Significant Accounting Policies
+
+Nature of Operations
+
+The Sagemark Companies Ltd. ("Sagemark", the "Company" or the "Registrant"),
+(formerly Consolidated Technology Group Ltd., formerly Sequential Information
+Systems, Inc.) is a New York corporation organized in 1961. The Company is a
+publicly held holding company which had controlling interests, (either directly
+or indirectly through its wholly owned subsidiary, SIS Capital Corp. ("SISC")),
+in consolidated subsidiaries operating in various business segments throughout
+the United States. During the period from 1997 through 1999, the Company
+discontinued all such operating segments.
+
+During 2000 Sagemark operated as a financial services company and through
+Sagemark Capital LP ("Sagemark Capital"), a partnership in which Sagemark holds
+a 61.5% limited partnership interest, made investments and loans to companies
+engaged in e-commerce, telecommunications, and human resources outsourcing.
+Sagemark Capital operates as a Small Business Investment Company ("SBIC")
+pursuant to a license awarded to it by the Small Business Administration ("SBA")
+on May 23, 2000.
+
+In addition to its investments made through Sagemark Capital, in 1999 and 2000
+Sagemark made non-controlling, direct investments and loans to two privately
+held e-commerce companies, Gavelnet.com, Inc. ("Gavelnet") and JewlersEdge.com,
+Inc. ("JewlersEdge").
+
+On November 20, 2000, the Company entered into an agreement that, among other
+things, effectuated an agreed upon change of management (see footnote (2)
+"Change of Control and Management of the Company"). Simultaneously with the
+execution of such agreement, Sagemark entered into a purchase agreement whereby
+it sold all of its equity interest in Gavelnet and JewelersEdge to a company
+owned by members of the former management team (see footnote (7) "Investments in
+Related Party Non Marketable Securities").
+
+As more fully described in footnote (20) "Subsequent Events", on March 28, 2001
+the Company entered into a Letter of Intent in order to confirm the principal
+terms and conditions of a proposed acquisition of Premier P.E.T. Imaging
+International, Inc. ("Premier") and Premier Cyclotron International Corp.
+("PCI") by the Company. Premier was formed to engage in the ownership and
+operation of outpatient diagnostic imaging centers throughout the United States
+utilizing positron emission tomography scanning equipment ("PET Scanning
+Equipment"). PCI was formed to own and operate equipment which manufactures
+flouro-deoxy-glucose and other radioisotopes utilized in the diagnostic imaging
+procedures performed by the PET Scanning Equipment.
+
+Until such time, if ever, that the proposed acquisition of Premier and PCI is
+consummated, or until such time as the Company acquires or organizes another
+operating entity, it will have no operating entity. In the absence of an
+applicable exemption or administrative relief, the Company might be required to
+register as an investment company under the Investment Company Act of 1940, as
+amended (the "1940 Act"), because more than 40% of the value of its assets
+exclusive of government securities, cash and temporary investments would be
+deemed invested in securities of companies which are not majority owned
+subsidiaries of the Company. The Company would then be subject to the
+restrictions and limitations imposed by the 1940 Act on the activities of
+registered investment companies, which may have a material adverse affect on the
+Company.
+
+
+Page F-11
+
+<PAGE>
+
+Principles of Consolidation - The accompanying consolidated financial statements
+include the accounts of the Company and its wholly owned subsidiary SISC. The
+Company's limited partnership investment in Sagemark Capital is accounted by the
+equity method because the Company no longer has effective control. All
+significant intercompany balances and transactions have been eliminated.
+
+Cash and Cash Equivalents - The Company considers all highly liquid instruments
+purchased with an original maturity of three months or less to be cash
+equivalents. As of December 31, 2000, all of the Company's cash and cash
+equivalents represent bank deposits.
+
+Marketable Securities - All of the Company's investments that are classified as
+marketable securities have readily determinable fair values, are categorized as
+available-for-sale and are recorded at fair value. Unrealized gains and losses
+are recorded as a separate component of stockholders' equity and are included in
+the statement of other comprehensive income (loss). Additionally,
+available-for-sale investments that are deemed to be permanently impaired are
+written down to fair market value and such write down is charged to earnings as
+a realized loss. As of December 31, 2000 the marketable securities that are
+classified as current assets represent the fair market value of the Companies
+freely tradable shares of Trans Global Services, Inc. and the marketable
+securities classified as long-term assets represent the fair market value of the
+Companies restricted shares of Quest Products, Inc.
+
+Long-Lived Assets - Long-lived assets are reviewed for possible impairment
+whenever events or changes in circumstances indicate that the carrying amount of
+such assets may not be recoverable. If such review indicates that the carrying
+amount of long-lived assets is not recoverable, the carrying amount of such
+assets is reduced to the estimated recoverable value. Based on this evaluation,
+as of December 31, 2000, the balances as reported in the accompanying balance
+sheet are expected to be fully recoverable. However, it is at least reasonably
+possible that management's estimate of future recoverability may change in the
+near term, thus resulting in an acceleration in or complete write-off of certain
+long-lived assets. On September 30, 2000 the Company wrote-off its $950,000
+investment in Gavelnet.
+
+Revenue Recognition - The Company recognized management fees pursuant to the
+terms of an agreement between the Company and Sagemark Capital's general
+partner, Sagemark Management, LLC ("Sagemark Management") (see footnote (17)
+"Related Party Transactions"). The Company recognizes loan financing fees and
+loan interest income pursuant to the terms of the underlying loan agreements.
+
+Income Taxes - The Company accounts for income taxes using the asset and
+liability approach. The measurement of deferred tax assets is reduced, if
+necessary, by the amount of any tax benefits that, based on available evidence,
+management does not expect to be realized.
+
+Basic and Diluted Earnings (Loss) Per Share -Basic earnings (loss) per share
+reflects the amount of earnings or loss for the period available to each share
+of common stock outstanding during the reporting period. For 1999, income
+available to common stockholders includes a reduction for accrued dividends of
+$22,000. Diluted earnings (loss) per share reflects basic earnings (loss) per
+share, while giving effect to all dilutive potential common shares that were
+outstanding during the period, such as common shares that could result from the
+potential exercise or conversion of securities into common stock. The
+computation of diluted earnings per share does not assume conversion, exercise,
+or contingent issuance of securities that would have an antidilutive effect on
+earnings per share (i.e. increasing earnings per share or reducing loss per
+share).
+
+
+Page F-12
+
+<PAGE>
+
+The dilutive effect of outstanding options and warrants and their equivalents
+are reflected in dilutive earnings per share by the application of the treasury
+stock method which recognizes the use of proceeds that could be obtained upon
+the exercise of options and warrants in computing diluted earnings per share. It
+assumes that any proceeds would be used to purchase common stock at the average
+market price of the common stock during the period. As of December 31, 2000 and
+1999, the Company does not have any dilutive items and a dual presentation of
+earnings per share is not presented.
+
+Pursuant to the 1999 Long-term Incentive Plan the Company issued an aggregate of
+710,000 employee stock options of which options to purchase 670,000 shares at
+$4.20 per share were outstanding from April 20, 1999 through November 20, 2000,
+options to purchase 20,000 shares at $3.63 per share were outstanding from
+January 24, 2000 through November 20, 2000 and options to purchase 20,000 shares
+at $3.63 per share were outstanding from June 21, 2000 through November 20,
+2000.
+
+An option issued to a director of the Company to purchase 5,000 shares of common
+stock at $7.50 was outstanding for all of 2000 and 1999 and an option to
+purchase 3,333 shares of common stock at $4.50 per share was outstanding from
+April 22, 1999 through the end of 2000.
+
+A warrant, which expired unexercised on October 1, 1999, to purchase 33,333
+shares of common stock at $22.50 per share was outstanding for the first nine
+months of 1999. None of the aforementioned options and warrants were included in
+the computation of diluted loss per common share because the related exercise
+prices were greater than the average market price of the common shares for the
+periods while they were outstanding.
+
+Fair Value of Financial Instruments - Generally accepted accounting principles
+require disclosing the fair value of financial instruments to the extent
+practicable for financial instruments, which are recognized or unrecognized in
+the balance sheet. The fair value of the financial instruments disclosed herein
+is not necessarily representative of the amount that could be realized or
+settled, nor does the fair value amount consider the tax consequences of
+realization or settlement. In assessing the fair value of these financial
+instruments, the Company used a variety of methods and assumptions, which were
+based on estimates of market conditions and risks existing at that time. For
+certain instruments, including cash and cash equivalents, notes receivable and
+other current liabilities, it was estimated that the carrying amount
+approximated fair value for the majority of these instruments because of their
+short maturity. For investments in marketable securities, fair value is
+estimated based on current quoted market price. The fair value of the Company's
+investment in unconsolidated affiliate is estimated to approximate its equity
+method balance.
+
+Concentration of Credit Risk - Financial instruments, which potentially subject
+the Company to concentrations of credit risk, are cash and cash equivalents and
+notes receivable arising from normal business activities. The Company routinely
+assesses the financial strength of its debtors and based upon factors
+surrounding the credit risk of its customers, establishes an allowance for
+uncollectible accounts, when appropriate, and as a consequence, believes that
+its notes receivable credit risk exposure beyond such allowances is limited. The
+Company places its cash and cash equivalents with high credit quality financial
+institutions. The amount on deposit in any one institution that exceeds
+federally insured limits is subject to credit risk. As of December 31, 2000 the
+Company had $2,806,000 of cash balances in excess of federally insured limits.
+
+
+Page F-13
+
+<PAGE>
+
+Stock Options and Similar Equity Instruments - The Company adopted the
+disclosure requirements of Statement of Financial Accounting Standards ("SFAS")
+No. 123, "Accounting for Stock Based Compensation," for stock options and
+similar equity instruments (collectively "Options") issued to employees. SFAS
+No. 123 allows for the option of recording stock options to employees using
+Accounting Principles Board ("APB") Opinion No. 25 "Accounting for Stock Issued
+to Employees" while disclosing the effects, on a pro forma basis, of using SFAS
+No. 123 in the footnotes to the financial statements. The Company will continue
+to apply the intrinsic value based method of accounting for options issued to
+employees prescribed by APB Opinion No. 25, rather than the fair value based
+method of accounting prescribed by SFAS No. 123. SFAS No. 123 also applies to
+transactions in which an entity issues its equity instruments to acquire goods
+or services from non-employees. Those transactions must be accounted for based
+on the fair value of the consideration received or the fair value of the equity
+instruments issued whichever is more reliably measurable.
+
+Use of Estimates - The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amount of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+Reclassifications - Certain 1999 items have been reclassified to conform to the
+December 31, 2000 presentation.
+
+(2) Change of Control and Management of the Company
+
+On November 20, 2000, the Company and Frank DeLape and Richard Young entered
+into a transition agreement (the "Transition Agreement") with Edward D. Bright,
+acting on his own behalf and on behalf of certain shareholders of the Company.
+The Transition Agreement was consummated in order to effectuate an agreed upon
+change of management. The Transition Agreement provides for, among other things,
+the termination of the existing employment and stock option agreements between
+the Company and Frank DeLape and Richard Young, the issuance to Frank DeLape of
+24,000 shares of the Company's common stock (valued at $51,000) in consideration
+of the return and cancellation of certain stock options previously issued to
+Frank DeLape by the Company, the payment to Richard Young of $60,000 of
+severance compensation and $60,000 as compensation for consulting services to be
+provided during the first 90 days after the execution of the Transition
+Agreement and the resignation of Frank DeLape, Richard Young and Steve Jones as
+officers and directors of the Company and all of its subsidiaries.
+
+Edward D. Bright and Theodore B. Shapiro were appointed to the Company's Board
+of Directors pursuant to the terms of the Transition Agreement to fill the
+vacancies created by the resignations of Frank DeLape and Richard Young.
+
+
+Page F-14
+
+<PAGE>
+
+(3) Notes Receivable, Related Party
+
+As of December 31, 2000
+- -----------------------------------------------
+ JewelersEdge                         $ 280,000
+ Joseph Sicinski                        420,000
+- -----------------------------------------------
+                                        700,000
+Allowance for doubtful accounts        (700,000)
+- -----------------------------------------------
+                                      $      --
+===============================================
+
+The following table summarizes the changes in the allowance for doubtful
+accounts.
+
+Years ended December 31,                   2000        1999
+- -----------------------------------------------------------
+Beginning of period                    $     --          --
+Current provision                       700,000          --
+Write-offs                                   --          --
+- -----------------------------------------------------------
+Net income                             $700,000          --
+===========================================================
+
+(a) JewelersEdge - In March 2000, the Company loaned JewelersEdge $250,000
+pursuant to a note bearing interest at 13% per annum with principal due thirteen
+months from the date of execution. In June 2000, the Company advanced
+JewelersEdge $3,000 through a convertible note receivable. Mr. Frank DeLape, is
+the beneficial owner of 24.3% of the common stock of JewelersEdge, and is a
+director of JewelersEdge. During 2000 the Company earned $26,000 of interest
+income and $10,000 of financing fees on the JewelersEdge note. As of December
+31, 2000, the outstanding principal and accrued interest owed on the JewlersEdge
+note receivable aggregated $280,000. On February 14, 2001, the Company received
+notification from JewlersEdge that, among other things, it had discontinued its
+operations. As a result, effective December 31, 2000, the Company recorded a
+reserve for $280,000, representing all amounts owed to the Company by
+JewelersEdge.
+
+(b) Joseph Sicinski - In 1997, SISC sold 258,333 common shares of Trans Global
+Services, Inc. ("Trans Global"), a former subsidiary of the Company, to Joseph
+Sicinski, the president of Trans Global, for $1.67 per share, the fair market
+value of the Trans Global common stock on the date of sale. Payment by Joseph
+Sicinski for such shares is evidenced by his $420,000, non-interest bearing,
+promissory note due in 2002, the Sicinski Note. Pursuant to the terms of the
+Sicinski Note, the Company's only recourse against Sicinksi is the underlying
+shares which he purchased. Based on the significant decrease in the value of the
+underlying Trans Global shares, the Company recorded a reserve of $420,000 on
+December 31, 2000.
+
+(c) Arc Networks - On September 6, 2000 the Company received from Arc Networks,
+Inc. ("Arc") $3,053,000 representing payment of all principal and accrued
+interest then due from Arc pursuant to Arc's outstanding promissory note to the
+Company. During 1999, the Company received warrants to purchase common stock of
+InfoHighway Communications Corporation ("InfoHighway"), Arc's parent, in
+consideration for the Company extending the repayment date of the Arc note. Such
+warrants were sold to InfoHighway in September 2000. In connection with the Arc
+note the Company earned interest income of $287,000 and $170,000 for 2000 and
+1999, respectively, and earned financing fees of $75,000 and $27,000 for 2000
+and 1999, respectively.
+
+
+Page F-15
+
+<PAGE>
+
+(4) Notes Receivable, Other
+
+On January 10, 2000 the Company received from William Baquet $690,000
+representing payment of all principal and accrued interest then due from William
+Baquet pursuant to William Baquet's outstanding promissory note to the Company.
+In connection with the William Baquet note, the Company earned interest income
+of $2,000 and $14,000 for 2000 and 1999, respectively, and earned financing fees
+of $15,000 for 1999.
+
+(5) Investment in Unconsolidated Affiliates
+
+(a) Sagemark Capital - Pursuant to the terms of the limited partnership
+agreement dated November 30, 1999, between the Company and Sagemark Management,
+(the "Sagemark Capital Partnership Agreement"), the Company is committed to make
+$4,920,000 in capital contributions to Sagemark Capital. As of December 31,
+2000, the Company has paid on such commitments $4,587,000 (of which $1,577,000
+represents the fair value of marketable securities transferred to Sagemark
+Capital, $557,000 represents expenses paid on behalf of Sagemark Capital in 1999
+and $2,453,000 represents cash payments made during 2000), leaving a
+subscription payable balance of $333,000.
+
+As part to the Company's change in management pursuant to the Transition
+Agreement, it entered into an agreement with Sagemark Management on November 20,
+2000 (the "General Partner Letter Agreement") whereby Sagemark Management, in
+its capacity as general partner of Sagemark Capital, agreed not to have the
+Company contribute the $333,000 balance of its $4,920,000 capital contribution
+commitment until the following conditions occur: (i) All other limited partners
+of Sagemark Capital must fund the same percentage of their total capital
+contribution commitment as the Company has funded; (ii) Sagemark Capital must
+have drawn down or otherwise received all funds to which the SBA determines it
+is entitled based upon Sagemark Capital's total capital contributions,
+calculated after condition (i) above has been met; and, (iii) all capital
+contributions and investment funds referred to in (i) and (ii) above must be
+fully invested by Sagemark Capital. The General Partner Letter Agreement also
+precludes Sagemark Management from offsetting any amounts owed by the Company to
+Sagemark Capital against the Company's capital account and requires Sagemark
+Management, upon written request, to appoint Theodore B. Shapiro to the advisory
+board of Sagemark Capital.
+
+The Company will continue to own its limited partnership interest in Sagemark
+Capital (61.5% as of December 31, 2000), and Sagemark Capital will continue to
+be managed by Sagemark Management; but, by virtue of the resignation of Frank
+DeLape and Richard Young as officers and directors of the Company, the Company
+will have a limited say in the day to day operations of Sagemark Capital,
+requiring the Company to report Sagemark Capital as an unconsolidated affiliate
+using the equity method. The Company's investment balance in Sagemark Capital,
+under the equity method is presented in the following table.
+
+As of December 31, 2000
+- ------------------------------------------------------------
+Total Subscription                                $4,920,000
+Subscriptions payable                               (333,000)
+- ------------------------------------------------------------
+Capital contributions paid-in                      4,587,000
+Expenses allocated to Sagemark Capital in 1999      (557,000)
+Equity method loss in 2000                          (620,000)
+- ------------------------------------------------------------
+Equity method investment balance                  $3,410,000
+============================================================
+
+
+Page F-16
+
+<PAGE>
+
+The condensed results of operations and financial position of Sagemark Capital
+is summarized in the following table.
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Income                              $   603,000           --
+Operating expenses                     (789,000)          --
+Investment losses                      (822,000)          --
+- ------------------------------------------------------------
+Net loss                            $(1,008,000)          --
+============================================================
+
+As of December 31, 2000
+- -----------------------------------------------
+Investments at fair value           $ 7,483,000
+Other assets                            382,000
+SAB debentures                       (2,555,000)
+Other liabilities                      (306,000)
+- -----------------------------------------------
+Partnership capital                 $ 5,004,000
+===============================================
+
+(b) Netsmart Technologies, Inc. - As of January 1, 1999, the Company had an
+investment in Netsmart Technologies, Inc. ("Netsmart") that was accounted for
+using the equity method. On March 25, 1999, the Company reduced its ownership in
+Netsmart to approximately 10% at which point the investment in Netsmart no
+longer qualified for treatment as an equity method investment and was converted
+to a marketable security. During the period from January 1, 1999 through March
+25, 1999, the Company's equity method share of Netsmart's income was $113,000.
+
+(6) Marketable Securities
+
+The Company's investment in marketable securities is detailed in the following
+tables.
+
+As of December 31, 2000
+- ------------------------------------------------------------
+Current:
+Trans Global, common at cost                         $31,000
+Unrealized holding loss                              (28,000)
+- ------------------------------------------------------------
+Market value                                         $ 3,000
+============================================================
+
+As of December 31, 2000
+- ------------------------------------------------------------
+Long-term:
+Restricted securities at cost                        $38,000
+Realized loss for permanent decline in value,
+ recognized in 1998                                  (36,000)
+Unrealized holding gain                                7,000
+- ------------------------------------------------------------
+Market value                                         $ 9,000
+============================================================
+
+
+Page F-17
+
+<PAGE>
+
+The change in net unrealized holding loss on marketable securities is summarized
+in the following table.
+
+As of December 31, 2000
+- ------------------------------------------------------------
+Beginning balance                                  $(276,000)
+Current net change in unrealized holding loss        (11,000)
+Reversal of net unrealized holding loss on sale
+ of securities                                       265,000
+- ------------------------------------------------------------
+Ending balance                                     $ (22,000)
+============================================================
+
+The calculation of the gain on sale of marketable securities is summarized on
+the following table.
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Related party:
+ Proceeds on sale:
+  Trans Global                        $ 394,000   $       --
+  Netsmart                                   --    3,497,000
+- ------------------------------------------------------------
+Total proceeds                          394,000    3,497,000
+- ------------------------------------------------------------
+ Cost basis:
+  Trans Global                          519,000           --
+  Netsmart                                   --      873,000
+- ------------------------------------------------------------
+Total cost basis                        519,000      873,000
+- ------------------------------------------------------------
+Gain (loss) on sales                  $(125,000)  $2,624,000
+============================================================
+
+Other:
+Proceeds on sale:
+ I-Link , Inc.                        $ 119,000   $       --
+ CD's                                   190,000       95,000
+ Bonds                                       --      528,000
+ U.S. T-Bills                                --    8,429,000
+- ------------------------------------------------------------
+Total proceeds                          309,000    9,052,000
+- ------------------------------------------------------------
+Cost basis:
+ I-Link, Inc.                             1,000           --
+ CD's                                   190,000       95,000
+ Bonds                                       --      524,000
+ U.S. T-Bills                                --    8,261,000
+- ------------------------------------------------------------
+Total cost basis                        191,000    8,880,000
+- ------------------------------------------------------------
+Gain on sale                          $ 118,000   $  172,000
+============================================================
+
+
+Page F-18
+
+<PAGE>
+
+The proceeds related to the sale of the Trans Global securities includes $56,000
+representing the value of Trans Global shares transferred to Trans Global in
+consideration of Trans Global's extension of a debt guarantee which the Company
+had previously given to Trans Global on obligations owed to Trans Global by Arc.
+All other proceeds listed represent cash. The cost basis used in calculating
+gain or loss on security sales is based on the average cost of all shares of
+each such security held at the date of sale.
+
+(7) Related Party Non-Marketable Securities
+
+(a) Gavelnet - On September 7, 1999, the Company acquired 100,000 12%
+convertible preferred shares of Gavelnet (the "Gavelnet Shares") for $950,000.
+Concurrent with the Company's investment in Gavelnet, Technology Acquisitions
+Ltd. ("TAL") invested $1 million under substantially the same terms. Prior to
+the Company's investment in Gavelnet, certain affiliates and related parties of
+Benchmark Equity Group ("Benchmark") acquired approximately 4.1 million common
+shares, on a fully diluted basis, of Gavelnet for financial investments and
+services rendered that enabled Gavelnet to clear significant hurdles in
+validating its business model. Benchmark is a privately held company wholly
+owned by Frank DeLape, Sagemark's Chief Executive Officer and Chairman of the
+Board from April 20, 1999 until November 20, 2000, which also holds 100% of
+TAL's voting stock. In September 2000, the Company recorded a permanent
+investment write-off of its $950,000 investment as a result of its review of the
+realizable value of the Gavelnet Shares. On November 20, 2000, the Company sold
+the Gavelnet Shares (see paragraph(c) which follows).
+
+(b) JewlersEdge - In March 2000, the Company received warrants to purchase
+137,500 shares of JewelersEdge common stock (the "JewelersEdge Shares") in
+connection with a loan made to JewelersEdge (see footnote (3) "Notes Receivable,
+Related Party"). Prior to September 30, 2000 the Company exercised such warrant
+and purchased the shares at a nominal price. On November 20, 2000, the Company
+sold the JewelersEdge Shares (see paragraph(c) which follows).
+
+(c) Sale of Gavelnet and JewlersEdge Shares - On November 20, 2000,
+simultaneously with the execution of the Transition Agreement, the Company and
+Gemini VII, Inc. ("Gemini") entered into a stock purchase agreement pursuant to
+which Sagemark sold the Gavelnet and JewelersEdge Shares for $3,500,000 (the
+"Purchase Price"). Gemini is a company with negligible assets and liabilities
+which is owned by Frank DeLape and Richard Young. The Purchase Price was paid by
+Gemini's non-interest bearing, non-negotiable promissory note (the "Gemini
+Note") due on the later of November 30, 2009 or the date of expiration of the
+term of the Sagemark Capital Partnership Agreement.
+
+The Gemini Note requires mandatory prepayments as follows: (i) if Sagemark
+Management receives distributions from Sagemark Capital, than 50% of such
+distributions must be prepaid on the Gemini Note (less any applicable taxes and
+less up to 33% of such distribution as may be payable to a member of Sagemark
+Management) or (ii) if Gemini receives proceeds from the sale of any or all of
+its shares of Gavelnet or JewlersEdge, the full extent of such proceeds must be
+used to prepay the Gemini Note. The Gemini Note is with recourse to Gemini only
+to the extent of any breach of such mandatory prepayment provisions and the
+principal amount of the Gemini Note will be reduced at the maturity date by an
+amount equal to the difference between the purchase price and the aggregate
+amount of all such distribution and sales proceeds actually received prior to
+the maturity date. The obligations of Gemini under the Gemini Note, to the
+extent that there is recourse against Gemini, is severally personally guaranteed
+by Frank DeLape and Richard Young, but only to the extent that either of such
+individuals receives the
+
+
+Page F-19
+
+<PAGE>
+
+proceeds of any such distributions (less the amount of all applicable Federal,
+state and local taxes computed at the maximum applicable tax rate).
+
+There is no assurance that any such distribution or sale proceeds will be
+received or, if so, when and to what extent and as a result of such
+contingencies, the Company has not recorded any receivable or gain related to
+its sale of the Gavelnet and JewlersEdge Shares.
+
+(d) InfoHighways - During 1999, the Company received warrants to purchase common
+stock of InfoHighway in consideration for the Company's extending the repayment
+date of the Arc note. Such warrants were sold to InfoHighway in September 2000
+for $369,000 representing the 2000 gain on sale of related party non marketable
+securities.
+
+(8) Furniture and Fixtures and Capitalized Lease
+
+As part of the change in control and management of the Company, all furniture
+and fixtures of the Company as of November 20, 2000, the date of the Transition
+Agreement and Partnership Letter Agreement, were transferred to Sagemark
+Management. The net book value of the furniture and fixtures on November 20,
+2000 was $71,000. During the period from January 1, 2000 through November 20,
+2000 the Company incurred capital expenditures of $4,000 and recorded $9,000 of
+depreciation and amortization expense. Pursuant to the Partnership Letter
+Agreement, Sagemark Management assumed all of the Company's capital lease
+obligations having a net present value of $3,000. As a result of the above, the
+Company recorded a loss on disposal of fixed assets of $68,000.
+
+(9) Income Taxes
+
+Federal and state taxes are summarized in the following table.
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Federal:
+ Current                                 $   --      $17,000
+ Deferred                                    --           --
+State:
+ Current                                  3,000        8,000
+ Deferred                                    --           --
+- ------------------------------------------------------------
+Total                                    $3,000      $25,000
+============================================================
+
+
+Page F-20
+
+<PAGE>
+
+Deferred taxes based upon differences between the financial statement and tax
+basis of assets and liabilities and available tax carry-forwards are summarized
+in the following table.
+
+As of December 31, 2000
+- ------------------------------------------------------------
+Net operating loss carry-forward                 $14,080,000
+Unrealized holding (gain) loss                         8,000
+Related party bad debt provision                     245,000
+Alternative minimum tax credit carry-forward          17,000
+Impaired investment write-off                        333,000
+- ------------------------------------------------------------
+Net deferred tax asset                            14,683,000
+Valuation allowance                               14,683,000
+- ------------------------------------------------------------
+                                                 $        --
+============================================================
+
+The valuation allowance for net deferred tax assets decreased by $284,000. The
+net reduction was the result of increased change in net temporary differences of
+$831,000 offset by the expiration of $1,115,000 of net operating loss
+carryforwards. Based upon the level of historical tax losses, the Company has
+established the valuation allowance against the entire net deferred tax asset.
+
+As of December 31, 2000, the Company has net operating loss carry-forwards
+approximating $44,662,000. Pursuant to section 382 of the Internal Revenue Code,
+utilization of these losses may be limited if substantial changes in the Company
+ownership were to occur
+
+The Company's net operating loss carry-forwards at December 31, 2000 expire as
+outlined in the following table.
+
+Year carry-forward expires                Amount
+- ------------------------------------------------
+2001                                 $   736,000
+2002                                   2,809,000
+2003                                     372,000
+2004                                     305,000
+2005                                     299,000
+2006                                     246,000
+2007                                     206,000
+2008                                   1,505,000
+2009                                   4,482,000
+2010                                   6,241,000
+2011                                   4,413,000
+2012                                   7,017,000
+2018                                  15,059,000
+2020                                     972,000
+- ------------------------------------------------
+Total                                $44,662,000
+================================================
+
+
+Page F-21
+
+<PAGE>
+
+The following table reconciles the statutory federal income tax rate to the
+effective rate.
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Statutory federal income tax rate         (35.0%)       35.0%
+Increase in (utilization of) net
+ operating loss carry-forward              33.9        (24.9)
+Permanent differences                       1.1         (6.4)
+Effective state tax rate                    0.0         (0.4)
+- ------------------------------------------------------------
+Effective income tax rate                   0.0%         3.3%
+============================================================
+
+(10) Commitments and Contingencies
+
+(a) Operating Lease Obligations
+
+Since November 20, 2000, the Company's executive offices have been located in
+New York, NY, which it leases on a month-to-month basis for $500 per month. From
+April 20, 1999 until November 20, 2000, the Company's executive offices were in
+Houston, TX, which the Company leased from Benchmark for $1,200 per month.
+Rental expense for 2000 and 1999 was $17,000 and $52,000, respectively.
+
+(b) Employment Agreements
+
+Pursuant to the Transition Agreement, the Company terminated its employment
+agreements with Frank DeLape and Richard Young as of November 20, 2000.
+
+On March 7, 2001, the Board of Directors approved and ratified the terms of
+employment arrangements between the Registrant and Theodore B. Shapiro and
+Edward D. Bright.
+
+The terms of Mr. Shapiro's employment include the appointment of Mr. Shapiro as
+the Company's President and Chief Executive Officer, on a month-to-month basis,
+at an annual base salary of $100,000, plus certain fringe benefits and expense
+allowances. Mr. Shapiro's annual base salary is subject to increase to $200,000
+per year at such time as the Company consummates an acquisition of the business
+of another entity. In addition, Mr. Shapiro was granted a warrant to purchase up
+to 125,000 shares of the Company 's common stock during a term of five years at
+an exercise price of $1.125 per share (the "Warrant"), which exercise price
+reflects the market price of the Company 's common stock on March 7, 2001, the
+date of grant of the Warrant. Mr. Shapiro was also granted a warrant to purchase
+up to an additional 150,000 shares of the Company 's common stock during a term
+of five years at an exercise price of $1.125 per share (the "Incentive
+Warrant"), which exercise price reflects the market price of the Company 's
+common stock on March 7, 2001, the date of grant of the Incentive Warrant. The
+Incentive Warrant cannot, however, be exercised unless and until the Company
+consummates an acquisition of the business of another entity. The shares of
+common stock subject to the Warrant and the Incentive Warrant have "piggy-back"
+and demand registration rights.
+
+The terms of Mr. Bright's employment include the appointment of Mr. Bright as
+the Company 's Chairman of the Board, on a month-to-month basis, at an annual
+base salary of $50,000, plus certain fringe benefits and expense allowances. Mr.
+Bright's annual base salary is subject to quarterly review by the Board of
+Directors. In addition, Mr. Bright was granted a warrant to purchase up to
+50,000 shares of the Company 's common stock during a
+
+
+Page F-22
+
+<PAGE>
+
+term of five years at an exercise price of $1.125 per share, which exercise
+price reflects the market price of the Company's common stock on March 7, 2001,
+the date of grant of such warrant. The shares of common stock subject to the
+warrant have "piggy-back" and demand registration rights.
+
+On March 4, 2001, the Company entered into a letter agreement to employ George
+W. Mahoney as its Chief Financial Officer for a period of 3 years at an annual
+base salary of $70,000 per year. Per the terms of the letter agreement it is the
+intention of the parties to enter into a definitive employment agreement whereby
+Mr. Mahoney would receive an annual base salary of $140,000. In the event that
+the Company does not consummate an acquisition of another business by February
+28, 2002, the Company may terminate this agreement upon ten days notice to Mr.
+Mahoney. In the event that the Company does not consummate an acquisition of
+another business by September 1, 2001 and does not enter into a definitive
+Employment Agreement with Mr. Mahoney by September 1, 2001, Mr. Mahoney may
+terminate this agreement upon thirty days notice to the Company.
+
+(c) Debt Guarantees
+
+Trans Global was the holder of a $1.2 million promissory note issued by Arc. The
+Company guaranteed the outstanding indebtedness of Arc to Trans Global. In
+addition, during 1998, the Company guaranteed $550,000 of indebtedness that Arc
+had outstanding under a promissory note to Batei Sefer Limlacha. On September 6,
+2000, InfoHighway paid, on behalf of Arc, all outstanding indebtedness of Arc to
+Trans Global and Batei Sefer Limlacha. Effective upon such payments by
+InfoHighway, the Company's aforementioned guaranties were canceled and are no
+longer in force or effect. Prior to InfoHighway's payment of Arc's obligation to
+Trans Global, the Company transferred to Trans Global, in consideration of Trans
+Global's extension of the maturity date of such obligation, 50,000 shares of its
+Trans Global common shares valued at $56,000.
+
+(13) Capital Stock
+
+Common Stock - As of December 31, 2000, the authorized number of shares of
+common stock, par value $0.01, is 25,000,000 shares of which 1,664,343 shares
+are issued, 1,584,247 shares are outstanding and 80,096 shares are held in
+treasury. On July 22, 1999, the stockholders of the Company approved a reduction
+of the Company's authorized number of common shares from 50,000,000 to
+25,000,000 and approved a 1-for-30 reverse split of its common stock. All share
+and per share amounts in the accompanying financial statements and notes thereto
+have been restated to give effect to the reverse split. In order to effectuate
+the reverse split, 5,210 common shares were issued representing the net impact
+of rounding fractional shares and the Company paid $33,000 to fractional
+shareholders.
+
+Pursuant to the Transition Agreement the Company issued to Frank DeLape, 24,000
+shares of its common stock (valued at $51,000) in consideration of the return
+and cancellation of certain stock options previously issued to Frank DeLape.
+
+Preferred Stock - As of December 31, 2000, the authorized number of shares of
+undesignated preferred stock, par value $1.00 per share, is 2,000,000 shares of
+which the following 2,962 are issued and outstanding as of December 31, 2000:
+
+
+Page F-23
+
+<PAGE>
+
+Series B (170 shares issued and outstanding) - The Series B subordinated
+preferred stock is redeemable at the option of the Company at the issue price of
+$87.50 per share. Each share is entitled to a $3.50 annual dividend, which is
+contingent upon after tax earnings in excess of $200,000. In the event of
+involuntary liquidation, the holders receive $87.50 per share and all accrued
+dividends. Accumulated dividends on the Series B Preferred stock as of December
+31, 2000 approximated $1,000. No dividends were declared for 2000 and 1999.
+
+Series E (92 shares issued and outstanding) - The Series E preferred stock is
+entitled to an annual dividend of $.10 per share contingent upon after tax
+earnings in excess of $200,000. Accumulated dividends on the Series E preferred
+stock as of December 31, 2000 approximated $18. No dividends were declared for
+2000 and 1999.
+
+Series F (2,700 shares issued and outstanding) - In consideration for certain
+creditors granting extensions on former Company debts, the Company issued, in
+1984, 2,700 shares of preferred stock at $1.00 per share. The nonvoting
+preferred stock, designated Series F, with a dividend rate of $8.00 per share,
+is redeemable at the option of the Company after July 1993 for $1.00 per share.
+The dividend is non-cumulative and is payable within 100 days from the close of
+any year in which net income after tax exceeds $500,000, and all dividends due
+on the Series B preferred stock are paid or provided for. Accumulated dividends
+on the Series F preferred stock as of December 31, 2000 approximated $43,000. No
+dividends were declared for 2000 and 1999.
+
+(14) Treasury Stock
+
+In October 1998, the Board of Directors authorized the Company to repurchase its
+common stock in unsolicited open market transactions in amounts of up to
+$500,000. As of December 31, 2000, the Company had repurchased 80,096 shares in
+transactions with an aggregate value of $247,000. The following table summarizes
+the treasury share changes for 2000 and 1999.
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Beginning of year                        80,096       39,549
+Stock purchases                              --       40,547
+Stock issuances                              --           --
+- ------------------------------------------------------------
+End of year                              80,096       80,096
+============================================================
+
+On March 7, 2001, the Board of Directors authorized the purchase of shares of
+the Registrant's common stock in unrestricted open market transactions, subject
+to the aggregate purchase price for such shares not exceeding $25,000.
+
+(15) Series A Common Stock Purchase Warrant
+
+On September 30, 1994, in connection with the financing of the Company's
+acquisition of International Magnetic Imaging, Inc., the Company issued to a
+financing company, a warrant to purchase 33,333 shares of the Company's common
+stock at an exercise price of $0.75 per share. The warrant expired unexercised
+on October 1, 1999.
+
+
+Page F-24
+
+<PAGE>
+
+(16) Stock Option Plans
+
+On July 22, 1999, the stockholder's of the Company approved the 1999 long-term
+incentive plan. Pursuant to the plan, in 2000 and 1999 the Company issued, in
+the aggregate, options to purchase 40,000 and 673,333 shares, respectively, of
+the Company's common stock. Additionally, in 1998, a former director of the
+Company received an option to purchase 5,000 shares of the Company's common
+stock. As a part to the change in control and management of the Company, on
+November 20, 2000, 690,000 options, representing the options then held by the
+employees who resigned pursuant to the Transition Agreement, were returned to
+the Company and cancelled and prior to that 20,000 were forfeited by a resigning
+employee. As of December 31, 2000, options or other equity-based incentives to
+purchase 886,667 shares of Common Stock pursuant to the 1999 long-term incentive
+plan have not been issued.
+
+In October 1995, SFAS No. 123, "Accounting for Stock-Based Compensation," was
+issued and is effective for financial statements for fiscal years beginning
+after December 15, 1995. As permitted by the statement, the Company continues to
+measure compensation cost for stock option plans in accordance with APB No. 25,
+"Accounting for Stock Issued to Employees."
+
+40,000 options issued in 2000 and 670,000 of the options issued in 1999 included
+stock appreciation rights ("SAR's"), whereby the option holders are entitled to
+receive cash or stock upon the exercise of the options without remitting
+exercise proceeds to the Company. Pursuant to APB 25, the Company is required to
+recognize compensation expense at each reporting period related to the SAR's
+computed as the fair market value of the underlying shares less the total
+exercise proceeds assumed to be received upon exercise. As of December 31, 2000,
+all options that included SAR's were cancelled and as of December 31, 1999, the
+fair market value of the Company's common stock was less than the exercise price
+of the related options outstanding as of such date and as a result, no APB No.
+25 compensation expense is recorded for 2000 or 1999.
+
+For purposes of calculating the pro forma expense under SFAS No. 123, the fair
+value of each option grant is estimated on the date of grant using the
+Black-Scholes option-pricing model. The following assumptions were used during
+the respective years to estimate the fair value of options granted:
+
+Years ended December 31,                   2000         1999
+- -------------------------------------------------------------
+Dividend yield                              0.0%         0.0%
+Expected volatility                          72%        72.0%
+Risk-free interest rate                       6%         6.0%
+Expected life of options                 5 years   4.99 years
+
+
+Page F-25
+
+<PAGE>
+
+No compensation cost was charged to operations in 2000 and 1999. Had
+compensation cost for the Company's stock option plan been determined consistent
+with the fair value method outlined in SFAS No. 123, the impact on the Company's
+net income and earnings per common share would have been as follows:
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Net income (loss)
+ As reported                        $(2,979,000)  $9,910,000
+ Pro forma under SFAS No. 123        (2,990,000)  $9,689,000
+Basic and diluted net income
+(loss) per common share:
+  As reported                       $     (1.91)  $     6.32
+  Pro forma under SFAS No. 123      $     (1.91)  $     6.18
+
+The following table summarizes the Company's fixed stock options for 2000 and
+1999.
+
+                                                2000                   1999
+                                              Weighted               Weighted
+                                              Average                Average
+                                     2000     Exercise      1999     Exercise
+                                    Shares      Price      Shares      Price
+- ----------------------------------------------------------------------------
+Outstanding at beginning of year   678,333      $4.23       5,000      $7.50
+Granted                             40,000      $3.63     673,333      $4.20
+Exercised                               --         --          --         --
+Forfeited                         (710,000)     $4.17          --         --
+Outstanding at end of year           8,333      $6.30     678,333      $4.23
+Options exercisable at year end      8,333      $6.30       8,333      $6.30
+Weighted-average fair value of
+ options granted during the year                $1.60                  $2.69
+
+As of December 31, 2000, the 8,333 options outstanding have exercise prices
+between $4.50 and $7.50 and a weighted-average remaining contractual life of
+0.87 years.
+
+(17) Related Party Transactions
+
+The following describes related party transactions that are not described
+elsewhere in these financial statement footnotes.
+
+On January 1, 2000, the Company entered into an agreement with Sagemark
+Management (the "Management Agreement") whereby Sagemark Management would
+reimburse the Company for employee and other expenses incurred on behalf of
+Sagemark Capital not to exceed $46,875 per month. As a part to the change in
+control and management and pursuant to the General Partner Letter Agreement, the
+Management Agreement was terminated on November 20, 2000. During 2000, Sagemark
+Management paid the Company $477,000 during the time period for which the
+Management Agreement was in effect.
+
+
+Page F-26
+
+<PAGE>
+
+On June 10, 1999 the Company executed an agreement between the Company and
+Benchmark, (the "Expense Sharing Agreement") whereby the Company reimburses
+Benchmark for its allocable portion of shared office and administrative support
+services. As a part to the change in control and management and pursuant to the
+Transition Agreement, the Expense Sharing Agreement was terminated on November
+20, 2000. For 2000 and 1999, the Company paid Benchmark $69,000 and $117,000,
+respectively, pursuant to the agreement and during 1999 the company paid an
+additional $29,000 for reimbursement of a portion of the March 1999 and April
+1999 salaries that Benchmark had paid to Frank DeLape, Richard Young and Mathew
+Finch.
+
+During 1999, the Company paid Frank DeLape $11,000 for furniture and leasehold
+improvements sold by him to the Company.
+
+(18) Legal Proceedings
+
+Although the Company is a party to certain legal proceedings that have occurred
+in the ordinary course of business, the Company does not believe such
+proceedings to be of a material nature with the exception of the following. Due
+to uncertainties in the legal process, it is at least reasonably possible that
+management's view of the outcome of the following contingent liabilities will
+change in the near term and there exists the possibility that there could be a
+material adverse impact on the operations of the Company and its subsidiaries as
+a result of such legal proceedings.
+
+On or about December 14, 1999, an action styled Expert Radiology Network v.
+Comprehensive Medical Imaging, Inc.; International Magnetic Imaging, Inc.,
+George Mahoney; and Joe Does 1 through 100 was filed in the Circuit Court of the
+Fifteenth Judicial Circuit, in and for Palm Beach County Florida, and assigned
+Case No. CL99-11947AD. The action seeks damages against International Magnetic
+Imaging, Inc. ("IMI"), an inactive and discontinued subsidiary of the Company,
+in excess of $15,000 for alleged breaches of a contract and for allegedly
+fraudulently inducing Expert Radiology Network ("ERN") to enter said contract,
+under which ERN was to read and interpret diagnostic imaging scans performed at
+certain magnetic resonance imaging centers owned by IMI. The action also seeks
+an accounting of amounts due and owing under the contract. The contract was
+assigned to Comprehensive Medical Imaging, Inc. ("CMI"), in March 1998 in
+connection with the sale of IMI's assets to CMI. The third named Defendant,
+George Mahoney, is a former Chief Financial Officer of IMI and the current Chief
+Financial of the Company. IMI has answered the complaint, denying any liability
+and raising various affirmative defenses. It intends to contest the case
+vigorously. At this stage of the proceedings, it is not possible to evaluate the
+outcome of the action, nor to reasonably estimate the amount of any judgment
+that might be entered against IMI.
+
+On or about July 6, 1998, an action styled Ronald Feldstein v. Consolidated
+Technology Group, Inc., a Florida corporation was filed in the Circuit Court of
+the Fifteenth Judicial Circuit, in and for Palm Beach County Florida, and
+assigned Case No. 98-5943-AG. The action seeks damages in excess of $15,000 for
+an alleged breach by Consolidated Technology Group, Ltd. (the Company's prior
+name) of an alleged consulting agreement under which the Company allegedly
+promised to deliver to the Plaintiff, Ronald Feldstein, 250,000 options to
+purchase stock of International Magnetic Imaging, Inc. at $3.50 per share, and
+200,000 share of the stock of Trans Global Services, Inc. ("Trans Global"). It
+is alleged the shares of Trans Global stock were to have been delivered by April
+18, 1997. The Company answered the Plaintiff's complaint denying liability and
+asserting various defenses. The Company also propounded discovery requests,
+which were not answered by the Plaintiff. The Court ordered the Plaintiff to
+respond to the discovery requests, but the Plaintiff did not comply with the
+Court's order and on March 12, 2001, the Court dismissed the action without
+prejudice.
+
+
+Page F-27
+
+<PAGE>
+
+In July 1999, Mitel Communications Solutions, Inc. ("Mitel") served an amended
+Complaint upon the Company, impleading the Company and SISC and purportedly
+served TAL, in a case commenced against Arc, in the Supreme Court of the State
+of New York, County of New York, entitled, Mitel Communications Solutions, Inc.
+v. Arc Networks, Inc. et al., Index No. 99-600123 (Sup. Ct. N.Y. Cty., 1999).
+Mitel seeks to recover the sum of $1.7 million, allegedly pre-paid to Arc when
+Mitel engaged Arc as a subcontractor for a subsequently aborted project for the
+New York City Board of Education. Mitel seeks to recover the purported
+pre-payment with interest against all defendants, including the Company, SISC
+and TAL on a variety of legal and equitable theories. The Company has responded
+by denying all of the relevant allegations set forth in the amended complaint
+and it is the Company's position that it is in no way responsible for any
+liability Arc may or may not have to the plaintiff under the facts as alleged by
+the plaintiff. The Company is contesting this case vigorously. The Company has
+been advised that on December 1, 1999, Arc and Mitel entered into a settlement
+agreement pursuant to which, among other things, Arc agreed to perform certain
+work for Mitel and make a certain escrow payment. The Company has been advised
+that Arc has not made the required escrow payment; however, it continues to
+perform all work requested by Mitel under the terms of the Settlement Agreement.
+As of this date, the Company is advised that the balance due from Arc to Mitel
+has been reduced to less than $300,000 and Arc is currently engaging in work for
+Mitel to further reduce and eventually eliminate the alleged obligation
+underlying the litigation. To the extent Arc satisfies the terms of the
+settlement agreement in full, it is anticipated that the Company will be
+released from the litigation. However, there can be no assurance that Arc will
+fully discharge the terms of the settlement agreement.
+
+(19) Discontinued Operations
+
+As of December 31, 2000, the Company has discontinued all of its prior operating
+business segments. The following table summarizes the financial statement
+information of the discontinued subsidiaries.
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Income from operations of
+ discontinued segments:
+  Trans Global                               --   $  499,000
+  Arc                                        --           --
+  Intercompany transactions                  --      139,000
+- ------------------------------------------------------------
+                                             --   $  638,000
+============================================================
+
+Years ended December 31,                   2000         1999
+- ------------------------------------------------------------
+Gain on disposal of segments:
+ Trans Global                                --   $  759,000
+ Arc                                         --    7,365,000
+ 3D Holdings Intl., Inc.                     --      481,000
+ IMI                                         --      156,000
+ Income taxes                                --      (31,000)
+- ------------------------------------------------------------
+                                             --   $8,730,000
+============================================================
+
+
+Page F-28
+
+<PAGE>
+
+(a) Trans Global - The Company and Trans Global entered into an agreement
+whereby in May 1999, Company transferred 1,150,000 shares of Trans Global common
+stock owned by it to Trans Global and Trans Global transferred all of the Series
+G 2% Cumulative Redeemable Preferred Stock of the Company that it owned to the
+Company and cancelled accrued dividends of approximately $140,000 and
+intercompany debt obligations of approximately $326,000 owed by the Company to
+Trans Global. As a result of the foregoing transaction between the Company and
+Trans Global, the Company recognized a gain of $759,000 in 1999. The revenues of
+Trans Global approximated $11.2 million for the period from January 1, 1999
+through the effective date of the share transfer.
+
+(b) Arc - The Company entered into an agreement with Arc and TAL, pursuant to
+which on June 23, 1999 the Company sold all of its equity interest in Arc for
+$855,000. As a result of the sale, the Company recognized a gain of $7,365,000
+in 1999. The revenues of Arc approximated $4 million from January 1, 1999
+through the date of the sale.
+
+(c) In 1997, the Company discontinued the operations of 3D Holdings
+International, Inc. and its subsidiaries; 3D Technology, Inc., 3D Imaging
+International, Inc., and Vero International, Inc. (the 3D Entities"). During
+1999, the Company wrote-off all remaining liabilities of the 3D Entities all of
+which were all in excess of three years old and had no claim activity. As a
+result of the write-off, the Company recognized a gain of $481,000.
+
+(d) Medical Diagnostics - In 1998, the Company consummated the sale of
+substantially all of the assets of IMI. In 1999, the Company recognized a gain
+of $156,000 representing the excess of estimated accrued taxes as of December
+31, 1998 and the amount actually paid for taxes in 1999.
+
+(20) Subsequent Events
+
+On March 28, 2001 the Company entered into a Letter of Intent which sets forth
+the principal terms and conditions of a proposed acquisition of Premier P.E.T.
+Imaging International, Inc. ("Premier") and Premier Cyclotron International
+Corp. ("PCI") by the Company. Premier is owned by Dr. Stephen A. Schulman, Dr.
+Robert McFarland, Tara Capital, Inc. ("Tara Capital") and Robert L. Blessey (the
+"Selling Stockholders"). Theodore B. Shapiro, the Company's Chief Executive
+Officer, President and Director, owns 10% of Tara Capital and the remaining 90%
+is owned by his relatives. Premier was formed to engage in the ownership and
+operation of outpatient diagnostic imaging centers (the "PET Centers")
+throughout the United States utilizing positron emission tomography scanning
+equipment ("PET Scanning Equipment"). PCI, also owned by the Selling
+Stockholders, was formed to own and operate equipment which manufactures
+flouro-deoxy-glucose and other radioisotopes utilized in the diagnostic imaging
+procedures performed by the PET Scanning Equipment.
+
+The Letter of Intent does not contain all of the terms and conditions to be
+negotiated and agreed upon between the parties but is, to the extent provided in
+the Letter of Intent, binding upon the parties who have agreed to enter into a
+Stock Purchase Agreement, pursuant to which the Company will purchase from the
+Selling Stockholders all of the shares of the capital stock of Premier and PCI
+owned by each of them in exchange for shares of the Company's Common Stock.
+
+The Letter of Intent provides that the Company will issue 6,000 shares of its
+Common Stock upon and subject to the consummation of the proposed acquisition.
+Additionally, if, and to the extent each of the first six PET Centers achieves
+positive earnings, calculated before the deduction of interest expense, income
+taxes, depreciation and amortization, at any time during the first eighteen
+
+
+Page F-29
+
+<PAGE>
+
+months of their operations, the Company will issue to the Selling Stockholders
+an aggregate of 250,000 shares of its Common Stock for each of such Centers. The
+shares of Common Stock issued by the Company will have certain registration
+rights and in the event that either the Centers discontinue their operations or
+are adjudicated bankrupt within two years after the consummation of the proposed
+acquisition, the Company will have the right to repurchase from the Selling
+Stockholders all shares of the Company's Common Stock shares owned by them for a
+purchase price of One Dollar ($1.00).
+
+In addition upon the consummation of the proposed acquisition, the Company will
+provide working capital to Premier in the amount of $1,000,000, the proceeds of
+which will be used to establish and operate the PET Centers. To the extent
+required, the Company will guarantee Premier's obligations under any leasing or
+purchase agreement between Premier and the manufacturer or supplier of the PET
+Scanning Equipment or between Premier and any entity which provides financing
+for same.
+
+Consummation of the proposed acquisition is subject to certain conditions among
+which are due diligence by the Company, financing commitment and fairness
+opinion. There is no assurance that the acquisition will be consummated or if
+so, on what terms.
+
+
+Page F-30
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3077 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Es+zqxn3rzwXq/vPTnPo8c1VHeYkuj+RfQ/vcTJ/+GG45O1or8pmGWcm1FB3hIPG
+ I+jqdNh0AGxKiJnI5LWANA==
+
+<SEC-DOCUMENT>0000912057-97-011328.txt : 19970401
+<SEC-HEADER>0000912057-97-011328.hdr.sgml : 19970401
+ACCESSION NUMBER:		0000912057-97-011328
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970331
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHATEAU PROPERTIES INC
+		CENTRAL INDEX KEY:			0000912393
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				383132038
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12496
+		FILM NUMBER:		97570401
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19500 HALL RD
+		CITY:			CLINTON TOWNSHIP
+		STATE:			MI
+		ZIP:			48038
+		BUSINESS PHONE:		8102863600
+
+	MAIL ADDRESS:	
+		STREET 1:		19500 HALL ROAD
+		CITY:			CLINTON
+		STATE:			MI
+		ZIP:			48038
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+
+                          SECURITIES AND EXCHANGE COMMISSION
+                                 WASHINGTON, D.C. 20549
+
+                                   --------------
+
+                                     FORM 10-K
+(Mark One)
+                                                                     
+   X   Annual report pursuant to Section 13 or 15(d) of the Securities 
+  ---  Exchange Act of 1934                                            
+
+                        FOR THE YEAR ENDED DECEMBER 31, 1996
+                                        OR
+       Transition report pursuant to Section 13 or 15(d) of the Securities   
+  ---  Exchange Act of 1934                                                
+
+                          COMMISSION FILE NUMBER 1-12496
+
+                                  --------------
+
+                             CHATEAU PROPERTIES, INC.      
+               (Exact name of registrant as specified in its charter)
+
+                MARYLAND                               38-3132038
+     (State or other jurisdiction                   I.R.S. Employer
+   of incorporation or organization)               Identification No.)
+
+            6430 South Quebec Street, Englewood, Colorado     80111
+        (Address of principal executive offices)            (zip code)
+
+   Registrant's telephone number, including area code:    (303) 741-3707
+
+           Securities registered pursuant to section 12(b) of the Act
+                  and listed on the New York Stock Exchange:
+
+                          COMMON STOCK, $0.01 PAR VALUE
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                                      NONE
+
+     Indicate by check mark whether the registrant: (l) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Act of 1934 during
+the preceding 12 months, and (2) has been subject to such filing requirements
+for the past 90 days.
+
+Yes  X        No
+    ---          ---
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.
+
+     The aggregate market value of voting stock held by non-affiliates of the
+Registrant on March 25, 1997 was approximately $572,887,000 based on the closing
+price of the stock on the New York Stock Exchange on such date.  For the
+purposes of this response, executive officers and directors have been deemed to
+be affiliates of the Registrant.
+
+     The number of shares of the Registrant's Common Stock outstanding on March
+25, 1997 was 25,163,101 shares.
+
+     Portions of the Registrant's 1996 definitive Proxy Statement to be filed
+for its 1997 Annual Meeting of Shareholders are incorporated by reference into
+Part III of this Report.
+
+<PAGE>
+
+                              CHATEAU PROPERTIES, INC.
+
+                               FORM 10-K ANNUAL REPORT
+                        for the year ended December 31, 1996
+                                  TABLE OF CONTENTS
+                                        -----
+
+     ITEM                                                          PAGES
+     ----                                                          -----
+                                       PART I
+     
+          1.   Business . . . . . . . . . . . . . . . . . . . . . .  1
+     
+          2.   Properties . . . . . . . . . . . . . . . . . . . . .  6
+     
+          3.   Legal Proceedings. . . . . . . . . . . . . . . . . .  8
+     
+          4.   Submission of Matters to a Vote of Security 
+                    Holders . . . . . . . . . . . . . . . . . . . .  8
+     
+                                      PART II
+                                                           
+          5.   Market for Registrant's Common Equity and
+                    Related Security Holder Matters . . . . . . . .  9
+     
+          6.   Selected Financial Data. . . . . . . . . . . . . . . 10
+     
+          7.   Management's Discussion and Analysis of Financial
+                    Condition and Results of Operations . . . . . . 12
+     
+          8.   Financial Statements and Supplementary Data. . . . . 18
+     
+          9.   Changes in and Disagreements with Accountants on
+                    Accounting and Financial Disclosure . . . . . . 36
+     
+                                    PART III
+     
+          10.  Directors and Executive Officers of the 
+                    Registrant. . . . . . . . . . . . . . . . . . . 37
+     
+          11.  Executive Compensation . . . . . . . . . . . . . . . 37
+     
+          12.  Security Ownership of Certain Beneficial Owners
+                    and Management. . . . . . . . . . . . . . . . . 37
+     
+          13.  Certain Relationships and Related Transactions . . . 37
+     
+                                     PART IV
+     
+          14.  Exhibits, Financial Statement Schedules, and
+                    Reports on Form 8-K . . . . . . . . . . . . . . 38
+     
+               Signatures . . . . . . . . . . . . . . . . . . . . . 43
+     
+                           FINANCIAL STATEMENT SCHEDULES
+
+               Chateau Properties, Inc. Financial Statement 
+                    Schedules . . . . . . . . . . . . . . . . . . . F1
+<PAGE>
+
+                                    PART I
+
+
+ITEM 1.        BUSINESS
+
+GENERAL DEVELOPMENT OF BUSINESS.
+
+Chateau Properties, Inc. (the "Company") operates as a self-administered and
+self-managed equity real estate investment trust ("REIT").  Through CP Limited
+Partnership, a Maryland limited partnership (the "Operating Partnership") of
+which the Company is the sole general partner, the Company owns and operates 47
+manufactured home community properties in Michigan, Illinois, Florida, Minnesota
+and North Dakota (the "Properties").  The Company also has a 50 percent interest
+in a joint venture with ROC Communities, Inc. ("ROC") that owns 6 development
+communities.  The Company was formed in Maryland on August 25, 1993 to continue
+and expand the manufactured home operations and business objectives of Chateau
+Estates ("Chateau"), a Michigan co-partnership.  Chateau had developed, owned
+and operated manufactured home community properties since 1966.
+
+On February 11, 1997, the Company completed its merger with ROC (the "Merger").
+The Merger and related transactions will be accounted for using the purchase
+method of accounting in accordance with generally accepted accounting
+principles.  Accordingly, the assets and liabilities of ROC will be adjusted to
+fair value for financial accounting purposes and the results of operations of
+ROC will be included in the results of operations of the Company in 1997.
+
+In connection with the Merger, the following related transactions occurred:
+ 
+     -    The Company repurchased and retired 1,200,000 shares of its common
+          stock, of which 450,000 were repurchased in 1996
+
+     -    ROC purchased 350,000 shares of Chateau common stock, which was
+          retired at the time of the Merger
+
+     -    The Company issued 1.042 shares of its common stock for each
+          share of ROC stock outstanding
+
+     -    The Company paid a stock dividend equal to .0326 shares of
+          Company common stock per common share/OP Unit outstanding
+
+     -    Certain OP Unitholders converted 6,170,908 OP Units into common
+          shares.  These Unitholders waived their right to receive the above
+          dividend and as a result it was re-allocated to the existing
+          shareholders, resulting in a distribution to the common shareholders
+          of .068 shares of common stock
+
+     -    Certain OP Unitholders purchased 984,423 additional shares of
+          common stock from the Company at $25.88 per share.
+
+Since the Merger, Chateau now owns 128 communities with an aggregate 42,986
+residential homesites.  In addition, it now fee manages 6,953 residential
+homesites in 34 communities.
+
+                                      1
+<PAGE>
+
+FORMATION OF THE COMPANY
+
+In November 1993, the Company issued, in an initial public offering, 5,700,000
+shares of common stock (the "Offering").  In connection with the Offering, the
+Company engaged in the following transactions:
+
+       *  Chateau contributed fee title to twenty of the Properties to the
+          Operating Partnership in exchange for partnership interests in the
+          Operating Partnership ("OP units").
+
+       *  InterCoastal Communities, Inc. a Florida corporation and its
+          affiliates (collectively "InterCoastal"), contributed fee title to one
+          Property and partnership interests in partnerships which own fee title
+          to six of the Properties to the Operating Partnership in exchange for
+          OP units.
+
+       *  A group of six Michigan co-partnerships affiliated with Leonard
+          Maas (collectively "Maas") contributed fee title to six of the
+          Properties to the Operating Partnership in exchange for OP units.
+
+       *  The Company contributed the net proceeds of the Offering of
+          $103.8 million to the Operating Partnership, in exchange for a 40.8
+          percent partnership interest in the Operating Partnership as its sole
+          general partner.
+
+       *  The Operating Partnership used the net proceeds of the cash
+          contribution from the Company to repay approximately $88.2 million of
+          indebtedness (including related prepayment penalties) collateralized
+          by mortgages on certain of the Properties and the balance was retained
+          for working capital and for the possible acquisition of additional
+          manufactured home communities or development of expansion sites.
+
+Chateau, InterCoastal, and Maas are referred to together as the Chateau
+Properties Group or the Predecessor.
+
+INDUSTRY OVERVIEW
+
+A manufactured home community is a residential subdivision designed and improved
+with sites for the placement of manufactured homes and related improvements and
+amenities.  Manufactured homes are detached, single-family homes which are
+produced off-site by manufacturers and installed on sites within the community.
+Manufactured homes are available in a variety of architectural styles and floor
+plans, offering many amenities, custom options and on-site built additional
+structures.
+
+Modern manufactured home communities are similar to typical residential
+subdivisions usually containing centralized entrances, paved streets, curbs and
+gutters and parkways.  These communities frequently provide a clubhouse for
+social activities and recreation and other amenities, which may include swimming
+pools, shuffleboard courts, tennis  courts and laundry facilities.  Utilities
+are provided or arranged for by the owner of the community.  Some communities
+provide water and sewer service through public or private utilities, while
+others provide these services to residents from on-site facilities.
+
+                                      2
+<PAGE>
+
+The owner of each home in a manufactured home community leases a site from the
+community.  The manufactured home community is the owner of the underlying land,
+utility connections, streets, lighting, driveways, common area amenities and
+other capital improvements and is responsible for enforcement of community
+guidelines and maintenance.  Each owner within the manufactured home community
+is responsible for the maintenance of his home and leased site.
+
+OPERATING AND INVESTMENT STRATEGIES
+
+The Company seeks to maximize long-term growth in income and portfolio value
+through active management and expansion of certain of its existing manufactured
+home communities and the selective acquisition of additional communities.  The
+Company focuses on manufactured home communities that have above-average cash
+flow growth potential and expects to hold such properties for long-term
+investment and capital appreciation.  The Company's investment and operating
+strategies include:
+
+OPERATIONS
+
+     *    Providing the most attractive and desirable manufactured home
+          communities in its markets.
+
+     *    Offering a more extensive selection of amenities than other
+          manufactured home communities in its markets.
+
+     *    Maintaining and upgrading on a systematic basis its manufactured
+          home communities through a regular preventive maintenance and
+          replacement program.
+
+     *    Offering residents on-site services and accessibility to on-site
+          managers to maximize retention, encourage home maintenance and
+          improvements and minimize turnover.
+
+     *    Providing frequent personal contact between on-site managers and
+          residents to foster a sense of pride in the community.
+
+     *    Through a non-qualified REIT subsidiary, offer potential
+          community residents the convenience of purchasing a home in place.
+
+ACQUISITIONS, DEVELOPMENT AND EXPANSIONS
+
+     *    Selectively acquiring well-located manufactured home communities
+          that demonstrate the potential for increases in revenue and cash flow
+          by providing a professional property management team, correcting
+          operating inefficiencies, aggressively leasing and/or renovating sites
+          and developing additional sites.
+
+     *    Acquiring properties in existing markets in order to achieve
+          economies of scale in management and operations, and in new markets
+          where portfolios may be acquired with regional management in place.
+
+     *    Selectively developing new communities in regions where the
+          Company already does business and further development is supported by
+          demographics and strong market demand.
+
+                                       3
+<PAGE>
+
+     *    Capitalizing on opportunities to renovate and expand properties
+          consistent with local market demand.
+
+     *    Utilizing the expertise and relationships developed by the
+          Company's management to identify acquisition opportunities and
+          complete acquisitions directly with sellers prior to the active public
+          marketing of the properties.
+
+Important factors to the Company when evaluating potential acquisitions include:
+
+     *    Quality of the design and construction of the communities.
+
+     *    Current condition and appearance of the communities.
+
+     *    Current cash flow and ability of the Company to increase cash
+          flow through rental increases, enhanced operating efficiencies and
+          site expansions.
+
+     *    Existing and potential competition from other manufactured home
+          communities.
+
+     *    Economic strength of the surrounding area.
+
+The Company intends to finance its acquisitions and expansions through its $50
+million unsecured line of credit with Huntington National Bank, as lead agent,
+along with Bank of America and First Chicago NBD, and/or through additional
+equity and debt offerings or the issuance of OP units.  The Company also intends
+to maintain debt-to-total market capitalization (i.e., total debt of the Company
+as a percentage of the market value of outstanding shares of Common Stock,
+including OP Units exchangeable for such shares, plus total debt) of 40 percent
+or less.  At December 31, 1996, the Company had debt-to-total market
+capitalization of approximately 30 percent.
+
+EXPANSION AND IMPROVEMENT OF MANUFACTURED HOME COMMUNITY PROPERTIES
+
+The Company will seek to increase the income generated from the Properties and
+from any additional properties acquired by expanding the number of sites
+available to be leased to residents if justified by local market conditions and
+permitted by zoning and other applicable laws.  During 1996, the Company
+developed 276 expansion sites.  As of December 31, 1996 the Company had 20,279
+total sites, of which 1,131 were vacant.  The Company owned at such date
+undeveloped land adjacent to existing communities containing approximately 1,200
+expansion sites which are zoned for manufactured housing.  All necessary
+utilities are available at these expansion sites, however, building permits
+would need to be obtained prior to development.  This undeveloped land will
+facilitate additional growth to the extent conditions warrant.  In addition,
+where appropriate, the Company will consider upgrading or adding facilities and
+amenities to certain communities in order to make those communities more
+attractive in their markets.
+
+During 1996, the Company expanded its Anchor Bay  community by completing the
+development of 103 sites, expanded its Algoma community by developing 53 sites,
+expanded its Fairways community by completing the development of 10 sites and
+developed 110 sites on land adjacent to its Macomb community.
+
+
+                                     4
+<PAGE>
+
+1996 ACQUISITIONS
+
+During 1996, the Company completed the following acquisitions:
+
+                                              Amount 
+                                             Allocated         OP  
+                    Community Name and        to Assets      Units 
+     Date                Location             Acquired       Cash        Cash
+     ----           ------------------       ----------      -----       ----
+ March, 1996        Chestnut Creek Farm       $  3,400           -     $  3,400
+                    DAVISON, MI
+
+ May, 1996          Maple Valley and          $  5,800     $ 1,000     $  4,800
+                    Maple Ridge
+                    MANTENO, IL
+
+ September, 1996    Joint venture with ROC    $ 10,300           -     $ 10,300
+                    purchase of six 
+                    communities in six 
+                    states
+
+ Various            Other joint ventures      $  4,200     $ 1,000     $  3,200
+
+LEASES
+
+The typical lease entered into between the resident and one of the Company's
+manufactured home communities for the rental of a site is month-to-month or
+year-to-year, renewable upon the consent of both parties  or, in some instances,
+as provided by statute. Pursuant to Michigan Mobile  Home Commission Act Section
+28 which governs the leasing of manufactured  home sites in Michigan,
+prospective residents must be given the opportunity to sign a  lease for a fixed
+term for their site. The Company's experience has been  that a majority of
+Michigan residents decline to execute a lease, but like all residents of the
+Company's properties, do execute less formal documentation which sets forth the
+general terms of occupancy.  Leases or other terms of residents' occupancy are
+cancelable for non-payment of rent, violation of community rules and regulations
+or other specified defaults.
+
+COMPETITION
+
+All of the Properties are located in developed areas that include other
+manufactured home community properties. The number of competitive manufactured
+home community properties in a particular area could have a material effect on
+the Company's ability to lease sites at the Properties or at any newly acquired
+properties and on the rents charged.  Although the Company believes it has
+adequate capital resources and its officers and directors have significant
+experience, the Company competes with others that may have greater resources
+than the Company and whose officers and directors may have more experience than
+the Company's officers and directors. In addition, other forms of multi-family
+residential properties and single-family housing provide housing alternatives to
+potential residents of the Properties.
+
+                                      5
+<PAGE>
+
+EMPLOYEES
+
+As of December 31, 1996, the Company had approximately 276 full and part-time 
+employees.  The Company utilizes a resident administrator for the on-site 
+administration of each of the Properties.  Important duties of on-site 
+administrators as well as the office manager include extensive contact with 
+residents through initial introduction to community rules and on-going 
+accessibility for resident assistance.  The communities have extensive rules 
+and regulations to maintain their appearance at the highest level.  
+Administrators notify residents who are in violation of these rules and 
+regulations. Typically, clerical and maintenance workers are employed to 
+assist these individuals in the management and care of the Properties.  
+Direct supervision of on-site administrators is the responsibility of the 
+Company's four regional vice presidents.  These individuals have significant 
+experience in addressing the needs of residents and in finding or creating 
+innovative approaches to value maximization and increased cash flow from 
+property operations.  Complementing this field management staff are 23 
+corporate employees who assist on-site administrators in all property 
+functions.
+
+Commitment to resident satisfaction is demonstrated by the ongoing training 
+that the Company provides for on-site staff.  Community administrators meet 
+periodically at regional seminars to review Company philosophy and policy, to 
+discuss relevant administration issues and solutions and to share ideas and 
+experiences.
+
+TAX STATUS
+
+The Company has elected to be taxed as a REIT under Section 856(c) of the 
+Internal Revenue Code of 1986, as amended (the "Code").  The Company 
+generally will not be subject to Federal income tax to the extent it 
+distributes 95 percent of its REIT taxable income to its stockholders. REITs 
+are subject to a number of organizational and operational requirements. If 
+the Company fails to qualify as a REIT in any taxable year, the Company will 
+be subject to Federal income tax (including any applicable alternative  
+minimum tax) on its taxable income at regular corporate rates.  Even as a 
+REIT, the Company is subject to certain state and local taxes on its income 
+and property and Federal income and excise taxes to the extent of its 
+undistributed income.
+
+ITEM 2.   PROPERTIES
+
+At December 31, 1996 the Properties consisted of 47 manufactured home 
+communities containing 20,279 sites with amenities designed for either 
+retirement or family living of which 25 were located in Michigan, 13 in 
+Florida, 4 in Minnesota, 3 in North Dakota and 2 in Illinois.  The Company 
+also owned land adjacent to certain existing communities containing 
+approximately 1,200 expansion sites which, although not yet developed, were 
+zoned for manufactured housing.  Of the 47 Properties, 38 have 200 or more 
+sites, with the largest having 1,533 sites.
+
+The Company also has a 50 percent interest in a joint venture with ROC that 
+owns 6 development communities.
+
+                                      6
+<PAGE>
+
+At December 31, 1996, the Properties had an average occupancy rate of 
+approximately 94.4 percent with weighted average rent for the year ended 
+December 31, 1996 of $285 per month.  Weighted average rent is calculated as 
+net rental income for the period, on a monthly basis, divided by the weighted 
+average occupied sites.  Weighted average occupancy is computed by averaging 
+the occupied sites at the end of each month in the period.
+
+The Company believes that the Properties provide amenities and common 
+facilities that create a safe and attractive community for the residents. All 
+of the Properties provide residents with attractive amenities with most 
+offering a clubhouse, a swimming pool and a library.  Many Properties offer 
+additional amenities such as sauna/whirlpool spas, indoor pools, tennis 
+courts, shuffleboard courts, basketball courts, golf courses, day care 
+facilities, exercise rooms and a marina.
+
+Since residents own their homes, it is their responsibility to maintain their 
+homes and the surrounding area.  It is management's role to insure that 
+residents comply with community policies and to provide maintenance of the 
+common areas, facilities and amenities.  The Company continually monitors 
+compliance by residents with its residents' regulations to assure that the 
+communities are maintained at the highest standards.  The Company holds 
+periodic meetings of its property management personnel for training and 
+implementation of the Company's strategies, and property administrators make 
+a daily inspection of the Properties.  The Company believes that, due in part 
+to this strategy, the Properties historically have had and will continue to 
+have low turnover and high occupancy rates.  Since 1989, the Properties have 
+averaged an annual turnover of homes (where the home is moved out of the 
+community) of less than 3 percent. During this period, the average annual 
+turnover of residents in the Properties (where the home is sold and remains 
+within the community, typically without interruption of rental income) has 
+been approximately 10-12 percent.
+
+The Operating Partnership owns a 100 percent beneficial interest in all of 
+the Properties, (other than the six properties held in the joint venture with 
+ROC, in which it has a 50 percent interest), except for Emerald Lake, 
+Fairways, Lakeland Junction, Lakes at Leesburg, Palm Beach Colony, Winter 
+Haven Oaks and Del Tura in which it owns a 99 percent beneficial interest and 
+in which the Company owns the remaining 1 percent beneficial interest.
+
+INDEBTEDNESS
+
+At December 31, 1996, the aggregate amount of indebtedness encumbering the 
+Properties was approximately $54.4 million.  The amounts outstanding as of 
+December 31, 1996 for the indebtedness encumbering each of these Properties 
+is set forth (in thousands) in the following table.  Prepayment of these debt 
+obligations may result in significant prepayment penalties.
+
+<TABLE>
+                                                                              Amount of
+                                      Amount of     Interest                Indebtedness
+Property Pledged as Collateral       Indebtedness     Rate     Maturity   due at Maturity
+- ------------------------------       ------------     ----     --------   ---------------
+<S>                                   <C>             <C>       <C>         <C>
+Del Tura                              $ 33,323        8.40%      2000        $ 31,138
+Macomb                                  16,328        9.82%      1999          15,574
+Norton Shores/Ferrand Estates            3,535        8.00%      1999           3,327
+Oak Hill                                 1,255        8.00%      1998           1,219
+                                      --------                               --------
+Total                                 $ 54,441                               $ 51,258
+                                      --------                               --------
+                                      --------                               --------
+</TABLE>
+                                      7
+<PAGE>
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+In connection with a tender offer by Manufactured Home Communities, Inc.'s 
+("MHC") operating partnership for shares of the Company's Common Stock in 
+September 1996, the Company commenced litigation against MHC and its 
+operating partnership in United States District Court in Baltimore, Maryland 
+seeking a declaratory judgment with respect to, among other things, the 7 
+percent ownership limit set forth in the Company's Articles.  MHC filed a 
+counterclaim against the Company, its directors and ROC in the litigation 
+alleging, among other things, various breaches of fiduciary duty.  Despite 
+the withdrawal by MHC of its tender offer, this litigation remains pending.
+
+In addition, three separate purported class actions have been filed against 
+the Company and its directors in the Circuit Court of Montgomery County, 
+Maryland alleging breaches of fiduciary duty for agreeing to a merger with 
+ROC and refusing to endorse the MHC Tender Offer or the proposal received 
+from Sun Communities, Inc.
+
+The Company believes the MHC counterclaim and the State Court litigation 
+(which has been consolidated) are entirely without merit and intends to 
+vigorously defend these cases if pursued.
+
+The information contained in the Schedule 14D-9 filed by the Company, 
+including amendments previously filed and those which may be filed after the 
+date hereof, is incorporated herein by reference.
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of the Company's security holders during 
+the last quarter of its fiscal year ended December 31, 1996.
+
+
+
+
+                                      8
+<PAGE>
+
+                                   PART II
+
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SECURITY HOLDER
+          MATTERS
+
+The Company's common stock is traded on the New York Stock Exchange ("NYSE")
+under the symbol CPJ.  The following table sets forth, for the quarterly periods
+shown, the high and low sales price per share as reported on the NYSE for the
+years ended December 31, 1995 and 1996.
+
+                                      Price Range
+                                      -----------      Cash Dividend
+            Quarter Ended           High       Low        Declared
+            -------------           ----       ---        --------
+            March 31, 1995         $22-1/2   $18           $ .375
+            June 30, 1995          $22-5/8   $19-3/4       $ .375
+          September 30, 1995       $22-1/2   $20-3/8       $ .375
+          December 31, 1995        $22-7/8   $20-3/4       $ .40
+
+                                      Price Range
+                                      -----------      Cash Dividend
+            Quarter Ended           High       Low        Declared
+            -------------           ----       ---        --------
+            March 31, 1996         $24-7/8   $22-1/8       $ .405
+            June 30, 1996          $23-7/8   $21-5/8       $ .405
+          September 30, 1996       $27       $22-1/8       $ .405
+          December 31, 1996        $26-5/8   $23-7/8       $ .405
+
+The Company expects to continue to pay regular quarterly dividends to holders 
+of its Common Stock.  Subject to the needs of the Company's acquisition and 
+expansion strategies and subject to the REIT qualification standards, the 
+Company intends to distribute annually up to 95 percent of its cash flow.
+
+Distributions by the Company to the extent of its current and accumulated 
+earnings and profits for Federal income tax purposes will be taxable to 
+stockholders as dividend income. Distributions in excess of earnings and 
+profits generally will be treated as a non-taxable reduction of the 
+stockholder's basis in the Common Stock to the extent thereof, with the 
+remainder as taxable gain.
+
+In May 1995, the Company issued 335,460 shares of its Common Stock in 
+exchange for an equal number of OP Units.  These OP Units, which were 
+exchangeable by their terms at the option of the holder, had previously been 
+issued in a privately negotiated transaction in exchange for properties 
+contributed on formation of the Operating Partnership in November, 1993.  The 
+Company believes that these holders of OP Units were "accredited investors" 
+(as defined in Regulation D under the Securities Act of 1933) and issued 
+these shares of Common Stock in reliance on the exemption from registration 
+found in Section 4(2) of the Securities Act of 1933.
+
+At March 25, 1997, there were approximately 600 holders of record and 
+approximately 12,000 beneficial owners of the Company's Common Stock.
+
+                                      9
+
+<PAGE>
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+The following table sets forth summary financial information of the Company and
+the Predecessor for the periods and dates indicated.
+
+<TABLE>
+                                                                                                             Predecessor   
+                                                                                                     ---------------------------
+                                                            For the                  For the Period                   For the 
+                                                          Year Ended                   November 23-  January 1 -    year ended
+                                          December 31,   December 31,  December 31,    December 31,  November 22,   December 31,
+ In thousands, except per share data        1996 (1)         1995         1994 (2)         1993           1993           1992  
+                                            --------       --------       --------        -------       --------       --------
+<S>                                       <C>            <C>           <C>             <C>           <C>            <C>
+OPERATING DATA:
+Revenues:
+  Rental income                             $ 64,695       $ 59,912       $ 47,318        $ 4,577       $ 38,242       $ 40,826
+  Interest and other income                    2,689          1,943            749            110            684            541
+                                            --------       --------       --------       --------       --------       --------
+    Total revenues                            67,384         61,855         48,067          4,687         38,926         41,367
+
+Expenses:
+  Property operating and administrative       26,870         24,410         19,944          1,867         16,909         17,712
+  Depreciation                                11,452         11,014          7,230            707          5,823          6,431 
+  Interest and related amortization           12,962         12,452          5,996            576         12,101         14,303 
+  Reorganization costs                                                                      1,699
+                                            --------       --------       --------       --------       --------       --------
+    Total expenses                            51,284         47,876         33,170          4,849         34,833         38,446
+                                            --------       --------       --------       --------       --------       --------
+      Income (loss) before extraordinary 
+       item and majority interest             16,100         13,979         14,897           (162)         4,093          2,921
+  Extraordinary item (3)                                       (829)                       (2,738)
+  Majority interest in Operating 
+   Partnership                                (9,566)        (7,847)        (8,860)         1,717
+                                            --------       --------       --------       --------       --------       --------
+  Net income (loss)                         $  6,534       $  5,303       $  6,037       $ (1,183)      $  4,093       $  2,921
+                                            --------       --------       --------       --------       --------       --------
+                                            --------       --------       --------       --------       --------       --------
+  Weighted average common shares
+   outstanding                                 6,022          5,959          5,750          5,750
+  Weighted average common shares
+   and OP Units outstanding                   14,837         14,779         14,189         14,081
+
+Earnings per Share/OP Unit Data:
+  Income (loss) before extraordinary
+   item                                     $   1.09       $    .95       $   1.05      $    (.01)
+  Extraordinary item                        $      -       $   (.06)      $      -      $    (.20)
+  Net income (loss)                         $   1.09       $    .89       $   1.05      $    (.21)
+  Dividends/distributions declared          $   1.62       $  1.525       $  1.425      $     .15
+
+CASH FLOW DATA:
+ Net cash provided by operating
+  activities                                $ 29,755       $ 28,097       $ 22,584      $   4,980       $  8,659       $  8,853
+ Net cash provided by (used in)
+  financing activities                      $   (595)      $(24,365)      $  7,056      $  15,591       $ (5,983)     $  (5,933)
+ Net cash provided by (used in) 
+  investing activities                      $(29,518)      $ (6,158)      $(46,214)     $    (639)      $ (3,416)     $  (3,140)
+
+BALANCE SHEET DATA:
+  Rental property, before accumulated
+   depreciation                             $300,631       $276,423       $266,833       $151,069                      $147,107
+  Rental property, net of accumulated
+   depreciation                             $219,338       $206,555       $207,977       $ 97,755                      $100,230
+  Total assets                              $232,066       $212,034       $215,418       $120,524                      $106,449
+  Total debt                                $168,315       $132,700       $132,747       $ 52,831       $143,148
+  Majority interest in Operating
+   Partnership                              $ 26,552       $ 36,264       $ 41,569       $ 35,441
+  Shareholders' equity (owners' deficit)    $ 16,191       $ 24,308       $ 25,542       $ 23,424       $(46,016)
+
+
+                                          10
+
+<PAGE>
+
+
+ITEM 6. SELECTED FINANCIAL DATA, CONTINUED
+
+ OTHER DATA:                                                                                                  Predecessor
+                                                                                                     ---------------------------
+                                                            For the                   For the Period                  For the
+                                                          Year Ended                   November 23-  January 1 -     year ended
+                                          December 31,   December 31,  December 31,    December 31,  November 22,   December 31,
+ Dollars in thousands                       1996 (1)         1995         1994 (2)         1993           1993           1992  
+                                            --------       --------       --------        -------       --------       --------
+
+
+ Total properties (at end of period)              47             44             43             33                          33
+ Total sites (at end of period)               20,279         19,594         19,185         15,261                        15,072
+ Weighted average occupied sites              18,889         18,051         14,913         14,025         14,025         13,683
+ Funds from operations (4)                  $ 27,460       $ 24,898       $ 22,015       $    536       $  9,822       $  9,252
+
+</TABLE>
+
+     (1)  In February 1997, the Company completed a merger with ROC
+          Communities, Inc.  See Note 12 to the Consolidated Financial
+          Statements for information regarding the merger.
+
+     (2)  The Company acquired eight communities in the fourth quarter of 1994.
+
+     (3)  The extraordinary items represent prepayment penalties and
+          certain other related costs associated with the early extinguishment
+          of debt.
+
+     (4)  Funds from operations ("FFO") is defined by the National
+          Association of Real Estate Investment Trusts ("NAREIT") as net income
+          excluding gains (or losses) from debt restructuring and sales of
+          property plus rental property depreciation and amortization.
+          Management believes that FFO is an important and widely used measure
+          of the operating performance of REITs which provides a relevant basis
+          for comparison among REITs.  For all periods presented, depreciation
+          of rental property is the only non-cash adjustment.  FFO (i) does not
+          represent cash flow from operations as defined by generally accepted
+          accounting principles; (ii) should not be considered as an alternative
+          to net income as a measure of operating performance or to cash flows
+          from operating, investing and financing activities; and (iii) is not
+          an alternative to cash flows as a measure of liquidity.  FFO is
+          calculated as follows:
+
+<TABLE>                                                                 
+                                                                                                             Predecessor 
+                                                                                                      ---------------------------
+                                                            For the                   For the period                   For the
+                                                          Year Ended                    November 23-   January 1 -    year ended
+                                          December 31,   December 31,   December 31,     December 31,  November 22,   December 31,
+ In thousands                                 1996           1995           1994            1993           1993           1992 
+                                            --------       --------       --------        -------       --------       --------
+<S>                                         <C>           <C>            <C>             <C>            <C>
+ Income (loss) before
+  extraordinary item                        $ 16,100       $ 13,979       $ 14,897       $   (162)      $  4,093       $  2,921
+ Depreciation of rental                        
+  property                                    11,360         10,919          7,118            698          5,729          6,331
+                                            --------       --------       --------       --------       --------       --------
+ Funds from Operations                      $ 27,460       $ 24,898       $ 22,015         $  536       $  9,822       $  9,252
+
+</TABLE>
+
+                                        11
+
+<PAGE>
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND
+          RESULTS OF OPERATIONS
+
+The following discussion and analysis of results of operations and financial 
+condition covers the years ended December 31, 1996, 1995 and 1994 and should 
+be read in conjunction with the consolidated financial statements of the 
+Company included elsewhere herein.
+
+On February 11, 1997, the Company completed its merger with ROC Communities, 
+Inc. ("ROC") (the "Merger").  The pro forma discussion covers the years ended 
+December 31, 1996 and 1995 assuming the Merger and related transactions had 
+occurred on January 1, 1995.  This pro forma discussion should be read in 
+conjunction with Note 12 to the financial statements of the Company included 
+elsewhere herein.
+
+HISTORICAL RESULTS OF OPERATIONS
+
+COMPARISON OF YEAR ENDED DECEMBER 31, 1996 TO YEAR ENDED DECEMBER 31, 1995
+
+For the year ended December 31, 1996, income before majority interest and 
+extraordinary item was $16,100,000, an increase of $2,121,000 from the year 
+ended December 31, 1995.  The increase was due primarily to increased net 
+operating income from communities owned by the Company on January 1, 1995 
+(the "Core 1995 Portfolio") and to a lesser extent, the acquisition of three 
+communities in 1996 and one community in 1995.  The increase in net operating 
+income from the Company's Core 1995 Portfolio was due to increased occupancy 
+and rental increases offset by general operating expense increases.
+
+Rental revenue in 1996 was $64,695,000, an increase of $4,783,000 or 8.0 
+percent from 1995.  Approximately 2.3 percent of the increase was due to the 
+acquisitions of three communities in 1996 and one in 1995, 3.9 percent 
+represented the effect of annual rent increases in the Core 1995 Portfolio 
+and 1.8 percent was due to increased occupancy in the Core 1995 Portfolio.  
+Weighted average occupancy for the year ended December 31, 1996, was 18,889 
+sites, or 4.6 percent higher than weighted average occupancy for the year 
+ended December 31, 1995. Weighted average occupancy increased in 1996 due to 
+the 1996 and 1995 acquisitions and the filling of 265 additional sites that 
+were either vacant at January 1, 1996 or developed in 1996.  The occupancy 
+rate was 94.4 percent on 20,279 sites as of December 31, 1996, as compared 
+with 94.3 percent on 19,594 sites as of December 31, 1995.  On a per site 
+basis, weighted average monthly rental revenue for the year ended December 
+31, 1996 increased to $285 from $277 in 1995 or 3.2 percent due to rental 
+increases in the Core 1995 Portfolio in 1996.
+
+Interest and other income increased approximately $746,000, or 38 percent, in 
+1996 from 1995.  The increase is due primarily to the inclusion of the 
+results of operations of four golf courses and a marina for the period 
+beginning January 1, 1996.  These operations were previously conducted by GC 
+Properties, Inc. ("GCI"), a corporation wholly owned by an equity owner of 
+the Company, in order to permit the Company's qualification as a REIT under 
+the Internal Revenue Code. From November 23, 1993 through December 31, 1995, 
+the Company recognized net lease income from GCI which was classified as 
+other income.  In early 1996, the Company received a ruling from the Internal 
+Revenue Service allowing the Company to conduct these operations.  Effective 
+January 1, 1996, as a result of acquiring the operations of GCI, the Company 
+has consolidated these operations.
+
+
+                                       12
+<PAGE>
+
+
+Property operating and maintenance expense for the year ended December 31, 
+1996 increased by $2,180,000 or 13.6 percent from the same period a year ago. 
+Approximately $1,028,000 of the increase represents the operating costs of 
+the golf course and marina operations discussed above.  The remaining 
+increase of $1,152,000 or a 7.2 percent increase over the prior year, is due 
+primarily to the acquisition of three communities in 1996 and one in 1995.  
+On a per site basis, monthly weighted average property operating and 
+maintenance expense increased from $74 in 1995 to $80 in 1996, or 8.6 
+percent.  Excluding the golf course and marina operations, monthly weighted 
+average property operating and maintenance expense increased 2.4 percent, on 
+a per site basis, year over year.
+
+Real estate taxes for the year ended December 31, 1996, increased by 
+$333,000, or 7.4 percent, from the year ended December 31, 1995.  The 
+increase is due primarily to acquisitions and expansions of communities and 
+general increases. On a per site basis, monthly weighted average real estate 
+taxes were $21.40 in 1996 compared to $20.90  in 1995, an increase of 2.6 
+percent. Real estate taxes may increase or decrease due to inflation, 
+expansions and improvements of communities, as well as changes in taxation in 
+the tax jurisdictions in which the Company operates.
+
+Administrative expense for 1996 was relatively constant with 1995. 
+Administrative expense in 1996 was 5.7 percent of revenues as compared to 6.3 
+percent in 1995.
+
+Interest and related amortization costs increased for the year ended December 
+31, 1996, by $510,000, as compared with the year ended December 31, 1995.  
+The increase is attributable to the indebtedness incurred to finance the 1996 
+acquisitions of three communities and one in 1995, as well as the investment 
+in a joint venture with ROC that owns six development communities.  Interest 
+expense also increased due to the financing of the Company's repurchase and 
+retirement of 450,000 shares of its common stock in connection with the 
+Merger. Interest expense as a percentage of average debt outstanding 
+decreased to approximately 8.1 percent in 1996 from approximately 8.9 percent 
+in 1995.
+
+Depreciation expense for the year ended December 31, 1996, increased $438,000 
+from the same period a year ago.  The increase is due to acquisitions and 
+expansions.  Depreciation expense as a percentage of average depreciable 
+rental property in 1996 remained relatively unchanged from 1995.
+
+COMPARISON OF YEAR ENDED DECEMBER 31, 1995 TO YEAR ENDED DECEMBER 31, 1994
+
+For the year ended December 31, 1995, income before majority interest and 
+extraordinary item was $13,979,000, a decrease of $918,000 from the year 
+ended December 31, 1994.  The decrease was due to an increase in depreciation 
+of $3,784,000 and increased interest costs of $6,456,000, which were offset 
+by increased net operating income of $9,322,000.  These increases were 
+primarily due to the acquisitions of one community in 1995 and 10 communities 
+in 1994, as well as an increase in net rental revenue from the communities 
+owned by the Company on January 1, 1994 (the "Core 1994 Portfolio").  The 
+increase in net operating income from the Company's Core 1994 Portfolio was 
+due to increased occupancy and rental increases offset by general operating 
+expense increases. In the first quarter 1995, the Company recognized an 
+extraordinary charge of $829,000 related to the early extinguishment of debt.
+
+
+
+
+
+                                        13
+<PAGE>
+
+Rental revenue in 1995 was $59,912,000, an increase of  $12,594,000 or 26.6 
+percent from 1994.  Approximately 84.8 percent of the increase was due to the 
+acquisition of one community in September 1995 and 10 communities in 1994, 
+eight of which were acquired in the fourth quarter, 9.2 percent represents 
+the effect of annual rent increases in the Core 1994 Portfolio and 6.0 
+percent was due to increased occupancy in the Core 1994 Portfolio.
+
+Weighted average occupancy for the year ended December 31, 1995, was 18,051 
+sites, or 21 percent higher than weighted average occupancy for the year 
+ended December 31, 1994. Weighted average occupancy increased in 1995 due to 
+the 1995 and 1994 acquisitions and the filling of 381 additional sites that 
+were either vacant at January 1, 1995, or developed in 1995.  The occupancy 
+rate was 94.3 percent on 19,594 sites as of December 31, 1995, as compared 
+with 92.7 percent on 19,185 sites as of December 31, 1994.
+
+On a per site basis, weighted average monthly rental revenue for the year 
+ended December 31, 1995 increased to $277 from $264 in 1994 or 4.6 percent.  
+This increase was due to acquisitions made in 1995 and 1994 and rental 
+increases in the Core 1994 Portfolio in 1995, partially offset by a weighted 
+average $2 per month per site rebate that the Company passed through to its 
+Michigan residents. The rebate represented the net savings realized by the 
+Company from a change in real estate taxation in Michigan.
+
+Interest and other income increased approximately $1,194,000, or 159 percent, 
+in 1995 from 1994 primarily due to other operating revenues generated by the 
+communities acquired by the Company in November 1994.
+
+Property operating and maintenance expense for the year ended December 31, 
+1995, increased by $3,524,000 or 28.2 percent from the same period a year 
+ago.  The increase is due primarily to the 1995 and 1994 acquisitions.  On a 
+per site basis, monthly weighted average property operating and maintenance 
+expense increased from $70 in 1994 to $74 in 1995, or 5.9 percent.  The 
+increase on a per site basis is due principally to certain of the communities 
+acquired in 1994 having a higher per site operating cost, an increase in 
+advertising and other costs incurred to fill sites and utility rate 
+increases.  The higher per site operating cost in certain of the acquired 
+communities is due, in part, to the costs associated with the other operating 
+revenues generated by these communities.  The increase in advertising 
+spending resulted in the net filling of 381 sites for 1995, while only 170 
+sites were filled for the year ended December 31, 1994.
+
+Real estate taxes for the year ended December 31, 1995, increased by 
+$688,000, or 17.9 percent, from the year ended December 31, 1994.  The 
+increase is due primarily to acquisitions and expansions of communities.  On 
+a per site basis, monthly weighted average real estate taxes were $20.90 in 
+1995 compared to $21.40 in 1994, a decrease of 2.6 percent.  The decrease was 
+due primarily to a change in real estate taxation in Michigan and 
+acquisitions which had a lower per site real estate tax cost, offset by 
+general tax increases.  The change in real estate taxation decreased real 
+estate taxes beginning in the third and fourth quarter of 1994, and first and 
+second quarter of 1995.  Real estate taxes may increase or decrease due to 
+inflation, expansions and improvements of communities, as well as changes in 
+taxation in the tax jurisdictions in which the Company operates.
+
+Administrative expense for the year ended December 31, 1995, increased 
+$254,000, or 7.0 percent, from the year ended December 31, 1994. 
+Administrative expense in 1995 was 6.3 percent of revenues as compared to 7.5 
+percent in 1994.
+
+
+
+                                      14
+
+<PAGE>
+
+Interest and related amortization costs increased for the year ended December 
+31, 1995, by $6,456,000, as compared with the year ended December 31, 1994.  
+The increase is attributable to the indebtedness incurred to finance the 1995 
+and 1994 acquisitions of 10 communities.  Interest expense as a percentage of 
+average debt outstanding decreased to approximately 8.9 percent in 1995 from 
+approximately 9.4 percent in 1994 due to debt refinancing that occurred in 
+the first quarter of 1995.
+
+Depreciation expense for the year ended December 31, 1995, increased 
+$3,784,000 from the same period a year ago.  The increase is due to the 1995 
+and 1994 acquisitions of 10 communities for a combined purchase price of 
+approximately $117 million.  Depreciation expense as a percentage of average 
+depreciable rental property in 1995 remained relatively unchanged from 1994.
+
+PRO FORMA RESULTS OF OPERATIONS
+
+PRO FORMA YEAR ENDED DECEMBER 31, 1996 COMPARED TO PRO FORMA YEAR ENDED 
+DECEMBER 31,1995
+
+Rental revenue increased $7,200,000 or 6 percent in 1996 over 1995 due to 
+increased occupancy and rental increases in communities owned by the Company 
+on January 1, 1995.  Other revenues increased approximately $800,000 or 20 
+percent for the year ended December 31, 1996 over 1995 due primarily to golf 
+course and marina operations which were consolidated in 1996 and recorded as 
+net lease income in 1995 as discussed above.
+
+Property, operating, maintenance and administrative expense increased 
+$4,100,000 or 8.3 percent in 1996 as compared to 1995.  Excluding the 
+expenses of the golf course and marina operations discussed above, the 
+increase would have been $3,000,000 or 6.1 percent.  This increase is due to 
+the increased number of occupied sites, as well as general increases.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+HISTORICAL LIQUIDITY AND CAPITAL RESOURCES
+
+Net cash provided by operating activities was $29,755,000 for the year ended 
+December 31, 1996, compared to $28,097,000 for the year ended December 31, 
+1995. The increase in cash provided by operating activities was due primarily 
+to the increase in net operating income.
+
+Net cash used in financing activities for the year ended December 31, 1996, 
+was $595,000.  Use of cash included distributions made to shareholders/OP 
+Unit holders of $24,065,000; the payment of $932,000 to reacquire 43,333 OP 
+units at $21.50 per Unit and the payment of $11,239,000 to repurchase and 
+retire 450,000 shares of the Company's common stock in connection with the 
+Merger.  The shares were repurchased in October 1996 at an average price of 
+approximately $25.00 per share.  This use of cash was offset partially by net 
+borrowings under the Company's line of credit of $36,750,000.
+
+Net cash used in investing activities for the year ended December 31, 1996 
+was $29,518,000.   This amount represented the acquisition of three 
+communities, joint venture investments, capital expenditures and construction 
+and development costs.  The acquisition of the three communities for an 
+aggregate purchase price of $9,200,000 were financed by $8,200,000 borrowed 
+on the Company's line of credit and $1,000,000 through the issuance of 43,884 
+OP units.  The investment in the joint venture with ROC of $10,300,000 was 
+financed by a borrowing on the Company's line of credit.  The Company also 
+invested approximately 
+
+                                     15 
+<PAGE>
+
+$3,200,000 in cash in other joint ventures.  For the year ended December 31, 
+1996, construction and development costs approximated $3,700,000, while 
+recurring property capital expenditures, other than construction and 
+development costs, were approximately $635,000. Recurring property capital 
+expenditures in 1996 increased $94,000, or 17 percent, over the same period 
+in 1995, due to the increased number of communities in the Company's 
+portfolio.  Capital expenditures have historically been financed with funds 
+from operations and it is the Company's intention that such future 
+expenditures will be financed with funds from operations.
+
+Future acquisitions of communities and land for development of sites will be 
+financed through borrowings on the line of credit, the issuance of additional 
+equity or debt securities, assumption of existing secured or unsecured 
+indebtedness or the issuance of OP units.  The development of expansion sites 
+will be financed primarily by cash flow from operations and borrowings on the 
+line of credit.  Huntington National Bank, as lead agent, along with Bank of 
+America and First Chicago NBD, have agreed, until January, 1999, to lend the 
+Company up to $50 million which, subject to customary conditions, is 
+available to finance the development of expansion sites, the acquisition of 
+additional properties and general business obligations.  This line of credit 
+is unsecured and bears interest at 150 basis points over LIBOR.  At December 
+31, 1996, there was $36,750,000 outstanding under the line of credit.
+
+The Company expects to meet its short-term liquidity requirements through 
+cash flow from operations and, if necessary, borrowings under its line of 
+credit.
+
+The Company anticipates meeting its long-term liquidity requirements from 
+borrowings under its line of credit, from the issuance of additional debt or 
+equity securities and cash flows from operations.
+
+The Company, as an owner of real estate, is subject to various environmental 
+laws.  Compliance by the Company with existing laws has not had a material 
+adverse financial effect on results of operations or financial position 
+during the three year period ended December 31, 1996, nor does management 
+believe it will have a material impact in the future.
+
+PRO FORMA INDEBTEDNESS
+
+On a pro forma basis as of December 31, 1996, the Company had the following 
+debt outstanding (in thousands):
+
+Fixed rate mortgages                            $113,979 
+Fixed rate unsecured debt                        145,000 
+Unsecured lines of credit                         66,993 
+Other debt                                         2,124 
+                                                -------- 
+                                                $328,096 
+                                                -------- 
+                                                -------- 
+
+The weighted average interest rate and remaining term of the fixed rate debt 
+was approximately 8.1 percent and 4.3 years, respectively.  The only variable 
+rate debt outstanding is drawn on lines of credit.  After the Merger, the 
+Company has two available credit facilities aggregating $100 million, each of 
+which is unsecured and bears interest at 150 basis points over LIBOR.
+
+                                     16 
+<PAGE>
+
+INFLATION
+
+All of the leases or terms of tenants' occupancies at the communities allow 
+for at least annual rental adjustments.  In addition, all leases are 
+short-term (generally one year or less) and enable the Company to seek market 
+rentals upon reletting the sites.  Such leases generally minimize the risk to 
+the Company of any adverse effect of inflation.
+
+OTHER
+
+Funds from operations ("FFO") is defined by the National Association of Real 
+Estate Investment Trusts ("NAREIT") as net income excluding gains (or losses) 
+from debt restructuring and sales of property plus rental property 
+depreciation and amortization.  Management believes that FFO is an important 
+and widely used measure of the operating performance of REIT's which provides 
+a relevant basis for comparison among REITs.  For all periods presented, 
+depreciation of rental property is the only non-cash adjustment.  FFO (i) 
+does not represent cash flow from operations as defined by generally accepted 
+accounting principles; (ii) should not be considered as an alternative to net 
+income as a measure of operating performance or to cash flows from operating, 
+investing and financing activities; and (iii) is not an alternative to cash 
+flows as a measure of liquidity.  FFO is calculated as follows:
+
+                                                    For the year            
+                                                  ended December 31,        
+                                          --------------------------------- 
+                                           1996         1995         1994   
+                                          -------      -------      ------- 
+Income before extraordinary item          $16,100      $13,979      $14,897 
+Depreciation of rental property            11,360       10,919        7,118 
+                                          -------      -------      ------- 
+Funds from operations                     $27,460      $24,898      $22,015 
+
+On a pro forma basis, FFO is calculated as follows:
+
+                                              For the year     
+                                           ended December 31,  
+                                          -------------------- 
+                                           1996         1995   
+                                          -------      ------- 
+Income before minority interest           $18,000      $13,100 
+Depreciation of rental property            34,300       34,200 
+Amortization of other intangibles             400          500 
+                                          -------      ------- 
+
+Funds from operations                     $52,700      $47,800 
+
+                                     17 
+<PAGE>
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Shareholders and Board of Directors of Chateau Properties, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Chateau 
+Properties, Inc. (the "Company") as of December 31, 1996 and 1995, and the 
+related consolidated statements of income, shareholders' equity and cash 
+flows for the three years in the period ended December 31, 1996.  We have 
+also audited the financial statement schedule as identified in item 14(a) (2) 
+of this Form 10-K.  These financial statements and the financial statement 
+schedule are the responsibility of the management of Chateau Properties, Inc. 
+Our responsibility is to express an opinion on these financial statements 
+and financial statement schedule based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement.  An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements.  
+An audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating the overall 
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in 
+all material respects, the financial position of Chateau Properties, Inc. as 
+of December 31, 1996 and 1995, and the results of operations and cash flows 
+for the three years in the period ended December 31, 1996, in conformity with 
+generally accepted accounting principles.  In addition, in our opinion, the 
+financial statement schedule referred to above, when considered in relation 
+to the basic financial statements taken as a whole, presents fairly, in all 
+material respects, the information required to be included therein.
+
+
+
+Detroit, Michigan
+February 12, 1997
+
+                                     18 
+<PAGE>
+
+                          CHATEAU PROPERTIES, INC.
+                            STATEMENTS OF INCOME  
+<TABLE>
+                                                                   FOR THE YEAR ENDED             
+                                        PRO FORMA      DECEMBER 31,   DECEMBER 31,   DECEMBER 31, 
+In thousands, except per share data       1996*           1996           1995           1994      
+                                       -----------     ------------   ------------   ------------ 
+                                       (Unaudited)
+<S>                                      <C>              <C>            <C> 
+Revenues:
+ Rental income                                            $64,695        $59,912        $47,318 
+ Interest and other income                                  2,689          1,943            749 
+                                                          -------        -------        ------- 
+                                         $132,800          67,384         61,855         48,067 
+Expenses:
+ Property operating and maintenance                        18,201         16,021         12,497 
+ Real estate taxes                                          4,856          4,523          3,835 
+ Depreciation                                              11,452         11,014          7,230 
+ Administrative                                             3,813          3,866          3,612 
+ Interest and related amortization                         12,962         12,452          5,996 
+                                                          -------        -------        ------- 
+                                          114,800          51,284         47,876         33,170 
+                                         --------         -------        -------        ------- 
+  Income before extraordinary
+   item and majority interest              18,000          16,100         13,979         14,897 
+Extraordinary charge from early
+  extinguishment of debt                        -               -           (829)             - 
+                                         --------         -------        -------        ------- 
+
+  Income before majority interest          18,000          16,100         13,150         14,897 
+Minority/majority interest in 
+  income of Operating Partnership          (1,800)         (9,566)        (7,847)        (8,860)
+                                         --------         -------        -------        ------- 
+   Net income                            $ 16,200         $ 6,534        $ 5,303        $ 6,037 
+                                         --------         -------        -------        ------- 
+                                         --------         -------        -------        ------- 
+Earnings per share:
+ Income before extraordinary item        $    .64         $  1.09        $   .95        $  1.05 
+
+ Extraordinary item                             -               -           (.06)             - 
+                                         --------         -------        -------        ------- 
+   Net income                            $    .64         $  1.09        $   .89        $  1.05 
+                                         --------         -------        -------        ------- 
+                                         --------         -------        -------        ------- 
+Dividends/distributions declared per
+  common share/OP unit outstanding                        $  1.62        $ 1.525        $ 1.425 
+                                                          -------        -------        ------- 
+                                                          -------        -------        ------- 
+
+Tax status of dividends, return 
+  of capital portion                                      $   .65        $   .53        $   .41 
+                                                          -------        -------        ------- 
+                                                          -------        -------        ------- 
+
+Weighted average common shares
+  outstanding                              25,125           6,022          5,959          5,750 
+                                         --------         -------        -------        ------- 
+                                         --------         -------        -------        ------- 
+
+Weighted average common
+  shares and OP Units outstanding          27,873          14,837         14,779         14,189 
+                                         --------         -------        -------        ------- 
+                                         --------         -------        -------        ------- 
+</TABLE>
+- -----------------------
+*See Note 12
+
+
+
+
+    The accompanying notes are an integral part of the financial statements.
+
+                                     19 
+<PAGE>
+                         CHATEAU PROPERTIES, INC.
+                              BALANCE SHEETS
+
+
+                                         PRO FORMA                              
+                                        DECEMBER 31           DECEMBER 31,      
+In thousands, except per share data        1996*           1996           1995  
+                                        -----------      --------       ------- 
+                                        (Unaudited)
+ASSETS
+Rental property:
+ Land                                                    $ 33,821      $ 32,891 
+ Land and improvements for 
+  expansion sites                                           1,988         2,434 
+ Manufactured home community 
+  improvements                                            239,514       216,591 
+ Community buildings                                       17,607        17,231 
+ Furniture and other equipment                              7,701         7,276 
+                                                         --------       ------- 
+    Total rental property                $796,000         300,631       276,423 
+  Less accumulated depreciation            81,000          81,293        69,868 
+                                         --------        --------       ------- 
+   Net rental property                    715,000         219,338       206,555 
+                                         --------        
+                                         --------        
+Cash and cash equivalents                                     586           944 
+Rent and other receivables                                  5,403         2,142 
+Prepaid expenses and other assets                           6,739         2,393 
+                                                         --------      -------- 
+    Total assets                         $736,000        $232,066      $212,034 
+                                         --------        --------      -------- 
+                                         --------        --------      -------- 
+LIABILITIES
+Debt                                                   $  168,315      $132,700 
+Accrued interest payable                                    2,796         2,447 
+Accounts payable and other accrued 
+ expenses                                                   7,489         5,997 
+Rents received in advance and 
+ security deposits                                          4,852         4,364 
+Distributions payable                                       5,871         5,954 
+                                                         --------      -------- 
+    Total liabilities                     363,000         189,323       151,462 
+
+Minority/majority interest in 
+ Operating Partnership                     37,000          26,552        36,264 
+SHAREHOLDERS' EQUITY
+Preferred stock, $.01 par value, 
+ 2 million shares authorized; no 
+ shares issued or outstanding 
+Common stock, $.01 par value, 
+ 30 million shares authorized: 
+ 25,137,000 shares on a pro forma
+ basis and 5,660,960 and 6,095,960
+ shares issued and outstanding at 
+ December 31, 1996 and 1995, 
+ respectively                                                  57            61 
+Additional paid-in capital                                 28,187        33,152 
+Dividends in excess of accumulated 
+ earnings                                                 (11,233)       (8,064)
+
+Notes receivable, officers, 43,125 
+ shares outstanding at December 31,
+ 1996 and 1995                                               (820)         (841)
+                                                         --------      -------- 
+    Total shareholders' equity            336,000          16,191        24,308 
+                                         --------        --------      -------- 
+    Total liabilities and 
+     shareholders' equity                $736,000        $232,066      $212,034 
+                                         --------        --------      -------- 
+                                         --------        --------      -------- 
+
+*See Note 12
+
+   The accompanying notes are an integral part of the financial statements.
+
+                                     20 
+<PAGE>
+                           CHATEAU PROPERTIES, INC.
+                    STATEMENTS OF SHAREHOLDERS' EQUITY
+
+<TABLE>
+                                                                    FOR THE YEAR ENDED             
+                                                        DECEMBER 31,   DECEMBER 31,   DECEMBER 31, 
+ Dollars in thousands, except per share data                1996           1995           1994     
+                                                        ------------   ------------   ------------ 
+<S>                                                     <C>             <C>           <C>          
+Common stock:
+ Balance at beginning of period                         $      61        $    58         $    58 
+ Issuance of 15,000 and 10,500
+  shares from awards and exercise of
+  options in 1996 and 1995, respectively                        -              -               - 
+ Issuance of 335,460 shares of common
+  stock in exchange for units in 
+  Operating Partnership                                         -              3               - 
+ Repurchase and retirement of 450,000
+  shares                                                       (4)             -               - 
+                                                         --------        -------         ------- 
+
+Balance at end of period                                 $     57        $    61         $    58 
+                                                         --------        -------         ------- 
+                                                         --------        -------         ------- 
+
+Additional paid-in capital:
+ Balance at beginning of period                          $ 33,152        $30,678         $26,412 
+ Exercise of common stock options, 
+  11,250 and 7,500 shares                                     239            150               - 
+ Issuance of 335,460 shares                                     -          1,544               - 
+ Repurchase and retirement of 450,000
+  shares                                                  (11,235)             -               - 
+ Transfer from majority interest
+  ownership in Operating Partnership                        6,031            780           4,266 
+                                                         --------        -------         ------- 
+ Balance at end of period                                $ 28,187        $33,152         $30,678 
+                                                         --------        -------         ------- 
+                                                         --------        -------         ------- 
+
+Dividends in excess of accumulated earnings:
+ Balance at beginning of period                          $ (8,064)       $(4,203)        $(2,046)
+ Net income                                                 6,534          5,303           6,037 
+ Dividends declared, $1.62, $1.525 and
+  $1.425 per share                                         (9,703)        (9,164)         (8,194)
+                                                         --------        -------         ------- 
+ Balance at end of period                                $(11,233)       $(8,064)        $(4,203)
+                                                         --------        -------         ------- 
+                                                         --------        -------         ------- 
+Notes receivable, officers:
+ Balance at beginning of period                          $   (841)       $  (991)        $(1,000)
+ Payments received                                             21            150               9 
+                                                         --------        -------         ------- 
+ Balance at end of period                                $   (820)       $  (841)        $  (991)
+                                                         --------        -------         ------- 
+                                                         --------        -------         ------- 
+
+Total shareholders' equity, end of period                $ 16,191        $24,308         $25,542 
+                                                         --------        -------         ------- 
+                                                         --------        -------         ------- 
+</TABLE>
+
+    The accompanying notes are an integral part of the financial statements.
+
+
+                                     21 
+<PAGE>
+
+                               CHATEAU PROPERTIES, INC.
+                               STATEMENTS OF CASH FLOWS
+
+<TABLE>
+                                                            FOR THE YEAR ENDED
+                                                    DECEMBER 31, DECEMBER 31, DECEMBER 31,
+In thousands, except per share data                    1996         1995         1994
+                                                    ------------ ------------ ------------
+<S>                                                 <C>          <C>          <C>
+Cash flows from operating activities:
+  Net income                                         $  6,534     $  5,303     $  6,037
+  Adjustments to reconcile to net                                              
+   cash provided by operating activities:                                      
+    Income attributable to majority interest            9,566        7,847        8,860
+    Extraordinary item                                      -          829     
+    Depreciation                                       11,452       11,014        7,230
+    Amortization of debt issuance costs                   437          538          436
+    Increase in operating assets                         (562)         (77)      (1,280)
+Increase in operating liabilities                       2,328        2,643        1,301
+                                                     --------     --------     --------
+    Net cash provided by operating activities          29,755       28,097       22,584
+                                                     --------     --------     --------
+Cash flows from financing activities:                                          
+  Proceeds from issuance of 8 3/4% Senior Notes             -       74,866     
+  Net borrowings (payments) on line of credit          36,750      (30,000)      30,000
+  Principal payments on mortgages                     (1,135)      (45,066)      (6,055)
+  Prepayment penalties                                      -         (667)    
+  Payment of debt issuance costs                         (234)        (954)    
+  Distributions to shareholders/OP                                             
+   Unit holders                                       (24,065)     (21,982)     (16,898)
+  Shares/OP Units repurchased                         (12,171)        (882)    
+  Exercise of common stock options and other              260          320            9
+                                                     --------     --------     --------
+    Net cash provided by (used in)                                             
+     financing activities                                (595)     (24,365)       7,056
+                                                     --------     --------     --------
+Cash flows from investing activities:                                          
+  Acquisition of rental properties                    (21,727)      (2,766)     (42,947)
+  Additions to rental properties                       (4,731)      (3,392)      (3,267)
+  Merger costs                                         (3,060)                 
+                                                     --------     --------     --------
+    Net cash used in investing activities             (29,518)      (6,158)     (46,214)
+                                                     --------     --------     --------
+Decrease in cash and cash equivalents                    (358)      (2,426)     (16,574)
+                                                     --------     --------     --------
+Cash and cash equivalents, beginning of period            944        3,370       19,944
+                                                     --------     --------     --------
+Cash and cash equivalents, end of period             $    586     $    944     $  3,370
+                                                     --------     --------     --------
+                                                     --------     --------     --------
+Supplemental information:                                                      
+ Cash paid for interest                              $ 12,176     $  9,987     $  5,148
+                                                     --------     --------     --------
+                                                     --------     --------     --------
+ OP units issued for rental property                 $  1,964     $  3,434     $ 13,521
+                                                     --------     --------     --------
+                                                     --------     --------     --------
+ Liabilities assumed for rental property                                       $ 57,685
+                                                                               --------
+                                                                               --------
+</TABLE>
+
+   The accompanying notes are an integral part of the financial statements.
+
+                                     22
+
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                        NOTES TO FINANCIAL STATEMENTS
+
+                             ---------------------
+
+
+1.   BASIS OF PRESENTATION AND FORMATION OF COMPANY:
+
+     The accompanying financial statements consist of the consolidated financial
+     statements of Chateau Properties, Inc. (the "Company"), a Real Estate
+     Investment Trust (REIT).  The Company is engaged in the business of owning
+     and operating 47 manufactured housing community properties in Michigan,
+     Illinois, Florida, Minnesota and North Dakota.  In addition the Company
+     owns 6 properties through a joint venture with ROC Communities, Inc. A
+     manufactured housing community is real estate designed and improved with
+     sites for placement of manufactured homes.  The owner of the home leases
+     the site from the Company generally for a term of one year or less.
+
+     On November 23, 1993, the Company completed a public offering of 5,700,000
+     shares of $.01 par value common stock (the "Offering").  Simultaneous with
+     the Offering, the Company contributed the net proceeds from the Offering
+     and was admitted as the sole general partner, with an approximate 41
+     percent interest, in an operating partnership (the "Operating Partnership")
+     representing the successor owner of 33 manufactured housing community
+     properties.  These properties were contributed by the owners of Chateau
+     Properties Group (the "Predecessor") to the Operating Partnership in
+     exchange for limited partnership interests (OP units) which, subject to
+     certain limitations, are exchangeable at any time at the option of the
+     holders for common stock of the Company on a one-for-one basis.  The
+     Predecessor consisted of the manufactured housing community properties of
+     Chateau Estates, a Michigan co-partnership, of InterCoastal Communities,
+     Inc. and its affiliates and of six co-partnerships affiliated with Leonard
+     Maas (the "Contributing Parties").  This business combination was accounted
+     for as a reorganization of entities under common control, and accordingly,
+     there were no changes in the basis of assets and liabilities.
+
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+     Principles of Consolidation
+
+     As the sole general partner, the Company has unilateral control and
+     complete responsibility for management of the Operating Partnership
+     including the right and power to make all decisions and actions with
+     respect to the acquisition, mortgage and sale of properties and the other
+     business affairs of the Operating Partnership.  Accordingly, these
+     financial statements include the accounts of Chateau Properties, Inc. and
+     the Operating Partnership.  All significant inter-entity balances and
+     transactions have been eliminated in consolidation.
+
+
+                                   Continued
+
+                                      23
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED:
+
+     Majority Interest
+
+     Income before majority interest is ascribed to the limited partners of the
+     Operating Partnership (the "Majority Interest") based on their respective
+     weighted average ownership percentage of the Operating Partnership.  The
+     ownership percentage is determined by dividing the number of OP units held
+     by the Majority interest by total OP units outstanding including the units
+     held by the Company.  Issuance of additional shares of common stock or OP
+     units changes the percentage ownership of both the Majority Interest and
+     the Company.  Since an OP unit is equivalent to a common share (due to,
+     among other things, its exchange ability for a common share), such
+     transactions are treated as capital transactions and result in an equity
+     transfer adjustment among shareholders' equity and Majority Interest in 
+     the Company's balance sheet to account for the change in the respective
+     ownership in the underlying equity of the Operating Partnership.
+
+     Estimates
+
+     The preparation of these financial statements involves the use of certain
+     management estimates and assumptions that affect reported amounts and
+     disclosures, such as the useful lives of rental properties.  Actual results
+     could differ from estimates.
+
+     Revenue Recognition
+
+     Rental income is recognized when earned and due from residents. The leases
+     entered into by residents for the rental of a site are generally for terms
+     not longer than one year and renewable upon the consent of both parties or,
+     in some instances, as provided by statute.
+
+     Rental Property
+
+     Rental property is carried at the lower of cost, less accumulated
+     depreciation, or fair value.  Management evaluates the recoverability of
+     its investment in rental property in accordance with Statement of Financial
+     Accounting Standards ("SFAS") No. 121, "Accounting for Impairment of Long-
+     Lived Assets and Long-Lived Assets To Be Disposed Of".  This statement
+     requires that long-lived assets be reviewed for impairment whenever events
+     or changes in circumstances indicate that full asset recoverability is
+     questionable.  Management's assessment of recoverability of its rental
+     property under this statement includes, but is not limited to, recent
+     operating results, expected net operating cash flow and management's plans
+     for future operations.  The Company adopted SFAS No. 121 in 1995 and the
+     adoption had no effect on the results of operations or financial condition
+     of the Company.
+
+
+                                   Continued
+
+                                      24
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED:
+
+     Depreciation on manufactured home communities is computed primarily on the
+     straight-line method over the estimated useful lives of the assets.  The
+     estimated useful lives of the various classes of rental property assets are
+     primarily as follows:
+
+                                                            ESTIMATED USEFUL
+                  CLASS OF ASSET                             LIVES (YEARS)
+     Manufactured home community improvements                  20 to 30
+     Community buildings                                       25 to 30
+     Furniture and other equipment                              4 to 10
+
+     Maintenance, repairs and minor improvements to rental properties are
+     expensed when incurred.  Major improvements and renewals are capitalized.
+     When rental property assets are sold or otherwise retired, the cost of such
+     property assets, net of accumulated depreciation compared to the sale
+     proceeds, are recognized in income as gains or losses on disposition.
+
+     Income Taxes
+
+     The Company has elected to be taxed as a real estate investment trust
+     ("REIT") under Section 856(c) of the Internal Revenue Code of 1986, as
+     amended.  The Company generally will not be subject to Federal income tax
+     to the extent it distributes its REIT taxable income to its shareholders.
+     REITs are subject to a number of organizational and operational
+     requirements.  If the Company fails to qualify as a REIT in any taxable
+     year, the Company will be subject to Federal income tax (including any
+     applicable alternative minimum tax) on its taxable income at regular
+     corporate rates.  The Company remains subject to certain state and local
+     taxes on its income and property as well as Federal income and excise taxes
+     on its undistributed income.
+
+     Per Share Data
+
+     Earnings per share are computed based upon the weighted average number of
+     common shares outstanding during the period.  The conversion of an OP unit
+     to common stock has no effect on earnings per common share since the
+     earnings of an OP unit are equivalent to the earnings of a share of common
+     stock.  Common stock equivalents for outstanding stock options are not
+     materially dilutive for any period presented.  SFAS No. 128, "Earnings per
+     Share" when adopted in 1997 will not have an impact on reported earnings
+     per share.
+
+
+                                   Continued
+
+                                      25
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES CONTINUED:
+
+     Stock-Based Compensation
+
+     During 1996 the Company adopted SFAS No. 123 for "Accounting for Stock-
+     Based Compensation."  The Company has elected to continue to account for
+     employee stock based compensation under Accounting Principles Board ("APB")
+     Opinion No. 25, "Accounting for Stock Issued to Employees," and therefore
+     the disclosure method as permitted and required by SFAS No. 123 is
+     presented in Note 6.
+
+     Cash Equivalents
+
+     All highly liquid investments with an initial maturity of three months or
+     less are considered to be cash equivalents.
+
+     Fair Value of Financial Instruments
+
+     SFAS No. 107, "Disclosures About Fair Value of Financial Instruments"
+     requires disclosures about the fair value of financial instruments whether
+     or not such instruments are recognized in the balance sheet.  Due to the
+     short-term nature of the Company's financial instruments, other than debt,
+     fair values are not materially different from their carrying values.
+
+     Based on the borrowing rates available to the Company, the carrying value
+     of debt approximates fair value.
+
+     Debt Issuance Costs
+
+     Costs incurred related to obtaining financing such as service and
+     commitment fees are deferred and are amortized over the term of the related
+     commitment/loans.  These costs net of accumulated amortization are included
+     in prepaid expenses and other assets in the accompanying balance sheets.
+
+     Financial Statement Reclassifications
+
+     Certain amounts in prior year financial statements have been reclassified
+     to conform with presentations adopted in the current year.
+
+
+                                   Continued
+
+                                      26
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+3.   ACQUISITIONS OF RENTAL PROPERTY
+
+<TABLE>
+                                                            Amount
+                                                           Allocated       OP
+    Acquisition               Property Name                to Assets     Units
+       Date                    and Location                Acquired      Issued     Cash
+    -----------               -------------                ---------     ------     -------
+<S>                     <C>                                 <C>          <C>        <C>
+Acquisitions - 1996:
+March, 1996             Chestnut Creek Farm-
+                        Davison, MI                         $ 3,400                 $ 3,400
+
+May, 1996               Maple Valley and Maple Ridge-
+                        Manteno, IL                         $ 5,800      $1,000     $ 4,800
+
+September, 1996         Joint venture with ROC
+                        purchase of six
+                        communities in six states (1)       $10,300                 $10,300
+
+Various                 Other joint ventures (2)            $ 4,200      $1,000     $ 3,200
+
+- -------------------------------------------------------------------------------------------
+Acquisitions - 1995:
+
+September, 1995         Hidden Valley
+                        Lake Buena Vista, FL                $ 6,200      $3,400     $ 2,800
+
+- -------------------------------------------------------------------------------------------
+Acquisitions - 1994:
+
+January, 1994           Forest Lake Estates
+                        Spring Lake Twp, MI                 $ 2,400           -     $ 2,400
+
+July, 1994              Lake in the Hills
+                        Auburn Hills, MI                    $ 7,300           -     $ 7,300
+
+November, 1994 (3)      NHD portfolio purchase
+                        of seven communities in
+                        two states                          $49,000      $9,200     $18,200
+
+                        Del Tura
+                        North Ft. Myers, FL                 $55,400      $4,300     $16,700
+</TABLE>
+
+
+                                   Continued
+
+                                      27
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+3.   ACQUISITIONS OF RENTAL PROPERTY CONTINUED
+
+     (1)  Represents a 50 percent interest in a joint venture with ROC accounted
+          for as a property acquisition and included in rental properties.
+
+     (2)  In connection with a joint venture, the Company may guarantee up to $8
+          million of debt in return for a guarantee fee.
+
+     (3)  In connection with these two acquisitions, the Company assumed
+          approximately $56 million in debt.
+
+4.   FINANCING:
+
+     At December 31, 1996, the Company had a $50 million line of credit
+     arrangement with Huntington National Bank as lead agent for a bank group 
+     to provide financing for future construction, acquisitions and general
+     business obligations.  The line of credit is unsecured, bears interest at
+     the prime rate of interest or, at the Company's option, LIBOR plus 150
+     basis points.  At December 31, 1996, there was $36.7 million in borrowings
+     outstanding on the line of credit.  The commitment contains customary 
+     covenants, including a debt service coverage ratio and a restriction on 
+     the incurrence of additional collateralized indebtedness without a 
+     corresponding increase in rental property.  The line is renewable annually
+     through January 1999.  The terms of the line of credit provide for the 
+     payment of a fee of up to 12.5 basis points on the average daily unused
+     amount of the line of credit.
+
+     On March 2, 1995, the Company received approximately $74.3 million in net
+     proceeds from the issuance of $75 million of unsecured Senior Notes (the
+     "Notes") by the Operating Partnership.  The Notes have semi-annual interest
+     payments, an effective fixed interest rate of 8.79 percent per annum and
+     mature on March 2, 2000.  The Notes contain certain covenants including a
+     restriction on the incurrence of collateralized indebtedness subject to
+     certain provisions.
+
+     The following table sets forth certain information regarding debt at
+     December 31:
+
+<TABLE>
+                                                                  Principal Balance
+                                                  Maturity      ---------------------
+                                Interest Rate       Date          1996          1995
+                                -------------     ---------     ---------    --------
+                                                                    (in thousands)
+     <S>                          <C>             <C>           <C>          <C>
+     Fixed rate mortgages         8.0-9.82%       1998-2000     $ 54,441     $ 55,425
+     Other notes payable           Various        1997-2020        2,124        2,275
+     Unsecured Senior Notes         8.75%            3/00         75,000       75,000
+     Unsecured line of credit                        1/99         36,750
+                                                                --------     --------
+                                                                $168,315     $132,700
+                                                                --------     --------
+                                                                --------     --------
+</TABLE>
+
+                                    Continued
+
+                                       28 
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                         NOTES TO FINANCIAL STATEMENTS
+
+                             ---------------------
+
+
+4.   FINANCING CONTINUED:
+
+     The aggregate amount of principal maturities on the fixed rate mortgages
+     and $75 million Senior Notes payable subsequent to December 31, 1996 (in
+     thousands) is as follows:
+
+     YEARS ENDING
+     DECEMBER 31,
+     ------------
+        1997                                     $  1,074
+        1998                                        2,347
+        1999                                       19,582
+        2000                                      106,438
+                                                 --------
+                                                 $129,441
+                                                 --------
+                                                 --------
+
+
+5.   MAJORITY INTEREST IN OPERATING PARTNERSHIP:
+
+     Majority interest in the accompanying balance sheets represents the
+     ownership interest in the Operating Partnership held by other than the
+     Company.  As of December 31, 1996 and December 31, 1995, the majority
+     interest was approximately 61 percent and 59 percent, respectively.  
+     After the February 1997 merger with ROC, the majority interest will 
+     become a minority interest of approximately 10 percent.
+
+     During 1996 and 1995 the Company, through the Operating Partnership,
+     purchased and retired 43,334 and 44,085 OP units, respectively, at
+     approximately $21.50 and $20.00 per unit, respectively.
+
+     On May 23, 1995, certain Operating Partnership unit holders exercised their
+     right to exchange their OP units into 335,460 shares of common stock of the
+     Company at a one for one exchange rate.  This transaction resulted in an
+     increase to outstanding common shares, and a corresponding decrease in
+     outstanding OP units.  In connection with this transaction, there were no
+     proceeds received nor expenses incurred by the Company.
+
+     The following is a summary of activity of the majority interest in the
+     Operating Partnership for the periods presented including the transfer
+     adjustment among the majority interest and shareholders' equity in the
+     balance sheet to account for the change in the respective ownership in 
+     the underlying equity of the Operating Partnership.
+
+
+
+                                   Continued
+
+                                      29
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+5.  MAJORITY INTEREST IN OPERATING PARTNERSHIP CONTINUED:
+
+<TABLE>
+                                                          OPERATING
+                                                         PARTNERSHIP    MAJORITY
+                                                            UNITS       INTEREST
+                                                         -----------    --------
+                                                              (IN THOUSANDS)
+<S>                                                         <C>         <C>
+Majority interest in Operating
+  Partnership, January 1, 1994                              8,331       $ 35,441
+
+Majority interest in income                                     -          8,860
+Distributions declared, $1.425 per unit                         -        (11,987)
+Issuance of OP units at fair value in connection              677         13,521
+  with acquisitions
+Transfer to shareholders' equity                                -         (4,266)
+                                                            -----       --------
+Majority interest in Operating Partnership
+  at December 31, 1994                                      9,008         41,569
+
+Majority interest in income                                     -          7,847
+Distributions declared, $1.525 per unit                         -        (13,377)
+Issuance of OP units at fair value in connection
+  with acquisitions                                           162          3,434
+Exchange of OP units for shares of common
+  stock                                                      (336)        (1,547)
+OP units reacquired and retired by Operating
+  Partnership                                                 (44)          (882)
+Transfer to for shareholders' equity                            -           (780)
+                                                            -----       --------
+Majority interest in Operating Partnership
+  at December 31, 1995                                      8,790         36,264
+
+Majority interest in income                                     -          9,566
+Distributions declared, $1.62 per unit                          -        (14,279)
+Issuance of OP units at fair value in connection
+  with acquisitions                                            89          1,964
+OP units reacquired and retired by Operating
+  Partnership                                                 (43)          (932)
+Transfer to shareholders' equity                                -         (6,031)
+                                                            -----       --------
+Majority interest in Operating Partnership
+  at December 31, 1996                                      8,836       $ 26,552
+                                                            -----       --------
+                                                            -----       --------
+</TABLE>
+
+
+
+                                   Continued
+
+                                      30
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+6. STOCK OPTION PLAN:
+
+   The Company adopted the disclosure requirements of SFAS No. 123, "Accounting
+   for Stock-Based Compensation," effective with the 1996 financial statements.
+   The Company, however, has elected to measure compensation cost using the
+   intrinsic value method, in accordance with APB Opinion No. 25 ("APB 25"),
+   "Accounting for Stock Issued to Employees."
+
+   The Company's 1993 Long Term Incentive Stock Plan, as amended on May 18,
+   1995, (the "Plan") provides for up to 1,000,000 shares of common stock that
+   may be granted to directors, executive officers and other key employees.
+   Options granted under the Plan generally vest at a rate of 25 percent per
+   year and expire in 10 years.  The Plan provides for the grant of options at
+   "fair market value" per share, which represents the quoted market price of
+   the Company's common stock on the date of grant.  The Plan also provides for
+   the grant of restricted stock awards and stock appreciation rights.
+
+   Information concerning stock options is as follows:
+
+<TABLE>
+                                                     1996                1995                 1994
+                                             ------------------   ------------------   ------------------
+                                                       Weighted-            Weighted-            Weighted-
+                                                       Average              Average              Average
+                                             Shares     Price     Shares     Price     Shares     Price
+                                             -------   --------   -------   --------   -------   ---------
+<S>                                          <C>        <C>       <C>        <C>       <C>        <C>
+Shares subject to option
+Outstanding at beginning of year             454,150    $ 20.08   193,000    $20.43    163,000    $20.00
+
+Granted                                      308,150      23.99   315,550     19.82     30,000     22.75
+Exercised                                    (11,250)     21.21    (7,500)    20.00          -         -
+Forfeited                                    (15,750)     22.11   (46,900)    19.74          -         -
+                                             -------    -------   -------    ------    -------    ------
+Outstanding at end of year                   735,300    $*21.66   454,150    $20.08    193,000    $20.43
+Options exercisable at year-end              176,287               74,000               40,750
+Options available for grant at year-end      238,900              535,350              307,000
+
+* Ranging in price from $19.50 - $24.25
+</TABLE>
+
+     The fair value of each option grant was estimated as of date of grant 
+     using an option-pricing model with the following assumptions used for 
+     options granted in:
+
+                                                     1996           1995
+                                                    -----          -----
+Estimated fair value per share of
+options granted during the year                     $3.39          $2.72
+
+
+
+                                   Continued
+
+                                      31
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                             ---------------------
+
+
+6. STOCK OPTION PLAN CONTINUED:
+
+                                              1996          1995
+                                              ----          ----
+Assumptions:
+   Annualized dividend yield                   6.7%          7.6%
+   Common Stock price volatility              20.0%         20.0%
+   Risk-free rate of return                    6.56%         7.57%
+   Expected option term (in years)            10            10
+
+     If compensation cost for stock option grants had been recognized based on
+     the fair value at the grant dates for 1996 and 1995 consistent with the
+     method prescribed by SFAS 123, net income and net income per share would
+     have been $6,457,000 and $1.07 for the year ended December 31, 1996 and
+     $5,268,000 and $.88 for the year ended December 31, 1995.
+
+7.   SAVINGS PLAN:
+
+     The Company has a qualified retirement plan designed to qualify under
+     Section 401 of the Internal Revenue Code (the "Plan").  The Plan allows the
+     employees of the Company to defer a portion of their eligible compensation
+     on a pre-tax basis subject to certain maximum amounts.  Contributions by
+     the Company are discretionary and determined by the Company's management.
+     Company contributions are allocated to each participant based on the
+     relative compensation of the participant to the compensation of all
+     participants.  The Company contributed approximately $300,000 and  $275,000
+     to the 401(k) Plan for the Plan years ended December 31, 1996 and 1995,
+     respectively.
+
+8.   RELATED PARTY TRANSACTIONS:
+
+     In order to permit the Company's qualification as a REIT under the Internal
+     Revenue Code, the operations of four golf courses and a marina were
+     previously conducted by GC Properties, Inc. ("GCI"), a corporation wholly
+     owned by an equity owner of the Company.  Prior to 1996, the Company
+     recognized net lease income from GCI which was classified as other income.
+     In early 1996, the Company received a ruling from the Internal Revenue
+     Service allowing it to conduct these operations.  Effective January 1,
+     1996, as a result of acquiring the operations of GCI, the Company has
+     consolidated these operations.  For the year ended December 31, 1996 the
+     Company has included approximately $1.7 million in revenues and $1.0
+     million in operating expenses for these operations. For the years ended
+     December 31, 1995 and 1994 net lease income of approximately $695,000 and
+     $100,000, respectively was recognized. Rental expense of approximately
+     $100,000 annually has been incurred for leasing space in an office building
+     owned by certain officers and equity owners.  The lease expires November
+     2001.
+
+
+
+                                   Continued
+
+                                      32
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                                  ---------
+
+9. EXTRAORDINARY ITEM - EARLY EXTINGUISHMENT OF DEBT:
+
+    The extraordinary charge in the accompanying statements of income represent
+    prepayment penalties and certain other related costs incurred in connection
+    with the early extinguishment of debt.
+
+10. CONTINGENCIES:
+
+    The Company, as an owner of real estate, is subject to various environmental
+    laws.  Compliance by the Company with existing laws has not had a material
+    adverse financial effect during the three year period ended December 31,
+    1996, nor does management believe it will have a material impact in the
+    future.  However, management cannot predict the impact of new or changed 
+    laws or regulations on its current properties or properties that it may 
+    acquire.
+
+    Several claims and legal actions arising from the normal course of business,
+    none of which are environmental related matters, have been asserted against
+    the Company, and are pending final resolution.  Although the amount of
+    liability at December 31, 1996, if any, with respect to these matters is not
+    determinable, in the opinion of management, none of these matters will 
+    result in material liability.
+
+11. QUARTERLY FINANCIAL INFORMATION (UNAUDITED):
+
+    The following is quarterly financial information for the years ended 
+    December 31, 1996 and 1995;  (Amounts in thousands except per share data.)
+
+<TABLE>
+                                          First     Second        Third        Fourth
+                                         Quarter    Quarter      Quarter       Quarter
+                                        March 31,   June 30,  September 30,  December 31,
+                                        ---------   --------  -------------  ------------
+         <S>                               <C>         <C>         <C>           <C>
+                 1996
+    Total revenues                       $16,391    $16,829      $16,983       $17,181
+                                         -------    -------      -------       -------
+                                         -------    -------      -------       -------
+    Operating income (a)                 $10,132    $ 9,685      $ 9,992       $10,705
+                                         -------    -------      -------       -------
+                                         -------    -------      -------       -------
+    Income before majority interest      $ 4,321    $ 3,599      $ 3,955       $ 4,225
+    Majority interest in income of
+      Operating Partnership                2,551      2,126        2,340         2,549
+                                         -------    -------      -------       -------
+    Net income                           $ 1,770    $ 1,473      $ 1,615       $ 1,676
+                                         -------    -------      -------       -------
+                                         -------    -------      -------       -------
+    Weighted average common shares
+      outstanding                          6,097      6,099        6,100         5,793
+                                         -------    -------      -------       -------
+                                         -------    -------      -------       -------
+    Weighted average common shares
+      and OP units outstanding            14,887     14,896       14,936        14,630
+                                         -------    -------      -------       -------
+                                         -------    -------      -------       -------
+    Net income per share (b)             $   .29    $   .24      $   .26       $   .29
+                                         -------    -------      -------       -------
+                                         -------    -------      -------       -------
+</TABLE>
+                                            Continued
+
+
+                                               33
+
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                                  ---------
+
+
+11.  QUARTERLY FINANCIAL INFORMATION (UNAUDITED) CONTINUED:
+
+<TABLE>
+                                               First     Second        Third        Fourth
+                                              Quarter    Quarter      Quarter       Quarter
+                                             March 31,   June 30,  September 30,  December 31,
+                                             ---------   --------  -------------  ------------
+              <S>                               <C>         <C>         <C>           <C>
+      Total revenues                          $15,238     $15,271     $15,479        $15,867
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+      Operating income (a)                    $ 9,568     $ 9,063     $ 8,936        $ 9,878
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+      Extraordinary charge from early
+      extinguishment of debt                  $   829           -           -              -
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+      Income before majority interest         $ 2,890     $ 3,247     $ 3,103        $ 3,910
+      Majority interest in income of
+        Operating Partnership                   1,764       1,948       1,822          2,313
+                                              -------     -------     -------        -------
+      Net income                              $ 1,126     $ 1,299     $ 1,281        $ 1,597
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+      Weighted average common shares
+        outstanding                             5,752       5,897       6,089          6,095
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+      Weighted average common shares
+        and OP units outstanding               14,760      14,724      14,747         14,885
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+      Income before extraordinary
+        charge per share (b)                  $   .25     $   .22     $   .21        $   .26
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+      Net income per share (b)                $   .20     $   .22     $   .21        $   .26
+                                              -------     -------     -------        -------
+                                              -------     -------     -------        -------
+</TABLE>
+
+      (a)  Operating income represents total revenues less property operating 
+           and maintenance expense, real estate taxes and administrative 
+           expense.  Operating income is a measure of the performance of the 
+           properties before the effects of depreciation and interest and 
+           related amortization costs.
+
+      (b)  Quarterly earnings per common share amounts may not total to the full
+           year amounts due to rounding and to the change in the number of 
+           common shares outstanding.
+
+12.  SUBSEQUENT EVENT - MERGER WITH ROC COMMUNITIES, INC.
+
+     On February 11, 1997, the Company completed its merger with ROC
+     Communities, Inc. (the "Merger"). The Merger and related transactions will
+     be accounted for using the purchase method of accounting in accordance with
+     generally accepted accounting principles. Accordingly, the assets and
+     liabilities of ROC will be adjusted to fair value for financial accounting
+     purposes and the results of operations of ROC will be included in the
+     results of operations of the Company in 1997.
+
+
+                                      Continued
+
+
+                                          34
+
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                                  ---------
+
+
+
+12.  SUBSEQUENT EVENT - MERGER WITH ROC COMMUNITIES, INC. CONTINUED
+
+     In connection with the Merger, the related transactions occurred
+
+     -    The Company repurchased and retired 1,200,000 shares of its common
+          stock, of which 450,000 were repurchased in 1996
+
+     -    ROC purchased 350,000 shares of Chateau common stock, which was 
+          retired at the time of the Merger
+
+     -    The Company issued 1.042 shares of its common stock for each share of
+          ROC stock outstanding
+
+     -    The Company paid a stock dividend equal to .0326 shares of Company 
+          common stock per common share/OP Unit outstanding
+
+     -    Certain OP Unitholders converted 6,170,908 OP Units into common 
+          shares.  These Unitholders waived their right to receive the above 
+          dividend and as a result it was re-allocated to the existing
+          shareholders, resulting in a distribution to the common shareholders
+          of .068 shares of common stock
+
+     -    Certain OP Unitholders purchased 984,423 additional shares of common 
+          stock from the Company at $25.88 per share.
+
+Following the Merger, the Company owns 128 communities with an aggregate 42,986
+residential homesites.  In addition, it fee manages 6,953 residential homesites
+in 34 communities.
+
+                                  Continued
+
+
+                                      35
+
+<PAGE>
+
+                           CHATEAU PROPERTIES, INC.
+
+                  NOTES TO FINANCIAL STATEMENTS, CONTINUED
+
+                                  ---------
+
+
+
+12.  SUBSEQUENT EVENT - MERGER WITH ROC COMMUNITIES, INC. CONTINUED
+
+The following unaudited pro forma income statement information has been prepared
+as if the Merger and related transactions had occurred on January 1, 1995.  In
+addition, the pro forma information is presented as if the acquisitions of 14
+properties made in 1996 and 1995 by the Company and ROC had occurred on January
+1, 1995.  The pro forma income statement information is not necessarily
+indicative of the results which actually would have occurred if the Merger had
+been consummated on January 1, 1995.
+
+(In thousands, except per share data)
+
+                                                           1996           1995
+                                                         --------       --------
+Revenues                                                 $132,800       $124,800
+Expenses:
+Property, operating, maintenance and administrative        53,700         49,700
+Depreciation                                               34,900         34,900
+Interest and related amortization                          26,200         27,100
+                                                         --------       --------
+Total expenses                                            114,800        111,700
+                                                         --------       --------
+Income before minority interest                          $ 18,000       $ 13,100
+                                                         --------       --------
+Per share*                                               $    .64       $    .47
+                                                         --------       --------
+Weighted average common shares and OP Units outstanding    27,873         27,879
+                                                         --------       --------
+
+*Assumes all OP Units are exchanged for common stock.
+
+The pro forma balance sheet has been prepared as if the Merger had occurred on
+December 31, 1996.
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURES
+
+None.
+
+
+
+                                      36
+
+<PAGE>
+
+
+                                   PART III
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information required by Item 10 is incorporated by reference to the
+information in the Registrant's proxy statement (filed or to be filed pursuant
+to Regulation 14A) for its Annual Meeting of Shareholders to be held on May 22,
+1997.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+The information required by Item 11 is incorporated by reference to the 
+information in the Registrant's proxy statement (filed or to be filed pursuant 
+to Regulation 14A) for its Annual Meeting of Shareholders to be held on May 22,
+1997.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information required by Item 12 is incorporated by reference to the
+information in the Registrant's proxy statement (filed or to be filed pursuant
+to Regulation 14A) for its Annual Meeting of Shareholders to be held on May 22,
+1997
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information required by Item 13 is incorporated by reference to the
+information in the Registrant's proxy statement (filed or to be filed pursuant
+to Regulation 14A) for its Annual Meeting of Shareholders to be held on May 22,
+1997.
+
+
+
+
+
+
+
+
+
+
+                                      37
+
+<PAGE>
+
+                                  PART IV
+
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) 1. Financial Statements
+
+       Report of Independent Accountants
+
+       Statements of Income for the years ended December 31, 1996,
+       December 31, 1995 and December 31, 1994
+
+       Balance Sheets as of December 31, 1996 and 1995
+       for the Company
+
+       Statements of Shareholders' Equity for
+       the years ended December 31, 1996, December 31, 1995 and
+       December 31, 1994
+
+       Statements of Cash Flows for the years ended December 31, 1996,
+       December 31, 1995 and December 31, 1994
+
+       Notes to Financial Statements
+
+    2. FINANCIAL STATEMENT SCHEDULE
+
+       III - Real Estate and Accumulated Depreciation
+
+
+
+
+
+
+
+                                     38
+
+<PAGE>
+
+    3. Exhibits
+
+Exhibit Number
+(Referenced to Item 601 of
+Regulation S-K)
+
+                    Exhibit Description
+
+3(i)       (a) Chateau Properties, Inc. Articles of Amendment and Restatement
+3(ii)      (b) Chateau Properties, Inc. Bylaws
+4.1        (b) Form of Stock Certificate
+4.2*       (c) Note and Mortgage on Del Tura Community
+4.3(i)     (c) $75,000,000 8-3/4% Global Note dated March 2, 1995 of CP
+           Limited Partnership
+4.3(ii)    (c) Indenture Agreement dated as of February 1, 1995 between
+           CP Limited Partnership and The First National Bank of Chicago
+4.4        (d) Amended and Restated Loan Agreement dated as of January 8, 1996
+           between The Huntington National Bank and CP Limited Partnership
+10.1       (b) Agreement of Limited Partnership of CP Limited Partnership
+10.2       (b) Lease of 19500 Hall Road
+10.3       (b) Form of Noncompetition Agreement (Boll and Allen)
+10.4       (b) Employment Agreement (Kellogg)
+10.5       (b) Form of Registration Rights Agreement
+10.6       (b) Long-Term Incentive Stock Plan
+10.7       (b) Profit Sharing Plan
+10.8       (b) Form of Ground Lease
+10.9       (d) Management Compensation Plan
+10.10      (c) Consulting Agreement dated as of November 1, 1994 between Newman,
+           Herfurth and Durand, Inc. and CP Limited Partnership
+10.11      (c) Deferred Compensation Agreement dated as of November 1, 1994 for
+           the benefit of Graydon K. Newman, Jr.
+21         (d) List of Subsidiaries of Chateau Properties, Inc.
+23         Consent of Coopers & Lybrand L.L.P. 
+99         (e) Company's Schedule 14D-9
+
+*    Other instruments defining long-term debt not exceeding 10 percent of total
+     assets have been omitted in reliance on Item 601(b)4)(iii)(A) of Regulation
+     S-K but will be filed upon the request of the Commission.
+
+(a)  Incorporated by reference to the Exhibits filed with the Company's
+     Quarterly Report on Form 10-Q for the quarterly period ended June 30, 1995
+     filed with the Commission on August 10, 1995 (Commission File No. 1-12496).
+
+(b)  Incorporated by reference to the Exhibits filed with the Company's
+     Registration Statement on Form S-11 filed with the Securities and Exchange
+     Commission on  November 10, 1993 (Commission File No. 33-69150).
+
+
+
+                                     39
+
+<PAGE>
+
+(c)  Incorporated by reference to the Exhibits filed with the Company's Annual
+     Report on Form 10-K for the year ended December 31, 1994 filed with the
+     Commission on March 30, 1995 (Commission File No. 1-12496).
+
+(d)  Incorporated by reference to the exhibits filed with the Company's Annual
+     Report in Form 10-K for the year ended December 31, 1995 filed with the
+     commission on March 29, 1996 (Commission File No. 1-12496).
+
+(e)  Incorporated by reference to the Company's Schedule 14D-9 filed with the
+     Commission on September 19, 1996.
+
+b.   Reports on Form 8-K
+
+     No reports were filed on Form 8-K during the last quarter of 1996.
+
+
+
+
+
+
+
+
+
+
+
+
+                                     40
+
+<PAGE>
+
+                          CHATEAU PROPERTIES, INC.
+
+                      FINANCIAL STATEMENT SCHEDULES
+                 PURSUANT TO ITEM 14(a)(2) OF FORM 10-K
+         ANNUAL REPORT TO THE SECURITIES AND EXCHANGE COMMISSION
+
+                    for the year ended December 31, 1996
+
+                         CHATEAU PROPERTIES, INC.
+
+                       FINANCIAL STATEMENT SCHEDULE
+
+                                                                     Pages
+                                                                     -----
+III. Real Estate and Accumulated Depreciation                         F-2
+
+
+No other financial statement schedules are required as the amounts are not
+significant, or not applicable, or reported in the Company's financial
+statements or notes thereto.
+
+
+
+                                     F-1
+<PAGE>
+
+                         CHATEAU PROPERTIES, INC.
+           SCHEDULE III, REAL ESTATE AND ACCUMULATED DEPRECIATION
+                   FOR THE YEAR ENDED DECEMBER 31, 1996
+                                (IN THOUSANDS)
+
+
+<TABLE>
+                                                                         Cost Capitalized
+                                                                          Subsequent to         Gross Amount
+                                                         Initial            Acquisition      Carried at Close of
+                                                     Cost to Company      (Improvements)      Period 12/31/96
+                                                   ------------------   ------------------   -------------------
+              Description                                  Building &           Building &            Building &           
+   Community                   Location            Land     Fixtures    Land     Fixtures    Land      Fixtures     Total  
+   ---------                   --------            -----   ----------   ----    ----------   ----     ----------    -----  
+<S>                     <C>                       <C>      <C>         <C>      <C>         <C>       <C>         <C>      
+Algoma                  Algoma Township, MI       $    60              $   19    $  1,783   $    79    $  1,783   $  1,862 
+Anchor Bay              Ira Township, MI              432    $    80    2,841      13,414     3,273      13,494     16,767 
+Avon                    Rochester Hills, MI           621        484      640       6,878     1,261       7,362      8,623 
+Central Office          Clinton Township, MI                                -         938         -         938        938 
+Chesterfield            Chesterfield Township, MI     405                 262       1,995       667       1,995      2,662 
+Chestnut Creek          Davison, MI                   274                   7       3,198       281       3,198      3,479 
+Clinton                 Clinton Township, MI          989                 430       5,355     1,419       5,355      6,774 
+Colonial                Kalamazoo, MI                 816        195        4       7,499       820       7,694      8,514 
+Country Estates         Spring Lake Township, MI       30                   -       1,806        30       1,806      1,836 
+Cranberry Lake          White Lake Township, MI       432        220        -       2,785       432       3,005      3,437 
+Ferrand Estates         Wyoming, MI                   257      1,579        -         210       257       1,789      2,046 
+Forest Lake Estates     Spring Lake Township, MI      414      2,293        9          14       423       2,307      2,730 
+Grand Blanc             Grand Blanc, MI             1,749                 219       7,239     1,968       7,239      9,207 
+Holiday Estates         Byron Township, MI             93                   -       1,689        93       1,689      1,782 
+Howell                  Howell,MI                     345                 151       2,679       496       2,679      3,175 
+Lake in the Hills       Auburn Hills, MI              952      6,389        -        (13)       952       6,376      7,328 
+Leonard Gardens         Walker, MI                     94                 139       2,870       233       2,870      3,103 
+Macomb                  Macomb Township, MI         1,459               2,137      15,848     3,596      15,848     19,444 
+Maintenance             Clinton Township, MI                                -         218         -         218        218 
+Norton Shores           Norton Shores, MI             103                 118       4,707       221       4,707      4,928 
+Novi                    Novi, MI                      896                 393       4,689     1,289       4,689      5,978 
+Oak Hill                Groveland Township, MI        115      2,165        -       3,960       115       6,125      6,240 
+Old Orchard             Davison, MI                   211        182        -       2,608       211       2,790      3,001 
+Orion                   Orion Township, MI            423        198        -       4,457       423       4,655      5,078 
+Torrey Hills            Flint, MI                     346        205        1       4,230       347       4,435      4,782 
+Villa                   Flint, MI                     135        332       (6)      2,684       129       3,016      3,145 
+                                                  -------    -------   ------    --------   -------    --------   -------- 
+  Michigan Subtotal                                11,651     14,322    7,364     103,740    19,015     118,062    137,077 
+
+<CAPTION>
+                                           Date of
+                         Accumulated   Construction (C)
+   Community             Depreciation  Acquisition (A)
+   ---------             ------------  ----------------
+<S>                      <C>           <C>              
+Algoma                     $   686        1974(C)
+Anchor Bay                   5,897        1968(C)
+Avon                         4,416        1988(A)
+Central Office                 768
+Chesterfield                 1,478        1969(C)
+Chestnut Creek                  80        1996(A)
+Clinton                      4,195        1969(C)
+Colonial                     4,374        1985(A)
+Country Estates              1,131        1974(C)
+Cranberry Lake               1,506        1986(A)
+Ferrand Estates              1,398        1989(A)
+Forest Lake Estates            304        1994(A)
+Grand Blanc                  1,459        1990(C)
+Holiday Estates              1,027        1984(C)
+Howell                       2,049        1972(C)
+Lake in the Hills              799        1994(A)
+Leonard Gardens                976        1987(C)
+Macomb                       7,193        1973(C)
+Maintenance                    159
+Norton Shores                2,319        1978(C)
+Novi                         4,381        1973(C)
+Oak Hill                     2,710        1983(A)
+Old Orchard                  1,203        1988(A)
+Orion                        2,466        1986(A)
+Torrey Hills                 2,162        1987(A)
+Villa                        1,885        1984(A)
+                           -------
+  Michigan Subtotal         57,021
+</TABLE>
+
+                                     F-2
+<PAGE>
+
+                         CHATEAU PROPERTIES, INC.
+           SCHEDULE III, REAL ESTATE AND ACCUMULATED DEPRECIATION
+                   FOR THE YEAR ENDED DECEMBER 31, 1996
+                                (IN THOUSANDS)
+
+
+<TABLE>
+                                                                         Cost Capitalized
+                                                                          Subsequent to         Gross Amount
+                                                         Initial            Acquisition      Carried at Close of
+                                                     Cost to Company      (Improvements)      Period 12/31/96
+                                                   ------------------   ------------------   -------------------
+              Description                                  Building &           Building &            Building &           
+   Community                   Location            Land     Fixtures    Land     Fixtures    Land      Fixtures     Total  
+   ---------                   --------            -----   ----------   ----    ----------   ----     ----------    -----  
+<S>                     <C>                       <C>      <C>         <C>      <C>         <C>       <C>           <C> 
+Audubon                 Orlando, FL                  281         296        2       2,902       283       3,198      3,481 
+Del Tura                Fort Meyers, FL            4,360      50,508       77       1,095     4,437      51,603     56,040 
+Emerald Lake            Punta Gorda, FL              399       1,150        -         220       399       1,370      1,769 
+Fairways Country Club   Orlando, FL                  955       5,823        8       1,435       963       7,258      8,221 
+Hidden Valley           Orlando, FL                  492       5,714        -           7       492       5,721      6,213 
+Lakeland Harbor         Lakeland, FL                 875                    -       3,251       875       3,251      4,126 
+Lakeland Junction       Lakeland, FL                 471         972        1          92       472       1,064      1,536 
+Lakes at Leesburg       Leesburg, FL               1,178                   39       3,379     1,217       3,379      4,596 
+Oak Springs             Sorrento, FL                 206       1,461        2         263       208       1,724      1,932 
+Orange Lake             Clermont, FL                 246          85        1       1,974       247       2,059      2,306 
+Palm Beach Colony       West Palm Beach, FL          691       1,962        -          64       691       2,026      2,717 
+Pedaler's Pond          Lake Wales, FL               350         285        -       2,293       350       2,578      2,928 
+Winter Haven Oaks       Winter Haven, FL             490         705      362       1,303       852       2,008      2,860 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+  Florida Subtotal                                10,994      68,961      492      18,278    11,486      87,239     98,725 
+                                                                                                                           
+Maple Valley            Manteno, IL                  338                    -       3,887       338       3,887      4,225 
+Maple Ridge             Manteno, IL                  126                    -       1,450       126       1,450      1,576 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+  Illinois Subtotal                                  464           -        -       5,337       464       5,337      5,801 
+                                                                                                                           
+Cimarron Park           St. Paul, MN               1,424      12,882        -          23     1,424      12,905     14,329 
+Cedar Knolls            Minneapolis, MN            1,217      11,006        -          23     1,217      11,029     12,246 
+Rosemount Woods         Minneapolis/St. Paul, MN     475       4,297        -           6       475       4,303      4,778 
+Twenty-Nine Pines       St. Paul, MN                 317       2,871        -          13       317       2,884      3,201 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+  Minnesota Subtotal                               3,433      31,056        -          65     3,433      31,121     34,554 
+                                                                                                                           
+Buena Vista             Fargo, ND                    713       6,248        -          55       713       6,303      7,016 
+Meadow Park             Fargo, ND                    133       1,183        -           2       133       1,185      1,318 
+Columbia Heights        Grand Forks, ND              588       5,282        -           -       588       5,282      5,870 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+  North Dakota Subtotal                            1,434      12,713        -          57     1,434      12,770     14,204 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+                                                                                                                           
+Joint Venture Properties with ROC                      -      10,270        -           -         -      10,270     10,270 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+  Joint Venture Subtotal                               -      10,270        -           -         -      10,270     10,270 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+  Total                                          $27,976    $137,322   $7,856    $127,477   $35,832    $264,799   $300,631 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+                                                 -------    --------   ------    --------   -------    --------   -------- 
+
+<CAPTION>
+                        
+                        
+                        
+                                          Date of     
+                        Accumulated   Construction (C)
+   Community            Depreciation  Acquisition (A) 
+   ---------            ------------  ----------------
+<S>                     <C>           <C>             
+Audubon                      1,367        1988(A)
+Del Tura                     4,711        1994(A)
+Emerald Lake                   533        1988(A)
+Fairways Country Club        4,433       1979(A)(C)
+Hidden Valley                  293        1995(A)
+Lakeland Harbor              1,993        1983(C)
+Lakeland Junction              721        1981(C)
+Lakes at Leesburg            1,744        1984(C)
+Oak Springs                  1,172        1981(A)
+Orange Lake                    805        1988(A)
+Palm Beach Colony              584        1983(A)
+Pedaler's Pond                 930        1990(A)
+Winter Haven Oaks              780       1988(A)(C)
+                           -------
+  Florida Subtotal          20,066
+                          
+Maple Valley                    96        1996(A)
+Maple Ridge                     36        1996(A)
+                           -------
+  Illinois Subtotal            132
+                          
+Cimarron Park                1,208        1994(A)
+Cedar Knolls                 1,035        1994(A)
+Rosemount Woods                393        1994(A)
+Twenty-Nine Pines              268        1994(A)
+                           -------
+  Minnesota Subtotal         2,904
+                          
+Buena Vista                    577        1994(A)
+Meadow Park                    109        1994(A)
+Columbia Heights               484        1994(A)
+                           -------
+  North Dakota Subtotal      1,170
+                           -------
+                          
+Joint Venture Properties         -
+                           -------
+  Joint Venture Subtotal         -
+                           -------
+  Total                    $81,293
+                           -------
+                           -------
+</TABLE>
+
+                                     F-3
+
+<PAGE>
+                                       
+                                  SCHEDULE III
+                                    CONTINUED
+
+                           CHATEAU PROPERTIES, INC.
+
+              REAL ESTATE AND ACCUMULATED DEPRECIATION, Continued
+
+
+
+                             ---------------------
+
+
+The changes in total real estate for the years ended December 31, 1996 and 1995
+and 1994 are as follows:
+
+                                      1996         1995         1994
+                                    --------     --------     --------
+Balance, beginning of year          $276,423     $266,833     $151,069
+Acquisitions                          19,531        6,922      113,214
+Improvements                           4,731        2,670        3,070
+Dispositions and other                   (54)          (2)        (520)
+                                    --------     --------     --------
+Balance, end of year                $300,631     $276,423     $266,833
+                                    --------     --------     --------
+                                    --------     --------     --------
+
+
+The change in accumulated depreciation for the years ended December 31, 1996,
+1995 and 1994 are as follows:
+
+                                      1996         1995         1994
+                                    --------     --------     --------
+Balance, beginning of year          $ 69,868     $ 58,856     $ 53,314
+Depreciation for the period           11,452       11,014        7,230
+Disposition and other                    (27)          (2)      (1,688)
+                                    --------     --------     --------
+Balance, end of year                $ 81,293     $ 69,868     $ 58,856
+                                    --------     --------     --------
+                                    --------     --------     --------
+
+
+
+
+
+
+
+
+
+
+                                      F-4
+<PAGE>
+
+                                 EXHIBIT
+                                  INDEX
+
+Exhibit Number
+(Referenced to Item 601 of
+Regulation S-K)
+
+                                                                    Sequential
+                                                                       Page
+                    Exhibit Description                               Number
+                    -------------------                               ------
+
+3(i)       (a) Chateau Properties, Inc. Articles of
+           Amendment and Restatement
+3(ii)      (b) Chateau Properties, Inc. Bylaws
+4.1        (b) Form of Stock Certificate
+4.2*       (c) Note and Mortgage on Del Tura Community
+4.3(i)     (c) $75,000,000 8-3/4% Global Note dated March 2, 
+           1995 of CP Limited Partnership
+4.3(ii)    (c) Indenture Agreement dated as of February 1, 
+           1995 between CP Limited Partnership and The First 
+           National Bank of Chicago
+4.4        (d) Amended and Restated Loan Agreement dated as 
+           of January 8, 1996 between The Huntington National
+           Bank and CP Limited Partnership
+10.1       (b) Agreement of Limited Partnership of CP Limited 
+           Partnership
+10.2       (b) Lease of 19500 Hall Road
+10.3       (b) Form of Noncompetition Agreement (Boll and 
+           Allen)
+10.4       (b) Employment Agreement (Kellogg)
+10.5       (b) Form of Registration Rights Agreement
+10.6       (b) Long-Term Incentive Stock Plan
+10.7       (b) Profit Sharing Plan
+10.8       (b) Form of Ground Lease
+10.9       (d) Management Compensation Plan
+10.10      (c) Consulting Agreement dated as of November 1, 
+           1994 between Newman, Herfurth and Durand, Inc. and
+           CP Limited Partnership
+10.11      (c) Deferred Compensation Agreement dated as of 
+           November 1, 1994 for the benefit of Graydon K. 
+           Newman, Jr.
+21         (d)List of Subsidiaries of Chateau Properties, Inc.
+23         Consent of Coopers & Lybrand L.L.P.
+99         (e) Company's Schedule 14D-9
+
+
+                                     41
+
+<PAGE>
+
+                                  EXHIBIT
+                                   INDEX
+
+*    Other instruments defining long-term debt not exceeding 10 percent of total
+     assets have been omitted in reliance on Item 601(b)4)(iii)(A) of Regulation
+     S-K but will be filed upon the request of the Commission.
+
+(a)  Incorporated by reference to the Exhibits filed with the Company's
+     Quarterly Report on Form 10-Q for the quarterly period ended June 30, 1995
+     filed with the Commission on August 10, 1995 (Commission File No. 1-12496).
+
+(b)  Incorporated by reference to the Exhibits filed with the Company's
+     Registration Statement on Form S-11 filed with the Securities and Exchange
+     Commission on November 10, 1993 (Commission File No. 33-69150).
+
+(c)  Incorporated by reference to the Exhibits filed with the Company's Annual
+     Report on Form 10-K for the year ended December 31, 1994 filed with the
+     Commission on March 30, 1995 (Commission File No. 1-12496).
+
+(d)  Incorporated by reference to the exhibits filed with the Company's Annual
+     Report in Form 10-K for the year ended December 31, 1995 filed with the
+     commission on March 29, 1996 (Commission File No. 1-12496).
+
+(e)  Incorporated by reference to the Company's Schedule 14D-9 filed with the
+     Commission on September 19, 1996.
+
+b.   Reports on Form 8-K
+
+     No reports were filed on Form 8-K during the last quarter of 1996.
+
+
+                                     42
+
+<PAGE>
+                                       
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities and 
+Exchange Act of 1934, the Registrant has duly caused this report to be signed 
+on its behalf by the undersigned, thereunto duly authorized, and in the 
+capacities indicated, on the 28th day of March, 1997.
+
+
+                                 CHATEAU PROPERTIES, INC.
+
+                                 By:  /s/ Gary P. McDaniel
+                                    -----------------------------------------
+                                 Gary P. McDaniel
+                                 Director and Chief Executive Officer
+                                 (Principal Executive Officer)
+
+                                 By:  /s/ Tamara D. Fischer
+                                    -----------------------------------------
+                                 Tamara D. Fischer
+                                 Executive Vice President and Chief Financial
+                                 Officer (Principal Financial and Accounting 
+                                 Officer)
+
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, this 
+report has been signed below by the following persons on behalf of the 
+Registrant and in the capacities indicated on March 27, 1997.
+
+
+        Signature                             Title
+        ---------                             -----
+
+/s/ John Boll                      Chairman of the Board of Directors
+- -------------------------
+John A. Boll
+
+
+/s/ C.G. Kellogg                   Director and President
+- -------------------------
+C.G. Kellogg
+
+
+/s/ Gary P. McDaniel               Director and Chief Executive Officer
+- -------------------------
+Gary P. McDaniel
+
+
+/s/ Edward R. Allen                Director
+- -------------------------
+Edward R. Allen
+
+
+/s/ Gebran S. Anton, Jr.           Director
+- -------------------------
+Gebran S. Anton, Jr.
+
+
+                                       43
+
+<PAGE>
+
+
+/s/ James L. Clayton               Director
+- -------------------------
+James L. Clayton
+
+
+/s/ Steven G. Davis                Director
+- -------------------------
+Steven G. Davis
+
+
+/s/ James M. Hankins               Director
+- -------------------------
+James M. Hankins
+
+
+/s/ James M. Lane                  Director
+- -------------------------
+James M. Lane
+
+
+/s/ Donald E. Miller               Director
+- -------------------------
+Donald E. Miller
+
+                                       44
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+
+<PAGE>
+
+Exhibit 23
+
+
+                     CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+We consent to the incorporation by reference in the registration statement of
+Chateau Properties, Inc. on Form S-8 (File No. 33-84616) of our report dated
+February 12, 1997, on our audits of the consolidated financial statements and
+financial statement schedule of Chateau Properties, Inc. as of December 31, 1996
+and 1995, and for each of the three years ended December 31, 1996, (as described
+in our Report of Independent Accountants), which report is included in this
+Annual Report on Form 10-K.
+
+
+
+Detroit, Michigan
+March 27, 1997
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>EX 27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED BALANCE SHEETS AND CONSOLIDATED STATEMENTS OF INCOME FOUND ON PAGES
+    AND     OF THE COMPANIES 10-K FOR FISCAL YEAR END AND IS QUALIFIED IN ITS
+ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-31-1996
+<PERIOD-START>                             JAN-01-1996
+<PERIOD-END>                               DEC-31-1996
+<CASH>                                             586
+<SECURITIES>                                         0
+<RECEIVABLES>                                        0
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                     0
+<PP&E>                                         300,631
+<DEPRECIATION>                                  81,293
+<TOTAL-ASSETS>                                 232,066
+<CURRENT-LIABILITIES>                                0
+<BONDS>                                        168,315
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            57
+<OTHER-SE>                                      16,134
+<TOTAL-LIABILITY-AND-EQUITY>                   232,066
+<SALES>                                              0
+<TOTAL-REVENUES>                                67,384
+<CGS>                                                0
+<TOTAL-COSTS>                                        0
+<OTHER-EXPENSES>                                38,322
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              12,962
+<INCOME-PRETAX>                                  6,534
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                              6,534
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     6,534
+<EPS-PRIMARY>                                     1.09
+<EPS-DILUTED>                                     1.09
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

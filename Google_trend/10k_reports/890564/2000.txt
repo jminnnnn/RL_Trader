@@ -1,0 +1,2699 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FshVtBIlK0ql4Uu1iyciEjzqux1zX+Byw5kcBQAY6iWj7Qq62iO3OWTF1xVh6hU9
+ 7djOqsa7Ej3YYXfoBTb6gQ==
+
+<SEC-DOCUMENT>0000950148-00-000526.txt : 20000411
+<SEC-HEADER>0000950148-00-000526.hdr.sgml : 20000411
+ACCESSION NUMBER:		0000950148-00-000526
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000329
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ON ASSIGNMENT INC
+		CENTRAL INDEX KEY:			0000890564
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HELP SUPPLY SERVICES [7363]
+		IRS NUMBER:				954023433
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-20540
+		FILM NUMBER:		583788
+
+	BUSINESS ADDRESS:	
+		STREET 1:		26651 WEST AGOURA ROAD
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+		BUSINESS PHONE:		8188787900
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K YEAR ENDED DECEMBER 31, 1999
+<TEXT>
+
+<PAGE>   1
+================================================================================
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+                            ------------------------
+
+                                    FORM 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   FOR THE FISCAL YEAR ENDED DECEMBER 31, 1999
+                         Commission File Number 0-20540
+                            ------------------------
+
+                               ON ASSIGNMENT, INC.
+             (Exact name of registrant as specified in its charter)
+
+                      DELAWARE                          95-4023433
+           (State or other jurisdiction of           (I.R.S. Employer
+           incorporation or organization)           Identification No.)
+
+                             26651 West Agoura Road
+                           Calabasas, California 91302
+                    (Address of Principal Executive Offices)
+
+       Registrant's telephone number, including area code: (818) 878-7900
+
+                            ------------------------
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+
+<TABLE>
+<CAPTION>
+                                                    Name of each exchange
+                 Title of each class                 on which registered
+                 -------------------                 -------------------
+<S>                                                 <C>
+                        None                                 None
+</TABLE>
+
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $0.01 par value
+                                (Title of Class)
+
+        Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements of the past 90 days. Yes [X] No [ ]
+
+        Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+        The aggregate market value of the 9,424,063 shares of voting stock
+(based on the closing price reported by the Nasdaq Stock Market on January 31,
+2000) held by non-affiliates of the registrant as of January 31, 2000 was
+approximately $294,502,000. For purposes of this disclosure, shares of common
+stock held by persons who own 5% or more of the shares of outstanding common
+stock and shares of common stock held by each officer and director have been
+excluded in that such persons may be deemed to be "affiliates" as that term is
+defined under the Rules and Regulations of the Act. This determination of
+affiliate status is not necessarily a conclusive determination for other
+purposes.
+
+        As of January 31, 2000, the registrant had outstanding 10,839,311 shares
+of Common Stock, $0.01 par value.
+
+                       DOCUMENT INCORPORATED BY REFERENCE
+
+        Portions of the On Assignment, Inc. Proxy Statement for the registrant's
+Annual Meeting of Stockholders scheduled to be held on June 13, 2000 are
+incorporated by reference into Part III of this Report on Form 10-K.
+
+
+================================================================================
+
+
+<PAGE>   2
+PART I
+
+
+ITEM 1. BUSINESS
+
+        This Annual Report on Form 10-K contains forward-looking statements
+regarding the future financial condition and results of operations and the
+Company's business operations. The words "believes," "anticipates," "plans,"
+"expects," and similar expressions are intended to identify forward-looking
+statements. Such statements involve risks and uncertainties. The Company's
+actual results could differ materially from those discussed herein. Factors that
+could cause or contribute to such differences include, but are not limited to,
+those discussed in "Risk Factors that May Affect Future Results" in item 1 of
+this report, as well as those discussed elsewhere in this report and the
+registrant's other filings with the Securities and Exchange Commission.
+
+GENERAL
+
+        On Assignment, Inc. (the "Company"), through its first operating
+division, Lab Support, is a leading nationwide provider of temporary scientific
+professionals to laboratories in the biotechnology, pharmaceutical, food and
+beverage, chemical, and environmental industries. In July 1998, the Company
+acquired substantially all of the assets, offices and operations of LabStaffers,
+Inc., which were added to the Lab Support division. In January 1994, the Company
+established its second operating division, Finance Support, with the acquisition
+of 1st Choice Personnel, Inc. The Finance Support division was expanded in
+December 1994, with the acquisition of substantially all of the assets, offices
+and operations of Sklar Resource Group, Inc. With a shift in Finance Support's
+business development focus to medical billing and collections, in January 1997
+the name of the Finance Support division was changed to Healthcare Financial
+Staffing. In March 1996, the Company established its third operating division,
+EnviroStaff, with the acquisition of EnviroStaff, Inc., which specializes in
+providing temporary environmental professionals to the environmental services
+industry. On May 12, 1997, the Company formed Assignment Ready Inc., a Canadian
+corporation and wholly owned subsidiary of the Company, and commenced operations
+in Toronto as Lab Support Canada, during the third quarter of 1997. On February
+2, 1999, the Company formed On Assignment UK Limited, a United Kingdom
+corporation and wholly owned subsidiary of the Company. On February 16, 1999, On
+Assignment UK Limited formed Lab Support (UK) Limited, a United Kingdom
+corporation and wholly owned subsidiary of On Assignment UK Limited, and
+commenced operations as Lab Support UK during the first quarter of 1999. In the
+third quarter 1999, the Company established its fourth division, Clinical Lab
+Staff, which provides scientific and medical professionals to hospitals,
+physicians' offices, clinics, reference laboratories and HMOs. The Company has
+two operating segments: Lab Support and Healthcare Financial Staffing. The Lab
+Support operating segment includes the combined results of the Lab Support,
+Clinical Lab Staff and EnviroStaff divisions, as they have similar economic
+characteristics and they meet the aggregation criteria of SFAS No. 131. As of
+December 31, 1999, the Company served 68 operational markets through a network
+of 144 branch offices.
+
+        The Company's principal executive offices are located at 26651 West
+Agoura Road, Calabasas, California 91302 and its telephone number is (818)
+878-7900.
+
+ON ASSIGNMENT'S APPROACH
+
+        The Company's strategy is to serve the needs of targeted industries for
+quality assignments of temporary professionals. In contrast to the mass market
+approach used for temporary office/clerical and light industrial personnel, the
+Company believes effective assignments of temporary professionals require the
+person making assignments to have significant knowledge of the client's industry
+and be able to assess the specific needs of the client as well as the temporary
+professionals' qualifications. As a result, the Company has developed a tailored
+approach to the assignment process -- the Account Manager System. Unlike
+traditional approaches, the Account Manager System is based on the use of
+experienced professionals, Account Managers, to manage the assignment process.
+Account Managers meet with clients' managers to understand position descriptions
+and workplace environments, and with temporary employee candidates to assess
+their qualifications and interests. With this information, Account Managers can
+make quality assignments of temporary professionals to clients, typically within
+24 to 48 hours of client requests. The Company's corporate office performs many
+functions that allow Account Managers to focus more effectively on the
+assignment of temporary professionals. These functions include recruiting,
+ongoing training and coaching, appointment making, business development and
+administrative support. The corporate office also selects, opens and maintains
+branch offices according to a standardized model.
+
+
+                                       2
+
+
+<PAGE>   3
+        Temporary personnel assigned to clients are employees of the Company,
+though clients provide on-the-job supervisors for temporary personnel.
+Therefore, clients control and direct the work of temporary personnel and
+approve hours worked, while the Company is responsible for many of the
+activities typically handled by the client's personnel department.
+
+BRANCH OFFICE NETWORK
+
+        At December 31, 1999, the Company had 70 Lab Support branch offices, 44
+Healthcare Financial Staffing branch offices, 21 EnviroStaff branch offices, and
+9 Clinical Lab Staff branch offices. Of this total of 144 branch offices, 106
+branch offices involve shared office space among divisions. Through this network
+of branch offices, the Company served the following operational markets:
+
+
+<TABLE>
+<S>                          <C>                 <C>                          <C>                   <C>
+Allentown, PA                Dallas, TX          London, United Kingdom       Philadelphia, PA      San Francisco, CA
+Ann Arbor, MI                Denver, CO          Los Angeles, CA              Phoenix, AZ           San Jose, CA
+Atlanta, GA                  Des Moines, IA      Louisville, KY               Piscataway, NJ        Seattle, WA
+Austin, TX                   Detroit, MI         Madison, WI                  Pittsburgh, PA        St. Louis, MO
+Baltimore, MD                Ft. Lauderdale, FL  Manchester, United Kingdom   Pleasanton, CA        Tampa, FL
+Birmingham, United Kingdom   Ft. Worth, TX       Memphis, TN                  Portland, OR          Tulsa, OK
+Boston, MA                   Greensboro, NC      Miami, FL                    Princeton, NJ         Toronto, ON, Canada
+Buffalo, NY                  Greenville, SC      Milwaukee, WI                Providence, RI        Vancouver, BC, Canada
+Charlotte, NC                Harrisburg, PA      Minneapolis, MN              Raleigh-Durham, NC    Ventura, CA
+Chicago, IL                  Houston, TX         Montreal, QC, Canada         Richmond, VA          Washington, DC
+Cincinnati, OH               Indianapolis, IN    Nashville, TN                Sacramento, CA        Westport, CT
+Cleveland, OH                Jacksonville, FL    New Orleans, LA              Salt Lake City, UT    White Plains, NY
+Columbus, OH                 Kansas City, MO     Oklahoma City, OK            San Antonio, TX
+Costa Mesa, CA               Las Vegas, NV       Orlando, FL                  San Diego, CA
+
+</TABLE>
+
+CLIENTS
+
+        The Lab Support operating segment includes the combined results of the
+Lab Support, Clinical Lab Staff, and EnviroStaff divisions. Lab Support's
+clients primarily include biotechnology, pharmaceutical, food and beverage,
+chemical and environmental companies. Clinical Lab Staff's clients primarily
+include companies engaged in the healthcare services industry and companies
+providing medical laboratory and medical technologist services. EnviroStaff's
+clients primarily include companies in the environmental services industry.
+Healthcare Financial Staffing's clients include companies engaged in the
+healthcare services industry. During the year ended December 31, 1999, the
+Company provided assignment professionals to approximately 5,000 clients. All
+temporary assignments, regardless of their planned length, may be terminated
+without prior notice by the client or the temporary employee.
+
+THE TEMPORARY PROFESSIONAL
+
+        The skill and experience levels of Lab Support's temporary professional
+employees range from scientists with bachelor and/or masters degrees and
+considerable laboratory experience to technicians with limited chemistry or
+biology background and lab experience. The skill and experience levels of
+Clinical Lab Staff's temporary professional employees range from medical and
+laboratory clinical technologists to phlebotomists and medical assistants. The
+skill and experience levels of EnviroStaff's temporary professional employees
+range from engineers, geologists, industrial hygienists and safety professionals
+with bachelor and/or masters degrees and several years of experience to field
+technicians with some applicable experience. The skill and experience levels of
+Healthcare Financial Staffing's temporary professional employees typically
+include two or more years of medical billing and collection experience.
+
+        Hourly wage rates are established according to local market conditions.
+The Company pays the related costs of employment including social security
+taxes, federal and state unemployment taxes, workers' compensation insurance and
+other similar costs. After minimum service periods and hours worked, the Company
+also provides paid holidays, allows participation in the Company's 401(k)
+Retirement Savings Plan and Employee Stock Purchase Plan, creates eligibility
+for an annual bonus, and facilitates access to health insurance for its
+temporary employees.
+
+EXPANSION IN EXISTING PROFESSIONS AND INTO OTHER PROFESSIONS
+
+        The Company intends to expand its services domestically and
+internationally in the laboratory and scientific, clinical laboratory and
+medical staffing, environmental health and safety and medical billing and
+collections fields it currently serves and to apply its approach to the
+assignment of temporary professionals in other fields. The Company believes that
+its experience with the Account Manager System and centralized
+
+
+                                       3
+
+
+<PAGE>   4
+operational support will enable it to enter new markets effectively. The Company
+continually reviews opportunities in various industries, evaluating the current
+volume and profitability of temporary assignments, the length of assignments,
+the degree of specialization necessary to be successful, the competitive
+environment and the applicability of its Account Manager approach. If attractive
+markets are identified, the Company may enter these markets through acquisition
+or internal growth. The Company's January 1994 acquisition of 1st Choice
+Personnel, Inc., December 1994 acquisition of substantially all of the assets of
+Sklar Resource Group, Inc., March 1996 acquisition of EnviroStaff, Inc., and
+July 1998 acquisition of substantially all of the assets of LabStaffers, Inc.
+were consistent with this ongoing activity, and the Company periodically engages
+in discussions with possible acquisition candidates.
+
+COMPETITION
+
+        The temporary services industry is highly competitive and fragmented and
+has low barriers to entry. The Company believes its Lab Support division is one
+of the few nationwide temporary service providers that specialize exclusively in
+scientific laboratory personnel. Although other nationwide temporary personnel
+companies compete with the Company with respect to scientific, clinical
+laboratory and medical technologist, environmental services and medical billing
+and collecting personnel, many of these companies focus on office/clerical and
+light and heavy industrial personnel, which account for approximately 80% of the
+overall temporary personnel services market. These companies include Manpower,
+Inc., Kelly Services, Inc., The Olsten Corporation, Adecco, and Aerotech, Inc.,
+each of which is larger and has substantially greater financial and marketing
+resources than the Company.
+
+        The Company also competes with temporary personnel agencies on a
+regional and local basis. Frequently, the strongest competition in a particular
+market is a local company with established relationships. The Company also
+competes with its clients that directly advertise or seek referrals of qualified
+candidates on their own behalf.
+
+        The principal competitive factors in attracting qualified candidates for
+temporary employment are salaries and benefits, speed, quality and duration of
+assignments and responsiveness to the needs of employees. The Company believes
+that many persons seeking temporary employment through the Company are also
+pursuing employment through other means, including other temporary employment
+service firms. Therefore, the speed and availability of appropriate assignments
+is an important factor in the Company's ability to complete assignments of
+qualified candidates. In addition to having high quality temporary personnel to
+assign in a timely manner, the principal competitive factors in obtaining and
+retaining clients in the temporary services industry are correctly understanding
+the client's specific job requirements, the appropriateness of the temporary
+personnel assigned to the client, the price of services and the monitoring of
+client satisfaction. Although the Company believes it competes favorably with
+respect to these factors, it expects competition to increase.
+
+EMPLOYEES
+
+        At December 31, 1999, the Company employed approximately 250 regular
+employees, including Account Managers and corporate office employees. During the
+year ended December 31, 1999, the Company employed approximately 15,000
+temporary employees. None of the Company's employees, including its temporary
+employees, are represented by a collective bargaining agreement. The Company
+believes its employee relations are good.
+
+REGULATION
+
+        The Company's operations are subject to applicable state and local
+regulations governing the provision of personnel placement services which
+require personnel companies to be licensed or separately registered. To date,
+the Company has not experienced any material difficulties in complying with such
+regulations. State mandated workers' compensation and unemployment insurance
+premiums, which the Company pays for its temporary and regular employees, can
+have a direct effect on the Company's cost of services and thereby,
+profitability.
+
+PROPRIETARY RIGHTS
+
+        The Company has registered its Lab Support and EnviroStaff service marks
+with the United States Patent and Trademark Office and applied for registration
+of its Healthcare Financial Staffing and Clinical Lab Staff service marks. The
+Company has also registered "The Quality Assignment" mark with the United States
+Patent and Trademark Office. The Company has also registered its Lab Support
+service mark in Canada and has applied for the use of the Lab Support service
+mark in the United Kingdom and the Netherlands. The Company has rights in other
+trademarks used in connection with its business and has other applications
+pending for the international use of its service marks.
+
+
+RISK FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+        The Company operates in a highly competitive environment that involves a
+number of risks, many of which are beyond the Company's control. The following
+
+
+                                       4
+
+
+<PAGE>   5
+discussion highlights some of the risks that may affect the Company's future
+results.
+
+        Uncertainty of Future Operating Results, Quarterly Fluctuations and
+Seasonality. Future operating results will depend on many factors, including
+demand for the Company's services, the market's acceptance of price changes, the
+productivity, recruitment and retention of Account Managers, the results of the
+Company's expansion into new geographic markets, the degree and nature of
+competition, the effectiveness of the Company's expansion into other
+professions, and the Company's ability to control costs and manage its accounts
+receivable. The Company and the temporary services industry as a whole typically
+experience seasonal declines in demand from the year-end holiday season through
+early February and during June, July and August. The Company has experienced
+variability in the duration and depth of these seasonal declines, which in turn
+have materially affected period-to-period and current period-to-prior period
+comparisons of its financial and operating performance. As a result of these and
+other factors, there can be no assurance that the Company will be able to grow
+in future periods, sustain its past rate of revenue growth or maintain
+profitability on a quarterly or annual basis. If in some future quarter or
+quarters the Company's operating results are below the expectations of public
+market analysts or investors, the market price of its common stock may decline
+significantly.
+
+        Reliance on and Ability to Attract, Develop and Retain Account Managers.
+The Company relies significantly on the performance of its Account Managers, who
+have primary responsibility for all aspects of the process of assigning the
+Company's temporary employees to clients. The Company is highly dependent on its
+ability to hire, develop and retain qualified Account Managers, as well as on
+the productivity of its Account Managers. The available pool of qualified
+Account Manager candidates is limited. In addition, prior to joining the
+Company, the typical Account Manager has no prior experience in the temporary
+employment industry. The Company commits substantial resources to the
+recruitment, training, development and operational support of its Account
+Managers. There can be no assurance that the Company will be able to continue to
+recruit, train and retain sufficient numbers of qualified Account Managers or
+that Account Managers will achieve desired productivity levels. Failure to
+achieve planned numbers of Account Managers or productivity of Account Managers
+could result in a material adverse effect on the Company's financial condition,
+results of operations and business.
+
+        Expansion in Existing Professions and into Other Professions. The
+Company plans to expand its services domestically and internationally within the
+laboratory and scientific, clinical laboratory and medical staffing,
+environmental health and safety and medical billing and collections fields it
+currently serves and to other professional fields. The success of the Company's
+expansion efforts will depend on a number of factors, including the Company's
+ability to adapt the Account Manager system used in its divisions to other
+industries and professions, recruit and train new Account Managers with the
+particular industry or professional experience, establish client relationships
+in new industries and successfully recruit, qualify and orient new temporary
+professionals. The ability to manage these factors may be more difficult or take
+more resources than the Company anticipates, particularly since they may involve
+industries, clients and professionals that the Company has no experience with.
+The Company may decide to pursue future expansion by internal growth or
+acquisition. The rate at which the Company establishes new services may
+significantly affect the Company's operating and financial results, especially
+in the quarters of and immediately following expansion into new domestic and
+international professional markets or the integration of acquired operations.
+There can be no assurance that the Company will be able to successfully expand
+its services in the fields it currently serves, identify new professional fields
+suitable for expansion or continue to grow. Furthermore, in the event the
+Company pursues an acquisition, there can be no assurance that the Company will
+identify suitable acquisition candidates on reasonable terms, that the Company
+will be able to successfully integrate acquisitions, that anticipated benefits
+of the acquisition will be achieved, or that diversion of management attention
+to the acquisition and integration process will not have an adverse effect on
+the Company's existing businesses.
+
+        Planned International Operations Face Special Risks. In the first
+quarter of 1999, the Company expanded its operations to the United Kingdom and
+intends to expand its operations to other countries in Europe in the future. The
+Company has limited experience in marketing, selling and supporting its services
+outside of North America. Development of such skills may be more difficult or
+take longer than the Company anticipates, especially due to the fact that its
+centralized support functions in Calabasas, California will not be able to
+provide the same level of support to operations outside of North America as it
+does to its current North American operations. In addition to establishing
+operations support functions outside North America, the Company will have to
+address language barriers and different regulations of temporary employment.
+Moreover, international operations are subject to a variety of additional risks
+associated with conducting business internationally that could seriously harm
+the Company's financial condition and results of operations. These risks may
+include the following:
+
+
+                                       5
+
+
+<PAGE>   6
+
+problems in collecting accounts receivable; the impact of recessions in
+economies outside the United States; unexpected changes in regulatory
+requirements; fluctuations in currency exchange rates; seasonal reductions in
+business activity during the summer months in Europe; and potentially adverse
+tax consequences.
+
+        Dependence on Availability of Qualified Temporary Professional
+Employees. The Company is dependent upon continuing to attract qualified
+laboratory and scientific, clinical laboratory and medical technologist,
+environmental services and medical billing and collecting personnel with a broad
+range of skills and experience in order to meet client needs. The Company
+competes for such personnel with other temporary personnel companies, as well as
+actual and potential clients, some of which seek to fill positions with either
+regular or temporary employees. In addition, the Company's temporary employees
+sometimes become regular employees of the Company's clients. There can be no
+assurance that qualified laboratory and scientific, clinical laboratory and
+medical technologist, environmental services, and medical billing and
+collections personnel will be available to the Company in adequate numbers.
+
+        Highly Competitive Market. The temporary services industry is highly
+competitive and fragmented, with limited barriers to entry. The Company competes
+in national, regional and local markets with full-service agencies and in
+regional and local markets with specialized temporary services agencies. Several
+of these companies have significantly greater marketing and financial resources
+than those of the Company. As the Company expands into new geographic markets,
+its success will depend in part on its ability to gain market share from
+competitors. The Company expects that competition will increase in the future
+and there can be no assurance that the Company will remain competitive.
+
+        Effect of Fluctuations in the General Economy. Demand for temporary
+services is significantly affected by the general level of economic activity. As
+economic activity slows, many companies reduce their usage of temporary
+employees before undertaking layoffs of their regular employees. As economic
+activity increases, many clients convert their temporary employees to regular
+employees which, depending on the Company's agreement with the client and when
+such conversion occurs, may not result in any conversion fee revenue for the
+Company. The Company is unable to predict the level of economic activity at any
+particular time and its effect on the Company's operating and financial results.
+
+        Terminability of Client Arrangements. The Company's arrangements with
+clients are terminable at will and do not require clients to use the Company's
+services. All temporary assignments, regardless of their planned length, may be
+terminated without advance notice. There can be no assurance that existing
+clients will continue to use the Company's services at historical levels, if at
+all.
+
+        Employment Liability Risks. The Company employs and assigns temporary
+employees to the workplaces of other businesses. Inherent risks of such activity
+include possible claims of errors and omissions, misuse of customers'
+proprietary information, discrimination and harassment, theft of client
+property, and other criminal activity or torts by temporary employees. The
+Company seeks to reduce its liability for the acts of its temporary employees by
+providing in its arrangements with most clients that temporary personnel work
+under the client's supervision, control and direction. There can be no assurance
+that such arrangements will be enforceable or that, if enforceable, would be
+sufficient to preclude liability as a result of the actions of the Company's
+temporary personnel. In addition, there can be no assurance that current
+liability insurance coverage will be adequate or will continue to be available
+in sufficient amounts.
+
+        Workers' Compensation Expense. The Company maintains a partially
+self-insured workers' compensation program. In connection with this program, the
+Company pays a base premium plus actual losses incurred up to certain levels,
+and is insured for losses greater than certain levels per occurrence and in the
+aggregate. The Company seeks to minimize the impact of workers' compensation
+losses through a proactive claims management and accident reduction program.
+While the Company believes that current loss reserves are reasonable based on
+claims filed and an estimate of claims incurred but not yet reported, there can
+be no assurance that loss reserves and insurance coverage will be adequate in
+amount to cover all workers' compensation claims.
+
+        Dependence on Key Officers. The Company's future success depends in
+significant part upon the continued service of its key officers. Competition for
+such personnel is intense and there can be no assurance that the Company will
+retain its key officers or that it can attract or retain other highly qualified
+managerial personnel in the future. The loss of any of its key officers could
+have a material adverse effect upon the Company's business, operating results
+and financial condition.
+
+        Government Regulations. In many states, the temporary services industry
+is regulated, and firms such as the Company must be registered or qualify for an
+exemption from registration. While these regulations have not materially
+effected the conduct of the Company's business to date, there can be no
+assurance that future regulations will not have such effect. State mandated
+workers' compensation and unemployment insurance premiums, which the Company
+pays for its
+
+
+                                       6
+
+
+<PAGE>   7
+temporary as well as its regular employees, can have a direct effect on cost of
+services and thereby, profitability. In the past, federal legislative proposals
+for national health insurance have included provisions extending health
+insurance benefits to temporary employees and some states could impose sales
+taxes or raise sales tax rates on temporary services. Further increases in such
+premiums or rates or the introduction of new regulatory provisions could
+substantially raise the costs associated with hiring temporary employees and
+there is no assurance that these increased costs could be passed on to clients
+without a significant decrease in the demand for temporary employees.
+
+        Year 2000. The Company developed and implemented a Year 2000 Readiness
+Plan to address the Year 2000 issues, particularly with respect to its critical
+systems. The Company believes that all critical internal business systems have
+been upgraded to meet "Year 2000" requirements. The Company has not experienced
+significant Year 2000 issues subsequent to 1999's fiscal year end and is not
+aware of any significant Year 2000 issues for which it is not adequately
+prepared. However, there can be no assurance that the Company's business,
+operating results, or financial condition will not be adversely affected by
+issues surrounding the Year 2000 conversion. See Item 7, "Management's
+Discussion and Analysis of Financial Condition and Results of Operations -- Year
+2000 Readiness Disclosure."
+
+ITEM 2. PROPERTIES
+
+        The Company has leased approximately 30,500 square feet of office space
+through March 2004, for its corporate headquarters in Calabasas, California. In
+addition, the Company leases office space in 81 branch office locations in the
+metropolitan areas listed under the caption "Branch Office Network" in Item 1
+hereof. A branch office typically occupies space ranging from approximately
+1,200 to 1,500 square feet with lease terms that typically range from six months
+to five years.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+        (a) There is no material legal proceeding to which the Company is a
+party or to which its properties are subject.
+
+        (b) No material legal proceedings were terminated in the fourth quarter
+of 1999.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        None.
+
+
+                                       7
+
+
+<PAGE>   8
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+        The executive officers of the Company and their ages as of December 31,
+1999 were:
+
+
+<TABLE>
+<CAPTION>
+       Name            Age                                   Position
+       ----            ---                                   --------
+<S>                    <C>    <C>
+H. Tom Buelter         58     Chairman of the Board and Chief Executive Officer
+Kathy J. West          48     President and Chief Operating Officer
+Ronald W. Rudolph      56     Senior Vice President, Finance and Chief Financial Officer (1)
+Carrie S. Nebens       42     Executive Vice President, U.S. Operations
+</TABLE>
+
+
+(1)     Executive Vice President, Finance and Chief Financial Officer, effective
+        March 13, 2000.
+
+        H. TOM BUELTER has served as Chief Executive Officer and a director of
+the Company since he joined the Company in March 1989. Mr. Buelter was elected
+Chairman of the Company's Board of Directors in December 1992. Mr. Buelter also
+held the title of President from March 1989 to September 1997. From 1983 to
+1989, he was Senior Vice President of Kelly Services, Inc. ("Kelly Services"), a
+temporary personnel firm, and Chief Operating Officer of Kelly Assisted Living,
+a division of Kelly Services which provides temporary home-care personnel.
+
+        KATHY J. WEST has served as President and Chief Operating Officer since
+September 1997. From March 1995 to September 1997, Ms. West served as the
+Company's Senior Vice President, Chief Operating Officer. From October 1993 to
+March 1995, Ms. West served as the Company's Senior Vice President, Operations.
+From April 1993 to October 1993, Ms. West served as the Company's Senior Vice
+President, Employee and Business Services and, from January 1992 to April 1993,
+as the Company's Vice President, Employee and Business Services. Ms. West joined
+the Company in 1990, as Director of Branch Operations. From 1987 to 1990, she
+served as the founding principal of Performance Training Systems, a training
+services firm. From 1973 to 1987, she was employed by Kelly Services, where she
+held a variety of field operating and corporate positions. Her responsibilities
+included field sales, corporate branch operations, training and developing
+international sales and service schools.
+
+        RONALD W. RUDOLPH has served as Executive Vice President, Finance and
+Chief Financial Officer since March 13, 2000. From January 1, 1999 through March
+12, 2000, Mr. Rudolph served as Senior Vice President, Finance and Chief
+Financial Officer. From October 1996 through December 1998, Mr. Rudolph served
+as Senior Vice President, Finance and Operations Support, and Chief Financial
+Officer. From January 1996 through October 1996, Mr. Rudolph served as Senior
+Vice President, Finance and Administration, and Chief Financial Officer. Mr.
+Rudolph joined the Company in April 1995, as Vice President, Finance and
+Administration, and Chief Financial Officer. From April 1987 to September 1994,
+Mr. Rudolph was Vice President, Finance and Administration, and Chief Financial
+Officer of Retix, a manufacturer of enterprise networking devices, and from June
+1993 to September 1994, Mr. Rudolph was a director of Retix.
+
+        CARRIE S. NEBENS has served as Executive Vice President, U.S. Operations
+since January 1, 1999. From July 1, 1998 through December 1998, Ms. Nebens
+served as Senior Vice President, Strategic Operations. From September 1997
+through June 1998, she served as Senior Vice President and General Manager, Lab
+Support division. From October 1996 through September 1997, Ms. Nebens served as
+Vice President and General Manager, Lab Support division. From January 1996
+through October 1996, Ms. Nebens served as Vice President, Support Services.
+From April 1995 through December 1996, she served as Vice President, Assignment
+Services and Training, and was designated an executive officer of the company in
+September 1995. From June 1993 to March 1995, she was Vice President, Field
+Operations for the Company's Lab Support division. From January 1992 to May
+1993, Ms. Nebens served as Vice President, Operations of the Company. From 1991
+to 1992, Ms. Nebens served as Director, Branch Operations for the Company. Ms.
+Nebens joined the Company in 1988, as an Account Manager, served from 1988 to
+1990, as the regional Manager for the Chicago office, and in 1991, was promoted
+to Regional Director and Director of Field Services.
+
+
+                                       8
+
+
+<PAGE>   9
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+        The Company's Common Stock trades on the Nasdaq Stock Market under the
+symbol ASGN. The following table sets forth the range of high and low sales
+prices, as reported on the Nasdaq Stock Market for the period from January 1,
+1998 to December 31, 1999. At January 31, 2000, the Company had approximately 85
+holders of record of its Common Stock (although the Company has been informed
+there are in excess of approximately 2,800 beneficial owners) and 10,839,311
+shares outstanding.
+
+
+<TABLE>
+<CAPTION>
+                                      Price Range of Common Stock
+                                      ---------------------------
+                                          High           Low
+                                      ------------     ----------
+<S>                                   <C>              <C>
+Fiscal Year Ended December 31, 1998
+     First Quarter                       32-1/8        21-3/8
+     Second Quarter                      34-15/16      28-1/4
+     Third Quarter                       37-3/4        32-1/16
+     Fourth Quarter                      37-1/2        22-5/8
+
+Fiscal Year Ended December 31, 1999
+     First Quarter                       38-1/2        23-15/16
+     Second Quarter                      31-7/8        21-9/16
+     Third Quarter                       33-1/2        24
+     Fourth Quarter                      29-7/8        23
+</TABLE>
+
+
+        On September 24, 1997, the Board of Directors authorized a two-for-one
+stock split, effected as a 100 percent common stock dividend, distributed on
+October 20, 1997 to shareholders of record on October 13, 1997. All references
+to number of shares, sales prices and per share amounts of the Company's common
+stock have been retroactively restated to reflect the increased number of common
+shares outstanding.
+
+        On March 7, 2000, the Board of Directors authorized a two-for-one stock
+split, effected as a 100 percent common stock dividend, to be distributed on
+April 3, 2000 to shareholders of record as of March 27, 2000. Based on a
+distribution date which occurs subsequent to the issuance of the financial
+statements, references to number of shares, sales prices and per share amounts
+of the Company's common stock have not been retroactively restated to reflect
+the increased number of common shares outstanding.
+
+        Since inception, the Company has not declared or paid any cash dividends
+on its Common Stock and currently plans to retain all earnings to support the
+development and expansion of its business. The Company has no present intention
+of paying any dividends on its Common Stock in the foreseeable future. However,
+the Board of Directors of the Company periodically reviews the Company's
+dividend policy to determine whether the declaration of dividends is
+appropriate.
+
+
+                                       9
+
+
+<PAGE>   10
+ITEM 6. SELECTED FINANCIAL DATA
+
+        The following table presents selected financial data of the Company.
+This historical data should be read in conjunction with the consolidated
+financial statements and notes thereto included elsewhere in this Form 10-K.
+
+
+<TABLE>
+<CAPTION>
+                                                                 Years Ended December 31,
+                                           ----------------------------------------------------------------
+(in thousands, except per share data)        1995          1996          1997          1998          1999
+                                           --------      --------      --------      --------      --------
+<S>                                        <C>           <C>           <C>           <C>           <C>
+INCOME STATEMENT DATA
+
+Revenues                                   $ 72,617      $ 88,188      $107,849      $132,741      $159,473
+   Cost of services                          50,812        61,231        74,748        90,705       107,652
+                                           --------      --------      --------      --------      --------
+Gross profit                                 21,805        26,957        33,101        42,036        51,821
+   Operating expenses                        14,950        17,699        20,714        25,308        30,428
+                                           --------      --------      --------      --------      --------
+Operating income                              6,855         9,258        12,387        16,728        21,393
+   Acquisition costs                             --           401            --            --            --
+                                           --------      --------      --------      --------      --------
+Income before interest and income taxes       6,855         8,857        12,387        16,728        21,393
+   Interest income, net                         410           549           833         1,336         1,635
+                                           --------      --------      --------      --------      --------
+Income before income taxes                    7,265         9,406        13,220        18,064        23,028
+   Provision for income taxes                 2,924         3,800         4,954         6,748         8,566
+                                           --------      --------      --------      --------      --------
+Net income                                 $  4,341      $  5,606      $  8,266      $ 11,316      $ 14,462
+                                           --------      --------      --------      --------      --------
+
+Basic earnings per share                   $   0.44      $   0.55      $   0.78      $   1.04      $   1.32
+                                           --------      --------      --------      --------      --------
+Weighted average number of
+   common shares outstanding                  9,974        10,207        10,561        10,860        10,953
+                                           --------      --------      --------      --------      --------
+
+Diluted earnings per share                 $   0.41      $   0.51      $   0.75      $   1.00      $   1.29
+                                           --------      --------      --------      --------      --------
+Weighted average number of common
+and common equivalent shares
+outstanding                                  10,530        10,898        11,031        11,302        11,186
+                                           --------      --------      --------      --------      --------
+
+BALANCE SHEET DATA
+
+Cash, cash equivalents and current
+   portion of marketable securities        $  6,892      $ 14,102      $ 23,709      $ 30,466      $ 35,271
+
+Working capital                              14,702        23,709        35,225        43,987        54,769
+
+Total assets                                 23,922        31,874        44,864        62,028        71,740
+
+Long-term liabilities                            --            --            --            --            --
+
+Stockholders' equity                         20,148        27,635        39,272        54,226        63,447
+</TABLE>
+
+
+                                       10
+
+
+<PAGE>   11
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+        The discussion in this Report contains forward-looking statements that
+involve risks and uncertainties. The Company's actual results could differ
+materially from those discussed herein. Factors that could cause or contribute
+to such differences include, but are not limited to, management of growth,
+particularly in international markets, risks inherent in expansion into new
+international markets and new professions, the integration of acquired
+operations, the Company's ability to attract, train and retain qualified Account
+Managers and temporary employees in the laboratory, science, financial and
+environmental fields, and other risks discussed in "Risk Factors That May Affect
+Future Results" in Item 1 of this Annual Report, beginning on page 4, as well as
+those discussed elsewhere in this Report and from time to time in the Company's
+other reports filed with the Securities and Exchange Commission.
+
+SEASONALITY
+
+        The Company's results have historically been subject to seasonal
+fluctuations. Demand for the Company's temporary employees typically declines
+from the year-end holiday season through February, resulting in a corresponding
+decrease in revenues, operating income and net income. Demand for the Company's
+temporary employees also often declines in June, July and August due to
+decreases in clients' activity during vacation periods and the availability of
+students to perform temporary work. As a result, the Company has experienced
+slower growth or declines in revenues, operating income and net income during
+the first quarter and from the second quarter to third quarter of prior years.
+
+YEARS ENDED DECEMBER 31, 1998 AND 1999
+
+
+        REVENUES. Revenues increased by 20.1% from $132,741,000 in the year
+ended December 31, 1998, to $159,473,000 in the year ended December 31, 1999, as
+a result of the increased revenues of the Lab Support and the Healthcare
+Financial Staffing segments.
+
+        The growth of the Lab Support segment's revenues was primarily
+attributable to an increase in the number of temporary employees on assignment
+and to a lesser extent to an increase in average hourly billing rates during
+1999. The increase in the number of temporary employees on assignment was
+primarily attributable to the strong performance in most of the markets in which
+the Lab Support segment has older, better established branches and to a lesser
+extent the contribution of new offices opened in the past year. The increase in
+the Lab Support segment's revenues was partially offset by a decrease in the
+EnviroStaff division's revenues, which was primarily attributable to the
+continuing transition of the division's business away from serving clients in
+the remediation business and the resulting planned decline in remediation
+assignments, partially offset by increases in average hourly billing rates and
+average weekly hours worked during 1999.
+
+        The growth of the Healthcare Financial Staffing segment's revenues was
+primarily attributable to an increase in the number of temporary employees on
+assignment and to a lesser extent to an increase in average hourly billing rates
+during 1999. The increase in the number of temporary employees on assignment was
+primarily attributable to the strong performance in most of the markets in which
+the Healthcare Financial Staffing segment has older, better established branches
+and to a lesser extent the contribution of new offices opened in the past year.
+
+        COST OF SERVICES. Cost of services consists solely of compensation for
+temporary employees and payroll taxes and benefits paid by the Company in
+connection with such compensation. Cost of services increased 18.7% from
+$90,705,000 in 1998 to $107,652,000 in 1999. Cost of services as a percentage of
+revenues decreased from 68.3% in 1998 to 67.5% in 1999. This decrease was
+primarily attributable to a decrease in workers' compensation and state
+unemployment insurance expense in both segments in 1999, partially offset by an
+increase in employer paid benefits in both segments.
+
+        OPERATING EXPENSES. Operating expenses include the costs associated with
+the Company's network of Account Managers and branch offices, including Account
+Manager compensation, rent, other office expenses and advertising for temporary
+employees, and corporate office expenses, such as the salaries of corporate
+operations and support personnel, management compensation, Account Manager
+recruiting and training expenses, corporate advertising and promotion, rent and
+other general and administrative expenses. Operating expenses increased 20.2%
+from $25,308,000 in 1998 to $30,428,000 in 1999. Operating expenses as a
+percentage of revenues remained consistent at 19.1% in the 1998 and 1999
+periods. This result was primarily attributable to leveraging a centralized
+support system over a larger revenue base, offset by investments in Account
+Manager training and recruiting, expenses for international expansion into
+Canada and the UK, and an increase in the hiring of new Account Managers for the
+opening of new offices and the expansion of existing offices.
+
+
+                                       11
+
+
+<PAGE>   12
+        INTEREST INCOME. Interest income increased 22.4% from $1,336,000 in 1998
+to $1,635,000 in 1999, primarily as a result of interest earned on higher
+interest-bearing cash, cash equivalent and marketable security account balances
+in 1999.
+
+        PROVISION FOR INCOME TAXES. Provision for income taxes increased 26.9%
+from $6,748,000 in 1998 to $8,566,000 in 1999. The Company's effective tax rate
+remained relatively unchanged from 37.4% in 1998 compared to 37.2% in 1999.
+
+YEARS ENDED DECEMBER 31, 1997 AND 1998
+
+        REVENUES. Revenues increased by 23.1% from $107,849,000 in the year
+ended December 31, 1997, to $132,741,000 in the year ended December 31, 1998, as
+a result of the increased revenues of the Lab Support and the Healthcare
+Financial Staffing segments.
+
+        The growth of the Lab Support segment's revenues was primarily
+attributable to an increase in the number of temporary employees on assignment
+and to a lesser extent to an increase in average hourly billing rates during
+1998. The increase in the number of temporary employees on assignment was
+primarily attributable to the strong performance in most of the markets in which
+the Lab Support segment has older, better established branches and to a lesser
+extent the contribution of new offices opened in the past year. The increase in
+the Lab Support segment's revenues was partially offset by a decrease in the
+EnviroStaff division's revenues, which was primarily attributable to the
+continuing transition of the division's business away from serving clients in
+the remediation business and the resulting planned decline in remediation
+assignments, partially offset by increases in revenue from the division's higher
+margin regulatory compliance business and an increase in average hourly billing
+rates during 1998.
+
+        The growth of the Healthcare Financial Staffing segment's revenues was
+primarily attributable to an increase in the number of temporary employees on
+assignment and to a lesser extent to an increase in average hourly billing rates
+during 1998. The increase in the number of temporary employees on assignment was
+primarily attributable to the strong performance in most of the markets in which
+the Healthcare Financial Staffing segment has older, better established branches
+and to a lesser extent the contribution of new offices opened in the past year.
+
+        COST OF SERVICES. Cost of services consists solely of compensation for
+temporary employees and payroll taxes and benefits paid by the Company in
+connection with such compensation. Cost of services increased 21.3% from
+$74,748,000 in 1997 to $90,705,000 in 1998. Cost of services as a percentage of
+revenues decreased from 69.3% in 1997 to 68.3% in 1998. This decrease was
+primarily attributable to a decrease in workers' compensation expense and
+employer payroll taxes in both segments, and an increase in conversion fee
+revenue (which has no associated cost of services) of both segments in 1998,
+partially offset by an increase in employer paid benefits. In addition, lower
+training and medical monitoring expenses in the Lab Support segment's
+EnviroStaff division, primarily as a result of the transition of the division's
+business away from remediation assignments, contributed to the decrease in 1998.
+
+        OPERATING EXPENSES. Operating expenses include the costs associated with
+the Company's network of Account Managers and branch offices, including Account
+Manager compensation, rent, other office expenses and advertising for temporary
+employees, and corporate office expenses, such as the salaries of corporate
+operations and support personnel, management compensation, Account Manager
+recruiting and training expenses, corporate advertising and promotion, rent and
+other general and administrative expenses. Operating expenses increased 22.2%
+from $20,714,000 in 1997 to $25,308,000 in 1998. Operating expenses as a
+percentage of revenues decreased from 19.2% in 1997 to 19.1% in 1998. This
+result was primarily attributable to leveraging a centralized support system
+over a larger revenue base, partially offset by an increase in the hiring of new
+Account Managers for the opening of new offices and the expansion of existing
+offices.
+
+        INTEREST INCOME. Interest income increased 60.4% from $833,000 in 1997
+to $1,336,000 in 1998, primarily as a result of interest earned on higher
+interest-bearing cash, cash equivalent and marketable security account balances
+in 1998.
+
+        PROVISION FOR INCOME TAXES. Provision for income taxes increased 36.2%
+from $4,954,000 in 1997 to $6,748,000 in 1998. The Company's effective tax rate
+remained relatively unchanged from 37.5% in 1997 compared to 37.4% in 1998.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+        The Company's primary sources of cash in 1998 and 1999 were funds
+provided by operating activities. In 1998, operating activities provided
+$11,622,000 of cash compared to $10,110,000 in 1999. This decrease was primarily
+attributable to a smaller increase in accounts payable and accrued expenses, a
+larger increase in accounts receivable, a decrease in income taxes receivable, a
+larger increase in deferred income taxes, and a decrease in workers'
+compensation deposits. This
+
+
+                                       12
+
+
+<PAGE>   13
+decrease was partially offset by a higher net income and larger increases in
+depreciation and amortization in 1999 compared to 1998.
+
+        Cash used for investing activities totaled $4,716,000 in 1998 compared
+to $7,934,000 in 1999. This increase was primarily attributable to lower
+proceeds from the maturity of marketable securities, higher purchases of
+marketable securities, higher purchases of furniture, equipment, and leasehold
+improvements and a disbursement for officer loan receivable in 1999. This
+increase was partially offset by cash payments of $808,000 for the acquisition
+of substantially all of the assets of LabStaffers, Inc. in 1998 compared to an
+installment payment of $360,000 in 1999.
+
+        Cash provided by financing activities was $2,472,000 in 1998 compared to
+cash used for financing activities of $5,770,000 in 1999. The decrease was
+primarily attributable to repurchases of common stock.
+
+        On August 28, 1998, the Company renewed its unsecured bank line of
+credit. The maximum borrowings allowable under this agreement were $7,000,000
+and accrued interest at the bank's reference rate. The Company terminated the
+line of credit on July 1, 1999. No amounts were outstanding as of December 31,
+1998.
+
+        The Company believes that its cash balances, together with the funds
+from operations will be sufficient to meet its cash requirements through at
+least the next twelve months.
+
+YEAR 2000 READINESS DISCLOSURE
+
+        The Company developed and implemented a Year 2000 Readiness Plan to
+address the Year 2000 issues, particularly with respect to its critical systems.
+Critical systems are those whose failure poses a risk of disruption to the
+Company's ability to provide employment for its temporary employees and
+temporary staffing services to its clients. The Company believes that all
+critical internal business systems have been upgraded to meet "Year 2000"
+requirements. The Company has not experienced significant Year 2000 issues
+subsequent to 1999's fiscal year end and is not aware of any significant Year
+2000 issues for which it is not adequately prepared. However, there can be no
+assurance that the Company's business, operating results or financial condition
+will not be adversely affected by issues surrounding the Year 2000 conversion.
+To date, the costs incurred by the Company with respect to Year 2000 compliance
+have not been material.
+
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company is exposed to certain market risks arising from transactions in the
+normal course of business, principally risks associated with interest rate and
+foreign currency fluctuations. The Company is exposed to interest rate risk from
+its held to maturity investments. The interest rate risk is immaterial due to
+the short maturity of those investments. The Company is exposed to foreign
+currency risk from the translation of foreign operations into U.S. dollars.
+Based on the relative size and nature of its foreign operations, the Company
+does not believe that a ten percent change in foreign currencies would have a
+material impact on its financial statements.
+
+
+                                       13
+
+
+<PAGE>   14
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+                         REPORT OF INDEPENDENT AUDITORS
+
+
+To the Board of Directors of
+On Assignment, Inc.
+Calabasas, California
+
+        We have audited the accompanying consolidated balance sheets of On
+Assignment, Inc. and subsidiaries (the "Company") as of December 31, 1998 and
+1999, and the related consolidated statements of income, comprehensive income,
+stockholders' equity, and cash flows for each of the three years in the period
+ended December 31, 1999. Our audits also included the financial statement
+schedule listed at Item 14. These financial statements and financial statement
+schedule are the responsibility of the Company's management. Our responsibility
+is to express an opinion on these financial statements and financial statement
+schedule based on our audits.
+
+        We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+        In our opinion, such consolidated financial statements present fairly,
+in all material respects, the financial position of On Assignment, Inc. and
+subsidiaries as of December 31, 1998 and 1999, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 1999 in conformity with accounting principles generally accepted in
+the United States of America. Also, in our opinion, such financial statement
+schedule, when considered in relation to the basic consolidated financial
+statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+
+
+/s/ Deloitte & Touche LLP
+- -------------------------------
+Deloitte & Touche LLP
+
+Los Angeles, California
+January 25, 2000
+
+
+                                       14
+
+
+<PAGE>   15
+                               ON ASSIGNMENT, INC.
+
+                           CONSOLIDATED BALANCE SHEETS
+
+
+<TABLE>
+<CAPTION>
+                                                                        December 31,
+                                                               -------------------------------
+                                                                   1998               1999
+                                                               ------------       ------------
+<S>                                                            <C>                <C>
+ASSETS
+Current Assets:
+   Cash and cash equivalents                                   $ 27,706,000       $ 24,120,000
+   Marketable securities                                          2,760,000         11,151,000
+
+   Accounts receivable, net of allowance for doubtful
+     accounts of $1,009,000 (1998) and $1,216,000 (1999)         18,578,000         22,780,000
+   Advances and deposits                                             70,000             74,000
+   Prepaid expenses                                               1,149,000          1,800,000
+   Officer loan receivable (Note 3)                                      --            400,000
+   Income taxes receivable                                          254,000            681,000
+   Deferred income taxes (Note 8)                                 1,272,000          2,056,000
+                                                               ------------       ------------
+     Total current assets                                        51,789,000         63,062,000
+                                                               ------------       ------------
+
+Office Furniture, Equipment and
+   Leasehold Improvements, net (Note 2)                           2,703,000          3,510,000
+Marketable securities                                             5,325,000          2,256,000
+Deferred income taxes (Note 8)                                      273,000            274,000
+Workers' compensation restricted deposits (Note 6)                  168,000            169,000
+Goodwill, net (Note 4)                                            1,215,000          1,468,000
+Other assets (Note 5)                                               555,000          1,001,000
+                                                               ------------       ------------
+Total Assets                                                   $ 62,028,000       $ 71,740,000
+                                                               ============       ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+   Accounts payable                                            $    309,000       $  1,067,000
+   Accrued payroll                                                4,552,000          4,203,000
+   Deferred compensation (Note 5)                                   319,000            807,000
+   Accrued workers' compensation (Note 6)                         1,437,000          1,447,000
+   Other accrued expenses                                         1,185,000            769,000
+                                                               ------------       ------------
+     Total current liabilities                                    7,802,000          8,293,000
+                                                               ------------       ------------
+Commitments and Contingencies (Notes 5 and 6)                            --                 --
+Stockholders' Equity (Note 9):
+
+   Preferred Stock, $0.01 par value, 1,000,000 shares
+     authorized, no shares issued or
+     outstanding in 1998 and 1999                                        --                 --
+
+   Common Stock, $0.01 par value, 25,000,000 shares
+     authorized, 10,944,040 issued and outstanding in
+     1998 and 10,832,525 issued and outstanding in 1999             109,000            108,000
+   Paid-in capital                                               15,752,000         10,206,000
+   Deferred compensation liability (Note 5)                              --            294,000
+   Retained earnings                                             38,388,000         52,850,000
+   Accumulated other comprehensive income                           (23,000)           (11,000)
+                                                               ------------       ------------
+     Total stockholders' equity                                  54,226,000         63,447,000
+                                                               ------------       ------------
+Total Liabilities and Stockholders' Equity                     $ 62,028,000       $ 71,740,000
+                                                               ============       ============
+</TABLE>
+
+
+           See accompanying Notes to Consolidated Financial Statements
+
+
+                                       15
+
+
+<PAGE>   16
+                               ON ASSIGNMENT, INC.
+
+                        CONSOLIDATED STATEMENTS OF INCOME
+
+
+<TABLE>
+<CAPTION>
+                                                        Years Ended December 31,
+                                             ------------------------------------------------
+                                                 1997              1998              1999
+                                             ------------      ------------      ------------
+<S>                                          <C>               <C>               <C>
+Revenues                                     $107,849,000      $132,741,000      $159,473,000
+    Cost of services                           74,748,000        90,705,000       107,652,000
+                                             ------------      ------------      ------------
+Gross profit                                   33,101,000        42,036,000        51,821,000
+    Operating expenses                         20,714,000        25,308,000        30,428,000
+                                             ------------      ------------      ------------
+Operating income                               12,387,000        16,728,000        21,393,000
+    Interest income, net                          833,000         1,336,000         1,635,000
+                                             ------------      ------------      ------------
+Income before income taxes                     13,220,000        18,064,000        23,028,000
+    Provision for income taxes (Note 8)         4,954,000         6,748,000         8,566,000
+                                             ------------      ------------      ------------
+Net income                                   $  8,266,000      $ 11,316,000      $ 14,462,000
+                                             ------------      ------------      ------------
+Basic earnings per share                     $       0.78      $       1.04      $       1.32
+                                             ------------      ------------      ------------
+Weighted average number of Common
+    Shares Outstanding                         10,561,000        10,860,000        10,953,000
+                                             ------------      ------------      ------------
+Diluted earnings per share                   $       0.75      $       1.00      $       1.29
+                                             ------------      ------------      ------------
+Weighted average number of Common and
+   Common Equivalent Shares Outstanding        11,031,000        11,302,000        11,186,000
+                                             ------------      ------------      ------------
+</TABLE>
+
+
+                PROFORMA EARNINGS PER SHARE CALCULATION (NOTE 1)
+
+
+<TABLE>
+<CAPTION>
+                                                            Years Ended December 31,
+                                             ------------------------------------------------------
+                                                  1997                1998                1999
+                                             --------------      --------------      --------------
+<S>                                          <C>                 <C>                 <C>
+Basic earnings per share                     $         0.39      $         0.52      $         0.66
+                                             --------------      --------------      --------------
+Weighted average number of Common
+    Shares Outstanding                           21,123,000          21,721,000          21,907,000
+                                             --------------      --------------      --------------
+Diluted earnings per share                   $         0.37      $         0.50      $         0.65
+                                             --------------      --------------      --------------
+Weighted average number of Common and
+   Common Equivalent Shares Outstanding          22,063,000          22,604,000          22,372,000
+                                             --------------      --------------      --------------
+</TABLE>
+
+
+                 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+<TABLE>
+<CAPTION>
+                                                               Years Ended December 31,
+                                                 --------------------------------------------------
+                                                     1997               1998               1999
+                                                 ------------       ------------       ------------
+<S>                                              <C>                <C>                <C>
+Net income                                       $  8,266,000       $ 11,316,000       $ 14,462,000
+Other comprehensive income:
+    Foreign currency translation adjustment            (6,000)           (17,000)            12,000
+                                                 ------------       ------------       ------------
+Comprehensive income                             $  8,260,000       $ 11,299,000       $ 14,474,000
+                                                 ------------       ------------       ------------
+</TABLE>
+
+
+           See accompanying Notes to Consolidated Financial Statements
+
+
+                                       16
+
+
+<PAGE>   17
+                               ON ASSIGNMENT, INC.
+
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+
+<TABLE>
+<CAPTION>
+
+
+                                          Preferred Stock                       Common Stock
+                                   ------------------------------      -------------------------------         Paid-In
+                                      Shares            Amount            Shares            Amount             Capital
+                                   ------------      ------------      ------------       ------------       ------------
+<S>                                <C>               <C>               <C>                <C>                <C>
+Balance, January 1, 1997                      0      $          0        10,311,120       $    103,000       $  8,726,000
+
+Exercise of common stock
+options                                      --                --           402,563              4,000          2,321,000
+
+Common stock issued --
+Employee Stock Purchase Plan                 --                --            13,552                 --            172,000
+
+Disqualifying dispositions                   --                --                --                 --            880,000
+
+Other comprehensive income --
+Translation adjustments                      --                --                --                 --                 --
+
+Net income                                   --                --                --                 --                 --
+                                   ------------      ------------      ------------       ------------       ------------
+
+Balance, December 31, 1997                    0                 0        10,727,235            107,000         12,099,000
+
+Exercise of common stock
+options                                      --                --           207,291              2,000          2,265,000
+
+Common stock issued --
+Employee Stock Purchase Plan                 --                --             9,514                 --            205,000
+
+Disqualifying dispositions                   --                --                --                 --          1,183,000
+
+Other comprehensive income --
+Translation adjustments                      --                --                --                 --                 --
+
+Net income                                   --                --                --                 --                 --
+                                   ------------      ------------      ------------       ------------       ------------
+
+Balance, December 31, 1998                    0                 0        10,944,040            109,000         15,752,000
+
+Exercise of common stock                     --                --           218,443              2,000          1,776,000
+options
+
+Repurchases of Common Stock                  --                --          (330,000)            (3,000)        (7,809,000)
+
+Deferred Compensation                        --                --            (9,882)                --           (294,000)
+Liability
+
+Common stock issued --
+Employee Stock Purchase Plan                 --                --             9,924                 --            264,000
+
+Disqualifying dispositions                   --                --                --                 --            517,000
+
+Other comprehensive income --
+Translation adjustments                      --                --                --                 --                 --
+
+Net income                                   --                --                --                 --                 --
+                                   ------------      ------------      ------------       ------------       ------------
+
+Balance, December 31, 1999                    0      $          0        10,832,525       $    108,000       $ 10,206,000
+                                   ------------      ------------      ------------       ------------       ------------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                                        Accumulated
+                                      Deferred                             Other
+                                    Compensation        Retained       Comprehensive
+                                     Liability          Earnings           Income              Total
+                                    ------------      ------------      ------------       ------------
+<S>                                 <C>               <C>               <C>                <C>
+Balance, January 1, 1997                      --      $ 18,806,000      $          0       $ 27,635,000
+
+Exercise of common stock
+options                                       --                --                --          2,325,000
+
+Common stock issued --
+Employee Stock Purchase Plan                  --                --                --            172,000
+
+Disqualifying dispositions                    --                --                --            880,000
+
+Other comprehensive income --
+Translation adjustments                       --                --            (6,000)            (6,000)
+
+Net income                                    --         8,266,000                --          8,266,000
+                                    ------------      ------------      ------------       ------------
+
+Balance, December 31, 1997                    --        27,072,000            (6,000)        39,272,000
+
+Exercise of common stock
+options                                       --                --                --          2,267,000
+
+Common stock issued --
+Employee Stock Purchase Plan                  --                --                --            205,000
+
+Disqualifying dispositions                    --                --                --          1,183,000
+
+Other comprehensive income --
+Translation adjustments                       --                --           (17,000)           (17,000)
+
+Net income                                    --        11,316,000                --         11,316,000
+                                    ------------      ------------      ------------       ------------
+
+Balance, December 31, 1998                    --        38,388,000           (23,000)        54,226,000
+
+Exercise of common stock                      --                --                --          1,778,000
+options
+
+Repurchases of Common Stock                   --                --                --         (7,812,000)
+
+Deferred Compensation                    294,000                --                --                 --
+Liability
+
+Common stock issued --
+Employee Stock Purchase Plan                  --                --                --            264,000
+
+Disqualifying dispositions                    --                --                --            517,000
+
+Other comprehensive income --
+Translation adjustments                       --                --            12,000             12,000
+
+Net income                                    --        14,462,000                --         14,462,000
+                                    ------------      ------------      ------------       ------------
+
+Balance, December 31, 1999          $    294,000      $ 52,850,000      $    (11,000)      $ 63,447,000
+                                    ------------      ------------      ------------       ------------
+</TABLE>
+
+
+
+           See accompanying Notes to Consolidated Financial Statements
+
+
+                                       17
+
+
+<PAGE>   18
+                               ON ASSIGNMENT, INC.
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+<TABLE>
+<CAPTION>
+                                                                             Years Ended December 31,
+                                                                 --------------------------------------------------
+                                                                     1997               1998               1999
+                                                                 ------------       ------------       ------------
+<S>                                                              <C>                <C>                <C>
+ CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net income                                                    $  8,266,000       $ 11,316,000       $ 14,462,000
+   Adjustments to reconcile net income to net cash
+     provided by operating activities, net of acquisitions:
+       Depreciation and amortization                                  815,000            948,000          1,158,000
+       Increase in allowance for doubtful accounts                    451,000            593,000            738,000
+       Increase in deferred income taxes                             (250,000)          (327,000)          (785,000)
+       Loss on disposal of furniture and equipment                    141,000            215,000              7,000
+       Increase in accounts receivable                             (3,403,000)        (3,934,000)        (4,927,000)
+       (Increase) Decrease in income taxes receivable                (111,000)         1,040,000             86,000
+       Increase in accounts payable and accrued expenses            1,360,000          2,215,000            484,000
+       Increase in income taxes payable                               873,000                 --                 --
+       Decrease (Increase) in workers' compensation
+       restricted deposits                                            147,000            428,000             (1,000)
+       Decrease (Increase) in prepaid expenses                          2,000           (470,000)          (651,000)
+       Increase in other assets                                       (10,000)          (402,000)          (461,000)
+                                                                 ------------       ------------       ------------
+
+       Net cash provided by operating activities                    8,281,000         11,622,000         10,110,000
+                                                                 ------------       ------------       ------------
+
+ CASH FLOWS FROM INVESTING ACTIVITIES:
+   Purchase of marketable securities                               (7,250,000)       (10,345,000)       (10,777,000)
+   Proceeds from the maturity of marketable securities              4,880,000          7,630,000          5,455,000
+   Acquisition of furniture, equipment and leasehold
+   improvements                                                    (1,180,000)        (1,193,000)        (1,849,000)
+   Proceeds from sale of furniture and equipment                        8,000              2,000              1,000
+   Decrease (Increase) in advances and deposits                         5,000             (2,000)            (4,000)
+   Acquisition (Note 12)                                                   --           (808,000)          (360,000)
+   Disbursements for officer loan receivable (Note 3)                      --                 --           (400,000)
+                                                                 ------------       ------------       ------------
+
+       Net cash used for investing activities                      (3,537,000)        (4,716,000)        (7,934,000)
+                                                                 ------------       ------------       ------------
+
+ CASH FLOWS FROM FINANCING ACTIVITIES:
+   Proceeds from exercise of common stock options                   2,325,000          2,267,000          1,778,000
+   Proceeds from issuance of common stock --
+     Employee Stock Purchase Plan                                     172,000            205,000            264,000
+   Repurchases of common stock                                             --                 --         (7,812,000)
+                                                                 ------------       ------------       ------------
+
+       Net cash provided by (used for) financing
+       activities                                                   2,497,000          2,472,000         (5,770,000)
+                                                                 ------------       ------------       ------------
+
+ Effect of exchange rate changes on cash and cash
+ equivalents (Note 1)                                                  (4,000)           (11,000)             8,000
+                                                                 ------------       ------------       ------------
+
+ Net Increase (Decrease) in Cash and Cash Equivalents               7,237,000          9,367,000         (3,586,000)
+
+ Cash and Cash Equivalents at Beginning of Period                  11,102,000         18,339,000         27,706,000
+                                                                 ------------       ------------       ------------
+
+ Cash and Cash Equivalents at End of Period                      $ 18,339,000       $ 27,706,000       $ 24,120,000
+                                                                 ------------       ------------       ------------
+
+  Acquisition (Note 12):
+    Fair value of assets acquired                                $         --       $     58,000       $         --
+    Goodwill                                                               --            750,000            360,000
+                                                                 ------------       ------------       ------------
+    Cash paid                                                    $         --       $    808,000       $    360,000
+                                                                 ------------       ------------       ------------
+
+SUPPLEMENTAL DISCLOSURE OF NON-CASH TRANSACTIONS:
+  Tax benefit of disqualifying dispositions (Note 8)             $    880,000       $  1,183,000       $    517,000
+                                                                 ------------       ------------       ------------
+</TABLE>
+
+
+           See accompanying Notes to Consolidated Financial Statements
+
+
+                                       18
+
+
+<PAGE>   19
+                               ON ASSIGNMENT, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                  YEARS ENDED DECEMBER 31, 1997, 1998 AND 1999
+
+        1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES.
+
+        On Assignment, Inc. (the "Company"), has two operating segments: Lab
+Support and Healthcare Financial Staffing. The Lab Support operating segment
+includes the combined results of the Lab Support, Clinical Lab Staff and
+EnviroStaff divisions. The Lab Support segment provides temporary and permanent
+placement of scientific personnel with laboratories and other institutions,
+laboratory and medical staffing personnel to the healthcare industry, and
+environmental professionals to the environmental health and safety fields. The
+Company's Healthcare Financial Staffing segment provides temporary and permanent
+placement of medical billing and collection professionals to the healthcare
+industry. Significant accounting policies are as follows:
+
+        Principles of Consolidation. The Consolidated Financial Statements
+include the accounts of the Company and its wholly owned domestic and foreign
+subsidiaries (see Note 12). All significant intercompany accounts and
+transactions have been eliminated.
+
+        On January 1, 1997, the Company effected a corporate reorganization
+resulting in a consolidation of the Company's divisional field operations into
+Assignment Ready, Inc. ("ARI"), a Delaware corporation and wholly owned
+subsidiary of the Company, in order to centralize management functions into one
+entity, to optimize regional activities and achieve economies of scale.
+
+        On May 12, 1997, the Company formed Assignment Ready Inc., a Canadian
+corporation and wholly owned subsidiary of the Company, and commenced operations
+in Toronto as Lab Support Canada during the third quarter of 1997.
+
+        On February 2, 1999, the Company formed On Assignment UK Limited, a
+United Kingdom corporation and wholly owned subsidiary of the Company. On
+February 16, 1999, On Assignment UK Limited formed Lab Support (UK) Limited, a
+United Kingdom corporation and wholly owned subsidiary of On Assignment UK
+Limited, and commenced operations as Lab Support UK during the first quarter of
+1999.
+
+        Cash Flows and Marketable Securities. For purposes of the consolidated
+statements of cash flows, the Company considers all highly liquid investments
+purchased with a maturity of three months or less to be cash equivalents.
+Investments having a maturity of more than three months and less than twelve
+months are classified under current assets as marketable securities. Investments
+having a maturity of more than twelve months are classified under non-current
+assets as marketable securities. Marketable securities, which have been
+classified as held to maturity, are recorded at amortized cost which
+approximated market at December 31, 1998 and 1999.
+
+        The amortized cost and estimated fair value of marketable securities at
+December 31, 1998 and 1999 are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                           Gross           Gross
+                                        Amortized       Unrealized       Unrealized        Estimated
+                                           Cost            Gains           Losses          Fair Value
+                                       -----------      -----------      -----------       -----------
+<S>                                    <C>              <C>              <C>               <C>
+1998:
+Current marketable securities          $ 2,760,000      $    44,000      $        --       $ 2,804,000
+Non-current marketable securities        5,325,000           61,000           (7,000)        5,379,000
+                                       -----------      -----------      -----------       -----------
+    Total                              $ 8,085,000      $   105,000      $    (7,000)      $ 8,183,000
+                                       -----------      -----------      -----------       -----------
+
+1999:
+Current marketable securities          $11,151,000      $     9,000      $  (159,000)      $11,001,000
+Non-current marketable securities        2,256,000            8,000          (19,000)        2,245,000
+                                       -----------      -----------      -----------       -----------
+    Total                              $13,407,000      $    17,000      $  (178,000)      $13,246,000
+                                       -----------      -----------      -----------       -----------
+</TABLE>
+
+
+        Cash paid for income taxes (net of refunds) for the years ended December
+31, 1997, 1998, and 1999 was $4,443,000, $6,035,000 and $9,262,000,
+respectively.
+
+
+                                       19
+
+
+<PAGE>   20
+        Office Furniture, Equipment and Leasehold Improvements and Depreciation.
+Office furniture, equipment and leasehold improvements are stated at cost.
+Depreciation and amortization are provided using the straight-line method over
+the estimated useful lives of the related assets, generally three to five years.
+
+        The Company reviews long-lived assets and certain identifiable
+intangibles for impairment at least quarterly. An impairment loss is recognized
+when the sum of the undiscounted future cash flows is less than the carrying
+amount of the asset. No such impairment losses have been recognized as of
+December 31, 1997, 1998 and 1999.
+
+        Income Taxes. Deferred taxes result from temporary differences between
+the bases of assets and liabilities for financial and tax reporting purposes.
+Deferred tax assets and liabilities represent future tax consequences of these
+differences, which will either be taxable or deductible when the assets and
+liabilities are recovered or settled.
+
+        Revenue Recognition. Revenue from temporary assignments is recognized
+when earned, based on hours worked by the Company's temporary employees.
+Permanent placement fees are recognized when earned, upon conversion of a
+temporary employee to a client's regular employee.
+
+        Foreign Currency Translation. Assets and liabilities of foreign
+operations, where the functional currency is the local currency, are translated
+into U.S. dollars at the rate of exchange in effect on the balance sheet date.
+Income and expenses are translated at the average rates of exchange prevailing
+during the period. The related translation adjustments are recorded as
+cumulative foreign currency translation adjustments in accumulated other
+comprehensive income as a separate component of stockholders' equity.
+
+        Earnings per Share. Basic earnings per share are computed based upon the
+weighted average number of common shares outstanding and diluted earnings per
+share are computed based upon the weighted average number of common shares
+outstanding and dilutive common share equivalents (consisting of incentive stock
+options and non-qualified stock options) outstanding during the periods using
+the treasury stock method. Following is a reconciliation of the shares used to
+compute basic and diluted earnings per share:
+
+
+<TABLE>
+<CAPTION>
+                                                                 Years Ended December 31,
+                                                       ------------------------------------------
+                                                          1997            1998            1999
+                                                       ----------      ----------      ----------
+<S>                                                    <C>             <C>             <C>
+Weighted average number of shares outstanding
+  used to compute basic earnings per share             10,561,000      10,860,000      10,953,000
+Dilutive effect of stock options                          470,000         442,000         233,000
+                                                       ----------      ----------      ----------
+Number of shares used to compute diluted earnings
+per share                                              11,031,000      11,302,000      11,186,000
+                                                       ----------      ----------      ----------
+</TABLE>
+
+
+        On September 24, 1997, the Board of Directors authorized a two-for-one
+stock split, effected as a 100 percent common stock dividend, distributed on
+October 20, 1997 to shareholders of record on October 13, 1997. All references
+in the accompanying consolidated financial statements to number of shares, sales
+prices and per share amounts of the Company's common stock have been
+retroactively restated to reflect the increased number of common shares
+outstanding. In addition, stockholders' equity has been restated to give
+retroactive recognition to the stock split by reclassifying from paid-in capital
+to common stock the par value of the additional shares arising from the split.
+
+        On April 1, 1999, the Board of Directors authorized the Company to
+repurchase up to $15,000,000 of its common stock. The Company plans to make such
+purchases primarily in the open market, from time-to-time, at prevailing prices
+pursuant to rules and regulations of the Securities and Exchange Commission. At
+December 31, 1999, the Company had repurchased 330,000 shares of its common
+stock at a total cost of $7,812,000.
+
+        On March 7, 2000, the Board of Directors authorized a two-for-one stock
+split, effected as a 100 percent common stock dividend, to be distributed on
+April 3, 2000 to shareholders of record as of March 27, 2000. Based on a
+distribution date which occurs subsequent to the issuance of the financial
+statements, references to number of shares, sales prices and per share amounts
+of the Company's common stock have not been retroactively restated to reflect
+the increased number of common shares outstanding. Proforma earnings per share
+calculations are included in the Consolidated Statements of Income.
+
+        Stock-Based Compensation. In October 1995, the Financial Accounting
+Standards Board issued Statement of Financial Accounting Standards No. 123,
+"Accounting for Stock-Based Compensation." The Company has adopted only the
+disclosure portion of the statement (see Note 9).
+
+
+                                       20
+
+
+<PAGE>   21
+        Use of Estimates. The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates.
+
+        Concentration of Credit Risk. Financial instruments that potentially
+subject the Company to credit risks consist primarily of cash and cash
+equivalents, marketable securities, and trade receivables. The Company places
+its cash and cash equivalents and marketable securities with quality credit
+institutions, and limits the amount of credit exposure with any one institution.
+Concentration of credit risk with respect to accounts receivable are limited
+because of the large number of geographically dispersed customers, thus
+spreading the trade credit risk. The Company performs ongoing credit evaluations
+to identify risks and maintains an allowance to address these risks.
+
+        Fair Value of Financial Instruments. The recorded values of cash and
+cash equivalents, accounts receivable, accounts payable and accrued expenses
+approximate their fair value based on their short-term nature. The fair values
+of marketable securities were estimated using quoted market prices.
+
+        Derivative Instruments and Hedging Activities. In June 1999, the
+Financial Accounting Standards Board issued Statement of Financial Accounting
+Standards No. 137, which delays the effective date of Statement of Financial
+Accounting Standards No. 133, "Accounting for Derivative Instruments and Hedging
+Activities" (SFAS No. 133). SFAS No. 133, which requires that all derivatives be
+recognized as assets or liabilities in the consolidated balance sheet measured
+at fair value, is effective for the Company starting in its fiscal year 2001,
+but is currently not expected to have a significant impact.
+
+        Reclassifications. Certain reclassifications have been made to the prior
+year consolidated financial statements to conform with the current year
+consolidated financial statement presentation.
+
+        2. OFFICE FURNITURE, EQUIPMENT AND LEASEHOLD IMPROVEMENTS.
+
+        Office furniture, equipment and leasehold improvements at December 31,
+1998 and 1999, consisted of the following:
+
+
+<TABLE>
+<CAPTION>
+                                                        1998              1999
+                                                    -----------       -----------
+<S>                                                 <C>               <C>
+Furniture and fixtures                              $ 1,202,000       $ 1,674,000
+Computers and related equipment                       2,592,000         3,276,000
+Machinery and equipment                               1,064,000         1,368,000
+Leasehold improvements                                  726,000         1,041,000
+Construction in progress                                570,000           419,000
+                                                    -----------       -----------
+                                                      6,154,000         7,778,000
+
+Less accumulated depreciation and amortization       (3,451,000)       (4,268,000)
+                                                    -----------       -----------
+
+    Total                                           $ 2,703,000       $ 3,510,000
+                                                    -----------       -----------
+</TABLE>
+
+
+Depreciation and amortization expense for the years ended December 31, 1997,
+1998 and 1999 was $753,000, $860,000 and $1,035,000, respectively.
+
+        3. OFFICER LOANS RECEIVABLE.
+
+        In June 1999, the Company loaned an officer of the Company $400,000,
+bearing interest at 4.92%, compounded semi-annually. Principal and interest are
+payable on June 10, 2000.
+
+
+        4. GOODWILL.
+
+        Goodwill represents the excess of the purchase price over the fair value
+of the net assets acquired (see Note 12). Goodwill is stated net of accumulated
+amortization of $243,000 at December 31, 1998 and $352,000 at December 31, 1999.
+Goodwill is being amortized on a straight-line basis over fifteen years. The
+Company periodically reviews goodwill to assess recoverability; impairments
+would be recognized in operating results if a permanent diminution in value were
+to occur.
+
+
+                                       21
+
+
+<PAGE>   22
+        5. 401(k) RETIREMENT SAVINGS PLAN, DEFERRED COMPENSATION PLAN AND CHANGE
+IN CONTROL SEVERANCE PLAN.
+
+        Effective January 1, 1995, the Company adopted the On Assignment, Inc.
+401(k) Retirement Savings Plan under Section 401(k) of the Internal Revenue
+Code, under which eligible employees may elect to have a portion of their salary
+deferred and contributed to the plan. The amount of salary deferred is not
+subject to Federal and State income tax at the time of deferral. The Plan covers
+all eligible employees and provides for matching or discretionary contributions
+at the discretion of the Board of Directors. The Company made no matching or
+discretionary contributions to the plan during the years ended December 31,
+1997, 1998 and 1999.
+
+        Effective January 1, 1998, the Company implemented the On Assignment,
+Inc. Deferred Compensation Plan. The plan permits a select group of management
+or highly compensated employees or directors to annually elect to defer up to
+100 percent of their base salary, annual bonus, stock option gain or fees on a
+pre-tax basis, and earn tax-deferred interest on these amounts. Distributions
+from the plan are made at retirement, death or termination of employment, in a
+lump sum, or over five, ten or fifteen years. At December 31, 1999, the
+liability under the plan was approximately $807,000. A life insurance policy is
+maintained on the participants relating to the plan, whereby the Company is the
+sole owner and beneficiary of such insurance. The cash surrender value of this
+life insurance policy, which is reflected in other assets, was approximately
+$754,000 at December 31, 1999.
+
+        During 1999, a participant in the Deferred Compensation Plan performed a
+stock-for-stock exercise resulting in a gain of approximately $294,000. A stock
+certificate for 9,882 shares was issued into a rabbi trust in the Company's
+name. The employer stock held by the rabbi trust has been classified in equity
+in the same manner as treasury stock, with a reduction in shares outstanding and
+a corresponding reduction to Additional Paid-in Capital. The deferred
+compensation liability is also shown as a separate component in equity.
+
+        On February 12, 1998, the Company adopted the On Assignment, Inc. Change
+in Control Severance Plan ("the Plan") to provide severance benefits for
+officers and other eligible employees who are terminated following an
+acquisition of the Company. Under the Plan, if an eligible employee is
+involuntarily terminated within 18 months of a change in control, as defined in
+the Plan, then the employee will be entitled to salary plus target bonus payable
+in a lump sum. The amounts payable would range from one month to 18 months of
+salary and target bonus depending on the employee's length of service and
+position with the Company.
+
+        6. COMMITMENTS AND CONTINGENCIES.
+
+        The Company leases its facilities and certain office equipment under
+operating leases which expire at various dates through 2004. Certain leases
+contain rent escalations and/or renewal options.
+
+        The following is a summary of future minimum lease payments by year:
+
+
+<TABLE>
+<CAPTION>
+                                   Operating
+                                    Leases
+                                  ----------
+<S>                               <C>
+                        2000      $2,013,000
+                        2001       1,641,000
+                        2002       1,427,000
+                        2003       1,229,000
+                        2004         257,000
+                                  ----------
+
+Total Minimum Lease Payments      $6,567,000
+                                  ----------
+</TABLE>
+
+
+        Rent expense for the years ended December 31, 1997, 1998 and 1999 was
+$1,433,000, $1,593,000 and $2,342,000, respectively.
+
+        The Company and its subsidiaries are involved in various legal
+proceedings, claims and litigation arising in the ordinary course of business.
+However, based on the facts currently available, management believes that the
+disposition of matters that are pending or asserted will not have a materially
+adverse effect on the financial position of the Company.
+
+        The Company is partially self-insured for workers' compensation expense.
+In connection with this program, cash deposits are required to be held by the
+reinsurer for the payment of losses and as collateral amounting to $168,000 and
+$169,000 at December 31, 1998 and 1999, respectively. These workers'
+compensation deposits are restricted as to withdrawal and have therefore been
+classified as non-current assets in the accompanying Consolidated Balance
+Sheets.
+
+
+                                       22
+
+
+<PAGE>   23
+These funds are invested primarily in three-month treasury bills and are
+recorded at amortized cost which approximated market at December 31, 1998 and
+1999. In addition, the Company has provided a stand-by letter of credit
+amounting to approximately $878,000 at December 31, 1998 and 1999, in connection
+with this program. The self-insurance claim liability is determined based on
+claims filed and an estimate of claims incurred but not yet reported and
+amounted to approximately $1,437,000 and $1,447,000 at December 31, 1998 and
+1999, respectively.
+
+        The Company's EnviroStaff subsidiary was operating under a loss-retro
+workers' compensation policy from July 1, 1995 through September 30, 1996. In
+connection with this program, EnviroStaff paid a base premium with an excess
+loss cap of $50,000 per occurrence. Medical and indemnity expenses are paid at
+cost plus administration fees and taxes. The insurance claim liability is
+determined based on claims filed and an estimate of claims incurred but not yet
+reported. In addition, EnviroStaff provided a standby letter of credit amounting
+to approximately $120,000 that expired on July 1, 1998. Effective October 1,
+1996, EnviroStaff was added to the Company's workers' compensation program.
+
+        7. BORROWING ARRANGEMENTS.
+
+        On August 28, 1998, the Company renewed its unsecured bank line of
+credit. The maximum borrowings allowable under this agreement were $7,000,000
+and accrued interest at the bank's reference rate. The Company terminated the
+line of credit on July 1, 1999. No amounts were outstanding as of December 31,
+1998.
+
+        8. INCOME TAXES.
+
+        The provision for income taxes consists of the following:
+
+
+<TABLE>
+<CAPTION>
+                                    Years Ended December 31,
+                          -----------------------------------------------
+                              1997              1998              1999
+                          -----------       -----------       -----------
+<S>                       <C>               <C>               <C>
+Federal:
+            Current       $ 4,166,000       $ 6,164,000       $ 8,196,000
+            Deferred         (271,000)         (290,000)         (707,000)
+                          -----------       -----------       -----------
+                            3,895,000         5,874,000         7,489,000
+                          -----------       -----------       -----------
+
+State:
+            Current         1,038,000           911,000         1,155,000
+            Deferred           21,000           (37,000)          (78,000)
+                          -----------       -----------       -----------
+                            1,059,000           874,000         1,077,000
+                          -----------       -----------       -----------
+
+Total                     $ 4,954,000       $ 6,748,000       $ 8,566,000
+                          ===========       ===========       ===========
+</TABLE>
+
+
+        Deferred income taxes arise from the recognition of certain assets and
+liabilities for tax purposes in periods different from those in which they are
+recognized in the financial statements. These differences relate primarily to
+workers' compensation, state taxes, bad debt, deferred compensation, and
+depreciation and amortization expenses.
+
+        Deferred assets and liabilities are classified as current and
+non-current according to the nature of the assets or liabilities from which they
+arose.
+
+
+The components of deferred tax assets (liabilities) are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                December 31, 1998              December 31, 1999
+                                            --------------------------      -------------------------
+                                             Federal            State        Federal          State
+                                            ----------        --------      ----------       --------
+<S>                                         <C>               <C>           <C>              <C>
+Deferred tax assets:
+  Current:
+    Allowance for doubtful accounts           $343,000         $49,000        $416,000        $62,000
+    Employee related accruals                   59,000           8,000         515,000         76,000
+    State taxes                                297,000              --         385,000             --
+    Workers' compensation loss reserve         499,000          71,000         524,000         78,000
+</TABLE>
+
+
+                                       23
+
+
+<PAGE>   24
+<TABLE>
+<S>                                         <C>               <C>           <C>              <C>
+                                            ----------        --------      ----------       --------
+Total current deferred tax assets            1,198,000         128,000       1,840,000        216,000
+                                            ----------        --------      ----------       --------
+  Non-current:
+    Depreciation and amortization expense      205,000          30,000         139,000         21,000
+    Other                                       37,000           1,000         114,000             --
+                                            ----------        --------      ----------       --------
+Total deferred tax assets                    1,440,000         159,000       2,093,000        237,000
+Deferred tax liabilities:
+  Current:
+    Other                                     (54,000)              --              --             --
+                                            ----------        --------      ----------       --------
+Net deferred tax asset                      $1,386,000        $159,000      $2,093,000       $237,000
+                                            ----------        --------      ----------       --------
+</TABLE>
+
+
+The net operating loss carryforwards included in other non-current deferred tax
+assets at December 31, 1998 and 1999, were acquired through the 1994 acquisition
+of 1st Choice Personnel, Inc. These carryforwards are available to offset future
+taxable income, subject to annual limitations, through the year 2007.
+
+        The reconciliation between the amount computed by applying the U.S.
+federal statutory tax rate of 35% in 1997, 1998 and 1999 to income before income
+taxes and the actual income taxes is as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                     Years Ended December 31,
+                                                         -----------------------------------------------
+                                                             1997              1998              1999
+                                                         -----------       -----------       -----------
+<S>                                                      <C>               <C>               <C>
+Income tax expenses at the statutory rate                $ 4,627,000       $ 6,322,000       $ 8,060,000
+
+State income taxes, net of federal income tax benefit        401,000           575,000         1,119,000
+
+Tax-free interest and other                                  (74,000)         (149,000)         (613,000)
+                                                         -----------       -----------       -----------
+
+Total                                                    $ 4,954,000       $ 6,748,000       $ 8,566,000
+                                                         -----------       -----------       -----------
+</TABLE>
+
+
+        At December 31, 1998 and 1999, net income taxes payable and additional
+paid-in capital include tax benefits amounting to $1,183,000 and $517,000,
+respectively, resulting from disqualifying dispositions by officers and
+employees of common stock of the Company acquired through the exercise of stock
+options.
+
+        9. STOCK OPTION PLAN AND EMPLOYEE STOCK PURCHASE PLAN.
+
+        Under its Stock Option Plan, the Company may grant employees,
+contractors, and non-employee members of the Board of Directors incentive or
+non-qualified stock options to purchase an aggregate of up to 4,000,000 shares
+of its common stock. Optionees, option prices, option amounts, grant dates and
+vesting are established by the Compensation Committee of the Board of Directors.
+The option prices may not be less than 85% of the fair market value of the stock
+at the time the option is granted. Stock options granted to date generally
+become exercisable over a pro rata period of four years and have a maximum term
+of ten years measured from the grant date.
+
+
+                                       24
+
+
+<PAGE>   25
+        The following summarizes stock option activity for the years ended
+December 31, 1997, 1998 and 1999:
+
+
+<TABLE>
+<CAPTION>
+                                                                       Weighted
+                                                         Non-          Average
+                                      Incentive        Qualified       Exercise
+                                        Stock            Stock          Price
+                                       Options          Options        Per Share
+                                      ----------       ----------      ---------
+<S>                                   <C>              <C>             <C>
+Outstanding at January 1, 1997         1,126,770          321,710       $10.05
+    Granted                              409,968          161,032       $20.46
+    Exercised                           (335,358)         (67,201)      $ 5.77
+    Canceled                            (405,573)         (29,392)      $14.14
+                                      ----------       ----------
+
+Outstanding at December 31, 1997         795,807          386,149       $15.04
+    Granted                              340,192          142,958       $32.37
+    Exercised                           (136,843)         (70,448)      $10.94
+    Canceled                            (199,784)          (1,500)      $21.53
+                                      ----------       ----------
+
+Outstanding at December 31, 1998         799,372          457,159       $21.34
+    Granted                              418,911          168,539       $26.85
+    Exercised                           (210,442)         (14,763)      $ 8.99
+    Canceled                            (198,030)         (10,447)      $27.98
+                                      ----------       ----------
+
+Outstanding at December 31, 1999         809,811          600,488       $24.63
+                                      ----------       ----------
+</TABLE>
+
+
+        The following summarizes pricing and term information for options
+outstanding as of December 31, 1999:
+
+
+<TABLE>
+<CAPTION>
+                                         Options Outstanding                      Options Exercisable
+                       ------------------------------------------------      ------------------------------
+                                              Weighted         Weighted                           Weighted
+                             Number           Average           Average                            Average
+     Range of            Outstanding at      Remaining         Exercise       Exercisable at       Exercise
+  Exercise Prices      December 31, 1999  Contractual Life       Price       December 31, 1999       Price
+- ------------------     -----------------  ----------------     --------      -----------------    ---------
+<S>                    <C>                <C>                  <C>           <C>                  <C>
+$ 4.875 to $ 19.50           319,128         6.0 years         $   14.45           300,366         $   14.44
+ 19.625 to 23.00             297,387         8.3 years             22.74           123,206             22.71
+ 23.375 to 27.375            319,262         9.8 years             26.44            51,519             25.16
+ 27.625 to 32.438            423,522         9.1 years             31.01           105,848             31.64
+ 32.625 to 36.75              51,000         8.7 years             34.95            18,785             34.88
+                           ---------         ---------         ---------         ---------         ---------
+$ 4.875 to $ 36.75         1,410,299         8.4 years         $   24.63           599,724         $   20.74
+                           ---------         ---------         ---------         ---------         ---------
+</TABLE>
+
+
+        The Employee Stock Purchase Plan allows eligible employees to purchase
+Common Stock of the Company, through payroll deductions, at 85% of the lower of
+the market price on the first day or the last day of the semi-annual purchase
+period. Eligible employees may contribute up to 10% of their base earnings
+toward the purchase of the stock. During 1997, 1998 and 1999, shares issued
+under the plan were 13,552, 9,514 and 9,924, respectively.
+
+        The Company applies Accounting Principles Board Opinion No. 25 and
+related interpretations in accounting for its Stock Option Plan and Employee
+Stock Purchase Plan and accordingly, no compensation cost has been recognized
+for its stock option and purchase plans. The Company has adopted the disclosure
+only provisions of Statement of Financial Accounting Standards No. 123,
+"Accounting for Stock-Based Compensation" (SFAS No. 123). The estimated fair
+value of options granted during 1997, 1998 and 1999 pursuant to SFAS No. 123 was
+approximately $5,530,000, $7,342,000 and $7,693,000, respectively, and the
+estimated fair value of stock purchased under the Company's Employee Stock
+Purchase
+
+
+                                       25
+
+
+<PAGE>   26
+Plan was approximately $60,000, $72,000 and $93,000, respectively. Had
+compensation cost for the Company's Stock Option Plan and its Employee Stock
+Purchase Plan been determined based on the fair value at the grant dates for
+awards under those plans consistent with the method of SFAS No. 123, the
+Company's pro forma net income would have been $7,368,000, $9,771,000 and
+$11,993,000 and pro forma earnings per share would have been $0.68, $0.87 and
+$1.08 for 1997, 1998 and 1999, respectively. Because the SFAS No. 123 method of
+accounting has not been applied to options granted prior to January 1, 1995, the
+resulting pro forma compensation cost may not be representative of that to be
+expected in future years.
+
+        The fair value of options granted under the Company's Stock Option Plan
+during 1997, 1998 and 1999 was estimated on the date of grant using the
+Black-Scholes option-pricing model with the following weighted-average
+assumptions used: (i) no dividend yield in 1997, 1998 or 1999, (ii) expected
+volatility of approximately 48% in 1997, 49% in 1998 and 50% in 1999, (iii)
+risk-free interest rate of approximately 6.2% in 1997, 5.0% in 1998 and 5.8% in
+1999, and (iv) expected lives of the options of approximately 5 years in 1997,
+1998 and 1999. Pro forma compensation cost of shares purchased under the
+Employee Stock Purchase Plan is measured based on the discount from market
+value.
+
+        10. BUSINESS SEGMENTS.
+
+        Indicated below is the information required to comply with SFAS No. 131,
+Disclosures about Segments of an Enterprise and Related Information.
+
+        The Company has two reportable operating segments: Lab Support and
+Healthcare Financial Staffing. The Lab Support operating segment includes the
+combined results of the Lab Support, Clinical Lab Staff and EnviroStaff
+divisions, as they have similar economic characteristics and they meet the
+aggregation criteria of SFAS No. 131. The Lab Support segment provides temporary
+and permanent placement services of laboratory and scientific professionals to
+the biotechnology, pharmaceutical, food and beverage, chemical and environmental
+industries, laboratory and medical staffing professionals to the healthcare
+industry and environmental professionals to the environmental health and safety
+fields. The Healthcare Financial Staffing segment provides temporary and
+permanent placement services of medical billing and collection professionals to
+the healthcare industry.
+
+        The Company's management evaluates performance of each segment primarily
+based on revenues and operating income (before acquisition costs, interest and
+income taxes). The accounting policies of the segments are the same as those
+described in the Summary of Significant Accounting Policies (see Note 1). The
+information in the following table is derived directly from the segments'
+internal financial reporting used for corporate management purposes. Certain
+corporate expenses are not allocated to and/or among the operating segments.
+
+
+<TABLE>
+<CAPTION>
+                                                            Years Ended December 31,
+                                              ------------------------------------------------------
+                                                  1997                 1998                 1999
+                                              ------------         ------------         ------------
+<S>                                           <C>                  <C>                  <C>
+Revenues:
+        Lab Support                           $ 96,610,000         $110,644,000         $120,380,000
+        Healthcare Financial Staffing           11,239,000           22,097,000           39,093,000
+                                              ------------         ------------         ------------
+                                              $107,849,000         $132,741,000         $159,473,000
+                                              ------------         ------------         ------------
+Gross Profit:
+        Lab Support                           $ 29,528,000         $ 34,750,000         $ 39,089,000
+        Healthcare Financial Staffing            3,573,000            7,286,000           12,732,000
+                                              ------------         ------------         ------------
+                                              $ 33,101,000         $ 42,036,000         $ 51,821,000
+                                              ------------         ------------         ------------
+Operating Income:
+        Lab Support                           $ 11,367,000         $ 13,532,000         $ 14,731,000
+        Healthcare Financial Staffing            1,020,000            3,196,000            6,662,000
+                                              ------------         ------------         ------------
+                                              $ 12,387,000         $ 16,728,000         $ 21,393,000
+                                              ------------         ------------         ------------
+</TABLE>
+
+
+        11. UNAUDITED QUARTERLY RESULTS.
+
+        The following table presents unaudited quarterly financial information
+for each of the eight quarters ended December 31, 1999. In the opinion of
+management, the quarterly information contains all adjustments, consisting only
+of
+
+
+                                       26
+
+
+<PAGE>   27
+normal recurring accruals, necessary for a fair presentation thereof. The
+operating results for any quarter are not necessarily indicative of the results
+for any future period.
+
+
+<TABLE>
+<CAPTION>
+                                                                         (Unaudited)
+                                                              (in thousands, except per share data)
+                                                                        Quarter Ended
+                              --------------------------------------------------------------------------------------------------
+                              Mar. 31,     June 30,    Sept. 30,     Dec. 31,     Mar. 31,     June 30,    Sept. 30,     Dec. 31,
+                                1998         1998         1998         1998         1999         1999         1999         1999
+                              -------      -------      -------      -------      -------      -------      -------      -------
+<S>                           <C>          <C>         <C>           <C>          <C>          <C>         <C>           <C>
+Revenues                      $28,567      $32,508      $35,535      $36,131      $34,789      $39,272      $42,227      $43,185
+  Cost of services             19,754       22,261       24,192       24,498       23,569       26,524       28,450       29,109
+                              -------      -------      -------      -------      -------      -------      -------      -------
+Gross profit                    8,813       10,247       11,343       11,633       11,220       12,748       13,777       14,076
+  Operating expenses            5,397        6,230        6,966        6,715        6,791        7,613        8,177        7,847
+                              -------      -------      -------      -------      -------      -------      -------      -------
+Operating income                3,416        4,017        4,377        4,918        4,429        5,135        5,600        6,229
+  Interest income                 302          322          357          355          395          411          414          415
+                              -------      -------      -------      -------      -------      -------      -------      -------
+Income before income taxes      3,718        4,339        4,734        5,273        4,824        5,546        6,014        6,644
+  Provision for income taxes    1,400        1,614        1,772        1,962        1,794        2,063        2,231        2,478
+                              -------      -------      -------      -------      -------      -------      -------      -------
+Net income                    $ 2,318      $ 2,725      $ 2,962      $ 3,311      $ 3,030      $ 3,483      $ 3,783      $ 4,166
+                              -------      -------      -------      -------      -------      -------      -------      -------
+
+Basic earnings per share      $  0.22      $  0.25      $  0.27      $  0.30      $  0.28      $  0.32      $  0.35      $  0.38
+                              -------      -------      -------      -------      -------      -------      -------      -------
+Weighted average number of
+  common shares outstanding    10,767       10,842       10,898       10,934       11,013       11,054       10,919       10,839
+                              -------      -------      -------      -------      -------      -------      -------      -------
+
+Diluted earnings per share    $  0.21      $  0.24      $  0.26      $  0.29      $  0.27      $  0.31      $  0.34      $  0.38
+                              -------      -------      -------      -------      -------      -------      -------      -------
+Weighted average number
+  of common and common
+  equivalent shares
+  outstanding                  11,202       11,296       11,361       11,332       11,340       11,245       11,137       11,025
+                              -------      -------      -------      -------      -------      -------      -------      -------
+</TABLE>
+
+
+        12. ACQUISITIONS.
+
+               On July 20, 1998, the Company acquired substantially all of the
+assets of LabStaffers, Inc., a provider of temporary science and medical
+laboratory professionals through its branches in Greensboro and Charlotte, N.C.
+The LabStaffers, Inc. offices and operations acquired have been added to the
+Company's Lab Support division. This acquisition has been accounted for using
+the purchase method of accounting. Pro Forma information is not presented as the
+impact on revenues, net income and earnings per share are not significant.
+Consideration for the purchase consisted of $808,000 in cash paid on the
+purchase date. In addition, in July 1999 the Company paid an additional $360,000
+in cash in accordance with the agreement, bringing the total consideration for
+the purchase to $1,168,000 at December 31, 1999. This contingent consideration
+has been added to goodwill in the accompanying Consolidated Balance Sheets.
+Additional consideration not to exceed $480,000 may be paid 25 months after the
+closing date, contingent on certain revenue targets, and any contingent
+consideration will also be added to goodwill.
+
+
+                                       27
+
+
+<PAGE>   28
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+        None.
+
+
+
+PART III
+
+ITEM 10. EXECUTIVE OFFICERS AND DIRECTORS OF THE REGISTRANT
+
+        Information regarding the Company's directors will be set forth under
+the caption "Proposal One -- Election of Directors" in the Company's proxy
+statement for use in connection with its Annual Meeting of Stockholders
+scheduled to be held on June 13, 2000 (the "2000 Proxy Statement") and is
+incorporated herein by reference. The 2000 Proxy Statement will be filed with
+the Securities and Exchange Commission within 120 days after the end of the
+Company's fiscal year.
+
+        Information regarding the Company's executive officers is set forth in
+Part I of this Annual Report on Form 10-K and is incorporated herein by
+reference.
+
+COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+
+        Information regarding compliance with Section 16(a) of the Exchange Act
+will be set forth under the caption "Compliance with Section 16(a) of the
+Securities Exchange Act of 1934" in the Company's 2000 Proxy Statement to be
+filed within 120 days after the end of the Company's fiscal year and is
+incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+        Information regarding remuneration of the Company's directors and
+officers will be set forth under the captions "Proposal One -- Election of
+Directors," and "Executive Compensation and Related Information" in the
+Company's 2000 Proxy Statement to be filed within 120 days after the end of the
+Company's fiscal year and is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+        Information regarding security ownership of certain beneficial owners
+and management will be set forth under the captions "General Information for
+Stockholders -- Record Date, Voting and Share Ownership" in the Company's 2000
+Proxy Statement to be filed within 120 days after the end of the Company's
+fiscal year and is incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+        Information regarding certain relationships and related transactions
+will be set forth under the caption "Executive Compensation and Related
+Information -- Certain Relationships and Related Transactions" in the Company's
+2000 Proxy Statement to be filed within 120 days after the end of the Company's
+fiscal year and is incorporated herein by reference.
+
+
+                                       28
+
+
+<PAGE>   29
+PART IV
+
+ITEM 14.   EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+
+<TABLE>
+<CAPTION>
+     (a) LIST OF DOCUMENTS FILED AS PART OF THIS REPORT                          PAGE
+<S>             <C>                                                              <C>
+         1.     Financial Statements:
+
+                Report of Independent Auditors                                     14
+
+                Consolidated Balance Sheets at December 31, 1998 and 1999          15
+
+                Consolidated Statements of Income and Comprehensive Income
+                for the Years Ended December 31, 1997, 1998 and 1999               16
+
+                Consolidated Statements of Stockholders' Equity for the
+                Years Ended December 31, 1997, 1998 and 1999                       17
+
+                Consolidated Statements of Cash Flows for the Years Ended
+                December 31, 1997, 1998 and 1999                                   18
+
+                Notes to Consolidated Financial Statements                         19
+
+         2.     Financial Statement Schedule:
+
+                Schedule II -- Valuation and Qualifying Accounts                   33
+
+
+                Schedules other than those referred to above have been
+                omitted because they are not applicable or not required
+                under the instructions contained in Regulation S-X or
+                because the information is included elsewhere in the
+                financial statements or notes thereto.
+</TABLE>
+
+
+
+        (b) REPORTS ON FORM 8-K
+
+               No reports on Form 8-K were filed during the three months ended
+December 31, 1999.
+
+
+                                       29
+
+
+<PAGE>   30
+        (c) EXHIBITS
+
+
+<TABLE>
+<CAPTION>
+NUMBER    FOOTNOTE    DESCRIPTION
+- ------    --------    -----------
+<S>         <C>       <C>
+ 3.1        (1)       Amended and Restated Certificate of Incorporation of the Company.
+
+ 3.2        (2)       Amended and Restated Bylaws of the Company.
+
+ 4.2        (3)       Specimen Common Stock Certificate.
+
+10.1        (3)       Form of Indemnification Agreement.
+
+10.2        (4)       Restated 1987 Stock Option Plan, as amended.
+
+10.3        (5)       1992 Employee Stock Purchase Plan.
+
+10.9        (6)       Office lease dated December 7, 1993, by and between the Company and Malibu
+                      Canyon Office Partners, LP.
+
+21.1                  Subsidiaries of the Registrant.
+
+24.1                  Consent of Deloitte & Touche LLP.
+
+25.1                  Power of Attorney (see page 32).
+</TABLE>
+
+
+(1)     Incorporated by reference from an exhibit filed with the Company's
+        Annual Report on Form 10-K (File No. 0-20540) filed with the Securities
+        and Exchange Commission on March 30, 1993.
+
+(2)     Incorporated by reference from an exhibit filed with the Company's
+        Current Report on Form 8-K (File No. 0-20540) filed with the Securities
+        and Exchange Commission on February 4, 1998.
+
+(3)     Incorporated by reference from an exhibit filed with the Company's
+        Registration Statement on Form S-1 (File No. 33-50646) declared
+        effective by the Securities and Exchange Commission on September 21,
+        1992.
+
+(4)     Incorporated by reference from an exhibit filed with the Company's
+        Annual Report on Form 10-K (File No. 0-20540) filed with the Securities
+        and Exchange Commission on March 28, 1997.
+
+(5)     Incorporated by reference from an exhibit filed with the Company's
+        Registration Statement on Form S-8 (File No. 33-57078) filed with the
+        Securities and Exchange Commission on January 19, 1993.
+
+(6)     Incorporated by reference from an exhibit filed with the Company's
+        Annual Report on Form 10-K (File No. 0-20540) filed with the Securities
+        and Exchange Commission on March 24, 1994.
+
+
+                                       30
+
+
+<PAGE>   31
+                                   SIGNATURES
+
+
+        Pursuant to the requirements of the Section 13 or 15(d) of the
+Securities and Exchange Act of 1934, the Registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized, in
+Calabasas, California on this 29th day of March, 2000.
+
+
+                                      ON ASSIGNMENT, INC.
+
+
+
+                                      By: /s/ H. TOM BUELTER
+                                         -------------------------------
+                                         H. Tom Buelter
+                                         Chairman of the Board and
+                                         Chief Executive Officer
+
+
+                                       31
+
+
+<PAGE>   32
+                                POWER OF ATTORNEY
+
+
+        KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints H. Tom Buelter and Ronald W. Rudolph and
+each of them, as his or her true and lawful attorneys-in-fact and agents, with
+full power of substitution and re-substitution, for him or her and in his or her
+name, place and stead, in any and all capacities, to sign any and all amendments
+(including post-effective amendments) to this Report on Form 10-K, and to file
+the same, with all exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+connection therewith, as fully to all intents and purposes as he might or could
+do in person, hereby ratifying and confirming all that said attorneys-in-fact
+and agents, or any of them, or their or his substitute or substitutes, may
+lawfully do or cause to be done by virtue hereof.
+
+        Pursuant to the requirements of the Securities and Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated:
+
+
+<TABLE>
+<CAPTION>
+      Signature                              Title                            Date
+      ---------                              -----                            ----
+<S>                            <C>                                       <C>
+/s/ H. TOM BUELTER
+- -------------------------      Chairman of the Board and                 March 29, 2000
+H. Tom Buelter                 Chief Executive Officer
+                               (Principal Executive Officer)
+/s/ RONALD W. RUDOLPH
+- -------------------------      Executive Vice President, Finance         March 29, 2000
+Ronald W. Rudolph              and Chief Financial Officer
+                               (Principal Financial and Accounting
+                               Officer)
+/s/ KAREN BRENNER
+- -------------------------      Director                                  March 29, 2000
+Karen Brenner
+
+/s/ JONATHAN S. HOLMAN
+- -------------------------      Director                                  March 29, 2000
+Jonathan S. Holman
+
+/s/ JEREMY M. JONES
+- -------------------------      Director                                  March 29, 2000
+Jeremy M. Jones
+
+/s/ WILLIAM E. BROCK
+- -------------------------      Director                                  March 29, 2000
+William E. Brock
+</TABLE>
+
+
+                                       32
+
+
+<PAGE>   33
+                               ON ASSIGNMENT, INC.
+
+                SCHEDULE II -- VALUATION AND QUALIFYING ACCOUNTS
+
+                  YEARS ENDED DECEMBER 31, 1997, 1998 AND 1999
+
+
+<TABLE>
+<CAPTION>
+
+                                        Balance at        Charged to         Charged to                     Balance at
+                                        beginning of      costs and            other                          end of
+            Description                   period           expenses           accounts      Deductions        period
+            -----------                 ------------      ----------         ----------     ----------      ----------
+<S>                                     <C>               <C>                 <C>           <C>             <C>
+Year ended December 31, 1997
+  Allowance for doubtful accounts       $  553,000          451,000               --         (270,000)       $  734,000
+
+Year ended December 31, 1998
+  Allowance for doubtful accounts       $  734,000          593,000               --         (318,000)       $1,009,000
+
+Year ended December 31, 1999
+  Allowance for doubtful accounts       $1,009,000          738,000               --         (531,000)       $1,216,000
+</TABLE>
+
+
+                                       33
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>2
+<DESCRIPTION>SUBSIDIARIES
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 21.1
+
+
+                         SUBSIDIARIES OF THE REGISTRANT
+
+
+Assignment Ready, Inc., a Delaware corporation, is a wholly owned subsidiary of
+EnviroStaff, Inc., a Minnesota corporation, which in turn is a wholly owned
+subsidiary of the Registrant. Assignment Ready, Inc. does business under the
+names "Lab Support," "Healthcare Financial Staffing," "Clinical Lab Staff," and
+"EnviroStaff."
+
+Other subsidiaries of the Registrant are omitted from this exhibit pursuant to
+Regulation S-K 601(b)(21)(ii).
+
+
+                                       34
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>3
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 24.1
+
+
+                          INDEPENDENT AUDITOR'S CONSENT
+
+
+        We consent to the incorporation by reference in Registration Statements
+No. 33-57078 and No. 333-38849 of On Assignment, Inc. and subsidiaries on Form
+S-8 of our report dated January 25, 2000, with respect to the consolidated
+financial statements and financial statement schedule of On Assignment, Inc.
+appearing in this Annual Report on Form 10-K of On Assignment, Inc. for the year
+ended December 31, 1999.
+
+
+
+/s/ Deloitte & Touche LLP
+- -------------------------------
+Deloitte & Touche LLP
+
+March 29, 2000
+Los Angeles, California
+
+
+                                       35
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM CONSOLIDATED
+BALANCE SHEETS; CONSOLIDATED STATEMENTS OF INCOME AND IS QUALIFIED IN ITS
+ENTIRETY BY REFERENCE TO SUCH FORM 10-K FOR THE FISCAL YEAR ENDED DECEMBER 31,
+1999.
+</LEGEND>
+
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-31-1999
+<PERIOD-START>                             JAN-01-1999
+<PERIOD-END>                               DEC-31-1999
+<CASH>                                      24,289,000
+<SECURITIES>                                13,407,000
+<RECEIVABLES>                               37,403,000
+<ALLOWANCES>                                 1,216,000
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                            63,062,000
+<PP&E>                                       7,778,000
+<DEPRECIATION>                               4,268,000
+<TOTAL-ASSETS>                              71,740,000
+<CURRENT-LIABILITIES>                        8,293,000
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                       108,000
+<OTHER-SE>                                  63,339,000
+<TOTAL-LIABILITY-AND-EQUITY>                71,740,000
+<SALES>                                              0
+<TOTAL-REVENUES>                           159,473,000
+<CGS>                                                0
+<TOTAL-COSTS>                              107,652,000
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                               738,000
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                             23,028,000
+<INCOME-TAX>                                 8,566,000
+<INCOME-CONTINUING>                         14,462,000
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                14,462,000
+<EPS-BASIC>                                       1.32
+<EPS-DILUTED>                                     1.29
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

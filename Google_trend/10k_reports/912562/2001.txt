@@ -1,0 +1,2862 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HTxlO73LGBIEQ2L0IpQJTqV5WTtOiaRFVhM5u4cr4TRVj2LioAflj0r7Lwr2Ljo5
+ 7eODa7n+J8XOZE0wzirZPw==
+
+<SEC-DOCUMENT>0000912562-01-000003.txt : 20010224
+<SEC-HEADER>0000912562-01-000003.hdr.sgml : 20010224
+ACCESSION NUMBER:		0000912562-01-000003
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GIBRALTAR STEEL CORP
+		CENTRAL INDEX KEY:			0000912562
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES & ROLLING & FINISHING MILLS [3310]
+		IRS NUMBER:				161445150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22462
+		FILM NUMBER:		1552405
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3556 LAKE SHORE ROAD
+		STREET 2:		P O BOX 2028
+		CITY:			BUFFALO
+		STATE:			NY
+		ZIP:			14219-0228
+		BUSINESS PHONE:		7168266500
+
+	MAIL ADDRESS:	
+		STREET 1:		GATEWAY EXECUTIVE PARK
+		STREET 2:		3556 LAKE SHORE ROAD PO BOX 2028
+		CITY:			BUFFALO
+		STATE:			NY
+		ZIP:			14219-0228
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+                   SECURITIES AND EXCHANGE COMMISSION
+                        Washington, D. C.  20549
+                     ______________________________
+
+                                FORM 10-K
+  (Mark One)
+    (  X  )     ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE
+                         SECURITIES ACT OF 1934
+               For The Fiscal Year Ended December 31, 2000
+
+                                   OR
+
+    (     )     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                   THE SECURITIES EXCHANGE ACT OF 1934
+
+       For the Transition Period From ___________ to ____________
+                     Commission File Number 0-22462
+
+                       GIBRALTAR STEEL CORPORATION
+         (Exact name of Registrant as specified in its charter)
+
+   Delaware                                  16-1445150
+  (State or other jurisdiction of            (I.R.S. Employer
+   incorporation organization)                Identification No.)
+
+  3556 Lake Shore Road, P.O. Box 2028,
+  Buffalo, New York                          14219-0228
+  (address of principal executive offices)   (Zip Code)
+
+                              (716) 826-6500
+           Registrant's telephone number, including area code
+
+       Securities registered pursuant to Section 12(b) of the Act:
+
+                                    Name of each exchange
+  Title of each class               on which registered
+  Common Stock, $.01 par value     NASDAQ National Market System
+
+       Securities registered pursuant to Section 12(g) of the Act:
+
+                                  NONE
+
+  Indicate by check mark whether the Registrant (1) has filed all
+  reports required to be filed by Section 13 or 15(d) of the Securities
+  Exchange Act of 1934 during the preceding 12 months (or for such
+  shorter period that the Registrant was required to file such
+  reports), and (2) has been subject to such filing requirements for
+  the past 90 days.  YES  X    NO
+
+  Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K is not contained herein, and will not be
+  contained, to the best of the Registrant's knowledge, in definitive
+  proxy or information statements incorporated by reference in Part III
+  of the Form 10-K or any amendment to this Form 10-K. (  )
+
+  As of December 31, 2000, the aggregate market value of the voting
+  stock held by nonaffiliates of the Registrant amounted to
+  $111,451,000.
+
+  As of December 31, 2000, the number of common shares outstanding was:
+  12,567,147.
+
+
+                   DOCUMENTS INCORPORATED BY REFERENCE
+
+  Portions of the Registrant's definitive Proxy Statement for the
+  Annual Meeting of Shareholders to be held May 15, 2001, are
+  incorporated by reference into Part III of this report.
+
+                                             Exhibit Index is on Page 37
+                            1
+<PAGE>
+                         PART I
+
+     Item 1. Description of Business
+
+     General
+
+     The Company is a processor of a broad array of high value-
+     added, technically sophisticated steel and other metal
+     products.  The Company utilizes any one or a combination of
+     several different processes at each of its operating
+     facilities to add substantial margin and value to raw
+     material acquired from primary steel and other metal
+     producers.  Underlying each of these processes is a common
+     set of steel and metal processing core competencies.  These
+     core competencies are the foundation upon which all the
+     Company's operations and customer offerings are based.
+
+     Industry Overview
+
+     Steel and metal processors occupy a market niche that exists
+     between the primary steel and metal producers and end-users
+     and others.  Primary steel and metal producers typically
+     focus on the sale of standard size and tolerance steel and
+     other metals to large volume purchasers, including steel and
+     metal processors.  At the same time, end-users require steel
+     with closer tolerances and with shorter lead times than the
+     primary steel and metal producers can provide efficiently.
+
+     Metal Processes, Products and Services
+
+     The Company processes, produces and delivers a variety of
+     products and services on a just-in-time basis for industrial
+     manufacturers, fabricators and other end-users in the
+     automotive, automotive supply, building and construction,
+     steel, machinery and fastener industries.
+
+     The following table sets forth certain information regarding
+     sales of products and services as a percentage
+     of net sales for the past three years:
+                                       Year ended December 31,
+     Processes, Products and Services    1998   1999   2000
+     Cold-rolled strip steel              30%    29%    28%
+     Building and construction products   32%    35%    36%
+     Precision metal products             31%    26%    23%
+     Heat treating and other services      7%    10%    13%
+
+                                     2
+<PAGE>
+     The following steel and metal products, processes and
+     services are provided by the Company:
+
+     Cold-Rolled Strip Steel
+     The Company produces a broad range of fully processed cold-
+     rolled strip steel products.  The Company buys wide, open
+     tolerance sheet steel in coils from primary steel producers and
+     processes it to specific customer orders by performing such
+     computer-aided processes as cold reduction, annealing, temper
+     rolling, edge rolling and slitting.  Cold reduction is the
+     rolling of steel to a specified thickness, tolerance and
+     finish.  Annealing is a thermal process which changes hardness
+     and certain metallurgical characteristics of steel.  Temper
+     rolling is the rolling of steel to a specific hardness.  Edge
+     rolling involves conditioning edges of processed steel into
+     square, fully round or partially round shapes.  Slitting is the
+     cutting of steel to specified widths.  Depending on customer
+     specifications, one or more of these processes are utilized to
+     produce steel strip of a precise grade, temper, tolerance and
+     finish.
+
+     The Company operates 9 rolling mills at its facilities in
+     Cleveland, Ohio and Buffalo, New York, all of which are QS9000
+     certified.  The Company has the capability to process coils up
+     to a maximum of 72 inch outside diameter and roll widths of up
+     to 50 inches.  The Company's rolling mills include automatic
+     gauge control systems with hydraulic screwdowns allowing for
+     microsecond adjustments during processing.  The Company
+     operates a 56 inch reversing mill which the Company believes is
+     the widest of its type in the industry.
+
+     The Company's computerized mills produce products meeting the
+     most stringent statistical quality control standards, enabling
+     it to satisfy a growing industry demand for a range of steel
+     from thicker to thinner, low carbons to alloy grades, all with
+     precision gauge tolerances as close as +/- .0002 inches.
+
+     The Company's rolling facilities are further complemented by 15
+     high convection annealing furnaces, which shorten annealing times
+     over conventional annealers.  The Company's newest furnaces
+     incorporate the use of a hydrogen atmosphere for the production of
+     cleaner and more uniform steel.  As a result of its annealing
+     capabilities, the Company is able to produce cold-rolled strip
+     steel with improved consistency in terms of hardness, molecular
+     grain structure and surface.
+
+                                      3
+<PAGE>
+     The Company can produce certain of its strip steel products on
+     oscillated coils which wind the steel strip in a manner similar
+     to the way thread is wound on a spool.  Oscillating the steel
+     enables the Company to put at least six times greater volume of
+     finished product on a coil than standard ribbon winding,
+     allowing customers to achieve longer production runs by reducing
+     the number of equipment shut-downs to change coils.  Customers
+     are thus able to increase productivity, reduce downtime, improve
+     yield and lengthen die life.
+
+     Building and Construction Products
+     The Company processes steel and other metal to manufacture a
+     wide array of products for the building and construction
+     industry.  Building and construction industry products are
+     manufactured primarily from galvanized steel, as well as from
+     aluminum, copper and other metals.  Building and construction
+     products manufactured include metal trims, utility sheds,
+     steel lumber connectors, metal roofing, drywall products,
+     gutters and down spouts, ventilation products and storm panel
+     systems for residential and commercial properties, registers,
+     vents, bath cabinets, access doors, roof hatches and
+     telescoping doors.
+
+     The Company's existing building and construction products
+     operations - comprised of Southeastern Metals Manufacturing
+     Company, Inc. (SEMCO), with facilities located in Florida,
+     Tennessee, Texas and Mississippi, The Solar Group (Solar),
+     with three facilities located in Mississippi, Appleton Supply
+     Co., Inc. (Appleton), with facilities located in Wisconsin
+     and Missouri, United Steel Products Company (USP), with
+     facilities located in Minnesota, California, North Carolina,
+     New Jersey, Florida, Texas and Colorado, and K & W Metal
+     Fabricators, Inc., d/b/a Weather Guard Building Products
+     (Weather Guard), with operations based in Colorado - expanded
+     during 2000 with the acquisition of Milcor, Inc. in July
+     2000.  Milcor has operations located in Ohio and Michigan,
+     which manufacture a complete line of metal building products,
+     including registers, vents, bath cabinets, access doors, and
+     telescoping doors.
+
+     Precision Metal Products
+     The Company's precision metal products are comprised primarily of
+     higher value-added flat-rolled sheet steel, as well as steel
+     strapping and other products.
+
+                                     4
+<PAGE>
+     Precision Metal Processing.  The Company operates a precision metals
+     facility in New York that primarily processes flat-rolled sheet
+     steel.  In addition to slitting and cutting to length, this
+     precision metals facility can produce higher value-added products
+     which are held to close tolerances and tight specifications through
+     cold-rolling, annealing, blanking, oscillating and edge rolling.
+
+     The Company also operates precision metals facilities in
+     Illinois and Alabama which process galvanized, Galvalume and
+     prepainted steel and can slit and cut to length material
+     based upon customer specifications.
+
+     Steel Strapping.  Steel strapping is banding and packaging
+     material that is used to close and reinforce shipping units such
+     as bales, boxes, cartons, coils, crates and skids.  The Company
+     manufactures high tensile strapping that is subject to strength
+     requirements imposed by the American Society for Testing and
+     Materials for packaging of different products for common carrier
+     transport.  This high tensile steel strapping is essential to
+     producers of large, heavy products such as steel, paper and lumber
+     where reliability of the packaging material is critical to the
+     safe transport of the product.
+
+     The Company's QS9000 certified strapping facility manufactures
+     high tensile steel strapping by slitting, oscillating, heat
+     treating, painting and packaging cold-rolled coils.
+
+     Steel strapping is cold-rolled to precise gauge on one of the
+     Company's rolling mills, which incorporates hydraulic screwdowns
+     and automatic gauge controls with statistical charting.  This
+     process ensures strapping product of the most uniform gauge
+     available and produces the maximum amount of strapping per pound
+     of steel.  All products are tested by on-site laboratory personnel
+     for width, thickness and other physical and metallurgical
+     properties.
+
+     To meet the differing needs of its customers, the Company offers
+     its strapping products in various thicknesses, widths and coil
+     sizes.  The Company also manufactures custom color and printed
+     strapping.  In addition, the Company offers related strapping
+     products, such as seals and tools, and is able to manufacture
+     tensional strapping for lighter duty applications.
+
+     Other Products.  The Company's Solar operation produces a
+     complete line of mailboxes manufactured primarily with
+     galvanized steel.
+
+                                   5
+<PAGE>
+     Heat Treating and Other Services
+     Metallurgical Heat Treating Services.   The Company provides a
+     wide range of metallurgical heat treating services  in which
+     customer-owned parts are exposed to precise temperatures,
+     atmospheres and quenchants and other conditions to improve their
+     mechanical properties, durability and wear resistance.  These
+     services include case-hardening, neutral-hardening and through-
+     hardening processes for customers in a wide variety of industries.
+     Using methods such as annealing, normalizing, vacuum hardening,
+     carburizing, nitriding and brazing, as well as a host of other
+     services, these heat treating processes can harden, soften or
+     otherwise impart desired properties on parts made of steel,
+     aluminum, copper and various alloys and other metals.
+
+     The Company operates fifteen heat treating facilities in
+     North Carolina, South Carolina, Tennessee, Georgia, Alabama,
+     Michigan, Indiana and Illinois.  The Company maintains a
+     metallurgical laboratory at each facility with trained
+     metallurgists providing a range of testing capabilities to
+     add value to treated parts and enhance quality control.
+     Consistent quality control is maintained by application of a
+     statistical process control system and QS/ISO 9002
+     registration.  Additionally, the Company maintains a fleet of
+     trucks and trailers to provide rapid turnaround time for its
+     customers.
+
+     Due to time and costs associated with transporting materials
+     and customers' need for just-in-time delivery of heat treated
+     products, the commercial heat treating industry has developed
+     as a regional industry concentrated in major industrial areas
+     of the country.  In addition, the commercial heat treating
+     industry has realized significant growth in recent years as
+     many companies involved in the manufacture of metal
+     components outsource their heat treating requirements.  The
+     Company believes that its heat treating facilities are
+     strategically located to meet the needs of customers from a
+     geographically diverse base of operations and to capitalize
+     on the growing trend in outsourcing of heat treating
+     operations.
+
+     Materials Management Services.  The Company operates two materials
+     management facilities that link primary steel producers and end-
+     user manufacturers by integrating the inventory purchasing,
+     receiving, inspection, billing, storage and shipping functions and
+     producing true just-in-time delivery of materials.  These
+     facilities receive shipments of steel by rail and truck from steel
+     producers, which retain ownership of the steel until it is
+     delivered to the end-user manufacturer.  The Company inspects the
+     steel and stores it in a climate-controlled environment through
+     the use of a specialized stacker crane and racking system.  When
+     an order is placed, the Company often delivers the steel to the
+     end-user manufacturer within one hour using Company-owned trucks
+     that have been custom designed to facilitate the loading and
+     unloading process.
+
+                                     6
+<PAGE>
+     Steel Pickling Joint Venture.  The Company is a minority partner
+     with a 31% interest in two steel pickling operations in Ohio.
+     After the hot-rolling process, the surface of sheet steel is left
+     with a residue known as scale, which must be removed prior to
+     further processing by a cleaning process known as pickling.  This
+     joint venture pickles steel on a toll basis, receiving fees for
+     its pickling services without acquiring ownership of the steel.
+
+     Quality Control
+
+     The Company carefully selects its raw material vendors and uses
+     computerized inspection and analysis to assure that the steel and
+     other metals which it processes will be able to meet the most
+     critical specifications of its customers.  The Company uses
+     documented procedures during the production process, along with
+     statistical process control computers linked directly to
+     processing equipment, to monitor that such specifications are met.
+     Physical, chemical and metallographic analyses are performed
+     during the production process to verify that mechanical and
+     dimensional properties, cleanliness, surface characteristics and
+     chemical content are within specification.
+
+     Suppliers and Raw Materials
+
+     Steel and metal processing companies are required to maintain
+     substantial inventories of raw materials in order to accommodate
+     the short lead times and just-in-time delivery requirements of
+     their customers.  Accordingly, the Company generally maintains its
+     inventory of raw materials at levels that it believes are
+     sufficient to satisfy the anticipated needs of the customers based
+     upon historic buying practices and market conditions.  The primary
+     raw material processed by the Company is flat rolled steel
+     purchased at regular intervals primarily from approximately 20
+     major North American suppliers and a limited number of foreign
+     steel companies.  The Company has no long-term commitments with
+     any of its suppliers.
+
+     Technical Services
+
+     The Company employs a staff of engineers and other technical
+     personnel and maintains fully-equipped, modern laboratories to
+     support its operations.  These laboratories enable the Company to
+     verify, analyze and document the
+     physical, chemical, metallurgical and mechanical properties of its
+     raw materials and products.  Technical service personnel also work
+     in conjunction with the sales force to determine the types of steel
+     required for the particular needs of the Company's customers.
+
+                                     7
+<PAGE>
+     Sales and Marketing
+
+     The Company's products and services are sold primarily by Company
+     sales personnel and outside sales representatives located
+     throughout the United States and Mexico.
+
+     Customers and Distribution
+
+     The Company has approximately 10,000 customers located throughout
+     the United States, Canada and Mexico principally in the
+     automotive, automotive supply, building and construction, steel,
+     machinery and fastener industries.  Major customers include
+     automobile manufacturers and suppliers, building and construction
+     product distributors, and commercial and residential contractors.
+     No customer of the Company represented 10% or more of the
+     Company's net sales for 1998, 1999 or 2000.
+
+     The Company manufactures its products exclusively to customer
+     order rather than for inventory, except for building and
+     construction products.  Although the Company negotiates annual
+     sales orders with a majority of its customers, these orders are
+     subject to customer confirmation as to product amounts and
+     delivery dates.
+
+     Competition
+
+     The steel processing market is highly competitive.  The Company
+     competes with a small number of other steel processors, some of
+     which also focus on fully processed, high value-added steel
+     products.  The Company competes on the basis of the precision and
+     range of achievable tolerances, quality, price and the ability to
+     meet delivery schedules dictated by customers.
+
+     The Company also competes with a small number of other steel
+     strapping manufacturers on the basis of quality, price, products,
+     range of sizes offered and the ability to meet delivery schedules
+     dictated by customers.
+
+     The Company competes with numerous suppliers of building and
+     construction products in its market based on the broad range of
+     products offered, quality, price and delivery.
+
+     The Company competes with a small number of suppliers of heat
+     treating services in its market areas on the basis of processes
+     offered, quality, price, and delivery.
+
+                                     8
+<PAGE>
+     Employees
+
+     At December 31, 2000, the Company employed approximately 3,500
+     people, of which approximately 570 are represented by collective
+     bargaining agreements.
+
+     Backlog
+
+     Because of the nature of the Company's products and the short lead
+     time order cycle, backlog is not a significant factor in the
+     Company's business.  The Company believes that substantially all
+     of its firm orders existing on December 31, 2000 will be shipped
+     prior to the end of 2001.
+
+     Governmental Regulation
+
+     The Company's processing centers and manufacturing facilities are
+     subject to many federal, state and local requirements relating to
+     the protection of the environment.  The Company believes that it
+     is in material compliance with all environmental laws, does not
+     anticipate any material expenditures in order to meet environmental
+     requirements and does not believe that future compliance with such
+     laws and regulations will have a material adverse effect on its
+     results of operations or financial condition.
+
+     The Company's operations are also governed by many other laws and
+     regulations.  The Company believes that it is in material
+     compliance with these laws and regulations and does not believe
+     that future compliance with such laws and regulations will have a
+     material adverse effect on its results of operations or financial
+     condition.
+                                     9
+<PAGE>
+     Item 2.  Description of Properties
+
+     The Company maintains its corporate headquarters in Buffalo, New
+     York and conducts its business operations in facilities located
+     throughout the United States.
+
+     The Company believes that its primary existing facilities, listed
+     below, and their equipment are effectively utilized, well
+     maintained, in good condition and will be able to accommodate its
+     capacity needs through 2001.
+                                                    Square   Owned or
+     Location              Utilization              Footage    Leased
+
+     Buffalo, New York     Headquarters               23,000   Leased
+     Cheektowaga, New York Cold-rolled strip steel
+                            processing and
+                            strapping products       148,000    Owned
+     Tonawanda, New York   Cold-rolled strip steel
+                            and precision
+                            metals processing        128,000    Owned
+     Cleveland, Ohio       Cold-rolled strip steel
+                            processing               259,000    Owned
+     Ithaca, New York      Warehouse                  14,300   Leased
+     Dearborn, Michigan    Strapping tool products     3,000    Owned
+     Lackawanna, New York  Materials management
+                            facility                  65,000   Leased
+     Woodhaven, Michigan   Materials management
+                            facility                 100,000    Owned
+     Franklin Park,
+      Illinois             Precision metals
+                            processing               99,000     Owned
+     Birmingham, Alabama   Precision metals
+                            processing               97,900    Leased
+     Brownsville, Texas    Distribution warehouse    15,000    Leased
+     Troy, Michigan        Sales office                 800    Leased
+     Fountain Inn,
+      S. Carolina          Heat treating             82,400     Owned
+     Reidsville,
+      N. Carolina          Heat treating             53,500     Owned
+     Arden, N. Carolina    Heat treating             20,400    Leased
+     Charlotte,
+      N. Carolina          Administrative office     3,400     Leased
+     Morristown, Tennessee Heat treating            24,200      Owned
+     Conyers, Georgia      Heat treating            18,700     Leased
+     Athens, Alabama       Heat treating            20,000      Owned
+     Coldwater, Michigan   Administrative office
+                            and heat treating       89,000      Owned
+     Benton Harbor,
+      Michigan             Administrative office
+                            and heat treating       56,700      Owned
+     Benton Harbor,
+      Michigan             Warehouse                25,000     Leased
+     Greensburg, Indiana   Heat treating            30,000     Leased
+     South Bend, Indiana   Heat treating            33,900      Owned
+     Rockford, Illinois    Heat treating            15,600      Owned
+     Rockford, Illinois    Heat treating            54,400      Owned
+     Northlake, Illinois   Administrative office
+                            and heat treating      200,000     Leased
+     Jacksonville, Florida Administrative office
+                            and construction
+                            products manufacturing 261,400     Leased
+     Miami, Florida        Construction products
+                            manufacturing           77,000     Leased
+     Tampa, Florida        Construction products
+                            manufacturing           50,000     Leased
+     Nashville, Tennessee  Construction products
+                            manufacturing           52,500     Leased
+     San Antonio, Texas    Construction products
+                            manufacturing          120,000     Leased
+     Houston, Texas        Construction products
+                            manufacturing           42,000     Leased
+     Vidalia, Georgia      Warehouse                34,000     Leased
+     Taylorsville,
+      Mississippi          Construction products
+                            manufacturing          54,000       Owned
+     Taylorsville,
+      Mississippi          Construction products
+                            manufacturing         238,700       Owned
+     Port Gibson,
+      Mississippi          Warehouse               40,000      Leased
+
+                                     10
+<PAGE>
+
+     Enterprise,
+      Mississippi          Construction products
+                            manufacturing         194,300       Owned
+     Appleton, Wisconsin   Construction products
+                            manufacturing         100,300       Owned
+     Appleton, Wisconsin   Construction products
+                            manufacturing          42,600       Owned
+     Joplin, Missouri      Construction products
+                            manufacturing          45,400       Owned
+     Montgomery, Minnesota Administrative office
+                            and construction
+                            products manufacturing 115,600      Owned
+     Montgomery, Minnesota Construction products
+                            manufacturing           22,000     Leased
+     LeCenter, Minnesota   Construction products
+                            manufacturing           15,000     Leased
+     Livermore, California Construction products
+                            manufacturing          103,500     Leased
+     Rancho Cucamonga,
+      California           Warehouse                20,600     Leased
+     North Wilkesboro,
+      N. Carolina          Construction products
+                            manufacturing           23,000     Leased
+     North Wilkesboro,
+      N. Carolina          Administrative office       900     Leased
+     Hainesport,
+      New Jersey           Warehouse                15,000     Leased
+     Denver, Colorado      Administrative office
+                            and construction
+                            products manufacturing  90,000     Leased
+     Denver, Colorado      Construction products
+                            manufacturing           30,000     Leased
+     Largo, Florida        Administrative office
+                            and construction
+                            products manufacturing 100,000      Owned
+     Holland, Ohio         Administrative office     3,500     Leased
+     Lima, Ohio            Construction products
+                            manufacturing          203,000      Owned
+     Coopersville,
+      Michigan             Construction products
+                            Manufacturing          246,000      Owned
+
+
+     Item 3. Legal Proceedings
+
+     From time to time, the Company is named a defendant in legal
+     actions arising out of the normal course of business.  The Company
+     is not a party to any pending legal proceeding the resolution of
+     which the management of the Company believes will have a material
+     adverse effect on the Company's results of operations or financial
+     condition or to any other pending legal proceedings other than
+     ordinary, routine litigation incidental to its business.  The
+     Company maintains liability insurance against risks arising out of
+     the normal course of business.
+
+     Item 4. Submission of Matters to a Vote of Security Holders
+
+     Not applicable.
+                                    11
+<PAGE>
+                                 PART II
+
+     Item 5. Market for Common Equity and Related Stockholder Matters
+
+     As of  December 31, 2000, there were 129 shareholders of record of
+     the Company's common stock.  However, the Company believes that it
+     has a significantly higher number of shareholders because of the
+     number of shares that are held by nominees.
+
+     The Company's common stock is traded in the over-the-counter
+     market and quoted on the National Association of Securities
+     Dealers Automated Quotation System - National Market System
+     ("Nasdaq").  Its trading symbol is "ROCK".  The following table
+     sets forth the high and low sales prices per share for the
+     Company's common stock for each quarter of 2000 and 1999:
+
+                                 2000                    1999
+                             High       Low          High       Low
+          Fourth Quarter    $  18      $ 11 1/2     $ 26     $ 21 3/4
+          Third Quarter        19 3/8    14           25 3/4   20 1/8
+          Second Quarter       18 13/16  12 13/16     25 1/4   19 3/4
+          First Quarter        24        14 3/4       23 1/2   17
+
+     The Company declared dividends of $.025 per share in the first
+     quarter of 2000 and $.03 per share in each of the second, third
+     and fourth quarters of 2000.  The Company declared dividends of
+     $.05 per share in the first quarter of 1999 and $.025 per share in
+     each of the second, third and fourth quarters of 1999.
+
+                                    12
+<PAGE>
+
+    Item 6. Selected Financial Data
+       (in thousands, except per share data)
+
+                                    Year Ended December 31,
+                          2000       1999     1998    1997      1996
+
+    Net Sales            $ 677,540 $ 621,918 $ 557,944 $449,700 $ 342,974
+    EBITDA                  81,080    72,921    57,788   41,081    36,863
+    Income from
+      operations            59,892    55,469    44,455   32,603    30,617
+    Interest expense        18,942    13,439    11,389    5,115     3,827
+    Income before income
+      taxes                 40,950    42,030    33,066   27,488    26,790
+    Income taxes            16,585    17,022    13,226   11,072    10,815
+    Net income              24,365    25,008    19,840   16,416    15,975
+
+
+    Net income per
+      share-Basic        $    1.94 $    1.99 $    1.59 $   1.33 $    1.42
+
+    Weighted average
+      shares
+      outstanding-Basic     12,577    12,540    12,456    12,357   11,261
+
+    Net income per
+      share-Diluted      $    1.92 $    1.95 $    1.57 $    1.30 $   1.39
+
+    Weighted average
+      shares
+      outstanding-Diluted   12,685    12,806    12,651    12,591   11,464
+
+    Cash dividends per
+      common share       $   0.115 $   0.125 $       - $      -  $      -
+
+    Current assets       $ 187,594 $ 182,591 $ 175,834 $130,746 $ 109,526
+    Current liabilities     55,187    69,668    51,598   43,101    40,853
+    Total assets           556,046   522,080   438,435  281,336   222,507
+    Total debt             255,853   236,621   200,746   83,024    49,841
+    Shareholders' equity   208,348   185,459   160,308  140,044   121,744
+
+    Capital expenditures $  19,619 $  21,999 $  22,062 $ 21,784 $  15,477
+    Depreciation            17,212    14,613    11,221    7,475     5,581
+    Amortization             3,976     2,839     2,112    1,003       665
+
+
+                                   13
+<PAGE>
+
+     Item 7. Management's Discussion and Analysis of Financial
+             Condition and Results of Operations
+
+     Results of Operations
+
+     Year Ended 2000 Compared to Year Ended 1999
+
+     Net sales increased $55.6 million, or 8.9%, to a record
+     $677.5 million in 2000 from $621.9 million in 1999, despite
+     the elimination of $19.4 million in sales from disposed of
+     operations that were included in 1999 sales and a slowdown in
+     the automotive and building products markets in the fourth
+     quarter of 2000.  This increase primarily resulted from
+     including the net sales of Milcor (acquired July 17, 2000)
+     (the 2000 acquisition) from its acquisition date, and a full
+     year of net sales of Southeastern Heat Treating (acquired
+     April 1, 1999), Weather Guard (acquired July 1, 1999), Hi-
+     Temp (acquired August 1, 1999), Brazing Concepts (acquired
+     November 1, 1999) and Hughes (acquired December 1, 1999) (the
+     1999 acquisitions), together with sales growth at existing
+     operations.
+
+     Cost of sales increased $47.8 million, or 9.7%, to $541.7
+     million in 2000 from $493.9 million in 1999.  Cost of sales
+     as a percentage of net sales increased to 80.0% in 2000 from
+     79.4% in 1999 primarily due to  the impact of the slowdown in
+     the automotive and construction products markets in the
+     fourth quarter of 2000.
+
+     Selling, general and administrative expenses increased $3.4
+     million, or 4.7%, to $75.9 million in 2000 from $72.5 million
+     in 1999. Selling, general and administrative expenses as a
+     percentage of net sales decreased to 11.2% in 2000 from 11.7%
+     in 1999 primarily due to the elimination of expenses from
+     disposed of operations and decreases in performance based
+     compensation, partially offset by higher costs attributable
+     to the 1999 and 2000 acquisitions.
+
+     Interest expense increased $5.5 million from 1999 to 2000 due
+     to higher borrowings as a result of the acquisitions, current
+     year capital expenditures and due to a higher effective
+     interest rate in 2000 than in 1999.
+
+     As a result of the above, income before taxes decreased $1.1
+     million, or 2.6%, to $40.9 million in 2000 from $42.0 million
+     in 1999.
+
+     Income taxes approximated $16.6 million in 2000, based on a
+     40.5% effective rate.
+
+
+     Year Ended 1999 Compared to Year Ended 1998
+
+     Net sales increased $64.0 million, or 11.5%, to $621.9
+     million in 1999 from $557.9 million in 1998.  This increase
+     primarily resulted from including the net sales of
+     Southeastern Heat Treating (acquired April 1, 1999), Weather
+     Guard (acquired July 1, 1999), Hi-Temp (acquired August 1,
+     1999), Brazing Concepts (acquired November 1, 1999) and
+     Hughes (acquired December 1, 1999) (the 1999 acquisitions)
+     from their respective acquisition dates, and a full year of
+     net sales of Solar (acquired March 1, 1998), Appleton
+     (acquired April 1, 1998), USP (acquired June 1, 1998) and
+     Harbor (acquired October 1, 1998) (the 1998 acquisitions),
+     together with sales growth at existing operations.
+
+     Cost of sales increased $37.5 million, or 8.2%, to $493.9
+     million in 1999 from $456.4 million in 1998.  Cost of sales
+     as a percentage of net sales decreased to 79.4% in 1999 from
+     81.8% in 1998.  This improvement was due to the 1999 and 1998
+     acquisitions, which have historically generated higher
+     margins than the Company's existing operations, and due to
+     lower raw material costs at existing operations.
+
+                                    14
+<PAGE>
+     Selling, general and administrative expenses increased $15.5
+     million, or 27.1%, to $72.5 million in 1999 from $57.0 in
+     1998.  Selling, general and administrative expenses as a
+     percentage of net sales increased to 11.7% in 1999 from 10.2%
+     in 1998.  This increase was due to higher costs as a
+     percentage of net sales attributable to the 1999 and 1998
+     acquisitions, and due to performance based compensation
+     linked to the Company's sales and profitability.
+
+     Interest expense increased by $2.0 million from 1998 to 1999
+     primarily due to higher borrowings in 1999 as a result of the
+     Company's current year acquisitions and capital expenditures
+     and due to a higher effective interest rate in 1999 than in
+     1998.
+
+     As a result of the above, income before taxes increased $9.0
+     million, or 27.1%, to $42.0 million in 1999 from $33.1
+     million in 1998.
+
+     Income taxes approximated $17.0 million in 1999, based on a
+     40.5% effective rate compared with a 40.0% effective rate in
+     1998.
+
+
+     Liquidity and Capital Resources
+
+     During 2000, the Company's working capital increased by $19.5
+     million to $132.4 million at December 31, 2000 from $112.9
+     million at December 31, 1999 primarily from the inclusion of
+     inventories of the 2000 acquisition, and a decrease in
+     accounts payable and accrued expenses resulting from
+     decreased purchases during the fourth quarter of 2000 in
+     response to the slowdown in the automotive and construction
+     products markets.  Long-term debt decreased to 55% of total
+     capitalization, despite increasing by $20.2 million to $255.5
+     million, at December 31, 2000.  Additionally, shareholders'
+     equity increased by 12.3% to $208.3 million.
+
+     The Company's principal capital requirements are to fund its
+     operations, including working capital requirements, the
+     purchase and funding of improvements to its property and
+     equipment, and to fund acquisitions.
+
+     The Company's primary sources of liquidity are from cash
+     provided by operating activities and the Company's revolving
+     credit facility.  Net cash provided by operations of $34.1
+     million resulted primarily from net income of $24.4 million,
+     depreciation and amortization of $21.2 million, the provision
+     for deferred income taxes of $5.3 million and a decrease in
+     accounts receivable of $5.7 million, offset by decreases in
+     accounts payable and accrued expenses of $16.6 million and
+     increases in other current assets of $2.8 million and other
+     assets of $2.6 million.
+
+     During 2000, the Company amended its revolving credit
+     agreement with its bank group to increase the capacity of its
+     revolver to $310 million.  Borrowings thereunder are secured
+     with its accounts receivable, inventories and property and
+     equipment.  At December 31, 2000, the Company had interest
+     rate swap agreements outstanding which effectively converted
+     $50 million of borrowings under the revolving credit
+     agreement to fixed rates ranging from 7.47% to 8.18%.  The
+     Company accounts for interest rate swap agreements on an
+     accrual basis.  Additional borrowings under the revolving
+     credit facility carry interest at LIBOR plus a fixed rate.
+     The weighted average interest rate of these borrowings was
+     8.70% at December 31, 2000.
+
+     Net cash provided by operations of $34.1 million, $7.8
+     million net proceeds from the sale of property and equipment
+     and the net proceeds from long-term debt of $19.2 million
+     were primarily used for the acquisition of Milcor, capital
+     expenditures and payment of cash dividends.
+                                    15
+<PAGE>
+
+     The Company believes that availability under its credit
+     facility, together with funds generated from operations, will
+     be more than sufficient to provide the Company with the
+     liquidity and capital resources necessary to fund its
+     anticipated working capital requirements, acquisitions and
+     capital expenditure commitments for the next twelve months.
+
+     The Company believes that environmental issues will not
+     require the expenditure of material amounts for environmental
+     compliance in the future.
+
+
+     Recent Accounting Pronouncement
+
+     In June 1998, the Financial Accounting Standards Board
+     issued Statement of Financial Accounting Standards No. 133
+     Accounting for Derivative Instruments and Hedging Activities
+     (FAS No. 133) which requires recognition of the fair value
+     of derivatives in the statement of financial position, with
+     changes in the fair value recognized either in earnings or
+     as a component of other comprehensive income dependent upon
+     the hedging nature of the derivative.  Implementation of FAS
+     No. 133 is required for fiscal 2001.  FAS No. 133 will not
+     have a material impact on the Company's earnings or other
+     comprehensive income.
+
+
+                          Safe Harbor Statement
+
+     The Company wishes to take advantage of the Safe Harbor
+     provisions included in the Private Securities Litigation
+     Reform Act of 1995 (the "Act").  Statements by the Company,
+     other than historical information, constitute "forward
+     looking statements" within the meaning of the Act and may be
+     subject to a number of risk factors.  Factors that could
+     affect these statements include, but are not limited to, the
+     following:  the impact of changing steel prices on the
+     Company's results of operations; changing demand for the
+     company's products and services; the impact of the Year 2000
+     matter; and changes in interest or tax rates.
+
+                                    16
+<PAGE>
+
+
+             Company Responsibility For Financial Statements
+
+
+     The accompanying consolidated financial statements of
+     Gibraltar Steel Corporation have been prepared by management,
+     which is responsible for their integrity and objectivity.
+     The statements have been prepared in conformity with
+     accounting principles generally accepted in the United States
+     and include amounts based on management's best estimates and
+     judgments.  Financial information elsewhere in this Annual
+     Report is consistent with that in the consolidated financial
+     statements.
+
+     The Company has established and maintains a system of
+     internal control designed to provide reasonable assurance
+     that assets are safeguarded and that the financial records
+     reflect the authorized transactions of the Company.
+
+     The financial statements have been audited by
+     PricewaterhouseCoopers LLP, independent accountants.  As part
+     of their audit of the Company's 2000 financial statements,
+     PricewaterhouseCoopers LLP considered the Company's system of
+     internal control to the extent they deemed necessary to
+     determine the nature, timing and extent of their audit tests.
+
+     The Board of Directors pursues its responsibility for the
+     Company's financial reporting through its Audit Committee,
+     which is composed entirely of outside directors.  The
+     independent accountants have direct access to the Audit
+     Committee, with and without the presence of management
+     representatives, to discuss the results of their audit work
+     and their comments on the adequacy of internal accounting
+     controls and the quality of financial reporting.
+
+
+
+
+     Brian J. Lipke
+     Chairman of the Board
+     and Chief Executive Officer
+
+
+
+
+     Walter T. Erazmus
+     President
+
+
+
+
+     John E. Flint
+     Vice President
+     and Chief Financial Officer
+
+                                    17
+<PAGE>
+     Item 8. Financial Statements and Supplementary Data
+                                                          Page Number
+
+     Index to Financial Statements:
+
+        Financial Statements:
+
+        Report of Independent Accountants                      19
+
+        Consolidated Balance Sheet at
+          December 31, 2000 and 1999                           20
+
+        Consolidated Statement of Income for
+          the three years ended December 31, 2000              21
+
+        Consolidated Statement of Cash Flows for
+          the three years ended December 31, 2000              22
+
+        Consolidated Statement of Shareholders' Equity
+          for the three years ended December 31, 2000          23
+
+        Notes to Consolidated Financial Statements             24
+
+     Supplementary Data:
+        Quarterly Unaudited Financial Data                     33
+
+                               18
+<PAGE>
+
+
+
+                    Report of Independent Accountants
+
+
+
+     To the Board of Directors and
+     Shareholders of Gibraltar Steel Corporation
+
+
+     In our opinion, the consolidated financial statements
+     listed in the accompanying index present fairly, in all
+     material respects, the financial position of Gibraltar
+     Steel Corporation and its subsidiaries at December 31,
+     2000 and 1999, and the results of their operations and
+     their cash flows for each of the three years in the
+     period ended December 31, 2000, in conformity with
+     accounting principles generally accepted in the United
+     States.  These financial statements are the
+     responsibility of the Company's management; our
+     responsibility is to express an opinion on these
+     financial statements based on our audits.  We conducted
+     our audits of these statements in accordance with
+     auditing standards generally accepted in the United
+     States, which require that we plan and perform the audit
+     to obtain reasonable assurance about whether the
+     financial statements are free of material misstatement.
+     An audit includes examining, on a test basis, evidence
+     supporting the amounts and disclosures in the financial
+     statements, assessing the accounting principles used and
+     significant estimates made by management, and evaluating
+     the overall financial statement presentation.  We believe
+     that our audits provide a reasonable basis for the
+     opinion expressed above.
+
+
+
+
+     PricewaterhouseCoopers LLP
+     Buffalo, New York
+     January  24, 2001
+
+                                    19
+<PAGE>
+
+
+
+                         GIBRALTAR STEEL CORPORATION
+                         CONSOLIDATED BALANCE SHEET
+              (in thousands, except share and per share data)
+
+
+                                                     December 31,
+     ASSETS                                       2000          1999
+<TABLE>
+     <S>  <S>  <S>                            <C>             <C>
+
+     Current assets:
+          Cash and cash equivalents           $    1,701      $  4,687
+          Accounts receivable                     78,358        78,418
+          Inventories                            100,987        94,994
+          Other current assets                     6,548         4,492
+               Total current assets              187,594       182,591
+
+     Property, plant and equipment, net          229,159       216,030
+     Goodwill                                    130,368       115,350
+     Other assets                                  8,925         8,109
+                                              $  556,046     $ 522,080
+
+     LIABILITIES AND SHAREHOLDERS' EQUITY
+
+     Current liabilities:
+          Accounts payable                    $   39,285      $ 48,857
+          Accrued expenses                        15,575        19,492
+          Current maturities
+          of long-term                               327         1,319
+               Total current liabilities          55,187        69,668
+
+
+     Long-term debt                              255,526       235,302
+     Deferred income taxes                        34,325        29,328
+     Other non-current liabilities                 2,660         2,323
+     Shareholders' equity
+          Preferred shares, $.01 par value;
+          authorized: 10,000,000 shares;
+          none outstanding                           -               -
+          Common shares, $.01 par value;
+          authorized: 50,000,000 shares;
+          outstanding: 12,567,147 shares
+          in 2000 and 12,577,464 shares
+          in 1999                                    126           126
+          Additional paid-in capital              68,475        68,323
+          Retained earnings                      139,747       117,010
+               Total shareholders' equity        208,348       185,459
+                                              $  556,046     $ 522,080
+
+</TABLE>
+
+
+                     The accompanying notes are an integral
+                       part of these financial statements.
+
+                                   20
+<PAGE>
+
+
+
+
+                       GIBRALTAR STEEL CORPORATION
+                    CONSOLIDATED STATEMENT OF INCOME
+                  (in thousands, except per share data)
+
+                                        Year Ended December 31,
+                                        2000        1999        1998
+<TABLE>
+  <S>  <S>                          <C>         <C>         <C>
+
+  Net sales                         $ 677,540   $ 621,918   $  557,944
+
+  Cost of sales                       541,743     493,945      456,449
+
+       Gross profit                   135,797     127,973      101,495
+
+  Selling, general and                 75,905      72,504       57,040
+  administrative expense
+
+       Income from operations          59,892      55,469       44,455
+
+  Interest expense                     18,942      13,439       11,389
+
+       Income before taxes             40,950      42,030       33,066
+
+  Provision for income taxes           16,585      17,022       13,226
+
+       Net income                   $  24,365   $  25,008   $   19,840
+
+  Net income per share - Basic      $    1.94   $    1.99   $     1.59
+
+
+  Weighted average shares              12,577      12,540       12,456
+  outstanding - Basic
+
+
+
+
+  Net income per share - Diluted    $    1.92   $    1.95   $     1.57
+
+
+  Weighted average shares              12,685      12,806       12,651
+  outstanding - Diluted
+</TABLE>
+
+
+
+
+                  The accompanying notes are an integral
+                    part of these financial statements.
+
+                                     21
+<PAGE>
+
+                          GIBRALTAR STEEL CORPORATION
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                               (in thousands)
+
+
+                                                   Year Ended December 31,
+                                                 2000        1999       1998
+     CASH FLOWS FROM OPERATING ACTIVITIES
+<TABLE>
+     <S>  <S><S>                             <C>         <C>        <C>
+
+     Net income                              $   24,365  $  25,008  $  19,840
+     Adjustments to reconcile net
+     income to net cash provided by
+     operating activities:
+          Depreciation and amortization          21,188     17,452     13,333
+          Provision for deferred
+          income taxes                            5,252      2,383      1,693
+          Undistributed equity
+          investment income                       (253)      (466)      (284)
+          Other noncash adjustments                 116        697        304
+          Increase (decrease) in cash
+          resulting from changes in (net of
+          effects from acquisitions):
+             Accounts receivable                  5,660      (118)    (5,363)
+             Inventories                          (206)      6,873    (6,309)
+             Other current assets               (2,829)      (272)    (1,430)
+             Accounts payable and
+             accrued expenses                  (16,551)     10,242    (7,572)
+             Other assets                       (2,622)    (1,130)      (899)
+
+          Net cash provided by
+          operating activities                   34,120     60,669     13,313
+
+     CASH FLOWS FROM INVESTING ACTIVITIES
+
+     Acquisitions, net of cash acquired        (42,880)   (65,380)   (99,415)
+     Investments in property, plant
+     and equipment                             (19,619)   (21,999)   (22,062)
+     Net proceeds from sale of
+     property and equipment                       7,753      2,838        187
+
+          Net cash used in
+          in investing activities              (54,746)   (84,541)  (121,290)
+
+     CASH FLOWS FROM FINANCING ACTIVITIES
+
+     Long-term debt reduction                  (63,157)   (67,160)   (61,508)
+     Proceeds from long-term debt                82,389     94,081    168,825
+     Repurchase of common stock                   (181)          -          -
+     Net proceeds from issuance of
+     common stock                                    36      1,014        100
+     Payment of dividends                       (1,447)    (1,253)          -
+
+          Net cash provided by
+          financing activities                   17,640     26,682    107,417
+
+     Net (decrease) increase in cash
+     and cash equivalents                       (2,986)      2,810      (560)
+     Cash and cash equivalents at
+     beginning of year                            4,687      1,877      2,437
+
+     Cash and cash equivalents at
+     end of year                             $    1,701  $   4,687  $   1,877
+</TABLE>
+
+
+                     The accompanying notes are an integral
+                       part of these financial statements.
+
+                                       22
+<PAGE>
+
+
+                          GIBRALTAR STEEL CORPORATION
+                 CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+                              (in thousands)
+
+
+                                                        Additional
+                                      Common Shares      Paid-in    Retained
+                                    Shares     Amount    Capital    Earnings
+
+<TABLE>
+
+   <S>  <S>                        <C>       <C>        <C>         <C>
+   Balance at December 31, 1997    12,410    $    124   $  66,190   $   73,730
+
+        Net income                      -           -           -       19,840
+        Stock options exercised
+        and tax benefit                 8           -         119            -
+        Restricted stock
+        granted                        55           1           -            -
+        Earned portion of
+        restricted stock                -           -          87            -
+        Profit sharing plan
+        contribution                   11           -         217            -
+
+   Balance at December 31, 1998    12,484         125      66,613       93,570
+
+        Net income                      -           -           -       25,008
+        Stock options exercised
+        and tax benefit                72           1       1,124            -
+        Cash dividend - $.125
+        per share                       -           -           -      (1,568)
+        Earned portion of
+        restricted stock                -           -         116            -
+        Profit sharing plan
+        contributions                   21          -         470            -
+
+   Balance at December 31, 1999     12,577        126      68,323      117,010
+
+        Net income                       -          -           -       24,365
+        Stock options exercised
+        and tax benefit                  3          -          36            -
+        Cash dividend - $.115
+        per share                        -          -          -       (1,447)
+        Earned portion of
+        restricted stock                 -          -         116            -
+        Repurchase of common
+        stock                         (13)          -           -        (181)
+
+   Balance at December 31, 2000     12,567   $    126   $  68,475   $  139,747
+</TABLE>
+
+
+
+
+                    The accompanying notes are an integral
+                      part of these financial statements
+
+
+                                    23
+<PAGE>
+
+
+
+
+                       GIBRALTAR STEEL CORPORATION
+
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+       1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+       Principles of Consolidation
+
+       The consolidated financial statements include the accounts of
+       Gibraltar Steel Corporation and subsidiaries (the Company).
+       Significant intercompany accounts and transactions have been
+       eliminated.
+
+       Use of Estimates
+
+       The preparation of financial statements in conformity with
+       generally accepted accounting principles requires management to
+       make estimates and assumptions that affect the amounts reported
+       in the financial statements and accompanying notes.  Actual
+       results could differ from those estimates.
+
+       Cash and Cash Equivalents
+
+       Cash and cash equivalents include cash on hand, checking
+       accounts and all highly liquid investments with a maturity of
+       three months or less.
+
+       Inventories
+
+       Inventories are valued at the lower of cost or market.  Cost is
+       determined using the first-in, first-out method.
+
+       Property, Plant and Equipment
+
+       Property, plant and equipment are stated at cost and
+       depreciated over their estimated useful lives using the
+       straight-line method.  Accelerated methods are used for income
+       tax purposes.  Interest is capitalized in connection with
+       construction of qualified assets.  Under this policy, interest
+       of $552,000, $357,000 and $404,000 was capitalized in 2000,
+       1999 and 1998, respectively.
+
+       Goodwill
+
+       Goodwill is amortized over 35 years.  Amortization expense
+       related to goodwill was $3,710,000, $2,647,000 and $1,949,000
+       in 2000, 1999, and 1998, respectively.  Accumulated
+       amortization was $9,961,000 and $6,251,000 at December 31, 2000
+       and 1999.
+
+       Shareholders' Equity
+
+       In 1999 and 1998, the Company issued 20,572 and 11,000,
+       respectively, of its common shares as contributions to its
+       profit sharing plans.  The Company did not contribute any of
+       its shares to its profit sharing plans during 2000.
+
+       During 2000 and 1999, the Company declared dividends of
+       $1,447,000 and $1,568,000, respectively, of which $377,000 and
+       $315,000 are accrued at December 31, 2000 and 1999,
+       respectively.
+
+       During 2000, the Company purchased 12,572 shares of its
+       outstanding common stock at a cost of $14.38 per share.  The
+       Company did not repurchase any shares of its common stock in
+       prior years.
+
+                                      24
+<PAGE>
+
+       Interest Rate Exchange Agreements
+
+       Interest rate swap agreements, which are used by the Company in
+       the management of interest rate risk, are accounted for on an
+       accrual basis.  Amounts to be paid or received under interest rate
+       swap agreements are recognized as interest expense or income in
+       the periods in which they accrue.  Swaps are not used for trading
+       purposes.
+
+       Income Taxes
+
+       The financial statements of the Company have been prepared
+       using the asset and liability approach in accounting for income
+       taxes which requires the recognition of deferred tax assets and
+       liabilities for the expected future tax consequences of
+       temporary differences between the carrying amounts and the tax
+       bases of other assets and liabilities.
+
+       Earnings Per Share
+
+       Basic net income per share equals net income divided by the
+       weighted average shares outstanding during the year.  The
+       computation of diluted net income per share includes all
+       dilutive common stock equivalents in the weighted average
+       shares outstanding.
+
+      2.  ACQUISITIONS
+
+       On July 17, 2000, the Company purchased all the outstanding
+       capital stock of Milcor Limited Partnership (Milcor) for
+       approximately $43 million in cash.  Milcor manufactures a
+       complete line of metal building products, including
+       registers, vents, bath cabinets, access doors, roof hatches
+       and telescoping doors.
+
+       On December 1, 1999, the Company purchased all the outstanding
+       capital stock of Hughes Manufacturing, Inc. (Hughes) for
+       approximately $11.5 million in cash.  Hughes manufactures a
+       broad line of fully engineered, code-approved steel lumber
+       connectors and other metal hardware products.
+
+       On November 1, 1999, the Company purchased all the outstanding
+       capital stock of Brazing Concepts Company (Brazing Concepts)
+       for approximately $25 million in cash.  Brazing Concepts
+       provides a wide variety of value-added brazing (i.e., metal
+       joining), assembly and other metallurgical heat treating
+       services on customer-owned materials.
+
+       On August 1, 1999, the Company purchased the assets and
+       business of Hi-Temp Incorporated (Hi-Temp) for approximately
+       $24 million in cash.  Hi-Temp provides metallurgical heat
+       treating services in which customer-owned parts are exposed to
+       precise temperature and other conditions to improve their
+       material properties, strength and durability.
+
+       On July 1, 1999, the Company purchased all the outstanding
+       capital stock of K & W Metal Fabricators, Inc. d/b/a Weather
+       Guard Building Products (Weather Guard) for approximately $7
+       million in cash.  Weather Guard manufactures a full line of
+       metal building products, including rain-carrying systems, metal
+       roofing and roofing accessories, for industrial, commercial and
+       residential applications.
+
+                                     25
+<PAGE>
+
+      These acquisitions have been accounted for under the
+      purchase method with the results of their operations
+      consolidated with the Company's results of operations from
+      the respective acquisition dates. The aggregate excess of
+      the purchase prices of these acquisitions over the fair
+      market values of the net assets of the acquired companies
+      is being amortized over 35 years from the acquisition dates
+      using the straight-line method.
+
+      The following information presents the pro forma
+      consolidated condensed results of operations as if the
+      acquisitions had occurred on January 1, 1999.  The pro
+      forma amounts may not be indicative of the results that
+      actually would have been achieved had the acquisitions
+      occurred as of January 1, 1999 and are not necessarily
+      indicative of future results of the combined companies.
+
+                                    (in thousands, except per share data)
+                                            Year Ended December 31,
+                                              2000           1999
+                                               (unaudited)
+
+      Net sales                              $704,349     $712,383
+                                              ======       ======
+      Income before taxes                    $ 41,449    $  44,891
+                                              ======       ======
+      Net income                             $ 24,662    $  26,647
+                                              ======       ======
+      Net income per share - Basic         $     1.96   $     2.12
+                                              ======       ======
+
+       3.  ACCOUNTS RECEIVABLE
+
+       Accounts receivable are expected to be collected within one
+       year and are net of reserves for doubtful accounts of
+       $1,643,000 and $1,511,000 at December 31, 2000 and 1999,
+       respectively.
+
+       4.  INVENTORIES
+
+       Inventories at December 31 consist of the following:
+                                                   (in thousands)
+                                                   2000        1999
+
+       Raw material                             $ 54,640   $ 59,899
+       Finished goods and work-in-process         46,347     35,095
+
+            Total inventories                   $100,987   $ 94,994
+                                                 ======      ======
+                                      26
+<PAGE>
+
+       5.  PROPERTY, PLANT AND EQUIPMENT
+
+       Property, plant and equipment, at cost less accumulated
+       depreciation, at December 31 consists of the following:
+                                                  (in thousands)
+                                                  2000      1999
+
+       Land and land improvements           $    7,507   $    6,961
+       Building and improvements                61,968       54,782
+       Machinery and equipment                 222,811      204,012
+       Construction in progress                 10,101        8,758
+
+                                               302,387      274,513
+       Less accumulated depreciation
+        and amortization                        73,228       58,483
+
+       Property, plant and equipment, net     $229,159     $216,030
+                                                ======      ======
+
+       6.  OTHER ASSETS
+
+       Other assets at December 31 consist of the following:
+                                                   (in thousands)
+                                                    2000       1999
+
+       Equity interest in partnership            $ 4,738    $ 4,485
+       Other                                       4,187      3,624
+
+            Total other assets                   $ 8,925    $ 8,109
+                                                  ======      =====
+
+       The Company's 31% partnership interest is accounted for using
+       the equity method of  accounting.  The partnership provides a
+       steel cleaning process called pickling to steel mills and steel
+       processors, including the Company.
+
+       7.  DEBT
+
+       Long-term debt at December 31 consists of the following:
+                                                    (in thousands)
+                                                    2000       1999
+
+       Revolving credit notes payable           $250,251   $228,128
+       Industrial Development Revenue Bonds        3,500      6,362
+       Other debt                                  2,102      2,131
+
+                                                 255,853    236,621
+
+       Less current maturities                       327      1,319
+
+            Total long-term debt                $255,526   $235,302
+                                                 ======     ======
+                                      27
+<PAGE>
+       In 2000, the Company amended its debt agreement increasing its
+       revolving credit facility to $310,000,000.  The facility is
+       secured by the Company's accounts receivable, inventories, and
+       property and equipment and is committed through April 2003.
+       This facility has various interest rate options which are no
+       greater than the bank's prime rate.  In addition, the Company
+       may enter into interest rate exchange agreements (swaps) to
+       manage interest costs and exposure to changing interest rates.
+       At December 31, 2000 the Company had  interest rate swap
+       agreements outstanding which effectively converted $50,000,000
+       of floating rate debt to fixed rates ranging from 7.47% to
+       8.18%.  At December 31, 2000, additional credit facility
+       borrowings consisted of $200,251,000 with an interest rate of
+       LIBOR plus a fixed rate.  The weighted average interest rate of
+       these borrowings was 8.70% at December 31, 2000.
+
+       In addition, the Company has Industrial Development Revenue
+       Bonds payable in installments through September 2018, with
+       interest rates ranging from a fixed rate of 4.22% to variable
+       rates of up to 5.20% at December 31, 2000, which financed the
+       cost of the expansion of its Coldwater, Michigan heat treating
+       facility, under a capital lease agreement.  The cost of the
+       facility and equipment equals the amount of the bonds and
+       includes accumulated amortization of $186,000.  The agreement
+       provide for the purchase of the facility and equipment at any
+       time during the lease term at scheduled amounts or at the end
+       of the lease for a nominal amount.
+
+       The aggregate maturities on long-term debt including lease
+       purchase obligations for the five years following December 31,
+       2000 as follows: 2001, $327,000; 2002, $813,000; 2003,
+       $250,875,000; 2004, $629,000: and 2005, $480,000.   The Company
+       had no amounts outstanding under short-term borrowing for the
+       years ended December 31, 2000 and 1999.
+
+       The various loan agreements, which do not require compensating
+       balances, contain provisions that limit additional borrowings
+       and require maintenance of minimum net worth and financial
+       ratios. The Company is in compliance with the terms and
+       provisions of all its financing agreements.
+
+       Total cash paid for interest in the years ended December 31,
+       2000, 1999 and 1998 was $19,935,000, $13,357,000 and
+       $11,257,000, respectively.
+
+       8.  LEASES
+
+       The Company leases certain facilities and equipment under
+       operating leases.  Rent expense under operating leases for the
+       years ended December 31, 2000, 1999 and 1998 was $5,187,000,
+       $4,899,000 and $3,554,000, respectively.  Future minimum lease
+       payments under these operating leases are $5,067,000,
+       $3,980,000, $2,969,000, $1,867,000 and $1,244,000 for the years
+       2001, 2002, 2003, 2004 and 2005, respectively, and $7,470,000
+       thereafter through 2038.
+
+       9.  EMPLOYEE RETIREMENT PLANS
+
+       Certain subsidiaries participate in the Company's 40l(k) Plan.
+       In addition, certain subsidiaries have multi-employer non-
+       contributory retirement plans providing for defined
+       contributions to union retirement funds.
+
+       A supplemental pension plan provides defined pension benefits
+       to certain salaried employees upon retirement.  Net unfunded
+       periodic pension costs of $171,000 and $199,000 were accrued
+       under this plan in 2000 and 1999, respectively, and consisted
+       primarily of service cost using a discount rate of 8.0% in each
+       year.
+
+                                      28
+<PAGE>
+
+       Total expense for all retirement plans was $2,204,000,
+       $1,957,000 and $1,774,000 for the years ended December 31,
+       2000, 1999 and 1998, respectively.
+
+       During 1998, the Company adopted the provisions of  Statement
+       of Financial Accounting Standards No. 132 Employers'
+       Disclosures about Pensions and Other Post-Retirement Benefits
+       (FAS No. 132).  Adoption of FAS No. 132 did not affect the
+       Company's results of operations or financial position.
+
+       10.  OTHER POST-RETIREMENT BENEFITS
+
+       Certain subsidiaries of the Company provide health and life
+       insurance to substantially all of their employees and to a
+       number of retirees and their spouses.  The net periodic post-
+       retirement benefit cost charged to expense consisting of
+       service cost, interest cost and amortization of transition
+       obligations was $261,000, $291,000 and $255,000 for the years
+       ended December 31, 2000, 1999 and 1998, respectively.
+
+       The approximate unfunded accumulated post-retirement benefit
+       obligation at December 31, consists of the following (in
+       thousands):
+
+      Benefit                                             Benefit
+    Obligation  Service Interest  Actuarial  Benefit    Obligation
+   at January 1  Cost     Cost  (Gain)/Loss  Payments  at December 31
+
+2000     $1,844     71      145         (1)      (76)         $1,983
+1999     $2,105     90      135       (445)      (41)         $1,844
+
+       The accumulated post-retirement benefit obligation was
+       determined using a weighted average discount rate of 8.0% in
+       2000 and 1999.  The medical inflation rate was assumed to be
+       5.0% in 2000 and thereafter.  The effect of a 1% increase or
+       decrease in the annual medical inflation rate would increase or
+       decrease the accumulated post-retirement benefit obligation at
+       December 31, 2000 by approximately $312,000 and $266,000,
+       respectively, and increase or decrease the annual service and
+       interest costs by approximately $38,000.
+
+       One of the Company's subsidiaries also provides post-retirement
+       health care benefits to its unionized employees through
+       contributions to a multi-employer health care plan.
+
+       11.  INCOME TAXES
+
+       The provision for income taxes consists of the following:
+
+                                             (in thousands)
+                                     2000          1999       1998
+
+       Current tax expense
+            Federal                 $  9,507  $ 12,332    $  9,749
+            State                      1,826     2,307       1,784
+            Total current             11,333    14,639      11,533
+
+       Deferred tax expense
+            Federal                     4,593    2,040       1,628
+            State                         659      343          65
+            Total deferred              5,252    2,383       1,693
+
+            Total provision          $ 16,585 $ 17,022    $ 13,226
+                                       =====    =====       =====
+
+
+                                      29
+<PAGE>
+
+       Deferred tax liabilities (assets) at December 31, consist of
+       the following:
+
+                                                 (in thousands)
+                                                2000         1999
+
+       Depreciation                         $  33,773   $  29,460
+       Goodwill                                 3,167       1,770
+       Other                                    1,002       1,685
+       Gross deferred tax liabilities          37,942      32,915
+
+       State taxes                             (1,652)     (1,382)
+       Other                                   (4,504)     (4,999)
+       Gross deferred tax assets               (6,156)     (6,381)
+
+            Net deferred tax liabilities    $  31,786   $  26,534
+                                               =====       =====
+
+       The provision for income taxes differs from the amount of
+       income tax determined by applying the applicable U.S. statutory
+       federal income tax rate to income before taxes as a result of
+       the following differences:
+
+                                             (in thousands)
+                                       2000       1999       1998
+
+       Statutory U.S. tax rates     $14,333    $14,711    $11,573
+       Increase in rates
+       resulting from:
+         State and local taxes, net   1,615      1,723      1,202
+         Other                          637        588        451
+
+                                    $16,585    $17,022    $13,226
+                                      =====      =====      =====
+
+       Cash paid for income taxes, net of tax refunds, in the years
+       ended December 31, 2000, 1999 and 1998 was $16,189,000,
+       $11,857,000 and $9,180,000, respectively.
+
+
+       12.  EARNINGS PER SHARE
+
+       Statement of Financial Accounting Standards No. 128 Earnings
+       Per Share requires dual presentation of basic and diluted
+       earnings per share on the face of the income statement.  The
+       reconciliation between the computations is as follows:
+
+
+                        Basic                 Diluted      Diluted
+          Income       Shares    Basic EPS    Shares         EPS
+
+2000   $24,365,000    12,577,240    $1.94    12,685,072    $1.92
+1999   $25,008,000    12,540,105    $1.99    12,806,338    $1.95
+1998   $19,840,000    12,455,554    $1.59    12,651,119    $1.57
+
+       Included in diluted shares are common stock equivalents of
+       107,832, 266,233, and 195,565 relating to options for the years
+       ended December 31, 2000, 1999 and 1998, respectively.
+
+
+                                      30
+<PAGE>
+
+
+       13.  STOCK OPTIONS
+
+       The Company may grant non-qualified stock options to officers,
+       employees, non-employee directors and advisers at an exercise
+       price equal to 100% of market price, and incentive stock
+       options to officers and other key employees at an exercise
+       price not less than 100% of market price, up to an aggregate of
+       400,000 and 1,475,000 shares, respectively.  The options may be
+       exercised over a four year period from the grant date and
+       expire ten years after the date of grant.
+
+       The following table summarizes information about stock option
+       transactions:
+                                        Weighted           Weighted
+                                        Average             Average
+                            Options    Exercise  Options    Exercise
+                          Outstanding   Price  Exercisable  Price
+
+Balance at December 31, 1997   693,231   $15.68   282,781   $11.55
+  Granted                      336,650    17.36
+  Exercised                     (8,749)   11.12
+  Forfeited                    (24,502)   17.48
+
+Balance at December 31, 1998   996,630   $16.24   406,993   $13.30
+  Granted                       10,000    20.56
+  Exercised                    (72,474)   13.99
+  Forfeited                    (11,450)   18.54
+
+Balance at December 31, 1999   922,706   $16.44   528,819   $14.88
+  Granted                      270,250    14.07
+  Exercised                    ( 2,255)   15.52
+  Forfeited                    (30,107)   17.68
+
+Balance at December 31, 2000 1,160,594   $15.86   686,582   $15.72
+                             =========
+
+       Tax benefits of  $111,000 realized in the year ended December
+       31, 1999 associated with the exercise of certain stock options
+       have been credited to additional paid-in-capital.  The Company
+       did not realize any related tax benefit during 2000.
+
+       Options outstanding at December 31, 2000 consisted of:
+
+                             Weighted
+                             Average    Weighted           Weighted
+Range of                     Remaining   Average            Average
+Exercise         Options   Contractual  Exercise  Options  Exercise
+Prices         Outstanding    Life       Price  Exercisable  Price
+
+$10.00 - $14.07   528,127   6.5 years   $12.46    260,127    $10.80
+$15.63 - $22.50   632,467   6.9 years   $18.70    426,455    $18.72
+                1,160,594   6.7 years   $15.86    686,582    $15.72
+                =========                         =======
+
+                                      31
+<PAGE>
+
+       The Company has adopted the disclosure-only provisions of
+       Statement of Financial Accounting Standards No. 123  Accounting
+       for Stock-Based Compensation (FAS No. 123).  Accordingly, no
+       compensation cost has been recognized for the option plans as
+       stock options granted under these plans have an exercise price
+       equal to 100% of the market price on the date of grant.  If the
+       compensation cost for these plans had been determined based on
+       the fair value at the grant dates for awards consistent with
+       the method of FAS No. 123, the unaudited pro forma effect on
+       the years ended December 31, 2000 and 1999 is as follows:
+
+                As Reported    Pro forma  As Reported    Pro forma
+                   2000           2000        1999         1999
+
+Net Income      $24,365,000  $23,073,000  $25,008,000  $23,566,000
+Net Income per
+ Share-Basic          $1.94        $1.83        $1.99        $1.88
+
+       The Black-Scholes option-pricing model was used to estimate the
+       fair value of the options granted on the date of grant.  The
+       fair values and assumptions used in the model, assuming no
+       dividends, are as follows:
+
+                       Expected   Stock       Risk-Free    Dividend
+            Fair Value   Life   Volatility  Interest Rate   Yield
+
+2000 Grant     $6.31   5 years    43.7%         6.3%         .7%
+1999 Grant     $9.18   5 years    45.1%         4.4%         .2%
+1998 Grant     $7.74   5 years    43.7%         4.4%          -
+
+       The Company also has a Restricted Stock Plan reserved for
+       issuance of 100,000 common shares for the grant of restricted
+       stock awards to employees and non-employee directors at a
+       purchase price of $.01 per share.  Since the inception of this
+       plan, 59,000 common shares have been awarded.
+
+       14.  COMMITMENTS AND CONTINGENCIES
+
+       The Company is a party to certain claims and legal actions
+       generally incidental to its business.  Management does not
+       believe that the outcome of these actions, which is not clearly
+       determinable at the present time, would significantly affect
+       the Company's financial condition or results of operations.
+
+       15.  SUBSEQUENT EVENT
+
+       In February 2001, the Company purchased all the outstanding
+       capital stock of Pennsylvania Industrial Heat Treaters, Inc.
+       (PIHT) for approximately $11 million, net of cash.  PIHT
+       provides metallurgical heat treating services and specializes
+       in heat treating powdered metal parts.  The results of
+       operations of PIHT will be consolidated with the Company's
+       results of operations from the acquisition date for the quarter
+       ending  March 31, 2001.
+
+                                    32
+<PAGE>
+
+                   QUARTERLY UNAUDITED FINANCIAL DATA
+                  (in thousands, except per share data)
+
+
+2000 Quarter Ended  March 31   June 30   Sept. 30   Dec. 31    Total
+
+  Net Sales         $167,634  $181,523   $178,326  $150,057  $677,540
+
+  Gross Profit        34,548    36,616     35,863    28,770   135,797
+
+  Income From
+  Operations          14,318    17,416     17,268    10,890    59,892
+
+  Net Income           6,015     7,854      7,248     3,248    24,365
+
+  Net Income Per
+  Share-Basic       $    .48  $    .62   $    .58  $    .26  $   1.94
+
+  Net Income Per
+  Share-Diluted     $    .47  $    .62   $    .57  $    .26  $   1.92
+
+
+
+
+1999 Quarter Ended  March 31   June 30   Sept. 30   Dec. 31    Total
+
+  Net Sales         $143,804  $160,241   $162,909  $154,964  $621,918
+
+  Gross Profit        28,418    33,001     34,245    32,309   127,973
+
+  Income From
+  Operations          11,683    15,353     15,426    13,007    55,469
+
+  Net Income           4,977     7,288      7,205     5,538    25,008
+
+  Net Income Per
+  Share-Basic       $    .40  $    .58   $    .57  $    .44  $   1.99
+
+  Net Income Per
+  Share-Diluted     $    .39  $    .57   $    .56  $    .43  $   1.95
+
+
+
+                               33
+<PAGE>
+
+     Item 9.   Changes in and Disagreements with Accountants on
+     Accounting and Financial Disclosure
+
+     None.
+
+                                PART III
+
+     Item 10.  Directors and Executive Officers of the Registrant
+
+     Information regarding directors and executive officers of the
+     Company is incorporated herein by reference to the information
+     included in the Company's definitive proxy statement which will be
+     filed with the Commission within 120 days after the end of the
+     Company's 2000 fiscal year.
+
+     Item 11.  Executive Compensation
+
+     Information regarding executive compensation is incorporated
+     herein by reference to the information included in the Company's
+     definitive proxy statement which will be filed with the Commission
+     within 120 days after the end of the Company's 2000 fiscal year.
+
+     Item 12.  Security Ownership of Certain Beneficial Owners and
+     Management
+
+     Information regarding security ownership of certain beneficial
+     owners and management is incorporated herein by reference to the
+     information included in the Company's definitive proxy statement
+     which will be filed with the Commission within 120 days after the
+     end of the Company's 2000 fiscal year.
+
+     Item 13.  Certain Relationships and Related Transactions
+
+     Information regarding certain relationships and related
+     transactions is incorporated herein by reference to the
+     information included in the Company's definitive proxy statement
+     which will be filed with the Commission within 120 days after the
+     end of the Company's 2000 fiscal year.
+
+                                    34
+<PAGE>
+                                 PART IV
+
+     Item 14.    Exhibits, Financial Statement Schedules
+                 and Reports on Form 8-K                  Page Number
+
+
+     (a)    (1)  Financial Statements:
+
+                 Report of Independent Accountants              19
+
+                 Consolidated Balance Sheet at
+                 December 31, 2000 and 1999                     20
+
+                 Consolidated Statement of Income for
+                 the three years ended December 31, 2000        21
+
+                 Consolidated Statement of Cash Flows for
+                 the three years ended December 31, 2000        22
+
+                 Consolidated Statement of Shareholders'
+                 Equity for the three years ended
+                 December 31, 2000                              23
+
+                 Notes to Consolidated Financial Statements     24
+
+            (2)  Supplementary Data
+
+                 Quarterly Unaudited Financial Data             33
+
+            (3)  Exhibits
+
+                 The exhibits to this Annual Report on Form 10-K
+                 included herein are set forth on the
+                 attached Exhibit Index beginning on page 37.
+
+
+     (b)    Reports on Form 8-K
+
+            No reports on Form 8-K were filed by the Company during
+            the three month period ended December 31, 2000.
+
+                                    35
+<PAGE>
+                             SIGNATURES
+
+     Pursuant to the requirement of Section 13 or 15(d) of the
+     Securities Exchange Act of 1934, the Registrant has duly caused
+     this report to be signed on its behalf by the undersigned,
+     thereunto duly authorized.
+
+                                         GIBRALTAR STEEL CORPORATION
+
+                                         By /s/Brian J. Lipke
+                                            Brian J. Lipke
+                                            Chief Executive Officer
+                                            and Chairman of the Board
+
+     In accordance with the Securities Exchange Act of 1934, this
+     report has been signed below by the following persons on behalf of
+     the Registrant and in the capacities and on the dates indicated.
+
+
+     /s/ Brian J. Lipke    Chief Executive Officer  February 21, 2001
+     Brian J. Lipke        and Chairman of the Board
+                           (principal executive officer)
+
+     /s/ Walter T. Erazmus   President              February 21, 2001
+     Walter T. Erazmus
+
+
+     /s/ John E. Flint       Vice President and     February 21, 2001
+     John E. Flint           Chief Financial Officer
+                             (principal financial and
+                              accounting officer)
+
+
+     /s/ Neil E. Lipke       Director               February 21, 2001
+     Neil E. Lipke
+
+
+     /s/ Gerald S. Lippes    Director               February 21, 2001
+     Gerald S. Lippes
+
+
+     /s/ Arthur A. Russ, Jr. Director               February 21, 2001
+     Arthur A. Russ, Jr.
+
+
+     /s/ David N. Campbell   Director               February 21, 2001
+     David N. Campbell
+
+
+     /s/ William P. Montague Director               February 21, 2001
+     William P. Montague
+
+                                    36
+<PAGE>
+                               Exhibit Index
+
+
+     Exhibit                                             Sequentially
+     Number                 Exhibit                     Numbered Page
+
+     3.1       Certificate of Incorporation of Registrant
+               (incorporated by reference to the same exhibit
+               number to the Company's Registration Statement
+               on Form S-1 (Registration No. 33-69304))
+
+     3.2       Amended and Restated By-Laws of the Registrant
+               Effective August 11, 1998 (incorporated by reference
+               to Exhibit 3(ii) to the Company's Quarterly Report on
+               Form 10-Q for the quarter ended September 30, 1998)
+
+     4.1       Specimen Common Share Certificate (incorporated by
+               reference to the same exhibit number to the Company's
+               Registration Statement on Form S-1 (Registration
+               No. 33-69304))
+
+     10.1      Partnership Agreement of Samuel Pickling Management
+               Company dated June 1, 1988 between Cleveland Pickling,
+               Inc. and Samuel Manu-Tech, Inc. (incorporated by
+               reference to Exhibit 10.7 to the Company's Registration
+               Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.2      Partnership Agreement dated May 1988 among Samuel
+               Pickling Management Company, Universal Steel Co. and
+               Ruscon Steel Corp., creating Samuel Steel Pickling
+               Company, a general partnership (incorporated by
+               reference to Exhibit 10.8 to the Company's Registration
+               Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.3      Lease dated September 1, 1990 between Erie County
+               Industrial Development Agency and Integrated
+               Technologies International, Ltd. (incorporated by
+               reference to Exhibit 10.13 to the Company's Registration
+               Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.4      Lease dated June 4, 1993 between Buffalo Crushed
+               Stone, Inc. and Gibraltar Steel Corporation
+               (incorporated by reference to Exhibit 10.14 to the
+               Company's Registration Statement on
+               Form S-1 (Registration No. 33-69304))
+
+                                    37
+<PAGE>
+
+
+     Exhibit                                             Sequentially
+     Number                 Exhibit                     Numbered Page
+
+     10.5*     Employment Agreement dated as of July 9, 1998
+               between the Registrant and Brian J. Lipke
+               (incorporated by reference to
+               Exhibit 10.1 to the Company's Quarterly Report
+               on Form 10-Q for the quarter ended September 30, 1998)
+
+     10.6      Gibraltar Steel Corporation Executive Incentive Bonus
+               Plan (incorporated by reference to Exhibit 10.16 to the
+               Company's Registration Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.7      Agreement dated June 29, 1992 for Adoption by
+               Gibraltar Steel Corporation of Chase Lincoln First
+               Bank, N.A. (now Chase Manhattan Bank, N.A.)
+               Non-Standardized Prototype 401(k) Retirement Savings
+               Plan (incorporated by reference to Exhibit 10.17 to
+               the Company's Registration Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.8*     Gibraltar Steel Corporation Incentive Stock Option
+               Plan, Fifth  Amendment and Restatement (incorporated
+               by reference to Exhibit 10.1 to the Company's
+               Quarterly Report on Form 10-Q for the quarter ended
+               June 30, 2000)
+
+     10.9*     Gibraltar Steel Corporation Restricted Stock Plan
+               (incorporated by reference to Exhibit 10.19 to the
+               Company's Registration Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.10*    Gibraltar Steel Corporation Restricted Stock Plan,
+               First Amendment and Restatement (incorporated by
+               reference to Exhibit 10.13 of the Company's Annual
+               Report on Form 10-K for the year ended December 31,
+               1997)
+
+     10.11*    Gibraltar Steel Corporation Non-Qualified Stock Option
+               Plan (incorporated by reference to Exhibit 10.20 to
+               the Company's Registration Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.12*    Gibraltar Steel Corporation Non-Qualified Stock Option
+               Plan, First Amendment and Restatement (incorporated by
+               reference to Exhibit 10.17 to the Company's
+               Registration Statement on Form S-1 (Registration No.
+               333-03979))
+
+     10.13*    Gibraltar Steel Corporation Profit Sharing Plan dated
+               August 1, 1984, as Amended April 14, 1986 and May 1,
+               1987 (incorporated by reference to Exhibit 10.21 to
+               the Company's Registration Statement on Form S-1
+               (Registration No. 33-69304))
+
+     10.14*    Change in Control Agreement dated July 9, 1998 between
+               Registrant and Brian J. Lipke (incorporated by
+               reference to Exhibit 10.2 to the Company's Quarterly
+               Report on Form 10-Q for the quarter ended
+               September 30, 1998)
+
+                                    38
+<PAGE>
+     Exhibit                                             Sequentially
+     Number                 Exhibit                     Numbered Page
+
+     10.15*    Gibraltar Steel Corporation Profit Sharing
+               Plan, Twelfth Amendment                           40
+
+     10.16*    Form of Change in Control Agreement dated
+               July 9, 1998 between Registrant and each
+               of Neil E. Lipke, Eric R. Lipke,
+               Walter T. Erazmus, Joseph A. Rosenecker,
+               Carl P. Spezio and Andrew S. Tsakos
+               (incorporated by reference to Exhibit 10.3
+               to the Company's Quarterly Report on
+               Form 10-Q for the quarter ended September 30,
+               1998)
+
+     10.17*    Form of Stay Bonus Agreement dated
+               October 1, 2000 between Registrant and
+               certain named executives.                         51
+
+     10.18     Third Amended and Restated Credit Agreement
+               dated September 29, 2000 among Gibraltar
+               Steel Corporation, Gibraltar Steel
+               Corporation of New York, Chase Manhattan
+               Bank, N.A.,  as Administrative Agent, and
+               various financial institutions that
+               are signatories thereto (incorporated by
+               reference to Exhibit 10.1 to the Company's
+               Quarterly Report on Form 10-Q for the
+               quarter ended September 30, 2000)
+
+     10.19     First Amendment, dated May 28, 1999, to the Partnership
+               Agreement dated May 1988 among
+               Samuel Pickling Management Company,
+               Universal Steel Co., and Ruscon Steel Corp.,
+               creating Samuel Steel Pickling Company, a
+               general partnership (incorporated by
+               reference to Exhibit 10.20 to the Company's
+               Annual Report on Form 10-K for the
+               year ended December 31, 1999)
+
+     10.20*    Gibraltar Steel Corporation 401(k) Plan
+               (incorporated by reference to Exhibit 4.1
+               to the Company's Registration Statement
+               on Form S-8 (No. 33-87034))
+
+     10.21*    First Amendment, dated January 20, 1995,
+               to Gibraltar Steel Corporation 40l(k) Plan
+               (incorporated by reference to Exhibit 10.28
+               to the Company's Annual Report on Form 10-K
+               for the year ended December 31, 1994)
+
+     21        Subsidiaries of the Registrant                   55
+
+     27        Financial Data Schedule                          56
+               ________________________________
+
+               * Document is a management contract or compensatory
+       plan or arrangement
+
+                                  39
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+
+                  GIBRALTAR STEEL CORPORATION
+                     PROFIT SHARING PLAN
+                      Twelfth Amendment
+
+
+           WHEREAS, Gibraltar Steel Corporation of  New York, a New York
+
+corporation having its principal place of business  at  Buffalo, New York,  (the
+
+"Employer") maintains a profit sharing plan, known as the Gibraltar Steel
+
+Corporation Profit Sharing Plan, (the "Plan")  by instruments executed and
+
+effective as follows:
+
+
+
+                                 40
+
+<PAGE>
+
+                     Executed            Effective
+
+Original Plan       July 30, 1976       August 1, 1975
+
+First Amendment     December 30, 1977   August 1, 1975
+
+Second Amendment    July 31, 1978       Various Dates
+
+Third Amendment     February 5, 1980    August 1, 1977
+
+Fourth Amendment    August 1, 1978      August 1, 1978
+
+Fifth Amendment
+
+  and Restatement   August 1, 1979      August 1, 1979
+
+Sixth Amendment
+
+  and Restatement   April 14, 1986      August 1, 1984
+
+Seventh Amendment   May 1, 1987         August 1, 1984
+
+Eighth Amendment    November 16, 1993   August 1, 1987
+
+Ninth Amendment
+
+  and Restatement   November 16, 1993   August 1, 1989
+
+Tenth Amendment     September 20, 1994  August 1, 1994
+
+Eleventh Amendment  December 20, 1995   August 1, 1995
+
+
+     WHEREAS, the Employer is merging the Plan into the
+Gibraltar Steel Corporation 401(k) Plan effective March 31, 2000; and
+                               41
+<PAGE>
+WHEREAS, in  light of the merger and pursuant to the terms
+of  the Plan, the Employer now desires to amend said Plan in order to
+bring the Plan into compliance with certain provisions of the Small
+Business Job Protection Act of 1996, the Uniformed Services Employment
+and Reemployment Rights Act of 1994, the Taxpayer Relief Act of 1997,
+the IRS Restructuring and Reform Act of 1998 and other recent
+legislation;
+
+NOW, THEREFORE, the Employer hereby amends  said  Plan effective,
+unless otherwise indicated, August 1, 1997 as follows:
+
+1.   The third paragraph of Section 1.05 is hereby amended
+to read as follows:
+
+          "The  term "leased employee"  means
+any  person (other than an Employee of
+the recipient) who pursuant to an agreement between the recipient and
+any other person ("leasing organization") has performed services for
+the recipient (or  for the  recipient and related persons determined in
+accordance  with IRC Section 414(n)(6)) on a substantially full time
+basis for a period of at least one year, and such services are
+performed under primary direction and control by the  recipient.
+Contributions or benefits provided a leased employee by the leasing
+organization which are attributable to services performed for the
+recipient employer shall be treated  as provided by the recipient
+employer."
+
+     2.    Section 1.13 is hereby amended to read
+as follows:
+            "Plan Year means the 12 month period ending on
+July 31 of each year."
+
+3.    The third paragraph of Section 1.14 is hereby
+amended to read as follows:
+
+                  42
+
+<PAGE>
+
+"Notwithstanding the above, effective for Plan Years beginning on and
+after January 1, 1997, only the first $160,000 of a Participant's
+Compensation for the year shall be taken into  account under the Plan.
+Such maximum amount shall be adjusted at the same time and in such
+manner as permitted under IRC Section 415(d)." 4. Section 1.15 is
+hereby amended by the addition thereto of the following paragraph:
+
+"Notwithstanding any provision of this Plan to the contrary, effective
+December 12, 1994 contributions, benefits and service credit with
+respect to qualified military service will  be provided in accordance
+with IRC Section 414(u)."
+
+5.   Effective October 1, 1998, Section 3.04(d)is
+ hereby amended by substituting "$5,000.00" for "$3,500.00"
+ wherever it appears therein.
+
+6.   Effective August 1, 1995, subparagraph (a) where it
+ first appears in Section 3.07 is hereby amended to read as follows:
+
+             "(a) $30,000.00 as adjusted by the Secretary
+of the Treasury for increases in  the  cost-ofliving. Such increases
+will be in multiples of $5,000.00 (five thousand dollars); or"
+
+          7.   Section 3.07 is hereby amended by the addition
+thereto of the following paragraph immediately following (d) where it
+first appears therein:
+
+"Notwithstanding the above, effective August 1,1998, compensation shall
+include any elective deferral(as defined in IRC Section 401(g)(3)) and
+any amount which is contributed or deferred by the Employer at the
+election of the Employee and which is not includable in the gross
+income of the Employee by reason of IRC Section 125 or IRC Section 457"
+
+                                  43
+<PAGE>
+8.  The last sentence of the fifth paragraph of Section 3.07 is hereby
+amended to read as follows:
+
+"For purposes of this Section 3.07 and  IRC Section 415 and the
+regulations thereunder, the Limitation Year with respect to the
+Employer shall be the Plan Year; provided, however, effective January
+1, 1999 the Limitation Year shall be the calendar year."
+
+9. The sixth paragraph of Section 3.07 is hereby amended to read as
+follows:
+          "Compensation for a Participant who is permanently and
+totally disabled (as defined in IRC Section 37(e)(3)) is the
+compensation such Participant would have received for the
+Limitation Year if the Participant had been paid  at the rate of
+compensation paid immediately before becoming permanently and totally
+disabled; such imputed compensation for the disabled  Participant may
+be taken into account only if contributions made
+on behalf of such Participant are nonforfeitable when made."
+10. Section 4.04 is hereby amended by the addition thereto of the
+following paragraph:
+
+          "Notwithstanding the  above, for Plan  Year  ended  July  31,
+1998, Brian J. Lipke, Eric R. Lipke, Neil E.  Lipke  and  Meredith  A.
+Lipke shall not share in any contributions  and forfeitures  and for
+the  Plan Year ended July  31, 1999,  Brian  J.  Lipke,  Eric   R.
+Lipke,  Neil E. Lipke, Meredith  A. Lipke,  Walter  T. Erazmus, Joseph
+Rosenecker,  Carl  Spezio,   Andrew Tsakos, Joseph Wark, William  Wark,
+Dennis  Speiser, John E. Flint  and Richard O'Brien shall not share  in
+contributions and forfeitures."
+
+                                  44
+<PAGE>
+11. Effective February 29, 2000, Section 4.07 is hereby amended by the
+addition thereto of the following paragraph:
+
+"Effective February 29, 2000, forfeitures unallocated on February 29,
+2000  shall  be  allocated on February 29, 2000 among the Accounts of
+the nonhighly compensated Participants who  are employed by the
+Employer on February 29, 2000 as if said unallocated forfeitures were
+additional contributions of the Employer with respect to the Plan Year
+beginning on August 1, 1999 based upon their compensation for that Plan
+Year through February 29, 2000."
+
+12.  Effective October 1, 1998, Section 6.03(a)is hereby amended by
+substituting "$5,000.00" for "$3,500.00" wherever it appears therein.
+
+13.  Effective February 29, 2000, Section 6.04(a) is hereby amended by
+the addition thereto of the following paragraph immediately following
+the vesting schedule:
+
+"Notwithstanding  the  above, all Participants  in the  Plan, other
+than  those Participants  who  have terminated employment and who  have
+been  paid  their benefits  on  or before February 29, 2000, shall  be
+fully and nonforfeitably vested  in their Accrued Benefit"
+
+14.   Effective October 1, 1998, Section 6.05 is hereby amended by
+substituting "$5,000.00" for "$3,500.00" wherever it appears therein.
+
+15.  Effective August 1, 1999, Section 6.05 is hereby amended to read
+as follows:
+
+                           45
+
+<PAGE>
+"6.05 Termination Of Employment And Distribution Of Vested  Benefits -
+Effective  August 1, 1999,  upon  a Participant's voluntary or
+involuntary termination of employment  with the Employer and any
+Affiliate   with   a   vested interest  in  his Accrued  Benefit, other
+than by reason of retirement, death or disability,the Participant shall
+have the right to elect to  have the  value  of  his vested   interest
+in  his Accrued Benefit  plus the amount  equal  to the value of his
+accounts attributable to his own contributions determined as of  the
+nearest preceding Valuation  Date plus any contributions such
+Participant has made  subsequent to such Valuation Date paid  in one
+lump sum payment; provided, however, such election shall not be
+effective without the Participant's, and if applicable his  spouse's
+(or where either  the Participant or the spouse has died, the
+survivor's) written  consent if(i) the vested interest in his Accrued
+Benefit plus the value  of his  accounts attributable to his own
+contributions exceeds (or at the  time of any prior distribution
+exceeded) $5,000.00(or any lesser amount as may, by regulations of the
+Secretary of the Treasury, be established as the maximum amount that
+may be paid out in such event without the Participant's consent) and
+(ii) the Accrued Benefit is immediately distributable. The Accrued
+Benefit is immediately distributable if any part of the Accrued Benefit
+could be distributed to the Participant (or surviving spouse)before the
+Participant attains(or would have attained if not deceased) the later
+of normal retirement age or age 62. Notwithstanding the foregoing,
+neither the consent of the Participant nor his spouse shall be required
+to the extent that a distribution is required to satisfy IRC 401(a)(9)
+or IRC 415.
+
+For purposes of this Section 6.05, the consent of the Participant and
+his spouse shall be obtained in writing within the 90 day period ending
+on the annuity  starting  date.   The annuity starting date is the
+first day  of the first period for  which an amount is paid as an
+annuity or any   other  form. The  Committee shall  notify  the
+Participant  and his  spouse of the right to defer any distribution
+until the Participant's Accrued Benefit is no longer immediately
+distributable. Such  notification shall include a general description
+of the material features, and an explanation of the relative  values
+of, the optional forms of benefit available  under the Plan and shall
+be provided no less than 30 days and no more than 90 days prior to the
+annuity starting date. If a distribution is one to which Sections
+401(a)(11) and  417 of the Internal Revenue Code do not apply, such
+distribution may commence less than 30  days  after the notice required
+under section 1.411(a)-11(c) of the Income Tax Regulations  is  given,
+provided that:
+                            46
+<PAGE>
+(a) the  Committee clearly informs the Participant that the Participant
+has a right to a period of at least 30 days after receiving the notice
+to consider the decision of whether  or  not  to  elect a
+distribution(and, if applicable, a particular distribution option), and
+(b) the Participant, after receiving the notice, affirmatively elects a
+distribution.  If the Participant and the Participant's spouse do not
+consent to  such distribution, the Committee shall direct the Trustee
+to segregate the value of his vested interest in his Accrued Benefit as
+determined above, in an individual interest-bearing account and to hold
+the same or distribution upon the  earlier of his attainment of age 65,
+death, disability or, if applicable, the satisfaction of the age
+requirement for early retirement provided the service or participation
+requirement, if  any, was satisfied prior to his termination of
+employment. When such former Participant is entitled to distribution as
+provided in the preceding  sentence, the  Committee shall direct the
+Trustee to distribute   the  value of such segregated account to such
+former Participant or his Beneficiary in accordance with Section 6.07.
+If a terminated Participant is rehired by the Employer and he again
+becomes a Participant, any amount so segregated and not distributed
+shall be reinvested with the remainder of the Trust Fund and  be
+credited with earnings, losses  and expenses of the Trust. In the case
+of any terminated Participant  who has incurred five (5)consecutive One
+Year Periods Of Severance prior to his reparticipation in the Plan, the
+Committee shall establish  and maintain  for such Participant a
+separate Account for such reinvested amount.
+At the time  a former Participant is entitled to distribution,
+according to  its records, the Committee shall send, by registered or
+certified mail directed to his address last known to the Committee, a
+notice informing him as to his rights with respect to any amounts held
+for him and requesting confirmation of his address and age. Each
+Participant and former  Participant has the obligation to keep the
+Committee informed of his address. In the event the Committee is unable
+to locate such former Participant within four(4) years, the amount held
+for his benefit shall be forfeited; provided, however, if a claim is
+made by the Participant or his Beneficiary for the forfeited
+
+                                  47
+<PAGE>
+amount, such amount shall be reinstated into his Account.
+Notwithstanding the foregoing, the Committee shall direct the Trustee
+to make a lump sum payment of a Participant's vested interest in his
+Accrued Benefit and his Account attributable to his own contributions
+if his vested interest in his Accrued Benefit plus his Account
+attributable to his own contributions is less than $5,000.00." 16.
+Section 6.07(c) is hereby amended by the addition thereto of the
+following paragraph immediately following the first paragraph of
+that section:
+
+"A Participant may elect, with applicable spousal
+consent, to waive the requirement that the written explanation be
+provided at least 30 days before the annuity starting date, provided
+that the distribution commences more than 7 days after such explanation
+is provided. In addition, the written explanation may be provided after
+the annuity starting date, provided that the applicable election period
+shall not end before the 30th day after the date on which such
+explanation is provided, except that the Participant can waive such 30
+day requirement provided that the distribution commences more than 7
+days after the explanation is provided."
+
+17.  The first paragraph of Section 6.10(b) is hereby amended by the
+addition thereto of the following:
+
+                                  48
+<PAGE>
+
+"Notwithstanding the above, effective January 1, 1997, the required
+beginning date of a Participant is the first day of April of the
+calendar year following the later of the calendar year in which the
+Participant attains age 70 1/2 or, in the case of a non-5 percent owner,
+the calendar year in which the Participant retires; provided, however,
+that the provisions of this sentence shall only apply to employees who
+attain age 70 1/2 after December 31, 2000."
+
+
+                      49
+<PAGE>
+
+IN WITNESS WHEREOF, the Employer has caused this instrument to be
+executed in its name and attested by its corporate officers hereunto
+duly authorized as of this 22 day of March, 2000.
+
+
+
+GIBRALTAR STEEL CORPORATION OF NEW YORK
+
+By  /s/ Brian J. Lipke
+President
+
+
+
+
+
+Attest:
+
+/s/ Walter T. Erazmus
+Secretary
+
+                             50
+<PAGE>
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>0003.txt
+<TEXT>
+
+
+
+                       October 1, 2000
+
+
+_____________________
+_____________________
+_____________________
+_____________________
+_____________________
+
+Dear _____________:
+
+     As you are aware, Gibraltar Steel Corporation (the
+"Company") is examining various strategic alternatives in an
+effort to enhance shareholder value.  In this regard, one
+alternative being examined is a sale of the Company in its
+entirety.  You are important to the success of the business
+of the Company and your active involvement during a sale of
+the business and a transition period subsequent to such sale
+is essential. Accordingly, it is in the best interests of
+the Company to have an understanding with you regarding your
+continued employment.
+
+     Based on the above, the Company will provide, and will
+require the party that acquires the Company to provide, you
+with the following rights and benefits:
+
+     1.   Your salary and benefits, both contributory and
+non-contributory, will be maintained at levels which are not
+less than the levels which are in effect as of September 1,
+2000, for a period of six (6) months following the date on
+which a "Sale" (as hereinafter defined) occurs (such date
+being hereinafter referred to as the "Closing Date"). For
+purposes of this letter, a "Sale" will be deemed to occur
+upon: (a) the sale (including a transfer occurring as a
+result of a tender offer, an exchange offer or the
+consummation of a plan of merger or consolidation) of ninety
+percent (90%) or more of the Company's issued and
+outstanding stock or (b) the sale of all or substantially
+all of the Company's assets with the buyer assuming all or
+substantially all of its liabilities, to any person or group
+(within the meaning of Sections 13(d) and 14(d)(2) of the
+Securities Exchange Act of 1934, as amended).
+
+                            51
+<PAGE>
+     2.   If a Sale occurs before the end of the calendar
+year 2001, or if, at the end of such calendar year,
+negotiations regarding a possible Sale to an identified
+prospective purchaser with sufficient financial resources
+are taking place and such negotiations result in a Sale
+which occurs by March 31, 2002, the Company will pay to you
+bonus payments as described herein upon and subject to the
+terms and conditions set forth in this letter.
+
+     3.   If a Sale which satisfies the conditions of
+paragraph 2 above occurs, you will, subject to your
+compliance with the terms of this letter, be entitled
+to receive an amount based upon the per share Sales Price as
+set forth in Schedule I annexed hereto (such amount being
+hereinafter referred to as the "Stay Bonus").
+
+     4.   In order to receive any payment as described
+herein, you must remain in the Company's active employment
+(or, if applicable, in the active employment of the
+purchaser or any of its affiliates ("Purchaser")) through
+the date that a payment becomes payable as described below.
+
+     5.   If a Sale which satisfies the conditions of
+paragraph 2 above occurs, and you have satisfied the
+requirements of paragraph 4, one-half of the amount of the
+Stay Bonus will become payable and will be paid to you in
+one lump sum on the Closing Date and the remaining one-half
+of the Stay Bonus will become payable and will be paid to
+you in one lump sum at the end of the six (6) month period
+following the Closing Date.
+
+     6.  If, for any reason, your employment with the
+Company or the Purchaser is terminated before any payment as
+described in paragraph 5 becomes payable to you, you will
+not be entitled to such payment or payments. In addition, if
+a Sale does not occur in a manner which satisfies the
+conditions set forth in Paragraph 2 above, the Stay Bonus
+will not be payable.
+
+       7. The fact that the Company has agreed, by the
+terms of this letter, to make payments to you as provided
+for in this letter, is strictly confidential. As a result,
+you are expressly prohibited from disclosing or revealing to
+any person or entity, any information regarding the specific
+terms of this letter or the existence of the Company's
+agreement, as contained in this letter, to make payments to
+you which are conditioned, in part, on the occurrence of a
+Sale and your continued active employment with the Company
+or a Purchaser.  If it is determined that you have violated
+the provisions of this paragraph 7, you will not be entitled
+to receive any payment of the amounts described above in
+this letter.
+                                52
+<PAGE>
+     8.  As you know, on July 9, 1998, the Company entered
+into an agreement (hereinafter the "Change in Control
+Agreement") providing for the payment to you of certain
+amounts in the event that your employment with the Company
+is terminated under certain specified conditions following a
+change in control of the Company (as defined in such Change
+in Control Agreement).  It is the Company's intent that you
+will not be entitled to receive both the second half of the
+Stay Bonus as provided for by this letter and the full
+amount of the payments provided for by the Change in Control
+Agreement.  Accordingly, by your execution of this letter as
+provided for at the end hereof, you will be deemed to
+expressly agree that the Change in Control Agreement will be
+deemed and construed to be amended, by this letter (and this
+letter will be deemed to constitute an amendment to the
+Change in Control Agreement), to provide that, if and to the
+extent that you are paid the second half of the Stay Bonus
+provided for by this letter, the amount of any payments you
+may thereafter become entitled to receive under the terms
+of the Change in Control Agreement will be reduced by an
+amount equal to the second half of the Stay Bonus provided
+for by this letter.
+
+     9.  Your right to receive the Stay Bonus will only
+apply to one Sale. Therefore, you will not have any right to
+receive payment of a second Stay Bonus if, after the closing
+of the Sale, a sale of all or substantially all the assets
+of the Company or a sale of any portion of the issued and
+outstanding stock of the Company occurs.
+
+                            53
+<PAGE>
+
+     Thank you for your cooperation and support in exploring
+and implementing the strategic alternatives facing our
+Company. We believe your continued best efforts will help
+ensure a successful endeavor.
+
+                              Yours truly,
+
+                         GIBRALTAR STEEL CORPORATION
+
+
+
+                         By:/s/ Brian J. Lipke
+                            Brian J. Lipke,
+                            Chairman of the Board and Chief
+                            Executive Officer
+
+
+
+Agreed to and Acknowledged
+this ___ day of October, 2000.
+
+_____________________
+
+                                  54
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<FILENAME>0004.txt
+<TEXT>
+
+2
+
+                             Subsidiaries
+
+The following is a list of the subsidiaries of Gibraltar Steel
+Corporation.  The names of indirectly owned subsidiaries are indented
+under the names of their respective parent corporations:
+
+Gibraltar Steel Corporation of New York                New York
+  Wm. R. Hubbell Steel Corporation                     Illinois
+  Carolina Commercial Heat Treating, Inc.              Nevada
+  Southeastern Metals Manufacturing Company, Inc.      Florida
+  Solar Group, Inc.                                    Delaware
+  Appleton Supply Co., Inc.                            Delaware
+  United Steel Products Company                        Minnesota
+  Harbor Metal Treating Co.                            Michigan
+  Harbor Metal Treating of Indiana, Inc.               Michigan
+  K & W Metal Fabricators, Inc.                        Colorado
+  Hi-Temp Heat Treating, Inc.                          Delaware
+  Brazing Concepts Company                             Michigan
+  Milcor, Inc.                                         Delaware
+Gibraltar Steel Corporation Flight Services Corp.      New York
+Gibraltar Strip Steel, Inc.                            Delaware
+Integrated Technologies International, Ltd.            Delaware
+Cleveland Pickling, Inc.                               Delaware
+GIT Limited                                            New York
+
+                                  55
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<FILENAME>0005.txt
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS LEGEND CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED FINANCIAL STATEMENTS ON FORM 10-K AND IS QUALIFIED IN ITS ENTIRETY
+BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1000
+<CURRENCY> US DOLLARS
+
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JAN-01-2000
+<PERIOD-END>                               DEC-31-2000
+<EXCHANGE-RATE>                                      1
+<CASH>                                           1,701
+<SECURITIES>                                         0
+<RECEIVABLES>                                   80,001
+<ALLOWANCES>                                     1,643
+<INVENTORY>                                    100,987
+<CURRENT-ASSETS>                               187,594
+<PP&E>                                         302,387
+<DEPRECIATION>                                  73,228
+<TOTAL-ASSETS>                                 556,046
+<CURRENT-LIABILITIES>                           55,187
+<BONDS>                                        255,526
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           126
+<OTHER-SE>                                     208,222
+<TOTAL-LIABILITY-AND-EQUITY>                   556,046
+<SALES>                                        677,540
+<TOTAL-REVENUES>                               677,540
+<CGS>                                          541,743
+<TOTAL-COSTS>                                  541,743
+<OTHER-EXPENSES>                                75,905
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              18,942
+<INCOME-PRETAX>                                 40,950
+<INCOME-TAX>                                    16,585
+<INCOME-CONTINUING>                             24,365
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    24,365
+<EPS-BASIC>                                       1.94
+<EPS-DILUTED>                                     1.92
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

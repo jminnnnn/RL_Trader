@@ -1,0 +1,3019 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LEEPAc/ZqVRLzA1btNsdA/1SNUkNXqqtZe2r0SBPRSxJRstWDidJtnghDjT2c1Pg
+ gEuCT42zXOT/Bn7DyH82OA==
+
+<SEC-DOCUMENT>0000950115-00-000552.txt : 20000417
+<SEC-HEADER>0000950115-00-000552.hdr.sgml : 20000417
+ACCESSION NUMBER:		0000950115-00-000552
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20000131
+FILED AS OF DATE:		20000414
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			URBAN OUTFITTERS INC
+		CENTRAL INDEX KEY:			0000912615
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		IRS NUMBER:				232003332
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22754
+		FILM NUMBER:		602079
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1809 WALNUT ST
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+		BUSINESS PHONE:		2155642313
+
+	MAIL ADDRESS:	
+		STREET 1:		1809 WALNUT STREET
+		STREET 2:		1809 WALNUT STREET
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                    FORM 10-K
+
+              ANNUAL REPORT FILED PURSUANT TO SECTION 13 OR 15 (d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended January 31, 2000
+
+                           Commission File No. 0-16999
+
+                             URBAN OUTFITTERS, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+          PENNSYLVANIA                                     23-2003332
+    ------------------------                ------------------------------------
+    (State of incorporation)                (I.R.S. Employer Identification No.)
+
+
+                   1809 Walnut Street, Philadelphia, PA 19103
+                   -------------------------------------------
+                    (Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (215) 564-2313
+                                                           --------------
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                         Common Shares, $.0001 par value
+                                ----------------
+                                (Title of class)
+
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+                                    Yes [X]          No [    ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in a definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+           17,358,186 Common Shares were outstanding at April 10, 2000
+
+     The aggregate market value of voting shares held by non-affiliates at April
+10, 2000 was $124,761,424.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the Proxy Statement for Registrant's 2000 Annual Meeting of
+Shareholders -- Part III.
+
+
+
+<PAGE>
+
+
+                                         TABLE OF CONTENTS
+
+
+                                               PART I
+
+<TABLE>
+
+<S>       <C>                                                                         <C>
+Item 1.   Business....................................................................  3
+
+Item 2.   Properties................................................................... 8
+
+Item 3.   Legal Proceedings........................................................... 10
+
+Item 4.   Submission of Matters to a Vote of Security Holders......................... 10
+
+
+                                               PART II
+
+Item 5.   Market for Registrant's Common Equity and Related Shareholder Matters....... 11
+
+Item 6.   Selected Financial Data..................................................... 12
+
+Item 7.   Management's Discussion and Analysis of Financial Condition and Results of
+           Operations................................................................. 13
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk ..............    20
+
+Item 8.   Financial Statements and Supplementary Data................................. 20
+
+Item 9.   Changes in and Disagreements with Accountants on Accounting and Financial
+           Disclosure................................................................. 21
+
+
+                                               PART III
+
+Item 10.  Directors and Executive Officers of the Registrant.......................... 22
+
+Item 11.  Executive Compensation...................................................... 24
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management.............. 24
+
+Item 13.  Certain Relationships and Related Transactions.............................. 24
+
+
+                                               PART IV
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K............. 25
+
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS............................................F-1
+
+FINANCIAL STATEMENT SCHEDULES.........................................................S-1
+</TABLE>
+
+                                   ----------
+
+
+As used in this Report on Form 10-K, "Fiscal 1996," "Fiscal 1997," "Fiscal
+1998," "Fiscal 1999" and "Fiscal 2000" refer to the Company's fiscal years ended
+January 31 in each of those fiscal years.
+
+
+<PAGE>
+
+
+                                     PART I
+
+Item 1. Business
+
+General
+
+     Urban Outfitters, Inc. ("Urban Outfitters" or the "Company") operates two
+business segments - a lifestyle-oriented general merchandise retailing segment
+and a wholesale apparel business ("Wholesale"). The retailing segment operates
+through retail stores and direct response, including a catalog and two web
+sites. The two retail concepts are Urban Outfitters ("Urban Retail") and
+Anthropologie, each of which sells a broad array of fashion apparel, accessories
+and household and gift merchandise in an exciting and dynamic retail
+environment. The Company's wholesale business designs and markets young women's
+casual wear which it provides to the Company's retail operations and sells to
+over 1,300 better specialty retailers worldwide.
+
+     Founded and originally operated by a predecessor partnership, the Company
+opened its first store in 1970 near the University of Pennsylvania campus in
+Philadelphia. The Company was incorporated in Pennsylvania in 1976, and opened
+its second store in Harvard Square, Cambridge, Massachusetts in 1980. The
+Company has since expanded to 37 Urban Retail stores in 31 metropolitan areas
+throughout the United States, Canada and the United Kingdom. The Company has
+opened 20 Anthropologie stores in 15 metropolitan areas in the United States,
+most of which overlap the Urban Retail areas. The Company is in the process of
+identifying new retail locations and negotiating new leases and plans to
+increase its number of new store openings in the coming years.
+
+     Urban Retail: Urban Retail has established a strong reputation among urban,
+style-conscious young adults aged 18 to 30. Urban Retail stores, which average
+approximately 9,350 selling square feet and carry 50,000 to 60,000 SKUs, are
+typically located near large universities or other youth enclaves. Smaller
+format stores, which have been opened in less populated cities located near
+large universities, average 5,600 selling square feet and carry fewer SKUs. The
+first store in this new format was opened in March, 1998 in Bloomington,
+Indiana. The Company's lifestyle merchandise offerings include women's and men's
+fashion apparel, footwear and accessories and apartment wares and gifts. Urban
+Retail accounted for approximately 61.2%, 67.7% and 64.4% of the Company's net
+sales in Fiscal 2000, Fiscal 1999 and Fiscal 1998, respectively. The Company
+introduced its www.urbn.com Internet web site in November 1999 which, along with
+other information, offers Urban Retail gift certificates for sale. Direct sale
+of merchandise through the web site is expected to begin during Fiscal 2001.
+
+     Anthropologie: Anthropologie tailors its merchandise and shopping
+environment to appeal to an established customer, typically women aged 30 to 45.
+The Company opened its first Anthropologie store in a suburb of Philadelphia in
+October 1992. Anthropologie stores average approximately 8,850 selling square
+feet and carry 20,000 to 25,000 SKUs with a greater emphasis on home than Urban
+Retail stores. The stores are typically located in either affluent suburban
+
+
+
+                                       3
+<PAGE>
+
+
+
+
+locations or special urban locations in major cities (e.g., Soho in New York
+City). Product offerings include women's casual apparel and accessories, home
+furnishings and an eclectic array of gifts and decorative accessories for the
+home, garden, bed and bath. Anthropologie introduced a direct response catalog
+in March 1998. Catalog circulation has since increased to 7.4 million mailings
+during Fiscal 2000. The Company also accepts orders through its
+www.Anthropologie.com Internet web site which debuted in December 1998.
+Currently, web site sales represent approximately 20% of total direct response
+sales. Anthropologie accounted for approximately 30.7%, 22.8% and 18.0% of the
+Company's net sales in Fiscal 2000, Fiscal 1999 and Fiscal 1998, respectively.
+
+     Wholesale: Wholesale was established in 1984 to develop, side by side with
+Urban Retail, apparel lines of young women's casual wear that could be
+effectively sold in the Urban Retail stores at attractive pricing to the retail
+customers. In order to provide the "attractive" prices, minimum production lots
+are necessary. In order to reach these production minimums, Wholesale sells to
+other retailers throughout the United States. The Wholesale design and
+production staffs have expanded their involvement by designing and producing
+private label merchandise categories such as apartment wares, gifts, accessories
+and shoes.
+
+     While continuing its role with Urban Retail and Anthropologie, Wholesale
+also sells its products to over 1,300 better specialty retailers worldwide under
+three major labels: Free People, Co-Operative, and Bulldog. Wholesale accounted
+for approximately 8.1%, 9.5% and 17.6% of the Company's net sales in Fiscal
+2000, Fiscal 1999 and Fiscal 1998, respectively. Like the retail segment,
+Wholesale has its own senior and creative management, while sharing support
+services.
+
+     The Company's home offices are located in Philadelphia, Pennsylvania. In
+addition, the Wholesale company has sales and showroom facilities in New York
+City and Los Angeles, California.
+
+
+Retail Strategy
+
+     The Company's overall retailing strategy is to concentrate on its target
+customers and offer a wide assortment of distinctive products in a multichannel
+shopping environment including retail stores, a catalog, and web sites. By
+executing this strategy, the Company believes that it has successfully developed
+and captured unique market niches.
+
+
+
+
+                                       4
+<PAGE>
+
+
+Suppliers
+
+     To serve its target customers and to recognize changes in fashion trends
+and seasonality, the Company purchases merchandise from numerous vendors -
+foreign and domestic. During Fiscal 2000, the Company did business with
+approximately 2,500 vendors. No single vendor accounted for more than 10% of
+merchandise purchases. Certain of the Company's vendors have limited financial
+resources and production capabilities. The Company believes that its
+relationships with its vendors are good.
+
+
+Store Expansion Strategy
+
+     The Company's strategy is to open at least five new stores per year for
+each retail concept. In Fiscal 2000, Urban Retail opened six new stores and
+relocated one store, while Anthropologie also opened six new stores.
+Additionally, an Urban Retail location in New York City was closed in January
+2000 due to a lease expiration. The Fiscal 2001 plan anticipates opening
+approximately eight Urban Retail stores, including a store in Dublin, Ireland,
+and opening approximately seven Anthropologie stores.
+
+
+Company Operations
+
+     Distribution: The majority of merchandise purchased by both the retail and
+the wholesale segments is shipped directly to the Company's distribution center
+in Gap, Pennsylvania. The facility, which has an advanced computerized materials
+handling system, is owned by the Company and is approximately 60 miles from the
+home offices in Philadelphia. This facility was expanded in Fiscal 2000 by
+91,000 square feet in order to serve the future needs of the growing retail
+store network and direct response fulfillment. The current 191,000 square foot
+structure is expected to provide eastern United States distribution capability
+at least through the year 2002.
+
+     In June 1998, the Company opened a distribution facility in Reno, Nevada
+operated by a third party. The purpose of this facility is to service the west
+coast stores with a faster turn around from west coast vendors at a lower
+freight cost per unit. Future expansion of west coast distribution capabilities
+is anticipated due to the growing retail store network. In addition, the Company
+utilizes the basement area of the Toronto Urban Retail store as a distribution
+facility in Canada. As additional stores are added in Europe, a separate
+distribution center may be established.
+
+     Management Information Systems: Very early in the Company's growth,
+management recognized the need for high-quality information in order to manage
+the merchandise planning/buying, inventory management and control functions. The
+Company invested in a retail software package that it believes continues to meet
+its processing and reporting requirements.
+
+
+
+                                       5
+<PAGE>
+
+
+
+The Company utilizes Point of Sale ("POS") register and polling systems which
+provide for register efficiencies, improved customer checkout and overnight
+polling. In July 1999, the Company converted its Anthropologie catalog and web
+site operations from third party call centers and fulfillment to an in-house
+direct response management software system.
+
+     To manage its separate needs, the wholesale segment uses a software system
+for customer service, order entry and allocations, production planning and
+inventory management.
+
+     Inventory and Shrinkage Control: The Company's retail inventory management
+system enables it to efficiently manage its inventory position. This system
+provides management with accurate and timely information about inventory,
+pricing, costing, markdowns, markups, transfers, damages, sales and perpetual
+inventory levels. The system allows these items to be monitored by SKU, by
+location and by day.
+
+     The Company believes in investing to control its shrinkage levels because
+many store locations are in typically higher theft areas. Merchandise shrinkage
+control begins at the distribution center with the Company's information
+systems, internal employee procedures, electronic article surveillance systems
+and self-auditing controls. The Company educates and offers incentives to store
+employees to actively participate in loss prevention, and believes that its
+store employees are its most effective deterrent to both internal and external
+theft.
+
+
+Competition
+
+     The specialty retail, direct response, and wholesale apparel businesses are
+highly competitive. Retail segment competitive factors include store location;
+merchandise breadth, quality, style, and availability; level of customer
+service; and price. The Company's retail stores compete against a wide variety
+of smaller, independent specialty stores as well as department stores and
+national specialty chains. Along with certain retail segment factors noted
+above, other key competitive factors for direct response operations include the
+success or effectiveness of customer mailing lists, response rates, catalog
+presentation, merchandise delivery and web site availability. The direct
+response operations compete against numerous catalogs and web sites which may
+have greater circulation and web traffic. Wholesale competes with numerous
+companies, many of whose products have wider distribution than the Company's.
+Certain of Urban Outfitters' retail and wholesale competitors have greater name
+recognition and financial and other resources than the Company.
+
+
+
+                                       6
+<PAGE>
+
+
+Trademarks and Service Marks
+
+     The Company is the registered owner in the United States of certain service
+marks and trademarks (collectively "marks"), including without limitation,
+"Urban Outfitters," "Anthropologie," "Ecote," "Co-Operative," "Urban Renewal,"
+"Free People," "Slant," "Fink," "Lisa L.," "Lip Gloss," "Shag," "Big Smokey,"
+"R.V.," "365 Days," and "Stapleford." Each mark is renewable indefinitely,
+contingent upon continued use at the time of renewal.
+
+     In addition, the Company currently has pending registration applications
+with the U.S. Patent and Trademark Office covering certain other marks. The
+Company is also the owner of marks which have been registered in foreign
+countries, including without limitation, Argentina, Australia, Benelux, Brazil,
+Canada, Chile, the Czech Republic, Denmark, France, Germany, Hong Kong, Hungary,
+Italy, Japan, Mexico, Poland, Russia, Spain, Sweden, Switzerland, Taiwan and the
+United Kingdom. Applications for marks are pending in additional foreign
+countries as well.
+
+     The Company regards its marks as important to its business due to their
+name recognition with the Company's customers. The Company believes that the
+marks are so important that in order to protect them from infringement and to
+defend against any claim of infringement, the Company established a separate
+company whose primary purpose is to maintain and manage these and future marks
+thereby increasing their value to the operating companies. The Company is not
+aware of any claims of infringement or challenges to the Company's right to use
+any of its marks in the United States; however, there can be no assurance that
+the Company's marks do not or will not violate the proprietary rights of others,
+that they would be upheld if challenged or that the Company would, in such an
+event, not be prevented from using its marks, any of which could have an adverse
+effect on the Company.
+
+
+Employees
+
+     The Company employs approximately 2,200 persons, approximately 1,200 (55%)
+of whom are full-time employees and approximately 1,000 (45%) of whom are
+part-time employees. Of the Company's total employees, 4% work at Wholesale and
+the remaining 96% work at the retail segment. The number of part-time employees
+fluctuates depending on seasonal needs. None of the Company's employees are
+covered by collective bargaining agreements and management believes that the
+Company's relations with its employees are excellent.
+
+
+
+                                       7
+<PAGE>
+
+
+Item 2. Properties
+
+     The Company's home offices are located in Philadelphia, Pennsylvania and
+occupy approximately 26,000 square feet at 1809 Walnut Street, immediately
+adjacent to the Anthropologie store at 1801 Walnut Street, and approximately
+22,000 square feet at 235 South 17th Street. Anthropologie's catalog call center
+is also located in Philadelphia and occupies approximately 2,800 square feet at
+1700 Sansom Street. The Company's home office and catalog call center facilities
+are leased properties with varying lease term expirations through 2011.
+
+     All of the Urban Retail and Anthropologie stores are leased. The Company's
+retail stores are typically leased for a term of ten years with renewal options
+for an additional five to ten years. The following table shows the location of
+the Company's existing retail stores. Selling square feet can sometimes change
+due to floor moves, use of staircases, cash register configuration, etc. Total
+estimated selling square feet under lease at January 31, 2000 by Urban Retail
+was 346,000 and by Anthropologie was 177,000. The average store selling square
+feet is approximately 9,350 for Urban Retail and approximately 8,850 for
+Anthropologie. The smaller format Urban Retail stores average 5,600 selling
+square feet.
+
+
+
+
+                                       8
+<PAGE>
+
+
+                             Urban Outfitters Stores
+                             -----------------------
+<TABLE>
+<CAPTION>
+
+         LOCATION                              LOCATION                             LOCATION
+         --------                              --------                             --------
+<S>                                  <C>                                  <C>
+Philadelphia, PA                      Costa Mesa, CA                       Columbus, OH
+110 South 36th Street                 2930 Bristol Street                  1782 N. High Street
+
+Cambridge, MA                         Chicago. IL                          New York, NY
+11 J.F. Kennedy Street                2352 N. Clark Street                 162 2nd Avenue
+
+Philadelphia, PA                      Pasadena, CA                         Los Angeles, CA
+1627 Walnut Street                    139 W. Colorado Blvd.                7650 Melrose Avenue
+
+New York, NY                          Chicago, IL                          Burlington, VT
+628 Broadway                          935 N. Rush Street                   81 Church Street
+
+Washington, DC                        Portland, OR                         Lawrence, KS
+3111 M Street, N.W.                   2320 N.W. Westover Road              1013 Massachusetts Street
+
+New York, NY                          Austin, TX                           East Lansing, MI
+374 Avenue of Americas                2406 Guadalupe Street                119 E. Grand River Ave.
+
+Madison, WI                           Tempe, AZ                            Miami, FL
+604 State Street                      545 South Mill Ave.                  5701 SW 72nd St., #146
+
+Ann Arbor, MI                         Houston, TX                          Seattle, WA
+231 S. State Street                   2501 University Blvd.                1507 5th Avenue
+
+Boston, MA                            Montreal, PQ                         London, England
+361 Newbury Street                    1246 Ste. Catherine Street, W.       36-38 Kensington High Street
+
+Minneapolis, MN                       Toronto, ON
+3006 Hennepin Ave., S.                235 Yonge Street
+
+Seattle, WA                           Miami Beach, FL
+401 Broadway, East                    653 Collins Avenue
+
+Berkeley, CA                          Boulder, CO
+2590 Bancroft Way                     934 Pearl Street
+
+Santa Monica, CA                      Bloomington, IN
+1440 Third Street Promenade           530 E. Kirkwood Avenue
+
+San Francisco, CA                     San Diego, CA
+80 Powell Street                      665 Fifth Avenue
+</TABLE>
+
+
+                                       9
+<PAGE>
+
+
+                              Anthropologie Stores
+                              --------------------
+<TABLE>
+<CAPTION>
+
+LOCATION                                LOCATION                                LOCATION
+- --------                                --------                                --------
+<S>                            <C>                                    <C>
+Wayne, PA                      Chicago, IL                             Chestnut Hill, MA
+201 W. Lancaster Ave.          1120 N. State Street                    300 Boylston Street
+
+Rockville, MD                  Highland Park, IL                       New York, NY
+11500 Rockville Pike           1780 Green Bay Road                     85 Fifth Avenue
+
+Westport, CT                   Beverly Hills, CA                       Atlanta, GA
+1365 Post Road, East           320 N. Beverly Drive                    3393 Peachtree Rd., N.E.
+
+Greenvale, NY                  Seattle, WA                             Philadelphia, PA
+9 Northern Blvd.               2520 N.E. University Village, #120      1801 Walnut Street
+
+Soho, NY                       Boston, MA                              Seattle, WA
+375 West Broadway              799 Boylston Street                     1509 Fifth Avenue
+
+Santa Monica, CA               Birmingham, MI                          Tampa, FL
+1402 Third Street Promenade    214 West Maple Road                     705 S. Dakota Avenue
+
+Newport Beach, CA              Santa Barbara, CA
+823 Newport Center Drive       901 State Street
+</TABLE>
+
+
+     Wholesale operates showrooms in New York City and Los Angeles which are
+leased through 2004 and 2001, respectively. Retail and Wholesale distribution
+center properties are discussed in the Distribution section on page 5.
+
+     The Company believes that its facilities are well-maintained, in good
+operating condition and adequate for its current needs.
+
+
+Item 3. Legal Proceedings
+
+     The Company is party to various legal proceedings arising from normal
+business activities. Management believes that the ultimate resolution of these
+matters will not have a material adverse effect on the Company's financial
+condition or results of operations.
+
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+     No matters were submitted to a vote of security holders during the fourth
+quarter of Fiscal 2000, through the solicitation of proxies or otherwise.
+
+Executive Officers of the Registrant
+
+     The information concerning the Company's executive officers required by
+this Item is incorporated by reference herein from Part III, Item 10 of this
+Form 10-K.
+
+
+
+                                       10
+<PAGE>
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+
+     The Company's common shares are traded on the NASDAQ National Market System
+under the symbol "URBN."
+
+
+MARKET INFORMATION
+                                                          MARKET PRICES
+                                                  HIGH BID            LOW BID
+                                                   PRICE               PRICE
+
+         FISCAL 1999
+
+         Quarter ended April 30, 1998              $24 3/4            $15 3/4
+         Quarter ended July 31, 1998                20                 14 1/2
+         Quarter ended October 31, 1998             17                 11
+         Quarter ended January 31, 1999             18                 11 9/16
+
+
+         FISCAL 2000
+
+         Quarter ended April 30, 1999              $21 1/2            $12 1/8
+         Quarter ended July 31, 1999                28 3/4             19 1/2
+         Quarter ended October 31, 1999             31 1/16            16 1/8
+         Quarter ended January 31, 2000             29 5/8             12 7/8
+
+
+HOLDERS
+
+     On April 5, 2000, the Company had approximately 2,300 shareholders of
+record.
+
+
+DIVIDENDS
+
+     The Company has not paid any cash dividends since its inception and does
+not anticipate paying any cash dividends on its common shares in the foreseeable
+future.
+
+
+                                       11
+
+<PAGE>
+
+
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+     The following table sets forth selected consolidated income statement and
+balance sheet data for the periods indicated. The selected consolidated balance
+sheet and income statement data at the fiscal year end for each of the five
+fiscal years presented below, are derived from the consolidated financial
+statements of the Company. The Company has revised its manner of reporting gross
+profit to group certain buying, distribution and occupancy costs with cost of
+sales in order to enhance the comparability of its results with other specialty
+apparel retailers. Prior period amounts have been reclassified to conform to the
+current year presentation. The data presented below should be read in
+conjunction with the consolidated financial statements of the Company, and the
+related notes thereto, which appear elsewhere in this report.
+
+<TABLE>
+<CAPTION>
+                                                                        FISCAL YEAR ENDED JANUARY 31,
+                                                       -----------------------------------------------------------------
+                                                          2000           1999        1998          1997           1996
+                                                          -----          ----        ----          ----           ----
+                                                                  (IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA)
+<S>                                                    <C>           <C>           <C>           <C>           <C>
+INCOME STATEMENT DATA:
+Net sales ..........................................   $   276,106   $   208,969   $   173,121   $   156,414   $   133,036
+Gross profit .......................................       104,450        78,618        60,090        56,744        48,851
+Income from operations .............................        37,565        25,117        22,062        21,356        19,867
+Net income .........................................   $    18,680   $    15,760   $    13,880   $    13,260   $    12,308
+                                                       ===========   ===========   ===========   ===========   ===========
+Net income per common share - basic ................   $      1.07   $      0.89   $      0.79   $      0.76   $      0.72
+                                                       ===========   ===========   ===========   ===========   ===========
+Weighted average common shares outstanding - basic .    17,531,971    17,702,922    17,576,203    17,429,375    17,028,856
+Net income per common share - diluted ..............   $      1.05   $      0.88   $      0.78   $      0.75   $      0.70
+                                                       ===========   ===========   ===========   ===========   ===========
+Weighted average common shares outstanding - diluted    17,844,356    17,929,109    17,843,873    17,722,629    17,487,673
+
+BALANCE SHEET DATA:
+Working capital ....................................   $    38,006   $    47,342   $    52,133   $    39,239   $    36,487
+Total assets .......................................       153,501       133,363       107,424        89,675        71,117
+Total liabilities ..................................        32,585        28,069        16,766        13,983        11,665
+Long-term debt, excluding current maturities .......          --            --            --            --            --
+Total shareholders' equity .........................       120,916       105,294        90,658        75,692        59,452
+</TABLE>
+
+                                       12
+
+<PAGE>
+
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS
+
+     The following discussion of the Company's historical results of operations
+and of its liquidity and capital resources should be read in conjunction with
+the selected financial data and the consolidated financial statements of the
+Company and related notes thereto which appear elsewhere in this report.
+
+GENERAL
+
+     The Company's fiscal year ends on January 31. All references in this
+discussion to fiscal years of the Company refer to the fiscal years ended on
+January 31 in those years. For example, the Company's "Fiscal 2000" ended on
+January 31, 2000. The comparable store net sales data presented in this
+discussion are calculated based on the net sales of all stores open at least
+twelve full months at the beginning of the period for which such data is
+presented.
+
+     The Company operates two business segments - a lifestyle-oriented general
+merchandise retailing segment and a wholesale apparel business ("Wholesale").
+The retailing segment operates through retail stores and direct response,
+including a catalog and two web sites. The two retail concepts are Urban
+Outfitters ("Urban Retail") and Anthropologie. Urban Retail is the larger of the
+two and generates the majority of the Company's revenues and profits. Urban
+Retail had 37 stores open at January 31, 2000 and 32 at January 31, 1999.
+Anthropologie had 20 stores open at January 31, 2000 and 14 at January 31, 1999.
+The Company has plans to open approximately eight Urban Retail stores and
+approximately seven Anthropologie stores in Fiscal 2001.
+
+     Fiscal 2000 and 1999 continued as profitable years for Urban Outfitters
+with net income to net sales of 6.8% and 7.6%, respectively, as well as return
+on beginning shareholders' equity of 17.7% for Fiscal 2000 and 17.4% for Fiscal
+1999. The contraction of net income as a percentage of sales in Fiscal 2000
+resulted primarily from a net charge to earnings of $4.4 million to recognize a
+required accounting reserve for the Company's portion of operating losses
+relating to its minority investment in MXG Media, Inc. (see "Other Matters - MXG
+Media, Inc." below). Although net income as a percentage of sales contracted,
+the return on beginning shareholders' equity increased for Fiscal 2000 over the
+prior year due primarily to the Company's sales growth. In part, the increase in
+return on beginning equity reflects the repurchase during Fiscal 1999 of 167,200
+shares of its common stock at an open market value of $2.3 million.
+
+
+                                       13
+
+<PAGE>
+
+
+
+     The Company has wholly-owned subsidiaries that operate Urban Retail stores
+in London, England and Montreal and Toronto, Canada. The results of operations
+and financial position for the London and Canadian stores are included in the
+Company's retail operations segment results. The Company plans to open a store
+in Dublin, Ireland during Fiscal 2001 and additional stores in Canada and Europe
+in the future.
+
+     For Fiscal 2000, the Wholesale company recorded sales growth of 12% after
+elimination of intersegment sales to Urban Retail and Anthropologie. The
+Wholesale company anticipates modest sales growth in Fiscal 2001.
+
+RESULTS OF OPERATIONS
+
+     The following tables set forth, for the periods indicated, the percentage
+of the Company's net sales represented by certain income statement data and the
+growth of certain income statement data from period to period. The Company has
+revised its manner of reporting gross profit to group certain buying,
+distribution and occupancy costs with cost of sales in order to enhance the
+comparability of its results with other specialty apparel retailers. Prior
+period amounts have been reclassified to conform to the current year
+presentation.
+
+<TABLE>
+<CAPTION>
+                                                                       FISCAL YEAR ENDED
+                                                                          JANUARY 31,
+                                                              -----------------------------------
+AS A PERCENTAGE OF NET SALES                                   2000           1999         1998
+                                                               ----           ----         ----
+<S>                                                            <C>            <C>           <C>
+Net sales ...........................................          100.0%         100.0%        100.0%
+Cost of sales, including certain buying, distribution
+   and occupancy costs ..............................           62.2           62.4          65.3
+                                                               -----          -----         -----
+  Gross profit ......................................           37.8           37.6          34.7
+Selling, general and administrative expenses ........           24.2           25.6          22.0
+                                                               -----          -----         -----
+  Income from operations ............................           13.6           12.0          12.7
+Other income (expense), net .........................           (1.0)           0.8           1.0
+                                                               -----          -----         -----
+  Income before income taxes ........................           12.6           12.8          13.7
+Income tax expense ..................................            5.8            5.2           5.7
+                                                               -----          -----         -----
+  Net income ........................................            6.8%           7.6%          8.0%
+                                                               =====          =====         =====
+
+PERIOD OVER PERIOD DOLLAR GROWTH
+
+Net sales ...........................................           32.1%          20.7%         10.7%
+Gross profit ........................................           32.9%          30.8%          5.9%
+Income from operations ..............................           49.6%          13.8%          3.3%
+Net income ..........................................           18.5%          13.5%          4.7%
+</TABLE>
+
+                                       14
+
+<PAGE>
+
+
+FISCAL 2000 COMPARED TO FISCAL 1999
+
+     Net sales in Fiscal 2000 increased to $276.1 million from $209.0 million in
+the prior fiscal year, a 32.1% increase. The $67.1 million increase was
+attributable to: (1) net sales increases of $39.4 million from stores opened
+during Fiscal 1999 and Fiscal 2000, (2) comparable store net sales increases of
+10%, aggregating $15.8 million, (3) direct response (catalog and e-commerce)
+revenue increases of $9.5 million, and (4) an increase of $2.4 million in net
+sales from the Wholesale company.
+
+     In Fiscal 2000, increases in the number of transactions in comparable
+stores and an increase in average sales prices resulting from reducing the level
+of lower priced items such as greeting cards, as well as a lower proportion of
+markdowns, accounted for the comparable store sales dollar increase. During
+Fiscal 2000, twelve new stores were opened, one store was relocated, and one
+store was closed due to a lease expiration. Eleven stores were opened in Fiscal
+1999. Direct response revenue growth was due to increased catalog circulation
+and web site traffic. The Company believes increased net sales from the
+Wholesale company during Fiscal 2000 were due to increased popularity of its
+fashion offerings combined with improved delivery and quality of merchandise.
+
+     Gross profit margins increased slightly to 37.8% of sales in Fiscal 2000
+from 37.6% of sales in Fiscal 1999. This increase is attributable to higher
+initial mark-ups in the Urban Retail and Anthropologie stores offset by
+increased occupancy costs and investments in additional merchandising, design
+and production staff.
+
+     Selling, general and administrative expenses decreased to 24.2% of sales in
+Fiscal 2000 from 25.6% of sales in Fiscal 1999. Aggressive store cost
+containment combined with the comparable store sales increases resulted in the
+leveraging of operating expenses in the retail segment. Additionally, direct
+response operations experienced a similar reduction in operating expense
+percentages for the year due to: (1) the significant increase in sales, (2)
+improvements in catalog production costs, and (3) the efficiencies attributable
+to moving the catalog call center in-house during the second quarter of Fiscal
+2000. The increase in sales by the Wholesale company also resulted in the
+leveraging of its operating expenses.
+
+     Other income (expense) for Fiscal 2000 includes a net charge to earnings of
+$4.4 million to reserve for the Company's portion of operating losses related to
+the minority investment in MXG Media, Inc. (see "Other Matters - MXG Media,
+Inc." below). Income tax expense for Fiscal 2000 does not include a tax benefit
+related to this reserve which, in part, has caused an increase in income tax
+expense along with the Company's effective tax rate.
+
+
+FISCAL 1999 COMPARED TO FISCAL 1998
+
+     Net sales in Fiscal 1999 increased to $209.0 million from $173.1 million in
+the prior fiscal year, a 20.7% increase. The $35.9 million increase was
+attributable to a combination of
+
+                                       15
+
+<PAGE>
+
+
+comparable store net sales increases of $15.1 million, net sales increases of
+$25.6 million from stores opened during Fiscal 1998 and Fiscal 1999, and catalog
+and e-commerce revenues of $5.7 million, offset in part by a decrease of $10.5
+million from the Wholesale company.
+
+     In Fiscal 1999, increases in the number of transactions in comparable
+stores and an increase in average sales prices resulting from a lower proportion
+of markdowns accounted for the comparable store sales dollar increase. Eleven
+new stores were opened in Fiscal 1999 and three new stores were opened in Fiscal
+1998. The Wholesale sales decrease reflected lower purchases by larger retail
+chains, as well as customer issues regarding quality, delivery and fashion,
+which have been addressed by management.
+
+     Gross profit margins increased to 37.6% of sales in Fiscal 1999 from 34.7%
+of sales in Fiscal 1998. This increase is attributable to higher initial
+mark-ups and lower markdown percentages in the Urban Retail and Anthropologie
+stores. Comparable store sales increases in existing stores offset the higher
+occupancy costs of noncomparable and new stores. Reduced sales in the wholesale
+segment necessitated an increased proportion of merchandise to be sold in the
+"off-price" sector, offsetting in part, the higher retail segment performance.
+
+     Selling, general and administrative expenses increased to 25.6% of sales in
+Fiscal 1999 from 22.0% of sales in Fiscal 1998 due to the costs incurred for the
+start-up of the catalog and European operations as well as the substantial
+negative leverage associated with the decline in wholesale segment sales. The
+increase in dollars in selling, general and administrative expenses is
+attributable to the opening of additional stores as well as the catalog
+start-up.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     During the last three years, the Company has satisfied its cash
+requirements through cash flow from operations and accumulated cash. The
+Company's primary uses of cash have been to open new stores, purchase
+inventories, and repurchase its common stock. Additionally, during the last two
+years, the Company has invested in the Anthropologie direct response effort, a
+new European subsidiary, and a direct response company aimed at teen shoppers
+(see "Other Matters - MXG Media, Inc." below). In addition to cash generated
+from operations, sources of cash have included the net proceeds from the
+exercise of certain employee stock options in each of Fiscal 2000, 1999 and
+1998. The Company expects to incur additional capital expenditures in support of
+its expansion program and the establishment of commerce capability on its
+www.urbn.com web site. Accumulated cash and future cash from operations are
+expected to fund such expansion-related uses of cash.
+
+     Although the Company has not borrowed short-term or long-term funds during
+the last five fiscal years, it maintains a line of credit of $16.2 million, all
+of which is available for cash borrowings or for the issuance of letters of
+credit. The line is unsecured and any cash borrowings under the line would
+accrue interest at a rate not to exceed LIBOR plus 1/2 of 1 percent. The Company
+uses letters of credit to purchase merchandise for the retail and wholesale
+segments.
+
+                                       16
+
+<PAGE>
+
+
+Outstanding balances of letters of credit at January 31, 2000 and 1999 were $6.6
+million and $4.1 million, respectively. There were no short-term or long-term
+borrowings outstanding at January 31, 2000 or at January 31, 1999. The Company
+expects that accumulated cash and cash from operations will be sufficient to
+meet the Company's cash needs for the next year. However, accelerated expansion
+beyond the fifteen store openings planned for Fiscal 2001 may necessitate
+borrowings on the credit line.
+
+
+OTHER MATTERS
+
+Year 2000
+
+     As of the date of this report, the Company has not incurred and is not
+expected to incur any material business disruptions as a result of Year 2000
+information technology issues.
+
+     Prior to January 1, 2000, the Company conducted a comprehensive review of
+its computer systems to identify those systems that could be affected by the
+Year 2000 issue. As a result of this review, major information technology
+systems, less critical systems and non-information technology systems,
+including those with embedded processor chips (such as heating, ventilation and
+air conditioning systems, elevators, etc.) were evaluated, modified and/or
+upgraded and tested for Year 2000 compliance prior to December 31, 1999. In
+addition, the Company evaluated the Year 2000 capabilities of its major
+suppliers and key vendors by conducting interviews, obtaining compliance letters
+and, if necessary, conducting comprehensive tests. In most circumstances, the
+information that the Company received from key suppliers and vendors indicated
+that they would be Year 2000 compliant by the end of 1999. As of the date of
+this report, the Company has not been adversely affected by a major supplier's
+or key vendor's inability to provide merchandise or services. Amounts expended
+by the Company related to Year 2000 issues were not material.
+
+Recent Accounting Pronouncements
+
+     In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 133, "Accounting for Derivative Instruments
+and Hedging Activities" ("SFAS No. 133") which is required to be adopted in
+Fiscal 2002. The Company currently enters into short-term foreign currency
+forward exchange contracts to manage exposures related to its Canadian dollar
+denominated investments and anticipated cash flow. The amounts of the contracts
+and related gains and losses have not been material. The adoption of SFAS No.
+133 is not expected to have a significant effect on the financial position or
+results of operations of the Company.
+
+
+                                       17
+
+<PAGE>
+
+
+
+MXG Media, Inc.
+
+     On February 5, 1998 the Company entered into an agreement with MXG Media,
+Inc. ("MXG," formerly HMB Publishing, Inc.) for the purchase of securities
+convertible into a minority interest in the company through Series B Convertible
+Preferred Stock and certain convertible debentures. The agreement called for
+additional investments and ownership if MXG met certain performance milestones.
+MXG publishes the "MXG magalog" and operates the www.MXGonline.com and
+www.MXGtv.com web sites, all of which cater to teenage girls.
+
+     As of January 31, 2000, the Company has invested approximately $2.0 million
+in Series B Convertible Preferred Stock and $2.4 million in convertible
+debentures. MXG has incurred losses since its inception and, accordingly, during
+Fiscal 2000, the Company has recorded reserves for its portion of operating
+losses related to the minority interest in MXG. Included in other income
+(expense) for Fiscal 2000 is a net charge to earnings of $4.4 million to fully
+reserve for the Company's investment. Additionally, from March 1999 through
+October 1999, the Company advanced $7.6 million of bridge financing to MXG in
+the form of promissory notes.
+
+     Pursuant to an agreement dated October 31, 1999, MXG received an additional
+equity investment of $26 million from USA Networks Interactive, a USA company
+(USA Networks, Inc. - NASDAQ:USAI), reducing the Company's proportionate
+ownership. On November 1, 1999, the full amount of the bridge financing of $7.6
+million was repaid with interest at 8%. The Company has no plans to increase its
+investment in MXG or advance additional funds.
+
+Subsequent Event
+
+     In January 2000, the Board of Directors approved a stock buyback program
+that authorized the Company to repurchase up to 1,000,000 of its shares. During
+the period from February 1, 2000 through February 25, 2000, in a series of
+individual open market transactions, the Company repurchased 104,700 shares of
+its common stock at a cost of $1.4 million.
+
+Forward-Looking Statements
+
+     Pursuant to the "Safe Harbor" provisions of the Private Securities
+Litigation Reform Act of 1995, this report contains forward-looking statements
+which may be identified by their use of words such as "plans," "expects,"
+"will," "anticipates," "intends," "projects," "estimates" or other words of
+similar meaning. Any one or all of the following factors could cause actual
+financial results to differ materially from those financial results mentioned in
+the forward-looking statements: industry competition factors, availability of
+suitable retail space for expansion, difficulty in predicting and responding to
+fashion trend shifts, seasonal fluctuations in gross sales, the level of returns
+experienced by the business segments, the levels of margins achievable in the
+marketplace, the departure of one or more key senior managers, and other risks
+identified in filings with the Securities and Exchange Commission. The Company
+disclaims any intent or obligation to update forward-looking statements and
+cannot guarantee that the assumptions and expectations are accurate or will be
+realized.
+
+                                       18
+
+<PAGE>
+
+
+
+SEASONALITY AND QUARTERLY RESULTS
+
+     While Urban Outfitters has been profitable in each of its last 40 operating
+quarters, its operating results are subject to seasonal fluctuations. The
+Company's highest sales levels have historically occurred during the five-month
+period from August 1 to December 31 of each year (the Back-to-School and Holiday
+periods). Sales generated during these periods have traditionally had a
+significant impact on the Company's results of operations. Any decreases in
+sales for these periods or in the availability of working capital needed in the
+months preceding these periods could have a material adverse effect on the
+Company's results of operations. The Company's results of operations in any one
+fiscal quarter are not necessarily indicative of the results of operations that
+can be expected for any other fiscal quarter or for the full fiscal year.
+
+     The Company's results of operations may also fluctuate from quarter to
+quarter as a result of the amount and timing of expenses incurred in connection
+with, and sales contributed by, new stores, store expansions and the integration
+of new stores into the operations of the Company or by the size and timing of
+catalog mailings and web site traffic for the Company's direct response
+operations. Fluctuations in the bookings and shipments of Wholesale merchandise
+between quarters can also have positive or negative effects on earnings during
+the quarters.
+
+     The following tables, which are unaudited, set forth the Company's net
+sales, gross profit, net income and income per share for each quarter during the
+last two fiscal years and the amount of such net sales and net income,
+respectively, as a percentage of annual net sales and annual net income. The
+Company has revised its manner of reporting gross profit to group certain
+buying, distribution and occupancy costs with cost of sales in order to enhance
+comparability of its results with other specialty apparel retailers. Prior
+period amounts have been reclassified to conform to the current year
+presentation.
+
+<TABLE>
+<CAPTION>
+                                                      FISCAL 1999 QUARTER ENDED
+                                          -----------------------------------------------
+                                           (Dollars in thousands, except per share data)
+
+                                       APRIL 30,       JULY 31,        OCT. 31,        JAN. 31,
+                                         1998           1998            1998             1999
+                                       -------         -------         -------         -------
+<S>                                    <C>             <C>             <C>             <C>
+Net sales .....................        $39,384         $48,068         $60,462         $61,055
+Gross profit ..................         13,855          16,980          22,956          24,827
+Net income ....................          2,100           3,440           5,035           5,185
+Net income per share - diluted         $  0.12         $  0.19         $  0.28         $  0.29
+
+AS A PERCENTAGE OF FISCAL YEAR:
+Net sales .....................             19%             23%             29%             29%
+Net income ....................             13%             22%             32%             33%
+</TABLE>
+
+
+                                       19
+
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+                                                        FISCAL 2000 QUARTER ENDED
+                                           ---------------------------------------------
+                                           (Dollars in thousands, except per share data)
+                                      APRIL 30,        JULY 31,        OCT. 31,        JAN. 31,
+                                        1999             1999           1999            2000
+                                      ---------        --------        --------        -------
+<S>                                    <C>             <C>             <C>             <C>
+Net sales .....................        $57,991         $67,976         $75,384         $74,755
+Gross profit ..................         21,428          26,296          28,668          28,058
+Net income ....................          2,950           4,097           6,100           5,533
+Net income per share - diluted         $  0.17         $  0.23         $  0.34         $  0.31
+
+AS A PERCENTAGE OF FISCAL YEAR:
+Net sales .....................             21%             25%             27%             27%
+Net income ....................             16%             22%             33%             29%
+
+</TABLE>
+
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     The Company is exposed to the following types of market risks -
+fluctuations in the purchase price of merchandise, as well as other goods and
+services; the value of foreign currencies in relation to the U.S. dollar; and
+changes in interest rates. Due to the Company's inventory turn and its
+historical ability to pass through the impact of any generalized changes in its
+cost of goods to its customers through pricing adjustments, commodity and other
+product risks are not expected to be material. The Company purchases
+substantially all its merchandise in U.S. dollars, including a portion of the
+goods for its stores located in Canada and the United Kingdom. As explained in
+the section above on "Recent Accounting Pronouncements," the market risk is
+further limited by the Company's purchase of foreign currency forward exchange
+contracts.
+
+     Since the Company has not been a borrower, its exposure to interest rate
+fluctuations is limited to the impact on its marketable securities portfolio.
+This exposure is minimized by the limited investment maturities and "put"
+options available to the Company as explained in the notes to the financial
+statements appearing elsewhere in this report. The impact of a hypothetical two
+percent increase or decrease in prevailing interest rates would not materially
+affect the Company's consolidated financial position or results of operations.
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The information required by this Item is incorporated by reference from
+Pages F-1 through F-22.
+
+
+                                       20
+
+<PAGE>
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+     On December 2, 1999, the Company replaced PricewaterhouseCoopers LLP as its
+principal accountant. For neither of the past two years has the former principal
+accountant's reports on the Company's financial statements contained an adverse
+opinion or a disclaimer of opinion, nor has its opinion been qualified or
+modified as to uncertainty, audit scope or accounting principles. The Company's
+decision to replace its principal accountant was recommended by the Audit
+Committee of the Board of Directors of the Company and approved by the Board of
+Directors. During the Company's two most recent fiscal years prior to December
+2, 1999 (Fiscal 1999 and Fiscal 1998) and through December 2, 1999, there were
+no disagreements with the former accountant on any matter of accounting
+principles or practices, financial statement disclosure or auditing scope or
+procedure, which disagreements, if not resolved to the satisfaction of the
+former accountant, would have caused it to make reference to the subject matter
+of the disagreement in connection with its report on the financial statements.
+
+     During the Company's two most recent fiscal years prior to December 2, 1999
+and through December 2, 1999, there were no reportable events (as defined in
+Regulation S-K Item 304(a)(1)(v)).
+
+     On December 2, 1999, the Company engaged Arthur Andersen LLP as its new
+principal accountant. The new principal accountant was not consulted during the
+Company's two most recent fiscal years prior to December 2, 1999 and through
+December 2, 1999 prior to its engagement regarding the application of accounting
+principles.
+
+     PricewaterhouseCoopers LLP has furnished a letter to the Securities and
+Exchange Commission (the "SEC") stating that it agrees with the statements set
+forth in the Company's previously filed Form 8-K except that
+PricewaterhouseCoopers has no basis to address whether the new principal
+accountant had been consulted during the two most recent fiscal years prior to
+December 2, 1999 and through December 2, 1999 prior to their engagement
+regarding the application of accounting principles.
+
+
+                                       21
+
+<PAGE>
+
+
+                                    PART III
+
+
+Item 10. Directors and Executive Officers of the Registrant
+
+     The Company's bylaws provide for the Board of Directors to be comprised of
+as many directors as are designated from time to time by the Board of Directors,
+which designation is presently six. Each director shall be elected for the term
+of one year and shall serve until his successor is elected and qualified. The
+officers of the corporation are elected or appointed by the Board of Directors
+and each shall serve at the pleasure of the Board.
+
+     The directors and executive officers of the Company are as follows:
+
+NAME                         AGE                 POSITION
+- ----                         ---                 --------
+Richard A. Hayne             53          Chairman of the Board of Directors and
+                                         President
+
+Stephen A. Feldman           52          Chief Financial Officer
+
+Glen A. Bodzy                47          General Counsel and Secretary
+
+Kenneth R. Bull              37          Treasurer
+
+Michael A. Schultz           46          President, Urban Outfitters
+                                         Wholesale, Inc.
+
+Glen T. Senk                 43          President, Anthropologie, Inc.
+
+Scott A. Belair (1)          52          Director
+
+Harry S. Cherken, Jr.        50          Director
+
+Kenneth K. Cleeland          59          Director
+
+Joel S. Lawson III (1)       52          Director
+
+Burton M. Sapiro             73          Director
+
+- ----------------------------------
+
+(1) Member of the Audit Committee and the Compensation Committee.
+
+                                       22
+<PAGE>
+
+
+     Mr. Hayne co-founded the Company in 1970 and has been its President and
+Chairman of the Board of Directors since the Company's incorporation in 1976.
+
+     Mr. Feldman became Chief Financial Officer of the Company in June 1998.
+Previously, for the period from January 1995 to June 1998, Mr. Feldman served as
+Executive Vice President and Chief Financial Officer of One Price Clothing
+Stores, a national chain of off-price retail women's and children's specialty
+stores.
+
+     Mr. Bodzy joined the Company as its General Counsel in December 1997 and
+was appointed Secretary in February 1999. Previously since 1985, Mr. Bodzy was
+Vice President, General Counsel and Secretary of Service Merchandise Company,
+Inc. where he was responsible for legal affairs, the store development program
+and various other corporate areas.
+
+     Mr. Bull joined the Company in April 1999 and was appointed Treasurer in
+May 1999. Previously, for the period from January 1995 to April 1999, Mr. Bull
+held the positions of Vice President, Finance and Controller for Asian American
+Partners d/b/a Eagle's Eye, a wholesaler and retailer of women's and children's
+better apparel.
+
+     Mr. Schultz has served as President of Urban Outfitters Wholesale, Inc.
+since 1986.
+
+     Mr. Senk has served as President of Anthropologie, Inc. since joining the
+company in April 1994. Prior to joining Anthropologie, Mr. Senk was Senior Vice
+President and General Merchandise Manager of Williams-Sonoma, Inc. and Chief
+Executive of the Habitat International Merchandise and Marketing Group in
+London, England.
+
+     Mr. Belair co-founded the Company in 1970, has been a director since its
+incorporation in 1976 and has served as Principal of the ZAC Group, a provider
+of financial services, during the last ten years. Previously, he was a managing
+director of Drexel Burnham Lambert Incorporated. Mr. Belair is a director and
+President of Balfour MacLaine Corporation and a director and Chief Financial
+Officer of W.P. Stewart and Company, Inc.
+
+     Mr. Cherken, a director since 1989, has been a partner in the law firm of
+Drinker Biddle & Reath LLP in Philadelphia, Pennsylvania since 1984 and served
+as a Managing Partner of that firm from February 1996 to January 2000.
+
+     Mr. Cleeland has been a director since 1998. He served as Chief Financial
+Officer and Treasurer of the Company from 1987 until May 1998. Previously, he
+was the Chief Financial Officer of MBI Business Center, Inc. and President of
+MBIF Leasing. He was also the Chief Financial Officer and Vice President of J.G.
+Hook, Inc. Mr. Cleeland has been the Principal of Wye Associates, a business
+consulting firm, since May 1998.
+
+     Mr. Lawson, a director since 1985, has, since 1980, been the Managing
+Partner and Chief Executive Officer of Howard, Lawson, & Co., an investment
+banking and corporate finance firm located in Philadelphia, Pennsylvania. He is
+also a director of Crusader Holding Corporation.
+
+                                       23
+<PAGE>
+
+
+     Mr. Sapiro, a director since 1989, has been a retail marketing consultant
+since his retirement in 1985. Previously, he was Senior Vice President/General
+Merchandise Manager and a member of the Executive Committee of both Macy's New
+York and Gimbels Philadelphia/Gimbels East. He was also a director of Macy's New
+York.
+
+
+Item 11. Executive Compensation
+
+     Information required by this item is incorporated herein by reference from
+the Company's Proxy Statement for the 2000 Annual Meeting of Shareholders.
+
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+     Information required by this item is incorporated herein by reference from
+the Company's Proxy Statement for the 2000 Annual Meeting of Shareholders.
+
+
+Item 13. Certain Relationships and Related Transactions
+
+     Information required by this item is incorporated herein by reference from
+the Company's Proxy Statement for the 2000 Annual Meeting of Shareholders.
+
+                                       24
+<PAGE>
+
+
+                                     PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+     (a)  The following documents are filed as part of this report:
+
+          (1)  Financial Statements
+
+               Financial Statements filed herewith are listed in the
+               accompanying index on page F-1.
+
+          (2)  Financial Statement Schedules                             Page
+                                                                         ----
+               Schedule II -Valuation and Qualifying Accounts             S-1
+
+All other schedules are omitted because they are not applicable or not required,
+or because the required information is included in the consolidated financial
+statements or notes thereto.
+
+          (3) Exhibits
+
+Exhibit Number                              Description
+- --------------                              -----------
+3.1                         Amended and Restated Articles of
+                            Incorporation are incorporated by
+                            reference to Exhibit 3.1 of the Company's
+                            Registration Statement on Form S-1
+                            (File No. 33-69378) filed on
+                            September 24, 1993.
+
+3.2                         Amended and Restated bylaws are
+                            incorporated by reference to Exhibit 3.2
+                            of the Company's Registration Statement
+                            on Form S-1 (File No. 33-69378)
+                            filed on September 24, 1993.
+
+10.1                        1987 Incentive Stock Option Plan is
+                            incorporated by reference to Exhibit 10.1 of
+                            the Company's Registration Statement on
+                            Form S-1 (File No. 33-69378) filed on
+                            September 24, 1993.
+
+10.2                        1992 Non-Qualified Stock Option Plan
+                            is incorporated by reference to Exhibit 10.2
+                            of the Company's Registration Statement
+                            on Form S-1 (File No. 33-69378)
+                            filed on September 24, 1993.
+
+                                       25
+<PAGE>
+
+
+10.3                        Consulting Agreement, dated September 22, 1995
+                            and effective October 1, 1995, between the
+                            Company and Burton M. Sapiro, incorporated by
+                            reference to Exhibit 10.3 of the Company's
+                            Annual Report on Form 10-K for the Fiscal
+                            year ended January 31, 1996.
+
+10.4                        Urban Outfitters, Inc. Profit-Sharing
+                            Fund is incorporated by reference to Exhibit 10.4 of
+                            the Company's Registration Statement on Form S-1
+                            (File No. 33-69378) filed on November 3, 1993.
+
+10.5                        1993 Non-Employee Directors' Non-Qualified
+                            Stock Option Plan (as amended and restated)
+                            incorporated by reference to Exhibit 10.5 of the
+                            Company's Annual Report on Form 10-K for the
+                            Fiscal year ended January 31, 1995.
+
+10.6                        1997 Stock Option Plan is incorporated by reference
+                            to Exhibit 10.6 of the Company's Annual Report on
+                            Form 10-K for the Fiscal year ended January 31,
+                            1997.
+
+10.7                        Urban Outfitters 401(k) Savings Plan is incorporated
+                            by reference to Exhibit 10.7 of the Company's
+                            Registration Statement on Form S-8 filed on August
+                            3, 1999.
+
+16.1                        Letter from PricewaterhouseCoopers LLP, dated
+                            December 8, 1999 re: change in certifying accountant
+                            is incorporated by reference to Exhibit 16.1 of the
+                            Company's Report on Form 8-K dated December 2, 1999.
+
+21.1                        List of Subsidiaries.
+
+23.1                        Consent of Arthur Andersen LLP.
+
+23.2                        Consent of PricewaterhouseCoopers LLP.
+
+
+     (b)  Reports on Form 8-K: A change in Registrant's certifying accountant
+          was reported pursuant to Item 4 of the Company's Form 8-K dated
+          December 2, 1999 and filed on December 9, 1999.
+
+                                       26
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                             URBAN OUTFITTERS, INC.
+
+                                             By: /s/ Richard A. Hayne
+                                                 --------------------
+                                                 Richard A. Hayne
+                                                 President
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+
+               SIGNATURE                                              TITLE                         DATE
+- ---------------------------------------                     ------------------------           --------------
+<S>                                                             <C>                            <C>
+/s/ Richard A. Hayne                                             Chairman of the               April 12, 2000
+- --------------------------------------                         Board, President and
+Richard A. Hayne                                                    Director
+(Principal Executive Officer)
+
+/s/ Stephen A. Feldman                                           Chief Financial               April 12, 2000
+- --------------------------------------                               Officer
+Stephen A. Feldman
+(Principal Financial Officer)
+
+/s/ Kenneth R. Bull                                                  Treasurer                 April 12, 2000
+- --------------------------------------
+Kenneth R. Bull
+(Principal Accounting Officer)
+
+/s/ Scott A. Belair                                                  Director                  April 12, 2000
+- --------------------------------------
+Scott A. Belair
+
+/s/ Harry S. Cherken, Jr.                                            Director                  April 12, 2000
+- --------------------------------------
+Harry S. Cherken, Jr.
+
+/s/ Kenneth K. Cleeland                                              Director                  April 12, 2000
+- --------------------------------------
+Kenneth K. Cleeland
+
+/s/ Joel S. Lawson III                                               Director                  April 12, 2000
+- --------------------------------------
+Joel S. Lawson III
+
+/s/ Burton M. Sapiro                                                 Director                  April 12, 2000
+- --------------------------------------
+Burton M. Sapiro
+
+</TABLE>
+
+                                       27
+<PAGE>
+
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                             URBAN OUTFITTERS, INC.
+
+
+                                                                            Page
+                                                                            ----
+
+Reports of Independent Accountants......................................F-2, F-3
+
+Consolidated Balance Sheets at January 31, 2000
+and January 31, 1999.........................................................F-4
+
+Consolidated Statements of Income for the fiscal
+years ended January 31, 2000, 1999 and 1998..................................F-5
+
+Consolidated Statements of Shareholders' Equity for the fiscal
+years ended January 31, 2000, 1999 and 1998..................................F-6
+
+Consolidated Statements of Cash Flows for the fiscal
+years ended January 31, 2000, 1999 and 1998..................................F-7
+
+Notes to Consolidated Financial Statements...................................F-8
+
+                                      F-1
+<PAGE>
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+To the Shareholders and the
+Board of Directors of Urban Outfitters, Inc.:
+
+
+We have audited the accompanying consolidated balance sheet of Urban Outfitters,
+Inc. (a Pennsylvania corporation) and subsidiaries as of January 31, 2000, and
+the related consolidated statements of income, shareholders' equity and cash
+flows for the year then ended. These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on
+these financial statements based on our audit.
+
+We conducted our audit in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audit provides a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Urban Outfitters, Inc. and
+subsidiaries as of January 31, 2000, and the results of their operations and
+their cash flows for the year then ended in conformity with accounting
+principles generally accepted in the United States.
+
+Our audit was made for the purpose of forming an opinion on the basic financial
+statements taken as a whole. The schedule listed under Item 14(a)(2) is
+presented for purposes of complying with the Securities and Exchange
+Commission's rules and is not a required part of the basic financial statements.
+This schedule has been subjected to the auditing procedures applied in our audit
+of the basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+
+
+
+
+Arthur Andersen LLP
+
+Philadelphia, PA
+March 15, 2000
+
+                                      F-2
+<PAGE>
+
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+To the Shareholders and the
+Board of Directors of Urban Outfitters, Inc.:
+
+In our opinion, the consolidated balance sheet as of January 31, 1999 and the
+related consolidated statements of income, shareholders' equity and cash flows
+for each of the two years in the period ended January 31, 1999 listed under Item
+14(a)(1) present fairly, in all material respects, the financial position,
+results of operations and cash flows of Urban Outfitters, Inc. at January 31,
+1999 and for each of the two years in the period ended January 31, 1999, in
+conformity with accounting principles generally accepted in the United States.
+In addition, in our opinion the financial statement schedule listed under Item
+14(a)(2) presents fairly, in all material respects, the information set forth
+therein when read in conjunction with the related consolidated financial
+statements. These financial statements and financial statement schedule are the
+responsibility of the Company's management; our responsibility is to express an
+opinion on these financial statements and financial statement schedule based on
+our audits. We conducted our audits of these statements in accordance with
+auditing standards generally accepted in the United States, which require that
+we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, and evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for the opinion expressed above. We have not audited the consolidated financial
+statements of Urban Outfitters, Inc. for any period subsequent to January 31,
+1999.
+
+
+
+
+
+PricewaterhouseCoopers LLP
+
+Philadelphia, PA
+March 12, 1999
+
+                                      F-3
+<PAGE>
+
+
+                             URBAN OUTFITTERS, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                 (in thousands, except share and per share data)
+
+<TABLE>
+<CAPTION>
+                                                                                           JANUARY 31,
+                                                                                      2000          1999
+                                                                                   ---------    ----------
+
+                                    ASSETS
+<S>                                                                                <C>          <C>
+Current assets:
+   Cash and cash equivalents ...................................................   $  12,727    $  25,165
+   Marketable securities .......................................................      11,225       13,032
+   Accounts receivable, net of allowance for doubtful accounts of $518 and $603,
+      respectively .............................................................       4,825        4,824
+   Inventories .................................................................      26,868       21,881
+   Prepaid expenses and other current assets ...................................       7,486        4,729
+   Deferred taxes ..............................................................       2,947        1,924
+                                                                                   ---------    ---------
+Total current assets ...........................................................      66,078       71,555
+
+Property and equipment, net ....................................................      72,819       43,066
+Marketable securities ..........................................................       8,646       12,218
+Other assets ...................................................................       5,958        6,524
+                                                                                   ---------    ---------
+                                                                                   $ 153,501    $ 133,363
+                                                                                   =========    =========
+
+                                    LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+   Accounts payable ............................................................   $  16,760    $  14,763
+   Income taxes payable ........................................................         759        1,300
+   Accrued compensation ........................................................       2,414        2,011
+   Accrued expenses and other current liabilities ..............................       8,139        6,139
+                                                                                   ---------    ---------
+Total current liabilities ......................................................      28,072       24,213
+
+   Deferred rent ...............................................................       4,513        3,856
+                                                                                   ---------    ---------
+Total liabilities ..............................................................      32,585       28,069
+                                                                                   ---------    ---------
+
+Commitments and contingencies (see note 12)
+
+Shareholders' equity:
+   Preferred shares; $.0001 par value, 10,000,000 authorized, none issued ......          --           --
+   Common shares; $.0001 par value, 50,000,000 shares authorized, 17,358,186
+      and 17,639,754 issued and outstanding, respectively ......................           2            2
+   Additional paid-in capital ..................................................      17,680       20,825
+   Retained earnings ...........................................................     103,614       84,934
+   Accumulated other comprehensive loss ........................................        (380)        (467)
+                                                                                   ---------    ---------
+Total shareholders' equity .....................................................     120,916      105,294
+                                                                                   ---------    ---------
+                                                                                   $ 153,501    $ 133,363
+                                                                                   =========    =========
+
+</TABLE>
+
+        The accompanying notes are an integral part of these statements.
+
+                                       F-4
+<PAGE>
+
+                             URBAN OUTFITTERS, INC.
+                        CONSOLIDATED STATEMENTS OF INCOME
+                 (in thousands, except share and per share data)
+
+
+<TABLE>
+<CAPTION>
+                                                       FISCAL YEAR ENDED JANUARY 31,
+                                               --------------------------------------------
+                                                    2000            1999           1998
+                                               ------------    ------------    ------------
+
+<S>                                            <C>             <C>             <C>
+Net sales ..................................   $    276,106    $    208,969    $    173,121
+Cost of Sales, Including Certain Buying,
+  Distribution and Occupancy Costs .........        171,656         130,351         113,031
+                                               ------------    ------------    ------------
+          Gross Profit .....................        104,450          78,618          60,090
+Selling, General and Administrative Expenses         66,885          53,501          38,028
+                                               ------------    ------------    ------------
+          Income From Operations ...........         37,565          25,117          22,062
+Interest Income ............................          1,791           2,126           1,772
+Other Expenses, Net ........................         (4,507)           (531)           (209)
+                                               ------------    ------------    ------------
+          Income Before Income Taxes .......         34,849          26,712          23,625
+Income Tax Expense .........................         16,169          10,952           9,745
+                                               ------------    ------------    ------------
+          Net Income .......................   $     18,680    $     15,760    $     13,880
+                                               ============    ============    ============
+
+Net Income Per Common Share:
+       Basic ...............................   $       1.07    $       0.89    $       0.79
+                                               ============    ============    ============
+       Diluted .............................   $       1.05    $       0.88    $       0.78
+                                               ============    ============    ============
+
+Weighted Average Common Shares Outstanding:
+       Basic ...............................     17,531,971      17,702,922      17,576,203
+                                               ============    ============    ============
+       Diluted .............................     17,844,356      17,929,109      17,843,873
+                                               ============    ============    ============
+</TABLE>
+
+        THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+                                       F-5
+<PAGE>
+
+
+
+                             URBAN OUTFITTERS, INC.
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                        (in thousands, except share data)
+
+<TABLE>
+<CAPTION>
+                                                                                     COMMON SHARES
+                                                             -------------------------------------------------------
+
+
+                                             COMPREHENSIVE
+                                                INCOME        NUMBER OF         PAR       ADDITIONAL        RETAINED
+                                                (LOSS)         SHARES          VALUE    PAID-IN CAPITAL     EARNINGS
+                                             ------------    ----------        -----    ---------------     --------
+<S>                                          <C>               <C>          <C>             <C>              <C>
+Balances at January 31, 1997 .............                   17,528,698        $   2        $20,396         $ 55,294
+
+Net income ...............................   $     13,880            --           --             --           13,880
+Foreign currency translation .............           --              --           --             --               --
+                                             ------------
+Comprehensive income .....................   $     13,880
+                                             ============
+Exercise of stock options ................                      120,662           --            558               --
+Tax effect of exercises ..................           --              --           --            528               --
+                                                             ----------        -----        -------         --------
+Balances at January 31, 1998 .............                   17,649,360            2         21,482           69,174
+
+Net income ...............................   $     15,760            --           --             --           15,760
+Foreign currency translation .............           (467)           --           --             --               --
+                                             ------------
+Comprehensive income .....................   $     15,293
+                                             ============
+Exercise of stock options ................                      157,594           --            688               --
+Tax effect of exercises ..................           --              --           --            909               --
+Purchase and retirement of common shares .                     (167,200)          --         (2,254)              --
+                                                             ----------        -----        -------         --------
+Balances at January 31, 1999 .............                   17,639,754            2         20,825           84,934
+
+Net income ...............................   $     18,680            --           --             --           18,680
+Foreign currency translation .............             87            --           --             --               --
+                                             ------------
+Comprehensive income .....................   $     18,767
+                                             ============
+Exercise of stock options ................                      366,032           --          3,947               --
+Tax effect of exercises ..................                           --           --          1,623               --
+Purchase and retirement of common shares .                     (647,600)          --         (8,715)              --
+                                                             ----------        -----        -------         --------
+Balances at January 31, 2000 .............                   17,358,186        $   2        $17,680         $103,614
+                                                             ==========        =====        =======         ========
+
+</TABLE>
+
+
+
+
+<TABLE>
+<CAPTION>
+
+
+                                               ACCUMULATED
+                                                 OTHER
+                                              COMPREHENSIVE
+                                                 INCOME
+                                                 (LOSS)         TOTAL
+                                              -------------   ---------
+<S>                                           <C>            <C>
+Balances at January 31, 1997 .............      $    --       $  75,692
+
+Net income ...............................           --          13,880
+Foreign currency translation .............           --              --
+
+Comprehensive income .....................
+
+Exercise of stock options ................           --             558
+Tax effect of exercises ..................          528
+                                                 ------       ---------
+Balances at January 31, 1998 .............           --          90,658
+
+Net income ...............................           --          15,760
+Foreign currency translation .............         (467)           (467)
+
+Comprehensive income .....................
+
+Exercise of stock options ................           --             688
+Tax effect of exercises ..................           --             909
+Purchase and retirement of common shares .           --          (2,254)
+                                                 ------       ---------
+Balances at January 31, 1999 .............         (467)        105,294
+
+Net income ...............................           --          18,680
+Foreign currency translation .............           87              87
+
+Comprehensive income .....................
+
+Exercise of stock options ................           --           3,947
+Tax effect of exercises ..................           --           1,623
+Purchase and retirement of common shares .           --          (8,715)
+                                                 ------       ---------
+Balances at January 31, 2000 .............       $ (380)      $ 120,916
+                                                 ======       =========
+
+</TABLE>
+
+
+
+        The accompanying notes are an integral part of these statements.
+
+                                       F-6
+<PAGE>
+
+
+
+                             URBAN OUTFITTERS, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                             FISCAL YEAR ENDED JANUARY 31,
+                                                                           --------------------------------
+                                                                             2000        1999        1998
+                                                                           --------    --------    --------
+<S>                                                                        <C>         <C>         <C>
+Cash flows from operating activities:
+   Net income ..........................................................   $ 18,680    $ 15,760    $ 13,880
+   Adjustments to reconcile net income to net cash provided by operating
+   activities:
+      Depreciation and amortization ....................................      8,667       5,621       4,588
+      Provision for losses of MXG Media, Inc. ..........................      4,354        --          --
+      Provision for deferred income taxes ..............................     (3,702)       (561)       (794)
+      Recovery of bad debts ............................................        (85)        (13)        (27)
+      Changes in assets and liabilities:
+         Decrease (increase) in receivables ............................         84        (314)     (1,643)
+         Increase in inventory .........................................     (4,987)     (4,753)       (163)
+         (Increase) decrease in prepaid expenses and other assets ......     (3,266)        474         249
+         Increase in payables, accrued expenses and other liabilities ..      4,516      11,030       2,783
+                                                                           --------    --------    --------
+   Net cash provided by operating activities ...........................     24,261      27,244      18,873
+                                                                           --------    --------    --------
+
+Cash flows from investing activities:
+      Capital expenditures .............................................    (38,149)    (21,521)     (6,272)
+      Purchases of marketable securities available-for-sale ............     (6,872)     (3,110)     (8,075)
+      Sales of marketable securities available-for-sale ................      5,411       1,900       6,100
+      Purchases of marketable securities held-to-maturity ..............     (5,287)    (11,068)     (9,333)
+      Maturities of marketable securities held-to-maturity .............     11,856       9,886       9,752
+      Advances to MXG Media, Inc. ......................................     (8,150)     (3,754)       --
+      Repayment of advances by MXG Media, Inc. .........................      7,550        --          --
+                                                                           --------    --------    --------
+   Net cash used in investing activities ...............................    (33,641)    (27,667)     (7,828)
+                                                                           --------    --------    --------
+
+Cash flows from financing activities:
+     Exercise of stock options .........................................      5,570       1,597       1,086
+     Purchases and retirement of common stock ..........................     (8,715)     (2,254)       --
+                                                                           --------    --------    --------
+   Net cash (used in) provided by financing activities .................     (3,145)       (657)      1,086
+                                                                           --------    --------    --------
+
+Effect of exchange rate changes on cash and cash equivalents ...........         87        (467)       --
+                                                                           --------    --------    --------
+
+(Decrease) increase in cash and cash equivalents .......................    (12,438)     (1,547)     12,131
+
+Cash and cash equivalents at beginning of period .......................     25,165      26,712      14,581
+                                                                           --------    --------    --------
+Cash and cash equivalents at end of period .............................   $ 12,727    $ 25,165    $ 26,712
+                                                                           ========    ========    ========
+
+Supplemental cash flow information: Cash paid during the year for:
+      Interest .........................................................   $      7    $      6    $     29
+                                                                           ========    ========    ========
+      Income taxes .....................................................   $ 18,423    $  8,843    $  9,668
+                                                                           ========    ========    ========
+</TABLE>
+
+        The accompanying notes are an integral part of these statements.
+
+                                       F-7
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+
+1. NATURE OF BUSINESS
+
+     Urban Outfitters, Inc., which was founded in 1970 and originally operated
+by a predecessor partnership, was incorporated in the state of Pennsylvania in
+1976. The principal business activity of the Company is the operation of a
+general consumer product retail business through retail stores, a catalog and
+two web sites. As of January 31, 2000 and 1999, the Company operated 57 and 46
+stores, respectively. In addition, the Company engages in the wholesale
+distribution of apparel to over 1,300 better specialty retailers worldwide.
+
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Fiscal Year-End
+
+     The Company operates on a fiscal year ending January 31 of each year.
+
+Principles of Consolidation
+
+     The consolidated financial statements include the accounts of Urban
+Outfitters, Inc. and its wholly-owned subsidiaries. All significant intercompany
+transactions and accounts have been eliminated in consolidation.
+
+Use of Estimates
+
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of net sales and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+Cash and Cash Equivalents
+
+     Cash and cash equivalents are defined as cash and highly liquid investments
+with original maturities of less than three months. At January 31, 2000 and
+1999, cash and cash equivalents include cash on hand, cash in banks, money
+market accounts and commercial paper.
+
+Marketable Securities
+
+     The Company's debt securities are classified as either held-to-maturity or
+available-for-sale. Held-to-maturity securities represent those securities that
+the Company has both the intent and ability to hold to maturity and are carried
+at amortized cost. Interest on these securities as
+
+                                       F-8
+
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+well as amortization is included in interest income. Available-for-sale
+securities represent those securities that do not meet the classification of
+held-to-maturity, are not actively traded and are carried at amortized cost
+which approximates fair value. Unrealized gains and losses on these securities
+are excluded from earnings and are reported as a separate component of
+shareholders' equity, net of applicable taxes, until realized. Gross unrealized
+gains and losses, net of the related deferred taxes, have not been material.
+When available-for-sale securities are sold, the cost of the securities is
+specifically identified and is used to determine the realized gain or loss.
+These amounts have not been material.
+
+Inventories
+
+     Inventories, which consist primarily of general consumer merchandise held
+for sale, are valued at the lower of cost or market. The cost is determined on
+the first-in, first-out method and includes the cost of merchandise and freight.
+
+Property and Equipment
+
+     Property and equipment are stated at cost. Depreciation and amortization
+are computed using the straight-line method over five years for furniture and
+fixtures, "life of lease" for leasehold improvements and three to ten years for
+other operating equipment.
+
+     The Company reviews long-lived assets for possible impairment whenever
+events or changes in circumstances indicate the carrying amount may not be
+recoverable. This determination includes evaluation of factors such as current
+market value, future asset utilization and future net undiscounted cash flows
+expected to result from the use of the assets. Management believes there has
+been no impairment of the Company's long-lived assets as of January 31, 2000.
+
+Deferred Rent
+
+     Rent expense on leases is recorded on a straight-line basis over the lease
+period. The excess of rent expense over the actual cash paid is recorded as
+deferred rent.
+
+Revenue Recognition
+
+     Revenue is recognized at the point of sale for retail store sales or when
+merchandise is shipped to customers for wholesale and direct response sales, net
+of estimated customer returns. Deposits for custom orders are recorded as a
+liability and recognized as a sale upon delivery of the merchandise to the
+customer. These custom orders, typically for upholstered furniture, have not
+been material. Gift certificate sales to customers are initially recorded as
+liabilities and recognized as sales upon redemption for merchandise.
+
+                                       F-9
+
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+Advertising
+
+     The Company expenses the costs of advertising when the advertising occurs,
+except for direct response advertising, which is capitalized and amortized over
+its expected period of future benefit. Advertising costs reported as prepaid
+expenses were $1,642 and $732 as of January 31, 2000 and 1999, respectively.
+Advertising expenses were $6,309 and $4,486 for the fiscal years ended January
+31, 2000 and 1999. Advertising expenses incurred for the fiscal year ended
+January 31, 1998 were immaterial.
+
+Start-up Costs
+
+     The Company has adopted Financial Accounting Standards Board Statement of
+Position 98-5, "Reporting on the Costs of Start-up Activities," which was
+effective for Fiscal 2000. The Company expenses as incurred all start-up and
+organization costs, including travel, training, recruiting, salaries and other
+operating costs. Previously, for Fiscal 1999 and 1998, the Company deferred
+pre-operating costs until the store opened. The amounts deferred were then
+amortized over the lesser of six months or the remainder of the Company's fiscal
+year. This accounting change did not have a material effect on the Company's
+results or the presentation of comparable financial statements.
+
+Income Taxes
+
+     The Company utilizes the asset and liability method of accounting for
+income taxes. Under this method, deferred tax assets and liabilities are
+recognized for the expected future tax consequences of temporary differences
+between the carrying amounts and the tax bases of assets and liabilities.
+
+Net Income Per Share
+
+     Basic earnings per share is computed by dividing net income available to
+common shareholders by the weighted average number of common shares outstanding.
+Diluted earnings per share is computed based upon the weighted average number of
+common shares outstanding and the potential dilution that could occur if stock
+options were exercised.
+
+Accounting for Stock-Based Compensation
+
+     The Company accounts for stock-based compensation under the provisions of
+Accounting Principles Board Opinion (APB) No. 25, "Accounting for Stock Issued
+to Employees." The Company has adopted the disclosure requirements of Statement
+of Financial Accounting Standards (SFAS) No. 123, "Accounting for Stock-Based
+Compensation" (see Note 10).
+
+                                      F-10
+
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+Accumulated Other Comprehensive Income (Loss)
+
+     Comprehensive income is comprised of two subsets - net income and other
+comprehensive income (loss). All amounts in accumulated other comprehensive
+income (loss) relate to foreign currency translation adjustments. The foreign
+currency translation adjustments are not adjusted for income taxes since these
+adjustments related to indefinite investments in non-U.S. subsidiaries.
+
+Foreign Currency Translation
+
+     The financial statements of the Company's foreign operations are translated
+into U.S. dollars. Assets and liabilities are translated at current exchange
+rates while income and expense accounts are translated at the average rates in
+effect during the year. Translation adjustments are not included in determining
+net income, but are included in accumulated other comprehensive income (loss)
+within shareholders' equity.
+
+Fair Value of Financial Instruments
+
+     The Company's financial instruments consist primarily of cash and cash
+equivalents, accounts receivable, accounts payable and accrued liabilities. The
+carrying value of these assets and liabilities are considered to be
+representative of their respective fair values (see also "Marketable Securities"
+section above).
+
+Concentration of Credit Risk
+
+     Financial instruments that potentially subject the Company to
+concentrations of credit risk consist principally of cash equivalents, accounts
+receivable and investments. The Company manages the credit risk associated with
+cash equivalents and investments by investing with high-quality institutions
+and, by policy, limiting the amount of credit exposure to any one institution.
+Receivables with third party credit cards are processed by financial
+institutions which are monitored for financial stability. The Company
+periodically evaluates the financial condition of its wholesale segment
+customers. The Company's allowance for doubtful accounts reflects current market
+conditions and management's assessment regarding the collectability of its
+receivables.
+
+Reclassifications
+
+     Certain reclassifications have been made to the prior years' consolidated
+financial statements to conform with the current year presentation.
+
+                                      F-11
+
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+Recent Accounting Pronouncements
+
+     In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 133, "Accounting for Derivative Instruments
+and Hedging Activities" ("SFAS No. 133") which is required to be adopted in
+Fiscal 2002. The Company currently enters into short-term foreign currency
+forward exchange contracts to manage exposures related to its Canadian dollar
+denominated investments and anticipated cash flow. The amounts of these
+contracts and related gains and losses have not been material. The adoption of
+SFAS No. 133 is not expected to have a significant effect on the financial
+position or results of operations of the Company.
+
+
+3. MARKETABLE SECURITIES
+
+     The amortized cost and estimated fair value of the marketable securities
+are as follows:
+
+<TABLE>
+<CAPTION>
+                                                    JANUARY 31, 2000           JANUARY 31, 1999
+                                                  ---------------------     ---------------------
+                                                  AMORTIZED      FAIR       AMORTIZED       FAIR
+                                                    COST         VALUE        COST         VALUE
+                                                  ---------     -------     ---------     -------
+<S>                                                <C>          <C>          <C>          <C>
+CURRENT PORTION
+   HELD-TO-MATURITY
+     Tax-exempt municipal securities ........      $ 5,938      $ 5,938      $ 9,206      $ 9,273
+   AVAILABLE-FOR-SALE
+     Tax-exempt municipal securities, putable        5,287        5,312        3,826        3,844
+                                                   -------      -------      -------      -------
+   Total current marketable securities ......       11,225       11,250       13,032       13,117
+                                                   -------      -------      -------      -------
+
+NONCURRENT PORTION
+   HELD-TO-MATURITY
+     Tax-exempt municipal securities ........        8,646        8,545       12,218       12,367
+                                                   -------      -------      -------      -------
+
+TOTAL MARKETABLE SECURITIES .................      $19,871      $19,795      $25,250      $25,484
+                                                   =======      =======      =======      =======
+</TABLE>
+
+
+     The noncurrent portion of investments held-to-maturity has contractual
+maturities of one to four years. The investments available-for-sale have
+contractual maturities greater than one year. Actual maturities may differ from
+contractual maturities as a result of put and call options that enable either
+the Company and/or the issuer to redeem particular securities at an earlier
+date. The fair value of the securities is determined based upon market prices.
+
+
+                                      F-12
+
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+4. INVENTORIES
+
+     Inventory is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                                          JANUARY 31,
+                                                                -----------------------------
+                                                                   2000                1999
+                                                                ---------            --------
+<S>                                                             <C>                  <C>
+     Work-in-process.................................           $     191            $    711
+     Finished goods..................................              26,677              21,170
+                                                                ---------            --------
+                  TOTAL..............................           $  26,868            $ 21,881
+                                                                =========            ========
+</TABLE>
+
+
+5. PROPERTY AND EQUIPMENT
+
+     Property and equipment is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                                          JANUARY 31,
+                                                                -----------------------------
+                                                                   2000                1999
+                                                                ---------            --------
+<S>                                                             <C>                  <C>
+     Land............................................           $     543            $    543
+     Furniture and fixtures..........................              24,884              17,901
+     Construction in progress........................               4,938               2,520
+     Leasehold improvements..........................              68,246              42,525
+     Other operating equipment.......................               4,899               2,888
+                                                                ---------            --------
+                                                                  103,510              66,377
+     Accumulated depreciation
+            and amortization.........................             (30,691)            (23,311)
+                                                                ---------            --------
+                     TOTAL...........................           $  72,819            $ 43,066
+                                                                =========            ========
+</TABLE>
+
+
+6. INVESTMENT IN MXG MEDIA, INC.
+
+     On February 5, 1998 the Company entered into an agreement with MXG Media,
+Inc. ("MXG," formerly HMB Publishing, Inc.) for the purchase of securities
+convertible into a minority interest in the company through Series B Convertible
+Preferred Stock and certain convertible debentures. The agreement called for
+additional investments and ownership if MXG met certain performance milestones.
+MXG publishes the "MXG magalog" and operates the www.MXGonline.com and
+www.MXGtv.com web sites, all of which cater to teenage girls.
+
+     As of January 31, 2000, the Company has invested approximately $2.0 million
+in Series B Convertible Preferred Stock and $2.4 million in convertible
+debentures. MXG has incurred losses since its inception and in accordance with
+the equity method of accounting, during Fiscal 2000, the Company has recorded
+reserves for its portion of operating losses related to the minority interest in
+MXG. Included in other income (expense) for Fiscal 2000 is a net charge to
+
+                                      F-13
+
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+earnings of $4.4 million to fully reserve for the Company's investment.
+Additionally, from March 1999 through October 1999, the Company advanced $7.6
+million of bridge financing to MXG in the form of promissory notes.
+
+     Pursuant to an agreement dated October 31, 1999, MXG received an additional
+equity investment of $26 million from USA Networks Interactive, a USA company
+(USA Networks, Inc. - NASDAQ:USAI), reducing the Company's proportionate
+ownership. On November 1, 1999, the full amount of the bridge financing of $7.6
+million was repaid with interest at 8%.
+
+
+7. ACCRUED EXPENSES
+
+         Accrued expenses consist of the following:
+<TABLE>
+<CAPTION>
+                                                                               JANUARY 31,
+                                                                      ---------------------------
+                                                                        2000               1999
+                                                                      -------             -------
+<S>                                                                   <C>                 <C>
+         Accrued sales taxes.................................         $   819             $   956
+         Accruals for construction in progress...............           1,727               1,223
+         Gift certificates...................................           1,853               1,191
+         Other current liabilities...........................           3,740               2,769
+                                                                      -------             -------
+                         TOTAL...............................         $ 8,139             $ 6,139
+                                                                      =======             =======
+</TABLE>
+
+
+8. LINE OF CREDIT
+
+     The Company has available a $16,200 revolving line of credit to facilitate
+letter of credit transactions and cash advances, which renews annually. Interest
+on outstanding balances is payable monthly based on a rate not to exceed the
+London Interbank Offered Rate plus 1/2%. No amounts were borrowed under this
+line in Fiscal 2000 and Fiscal 1999. Outstanding letters of credit totaled
+$6,607 and $4,096 as of January 31, 2000 and 1999, respectively. These letters
+of credit, which have terms from one month to one year, collateralize the
+Company's obligation to third parties for the purchase of inventory. The fair
+value of these letters of credit is estimated to be the same as the contract
+values.
+
+                                      F-14
+
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+9. INCOME TAXES
+
+     The components of income before income taxes are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                   FISCAL YEAR ENDED JANUARY 31,
+                                                         ------------------------------------------------
+                                                           2000                1999                1998
+                                                         --------            --------            --------
+<S>                                                      <C>                 <C>                 <C>
+Domestic....................................             $ 34,520            $ 25,617            $ 24,399
+Foreign.....................................                  329               1,095                (774)
+                                                         --------            --------            --------
+                                                         $ 34,849            $ 26,712            $ 23,625
+                                                         ========            ========            ========
+</TABLE>
+
+     The components of the provision for income taxes are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                   FISCAL YEAR ENDED JANUARY 31,
+                                                         ------------------------------------------------
+                                                           2000                1999                1998
+                                                         --------            --------            --------
+<S>                                                      <C>                 <C>                 <C>
+Current:
+  Federal...................................             $ 14,104            $  9,069            $  8,433
+  State.....................................                5,061               1,955               2,106
+  Foreign...................................                  706                 489                  --
+                                                         --------            --------            --------
+                                                           19,871              11,513              10,539
+                                                         --------            --------           ---------
+Deferred:
+  Federal...................................               (3,865)               (494)               (499)
+  State.....................................               (1,406)                (98)                (32)
+  Foreign ..................................                 (249)                 31                (263)
+                                                         --------            --------            --------
+                                                           (5,520)               (561)               (794)
+                                                         --------            --------            --------
+Valuation allowance.........................                1,818                  --                  --
+                                                         --------            --------            --------
+                                                         $ 16,169           $  10,952            $  9,745
+                                                         ========           =========            ========
+</TABLE>
+
+     The effective tax rate was different than the statutory U.S. federal income
+tax rate for the following reasons:
+
+<TABLE>
+<CAPTION>
+                                                                        FISCAL YEAR ENDED JANUARY 31,
+                                                                      ------------------------------------
+                                                                      2000            1999            1998
+                                                                      ----            ----            ----
+<S>                                                                    <C>             <C>             <C>
+Expected provision
+   at federal statutory rate................................           35%             35%             35%
+State and local income taxes,
+   net of federal tax benefit...............................            7               6               6
+Non-deductible expenses relating to
+   provision for investment in MXG Media, Inc.,
+   and other................................................            4               --             --
+                                                                       ---              ---            ---
+Effective rate..............................................           46%              41%            41%
+                                                                       ==               ==             ===
+</TABLE>
+
+
+                                      F-15
+
+<PAGE>
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+         The significant components of deferred tax assets and liabilities at
+January 31, 2000 and 1999 are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                     2000              1999
+                                                                   -------           -------
+<S>                                                               <C>                 <C>
+Deferred tax liability:
+  Prepaid expenses.............................................    $   (82)          $ (303)
+
+Deferred tax assets:
+  Depreciation and deferred rent...............................      4,860            2,640
+  Inventory....................................................      2,998            1,687
+  Provision for investment in MXG Media, Inc...................      1,818               --
+  Accounts receivable..........................................        216              461
+  Net operating loss carryforwards.............................        481              232
+  Accrued salaries and benefits, and other.....................         53              107
+                                                                   -------           ------
+Gross deferred tax assets, before valuation....................     10,344            4,824
+Valuation allowance............................................     (1,818)              --
+                                                                   -------           ------
+Net deferred tax assets........................................    $ 8,526           $4,824
+                                                                   =======           ======
+</TABLE>
+
+     At January 31, 2000, a non-U.S. subsidiary of the Company had net operating
+loss carry forwards for tax purposes of approximately $1,400 that do not expire.
+At January 31, 2000 and 1999, the noncurrent portion of deferred tax assets
+aggregating $5,579 and $2,900, respectively, is included in other assets.
+
+     The cumulative amount of the Company's share of undistributed earnings of
+non-U.S. subsidiaries for which no deferred taxes have been provided was $2,247
+as of January 31, 2000. These earnings are deemed to be permanently reinvested
+to finance growth programs.
+
+     In Fiscal 2000, the Company provided a full valuation allowance for
+deferred tax assets relating to its provision for investment in MXG Media, Inc.
+
+
+                                      F-16
+
+<PAGE>
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+10. STOCK OPTION PLANS
+
+     The 1997 Stock Option Plan authorizes up to an aggregate of 1,250,000
+common shares which can be granted as either incentive stock options or
+nonqualified stock options. The vesting periods for this Plan can range from one
+to ten years. This 1997 Plan replaced the previous 1987, 1992 and 1993 Plans
+which were precluded from making additional grants due either to expiration or
+insufficient available shares. Individual grants outstanding under certain of
+the superseded plans, however, have expiration dates which extend into the year
+2008. As of January 31, 2000, 340,500 shares of common stock were available for
+grant under the 1997 Stock Option Plan.
+
+     The Company applies Accounting Principles Board opinion No. 25, "Accounting
+for Stock Issued to Employees," and related interpretations in accounting for
+its plans. Accordingly, no compensation expense has been recognized for its
+stock-based compensation plans. Had compensation cost for the Company's stock
+option plans been determined based upon the fair value at the grant date for
+awards under these plans consistent with the methodology prescribed under SFAS
+No. 123, "Accounting for Stock-Based Compensation," the Company's net income and
+net income per common share would have been reduced in 2000, 1999 and 1998 as
+follows:
+
+<TABLE>
+<CAPTION>
+
+                                                          FOR THE YEAR ENDED JANUARY 31,
+                                                    ------------------------------------------
+                                                      2000             1999             1998
+                                                    --------         --------          -------
+<S>                                                 <C>              <C>               <C>
+Net income - as reported                            $18,680          $15,760           $13,880
+Net income - pro forma                              $16,460          $14,412           $12,693
+Net income per share - diluted - as reported        $  1.05          $  0.88           $  0.78
+Net income per share - diluted - pro forma          $  0.92          $  0.80           $  0.72
+</TABLE>
+
+
+     The pro forma results may not be representative of the effects on reported
+operations for future years.
+
+     The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option-pricing model with the following weighted average
+assumptions:
+
+<TABLE>
+<CAPTION>
+                                                     FISCAL 2000       FISCAL 1999      FISCAL 1998
+                                                     ------------      -----------      -----------
+<S>                                                  <C>               <C>              <C>
+         Expected life                               6.7 years           7.0 years         6.7 years
+         Risk-free interest rate                        5.7%                5.8%              6.9%
+         Volatility                                    53.8%               50.0%             50.7%
+         Dividend rate                                    0%                  0%                0%
+</TABLE>
+
+
+
+
+                                      F-17
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+     Information regarding these option plans for Fiscal 2000, 1999, and 1998 is
+as follows:
+
+<TABLE>
+<CAPTION>
+
+                                             FY 2000                      FY 1999                       FY 1998
+                                  ---------------------------  ---------------------------  --------------------------
+                                                  WEIGHTED                    WEIGHTED                     WEIGHTED
+                                                   AVERAGE                     AVERAGE                      AVERAGE
+FIXED OPTIONS                        SHARES    EXERCISE PRICE    SHARES     EXERCISE PRICE     SHARES   EXERCISE PRICE
+- -------------                        ------    --------------    ------     --------------     ------   --------------
+<S>                                <C>         <C>             <C>          <C>           <C>            <C>
+Options outstanding at
+ beginning of year                 1,702,500      $ 12.63       1,305,094      $ 10.60       1,010,756      $   9.50
+Options granted                      334,500        21.71         565,500        15.10         415,000         11.54
+Options exercised                   (366,032)       10.78        (157,594)        4.37        (120,662)         4.62
+Options canceled                    (176,168)       11.35        (10,500)        12.61               -           n/a
+                                  -----------                  ----------                   ----------
+Options outstanding at
+ end of year                       1,494,800        13.34       1,702,500        12.63       1,305,094         10.60
+                                  ==========                   ==========                   ==========
+Options exercisable at
+ end of year                         442,233                      614,999                      603,426
+                                  ==========                   ==========                   ==========
+Weighted average fair
+ value of grants per
+ share                            $    13.20                   $     8.49                   $     6.89
+                                  ==========                   ==========                   ==========
+</TABLE>
+
+
+     The following table summarizes information concerning currently outstanding
+and exercisable options:
+
+<TABLE>
+<CAPTION>
+
+                                       OPTIONS OUTSTANDING                                       OPTIONS EXERCISABLE
+                        --------------------------------------------------                 -------------------------------
+                           AMOUNT                WTD. AVG.       WTD. AVG.                   AMOUNT               WTD. AVG.
+    RANGE OF            OUTSTANDING              REMAINING       EXERCISE                  EXERCISABLE            EXERCISE
+EXERCISE PRICES          AT 1/31/00          CONTRACTUAL LIFE     PRICE                    AT 1/31/00               PRICE
+- ---------------          ----------          ----------------     -----                    ----------               -----
+<S>                     <C>                  <C>                 <C>                       <C>                    <C>
+$ 8.27 - $11.03            297,800                  6.5           $10.40                      73,800                $9.73
+$11.03 - $13.78            218,000                  4.3           $11.67                     206,000               $11.57
+$13.78 - $16.54            658,500                  8.2           $14.74                      67,433               $15.40
+$16.54 - $19.29             85,000                  8.3           $17.17                      55,000               $16.80
+$19.29 - $22.05             40,000                  6.3           $20.88                      40,000               $20.88
+$24.80 - $27.56            195,500                  9.3           $26.92                           -                 -
+</TABLE>
+
+
+
+
+
+
+                                      F-18
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+11. NET INCOME PER SHARE
+
+     The following is a reconciliation of the denominators of the net income per
+share and net income per share -- assuming dilution ("EPS") computations:
+
+
+<TABLE>
+<CAPTION>
+                                                              FISCAL YEAR ENDED JANUARY 31,
+                                                   -----------------------------------------------
+                                                      2000              1999               1998
+                                                      ----              ----               ----
+<S>                                                <C>               <C>                <C>
+Basic weighted average
+   shares outstanding..............                17,531,971        17,702,922         17,576,203
+Effect of dilutive options.........                   312,385           226,187            267,670
+                                                   ----------        ----------         ----------
+Diluted weighted average
+   shares outstanding..............                17,844,356        17,929,109         17,843,873
+                                                   ==========        ==========         ==========
+</TABLE>
+
+
+
+     Options to purchase 50,000 shares at $27.56 per share, 40,000 shares at
+$20.88 per share, 50,000 shares at $26.19 per share and 95,500 shares at $26.97
+per share were outstanding during Fiscal 2000, but were not included in the
+computation of diluted EPS because the options' exercise prices were greater
+than the average market price of the common shares.
+
+     Options to purchase 40,000 shares at $20.88 per share and 10,000 shares at
+$17.69 per share were outstanding during Fiscal 1999, but were not included in
+the computation of diluted EPS because the options' exercise prices were greater
+than the average market price of the common shares.
+
+     Options to purchase 40,000 shares at $20.88 per share, 10,000 shares at
+$17.69 per share, 35,000 shares at $16.88 per share and 69,500 shares at $15.19
+per share were outstanding during Fiscal 1998, but were not included in the
+computation of diluted EPS because the options' exercise price was greater than
+the average market price of the common shares.
+
+
+
+                                      F-19
+<PAGE>
+
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+12. COMMITMENTS AND CONTINGENCIES
+
+     Leases
+
+     The Company leases its stores under noncancelable operating leases. The
+following is a schedule by year of the future minimum lease payments for
+operating leases with terms in excess of one year:
+
+FISCAL YEAR
+- -----------
+2001..................................................           25,453
+2002..................................................           28,307
+2003..................................................           27,745
+2004..................................................           27,233
+2005..................................................           26,399
+Thereafter............................................          119,660
+                                                              ---------
+Total minimum lease payments..........................        $ 254,797
+                                                              =========
+
+
+     Subsequent to year end, the Company entered into leases for additional
+locations. Commitments related to these leases are included above.
+
+     The store leases generally provide for payment of direct operating costs
+including real estate taxes. Certain store leases provide for contingent rentals
+when sales exceed specified levels.
+
+
+
+         Rent expense consisted of the following:
+
+                                              FISCAL YEAR ENDED JANUARY 31,
+                                            ----------------------------------
+
+                                             2000          1999         1998
+                                             ----          ----         ----
+    Minimum rentals................         $18,591       $14,110      $11,631
+    Contingent rentals.............             441           484          380
+                                            -------       -------      -------
+           Total ..................         $19,032       $14,594      $12,011
+                                            =======       =======      =======
+
+
+                                      F-20
+
+<PAGE>
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+     Benefit Plan
+
+     Urban Outfitters 401(k) Savings Plan (formerly known as the Urban
+Outfitters, Inc. Profit-Sharing Fund prior to July 1, 1999) covers all employees
+who are at least 18 years of age and have completed six months of service. Under
+the plan, employees can defer 1% to 20% of compensation as defined. The Company
+will make matching contributions of $0.25 per employee contribution dollar on
+the first 6% of employee contribution. The employees' contribution is 100%
+vested while the Company's matching contribution vests at 20% per year of
+employee service. The Company's contributions were $142 and $198 for the years
+ended January 31, 2000 and January 31, 1999, respectively. No contribution was
+made by the Company for the fiscal year ended January 31, 1998.
+
+     Contingencies
+
+     The Company is party to various legal proceedings arising from normal
+business activities. Management believes that the ultimate resolution of these
+matters will not have a material adverse effect on the Company's financial
+condition or results of operations.
+
+
+13. SUBSEQUENT EVENT
+
+     In January 2000, the Board of Directors approved a stock buyback program
+that authorized the Company to repurchase up to 1,000,000 of its shares. During
+the period from February 1, 2000 through February 25, 2000, in a series of
+individual open market transactions, the Company repurchased 104,700 shares of
+its common stock at a cost of $1.4 million.
+
+
+14. SEGMENT REPORTING
+
+     Urban Outfitters is a national retailer of lifestyle-oriented general
+merchandise through 57 stores operating under the retail names "Urban
+Outfitters" and "Anthropologie," and through a catalog and two web sites. Sales
+from this retail segment account for over 90% of total consolidated sales for
+the fiscal years ended January 31, 2000 and 1999 and over 80% for the fiscal
+year ended January 31, 1998. The remainder is derived from a wholesale division
+that manufactures and distributes apparel to the retail segment and to over
+1,300 better specialty retailers worldwide.
+
+     The Company has aggregated its operations into these two reportable
+segments based upon their unique management, customer base and economic
+characteristics. Reporting in this format provides management with the financial
+information necessary to evaluate the success of the segments and the overall
+business. The Company evaluates the performance of the segments based on the net
+sales and pre-tax income from operations (excluding intercompany royalty and
+interest charges) of the segment. Corporate expenses include expenses incurred
+in and directed by the corporate office that are not allocated to segments. The
+principal identifiable assets for each operating segment are inventory and fixed
+assets. Other assets are comprised primarily of
+
+                                      F-21
+
+<PAGE>
+
+
+URBAN OUTFITTERS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+general corporate assets, which principally consist of cash and cash
+equivalents, marketable securities and other assets. The Company accounts for
+intersegment sales and transfers as if the sales and transfers were made to
+third parties making similar volume purchases.
+
+     Both the retail and wholesale segment are highly diversified. No customer
+comprises more than 10% of sales. Foreign operations are immaterial relative to
+the overall Company.
+
+     The accounting policies of the operating segments are the same as the
+policies described above in Note 2, "Summary of Significant Accounting
+Policies". A summary of the information about the Company's operations by
+segment is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                  FISCAL YEAR
+                                                -----------------------------------------------
+                                                    2000               1999              1998
+                                                    ----               ----              ----
+<S>                                             <C>               <C>                <C>
+OPERATING REVENUES
+Retail operations                               $   253,775       $   189,034       $   142,638
+Wholesale operations                                 25,718            23,652            35,343
+Intersegment elimination                             (3,387)           (3,717)           (4,860)
+                                                -----------       -----------       -----------
+Total net sales                                 $   276,106       $   208,969       $   173,121
+                                                  =========       ===========       ===========
+
+INCOME FROM OPERATIONS
+Retail operations                               $    37,790       $    25,736       $    17,600
+Wholesale operations                                  1,682               985             5,397
+                                                -----------       -----------       -----------
+Total segment operating income                       39,472            26,721            22,997
+
+General corporate expenses                           (1,907)           (1,604)             (935)
+                                                -----------       -----------       -----------
+Total income from operations                    $    37,565       $    25,117       $    22,062
+                                                 ==========       ===========       ===========
+
+DEPRECIATION AND AMORTIZATION EXPENSE
+Retail operations                               $     8,473       $     5,409       $     4,382
+Wholesale operations                                    193               211               205
+Corporate                                                 1                 1                 1
+                                                -----------       -----------       -----------
+Total depreciation and amortization expense     $     8,667       $     5,621       $     4,588
+                                                ===========       ===========       ===========
+
+INVENTORY
+Retail operations                               $    25,217       $    19,397       $    14,353
+Wholesale operations                                  1,651             2,484             2,775
+                                                -----------       -----------       -----------
+Total inventory                                 $    26,868       $    21,881       $    17,128
+                                                 ==========       ===========       ===========
+
+NET FIXED ASSETS
+Retail operations                               $    71,805       $    42,230       $    25,993
+Wholesale operations                                  1,013               835               898
+Corporate                                                 1                 1                 2
+                                                -----------       -----------       -----------
+Total net fixed assets                          $    72,819       $    43,066       $    26,893
+                                                ===========       ===========       ===========
+
+CAPITAL EXPENDITURES
+Retail operations                               $    37,797       $    21,373       $     5,640
+Wholesale operations                                    352               148               632
+                                                -----------       -----------       -----------
+Total capital expenditures                      $    38,149       $    21,521       $     6,272
+                                                ===========       ===========       ===========
+</TABLE>
+
+
+
+                                      F-22
+<PAGE>
+
+
+                          FINANCIAL STATEMENT SCHEDULES
+                             URBAN OUTFITTERS, INC.
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                                 (IN THOUSANDS)
+
+
+<TABLE>
+<CAPTION>
+                                                                      Charged
+                                                Balance at            to costs                           Balance
+                                                beginning               and                               at end
+         Description                            of period             expenses       Deductions          of period
+         -----------                            ----------            --------       ----------          ---------
+<S>                                            <C>                    <C>            <C>                 <C>
+Year ended January 31, 1998
+  Inventory reserves                              $2,726               $2,190          $2,144              $2,772
+
+Year ended January 31, 1999
+  Inventory reserves                              $2,772               $3,081          $2,633              $3,220
+
+Year ended January 31, 2000
+  Inventory reserves                              $3,220               $6,640          $4,726              $5,134
+</TABLE>
+
+
+
+                                      S-1
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>2
+<DESCRIPTION>LIST OF SUBSIDIARIES
+<TEXT>
+
+                                  Exhibit 21.1
+
+
+                              LIST OF SUBSIDIARIES
+
+
+
+Inter-Urban, Inc.,
+a Delaware corporation
+
+U.O. Fenwick, Inc.,
+a Delaware corporation
+
+U.O.D., Inc.,
+a Delaware corporation
+
+Anthropologie, Inc.,
+a Pennsylvania corporation
+
+Urban Outfitters Wholesale, Inc.,
+a Pennsylvania corporation
+
+Urban Outfitters (UK) Limited,
+a United Kingdom corporation
+
+Urban Outfitters Canada, Inc.
+a Canadian corporation
+
+Urban Outfitters Ireland Limited,
+an Irish corporation
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF ARTHUR ANDERSEN
+<TEXT>
+
+                                  Exhibit 23.1
+
+                         CONSENT OF ARTHUR ANDERSEN LLP
+
+As independent public accountants, we hereby consent to the incorporation of our
+report included in this Form 10-K, into the Company's previously filed
+Registration Statement File Nos. 33-75522, 333-33603 and 333-84333.
+
+
+
+                                                     ARTHUR ANDERSEN LLP
+
+
+
+
+Philadelphia, Pa.
+April 14, 2000
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.2
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF PRICEWATERHOUSECOOPERS
+<TEXT>
+
+                                  Exhibit 23.2
+
+                      CONSENT OF PRICEWATERHOUSECOOPERS LLP
+
+
+We hereby consent to the incorporation by reference in the Registration
+Statements on Form S-8 (Nos. 333-33603, 33-75522 and 333-84333) of Urban
+Outfitters, Inc. of our report dated March 12, 1999 relating to the financial
+statements and financial statement schedule, which appears in this Form 10-K.
+
+
+
+
+
+PricewaterhouseCoopers LLP
+
+Philadelphia, PA
+April 14, 2000
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FDS
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>                     5
+
+<MULTIPLIER>                                  1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                           JAN-31-2000
+<PERIOD-END>                                JAN-31-2000
+<CASH>                                         12,727
+<SECURITIES>                                   11,225
+<RECEIVABLES>                                   4,825
+<ALLOWANCES>                                        0
+<INVENTORY>                                    26,868
+<CURRENT-ASSETS>                               66,078
+<PP&E>                                         72,819
+<DEPRECIATION>                                      0
+<TOTAL-ASSETS>                                153,501
+<CURRENT-LIABILITIES>                          28,072
+<BONDS>                                             0
+<PREFERRED-MANDATORY>                               0
+<PREFERRED>                                         0
+<COMMON>                                            2
+<OTHER-SE>                                    120,916
+<TOTAL-LIABILITY-AND-EQUITY>                  153,501
+<SALES>                                       276,106
+<TOTAL-REVENUES>                              276,106
+<CGS>                                         171,656
+<TOTAL-COSTS>                                 171,656
+<OTHER-EXPENSES>                               66,885
+<LOSS-PROVISION>                                    0
+<INTEREST-EXPENSE>                             (1,791)
+<INCOME-PRETAX>                                34,849
+<INCOME-TAX>                                   16,169
+<INCOME-CONTINUING>                            18,680
+<DISCONTINUED>                                      0
+<EXTRAORDINARY>                                     0
+<CHANGES>                                           0
+<NET-INCOME>                                   18,680
+<EPS-BASIC>                                      1.07
+<EPS-DILUTED>                                    1.05
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

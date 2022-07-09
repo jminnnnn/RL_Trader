@@ -1,0 +1,2489 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ Awa8NbALbmvZWj8k8mAjg8W0MrXTBGoU9yLtxIfCTzKpEhVgBi/+aD1q7OqfyEXT
+ kBndUHLdUDKoQsfMiadbcQ==
+
+<IMS-DOCUMENT>0000088948-95-000006.txt : 19950629<IMS-HEADER>0000088948-95-000006.hdr.sgml : 19950629
+ACCESSION NUMBER:		0000088948-95-000006
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19950331
+FILED AS OF DATE:		19950628
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SENECA FOODS CORP /NY/
+		CENTRAL INDEX KEY:			0000088948
+		STANDARD INDUSTRIAL CLASSIFICATION:	CANNED, FRUITS, VEG & PRESERVES, JAMS & JELLIES [2033]
+		IRS NUMBER:				160733425
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01989
+		FILM NUMBER:		95550367
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1162 PITTSFORD VICTOR RD
+		CITY:			PITTSFORD
+		STATE:			NY
+		ZIP:			14534
+		BUSINESS PHONE:		7163859500
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PIERCE S S COMPANY INC
+		DATE OF NAME CHANGE:	19861210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SENECA FOODS CORP
+		DATE OF NAME CHANGE:	19780425
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SENECA GRAPE JUICE CORP
+		DATE OF NAME CHANGE:	19710419
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                    SECURITIES AND EXCHANGE COMMISSION
+
+                           Washington, D.C. 20549
+
+                                FORM 10-K
+
+
+        Transition Report Pursuant to Section 13 or 15(d) of
+                 The Securities Exchange Act of 1934
+
+For the transition period from August 1, 1994
+ to March 31, 1995                               Commission File Number 0-1989
+
+                     SENECA FOODS CORPORATION
+   (Exact name of registrant as specified in its charter)
+
+         New York                                     16-0733425
+(State or other jurisdiction of            (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+1162 Pittsford-Victor Road, Pittsford, New York          14534
+     (Address of principal executive offices)         (Zip Code)
+
+
+Registrant's telephone number, including area code     (716) 385-9500
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                             Name of Each Exchange on
+Title of Each Class                             Which Registered
+
+      None                                            None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                     Common Stock, $.25 Par
+                                (Title of Class)
+
+Check mark indicates whether registrant has (1) filed all reports required to be
+filed by Section 13 or 15(d) of the  Securities  Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that  registrant was required to
+file such reports),  and (2) has been subject to the filing  requirements for at
+least the past 90 days.
+
+Yes   X     No         
+   -----        -----
+The  aggregate  market  value  of the  Registrant's  voting  securities  held by
+non-affiliates based on the closing sales price per market reports by the NASDAQ
+National Market System on May 1, 1995 was approximately $95,083,000.
+
+Common shares outstanding as of May 1, 1995 were 2,796,555.
+
+Documents Incorporated by Reference:
+
+(1)  Proxy  Statement to be issued prior to June 30, 1995 in connection with the
+     registrant's   annual  meeting  of  stockholders  (the  "Proxy  Statement")
+     applicable to Part III, Items 10-13 of Form 10-K.
+
+(2)  Portions of the Annual Report to shareholders for the transition period 
+     ended March 31, 1995 (the "1995 Annual Report") applicable to Part II, 
+     Items 5-8 and Part IV, Item 14 of Form 10-K.
+
+
+<PAGE>
+
+
+                               TABLE OF CONTENTS
+                     FORM 10-K ANNUAL REPORT - FISCAL 1995
+                            SENECA FOODS CORPORATION
+
+
+
+PART I.                                                                    Page
+
+    Item 1.       Business                                                  1-3
+    Item 2.       Properties                                                  3
+    Item 3.       Legal Proceedings                                           4
+    Item 4.       Submission of Matters to a Vote of Equity Security Holders  4
+
+PART II.
+
+    Item 5.       Market for the Registrant's Common Stock and Related 
+                  Security Holder Matters                                     4
+    Item 6.       Selected Financial Data                                     4
+    Item 7.       Management's Discussion and Analysis of Financial
+                  Condition and Results of Operations                         4
+    Item 8.       Financial Statements and Supplementary Data                 4
+    Item 9.       Changes in and Disagreements on Accounting and Financial 
+                  Disclosure                                                  4
+
+PART III.
+
+    Item 10.      Directors and Executive Officers of the Registrant          6
+    Item 11.      Executive Compensation                                      6
+    Item 12.      Security Ownership of Certain Beneficial Owners and
+                  Management                                                  6
+    Item 13.      Certain Relationships and Related Transactions              6
+
+PART IV.
+
+    Item 14.      Exhibits, Financial Statements Schedules and Reports on
+                  Form 8-K                                                  6-9
+
+SIGNATURES                                                                10-11
+
+
+<PAGE>
+
+
+
+
+                                     PART I
+                                     Item 1
+
+                                    Business
+
+General Development of Business
+
+SENECA FOODS CORPORATION  (herein referred to as the "Company") was organized in
+1949 and  incorporated  under the laws of the State of New  York.  Seneca  Foods
+Corporation  purchased six Green  Giant(R)  vegetable  plants from The Pillsbury
+Company  effective  February 1, 1995,  resulting in vegetable  products becoming
+nearly 80% of Seneca's overall  business.  Consequently,  Seneca has changed its
+fiscal  year end from  July 31 to March  31 to avoid  overlapping  pack  seasons
+between  fiscal  years.  Therefore,  Fiscal 1995 was an  eight-month  transition
+period.
+
+Financial Information About Industry Segments
+
+The Company's  business  activities are conducted in food and non-food segments.
+The food  segment is food  processing.  The  non-food  segment is an air charter
+service.  The air charter service  represents about 1% of the Company's business
+and therefore the financial information related to segments is not material.
+
+Narrative Description of Business
+
+Principal Products and Markets
+
+Food Processing
+
+The principal  products of this segment include grape products,  apple products,
+and  vegetables.  The products are canned,  bottled,  and frozen and are sold to
+retail and institutional markets. The Company has divided the United States into
+four  major   marketing   sections:   Eastern,   Southern,   Northwestern,   and
+Southwestern.  Plant  locations  in New York,  North  Carolina,  and  Washington
+provide ready access to the domestic  sources of grapes and apples  necessary to
+support marketing efforts in their respective sections of the country. Vegetable
+operations are primarily  supported by plant  locations in New York,  Wisconsin,
+Washington,  Idaho, and Minnesota.  In addition, the Company operates a mushroom
+canning facility in Pennsylvania.
+
+The following  summarizes  net sales by major  category for the four years ended
+March 31, 1995, July 31, 1994, 1993, and 1992.
+<TABLE>
+<CAPTION>
+
+                                            (Eight Months)
+                                                 1995              1994             1993              1992
+                                                 ----              ----             ----              ----
+                                                                    (In thousands)
+
+                  <S>                      <C>               <C>              <C>               <C>
+                  Vegetable                $  117,504        $  145,010       $  132,459        $  151,169
+                  Apple                        62,688            78,453           71,748            78,361
+                  Grape                        10,325            17,457           19,058            19,457
+                  Other                        40,809            45,334           30,205            26,844
+                                               ------            ------           ------            ------
+
+                  Total                    $  231,236        $  286,254       $  253,470        $  275,831
+                                              =======        =  =======       =  =======        =  =======
+</TABLE>
+
+Other
+
+Seneca Flight Operations provides air charter service primarily to industries in
+upstate New York.
+
+
+
+<PAGE>
+
+
+                    Source and Availability of Raw Material
+
+Food Processing
+
+The Company's food processing plants are located in major vegetable,  grape, and
+apple producing  states.  Fruits and vegetables are primarily  obtained  through
+contracts with growers.  Apple concentrate is purchased  domestically and abroad
+to supplement  raw fruit  purchased  under  contract.  The Company  believes its
+sources of supply are considered equal or superior to its competition for all of
+its food products.
+
+
+                               Seasonal Business
+
+Food Processing
+
+While  individual  fruits and vegetables have seasonal cycles of peak production
+and sales,  the  different  cycles are usually  offsetting  to some extent.  The
+supply of  commodities,  current  pricing,  and expected  new crop  quantity and
+quality  affect the timing of the Company's  sales and  earnings.  An Off Season
+Allowance  is  established  during the year to  minimize  the effect of seasonal
+production on earnings. This is zero at fiscal year end.
+
+
+                                    Backlog
+
+Food Processing
+
+In the food  processing  business  the end of year  sales  order  backlog is not
+considered  meaningful.   Traditionally,   larger  customers  provide  tentative
+bookings for their expected  purchases for the upcoming  season.  These bookings
+are further  developed  as data on the  expected  size of the  related  national
+harvests  becomes  available.  In general these  bookings  serve as a yardstick,
+rather than as a firm commitment,  since actual harvest results can vary notably
+from early estimates.  In actual practice,  the Company has substantially all of
+its expected  seasonal  production  identified to potential sales outlets before
+the seasonal production is completed.
+
+
+                           Competition and Customers
+
+Food Processing
+
+Competition  in  the  food  business  is  substantial  with  imaginative   brand
+registration,  quality service,  and pricing being the major determinants in the
+Company's  relative  market  position.  Except  for the  Seneca  apple and grape
+products  and Libby's  vegetable  products  data  mentioned  below,  no reliable
+statistics are available to establish the exact market position of the Company's
+own food  products.  During  the past year  approximately  47% of the  Company's
+processed  foods were  packed for retail  customers  under the  Company  branded
+labels of Libby's(R),  Nature's Favorite(R),  TreeSweet(R), and Seneca(R). About
+15% of the processed foods were packed for  institutional  food distributors and
+the remaining 38% of processed  foods were retail packed under the private label
+of  customers.  The  customers  represent  a full cross  section of the  retail,
+institutional,  distributor,  and  industrial  markets and the Company  does not
+consider itself dependent on any single sales source. In 1996 and in the future,
+The Pillsbury  Company will  represent  our largest  customer as a result of the
+20-year supply agreement entered into during 1995.
+
+The principal branded products are Seneca Frozen Apple Juice Concentrate,  rated
+the number one seller nationally, Seneca Frozen Natural Grape Juice Concentrate,
+Seneca  applesauce,  and Libby's canned vegetable  products which rate among the
+top five  national  brands.  The  information  under the heading  Liquidity  and
+Capital Resources in Management's Discussion and Analysis of Financial Condition
+and  Results  of  Operations  in the  1995  Annual  Report  is  incorporated  by
+reference.
+
+
+<PAGE>
+
+
+                            Environmental Protection
+
+Environmental protection is an area that the Company has worked on diligently at
+each food processing facility.  In all locations the Company has cooperated with
+federal, state, and local environmental protection authorities in developing and
+maintaining suitable antipollution  facilities. In general, the Company believes
+its  pollution  control  facilities  are  equal to or  superior  to those of its
+competitors and are within environmental  protection standards. The Company does
+not  expect any  material  capital  expenditures  to comply  with  environmental
+regulations in the near future.
+
+
+                                                     Employment
+
+                  Food processing  -  Full time            1,909
+                                    -  Seasonal              553
+                                                           -----
+                                                           2,462
+                                        Other                124
+                                                           -----
+                                                           2,586
+
+
+                               Foreign Operations
+
+Export sales for the Company are a relatively  small  portion  (less than 3%) of
+the food processing sales.
+
+
+                                     Item 2
+
+                                   Properties
+
+The Company has nine food  processing,  packaging,  and  warehousing  facilities
+located in New York State that provide  approximately  1,507,000  square feet of
+food packaging, freezing and freezer storage, and warehouse storage space. These
+facilities  process and package fruit and vegetable  products.  The Company is a
+lessee under a number of operating  and capital  leases for  equipment  and real
+property used for processing and warehousing.
+
+Five other processing,  packaging, and warehousing facilities are located in the
+states of North  Carolina  (223,000  square feet),  Pennsylvania  (39,000 square
+feet),  and in  Washington  (three  locations  totaling  292,000  square  feet).
+Processing  operations in North  Carolina are  primarily  devoted to apple juice
+products;  in Washington,  grape juice, apple juice, fruit chips, and sauce; and
+in Pennsylvania, mushroom canning and warehousing.
+
+Four  facilities  in  Minnesota,  one  facility  in  Michigan,  one  facility in
+Washington,  one facility in Idaho,  and seven  facilities in Wisconsin  provide
+approximately  4,364,000  square feet of food  packaging,  freezing  and freezer
+storage,  and warehouse  storage  space.  These  facilities  process and package
+various vegetable and fruit products. The facilities are owned by the Company.
+
+The Company owns three food  distribution  facilities in  Massachusetts  and New
+York totaling  approximately 400,000 square feet which are leased out to another
+company  through  1995-97.  Sublease  income of $1,333,000 was received on these
+facilities  during the eight month period.  In addition the air charter division
+has a 14,000 square foot facility.
+
+All of the  properties are well  maintained and equipped with modern  machinery.
+Although  highly  utilized,  most  locations have the ability to expand as sales
+requirements justify. Because of the seasonal production cycles the exact extent
+of utilization is difficult to measure. In certain circumstances the theoretical
+full efficiency  levels are being reached;  however,  expansion of the number of
+production days or hours could increase the output by up to 20% for a season.
+
+Certain of the Company's  facilities are mortgaged to financial  institutions to
+secure long-term debt and capital leases obligations.  See Notes 5 and 6 of Item
+8, Financial Statements and Supplementary Data, for additional information about
+the Company's lease commitments.
+
+
+
+<PAGE>
+
+
+                                     Item 3
+
+                               Legal Proceedings
+
+The Company is not involved in any material legal proceedings.
+
+
+                                     Item 4
+
+              Submission of Matters to a Vote of Security Holders
+
+No matters were submitted to a vote of  shareholders  during the last quarter of
+the fiscal period covered by this report.
+
+
+                                    PART II
+
+                                     Item 5
+
+   Market for the Registrant's Common Stock and Related Stockholder Matters
+
+Each class of preferred  stock  receives  preference as to dividend  payment and
+declaration over any common stock. In addition,  refer to the information in the
+1995 Annual Report, page 16, "Shareholder Information", which is incorporated by
+reference.
+
+
+                                     Item 6
+
+                            Selected Financial Data
+
+Refer to the  information  in the 1995 Annual Report page 3, "Five Year Selected
+Financial Data", which is incorporated by reference.
+
+
+                                     Item 7
+
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations
+
+Refer  to the  information  in the  1995  Annual  Report  page 4,  "Management's
+Discussion and Analysis of Financial Condition and Results of Operations", which
+is incorporated by reference.
+
+
+                                     Item 8
+
+                  Financial Statements and Supplementary Data
+
+Refer  to the  information  in the  1995  Annual  Report  pages  5  through  14,
+"Consolidated  Financial  Statements  and Notes  thereto  including  Independent
+Auditors' Report", which is incorporated by reference.
+
+
+
+
+                                     Item 9
+
+     Changes in and Disagreements on Accounting and Financial Disclosure
+
+None.
+
+
+<PAGE>
+
+
+
+INDEPENDENT AUDITORS' REPORT
+
+
+
+To the Board of Directors and Stockholders of
+    Seneca Foods Corporation
+Pittsford, New York
+
+We  have  audited  the  consolidated   financial   statements  of  Seneca  Foods
+Corporation  and  subsidiaries  as of March 31, 1995, July 31, 1994 and July 31,
+1993,  and for the eight  months  ended March 31, 1995 and for each of the three
+years in the period  ended July 31,  1994,  and have  issued our report  thereon
+dated May 30,  1995;  which  report  includes an  explanatory  paragraph as to a
+change in  accounting  for income  taxes in 1994;  such  consolidated  financial
+statements  and report are included in your 1995 Annual  Report to  Stockholders
+and  are  incorporated  herein  by  reference.  Our  audits  also  included  the
+consolidated  financial  statement  schedule  of Seneca  Foods  Corporation  and
+subsidiaries,  listed in Item 14(A)(2).  This schedule is the  responsibility of
+the Company's  management.  Our responsibility is to express an opinion based on
+our audits. In our opinion, such consolidated financial statement schedule, when
+considered in relation to the basic consolidated financial statements taken as a
+whole,  presents  fairly in all  material  respects  the  information  set forth
+therein.
+
+
+/s/Deloitte & Touche LLP
+
+
+Rochester, New York
+May 30, 1995
+
+
+
+<PAGE>
+
+
+                                    PART III
+
+
+                                    Item 10
+
+               Directors and Executive Officers of the Registrant
+
+
+
+                                    Item 11
+
+                             Executive Compensation
+
+
+                                    Item 12
+
+         Security Ownership of Certain Beneficial Owners and Management
+
+
+                                    Item 13
+
+                 Certain Relationships and Related Transactions
+
+Information  required by Items 10 through 13 will be filed  separately  with the
+Commission,  pursuant  to  Regulation  14A,  in  a  definitive  proxy  statement
+involving the election of directors which is incorporated herein by reference.
+
+                                    PART IV
+
+
+                                    Item 14
+
+        Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+
+A.   Exhibits and Financial Statement Schedules
+
+     1.       (i) Financial  Statement  Schedules - the  following  consolidated
+              financial  statements  of the  Registrant,  included in the Annual
+              Report  for the  transition  period  ended  March  31,  1995,  are
+              incorporated by reference in Item 8:
+
+              Consolidated  Statements of Net Earnings - March 31, 1995 and July
+              31, 1994, 1993, and 1992
+
+              Consolidated Balance Sheets - March 31, 1995 and July 31, 1994 and
+              1993
+
+              Consolidated  Statements  of Cash Flows - March 31,  1995 and July
+              31, 1994, 1993, and 1992
+
+              Consolidated  Statements of Stockholders'  Equity - March 31, 1995
+              and July 31, 1994, 1993, and 1992
+
+              Notes to  Consolidated  Financial  Statements - March 31, 1995 and
+              July 31, 1994, 1993, and 1992
+
+              Independent Auditors' Report
+
+
+<PAGE>
+
+
+       (ii)   Financial Statements required by Rule 13a - 10(b):
+
+              As a result of the  Company's  change in fiscal year end date from
+              July 31 to March 31 (see  Note 1 of Item 8,  Financial  Statements
+              and Supplementary  Data), the following is an unaudited comparison
+              of eight months ended March 31, 1995 and March 26, 1994:
+<TABLE>
+<CAPTION>
+
+                                                                        March 31         March 26
+              Eight Months Ended (1994 Unaudited)                           1995             1994
+              -----------------------------------                           ----             ----
+                  (In thousands, except share amounts)
+<S>                                                                   <C>              <C>
+
+
+              Net sales                                               $  234,073       $  195,048
+                                                                      -  -------       -  -------
+
+              Costs and expenses:
+                Cost of product sold                                     202,285          162,356
+                Selling, general, and administrative expense              23,620           20,231
+                Interest expense, net of interest income                   6,296            4,178
+                                                                           -----            -----
+                                                                         232,201          186,765
+                                                                         -------          -------
+
+              Earnings from continuing operations before income
+                taxes, extraordinary item and cumulative effect of
+                accounting change                                          1,872            8,283
+              Income taxes                                                   688            3,231
+                                                                             ---            -----
+              Earnings from continuing operations                     $    1,184       $    5,052
+                                                                      =    =====       =    =====
+
+              Earnings from continuing operations per share           $      .42       $     1.71
+                                                                      =      ===       =     ====
+
+                  Weighted average shares outstanding                  2,796,555       2,949,642
+                                                                       =========       =========
+</TABLE>
+
+                                                                          Pages
+2.     Supplemental Schedule:
+
+       Schedule II        --        Valuation and Qualifying Accounts         8
+
+Other schedules have not been filed because the conditions  requiring the filing
+do not  exist  or the  required  information  is  included  in the  consolidated
+financial statements, including the notes thereto.
+
+3.       Exhibits:
+
+         No. 3  -   Articles of Incorporation and By-Laws - Incorporated by 
+                    reference to an Exhibit to the Company's 10-Q filed October,
+                    1992.
+
+         No. 4  -   Articles defining the rights of security holders - 
+                    Incorporated by reference to the Company's 10-Q filed 
+                    October, 1992.  Instrument defining the rights of any holder
+                    of Long-Term Debt - Incorporated by reference to Exhibit 99
+                    to the Company's 10-Q filed January 1995.  The Company will
+                    furnish, upon written request to the SEC, a copy of any
+                    other instrument defining the rights of any holder of long
+                    term debt.
+
+         No. 10 -   Material  Contracts - Incorporated  by reference to the
+                    Company's 8-K dated  February 24, 1995 for the First Amended
+                    and Restated  Alliance  Agreement  and the First Amended and
+                    Restated  Asset  Purchase  Agreement both with The Pillsbury
+                    Company.
+
+         No. 11 -   Computation of Earnings per Share                          8
+
+         No. 13 -   1995 Annual Report to Shareholders, incorporated by 
+                    reference and filed herewith.
+
+         No. 21 -   List of Subsidiaries                                       9
+
+
+<PAGE>
+
+
+B.    Reports on Form 8-K
+
+      An 8-K dated  February  24,  1995 was filed  relating  to the Green  Giant
+acquisition.
+
+<TABLE>
+
+                                  Schedule II
+
+                       VALUATION AND QUALIFYING ACCOUNTS
+                                 (In thousands)
+<CAPTION>
+
+                                            Balance at                          Charged to       Deductions        Balance
+                                            beginning         Charged to        other            from              at end
+                                            of period         income            accounts         reserve           of period
+                                            ---------         ----------        -----------      ----------        ---------
+<S>                                          <C>               <C>               <C>             <C>                  <C>
+
+Year ended March 31, 1995
+     Allowance for doubtful accounts         $   183           $    166          $  --           $  122 (a)           $ 227
+                                             =   ===           =    ===          =  ==           =  === ===           = ===
+
+Year ended July 31, 1994:
+     Allowance for doubtful accounts         $   435           $   (213)         $  --           $   39 (a)           $ 183
+                                             =   ===           =   =====         =  ==           =   == ===           = ===
+
+Year ended July 31, 1993:
+     Allowance for doubtful accounts         $   281           $    182          $  --           $   28 (a)           $ 435
+                                             =   ===           =    ===          =  ==           =   == ===           = ===
+
+Year ended July 31, 1992:
+     Allowance for doubtful accounts         $   285           $    448          $  --           $  452 (a)           $ 281
+                                             =   ===           =    ===          =  ==           =  === ===           = ===
+
+<FN>
+
+(a) Accounts written off, net of recoveries.
+</FN>
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<TEXT>
+
+<TABLE>
+
+                                   Exhibit 11
+
+                       COMPUTATION OF EARNINGS PER SHARE
+                    (In thousands, except per share amounts)
+<CAPTION>
+
+                                                              (Eight Months)
+Years ended March 31 and July 31,                                  1995             1994              1993             1992
+- ---------------------------------                                  ----             ----              ----             ----
+<S>                                                             <C>              <C>              <C>               <C> 
+
+Primary
+Net earnings applicable to common stock:
+     Net earnings                                              $  1,184          $ 9,104          $  4,118          $   891
+     Deduct preferred stock dividends paid                           15               23                23               23
+                                                                     --               --                --               --
+Net earnings applicable to common stock                        $  1,169          $ 9,081          $  4,095          $   868
+                                                               =  =====          = =====          =  =====          =   ===
+
+Weighted average number of common shares and
+     common equivalents outstanding                               2,797            2,899             3,085            3,096
+                                                                  =====            =====             =====            =====
+
+
+Primary earnings per share                                     $    .42          $  3.13          $   1.33          $   .28
+                                                               =    ===          =  ====          =   ====          =   ===
+
+
+                                 Fully Diluted
+
+Net earnings applicable to common stock per above              $  1,169          $ 9,081          $  4,095          $   868
+Add dividends on convertible preferred stock                         13               20                20               20
+                                                                     --               --                --               --
+     Net earnings applicable to common stock on a fully
+     diluted basis                                             $  1,182          $ 9,101          $  4,115          $   888
+                                                               =  =====          = =====          =  =====          =   ===
+     Shares used in calculating primary earnings per
+     share above                                                  2,797            2,899             3,085            3,096
+     Additional shares to be issued under full
+     conversion of preferred stock                                   34               34                34               34
+                                                                     --               --                --               --
+Total shares for fully diluted                                    2,831            2,933             3,119            3,130
+                                                                  =====            =====             =====            =====
+
+Fully diluted earnings per share                               $    .42          $  3.10          $   1.32          $   .28
+                                                               =    ===          =  ====          =   ====          =   ===
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<DESCRIPTION>1995 ANNUAL REPORT TO SHAREHOLDERS
+<TEXT>
+
+<TABLE>
+Financial Highlights
+<CAPTION>
+
+                                                    (Eight Months)                                            Increase (Decrease)
+                                                                                                           ------------------------
+Years ended March 31 and July 31,                             1995              1994               1993     1995-94        1994-93
+- ---------------------------------                             ----              ----               ----     -------        -------
+<S>                                                 <C>               <C>               <C>                     <C>          <C>  
+
+Net sales                                           $  234,073,000    $  290,185,000    $   257,402,000          NM           12.7%
+
+Earnings from continuing operations                      1,184,000         5,341,000          3,153,000          NM           69.4
+
+Earnings before extraordinary item and cumulative
+  effect of accounting change                            1,184,000         7,704,000          4,118,000          NM           87.1
+
+Cumulative effect of accounting change                          --         2,006,000                 --          --             --
+
+Net earnings                                             1,184,000         9,104,000          4,118,000          NM          121.1
+
+
+Earnings from continuing
+   operations per share                             $          .42    $         1.84    $          1.02          NM           80.4%
+
+Earnings before extraordinary item and cumulative
+   effect of accounting change per share                       .42              2.65               1.33          NM           99.2
+
+Cumulative effect of accounting
+   change per share                                             --               .69                 --          --             --
+
+Net earnings per share                                         .42              3.13               1.33          NM          135.3
+
+Stockholders' equity                                    87,349,000        85,285,000         81,296,000          NM            4.9
+
+Common stockholders' equity per share                        31.21             30.47              26.47          NM           15.1
+
+<FN>
+
+1995  represents  eight months  ended March 31 due to a change in the  Company's
+fiscal year end. NM - not meaningful.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+
+Description of Business
+
+Seneca  Foods  Corporation   conducts  its  business  almost  entirely  in  food
+processing which currently  contributes about 99% of the Company's sales. Canned
+and frozen vegetables  represent 51% of the food processing  volume.  Within the
+apple products category,  which contributed 27% of all processed food sales, the
+Company's Seneca(R) brand frozen apple concentrate continues its position as the
+nation's  number one seller.  Of the  remaining  food  processing  sales,  grape
+products  account for 4%, and  bottled,  canned,  and frozen  fruit juice drinks
+account for the remaining 18%.
+
+Approximately 47% of the Company's food products are packed under its own brands
+including Seneca(R),  Libby's(R),  Nature's Favorite(R) and TreeSweet(R).  About
+38% of the processed  foods are packed under  private  labels with the remaining
+15% sold to institutional food distributors.
+
+The Company also operates a non-food  division which contributes about 1% to the
+Company's sales. Seneca Flight Operations provides air charter service primarily
+to industries located in upstate New York.
+
+Pittsford, New York
+June 16, 1995
+
+
+<PAGE>
+
+
+
+
+To our Fellow Shareholders
+
+Fiscal 1995 was a busy year for the Company.  While the Company had  substantial
+revenue growth, margins were squeezed by an oversupply of vegetables due to last
+summer's bumper crops.
+
+The  biggest  highlight  of 1995  was the  formation  of our  Alliance  with The
+Pillsbury  Company whereby Seneca  purchased six vegetable plants from Pillsbury
+and signed a 20 year agreement  under which Seneca becomes the primary  supplier
+of Green Giant canned and frozen vegetables to Pillsbury.
+
+As a result of the Alliance, we have implemented a change in our fiscal year-end
+from July 31st to March 31st. We had long struggled with closing our fiscal year
+on July 31st, which was well into the vegetable pack season.  However,  with the
+Pillsbury  Alliance,  our  vegetable  revenues  will grow to nearly 80% of total
+revenues.  By moving our fiscal year end to March, we will avoid overlapping the
+pack season which begins in April with asparagus.
+
+Consequently, fiscal 1995 is an eight month period. For the eight months, Seneca
+earned $1,184,000 or $.42 per share on revenues of $234,073,000.  In fiscal 1994
+for twelve months, Seneca's earnings from continuing operations were $5,341,000,
+or $1.84 per share, on revenues of $290,185,000.
+
+As we mentioned earlier, the harvest last summer was more bountiful than anytime
+in recent  memory.  Weather  conditions  were  ideal,  and Seneca as well as its
+competitors  had very successful  pack seasons.  Unfortunately  in our business,
+this often leads to price pressures as supply outstrips  demand. We aggressively
+sold our vegetables  throughout the year and are entering the new pack season in
+a reasonable inventory position.
+
+On the juice side of the business,  Seneca took advantage of low apple raw stock
+prices to increase  its #1 share in the frozen  concentrated  apple juice market
+and built both share and  distribution  in shelf stable apple juice.  Our grape,
+cranberry and citrus juices also did well in 1995.
+
+On February 1st, we completed our  aforementioned  transaction  with  Pillsbury.
+This  project  involved  the  closing  of four  Pillsbury  plants and moving the
+production  into both  Seneca  plants and former  Pillsbury  plants now owned by
+Seneca.  We are investing over $50 million in this project.  When completed,  we
+will have significantly increased the efficiencies and capacities of our plants.
+Much of the  investment  is  going  into  dry  and  frozen  warehousing  and new
+state-of-the-art  production  and  harvesting  equipment.  In fact,  the  entire
+project will be completed with very little additional  manufacturing space being
+constructed.
+
+We believe the Alliance is a prime  example of how two companies can blend their
+core  competencies to make the combined  business more  efficient.  Seneca has a
+strong  manufacturing  expertise,  while Pillsbury has a strong marketing focus.
+Our joint  relationship  has already created cost savings and other benefits for
+both parties.
+
+As we look to the immediate future, we are working  feverishly to get the plants
+ready  before  the pack  season.  Weather  has thus far been mixed with cool wet
+weather in the Midwest impeding our planting  schedule,  and with dry weather in
+New York potentially effecting the yields this summer. Nevertheless, it is still
+far to early to attempt to predict the final crop outcome.
+
+Our Company is unusual for a company our size in that a significant  part of our
+stock  is  owned  by  management.   Consequently,   we  pay  less  attention  to
+quarter-to-quarter performance, rather we focus on the long haul. Our goal is to
+invest in the people and in the plants  that will place us in the  forefront  of
+our peers in the industry.
+
+As part of this strategy,  we are asking our shareholders to approve a new class
+of stock which would be distributed as a stock dividend  giving one share of the
+new class for each share of Common  Stock you  currently  hold.  This stock will
+carry nearly all of the rights of the current Common Stock;  but will carry only
+1/20th of the vote of the current Common Stock. This distribution of shares will
+increase the financing flexibility of the Company.
+
+Finally,  thank you to the many Seneca Employees who have put in long hours this
+past year to help us meet our ambitious objectives.
+
+/s/Arthur S. Wolcott                  /s/Kraig H. Kayser
+
+ Chairman                             President and Chief Executive Officer
+
+
+<PAGE>
+
+<TABLE>
+
+Five Year Selected Financial Data
+
+Summary of Operations and Financial Condition
+<CAPTION>
+
+                                             (Eight Months)
+Years ended March 31 and July 31,                 1995            1994          1993           1992           1991         1990
+- ---------------------------------                 ----            ----          ----           ----           ----         ----
+                                                                      (In thousands of dollars, except per share data)
+<S>                                         <C>             <C>           <C>            <C>            <C>          <C>       
+
+Net sales                                   $  234,073      $  290,185    $  257,402     $  279,708     $  279,973   $  295,120
+- ---------                                   -  -------      -  -------    -  -------     -  -------     -  -------   -  -------
+
+Operating earnings (before Corporate
+   interest and administrative)             $   11,163      $   18,354    $   12,843     $   12,870     $   21,544   $   20,206
+Earnings (loss) from continuing
+   operations before extraordinary item
+   and cumulative effect of accounting
+   change                                        1,184           5,341         3,153           (305)         5,252        4,028
+Earnings from discontinued operations               --              90           965          1,663            651        1,778
+Gain on the sale of discontinued operations         --           2,273            --             --             --           --
+Earnings before extraordinary item and
+  cumulative effect of  accounting change        1,184           7,704         4,118          1,358          5,903        5,806
+Extraordinary loss                                  --            (606)           --           (467)            --           --
+Cumulative effect of accounting change              --           2,006            --             --             --           --
+Net earnings                                     1,184           9,104         4,118            891          5,903        5,806
+- ------------                                     -----           -----         -----            ---          -----        -----
+
+Earnings (loss) from continuing
+  operations per common share               $      .42      $     1.84    $     1.02     $     (.11)    $     1.69   $     1.25
+Earnings per common share before
+  extraordinary item and cumulative
+  effect of accounting change                      .42            2.65          1.33            .43           1.90         1.80
+Net earnings per common share                      .42            3.13          1.33            .28           1.90         1.80
+- -----------------------------                      ---            ----          ----            ---           ----         ----
+
+Working capital                             $  132,870      $   62,794    $   84,410     $   76,650     $   77,703   $   61,590
+Inventories                                    132,404          92,710        82,586         86,309         92,248       84,927
+Net property, plant, and equipment             179,718          78,216        74,089         81,718         82,754       73,951
+Total assets                                   381,726         200,601       203,138        205,814        211,070      194,036
+Long-term debt and capital lease obligations   221,480          51,476        72,556         77,614         79,938       57,885
+Stockholders' equity                            87,349          85,285        81,296         75,828         76,798       70,918
+- --------------------                            ------          ------        ------         ------         ------       ------
+
+Additions to property, plant, and equipment $   26,966      $    9,384    $    1,723     $    8,702     $   17,167   $   11,981
+Interest expense, net                            6,296           6,046         5,834         10,186          9,289       10,106
+- ---------------------                            -----           -----         -----         ------          -----       ------
+
+Net earnings/average equity                        1.4 %          10.9 %         5.2 %          1.2 %          8.0%         8.2%
+Continuing earnings before taxes/sales             0.8 %           2.8 %         1.3 %         (0.2)%          3.0%         2.2%
+Net earnings/sales                                 0.5 %           3.1 %         1.6 %          0.3 %          2.1%         2.0%
+Long-term debt/equity                              254 %            60 %          89 %          102 %          104%          82%
+Current ratio                                    3.2:1           2.2:1         3.2:1          2.8:1          2.8:1        2.2:1
+- -------------                                    -----           -----         -----          -----          -----        -----
+
+Common stockholders' equity per share       $    31.21      $    30.47    $    26.47     $    24.49     $    24.77   $    22.87
+National Market System closing price range   35 1/2-21       22 3/4-15 1/2 16 3/8-14 3/4  21 1/4-15 1/4  25 1/4-20    25 1/4-18
+Common cash dividends declared per share            --              --            --             --             --           --
+Price earnings ratio                              81.5x            6.8x         11.7x          55.4x          10.5x        13.6x
+- --------------------                              -----            ----         -----          -----          -----        ---- 
+<FN>
+1995 represents eight months ended March 31.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+
+
+
+Management's Discussion and Analysis of
+Financial Condition and Results of Operations
+
+
+Liquidity and Capital Resources
+
+Because of the food  processing  segment,  the Company's  yearly  business cycle
+shows large  inventory  growth  during the summer and fall harvest  period.  The
+inventory  peaks in the early winter and drops to its minimum level  immediately
+prior to the next  pack  season.  These  peaks  are  financed  through  seasonal
+borrowings whose high and low points essentially  correspond with the changes in
+inventory, or by a reduction in short-term investments.  Accordingly,  inventory
+management is key to liquidity.
+
+During February 1995 the Company acquired certain assets (see Acquisitions, note
+13) of the  Green  Giant  division  of The  Pillsbury  Company  (referred  to as
+"Pillsbury"), a subsidiary of Grand Metropolitan Incorporated. Under an Alliance
+Agreement concurrently executed by the Company, Pillsbury and Grand Metropolitan
+Incorporated,  Pillsbury will continue to be  responsible  for all of the sales,
+marketing and customer  service  functions for the Green Giant brand,  while the
+Company  will handle  vegetable  processing  and canning  operations.  Pillsbury
+continues  to own all the  trademark  rights  to the Green  Giant  brand and its
+proprietary seed varieties. The assets acquired include certain raw material and
+supplies  inventory and six manufacturing  facilities  located in the Midwestern
+and Northwestern  United States.  The purchase price of $86.1 million was funded
+by a  subordinated  note issued by the Company for $73.0 million and the balance
+was funded out of working capital.
+
+In conjunction with this  acquisition,  the Company has entered into a revolving
+credit  facility for up to $150.0 million from a syndicate of eleven banks.  The
+facility  provides the borrowing  capability  needed for the acquisition and the
+Company's existing business. In addition, the Company issued two new senior debt
+notes.  The first is a $75.0  million  unsecured  note issued to The  Prudential
+Insurance  Company of America,  with  repayment  due  beginning in March 1998, a
+final  maturity  date of  February  2005,  and an  interest  rate of 10.78% (see
+Long-Term Debt, note 5). The second is a $50.0 million  unsecured note issued to
+John Hancock Mutual Life Insurance  Company,  with repayment due beginning March
+2001, a final  maturity of January  2009,  and an interest  rate of 10.81%.  The
+proceeds  of these two notes  were used to  finance  or  replenish  the  working
+capital for the following:  1) capital  expenditures of $50.0 million related to
+the  Alliance  Agreement  with  Pillsbury;  2)  repayment of two notes due to an
+insurance  company,  one  repaid in July 1994 for $13.8  million,  the other for
+$26.6  million  which was repaid  when the new debt was  issued;  3) three small
+acquisitions  made over the last fifteen months  totaling $15.6 million;  and 4)
+the balance,  $19.0 million,  for capital  expenditures made over the last three
+years.
+
+During  1994  the  Company  prepaid  an issue of high  interest  long-term  debt
+totaling $13.8 million.  This resulted in an extraordinary  loss of $0.6 million
+after taxes. Also during 1994 the Company made two small  acquisitions  totaling
+$11.7 million.  The debt  prepayment and  acquisitions  were funded from working
+capital  and  current  operations.  During  1994 and 1993 the Company had no new
+long-term  financing.  During 1992 the Company began  refunding $22.6 million of
+tax exempt industrial revenue bonds that was completed in 1993.
+
+As mentioned above,  during 1995 the Company entered into an unsecured revolving
+credit agreement for up to $150.0 million.  Previously,  the Company  maintained
+uncommitted  lines of credit.  The peak borrowings  reached $54.1 million during
+1995. Credit lines provide for interest rate options based on prime, eurodollar,
+or money  market.  There were $1.6 million of borrowings  outstanding  under the
+lines at the end of 1994 and none for years 1995, 1993 and 1992.
+
+The increase in cash and  short-term  investments of $24.7 million over the four
+fiscal year period ended in 1995 was  primarily due to proceeds of the three new
+long-term debt issues totaling $198.0 million, proceeds from the disposal of the
+textile  segment of $8.4 million,  an income tax refund in 1993 of $4.2 million,
+and net earnings.  This was partially  offset by the Green Giant  acquisition of
+$86.1  million,  the  debt  prepayments  totaling  $40.4  million;  three  small
+acquisitions  totaling  $15.6  million;  the  common  stock  retirement  of $5.1
+million;  capital additions of $27.0 million,  $9.4 million,  $1.7 million,  and
+$8.7 million in 1995, 1994, 1993, and 1992, respectively;  and smaller items not
+identified.
+
+The 1995  capital  expenditures  of $27.0  million  largely  reflect part of the
+expected  $50.0  million to be spent  related  to the  Alliance  Agreement  with
+Pillsbury as mentioned above. During 1994 capital  expenditures were higher than
+both 1993 and 1992.  During 1995 the Company began  installation of a green bean
+processing line in the Eastern Division,  cold storage facilities in the Central
+Division  in the  midwest  and  northwest,  and a  frozen  vegetable  processing
+expansion  in the  Central  Division.  During  1994  the  Company  upgraded  its
+vegetable  processing  and juice  bottling  equipment  in the Eastern  Division.
+During 1992 the Company upgraded a portion of its can manufacturing equipment in
+the midwest.
+
+During August 1993 the Company sold its textile division for approximately $8.4
+million.  It represented about 6% of the Company's assets and 13% of the 
+Company's sales in 1993.
+
+
+<PAGE>
+
+
+Results of Operations
+
+During 1995,  the Company  changed its fiscal year end to March 31 from July 31.
+With the  acquisition  of the Green Giant  plants,  vegetables  now  represent a
+substantial  portion of the  Company's  business.  The July year end fell in the
+middle of the pack season for certain  vegetable  commodities  while March 31 is
+before any packs begin.
+
+The Company's  sales were $234.1  million in the eight month  transition  period
+ended 1995.  It is not  appropriate  to annualize  this amount since some of the
+commodities sold are only packed annually and certain vegetable inventories were
+depleted  well before the new pack. A full year's sales in 1995 would have shown
+an increase over 1994.  Sales  increased by 12.7% in 1994 and decreased 8.0% and
+0.1% in 1993 and 1992, respectively.
+
+In 1995 vegetable unit sales were sharply higher due to the  industrywide  large
+packs. Unit selling prices were down which partially offset the vegetable dollar
+sales increases due to volume. The three small acquisitions (one in 1995 and two
+in 1994) also contributed to the increase (see  Acquisitions,  note 13). In 1994
+vegetable  sales  increased  9.5% due to sharply higher unit selling prices that
+resulted from 1993's flooding in the midwest. In 1994 fruit and juice sales were
+up 16.7% led by apple juice which was up 9.3%. The two small  acquisitions  also
+contributed to the increase (see Acquisitions, note 13). In 1993 vegetable sales
+declined  12.4% due to lower unit sales and selling prices while apple and grape
+sales declined by 8.4% and 2.1%,  respectively.  This was partially offset by an
+increase  in  co-pack  sales.  Vegetable  sales  decreased  due,  in part,  to a
+continued oversupply of processed vegetables in the industry.  In 1992 vegetable
+sales  increased due to greater unit sales while apple and grape sales declined.
+Apple sales in 1992 declined due to the second consecutive year of the worldwide
+apple shortage.
+
+In 1995 earnings  decreased  due, in part, to lower selling  prices caused by an
+industrywide oversupply of processed vegetables.  In 1994 earnings increased for
+the  following  reasons:  1) lower  apple cost of product  sold due to a greater
+availability of apples,  2) higher selling prices on vegetables  which more than
+offset higher cost of goods sold, 3) the sale of the textile segment and, 4) the
+$2.0  million  gain  due  to  implementing  Statement  of  Financial  Accounting
+Standards (SFAS) 109, Accounting for Income Taxes (see Income Taxes, note 7). In
+1993  earnings  increased  for the  following  reasons:  1) lower  apple cost of
+product sold due to a greater  availability  of apples,  2) lower  interest cost
+since there were lower short-term rates, 3) the refinancing mentioned below and,
+4) the $1.7 million of interest  income from the Internal  Revenue  Service (see
+Income Taxes, note 7). In 1992 earnings decreased due, in part, to lower selling
+prices caused by an industrywide oversupply of processed vegetables. In addition
+a  major  shortage  of  processing  apples  in  Europe  and  the  U.  S.  caused
+unprecedented  increases  in the  cost of goods  sold  which  resulted  in lower
+earnings.  The 1992  earnings  included an  extraordinary  loss of $0.5  million
+(after  tax   benefit)   related  to  a   prepayment   penalty  paid  for  early
+extinguishment of Industrial Revenue Bonds and accelerated amortization of their
+deferred  financing  costs.  Interest savings in the first year more than offset
+the costs of refinancing (see Long-Term Debt, note 5).
+
+In general,  inflation played a relatively  small role in the operating  results
+and cash  flows of 1995,  1994,  1993 and 1992  since  the  Company  values  its
+inventories  on a last-in,  first-out  (LIFO)  basis and  depreciates  its fixed
+assets under accelerated depreciation methods for tax purposes.
+
+
+
+
+
+<PAGE>
+
+
+<TABLE>
+
+Consolidated Statements of Net Earnings
+- --------------------------------------------------------------------------------------------------------
+Seneca Foods Corporation and Subsidiaries
+<CAPTION>
+
+                                                              (Eight Months)
+Years ended March 31 and  July 31,                                 1995               1994                1993               1992
+- ----------------------------------                                 ----               ----                ----               ----
+                                                                            (In thousands of dollars, except share amounts)
+<S>                                                          <C>                 <C>                <C>                <C>      
+
+Net sales                                                    $  234,073          $ 290,185          $  257,402         $  279,708
+- ---------                                                    -  -------          - -------          -  -------         -  -------
+
+Costs and expenses:
+   Cost of product sold                                         202,285            247,158             222,143            241,361
+   Selling, general, and administrative expense                  23,620             28,824              26,166             28,681
+   Interest expense, net of interest income of $116,
+     $528, $1,865, and $196, respectively (Note 7)                6,296              6,046               5,834             10,186
+                                                                  -----              -----               -----             ------
+                                                                232,201            282,028             254,143            280,228
+                                                                -------            -------             -------            -------
+
+Earnings (loss) from continuing  operations  before 
+   income taxes,  extraordinary item and cumulative effect of
+   accounting change                                              1,872              8,157               3,259               (520)
+Income taxes (Note 7)                                               688              2,816                 106               (215)
+                                                                    ---              -----                 ---               ---- 
+Earnings (loss) from continuing operations before
+   extraordinary item and cumulative effect of
+   accounting change                                              1,184              5,341               3,153               (305)
+Earnings from discontinued operations, less applicable
+   income taxes of $46, $591, and $939, respectively
+   (Note 11)                                                         --                 90                 965              1,663
+Gain on the sale of discontinued operations, less applicable
+   income taxes of  $1,171 (Note 11)                                 --              2,273                  --                 --
+Extraordinary losses on early extinguishment of debt,
+   less applicable income tax benefit of $312 and $303               --               (606)                 --               (467)
+Cumulative effect of accounting change (Note 7)                      --              2,006                  --                 --
+                                                                     --                 --                  --                 --
+                                                                  -----              -----               -----                ---
+       Net earnings                                          $    1,184          $   9,104          $    4,118         $      891
+       ============                                          =    =====          =   =====          =    =====         =      ===
+
+Earnings (loss) from continuing operations
+   per common share                                          $      .42          $    1.84          $     1.02         $     (.11)
+Earnings from discontinued operations per
+   common share                                                      --                .03                 .31                .54
+Gain on the sale of discontinued operations
+   per common share                                                  --                .78                  --                 --
+Extraordinary losses on early extinguishment
+   of debt per common share                                          --               (.21)                 --               (.15)
+Cumulative effect of accounting change per
+   common share                                                      --                .69                  --                 --
+                                                                     --                ---                  --                 --
+     Net earnings per common share                           $      .42          $    3.13          $     1.33         $      .28
+     =============================                           =      ===          =    ====          =     ====         =      ===
+Weighted average shares outstanding                           2,796,555          2,898,863           3,085,333          3,095,887
+===================================                           =========          =========           =========          =========
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+
+Consolidated Balance Sheets
+
+Seneca Foods Corporation and Subsidiaries
+<CAPTION>
+
+March 31 and July 31,                                                               1995                  1994                1993
+- ---------------------                                                               ----                  ----                ----
+<S>                                                                           <C>                   <C>                 <C>     
+                                                                                                    (In thousands)
+Assets
+Current Assets:
+   Cash and short-term investments                                            $   26,538            $    2,325          $   15,522
+   Accounts receivable, less allowance for doubtful accounts
+     of $227, $183 and $435, respectively                                         32,601                18,651              24,398
+   Inventories (Note 2):
+     Finished products                                                            64,613                46,530              38,350
+     In process                                                                   19,531                17,980              16,366
+     Raw materials and supplies                                                   48,260                28,200              27,870
+   Refundable income taxes (Note 7)                                                   --                   890                  --
+   Deferred tax asset (Note 7)                                                     1,933                 1,194                  --
+   Prepaid expenses                                                                  801                   343                 250
+                                                                                     ---                   ---                 ---
+       Total Current Assets                                                      194,277               116,113             122,756
+       --------------------                                                      -------               -------             -------
+Common Stock of Moog Inc. (Note 3)                                                 7,494                 6,079               6,079
+Other Assets                                                                         237                   193                 214
+- ------------                                                                         ---                   ---                 ---
+Property, Plant, and Equipment (Note 6):
+   Land                                                                            7,810                 4,714               4,526
+   Buildings                                                                      89,298                51,462              50,582
+   Equipment                                                                     189,545               122,865             112,628
+                                                                                 -------               -------             -------
+                                                                                 286,653               179,041             167,736
+Less accumulated depreciation and amortization                                   106,935               100,825              93,647
+                                                                                 -------               -------              ------
+       Net Property, Plant, and Equipment                                        179,718                78,216              74,089
+       ----------------------------------                                        -------                ------              ------
+              Total Assets                                                    $  381,726            $  200,601          $  203,138
+              ============                                                    =  =======            =  =======          =  =======
+
+Liabilities and Stockholders' Equity
+Current Liabilities:
+   Notes payable (Note 4)                                                     $       --            $    1,600          $       --
+   Accounts payable                                                               36,089                31,829              19,742
+   Accrued expenses                                                               19,599                13,541              12,980
+   Current portion of long-term debt and capital lease obligations                 5,594                 6,349               5,057
+   Income taxes (Note 7)                                                             125                    --                 567
+                                                                                     ---                    --                 ---
+       Total Current Liabilities                                                  61,407                53,319              38,346
+Long-Term Debt (Note 5)                                                          220,677                50,619              71,534
+Capital Lease Obligations (Note 6)                                                   803                   857               1,022
+Deferred Income Taxes (Note 7)                                                    11,490                10,521              10,940
+Commitments (Note 6)                                                                  --                    --                  --
+                                                                                      --                    --                  --
+           Total Liabilities                                                     294,377               115,316             121,842
+           -----------------                                                     -------               -------             -------
+Stockholders' Equity (Notes 5 and 8):
+   Preferred stock                                                                    70                    70                  70
+   Common stock                                                                    1,880                 1,880               1,948
+                                                                                   -----                 -----               -----
+     Total Capital Stock                                                           1,950                 1,950               2,018
+   Additional paid-in capital                                                         --                    --               3,157
+   Net unrealized gain on available-for-sale
+     securities (Note 3)                                                             892                    --                  --
+   Retained earnings                                                              84,507                83,335              76,121
+                                                                                  ------                ------              ------
+           Total Stockholders' Equity                                             87,349                85,285              81,296
+           --------------------------                                             ------               -------              ------
+              Total Liabilities and Stockholders' Equity                      $  381,726            $  200,601          $  203,138
+              ==========================================                      =  =======            =  =======          =  =======
+<FN>
+
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+<PAGE>
+<TABLE>
+
+Consolidated Statements of Cash Flows
+- ---------------------------------------------------------------------------------------------------------
+Seneca Foods Corporation and Subsidiaries
+<CAPTION>
+                                                                       (Eight Months)
+Years ended March 31 and July 31,                                           1995             1994              1993           1992
+- ---------------------------------                                           ----             ----              ----           ----
+<S>                                                                   <C>               <C>                <C>           <C>  
+                                                                                             (In thousands)
+Cash flows from operating activities:
+   Net earnings                                                       $    1,184        $   9,104          $  4,118      $     891
+   Adjustments to reconcile net earnings to
+     net cash provided (used) by operations:
+       Depreciation and amortization                                       6,773            9,253             9,270          9,642
+       Deferred income taxes                                                 446            1,587             1,615           (904)
+       Gain on the sale of discontinued operations                            --           (3,444)               --             --
+       Cumulative effect of accounting change                                 --           (2,006)               --             --
+       Extraordinary losses on early extinguishment of debt                   --              606                --            467
+       Changes in working capital:
+         Accounts receivable                                             (13,536)           4,142               822          2,006
+         Inventories                                                     (25,039)         (10,038)            3,723          5,939
+         Prepaid expenses                                                   (458)            (147)               22            (31)
+         Accounts payable and accrued expenses                             3,275           16,117            (7,981)         5,044
+         Income taxes                                                        276           (2,651)              573            303
+                                                                             ---           -------              ---            ---
+       Net cash provided (used) by operations                            (27,079)          22,523            12,162         23,357
+       --------------------------------------                            --------          ------            ------         ------
+
+Cash flows from investing activities:
+   Acquisitions                                                          (16,837)         (11,670)               --             --
+   Additions to property, plant, and equipment                           (26,966)          (9,384)           (1,723)        (8,702)
+   Disposals of property, plant, and equipment                               527              866                82             96
+   Proceeds from the disposal of a segment                                    --            8,356                --             --
+                                                                              --            -----                --             --
+       Net cash provided (used) in investing activities                  (43,276)         (11,832)           (1,641)        (8,606)
+       ------------------------------------------------                  --------         --------           -------        ------ 
+
+Cash flows from financing activities:
+   Proceeds from issuance of long-term debt                              125,000               --                --         22,630
+   Payments of long-term debt and capital lease obligations              (28,776)         (19,788)           (2,345)       (31,056)
+   Notes payable                                                          (1,600)           1,600                --             --
+   Other assets                                                              (44)              21              (137)           352
+   Dividends paid                                                            (12)             (23)              (23)           (23)
+   Common stock retirements                                                   --           (5,092)             (384)           (81)
+   Extraordinary losses on early extinguishment of debt                       --             (606)               --           (467)
+                                                                          ------          -------            ------         ------
+       Net cash provided (used) in financing activities                   94,568          (23,888)           (2,889)        (8,645)
+       ------------------------------------------------                   ------          --------           -------        ------ 
+
+Net increase (decrease) in cash and short-term investments                24,213          (13,197)            7,632          6,106
+Cash and short-term investments, beginning of year                         2,325           15,522             7,890          1,784
+                                                                           -----           ------             -----          -----
+Cash and short-term investments, end of year                          $   26,538        $   2,325          $ 15,522      $   7,890
+============================================                          =   ======        =   =====          = ======      =   =====
+
+Supplemental disclosures of cash flow information: Cash paid during the year for:
+     Interest                                                         $    5,543        $   7,170          $  9,400      $  10,853
+     Income taxes                                                            (33)           4,785             1,076          1,022
+<FN>
+Supplemental information on noncash investing and financing activities:
+     The Company issued a secured nonrecourse  subordinated  promissory note for
+     $73,025,000 in 1995 in conjunction with the acquisition of Green Giant.
+
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+
+
+Consolidated Statements of Stockholders' Equity
+- ---------------------------------------------------------------------------------------------------------
+Seneca Foods Corporation and Subsidiaries
+<CAPTION>
+
+                                     Preferred Stock
+                                                       Class A
+                             6% Cumulative      10% Cumulative                                       Net Unrealized
+                            Par Value $.25     Par Value $.025                       Additional      Gain (Loss) on
+                           Callable at Par         Convertible        Common Stock      Paid-In  Available-For-Sale        Retained
+                                    Voting              Voting      Par Value $.25      Capital          Securities        Earnings
+                           ---------------     ---------------      --------------   ----------  ------------------        --------
+<S>                                 <C>              <C>                <C>            <C>                  <C>           <C>
+
+                                                              (In thousands, except share amounts)
+Shares authorized                   200,000          1,400,000          10,000,000
+=================                   =======          =========          ==========
+Shares issued and outstanding:
+   July 31, 1992                    200,000            807,240           3,093,666
+   =============                    =======            =======           =========
+   July 31, 1993                    200,000            807,240           3,068,666
+   =============                    =======            =======           =========
+   July 31, 1994                    200,000            807,240           2,796,555
+   =============                    =======            =======           =========
+   March 31, 1995                   200,000            807,240           2,796,555
+   ==============                   =======            =======           =========
+
+Balance July 31, 1991                   $50                $20              $1,955     $  3,615             $    --       $  71,158
+   Net earnings                          --                 --                  --           --                  --             891
+   Cash dividends paid
+     on preferred stock                  --                 --                  --           --                  --             (23)
+   Retirement of
+     common stock                        --                 --                  (1)         (80)                 --              --
+   Net unrealized loss                   --                 --                  --           --              (1,757)             --
+   -------------------                  ---                ---               -----        -----              -------         ------
+Balance July 31, 1992                    50                 20               1,954        3,535              (1,757)         72,026
+   Net earnings                          --                 --                  --           --                  --           4,118
+   Cash dividends paid
+     on preferred stock                  --                 --                  --           --                  --             (23)
+   Retirement of
+     common stock                        --                 --                  (6)        (378)                 --              --
+   Net unrealized gain                   --                 --                  --           --               1,757              --
+   -------------------                  ---                ---               -----        -----               -----          ------
+Balance July 31, 1993                    50                 20               1,948        3,157                  --          76,121
+   Net earnings                          --                 --                  --           --                  --           9,104
+   Cash dividends paid
+     on preferred stock                  --                 --                  --           --                  --             (23)
+   Retirement of
+     common stock                        --                 --                 (68)      (3,157)                 --          (1,867)
+     ------------                       ---                ---               -----      -------               -----          ------ 
+Balance July 31, 1994                    50                 20               1,880           --                  --          83,335
+Net earnings                             --                 --                  --           --                  --           1,184
+   Cash dividends paid
+     on preferred stock                  --                 --                  --           --                  --             (12)
+   Net unrealized gain                   --                 --                  --           --                 892              --
+   -------------------                   --                ---              ------      -------              ------          ------
+Balance March 31, 1995                  $50                $20              $1,880     $     --             $   892       $  84,507
+======================                  ===                ===              ======     =     ==             =   ===       =  ======
+<FN>
+
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+Notes to Consolidated Financial Statements
+- --------------------------------------------------
+
+Seneca Foods Corporation and Subsidiaries
+
+1.  Summary of Significant Accounting Policies
+
+Accounting Period - In 1995, the Company changed its fiscal year end to March 
+31.  Fiscal 1995 is an eight-month transition period ended March 31, 1995.
+
+Principles of Consolidation - The consolidated  financial statements include the
+accounts for the parent Company and all of its wholly-owned  subsidiaries  after
+elimination of intercompany transactions, profits, and balances.
+
+Revenue  Recognition  - Sales and related  cost of product  sold are  recognized
+primarily upon shipment of products.
+
+Concentration of Credit Risk - Financial  instruments  that potentially  subject
+the Company to credit risk  consist of trade  receivables  and  interest-bearing
+investments.  Wholesale  and retail  food  distributors  comprise a  significant
+portion  of  the  trade  receivables;  collateral  is  not  required.  The  risk
+associated  with  the  concentration  is  limited  due to the  large  number  of
+wholesalers and retailers and their geographic dispersion.
+
+The Company  places  substantially  all its  interest-bearing  investments  with
+financial institutions and monitors credit exposure.
+
+Cash and  Short-Term  Investments - For purposes of the statement of cash flows,
+the Company considers all highly liquid instruments  purchased for a maturity of
+three months or less as short-term investments.
+
+Inventories  -  Inventories  are  stated  at lower of cost;  last-in,  first-out
+(LIFO); or market.
+
+Income Taxes - The provision for income taxes  includes  federal,  foreign,  and
+state income taxes  currently  payable and those  deferred  because of temporary
+differences  between  the  financial  statement  and tax  bases  of  assets  and
+liabilities.
+
+Depreciation - Property,  plant, and equipment is stated at cost or, in the case
+of capital  leases,  the present value of future lease  payments.  For financial
+reporting,  the Company provides for depreciation and capital lease amortization
+on the  straight-line  method at rates based upon the estimated  useful lives of
+the various assets.
+
+Earnings per Common Share - Primary  earnings  per share are  calculated  on the
+basis of weighted average common shares  outstanding  since the effect of common
+stock  equivalents  is  immaterial.  The  difference  between  primary and fully
+diluted earnings per share is also immaterial.
+
+
+2.  Inventories
+
+The replacement value of the LIFO based inventory was $138,192,000 at March 31,
+1995, and $99,647,000 and  $88,864,000 at July 31, 1994 and 1993, respectively.
+
+<PAGE>
+
+Notes to Consolidated Financial Statements (continued)
+
+3.  Common Stock of Moog Inc.
+
+The  Company's  investment  in the common  stock of Moog Inc. is carried at fair
+value in 1995 in accordance with the Statement of Financial Accounting Standards
+(SFAS) No. 115. There were no realized gains or losses in 1995,  1994,  1993, or
+1992,  and gross  unrealized  holding  gains of  $1,416,000  at March 31,  1995,
+$708,000 at July 31, 1994, and $100,000 at July 31, 1993. The Company owns about
+7% of the voting  stock of Moog Inc. as of March 31,  1995.  The Company has the
+ability and intent to hold these securities for the foreseeable future.
+
+
+4.  Lines of Credit
+
+The Company obtains required  short-term  funds through bank borrowings.  During
+1995 the Company  entered  into an unsecured  revolving  credit  agreement  with
+various banks.  At March 31, 1995, the Company had  $3,833,000  outstanding  for
+letters  of  credit  and  an  unsecured   revolving  line  of  credit   totaling
+$150,000,000.  The line is  renewable  in three years and  provides for loans of
+varying maturities at rate options based on Prime, Eurodollar, or Money Market.
+
+Selected details are as follows:
+<TABLE>
+<CAPTION>
+
+                                                              1995              1994             1993              1992
+                                                              ----              ----             ----              ----
+                                                                            (In thousands of dollars)
+         <S>                                              <C>               <C>              <C>              <C>      
+
+         Borrowings at year end:
+           Amount                                         $     --          $  1,600         $     --         $      --
+           Interest rate                                        --              5.34%              --                --
+         Maximum borrowings during the year               $ 54,140          $  7,000         $ 38,300         $  40,500
+         Average borrowings during the year:
+           Amount                                         $ 20,467          $    158         $ 14,703         $  22,563
+           Interest rate                                      6.06%             4.53%            4.17  %           5.44%
+</TABLE>
+
+The average  borrowings  were  computed by dividing the total daily  outstanding
+balances by 365 days.  The average  interest  rate was  computed by dividing the
+actual interest expense by the average borrowings.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+5.  Long-Term Debt
+<TABLE>
+<CAPTION>
+
+                                                                             1995              1994              1993
+                                                                             ----              ----              ----
+                                                                                          (In thousands)
+<S>                                                                          <C>               <C>               <C>    
+
+Note payable to insurance company, 10.78%, due through 2005                  $   75,000        $      --         $      --
+Secured nonrecourse subordinated promissory note, 8.00%, due                     73,025               --                --
+  through 2009
+Note payable to insurance company, 10.81%, due through 2009                      50,000               --                --
+Note payable to insurance company, 9.78%, due through 2001                           --           28,300            30,000
+Note payable to insurance company, 13.25%, due through 2001                          --               --            16,800
+Industrial Revenue Development Bonds, variable rate, 12.76%, or
+  varies with prime, due through 2028                                            26,480           26,780            27,430
+Subordinated debentures, 12% or varies with prime, due through 1996                 471              471               471
+Notes payable to others, 3% to 8.55%, due through 2012                            1,186            1,252             1,263
+                                                                                -------          -------           -------
+                                                                                226,162           56,803            75,964
+Less current portion                                                              5,485            6,184             4,430
+                                                                                -------          -------           -------
+                                                                               $220,677          $50,619           $71,534
+</TABLE>
+
+Debt agreements provide various financial  covenants  including a provision that
+the  Company  may pay  dividends  on common  stock  only from  consolidated  net
+earnings available for distribution.  There was $1,382,000 of earnings available
+for distribution as of March 31, 1995. All provisions have been met at March 31,
+1995.
+
+In connection with the Company's  acquisition of  manufacturing  facilities from
+The Pillsbury Company, a secured  nonrecourse  subordinated  promissory note was
+issued totaling $73,025,000 (see Acquisitions, note 13).
+
+The Company has four  Industrial  Revenue Bonds ("IRB's")  totaling  $22,630,000
+which are backed by direct pay letters of credit.
+
+Debt repayment requirements for the next five fiscal years are:
+
+                            (In thousands)
+                      1996             $  5,485
+                      1997                3,747
+                      1998                9,334
+                      1999               11,310
+                      2000               15,951
+
+During 1995 the Company paid off its 9.78% note payable to the insurance company
+and the related prepayment penalty was not significant.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+6.  Leases
+
+The Company leases a portion of its equipment and buildings.  Capitalized leases
+consist primarily of industrial  development agency financing  instruments which
+bear interest  rates from 5.85% to 6.75%.  Other leases  include  non-cancelable
+operating leases expiring at various dates through 2010.
+
+Leased assets under capital leases consist of the following:
+<TABLE>
+<CAPTION>
+
+                                                          1995              1994             1993
+                                                          ----              ----             ----
+                                                                      (In thousands)
+                  <S>                                <C>               <C>              <C>   
+
+                  Land                               $      93         $      93        $     156
+                  Buildings                              1,792             1,792            5,892
+                  Equipment                              1,194             1,167            4,004
+                                                         -----             -----            -----
+                                                         3,079             3,052           10,052
+                  Less accumulated amortization          1,821             1,791            6,070
+                                                         -----             -----            -----
+                                                     $   1,258         $   1,261        $   3,982
+                                                     =   =====         =   =====        =   =====
+</TABLE>
+
+The  following is a schedule by year of minimum  payments due under leases as of
+March 31, 1995:
+<TABLE>
+<CAPTION>
+
+                                                                       Operating          Capital
+                                                                       ---------          -------
+                                                                             (In thousands)
+<S>                                                                     <C>                <C>  
+
+                  Year ending March 31:
+                    1996                                                $  4,437            $ 167
+                    1997                                                   3,468              124
+                    1998                                                   2,364              124
+                    1999                                                   2,003              124
+                    2000                                                   1,782              124
+                    2001-2010                                              4,312              560
+                                                                           -----              ---
+                  Total minimum payment required                        $ 18,366            1,223
+                  ==============================                        = ======                 
+
+                  Less interest                                                               311
+                    Present value of minimum lease payments                                   912
+                  Amount due within one year                                                  109
+                                                                                              ---
+                    Long-term capital lease obligations                                     $ 803
+                    ===================================                                     = ===
+</TABLE>
+
+
+Aggregate  rental  expense  in  1995,  1994,  1993,  and  1992  was  $2,031,000,
+$2,190,000, $2,266,000, and $2,684,000, respectively.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+7.  Income Taxes
+
+The Company  files a  consolidated  income tax return.  The provision for income
+taxes  includes the effect of continuing  and  discontinued  operations  and the
+extraordinary items as follows:
+<TABLE>
+<CAPTION>
+
+                                                   (Eight Months)
+                                                        1995           1994              1993             1992
+                                                        ----           ----              ----             ----
+                                                                    (In thousands)
+                                                     <S>           <C>               <C>               <C>
+
+                         Current:
+                           Federal                   $   716       $  2,970          $  1,175          $ 1,276
+                           State                         107            430               363              200
+                                                         ---            ---               ---              ---
+                                                         823          3,400             1,538            1,476
+                                                         ---          -----             -----            -----
+                         Deferred:
+                           Federal                      (203)           275              (784)            (897)
+                           State                          68             46               (57)            (158)
+                                                          --             --               ----            ---- 
+                                                        (135)           321              (841)          (1,055)
+                                                        -----           ---              ----           ------ 
+                             Total income taxes      $   688       $  3,721          $    697          $   421
+                             ==================      =   ===       =  =====          =    ===          =   ===
+</TABLE>
+
+In August, 1992 the Internal Revenue Service completed its audit of fiscal years
+1983 and 1984.  This  conclusion  allowed the Company to file a refund claim for
+the years 1985 and 1986.  This refund was  received  during the 1993 fiscal year
+resulting in a $1,000,000  reduction in the provision for income taxes.  Also in
+1993, interest income of $1,680,000 has been netted against the interest expense
+category in the Consolidated Statements of Net Earnings.
+
+The  cumulative  effect of the  adoption  of SFAS No.  109 on August 1, 1993 was
+$2,006,000.  This change is reported in the 1994 Consolidated  Statements of Net
+Earnings.  As permitted under this rule,  prior years financial  statements have
+not been restated to apply the provisions of SFAS No. 109.
+
+A reconciliation of the expected U.S.statutory rate to the effective rate
+follows:
+<TABLE>
+<CAPTION>
+
+                                                      1995             1994              1993             1992
+                                                      ----             ----              ----             ----
+<S>                                                   <C>              <C>               <C>              <C> 
+
+
+                  Computed (expected tax rate)        34.0 %           34.0 %            34.0 %           34.0 %
+                  State income taxes (net of
+                    federal tax benefit)               6.2              2.4               4.2              2.1
+                  Depreciation adjustment               --               --               0.1              0.6
+                  IRS settlement                        --               --             (20.8)              --
+                  Other                               (3.5)            (1.9)             (3.0)            (4.6)
+                                                      -----            -----             -----            ---- 
+                    Effective tax rate                36.7 %           34.5 %            14.5 %           32.1 %
+                    ==================                ==== =           ==== =            ==== =           ====  
+</TABLE>
+
+
+<PAGE>
+
+
+
+The  following  is a summary  of the  significant  components  of the  Company's
+deferred tax assets and liabilities as of March 31, 1995 and July 31, 1994:
+<TABLE>
+<CAPTION>
+
+                                                                            1995             1994
+                                                                            ----             ----
+                                                                               (In thousands)
+<S>                                                                     <C>              <C> 
+
+                           Deferred tax liabilities:
+                             Basis and depreciation difference          $ 10,208         $  9,946
+                             LIFO                                          1,061              622
+                             State taxes                                     758              789
+                             Moog investment                                 524               --
+                             Other                                            --              538
+                                                                          ------           ------
+                                                                          12,551           11,895
+                                                                          ------           ------
+                           Deferred tax assets:
+                             Employee benefits                               756              586
+                             Future tax credits                              720               --
+                             Pension                                         574              497
+                             Other                                           424              321
+                             Insurance                                       381              466
+                             Sales tax                                       112              114
+                             Inventory valuation                              27              584
+                                                                           -----            -----
+                                                                           2,994            2,568
+                                                                           -----            -----
+                                 Deferred tax liability                 $  9,557         $  9,327
+                                 ======================                 =  =====         =  =====
+</TABLE>
+
+
+Net current assets of $1,933,000 and $1,194,000 and net non-current  liabilities
+of  $11,490,000  and  $10,521,000  as of March  31,  1995  and  July  31,  1994,
+respectively, are recognized in the balance sheets. As required by SFAS No. 109,
+the  deferred tax asset was  recorded on the balance  sheet as a current  asset.
+Certain  items in the prior  year have been  reclassified  to conform to current
+year classifications.
+
+Prior to the change in accounting methods, the sources of deferred tax items and
+the corresponding tax effects during 1993 and 1992 were as follows:
+<TABLE>
+<CAPTION>
+
+                                                                            1993              1992
+                                                                            ----              ----
+                                                                               (In thousands)
+                                    <S>                                 <C>               <C> 
+
+                                    Accelerated depreciation:
+                                      Federal                           $    275          $   (94)
+                                      State                                   19              (20)
+                                    Vacation accrual                           5               (4)
+                                    Bad debts                                (92)               1
+                                    Inventory valuation                      (91)            (586)
+                                    Involuntary conversion                   (30)             (30)
+                                    Insurance accrual                       (157)             321
+                                    Promotion accrual                          6               49
+                                    Prepayments:
+                                      Debt extinguishment                    262             (262)
+                                      Lease                                   48             (103)
+                                    IRS settlement                        (1,000)               --
+                                    Other                                    (86)            (327)
+                                                                           -----           -------
+                                        Total deferred taxes            $   (841)         $(1,055)
+                                        ====================            =   =====         ========
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+Notes to Consolidated Financial Statements (continued)
+
+8.  Stockholders' Equity
+
+Preferred Stock - The outstanding 10% cumulative,  convertible, voting preferred
+stock consists of 407,240 series A shares, convertible at the rate of one common
+share for every twenty  preferred  shares,  and 400,000  series B shares,  which
+carry a one for thirty  conversion  rate.  The series A and B shares have a $.25
+stated value and a $.025 par value.  There are  2,600,000  shares  authorized of
+Class A $.025 par value stock which are unissued and  undesignated.  In addition
+there  are  30,000   shares  of  no  par  stock  which  are  also  unissued  and
+undesignated.
+
+Common  Stock  -  Unissued  shares  of  common  stock  reserved  for  conversion
+privileges were 33,695 at March 31, 1995, and July 31, 1994, 1993, and 1992.
+
+
+9.  Quarterly Results (Unaudited)
+
+The  following is a summary of the  unaudited  interim  results of operations by
+quarter:
+<TABLE>
+<CAPTION>
+
+                                                              First                 Second                 Third          Fourth
+                                                              -----                 ------                 -----          ------
+                                                                     (In thousands, except per share data)
+<S>                                                           <C>                 <C>                    <C>              <C>  
+
+Year ended March 31, 1995:
+Net sales                                                     $ 88,827            $ 87,935               $ 57,311*
+NA
+Gross margin                                                    10,845              10,353                 10,590*              NA
+Earnings from continuing operations                                733                 159                    292*              NA
+Earnings from continuing operations per share                      .26                 .05                    .11*              NA
+Net earnings                                                       733                 159                    292*              NA
+Net earnings per common share                                      .26                 .05                    .11*              NA
+
+Year ended July 31, 1994:
+Net sales                                                     $ 62,003            $ 83,780               $ 82,586         $ 61,816
+Gross margin                                                     8,618              12,426                 11,893           10,090
+Earnings from continuing operations                                259               1,203                  1,784            2,095
+Earnings from continuing operations per share                      .07                 .41                    .62              .74
+Earnings before extraordinary item and
+     accounting change                                           2,406               1,203                  1,857            2,238
+Earnings before extraordinary item and
+     accounting change per share                                   .80                 .41                    .64              .80
+Net earnings                                                     4,412               1,203                  1,857            1,632
+Net earnings per common share                                     1.47                 .42                    .66              .58
+
+Year ended July 31, 1993:
+Net sales                                                     $ 58,451            $ 71,510               $ 67,635         $ 59,806
+Gross margin                                                     8,751               8,993                  6,355           11,160
+Earnings (loss) from continuing operations                         129                (206)                  (153)           3,383
+Earnings (loss) from continuing operations per share               .04                (.07)                  (.05)            1.10
+Net earnings                                                       303                   4                    252            3,559
+Net earnings per common share                                      .10                 .00                    .08             1.15
+<FN>
+
+*Represents two months of activity.
+</FN>
+</TABLE>
+
+Earnings  for the fourth  quarter  (third  quarter  in 1995)  have  historically
+reflected  adjustments of previously estimated raw material costs and production
+levels.  Due to the  dependence on fruit and  vegetable  yields of the Company's
+food processing segment,  interim costing must be estimated. The volatile nature
+of  inventory  quantities  and costs  within the food  processing  segment  also
+necessitates estimates of interim changes to the Company's LIFO reserve.
+
+
+
+<PAGE>
+
+
+
+Notes to Consolidated Financial Statements (continued)
+
+10.  Retirement Plan
+
+The Company has a  noncontributory  defined  benefit  pension plan  covering all
+employees  who meet  certain age entry  requirements  and work a stated  minimum
+number of hours per year.  Annual  contributions are made to the Plan sufficient
+to satisfy legal funding requirements.
+
+Pension expense includes the following:
+<TABLE>
+<CAPTION>
+
+                                                      (Eight Months)
+                                                           1995                1994                 1993               1992
+                                                           ----                ----                 ----               ----
+                                                                             (In thousands)
+                                                        <S>                 <C>                  <C>                 <C> 
+
+Service cost for benefits earned during the period      $   484             $   818              $   838             $  701
+Interest cost on projected benefit obligation               745                 998                  983                905
+Actual (return) loss on plan assets                      (2,474)             (1,691)                (655)               337
+Net deferral of actuarial gains (losses)                  1,593                 673                 (568)            (1,659)
+Amortization of net unrecognized gain at
+   August 1, 1987                                          (184)               (276)                (276)              (276)
+Amortization of losses                                       --                 144                   --                 --
+Amortization of prior service cost                           62                  94                   94                 94
+                                                             --                  --                   --                 --
+     Pension expense                                    $   226             $   760              $   416             $  102
+     ===============                                    =   ===             =   ===              =   ===             =  ===
+</TABLE>
+
+
+The following  table  summarizes the funded status and related  amounts that are
+recognized in the consolidated balance sheets:
+<TABLE>
+<CAPTION>
+
+                                                           1995               1994                  1993               1992
+                                                           ----               ----                  ----               ----
+                                                                           (In thousands)
+<S>                                                    <C>                <C>                  <C>                  <C> 
+
+Actuarial present value of accumulated benefit obligation:
+   Vested                                              $  10,717          $  11,214            $   8,478            $ 7,896
+   Nonvested                                                 562                689                  507                262
+                                                             ---                ---                  ---                ---
+       Total                                           $  11,279          $  11,903            $   8,985            $ 8,158
+       =====                                           =  ======          =  ======            =   =====            = =====
+
+Plan assets at fair market value, primarily listed
+   stocks and fixed income securities                  $  18,165          $  16,009            $  14,867            $14,739
+Projected benefit obligation                              15,113             15,684               12,920             11,877
+                                                          ------             ------               ------             ------
+   Plan assets in excess of projected
+   benefit obligation                                      3,052                325                1,947              2,862
+Unrecognized gain at transition                           (4,647)            (4,832)              (5,108)            (5,384)
+Unrecognized prior service cost                              688                750                  844                938
+Unrecognized net (gain) loss                                (781)             2,295                1,616              1,299
+                                                            -----             -----                -----              -----
+       Accrued pension liability                       $  (1,688)         $  (1,462)           $    (701)           $  (285)
+       =========================                       =  =======         =  =======           =    =====           =  ==== 
+</TABLE>
+
+The projected  benefit  obligation was determined using an assumed discount rate
+of 8% and an assumed long-term salary increase rate of 5%. The assumed long-term
+rate of return on plan assets was 8.5%. The Plan holds the Company's  stock with
+a fair market value of $2,678,000.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+11.  Discontinued Operations
+
+In August  1993 the  Company  completed  its sale of the  textile  division  for
+$8,400,000 in cash and reported a net gain of $2,273,000 in the first quarter of
+1994. As a result of the sale,  textile  operations  have been  accounted for as
+discontinued  operations in prior periods in the Consolidated  Statements of Net
+Earnings.
+
+Net sales for the textile division were $2,246,000 in 1994, $43,087,000 in 1993,
+and $49,265,000 in 1992. Total assets were $8,400,000 and total liabilities were
+$3,500,000 resulting in $4,900,000 of net assets as of the August 1993 closing.
+
+
+12.  Fair Value of Financial Instruments
+
+As of March 31, 1995,  the carrying  amount and the fair value of the  Company's
+financial instruments, as determined under SFAS No. 107, "Disclosures about Fair
+Value of Financial Instruments", were as follows:
+<TABLE>
+<CAPTION>
+
+                                                                        Carrying        Estimated
+                                                                          Amount       Fair Value
+                                                                        --------       ----------
+                                                                           (In thousands)
+                                    <S>                                 <C>              <C>   
+
+                                    Long-term debt, including
+                                      current portion                   $226,162         $226,371
+                                    Common stock of Moog Inc.              7,494            7,494
+</TABLE>
+
+The estimated fair values were determined as follows:
+
+     Long-term debt - The quoted market prices for similar debt or current rates
+     offered to the Company for debt with the same maturities.
+
+     Common stock of Moog Inc. - Based on quoted market prices.
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+13. Acquisitions
+
+On  February  10, 1995 the Company  acquired  certain  assets of the Green Giant
+division of The Pillsbury Company (referred to as "Pillsbury"),  a subsidiary of
+Grand  Metropolitan  Incorporated.  Under  an  Alliance  Agreement  concurrently
+executed  by  the  Company,   Pillsbury  and  Grand  Metropolitan  Incorporated,
+Pillsbury  will continue to be responsible  for all of the sales,  marketing and
+customer  service  functions  for the Green Giant brand,  while the Company will
+handle vegetable  processing and canning operations.  Pillsbury continues to own
+all the  trademark  rights to the Green  Giant  brand and its  proprietary  seed
+varieties.  The assets  acquired  include  certain  raw  material  and  supplies
+inventory  and  six  manufacturing  facilities  located  in the  Midwestern  and
+Northwestern  United  States.  The purchase price was based on the book value of
+the assets  acquired.  The purchase price of $86,093,000 was funded by a secured
+nonrecourse  subordinated  promissory note issued by the Company for $73,025,000
+and the balance was funded out of working capital.
+
+On August 17, 1994 the Company acquired the assets of M.C. Snack, Inc. of
+Yakima, Washington, a snack food maker of apple chips. The purchase price of
+$3,769,000 was funded out of working capital.
+
+On December 20, 1993 the Company acquired certain assets of ERLY Juice, Inc. and
+WorldMark,  Inc. The assets  acquired  include  certain  trademarks,  inventory,
+accounts  receivable,  and  manufacturing  facilities  located  in  Eau  Claire,
+Michigan.  Most of the products are sold under the TreeSweet brand. The purchase
+price was $8,372,000 which was funded out of working capital.
+
+The Company acquired the Wapato, Washington juice processing business of Sanofi
+Bio-Industries, Inc. on November 30, 1993.  The purchase price was $3,298,000
+which was funded out of working capital.
+
+All acquisitions were accounted for under the purchase method and,  accordingly,
+the operating  results of the acquired  have been  included in the  consolidated
+operating results since the dates of acquisition.
+
+The following summary,  prepared on a pro forma basis, combines the consolidated
+results of  operations  as if Green  Giant,  M.C.  Snack,  ERLY and Sanofi  were
+acquired at the beginning of the periods presented:
+<TABLE>
+<CAPTION>
+
+                                                                       (Eight Months)
+                                                                            1995                      1994
+                                                                            ----                      ----
+                                                                                   (Unaudited)
+                                                                  (In thousands, except per share amounts)
+                  <S>                                                  <C>                       <C>   
+
+
+                  Net sales                                            $ 422,220                 $ 572,405
+                  =========                                            = =======                 = =======
+
+                  Net earnings from continuing operations              $   4,317                 $  10,041
+                  =======================================              =   =====                 =  ======
+
+                  Net earnings from continuing operations per share    $    1.54                 $    3.47
+                  =================================================    =    ====                 =    ====
+</TABLE>
+
+
+<PAGE>
+
+
+Independent Auditors' Report
+
+To the Board of Directors
+   and Stockholders of
+Seneca Foods Corporation
+Pittsford, New York
+
+We have audited the  accompanying  consolidated  balance  sheets of Seneca Foods
+Corporation  and  subsidiaries  as of March 31, 1995, July 31, 1994 and July 31,
+1993,  and the related  consolidated  statements of net earnings,  stockholders'
+equity, and cash flows for the eight months ended March 31, 1995 and for each of
+the three years in the period ended July 31, 1994.  These  financial  statements
+are the  responsibility of the Company's  management.  Our  responsibility is to
+express an opinion on these financial statements based on our audits.
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion,  such consolidated  financial  statements present fairly, in all
+material  respects,  the  financial  position of Seneca  Foods  Corporation  and
+subsidiaries  as of March 31,  1995,  July 31, 1994 and July 31,  1993,  and the
+results of their  operations  and their cash  flows for the eight  months  ended
+March 31, 1995 and for each of the three years in the period ended July 31, 1994
+in conformity with generally accepted accounting principles.
+
+As discussed in Note 7 to the consolidated financial statements,  in fiscal 1994
+the Company  changed its method of  accounting  for income taxes to conform with
+Statement of Financial Accounting Standards No. 109.
+
+
+/s/Deloitte & Touche LLP
+
+
+Rochester, New York
+May 30, 1995
+
+
+
+<PAGE>
+
+
+Directors
+
+Robert T. Brady
+President and Chief Executive Officer
+Moog Inc.
+
+David L. Call
+Dean, College of Agriculture
+and Life Sciences
+Cornell University
+
+Edward O. Gaylord
+President
+Gaylord & Company
+
+G. Brymer Humphreys
+President
+Humphreys Farm Inc.
+
+Kraig H. Kayser
+President and Chief Executive Officer
+
+Michael A. Schaeffer
+Vice-President - Production,
+Pillsbury Brands
+Grand Metropolitan, PLC
+
+Susan W. Stuart
+Marketing Consultant
+
+Arthur S. Wolcott
+Chairman
+
+Officers
+
+Corporate
+
+Arthur S. Wolcott
+Chairman
+
+Kraig H. Kayser
+President and Chief Executive Officer
+
+Alvin L. Gauvin
+Senior Vice President, Branded Sales and Marketing
+
+Ricke A. Kress
+Senior Vice President, Operations
+
+Devra A. Bevona
+Treasurer
+
+Jeffrey L. Van Riper
+Controller and Secretary
+
+Processed Food Group
+
+Seneca Foods -
+    Central
+    Michael H. Haney
+    President
+
+    Eastern
+    Steven E. Klus
+    President
+
+    Western
+    Edward J. Johnson
+    President
+
+    Kennett
+    Richard O. Mayo
+    President
+
+Sales and Marketing Groups -
+
+    Branded Sales
+    Michael B. Malone
+    Vice President
+
+    Non-Branded Sales and
+    Strategic Relations
+    R. Russell Curtis
+    Vice President
+
+Technical Services Group -
+
+    Vincent J. Lammers
+    Vice President
+
+Non-Food Group
+
+Seneca Flight Operations
+Paul E. Middlebrook
+President
+
+
+<PAGE>
+
+
+Corporate Offices
+
+1162 Pittsford-Victor Road
+Pittsford, New York  14534
+Telephone (716) 385-9500
+
+Independent Auditors
+
+Deloitte & Touche LLP
+Rochester, New York
+
+General Counsel
+
+Jaeckle, Fleischmann & Mugel
+Buffalo, New York
+
+Transfer Agent and Registrar
+
+Seneca Foods Corporation
+Suite 1010, 1605 Main Street
+Sarasota, Florida  34236
+
+Manufacturing Plants
+    and Warehouses
+
+Food Group
+
+Buhl, Idaho
+Eau Claire, Michigan
+Blue Earth. Minnesota
+Glencoe, Minnesota
+Montgomery, Minnesota
+Rochester, Minnesota
+Dundee, New York
+East Williamson, New York
+Geneva, New York
+Marion, New York
+Newark, New York
+Oaks Corners, New York
+Portland, New York
+Seneca Castle, New York
+Mountain Home, North Carolina
+Kennett Square, Pennsylvania
+Dayton, Washington
+Othello, Washington
+Prosser, Washington
+Yakima, Washington
+Baraboo, Wisconsin
+Cumberland, Wisconsin
+Jackson, Wisconsin
+Janesville, Wisconsin
+Mayville, Wisconsin
+
+Non-Food Group
+
+Chicopee, Massachusetts
+Peabody, Massachusetts
+Clifton Park, New York
+Penn Yan, New York
+
+
+Notice of Annual Meeting
+
+The 1995 Annual  Meeting of  Shareholders  will be held on  Saturday,  August 5,
+1995,  beginning at 9:00 A.M. at the Company's  facilities at 74 Seneca  Street,
+Dundee, New York. A formal notice of the meeting together with a proxy statement
+and proxy form will be mailed to shareholders of record as of June 16, 1995.
+
+Additional Information
+
+A copy of the  Company's  Annual  Report on Form 10-K for the fiscal  year ended
+March 31, 1995, as filed with the  Securities and Exchange  Commission,  will be
+provided by the Company to any shareholder who so requests in writing.  Requests
+should  be  sent  to  Devra  A.   Bevona,   Seneca   Foods   Corporation,   1162
+Pittsford-Victor Road, Pittsford, New York 14534.
+
+
+<PAGE>
+
+
+
+
+
+
+Shareholder Information
+
+The Company's  common stock is traded on NASDAQ National Market System.  The 2.8
+million outstanding shares are owned by 639 shareholders of record. The high and
+low prices of the  Company's  common stock during each quarter of the past three
+years are shown below.
+<TABLE>
+<CAPTION>
+
+                                                  1995                  1994                   1993
+                                                  ----                  ----                   ----
+                  Quarter                    High        Low       High        Low       High          Low
+                  -------                    ----        ---       ----        ---       ----          ---
+                  <S>                    <C>        <C>         <C>        <C>        <C>          <C>
+
+
+                  First                  $  24.50   $  21.00    $ 19.50    $ 15.50    $ 16.00      $ 15.25
+                  Second                    35.00      23.50      20.00      18.50      16.25        15.25
+                  Third                     35.50      32.50      21.00      19.00      16.25        15.25
+                  Fourth                       NA         NA      22.75      19.50      16.38        14.75
+</TABLE>
+
+
+The  Company  may pay  dividends  on common  stock  only from  consolidated  net
+earnings  available for distribution which were $1,382,000 as of March 31, 1995.
+Payment of dividends to common  stockholders  is made at the  discretion  of the
+Company's  Board of Directors  and depends,  among other  factors,  on earnings,
+capital  requirements,  operating  and financial  condition of the Company.  The
+Company has not declared or paid a common dividend in many years.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<TEXT>
+
+
+                                   Exhibit 21
+
+                              LIST OF SUBSIDIARIES
+
+The  following  is  a  listing  of  subsidiaries  100%  owned  by  Seneca  Foods
+Corporation, directly or indirectly:
+
+    Name                                                       State
+
+    Marion Foods, Inc.                                       New York
+    Seneca Foods International, Ltd.                         New York
+    SSP Company, Inc.                                        Massachusetts
+
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities  Exchange
+Act of 1934,  the  registrant  has duly  caused  this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                            SENECA FOODS CORPORATION
+
+
+                             By/s/  Jeffrey L. Van Riper     June 22, 1995
+                                    --------------------
+                                    Jeffrey L. Van Riper
+                                    Controller and Secretary
+                                    (Principal Accounting Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following  persons on behalf of the  registrant and
+in the capacities and on the dates indicated:
+
+    Signature                 Title                                  Date
+
+
+/s/Arthur S. Wolcott    Chairman and Director                   June 22, 1995
+- --------------------
+Arthur S. Wolcott
+
+
+
+/s/Kraig H. Kayser      President, Chief Executive Officer,     June 22, 1995
+- ------------------  
+Kraig H. Kayser         and Director
+
+
+
+/s/Devra A. Bevona      Treasurer                               June 22, 1995
+Devra A. Bevona
+
+
+
+/s/Jeffrey L. Van Riper Controller and Secretary                June 22, 1995
+- ----------------------- 
+Jeffrey L. Van Riper    (Principal Accounting Officer)
+
+
+
+/s/Robert T. Brady      Director                                June 22, 1995
+- ---------------------
+Robert T. Brady
+
+
+
+/s/David L. Call         Director                               June 22, 1995
+- ----------------------
+David L. Call
+
+
+
+<PAGE>
+
+
+Continued
+
+
+Signature                 Title                                      Date
+
+
+
+/s/Edward O. Gaylord    Director                                June 22, 1995
+- -----------------------
+Edward O. Gaylord
+
+
+
+/s/G. Brymer Humphreys  Director                                June 22, 1995
+- -----------------------
+G. Brymer Humphreys
+
+
+
+/s/Michael A. Schaeffer Director                                June 22, 1995
+- -----------------------
+Michael A. Schaeffer
+
+
+
+/s/Susan W. Stuart      Director                                June 22, 1995
+- -----------------------
+Susan W. Stuart
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+Commercial and Industrial Companies
+Article 5 of Regulation S-X
+</LEGEND>
+<MULTIPLIER> 1000
+       
+<S>                                        <C>
+<PERIOD-TYPE>                              8-MOS
+<FISCAL-YEAR-END>                          MAR-31-1995
+<PERIOD-END>                               MAR-31-1995
+<CASH>                                           26538
+<SECURITIES>                                         0
+<RECEIVABLES>                                    32828
+<ALLOWANCES>                                       227
+<INVENTORY>                                     132404
+<CURRENT-ASSETS>                                194277
+<PP&E>                                          286653
+<DEPRECIATION>                                  106935
+<TOTAL-ASSETS>                                  381726
+<CURRENT-LIABILITIES>                            61407
+<BONDS>                                         221480
+<COMMON>                                          1880
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                         70
+<OTHER-SE>                                       85399
+<TOTAL-LIABILITY-AND-EQUITY>                    381726
+<SALES>                                         234073
+<TOTAL-REVENUES>                                234073
+<CGS>                                           202285
+<TOTAL-COSTS>                                   202285
+<OTHER-EXPENSES>                                 23620
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                6296
+<INCOME-PRETAX>                                   1872
+<INCOME-TAX>                                       688
+<INCOME-CONTINUING>                               1184
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      1184
+<EPS-PRIMARY>                                     0.42
+<EPS-DILUTED>                                     0.42
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

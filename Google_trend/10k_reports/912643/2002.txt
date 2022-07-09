@@ -1,0 +1,2925 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PH2H5TuV+SuunWKbuvy7c+Dgn5hvmMEHxevsRy5sEm6jheHj49bCGv1EN1WiCGeV
+ U7d5z3WuFEVn3WrIp7TWLA==
+
+<SEC-DOCUMENT>0001045969-02-000545.txt : 20020415
+<SEC-HEADER>0001045969-02-000545.hdr.sgml : 20020415
+ACCESSION NUMBER:		0001045969-02-000545
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20011230
+FILED AS OF DATE:		20020328
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KONTRON MOBILE COMPUTING INC
+		CENTRAL INDEX KEY:			0000912643
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				411731723
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-18335
+		FILM NUMBER:		02590476
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7631 ANAGRAM DRIVE
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55344
+		BUSINESS PHONE:		952.974.7000
+
+	MAIL ADDRESS:	
+		STREET 1:		7631 ANAGRAM DRIVE
+		CITY:			EDEN PRAIRIE
+		STATE:			MN
+		ZIP:			55344
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FIELDWORKS INC
+		DATE OF NAME CHANGE:	19960729
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D. C. 20549
+
+                                   ----------
+
+                                    FORM 10-K
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                   for the fiscal year ended December 30, 2001
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+                        Commission file number 000-22221
+
+                         KONTRON MOBILE COMPUTING, INC.
+
+           Minnesota                                     41-1731723
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+           7631 Anagram Drive,                           55344
+         Eden Prairie, Minnesota                      (Zip Code)
+(Address of principal executive offices)
+
+                                 (952) 974-7000
+              (Registrant's telephone number, including area code)
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                                         Name of each exchange
+     Title of each class                                  on which registered
+- ---------------------------------                     --------------------------
+            None                                                 None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $.001 par value
+                                (Title of Class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the Registrant, based upon the closing sale price of the Common Stock on March
+5, 2002 as reported on the Over The Counter Bulletin Board, was approximately
+$4,963,724. Shares of Common Stock held by each officer and director and by each
+person who owns 5% or more of the outstanding Common Stock have been excluded in
+that such persons may be deemed to be affiliates. The determination of affiliate
+status for purposes of this paragraph is not necessarily a conclusive
+determination for other purposes.
+
+     The number of shares of the registrant's Common Stock, $.001 par value,
+outstanding as of March 5, 2002 was 14,952,926.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+   Portions of the Proxy Statement for the Registrant's 2002 Annual Meeting of
+Shareholders to be held May 21, 2002 are incorporated by reference in Part III.
+
+================================================================================
+<PAGE>
+
+                                     PART I
+
+ITEM 1. Business
+
+     The Company. Kontron Mobile Computing, Inc. ("Kontron Mobile Computing" or
+"the Company"), was incorporated in Minnesota in 1992 under its former name of
+FieldWorks, Incorporated and is dedicated to the development and sale of rugged
+portable computing solutions. The Company is part of the worldwide group of
+Kontron companies, owned or principally owned by Kontron Embedded Computers AG
+(Kontron). Over the past several years, the Company has evolved its strategy to
+focus on designing and providing industry-specific field technology solutions.
+The Company believes that this strategy represents the strongest opportunity for
+growth and differentiation.
+
+     The Company has had a history of designing and delivering hardware
+platforms for extreme environments and will continue to capitalize on its strong
+product reputation and value added reseller network. The Company's focus will
+continue to target military, public safety, automation and transportation
+markets where users rely on the features of Kontron Mobile Computing computers
+to do their jobs.
+
+     Kontron Mobile Computing computer platforms are designed for demanding
+field environments, meeting military test standards for shock, vibration,
+moisture and temperature extremes. Features include outdoor-readable
+high-resolution color displays, sealed pointing devices and integrated
+technology protected for use in extended temperatures and isolated for shock and
+vibration. The Company also offers a high level of expandability and
+upgradability within each product platform. Expansion paths include desktop-like
+ISA/PCI computer card expansion slots, PC card slots, serial ports, universal
+serial bus and custom modules. As a result, all platforms are flexible
+"electronic toolboxes" that integrate the user's application-specific tools and
+technologies into one custom, rugged mobile solution. Upgrade paths include
+central processing units (CPU), random access memory (RAM), hard drive
+capacities, display technologies and peripheral technologies, such as wireless
+communication. Such upgradability contributes to a longer useful life which
+reduces the total cost of ownership for the end-customer. It sets Kontron Mobile
+Computing products and solutions higher on the value scale with our customers as
+their initial investment is in many ways "protected" by technology enhancements
+or improvements over a period of time.
+
+     The Rugged Computing Market. Technological advances have increased
+customers' dependence on mobile computing and communications devices, such as
+portable computers, pagers and cellular telephones, to enhance workforce
+productivity. The rugged computing market has increasing needs for reliability,
+operability in extreme conditions, portability, security and compatibility with
+a variety of communication interfaces and standard desktop computer technology.
+Organizations are increasingly seeking to connect field personnel through
+computerization. Such computerization can provide sophisticated field diagnostic
+and analytic capabilities, enhance field access to data and on-line information,
+eliminate paperwork and improve communication.
+
+     The markets for the Company's products consist of those businesses and
+other entities that are seeking effective mobile computing for field personnel
+and functions. The Company's rugged mobile computing platforms are used in a
+variety of industries whose demands vary widely, and include: (i) public service
+for improved productivity, efficiency and real time, remote data access (ii)
+military and government contractors for situational awareness, flight-line
+communications and real time, highly reliable data acquisition in extreme
+conditions and (iii) transportation OEMs and full-solution integrators for
+wireless data transfer, maintenance and diagnostic testing.
+
+     Strategy. The Company's vision continues to be to become "the worldwide
+rugged, mobile computing solutions provider." The Company's strategy consists of
+the following key components:
+
+     Further Penetration of Key Vertical Markets. The Company continues to
+target key vertical markets including government, military, public services, and
+utilities. The Company develops product features and functions to address the
+needs of a particular vertical market and provides application-engineering
+services to support the specific requirements of those customers when necessary.
+The Company's strategy is to be a key provider of tools and services to
+facilitate field data acquisition, test and measurement, telemetry, and mobile
+communication applications. Custom applications addressed by the Company are
+typically characterized by the opportunity to sell a significant quantity of
+units over a period of time based on a single application solution.
+
+     Continued Reduction in Product Costs and Time to Market. The Company has
+taken advantage of its relationship with the other worldwide Kontron companies
+by outsourcing the design and manufacturing of some of its products. This is
+consistent with our strategy of maintaining rugged mobile design strength at the
+architectural level, while utilizing intra-company resources to reduce costs and
+add incremental expertise. This change has been well received by the Company's
+customers and value-added resellers. Additionally, the Company continues to be
+focused on further cost reductions through on-going product re-design
+initiatives through Kontron worldwide mobile design teams.
+
+                                       2
+<PAGE>
+
+     Products. The Company's products are rugged mobile computers designed and
+manufactured for field applications including data acquisition, mobile data
+communications and test and measurement. Part of the Company's growth strategy
+is to introduce new products that will further penetrate existing markets as
+well as penetrate new and growing markets. In 2001, the Company introduced four
+new products, the EnVoy, Power Lite, 2000 Series III and the Field Lite.
+Additional new products will replace older products and allow for growth through
+2002.
+
+     FieldWorks 8000 Series Platform: The FieldWorks 8000 Series is targeted at
+the high end of the rugged field computing platform market and offers
+significant expansion capability. Targeted at test and measurement, telemetry
+and data acquisition applications, the FieldWorks 8000 Series is sold primarily
+within field technology / military markets.
+
+     The structure of the rugged, portable, FieldWorks 8000 Series is based on a
+high-strength cast magnesium alloy external housing. Internal components that
+are sensitive to shock and vibration are contained within this housing and
+isolated with special tuned shock absorbing polymers, while a shock absorbing
+bushing system suspends all drives and the CPU. The FieldWorks 8000 Series
+incorporates the Company's backplane/card cage design, which provides up to six
+ISA/PCI expansion card slots within the housing permitting the integration of
+instrumentation, data acquisition, test and measurement and communications
+capabilities. Also contained within the housing is a PCMCIA expansion card
+reader, integrated AC/DC power supply, uninterruptable power supply capability,
+full-length desktop ISA/PCI expansion card slots, integrated CD-ROM and floppy
+diskette drives, and several optional features such as dual removable hard
+drives, Sun-Light Readable display and XGA display options. The FieldWorks 8000
+Series is the Company's flagship product.
+
+     Power Lite: The Power Lite is similar to the FieldWorks 8000 Series, with
+less rugged features and less expansion capability. The Power Lite is intended
+for light industrial applications like manufacturing plant floors,
+telecommunications test and in-plant data collection. The Power Lite offers a
+single ISA/PCI expansion card capability with a 14.1" XGA display. It is ideally
+suited for applications that display schematics and graphical information
+databases.
+
+     EnVoy Mobile Data Server (MDS): The EnVoy is a three-piece onboard vehicle
+computer system that includes a Server component, a high-bright Display and a
+backlit Keyboard. The EnVoy can be customized by adding wireless technology,
+Global Positioning (GPS) technology, data radios and other devices through two
+embedded PC card slots, USB ports and three open serial ports. The floppy and
+CD-ROM devices can be connected to the Server by cables that can then be mounted
+in a remote location such as the vehicle trunk. A wide variety of standard
+vehicle mounting systems are available to meet specific customer needs. The
+EnVoy is ideally suited for fixed in-vehicle computing and communication
+applications including logistics management, computer-aided dispatch and
+Geographic Information Systems/Global Positioning System mapping. The primary
+market for Envoy is public services (Police, Fire, EMS and Utility) markets.
+
+     FieldWorks 2000 Series Mobile Data Server (MDS): The FieldWorks 2000 Series
+was developed for mission critical communication applications. The FieldWorks
+2000 Series is the communication interface to deployed personnel in remote
+locations in all types of vehicles. The Graphical Information System (GIS)
+allows personnel to graphically and numerically identify precisely where they
+are on a map and provide the same visual and data information for superiors in a
+real-time secure basis. Real time reliable communication of logistical, mission
+status, location and movement is paramount to the success of the application for
+which this product was designed and is used.
+
+     Field Lite: The Field Lite handheld computer provides users full PC
+performance and connectivity in a small lightweight, rugged package. The Field
+Lite is used by field communication personnel for sending and receiving secure
+text messages, maps and collecting critical data. When connected to a GPS
+receiver, the Field Lite can identify location points and communicate that
+information wirelessly to assist in safe, expeditious navigation of mission
+objectives. The Field Lite is used in a variety of logistical and data
+collection applications where rugged, daylight readable and full PC technology
+is required by users.
+
+     The Field Lite and Power Lite are products of Kontron, and are marketed and
+sold exclusively in North America by the Company. Both of these products began
+shipping in the second quarter of 2001.
+
+     Professional Services. The Company provides Professional Services along
+with its products to gain a competitive advantage in the rugged mobile computing
+market. Programs offered by the Company include consulting services relating to
+product application, technical support, project management, product
+implementation and troubleshooting on post-installation questions. The Company
+provides a one-year warranty program including free telephone technical support
+as well as warranty extensions and custom hardware and software service/support
+offerings. The Company offers optional, advance exchange, replacement unit pools
+for large volume customers to maximize performance. Software integration
+services, including loading and testing of multiple software applications, can
+be provided to relieve end users of the burden of installing software. On-site
+product training and consultation services tailored to customer requirements can
+also be provided.
+
+                                       3
+<PAGE>
+
+     Manufacturing. The Company initiated the outsourcing of some of its
+manufacturing activities to Kontron subsidiaries during fiscal year 2001. This
+has improved inventory management, reduced product and production costs, and
+enhanced product quality. Further outsourcing within the Kontron group of
+companies will occur as opportunities to reduce costs and improve product
+quality are identified. The FieldWorks 8000 Series assembly, all platform repair
+and final integration work continue to be performed at the Company. Parts for
+the EnVoy MDS and the FieldWorks 2000 Series MDS are manufactured by Kontron in
+Germany with final assembly performed at the Company. The Power Lite, Field Lite
+and IN Rave are manufactured by Kontron in Germany.
+
+     Quality Management. The Company employs comprehensive quality control
+systems. The Company received ISO 9001 quality assurance certification in March
+1996 and was re-certified in May 2001.
+
+     Sales and Marketing / Customers. The Company's direct sales force focuses
+its efforts on establishing and maintaining relationships with key and strategic
+accounts. Specific territories have been assigned to the sales force located
+throughout the United States. Other segments of the market are addressed by
+sales through value-added resellers and systems integrators that typically sell
+systems that have been configured for specific end-user applications through the
+addition of hardware, software or services. Resellers and integrators generally
+target large- to mid-size accounts, with the exception of military integrators,
+or prime contractors, which target large military accounts. Additionally, the
+Company sells platforms to the United States Government via the General Services
+Administration (GSA) schedule.
+
+     Since late 2000, the Company has been distributing its products in Europe,
+Middle East and Africa (EMEA) through the Kontron direct sales channel. As of
+midyear 2001, the Company has extended the direct sales channel to include Asia
+by utilizing the sales staff of Kontron Asia, a subsidiary of Kontron Embedded
+Computers AG, located in Taiwan. Sales in EMEA and Asia showed quarter over
+quarter growth during 2001. See Note 10 to the Financial Statements attached
+hereto for a breakdown of export sales by geographic location.
+
+     For the year ended December 30, 2001, sales to the United States Army
+represented 28% of net sales. For the year ended December 31, 2000, sales to
+John Deere Information Systems represented 11% of net sales. For the year ended
+January 2, 2000, sales to Ryder Transportation Services represented 26% of net
+sales. The amount of revenue contributed by each product line is set forth under
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operation" below.
+
+     Backlog. The Company believes that backlog is not a meaningful indicator of
+its future business prospects due to the potentially long customer sales cycle
+and significant variations in the size and delivery schedules of orders received
+by the Company. As a result, the Company does not believe that backlog at any
+particular date is necessarily indicative of future results.
+
+     Competition. The Company's products face direct competition from companies
+producing portable computers intended for field use such as Dolch Computer
+Systems; Getac Corp.; Itronix Corp.; Paravant Computer Systems, Inc.; Motorola,
+Inc.; Data 911, Litton Industries, Inc., and Panasonic Personal Computer
+Company. The Company believes its primary competitive factors relate to product
+design and feature differentiation, product pricing, functionality, product
+dimensions and technology enhancements. The mobile computer market continues to
+mature. To the extent the Company and its direct competitors expand and develop
+this market niche, other manufacturers may turn their attention to this niche
+and begin to develop products and services directly competitive with those
+offered by the Company. The Company's computing platforms also face indirect
+competition from a variety of different companies and products, including
+consumer portable personal computers, customized portable personal computers and
+single-purpose diagnostic and data collection instruments.
+
+     Research and Development. In conjunction with Kontron engineering teams
+from around the world, the Company designs mobile computer systems, subsystems
+and application specific custom systems. The Company believes that its efforts
+in this area have improved time to market and reduced development costs. The
+Company intends to continue to expand its products and services by providing a
+greater range of expandability and features in existing products. The Company
+has successfully developed new products with the Kontron companies maximizing
+the technological expertise within all companies. Through the use of these
+resources, the Company has access to a wide variety of specialized and/or
+lower-cost design talent, and gained new relationships with key technology
+suppliers. The use of non-Kontron design contractors was significantly reduced
+in 2001 resulting in reduced R&D costs. Research and development expenses were
+$1.2 million in 2001, $4.2 million in 2000 and $3.4 million in 1999.
+
+     Intellectual Property. The Company uses the following marks in connection
+with its products: Field MousePad, Field Workstation, Technology Module, EnVoy,
+Field Lite, Power Lite, IN Rave, Kontron and the Kontron Logo. FieldWorks,
+Incorporated has federal trademark registrations with respect to Field MousePad,
+Field WorkStation and Technology Module. These registrations are registered on
+the Supplemental Register. Supplemental Registrations do not confer the same
+rights as Principal Registrations. Specifically, Supplemental Registrations do
+not serve as prima facie evidence of the validity of the
+
+                                       4
+<PAGE>
+
+registration, the registrant's ownership of the mark, or the registrant's
+exclusive right to use the mark. In addition, the filing date of the application
+does not confer any right of priority. The Company is aware that there are third
+parties that have claimed and may claim superior rights, in certain territories
+in the United States, to the use of certain of the marks in which the Company
+claims rights. Kontron and Kontron Logo are registered trademarks of Kontron
+Instruments Holding N.V. and Kontron Electronik GmbH, respectively. Kontron
+Electronik GmbH has filed a federal trademark application with respect to the
+Field Lite Mark. Power Lite and IN Rave are unregistered trademarks of Kontron
+Electronik GmbH. Kontron Mobile Computing has full unconditional licenses to use
+the Field Lite, Power Lite, IN Rave, Kontron and Kontron Logo trademarks in all
+sales and marketing activities.
+
+     Employees. As of December 30, 2001, the Company employed 47 full-time
+employees and 1 part-time employee, of whom 20 were engaged primarily in
+operations, 13 were engaged primarily in sales and marketing, 8 were engaged
+primarily in engineering and research and development, and 7 were engaged
+primarily in administration. The Company also employs temporary employees and
+contract employees, as necessary. No employees are represented by any labor
+union or other collective bargaining unit. The Company believes that its
+relations with its employees are good.
+
+     Assets. All of the Company's long-lived assets are located in the United
+States.
+
+ITEM 2. Description of Property
+
+     The Company's main operations are conducted in Eden Prairie, Minnesota, at
+a leased site of approximately 53,000 square feet. The lease term is November
+1998 through November 2004. The Company has subleased two portions of the site:
+12,422 square feet of office space has been subleased for the period of
+September 1, 2000 to November 30, 2004 and 4,728 square feet of warehouse space
+has been subleased with an original ending date of June 30, 2001 that has now
+become month-to-month and is cancelable by either party with a 60-day notice.
+The Company intends to continue to pursue potential subleasing of its facility,
+as appropriate, to minimize operating expenses.
+
+ITEM 3. Legal Proceedings
+
+     On April 28, 2000, the Company entered into an Engagement Agreement with
+Goldsmith, Agio, Helms & Lynner, Ltd. ("GAH") to act as its agent to assist with
+a merger, sale or similar transaction, for a minimum period of six months. The
+Company cancelled the agreement with GAH after being approached by Kontron about
+the transaction that eventually closed in December 2000. GAH pursued legal
+proceedings against the Company and in September 2001, an arbitrator found that
+the Company was required to pay damages of $792,000 to GAH. These costs have
+been classified as "other expense" in the Company's 2001 and 2000 statements of
+operations. For comparative purposes, payments made to GAH prior to the date of
+the award by the arbitrator have been reclassified to reflect this change.
+
+     The Company is involved in legal actions in the ordinary course of its
+business. Although the Company cannot predict the outcome of any such legal
+actions, management believes that there is no pending legal proceeding against
+or involving the Company for which the outcome is likely to have a material
+adverse effect upon the Company's financial position, results of operations or
+cash flows.
+
+ITEM 4. Submission of Matters to a Vote of Security Holders
+
+     There were no matters submitted to a vote of security holders during the
+Company's fourth quarter ended December 30, 2001.
+
+ITEM 5. Market for Registrant's Common Equity and Related Stockholder Matters
+
+     Market Information. The Company's common stock is traded on the Over the
+Counter Bulletin Board under the symbol "KMBC." Prior to August 25, 2000, the
+Company's common stock was traded on the Nasdaq SmallCap Market. The following
+table shows the range of high and low price information as quoted on the Over
+the Counter Bulletin Board. The quotations reflect inter-dealer prices, without
+retail mark-up, mark-down or commissions and may not necessarily represent
+actual transactions.
+
+                                       5
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                       First Quarter      Second Quarter     Third Quarter     Fourth Quarter
+                                                     -----------------   ----------------   ---------------   ---------------
+                                                       2001      2000     2001      2000     2001    2000      2001    2000
+                                                     -------   -------   ------   -------   -----   -------   -----   -------
+<S>                                                  <C>       <C>       <C>      <C>       <C>     <C>       <C>     <C>
+Price range of common stock:
+     High.........................................   $ 1.031   $ 3.094   $  .98   $ 2.375   $ .95   $ 1.688   $ .99   $ 1.125
+     Low..........................................       .50     1.219     .531      .625     .59       .75     .42      .281
+</TABLE>
+
+     Shareholders. As of March 5, 2002, there were 130 holders of record of the
+Company's Common Stock.
+
+     Dividends. The Company has not paid any cash dividends since inception and
+does not anticipate paying cash dividends in the foreseeable future.
+
+ITEM 6. Selected Financial Data
+
+     Selected Statements of Operations Data:
+     (in thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                                   Year Ended
+                                                        ------------------------------------------------------------------
+                                                        December 30,   December 31,   January 2,   January 3,   January 4,
+                                                           2001           2000           2000         1999         1998
+                                                        ------------   ------------   ----------   ----------   ----------
+<S>                                                       <C>           <C>            <C>          <C>          <C>
+Net sales ...........................................     $ 17,306      $  15,696      $ 25,329     $ 20,002     $ 23,815
+Cost of sales .......................................        9,487         17,390        17,950       14,200       14,620
+                                                          --------      ---------      --------     --------     --------
+     Gross profit (loss) ............................        7,819         (1,694)        7,379        5,802        9,195
+Operating expenses:
+     Sales and marketing ............................        2,747          4,413         5,633        5,482        5,043
+     General and administrative .....................        1,740          3,949         2,998        2,915        3,034
+     Research and development .......................        1,205          4,213         3,414        3,214        1,884
+     Product upgrade and restructuring costs ........           --            502           400        1,473           --
+                                                          --------      ---------      --------     --------     --------
+          Total operating expenses ..................        5,692         13,077        12,445       13,084        9,961
+                                                          --------      ---------      --------     --------     --------
+Operating profit (loss) .............................        2,127        (14,771)       (5,066)      (7,282)        (766)
+Gain on currency conversion .........................          208             --            --           --           --
+Interest income (expense), net ......................       (1,275)        (1,765)         (317)         149         (262)
+Other income (expense), net .........................         (120)          (641)            3            9            4
+                                                          --------      ---------      --------     --------     --------
+Net income (loss) ...................................          940        (17,177)       (5,380)      (7,124)      (1,024)
+Beneficial conversion feature applicable to preferred
+   shareholders .....................................           --           (521)           --           --           --
+                                                          --------      ---------      --------     --------     --------
+
+Net income (loss) applicable to common shareholders .     $    940      $ (17,698)     $ (5,380)    $ (7,124)    $ (1,024)
+                                                          ========      =========      ========     ========     ========
+Basic and diluted loss per common share:
+     Net income (loss) per common share .............     $    .06      $   (1.92)     $   (.61)    $   (.81)    $   (.12)
+                                                          ========      =========      ========     ========     ========
+Basic weighted average common shares outstanding ....       14,945          9,241         8,874        8,799        8,242
+                                                          ========      =========      ========     ========     ========
+Diluted weighted average common shares outstanding ..       15,029          9,241         8,874        8,799        8,242
+                                                          ========      =========      ========     ========     ========
+</TABLE>
+
+     Selected Balance Sheet Data:
+     (in thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                                                    Year Ended
+                                                        ------------------------------------------------------------------
+                                                        December 30,   December 31,   January 2,   January 3,   January 4,
+                                                            2001           2000          2000         1999         1998
+                                                        ------------   ------------   ----------   ----------   ----------
+
+<S>                                                       <C>            <C>           <C>          <C>           <C>
+Cash and cash equivalents............................     $  2,074       $    553      $     87     $  1,690      $ 3,219
+Working capital (deficit)............................       (4,382)        (5,851)        1,829        4,077       11,517
+Total assets.........................................        6,916          7,475        12,014       10,956       16,120
+Notes payable, net...................................        6,938          5,881         2,228           --           --
+Capital lease obligations............................           --             39            80          110           70
+Total debt...........................................        6,938          5,920         2,308          110           70
+Accumulated deficit..................................      (36,589)       (37,530)      (19,832)     (14,452)      (7,327)
+Total shareholders' equity (deficit).................       (4,018)        (4,985)        1,403        5,793       12,799
+</TABLE>
+
+                                       6
+<PAGE>
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+     Cautionary Statement Regarding Forward-Looking Statements. This report
+contains forward-looking statements within the meaning of Section 27A of the
+Securities Act of 1933, as amended, and Section 21E of the Securities Exchange
+Act of 1934, as amended. When used in this report, in the Company's press
+releases and in oral statements made with the approval of an authorized
+executive officer, the words or phrases "believes," "anticipates," "expects,"
+"intends," "estimates," "should", "may" or similar expressions are intended to
+identify forward-looking statements, but are not the exclusive means of
+identifying such statements. These forward-looking statements involve risks and
+uncertainties that may cause the Company's actual results to differ materially
+from the results discussed in the forward-looking statements. Factors that might
+cause such differences include, but are not limited to, the following: risks
+associated with the development of new products, market acceptance of new
+products and services, technological obsolescence, dependence on third-party
+manufacturers and suppliers, risks associated with the Company's dependence on
+proprietary technology and the long customer sales cycle. The Company wishes to
+caution readers not to place undue reliance on any such forward-looking
+statements, which speak only as of the date made. The Company undertakes no
+obligation to revise any forward-looking statements in order to reflect events
+or circumstances after the date of such statements. Readers are urged to
+carefully review the various disclosures made by the Company in this report,
+including in particular Exhibit 99.1 to this report, and in other reports filed
+with the Securities and Exchange Commission that attempt to advise interested
+parties of the risks and factors that may affect the Company's business.
+
+     Operating Results. The following table sets forth certain financial data
+expressed as a percentage of net sales for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                                                                   For the Years Ended
+                                                                       ----------------------------------------
+                                                                       December 30,   December 31,   January 2,
+                                                                           2001           2000          2000
+                                                                       ------------   ------------   ----------
+<S>                                                                        <C>            <C>           <C>
+Net sales ..........................................................       100%            100%         100%
+Cost of sales ......................................................        55            (111)          71
+                                                                           ---            ----          ---
+     Gross profit (loss) ...........................................        45             (11)          29
+Operating expenses:
+     Sales and marketing ...........................................        16              28           22
+     General and administrative ....................................        10              25           12
+     Research and development ......................................         7              27           13
+     Product upgrade and restructuring costs .......................        --               3            2
+                                                                           ---            ----          ---
+          Total operating expenses .................................        33              83           49
+                                                                           ---            ----          ---
+Operating income (loss) ............................................        12             (94)         (20)
+Gain on currency conversion ........................................         1              --           --
+                                                                           ---            ----          ---
+Interest income (expense), net .....................................        (7)            (11)          (1)
+Other income (expense), net ........................................        (1)             (4)           *
+                                                                           ---            ----          ---
+Net income (loss) ..................................................         5%           (109)%        (21)%
+                                                                           ---            ----          ---
+Beneficial conversion feature applicable to preferred shareholders..        --              (3)          --
+                                                                           ---            ----          ---
+Net income (loss) applicable to common shareholders ................         5%           (112)%        (21)%
+                                                                           ===            ====          ===
+</TABLE>
+
+     *    reflects less than .5%
+
+     Market Trends. The demand for rugged mobile computers continues to expand
+on a worldwide basis. The availability of high-powered portable computer
+technology coupled with application specific technologies and the proliferation
+of wireless communications contributes to the increased demand. The Company
+expects increased requirements to improve the efficiency in field based work
+forces and link field workers into corporate information systems.
+
+     The Company targets markets requiring portable computing platforms that can
+perform multiple functions including diagnostics, data acquisition and
+electronic testing, communication and monitoring.
+
+     Critical Accounting Policies. Financial Reporting Release (FRR) No. 60,
+"Cautionary Advice Regarding Disclosure About Critical Accounting Policies,"
+requires all companies to include a discussion of critical accounting policies
+or methods used in the preparation of financial statements. The discussion and
+analysis of the Company's financial condition and results of operations are
+based upon its consolidated financial statements, which have been prepared in
+accordance with accounting principles generally accepted in the United States.
+The preparation of these financial statements requires the Company to make
+estimates and judgments that affect the reported amount of assets and
+liabilities, revenues and expenses, and related disclosure of contingent assets
+and liabilities at the date of its financial statements. Actual results may
+differ from these estimates under different assumptions or conditions. Note 2 of
+the Notes to the Consolidated Financial Statements includes a summary of the
+significant accounting policies and methods used in the preparation of the
+Company's Consolidated Financial Statements.
+
+                                       7
+<PAGE>
+
+     Critical accounting policies are defined as those that are reflective of
+significant judgments and uncertainties, and potentially result in materially
+different results under different assumptions and conditions. The accounting
+policies which the Company believes are the most critical to aid in fully
+understanding and evaluating our reported financial results include revenue
+recognition, inventories and warranties.
+
+     Revenue Recognition. The Company recognizes revenue in accordance with SEC
+     -------------------
+Staff Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements"
+(SAB 101), as amended by SAB 101A and 101B. SAB 101 requires that four basic
+criteria must be met before revenue can be recognized: (1) persuasive evidence
+of an arrangement exists; (2) delivery has occurred or services rendered; (3)
+the fee is fixed and determinable; and (4) collectibility is reasonably assured.
+Significant management judgments and estimates must be made and used in
+connection with the revenue recognized in any accounting period. Material
+differences may result in the amount and timing of our revenue for any period if
+our management made different judgments or utilized different estimates.
+
+     The Company's revenue recognition policy is significant because the
+Company's revenue is a key component of its results of operations. The Company
+recognizes revenue upon shipment of its products. Accruals for sales returns and
+other allowances are provided at the time of shipment based on experience.
+Service revenue, including non-warranty work and related parts sales, is
+recognized as earned. Extended warranty contracts are offered, generally as a
+separately priced arrangement with the customer. Revenues related to extended
+warranties are recorded as deferred revenue and recognized ratably over the term
+of the related agreements. The Company has concluded that its revenue
+recognition policy is appropriate and in accordance with generally accepted
+accounting principles and SAB 101.
+
+     Inventories. Inventories are stated at the lower of cost or market value,
+     -----------
+as determined by the first-in, first-out cost method. New inventory monitoring
+controls were put in place in 2001 to reduce the future write-downs of inventory
+due to obsolescence and to better manage inventory due to the resumption of
+in-house manufacturing. All inventory is now coded to reflect the product for
+which it is primarily used, allowing the Company to better manage its inventory
+and to assist in making bi-weekly forecast updates. This change has also allowed
+for improved analysis of the Company's inventory reserve.
+
+     The Company reviews its inventory quantities on hand and records a
+provision for estimated obsolescence or unmarketable inventory based upon
+assumptions about future demand and market conditions. If actual market
+conditions are less favorable than those projected by management, additional
+inventory write-downs may be required.
+
+     Warranties. The Company warrants its products against defects in materials
+     ----------
+and workmanship under normal use and service for one year from the date of
+purchase. Warranty costs for existing products, including parts and labor, are
+estimated based on actual historical experience. Management uses that historical
+data to accrue reserves to cover estimated costs based on units in the field.
+Management reviews the estimated warranty liability on a quarterly basis to
+determine its adequacy. While the Company's warranty costs have historically
+been within its expectations and the provisions established, the Company cannot
+guarantee that it will continue to experience the same warranty return rates or
+repair costs it has in the past.
+
+     While the Company engages in product quality programs and processes, the
+Company's warranty obligation is affected by product failure rates, material
+usage and service delivery costs incurred in correcting a product failure.
+Should actual failure rates, material usage or service delivery costs differ
+from the Company's estimates, revisions to the estimated warranty liability
+would be required.
+
+     Related Party Transactions. The Company sells certain products to Kontron
+and the Kontron group of companies for further resale outside North America.
+These sales were approximately $1.3 million in 2001. The Company also buys
+products from these related entities for further resale within North America.
+These purchases were approximately $0.8 million in 2001. The Company and the
+Kontron group of companies are operating under agreements regarding the sales
+and purchases from each other. Such transactions are in the normal course of
+business at negotiated prices comparable to similar transactions with other
+customers and suppliers. Management believes the transactions with Kontron and
+the Kontron group of companies are at arms length and are under terms no less
+favorable to the Company than those with other customers or suppliers.
+
+     Included in the financial statements are approximately $118,500 of related
+party receivables and approximately $210,100 of related party payables as of
+December 30, 2001.
+
+     The Company has a credit line agreement with Kontron to provide up to 8.5
+million Euros for operations ($7.7 million based on December 30, 2001 exchange
+rate). Borrowings under this agreement bear interest at 11% per annum (payable
+monthly), with no stated maturity date. Outstanding borrowings under this line
+of credit were $6.9 million at December 30, 2001. Refer to the Liquidity and
+Capital Resources section for further discussion.
+
+                                       8
+<PAGE>
+
+     Accounting Pronouncements. SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities", became effective for fiscal years beginning
+after June 15, 2000. The Company adopted SFAS No. 133 effective January 1, 2001.
+SFAS No. 133 establishes accounting and reporting standards requiring that every
+derivative instrument, including certain derivative instruments embedded in
+other contracts, be recorded in the balance sheet as either an asset or
+liability measured at its fair value. SFAS No. 133 requires that changes in the
+derivative's fair value be recognized currently in earnings unless specific
+hedge accounting criteria are met and requires that a company must formally
+document, designate and assess the effectiveness of transactions that receive
+hedge accounting. SFAS No. 133 did not have a material impact on the Company's
+financial position or results of operations at adoption; see discussion below
+regarding foreign currency forward contracts utilized later in 2001.
+
+COMPARISON OF YEARS ENDED DECEMBER 30, 2001 AND DECEMBER 31, 2000
+
+     Net Sales. Net sales for 2001 were $17.3 million, an increase of $1.6
+million or 10% from fiscal year 2000 net sales of $15.7 million. The increase
+was primarily attributable to a large order from the United States Army for the
+2000 Series Embedded Vehicle Server that shipped in the first two quarters of
+2001.
+
+     Unit volumes of the 8000 Series represented 45% of total units in 2001
+compared to 34% in fiscal year 2000. Production of the 8000 Series began in
+fiscal year 2000, therefore the increase in sales in 2001 was attributable to
+only a partial year's production in fiscal year 2000. Sales of the 2000 Series
+Mobile Data Server represented 34% of total units in 2001 compared to 30% in
+fiscal year 2000. The increase in sales was attributable to the large United
+States Army order. Unit volumes of the EnVoy product represented 13% in 2001.
+Production of the EnVoy product began in 2001 and, therefore, there were no
+comparable sales in fiscal year 2000. Unit volumes of the 5000 Series decreased
+to 6% of total unit sales in 2001 from 24% in fiscal year 2000. The decrease in
+sales was attributable to the discontinuation of the 5000 Series product that
+began in fiscal year 2000.
+
+     Sales by product line were as follows:
+
+<TABLE>
+<CAPTION>
+                                                           2001             2000             1999
+                                                       -----------      -----------      -----------
+<S>                                                    <C>               <C>              <C>
+8000 Series.........................................   $ 7,770,000      $ 5,313,000(1)   $        --(1)
+2000 Series.........................................     5,905,000        4,796,000        3,700,000
+EnVoy...............................................     2,235,000(2)            --               --
+Field Lite..........................................       248,000(3)            --               --
+IN Rave.............................................        89,000(3)            --               --
+Power Lite..........................................        13,000(3)            --               --
+7000 Series.........................................            --(4)     1,826,000(4)     9,037,000
+5000 Series.........................................     1,046,000(5)     3,761,000(5)    12,592,000
+                                                       -----------      -----------      ----------
+                                                       $17,306,000      $15,696,000      $25,329,000
+                                                       ===========      ===========      ===========
+</TABLE>
+
+- ----------
+(1)  The 8000 Series product was introduced in fiscal year 2000.
+(2)  The EnVoy product was introduced in 2001.
+(3)  The Field Lite, IN Rave and Power Lite are Kontron products. The Company
+     began marketing these products in 2001.
+(4)  The 7000 Series product was discontinued and replaced with the 8000 Series
+     product in fiscal year 2000.
+(5)  The 5000 Series product was discontinued in 2001.
+
+     International sales increased to $2.4 million, or 14% of sales in 2001 from
+$2.3 million, or 15% of net sales in fiscal year 2000. The majority of
+international sales are in Europe, including $1.9 million in 2001 and $1.5
+million in fiscal year 2000. The Company believes that international sales as a
+percentage of net sales for the year 2002 will be in the mid-teen to 20% range
+with little impact on the Company's results of operations and liquidity.
+
+     Gross Margin. Gross margin (deficit) increased to $7.8 million in 2001 from
+$(1.7) million in fiscal year 2000. Gross margins, as a percentage of net sales,
+increased to 45% in 2001 as compared to (11)% in fiscal year 2000. The 2001
+gross margin was positively impacted by increased average selling prices,
+reduced direct material costs due to outsourcing within the Kontron group and
+improved management of inventory. The fiscal year 2000 gross margin was
+significantly impacted by $3.1 million of inventory write-downs which resulted
+from product line close-outs, changes in outsourcing arrangements and other
+technological and market developments. Excluding the $3.1 million of
+write-downs, the gross margin in fiscal year 2000 would have been $1.4 million
+and 9.0% of net sales. The Company's gross margin will fluctuate as a result of
+a number of factors, including mix of products sold, inventory obsolescence, the
+proportion of international sales, large customer contracts (with the associated
+volume discounts) and other manufacturing expenses.
+
+                                       9
+<PAGE>
+
+     Sales and Marketing. Sales and marketing expenses include salaries,
+incentive compensation, commissions, travel, trade shows, technical support and
+professional services personnel and general advertising and promotion. These
+expenses also include the labor and material costs related to maintaining the
+Company's standard one-year warranty program. Sales and marketing expenses were
+$2.7 million in 2001, a decrease of $1.7 million as compared to $4.4 million in
+fiscal year 2000. As a percentage of net sales, sales and marketing expenses
+decreased to 16% in 2001 as compared to 28% in fiscal year 2000. The decrease in
+expenses was primarily due to a workforce reduction in fiscal year 2000. The
+Company anticipates growth of sales and marketing expenses to be less than the
+growth of sales in the future.
+
+     General and Administrative. General and administrative expenses include the
+Company's executive, finance, information services and human resources
+departments. These expenses decreased to $1.7 million in 2001 compared to $3.9
+million in fiscal year 2000. As a percentage of net sales, general and
+administrative expenses decreased to 10% in 2001 compared to 25% in fiscal year
+2000. The decrease is due to the management workforce reduction that occurred in
+August 2000, in addition to a reduction in consulting fees. The Company
+anticipates growth of general and administrative expenses to be less than the
+growth of sales in the future.
+
+     Research and Development. Research and development expenses are incurred in
+the design, development and testing of new or enhanced products, services and
+customized computing platforms. All research and development costs are expensed
+as incurred. These expenses decreased to $1.2 million in 2001 from $4.2 million
+in fiscal year 2000. As a percentage of net sales, research and development
+expenses decreased to 7% in 2001 from 27% in fiscal year 2000. The decrease is
+due to sharing research and development costs with Kontron and the synergy
+gained by the combined efforts, in addition to a workforce reduction in fiscal
+year 2000. The Company anticipates growth of research and development expenses
+to be less than the growth of sales in the future.
+
+     Restructuring Costs. Restructuring costs were $0.5 million, or 3% of net
+sales in fiscal year 2000. These costs were primarily severance charges due to
+changes in the Company's management team at the time of the Kontron investment.
+
+     Gain on Currency Conversion. The Company's credit agreements with Kontron
+allow for borrowings which are payable in Euros.
+
+     In the second quarter of 2001, the Company began utilizing foreign currency
+forward contracts to protect against significant fluctuations in net income
+(loss) caused by changes in Euro exchange rates. The Company's practice is to
+enter into a forward contract at the beginning of each quarter and settle the
+contract at the end of the quarter. The Company records gains and losses on
+these derivative contracts (which are not designated as hedging instruments for
+accounting purposes) in net income (loss) in accordance with the requirements of
+Statement of Financial Accounting Standards (SFAS) No. 133, "Derivatives and
+Hedging Activities," and also marks the related debt instrument to market under
+SFAS No. 52, "Foreign Currency Translation." These gain (loss) amounts are
+included in the net foreign currency gain of $207,664 recorded in 2001. As of
+December 30, 2001, the Company's forward contract arrangements allowed the
+Company to hedge up to 8.0 million Euros.
+
+     Interest Income (Expense), Net. Net interest expense of $1.3 million was
+recorded in 2001 compared to $1.7 million in fiscal year 2000. The decrease in
+interest expense is due to the repayment of the subordinated notes in September
+2001. Additionally, financing costs of $882,000 related to warrants issued in
+September 1999 were amortized over the two-year term of the subordinated notes.
+The Company anticipates net interest expense will decrease in 2002 due to the
+repayment of the subordinated notes. In addition, the Company anticipates a
+reduction in interest expense in 2002 as a result of the planned repayment of
+its borrowings from Kontron.
+
+     Other Income (Expense), Net. Other expense of approximately $119,700 was
+recorded in 2001 compared to approximately $641,900 in fiscal year 2000. The
+majority of the costs are related to the payments that were required to be made
+to GAH.
+
+COMPARISON OF YEARS ENDED DECEMBER 31, 2000 AND JANUARY 2, 2000
+
+     Net Sales. Net sales for fiscal year 2000 were $15.7 million, a decrease of
+$9.6 million or 38% from 1999 net sales of $25.3 million. The decrease in sales
+was primarily attributable to the delay of the introduction of the 8000 Series
+Workstation as a result of development and testing delays. Unit volumes of the
+5000 Series decreased to 24% of total unit sales in fiscal year 2000 from 42% in
+1999. The decrease in sales was attributable to no large customer orders in
+fiscal year 2000, compared to the large order from Ryder Transportation Services
+in 1999. Sales of the 2000 Series Mobile Data Server represented 30% of total
+units in fiscal year 2000. Production of the 2000 Series began in mid-1999 so
+data is not comparable. Unit volumes of the 8000 Series represented 34% of total
+units in fiscal year 2000. Production of the 8000 Series began in mid-fiscal
+year 2000 and, therefore,
+
+                                       10
+<PAGE>
+
+there were no comparable sales in 1999. Unit volumes of the 7000 Series
+decreased to 12% in fiscal year 2000 from 39% in 1999 due to the replacement of
+the 7000 Series product with the 8000 Series product.
+
+     Sales by product line were as follows:
+
+<TABLE>
+<CAPTION>
+                                       2000             1999            1998
+                                   -----------      -----------      -----------
+<S>                                <C>              <C>              <C>
+7000 Series ....................   $ 1,826,000(1)   $ 9,037,000      $12,445,000
+5000 Series ....................     3,761,000(2)    12,592,000        7,547,000
+2000 Series ....................     4,796,000        3,700,000           10,000(3)
+8000 Series ....................     5,313,000(4)            --(4)            --(4)
+                                   -----------      -----------      -----------
+                                   $15,696,000      $25,329,000      $20,002,000
+                                   ===========      ===========      ===========
+</TABLE>
+
+- --------------
+(1)  The 7000 Series product was discontinued and replaced with the 8000 Series
+     product in fiscal year 2000.
+(2)  The 5000 Series product was discontinued in 2001.
+(3)  The 2000 Series product was introduced in 1998.
+(4)  The 8000 Series product was introduced in fiscal year 2000.
+
+     International sales decreased to $2.3 million, or 15% of sales in fiscal
+year 2000 from $3.7 million, or 14% of net sales in 1999. The reduction was due
+to the delayed introduction of the 8000 Series Workstation. The majority of
+international sales are in Europe, including $1.5 million in fiscal year 2000
+and $2.8 million in 1999.
+
+     Gross Margin. Gross margin (deficit) decreased to $(1.7) million in fiscal
+year 2000 from $7.4 million in 1999. Gross margins, as a percentage of net
+sales, decreased to (11)% in fiscal year 2000 as compared to 29% in 1999. Gross
+margin was significantly impacted by $3.1 million of write-downs which resulted
+from product line close-outs, changes in outsourcing arrangements and other
+technological and market developments. Without the $3.1 million of write-downs,
+gross margin in fiscal year 2000 would have been $1.4 million and 9.0% of net
+sales.
+
+     The Company outsourced certain manufacturing activities during the first
+quarter of fiscal year 2000.
+
+     Sales and Marketing. Sales and marketing expenses include salaries,
+incentive compensation, commissions, travel, trade shows, technical support and
+professional services personnel and general advertising and promotion. These
+expenses also include the labor and material costs related to maintaining the
+Company's standard one-year warranty program. Sales and marketing expenses were
+$4.4 million in fiscal year 2000, a decrease of $1.2 million as compared to $5.6
+million in 1999. As a percentage of net sales, sales and marketing expenses
+increased to 28% in fiscal year 2000 as compared to 22% in 1999. The decrease in
+expenses was primarily due to reductions in advertising, promotions and trade
+show expenditures as well as a reduction in commissions and incentive
+compensation due to the reduction in sales.
+
+     General and Administrative. General and administrative expenses include the
+Company's executive, finance, information services and human resources
+departments. These expenses increased to $3.9 million in fiscal year 2000
+compared to $3.0 million in 1999. As a percentage of net sales, general and
+administrative expenses increased to 25% in fiscal year 2000 compared to 12% in
+1999. The increase is primarily due to fees associated with the management
+services agreement related to the investment by IWHC, and recruitment expenses
+due to changes in the management team during the first half of the year.
+
+     Research and Development. Research and development expenses are incurred in
+the design, development and testing of new or enhanced products, services and
+customized computing platforms. All research and development costs are expensed
+as incurred. These expenses increased to $4.2 million in fiscal year 2000 from
+$3.4 million in 1999. As a percentage of net sales, research and development
+expenses increased to 27% in fiscal year 2000 from 13% in 1999. The increase was
+primarily due to the development of the 8000 Series Workstation, and re-design
+effort on the Series 2000 and Series 5000 workstations.
+
+     Restructuring Costs. Restructuring costs were $0.5 million in fiscal year
+2000, or 3% of net sales, as compared to $0.4 million, or 2% of net sales in
+1999. In fiscal year 2000, these costs were primarily severance charges due to
+changes in the Company's management team at the time of the Kontron investment.
+In 1999, these costs were due to severance charges from reorganization efforts
+related to outsourcing the manufacturing and design of products.
+
+     Interest Expense and Other, Net. Net interest and other expense of $2.4
+million was recorded in fiscal year 2000 as compared to $314,000 in 1999. The
+increase in interest expense is due to borrowings on the Company's line of
+credit, interest payments on its subordinated notes, interest payments to
+Kontron for the operational cash credit line and payments made to GAH under the
+legal proceeding described in Item 3. In addition, financing costs of $882,000
+related to warrants issued in September
+
+                                       11
+<PAGE>
+
+1999 are being amortized over the two-year term of the subordinated notes.
+Financing costs of $437,500 related to warrants issued to Kontron in June 2000
+were amortized from July 2000 through December 2000, the time of the closing of
+the Kontron equity investment.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     The relationship with Kontron has brought new resources, products, capital
+and a global sales force. During 2001, the Company began integrating global
+distribution channels, augmenting go-to-market strategies and reinventing
+product development and positioning plans. The Company's 2001 focus was to
+stabilize and reach profitability by reducing overhead and operating costs,
+increasing the average selling price on products and reducing product direct
+material costs.
+
+     In 2001, the Company had a positive cash flow from operations of $622,641,
+the first positive operating cash flow in the Company's history, compared to
+negative cash flows from operations of $11,025,746 and $5,168,905 in fiscal
+years 2000 and 1999, respectively. While the Company achieved profitability in
+three of the four quarters in 2001, the Company realizes that continuous
+management of sales, gross margin and cash is necessary to improve liquidity.
+There can be no assurance that the Company will be successful in achieving these
+measures and increasing its liquidity. Circumstances that are reasonably likely
+to affect liquidity include changes in technology, dependence on key customers,
+decrease in demand for the Company's products and reliance on Kontron for
+financing and research and development support.
+
+     The Company intends to fund its own cash needs in 2002 without assistance
+from Kontron. To be successful, the Company will focus on increased sales and
+profitability, in addition to improved working capital management. The Company
+has finalized a line of credit with an existing bank and if necessary, intends
+to use this line of credit to fund potential cash requirements in excess of its
+current cash flow projection.
+
+     On January 29, 2002, Kontron agreed to provide financial support to enable
+the Company to meet its cash flow needs and obligations as and when they become
+due through December 31, 2002. On September 28, 2000 (revised November 9, 2000),
+the Company entered into credit line agreements with Kontron to provide up to $5
+million of cash for operations. Borrowings under these agreements bear interest
+at 11% per annum (payable monthly), and were due on December 15, 2000. The
+agreement was revised on December 16, 2000 for Kontron to provide up to DM 10
+million and further revised on April 1, 2001 to provide up to DM 14 million for
+operations. On September 1, 2001 and December 28, 2001, the agreement was
+revised to provide up to 8.5 million Euros for operations ($7.7 million based on
+December 30, 2001 exchange rate). Borrowings under this agreement bear interest
+at 11% per annum (payable monthly), with no stated maturity date. Outstanding
+borrowings under this line of credit were $6.9 million at December 30, 2001.
+
+     The operating line with Kontron increased $3.9 million in 2001, mostly
+early in the year, to fund increased inventory purchases for large sales in the
+first and second quarters. As the year progressed, the Company was able to fund
+its own operations, including the $3 million payoff of subordinated notes in
+September 2001, without borrowing the equivalent additional funds from Kontron.
+The Company also anticipates partial repayment of the operating line borrowings
+with Kontron in 2002.
+
+     On June 29, 2000, the Company entered into a Purchase and Option Agreement
+with FWRKS Acquisition Corp., a wholly owned subsidiary of Kontron Embedded
+Computers AG. The agreement was amended on August 16, 2000. Under the amended
+agreement, Kontron acquired 6 million shares of common stock of the Company for
+a purchase price of $5.4 million. In addition, the option Kontron previously
+granted to Industrial-Works Holding Co., LLC, (IWHC), a wholly owned subsidiary
+of Glenmount International was amended. As amended, IWHC was granted an option
+to acquire 62,000 shares of Kontron in exchange for preferred shares of the
+Company that were convertible into 3.4 million shares of the Company common
+stock. Both of these matters were approved at a special shareholders meeting
+held on October 18, 2000 and adjourned to October 27, 2000 and the transactions
+were closed in December 2000.
+
+     In addition, the Company received $2.5 million from FWRKS Acquisition Corp.
+on June 30, 2000 in the form of a subordinated note bearing interest at 11% per
+annum with an original maturity date of September 2001. FWRKS Acquisition Corp.
+also received warrants to purchase 1.25 million shares of common stock
+exercisable at $1.00 per share. The warrants were exercisable until November 15,
+2000, and were recorded at their estimated fair value of $437,500 at the date of
+issuance. These warrants were cancelled and the subordinated notes were forgiven
+under the terms of the amended agreement described above.
+
+     On March 31, 2000, the Company issued 500,000 shares of the Company's
+Series C Convertible Preferred Stock to IWHC. The Company recorded a $250,000
+charge relating to the beneficial conversion feature associated with this
+preferred stock. The Company issued a warrant to IWHC to purchase 100,000 shares
+of common stock with an exercise price of $2.00 per share in connection with
+this transaction. Subsequent to March 31, 2000, the conversion rate was adjusted
+to such that the holders have the
+
+                                       12
+<PAGE>
+
+right to receive a total of 1,041,666 shares of common stock upon conversion of
+the Series C Convertible Participating Preferred Stock. In connection with this
+conversion rate adjustment, an additional beneficial conversion feature of
+$270,833 was recorded.
+
+     On February 22, 2000, the Company completed a $4.25 million equity
+investment by IWHC. In exchange for the $4.25 million investment, the Company
+issued 4,250,000 shares of Series B Convertible Preferred Stock (each share of
+which was initially convertible into one share of Common Stock). Subsequent to
+February 22, 2000, the conversion rate was adjusted to such that the holders
+have the right to receive a total of 4,427,083 shares of common stock upon
+conversion of the Series B Convertible Participating Preferred Stock. IWHC
+received 500,000 warrants exercisable at $1.00 per share. The Company used the
+net proceeds for market expansion and new product development as well as for
+working capital and general corporate purposes. In December 2000, IWHC tendered
+all of its shares of Series B and Series C Convertible Preferred Stock to
+Kontron in exchange for shares of Kontron Common Stock.
+
+     In September 1999, the Company completed a private placement of $3.0
+million in 11% subordinated notes. The notes were repaid at the September 2001
+maturity date. Noteholders also received warrants to purchase 1.5 million shares
+of common stock exercisable at $1.00 per share. The warrants are exercisable for
+five years, and were recorded at their estimated fair value of $882,000 at the
+date of issuance.
+
+     The Company's cash balance as of December 30, 2001 was $2.1 million as
+compared to the December 31, 2000 balance of $0.6 million and the January 2,
+2000 balance of $0.1 million. This change from 2001 to fiscal year 2000 was due
+to cash provided by operations. Cash provided by operating activities totaled
+$0.6 million in 2001, compared to cash used for operating activities of $11.0
+million in fiscal year 2000 and $5.2 million in 1999. The Company's accounts
+receivable was $3.0 million at December 30, 2001, $3.1 million at December 31,
+2000 and $5.1 million at January 2, 2000. Net inventories decreased to $1.2
+million at December 30, 2001 from $2.5 million at December 31, 2000 and $4.5
+million at January 2, 2000. This change from 2001 to fiscal year 2000 was due to
+purchases for anticipated sales on the United States Army order that shipped in
+early 2001. Deferred revenue was $1.3 million at December 30, 2001, $0.7 million
+at December 31, 2000 and $1.0 million at January 2, 2000. The change from 2001
+to fiscal year 2000 was attributable to increased sales of extended warranties.
+Accounts payable was $1.3 million at December 30, 2001, $3.2 million at December
+31, 2000 and $3.8 million at January 2, 2000. Fiscal year 2000 and 1999 balances
+were high due to purchasing inventory for customer orders in the fourth quarter
+for anticipated sales in the first quarter with no comparable orders for sales
+in the first quarter of 2002. Other accrued liabilities decreased to $0.8
+million at December 30, 2001 from $1.8 million at December 31, 2000 and $0.5
+million at January 2, 2000. The change from 2001 to fiscal year 2000 was due to
+a $1.2 million liability in fiscal year 2000 with one of the Company's
+outsourced partners to buy back Series 5000 parts as part of the product
+discontinuance.
+
+     The Company purchased approximately $24,000 of property, plant and
+equipment in 2001 as compared to $0.3 million in fiscal year 2000 and $0.6
+million in 1999. The Company anticipates purchases of property, plant and
+equipment in 2002 will remain consistent with 2001.
+
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+     As of December 30, 2001 the Company had $6.9 million outstanding on its
+line of credit from Kontron. This loan bears interest at 11% per annum, payable
+monthly. Both the principal amount borrowed under the line of credit and
+interest payable thereunder are payable in Euros. See the earlier discussion
+under "Foreign Currency Transactions" for a description of the foreign currency
+forward contract in effect. All remaining transactions of the Company are
+conducted and accounts are denominated in United States dollars. Based on its
+overall foreign currency rate exposure at December 30, 2001, the Company does
+not believe that a hypothetical 10% change in foreign currency rates would
+materially adversely affect its financial position or results of operations.
+
+     The Company has no derivative financial instruments or derivative commodity
+instruments in its cash and cash equivalents. The Company had $2.1 million in
+cash and cash equivalents at December 30, 2001. Based on analysis, shifts in
+money market rates would have an immaterial impact on the Company.
+
+                                       13
+<PAGE>
+
+ITEM 8. Financial Statements and Supplementary Data
+
+<TABLE>
+<CAPTION>
+                                                                                                                       Page
+                                                                                                                       ----
+<S>                                                                                                                     <C>
+Balance Sheets as of December 30, 2001 and December 31, 2000........................................................    20
+Statements of Operations for the years ended December 30, 2001, December 31, 2000 and January 2, 2000...............    21
+Statements of Shareholders' Equity (Deficit) for the years ended December 30, 2001, December 31, 2000 and
+January 2, 2000.....................................................................................................    22
+Statements of Cash Flows for the years ended December 30, 2001, December 31, 2000 and January 2, 2000...............    23
+Notes to Financial Statements.......................................................................................    24
+Report of Independent Public Accountants............................................................................    32
+</TABLE>
+
+ITEM 9. Changes In and Disagreements With Accountants On Accounting and
+        Financial Disclosure
+
+     None.
+
+                                       14
+<PAGE>
+
+                                    PART III
+
+ITEM 10. Directors and Executive Officers of the Registrant
+
+     Information required by this item is set forth in the Proxy Statement under
+the heading Election of Directors and is incorporated herein by reference.
+
+ITEM 11. Executive Compensation
+
+     Information required by this item is set forth in the Proxy Statement under
+the heading Executive Compensation and is incorporated herein by reference.
+
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management
+
+     Information required by this item is set forth in the Proxy Statement under
+the heading Security Ownership of Certain Beneficial Owners and Management and
+is incorporated herein by reference.
+
+ITEM 13. Certain Relationships and Related Transactions
+
+     Information required by this item is set forth in the Proxy Statement under
+the heading Certain Transactions and is incorporated herein by reference.
+
+                                       15
+<PAGE>
+
+                                     PART IV
+
+ITEM 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+     (a) The following documents are filed as part of this Annual Report:
+
+     1.   Financial Statement Schedule: The following financial statement
+          schedule of Kontron Mobile Computing, Inc. for the fiscal years ended
+          December 30, 2001, December 31, 2000 and January 2, 2000, is filed as
+          part of this Report and should be read in conjunction with the
+          Financial Statements of Kontron Mobile Computing, Inc.
+
+          .    Schedule II--Valuation and Qualifying Accounts
+
+          .    Schedules not listed above have been omitted because they are not
+               applicable or are not required or the information required to be
+               set forth therein is included in the Financial Statements or
+               Notes thereto.
+
+     2.   Exhibits: The Exhibits listed on the accompanying Index to Exhibits
+          are filed as part of, or incorporated by reference into, this Report.
+
+     (b) Reports on Form 8-K: No reports on Form 8-K were filed by the Company
+during the fiscal quarter ended December 30, 2001.
+
+                                       16
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                          KONTRON MOBILE COMPUTING, INC.
+
+
+                                          By /s/ Thomas Sparrvik
+                                            ----------------------------
+                                             Thomas Sparrvik
+                                             Chief Executive Officer
+
+                                          Dated:  March 28, 2002
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+           Signature                          Title                   Date
+           ---------                          -----                   ----
+
+
+       /s/ Thomas Sparrvik            Chief Executive Officer    March 28, 2002
+- ----------------------------------
+           Thomas Sparrvik
+
+
+       /s/ David C. Malmberg          Chairman of the Board      March 28, 2002
+- ----------------------------------
+           David C. Malmberg
+
+
+       /s/ Pierre Mcmaster            Director                   March 28, 2002
+- ----------------------------------
+           Pierre McMaster
+
+
+       /s/ William P. Perron          Director                   March 28, 2002
+- ----------------------------------
+           William P. Perron
+
+
+       /s/ Richard L. Poss            Director                   March 28, 2002
+- ----------------------------------
+           Richard L. Poss
+
+
+       /s/ Rudolf Wieczorek           Director                   March 28, 2002
+- ----------------------------------
+           Rudolf Wieczorek
+
+                                       17
+<PAGE>
+
+                                INDEX TO EXHIBITS
+
+Exhibit
+  No      Description
+  --      -----------
+3.1       Second Amended and Restated Articles of Incorporation of the Company
+          (incorporated by reference to the exhibit 3.1 filed with the Company's
+          Registration Statement filed on Form S-1, File No. 333-18335)
+
+3.2       Second Amended and Restated Bylaws of the Company (incorporated by
+          reference to the exhibit 3.4 filed with the Company's Registration
+          Statement filed on Form S-1, File No. 333-18335)
+
+3.3       Articles of Merger amending the registrant's Articles of Incorporation
+          effective June 4, 2001 (incorporated by reference to the exhibit 3.1
+          filed with the Company's Report on 8-K filed June 5, 2001)
+
+4.1       Form of Certificate for Common Stock (incorporated by reference to the
+          exhibit 4.1 filed with the Company's Registration Statement filed on
+          Form S-1, File No. 333-18335)
+
+10.1      1994 Long Term Incentive and Stock Option Plan, as amended, including
+          forms of option agreements (incorporated by reference to the exhibit
+          10.24 filed with the Company's Registration Statement filed on Form
+          S-1, File No.333-18335)
+
+10.2      Directors' Stock Option Plan (incorporated by reference to the exhibit
+          10.25 filed with the Company's Registration Statement filed on Form
+          S-1, File No. 333-18335)
+
+10.3      Form of Mutual Confidentiality Agreement for use with third parties
+          (incorporated by reference to the exhibit 10.26 filed with the
+          Company's Registration Statement filed on Form S-1, File No.
+          333-18335)
+
+10.4      Form of Employee Disclosure and Assignment Agreement (incorporated by
+          reference to the exhibit 10.27 filed with the Company's Registration
+          Statement filed on Form S-1, File No. 333-18335)
+
+10.5      Form of Extended Limited Warranty Agreement (incorporated by reference
+          to the exhibit 10.31 filed with the Company's Registration Statement
+          filed on Form S-1, File No. 333-18335)
+
+10.6      Option Agreement, dated as of January 21, 1997, by and between the
+          Company and David C. Malmberg (incorporated by reference to the
+          exhibit 10.33 filed with the Company's Registration Statement filed on
+          Form S-1, File No. 333-18335)
+
+10.7      Warrant dated March 25, 1997, issued to R.J. Steichen & Company
+          (incorporated by reference to the exhibit 10.1 filed with the
+          Company's Report on Form 10-Q for the fiscal quarter ended April 6,
+          1997)
+
+10.8      Lease Agreement, dated May 16, 1997, by and between CSM Properties,
+          Inc. and the Company (incorporated by reference to the exhibit 10.35
+          filed with the Company's Report on Form 10-K for the fiscal year ended
+          January 4, 1998)
+
+10.9      Addendum to Lease, dated as of December 30, 1997, between the Company
+          and CSM Properties, Inc. (incorporated by reference to the exhibit
+          10.36 filed with the Company's Report on Form 10-K for the fiscal year
+          ended January 4, 1998)
+
+10.10     Warrant to purchase shares of Common Stock Including Exhibit A to
+          Warrant Issued to Industrial- Works Holding Co., LLC by the Registrant
+          on February 18, 2000 (Incorporated by reference to the exhibit 10.41
+          to the Company's Registration Statement filed on Form S-2, File No.
+          333-34376)
+
+10.11     Warrant to purchase shares of Common Stock Including Exhibit A to
+          Warrant Issued to Industrial- Works Holding Co., LLC by the Registrant
+          on February 23, 2000 (incorporated by reference to the exhibit 4.2 to
+          the Registrant's Current Report on Form 8-K dated February 23, 2000)
+
+10.12     Form of Mutual Non-disclosure Agreement (incorporated by reference to
+          the exhibit 10.32 filed with the Company's Report on Form 10-K for the
+          fiscal year ended January 2, 2000)
+
+10.13     Form of Non-disclosure Agreement (incorporated by reference to the
+          exhibit 10.33 filed with the Company's Report on Form 10-K for the
+          fiscal year ended January 2, 2000)
+
+                                       18
+<PAGE>
+
+Exhibit
+  No      Description
+  --      -----------
+10.14     Form of International Distributor Agreement (incorporated by reference
+          to the exhibit 10.34 filed with the Company's Report on Form 10-K for
+          the fiscal year ended January 2, 2000)
+
+10.15     Form of Product Evaluation Agreement (incorporated by reference to the
+          exhibit 10.35 filed with the Company's Report on Form 10-K for the
+          fiscal year ended January 2, 2000)
+
+10.16     Form of OEM Agreement (incorporated by reference to the exhibit 10.36
+          filed with the Company's Report on Form 10-K for the fiscal year ended
+          January 2, 2000)
+
+10.17     Form of Sales Representative Agreement (incorporated by reference to
+          the exhibit 10.37 filed with the Company's Report on Form 10-K for the
+          fiscal year ended January 2, 2000)
+
+10.18     Sublease agreement between FieldWorks, Inc. and Four 51, Inc. dated
+          July 19, 2000 (incorporated by Reference to the exhibit 10.1 filed
+          with the Company's Report on Form 10-Q for the fiscal quarter Ended
+          October 1, 2000)
+
+10.19     Agreement and Consent Regarding Sublease between CSM Properties, Inc.,
+          FieldWorks, Inc. and Four 51, Inc. dated August 8, 2000 (incorporated
+          by reference to the exhibit 10.2 filed with the Company's Report on
+          Form 10-Q for the fiscal quarter ended October 1, 2000)
+
+10.20     Operating Protocol Memorandum with Kontron Embedded Computers AG dated
+          July 11, 2000 (incorporated by reference to the exhibit 10.7 filed
+          with the Company's Report on form 10-Q for the fiscal quarter ended
+          July 2, 2000)
+
+10.21     Sublease agreement between FieldWorks, Inc. and Alternative Business
+          Furniture, Inc. dated December 11, 2000 (incorporated by reference to
+          the exhibit 10.38 filed with the Company's Report on 10-K for the
+          fiscal year ended December 31, 2000)
+
+10.22     Agreement and Consent Regarding Sublease between CSM Properties, Inc.,
+          FieldWorks, Inc. and Alternative Business Furniture, Inc. dated
+          December 20, 2000 (incorporated by reference to the exhibit 10.39
+          filed with the Company's Report on 10-K for the fiscal year ended
+          December 31, 2000)
+
+10.23     Employment Agreement with Thomas Sparrvik dated November 8, 2000
+          (incorporated by reference to the exhibit 10.40 filed with the
+          Company's Report on 10-K for the fiscal year ended December 31, 2000)
+
+10.24     2002 Compensation Plan for Thomas Sparrvik dated November 12, 2001
+          (filed herewith)
+
+10.25     Letter dated March 28, 2002 from Kontron Mobile Computing, Inc. to
+          the Securities and Exchange Commission (filed herewith)
+
+23.1      Consent of Arthur Andersen LLP (filed herewith)
+
+99.1      Cautionary Statement (filed herewith)
+
+                                       19
+<PAGE>
+
+                                 BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                                            December 30,   December 31,
+                                                                                                2001           2000
+                                                                                            ------------   ------------
+<S>                                                                                         <C>            <C>
+                                            ASSETS
+Current Assets:
+Cash and cash equivalents ...............................................................   $  2,073,970   $    552,887
+Accounts receivable, net of allowance for doubtful accounts of $317,200 and $334,100 ....      2,834,150      3,048,614
+Accounts receivable, related parties ....................................................        118,472         47,837
+Inventories .............................................................................      1,191,276      2,487,643
+Prepaid expenses and other ..............................................................        334,156        472,287
+                                                                                            ------------   ------------
+           Total current assets .........................................................      6,552,024      6,609,268
+                                                                                            ------------   ------------
+Property and Equipment:
+Computers and equipment .................................................................      1,114,125      1,699,278
+Furniture and fixtures ..................................................................        795,387        943,795
+Leasehold improvements ..................................................................        346,099        331,736
+Less: Accumulated depreciation and amortization .........................................     (1,911,244)    (2,116,720)
+                                                                                            ------------   ------------
+       Property and equipment, net ......................................................        344,367        858,089
+Deposits and Other Assets, net ..........................................................         19,764          7,774
+                                                                                            ------------   ------------
+Total Assets ............................................................................   $  6,916,155   $  7,475,131
+                                                                                            ============   ============
+
+                        LIABILITIES AND SHAREHOLDERS' EQUITY (DEFICIT)
+
+Current Liabilities:
+Accounts payable ........................................................................   $  1,118,581   $  2,992,439
+Accounts payable, related parties .......................................................        210,054        200,384
+Accrued warranty and product upgrade ....................................................        332,169        507,099
+Accrued compensation and benefits .......................................................        257,398        285,893
+Other accrued liabilities ...............................................................        771,502      1,816,182
+Deferred revenue ........................................................................      1,306,563        738,994
+Current maturities of capitalized lease obligations .....................................             --         38,598
+Notes payable:
+       Subordinated note, due September 2001 ............................................             --      3,000,000
+       Less: Discount on notes payable ..................................................             --       (330,750)
+       Note to Kontron Embedded Computers AG for operating line .........................      6,937,700      3,211,583
+                                                                                            ------------   ------------
+Notes payable, net ......................................................................      6,937,700      5,880,833
+                                                                                            ------------   ------------
+           Total current liabilities ....................................................     10,933,967     12,460,422
+                                                                                            ------------   ------------
+           Total liabilities ............................................................     10,933,967     12,460,422
+                                                                                            ------------   ------------
+
+Commitments and Contingencies (Note 8)
+Shareholders' Equity (Deficit):
+Series B Convertible Preferred Stock, $.001 par value, 4,250,000 shares authorized;
+   4,250,000 issued and outstanding at December 30, 2001                                           4,250          4,250
+Series C Convertible Preferred Stock, $.001 par value, 500,000 shares authorized;
+   500,000 issued and outstanding at December 30, 2001                                               500            500
+Common stock, $.001 par value, 30,000,000 shares authorized; 14,952,926 and 14,894,426
+   issued and outstanding ...............................................................         14,953         14,894
+Additional paid-in capital ..............................................................     32,551,972     32,524,911
+Accumulated deficit .....................................................................    (36,589,487)   (37,529,846)
+                                                                                            ------------   ------------
+           Total shareholders' equity (deficit) .........................................     (4,017,812)    (4,985,291)
+                                                                                            ------------   ------------
+Total liabilities and shareholders' equity (deficit) ....................................   $  6,916,155   $  7,475,131
+                                                                                            ============   ============
+</TABLE>
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       20
+<PAGE>
+
+                            STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                                      For the Years Ended
+                                                          -----------------------------------------
+                                                          December 30,   December 31,    January 2,
+                                                              2001           2000           2000
+                                                          ------------   ------------   -----------
+<S>                                                        <C>           <C>            <C>
+Net Sales .............................................    $17,306,146   $ 15,695,581   $25,329,192
+Cost of Sales . .......................................      9,486,877     17,389,626    17,950,297
+                                                           -----------   ------------   -----------
+     Gross profit (loss) ..............................      7,819,269     (1,694,045)    7,378,895
+                                                           -----------   ------------   -----------
+Operating Expenses:
+     Sales and marketing ..............................      2,747,064      4,413,415     5,632,785
+     General and administrative .......................      1,739,711      3,949,925     2,998,141
+     Research and development .........................      1,205,491      4,212,734     3,413,955
+     Restructuring costs ..............................             --        501,805       399,978
+                                                           -----------   ------------   -----------
+          Total operating expenses ....................      5,692,266     13,077,879    12,444,859
+                                                           -----------   ------------   -----------
+          Operating profit (loss) .....................      2,127,003    (14,771,924)   (5,065,964)
+Gain on currency conversion ...........................        207,664             --            --
+Interest income (expense), net ........................     (1,274,607)    (1,764,760)     (317,511)
+Other income (expense), net ...........................       (119,701)      (640,735)        3,417
+                                                           -----------   ------------   -----------
+Net income (loss) .....................................        940,359    (17,177,419)   (5,380,058)
+Beneficial conversion feature applicable to preferred
+   shareholders .......................................             --       (520,833)           --
+                                                           -----------   ------------   -----------
+Net income (loss) applicable to common shareholders ...    $   940,359   $(17,698,252)  $(5,380,058)
+                                                           ===========   ============   ===========
+
+Basic and Diluted Income (Loss) Per Common Share:
+Net income (loss) per common share ....................    $       .06   $      (1.92)  $      (.61)
+                                                           -----------   ------------   -----------
+Basic weighted average common shares outstanding ......     14,945,293      9,240,580     8,874,473
+                                                           ===========   ============   ===========
+Diluted weighted average common shares outstanding ....     15,028,848      9,240,580     8,874,473
+                                                           ===========   ============   ===========
+</TABLE>
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       21
+<PAGE>
+
+                  STATEMENTS OF SHAREHOLDERS' EQUITY (DEFICIT)
+
+<TABLE>
+<CAPTION>
+                                                                                                                Total
+                                    Preferred Stock         Common Stock       Additional                    Shareholders'
+                                   ------------------   --------------------     Paid-in     Accumulated        Equity
+                                     Shares    Amount     Shares      Amount     Capital        Deficit       (Deficit)
+                                   ---------   ------   ----------   -------   -----------   ------------    -------------
+<S>                                <C>         <C>      <C>          <C>       <C>           <C>              <C>
+Balance, January 3, 1999 .......          --   $   --    8,823,926   $ 8,824   $20,235,651   $(14,451,536)    $  5,792,939
+
+Exercise of stock options ......          --       --       70,500        70        70,430             --           70,500
+Issuance of warrants ...........          --       --           --        --       920,000             --          920,000
+Net loss .......................          --       --           --        --            --     (5,380,058)      (5,380,058)
+                                   ---------   ------   ----------   -------   -----------   ------------     ------------
+Balance January 2, 2000 ........          --       --    8,894,426     8,894    21,226,081    (19,831,594)       1,403,381
+
+Issuance of Series B Convertible
+  Preferred Stock, net of
+  offering costs ...............   4,250,000    4,250           --        --     4,109,674             --        4,113,924
+Issuance of Series C Convertible
+  Preferred Stock, net of
+  offering costs ...............     500,000      500           --        --       959,500             --          960,000
+Beneficial conversion feature
+  applicable to preferred
+  shareholders .................          --       --           --        --       520,833       (520,833)              --
+Issuance of common stock, net of
+  offering costs ...............          --       --    6,000,000     6,000     5,271,323             --        5,277,323
+Issuance of warrants ...........          --       --           --        --       437,500             --          437,500
+Net loss .......................          --       --           --        --            --    (17,177,419)     (17,177,419)
+                                   ---------   ------   ----------   -------   -----------   ------------     ------------
+Balance, December 31, 2000 .....   4,750,000    4,750   14,894,426    14,894    32,524,911    (37,529,846)      (4,985,291)
+
+Exercise of stock options ......          --       --       58,500        59        27,061             --           27,120
+Net income .....................          --       --           --        --            --        940,359          940,359
+                                   ---------   ------   ----------   -------   -----------   ------------     ------------
+Balance, December 30, 2001 .....   4,750,000   $4,750   14,952,926   $14,953   $32,551,972   $(36,589,487)    $ (4,017,812)
+                                   =========   ======   ==========   =======   ===========   ============     ============
+</TABLE>
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       22
+<PAGE>
+
+                            STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                                            For the Years Ended
+                                                                                -----------------------------------------
+                                                                                December 30,   December 31,    January 2,
+                                                                                    2001           2000          2000
+                                                                                ------------   ------------   -----------
+<S>                                                                              <C>           <C>            <C>
+Operating Activities:
+Net income (loss) ...........................................................    $   940,359   $(17,177,419)  $(5,380,058)
+Adjustments to reconcile net income (loss) to net cash provided by (used for)
+   operating activities--
+     Depreciation and amortization ..........................................        507,439        822,478       683,086
+     Gain on currency conversion ............................................       (207,664)            --            --
+     Non-cash financing .....................................................        330,750        878,500       148,250
+     Loss on disposal of property and equipment .............................         30,144        254,116            --
+     Changes in operating items:
+          Accounts receivable ...............................................        143,829      1,964,477    (1,130,562)
+          Inventories .......................................................      1,296,367      2,026,021    (1,112,920)
+          Prepaid expenses and other ........................................        126,141        205,471      (546,450)
+          Accounts payable ..................................................     (1,864,188)      (570,645)    1,959,282
+          Accrued expenses ..................................................     (1,248,105)       793,854        14,058
+          Deferred revenue ..................................................        567,569       (222,599)      196,409
+                                                                                 -----------   ------------   -----------
+     Net cash provided by (used for) operating activities ...................        622,641    (11,025,746)   (5,168,905)
+                                                                                 -----------   ------------   -----------
+Investing Activities:
+     Purchase of property and equipment .....................................        (23,861)      (302,250)     (554,412)
+     Proceeds from sales of property and equipment ..........................             --         34,200            --
+                                                                                 -----------   ------------   -----------
+     Net cash used for investing activities .................................        (23,861)      (268,050)     (554,412)
+                                                                                 -----------   ------------   -----------
+Financing Activities:
+     Proceeds from notes to Kontron Embedded Computers AG ...................      3,933,781      3,211,583            --
+     Proceeds from issuance of preferred stock ..............................             --      5,073,924            --
+     Issuance (repayments) of subordinated notes ............................     (3,000,000)            --     3,000,000
+     Proceeds from issuance of common stock .................................         27,120      5,277,323        70,500
+     Net line of credit borrowings (repayments) .............................             --     (1,761,731)    1,079,750
+     Payment of capitalized lease obligations ...............................        (38,598)       (41,202)      (30,616)
+                                                                                 -----------   ------------   -----------
+     Net cash provided by financing activities ..............................        922,303     11,759,897     4,119,634
+                                                                                 -----------   ------------   -----------
+Change in Cash and Cash Equivalents .........................................      1,521,083        466,101    (1,603,683)
+Cash and Cash Equivalents, beginning of year ................................        552,887         86,786     1,690,469
+                                                                                 -----------   ------------   -----------
+Cash and Cash Equivalents, end of year ......................................    $ 2,073,970   $    552,887   $    86,786
+                                                                                 ===========   ============   ===========
+Supplemental Cash Flow Disclosure:
+Cash paid for interest ......................................................    $ 1,349,856   $    579,130   $   236,212
+                                                                                 ===========   ============   ===========
+Noncash Investing and Financing Activities:
+Issuance of warrants ........................................................    $        --   $    437,500   $   920,000
+                                                                                 ===========   ============   ===========
+</TABLE>
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       23
+<PAGE>
+
+                          NOTES TO FINANCIAL STATEMENTS
+
+1.   Nature of Business
+
+     Operating Activities. Kontron Mobile Computing, Inc. ("Kontron Mobile
+Computing" or "the Company"), was incorporated in Minnesota in 1992 under its
+former name of FieldWorks, Incorporated and is dedicated to the development and
+sale of rugged portable computing solutions. The Company's computer platforms
+are designed for demanding field environments, meeting military standards for
+shock, vibration, moisture and temperature extremes. The Company's products have
+been designed with a modular system configuration that allows expansion paths
+including desktop-like ISA/PCI computer card expansion slots, PC card slots,
+serial ports, universal serial bus and custom modules. As a result, all
+platforms are flexible "electronic toolboxes" that integrate the user's
+application-specific tools and technologies into one custom, rugged mobile
+solution.
+
+     Kontron Mobile Computing's focus is providing workstations data
+acquisition, mobile data communications and test and measurement applications in
+its targeted vertical markets. The Company provides professional services
+including consulting services relating to product application, technical
+support, project management, product implementation and troubleshooting on
+post-installation questions. Software integration services, including loading
+and testing of multiple software applications, can be provided to relieve end
+users of the burden of installing software. On-site product training and
+consultation services tailored to customer requirements can also be provided.
+
+     Kontron Embedded Computers AG Equity Investment. On June 29, 2000, the
+Company entered into a Purchase and Option Agreement with FWRKS Acquisition
+Corp., a wholly owned subsidiary of Kontron Embedded Computers AG (Kontron). The
+agreement was amended on August 16, 2000. Under the amended agreement, Kontron
+acquired 6 million shares of common stock of the Company for a purchase price of
+$5.4 million. In addition, the option Kontron previously granted to
+Industrial-Works Holding Co., LLC, (IWHC), a wholly owned subsidiary of
+Glenmount International was amended. As amended, IWHC was granted an option to
+acquire 62,000 shares of Kontron in exchange for preferred shares of the Company
+that were convertible into 3.4 million shares of the Company common stock. Both
+of these matters were approved at a special shareholders meeting held on October
+18, 2000 and adjourned to October 27, 2000 and the transactions were closed in
+December 2000. As a result, Kontron and its affiliates control approximately 65%
+of Kontron Mobile Computing through 7,694,492 shares of common stock and
+4,750,000 shares of Series B and C Preferred Convertible Stock convertible into
+5,468,750 shares of common stock of Kontron Mobile Computing.
+
+     Significant Risks and Uncertainties. The relationship with Kontron has
+brought new resources, products, capital and a global sales force. During 2001,
+the Company began integrating global distribution channels, augmenting
+go-to-market strategies and reinventing product development and positioning
+plans. The Company's 2001 focus was to stabilize and reach profitability by
+reducing overhead and operating costs, increasing the average selling price on
+products and reducing product direct material costs.
+
+     In 2001, the Company had a positive cash flow from operations of $622,641,
+the first positive operating cash flow in the Company's history, compared to
+negative cash flows from operations of $11,025,746 and $5,168,905 in fiscal
+years 2000 and 1999, respectively. While the Company achieved profitability in
+three of the four quarters in 2001, the Company realizes that continuous
+management of sales, gross margin and cash is necessary to improve liquidity.
+There can be no assurance that the Company will be successful in achieving these
+measures and increasing its liquidity. Circumstances that are reasonably likely
+to affect liquidity include changes in technology, dependence on key customers,
+decrease in demand for the Company's products and reliance on Kontron for
+financing and research and development support.
+
+     The Company intends to fund its own cash needs in 2002 without assistance
+from Kontron. To be successful, the Company will focus on increased sales and
+profitability, in addition to improved working capital management. The Company
+has finalized a line of credit with an existing bank and if necessary, intends
+to use this line of credit to fund potential cash requirements in excess of its
+current cash flow projection.
+
+     On January 29, 2002, Kontron agreed to provide financial support to enable
+the Company to meet its cash flow needs and obligations as and when they become
+due through December 31, 2002. On September 28, 2000 (revised November 9, 2000),
+the Company entered into credit line agreements with Kontron to provide up to $5
+million of cash for operations. Borrowings under these agreements bear interest
+at 11% per annum (payable monthly), and were due on December 15, 2000. The
+agreement was revised on December 16, 2000 for Kontron to provide up to DM 10
+million and further revised on April 1, 2001 to provide up to DM 14 million for
+operations. On September 1, 2001 and December 28, 2001, the agreement was
+revised to provide up to 8.5 million Euros for operations ($7.7 million based on
+December 30, 2001 exchange rate.) Borrowings under this agreement bear interest
+at 11% per annum (payable monthly), with no stated maturity date. Outstanding
+borrowings under this line of credit were $6.9 million at December 30, 2001.
+
+                                       24
+<PAGE>
+
+2.   Summary of Significant Accounting Policies
+
+     Fiscal Year. Fiscal years end on the Sunday closest to December 31st. All
+references herein to "2001", "2000" and "1999" represent the fiscal years ended
+December 30, 2001, December 31, 2000 and January 2, 2000 respectively, each of
+which were 52 week years.
+
+     In 2002, the Company will change to a fiscal year ending on December 31.
+The Company believes that this change will not significantly affect the
+comparability of the financial statements.
+
+     Earnings (Loss) Per Common Share. Basic earnings (loss) per share is
+computed by dividing net income (loss) by the weighted average number of shares
+of common stock outstanding during the fiscal year. Diluted earnings (loss) per
+share is computed under the treasury stock method and is calculated to compute
+the dilutive effect of potential common shares.
+
+     A reconciliation of these amounts is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                 2001          2000            1999
+                                                             -----------   ------------    -----------
+<S>                                                          <C>           <C>             <C>
+Net income (loss) applicable to common shareholders ......   $   940,359   $(17,698,252)   $(5,380,058)
+                                                             ===========   ============    ===========
+Weighted average common shares outstanding ...............    14,945,293      9,240,580      8,874,473
+Dilutive potential common shares .........................        83,555             --             --
+                                                             -----------   ------------    -----------
+Weighted average common and dilutive shares outstanding ..    15,028,848      9,240,580      8,874,473
+                                                             ===========   ============    ===========
+Basic earnings (loss) per share ..........................   $       .06   $      (1.92)   $      (.61)
+                                                             ===========   ============    ===========
+Diluted earnings (loss) per share ........................   $       .06   $      (1.92)   $      (.61)
+                                                             ===========   ============    ===========
+</TABLE>
+
+     Potential common shares of 10,212,604, 10,473,854 and 9,557,603 related to
+options, warrants and convertible preferred stock were excluded from the
+computation of diluted loss per share for 2001, 2000 and 1999 as inclusion of
+these shares would have been antidilutive.
+
+     Cash and Cash Equivalents. Cash and cash equivalents consist of amounts
+held in the Company's checking accounts and money market funds with original
+maturities of 90 days or less. The carrying value of these instruments
+approximates fair value.
+
+     Inventories. Inventories are stated at the lower of cost or market value,
+as determined by the first-in, first-out cost method.
+
+     The components of inventories were:
+
+                                           December 30, 2001   December 31, 2000
+                                           -----------------   -----------------
+Raw materials...........................      $   556,823         $ 1,026,833
+Work in process.........................          140,899             259,485
+Finished goods..........................          493,554           1,201,325
+                                              -----------         -----------
+     Total..............................      $ 1,191,276         $ 2,487,643
+                                              ===========         ===========
+
+     Property and Equipment. Property and equipment are recorded at cost. Repair
+and maintenance costs which do not significantly extend the lives of the
+respective assets are expensed as incurred. Depreciation is computed using the
+straight-line method over the related assets' useful lives, ranging from two to
+seven years.
+
+     Warranties. The Company warrants its products against defects in materials
+and workmanship under normal use and service for one year from the date of
+purchase. Warranty costs for existing products, including parts and labor, are
+estimated based on actual historical experience. Management uses that historical
+data to accrue reserves to cover estimated costs based on units in the field.
+Management reviews the estimated warranty liability on a quarterly basis to
+determine its adequacy.
+
+     Revenue Recognition. The Company recognizes sales upon shipment of its
+products. Accruals for sales returns and other allowances are provided at the
+time of shipment based on experience. Service revenue, including non-warranty
+work and related parts sales, is recognized as earned. Extended warranty
+contracts are offered, generally as a separately priced arrangement with the
+customer. Revenues related to extended warranties are recorded as deferred
+revenue and recognized ratably over the term of the related agreements.
+
+     Significant Customers. Sales to the United States Army represented 28% of
+net sales in 2001. Sales to John Deere Information Systems represented 11% of
+net sales in fiscal year 2000. Sales to Ryder Transportation Services
+represented 26% of net sales in 1999.
+
+                                       25
+<PAGE>
+
+     Research and Development. Research and development costs are charged to
+expense as incurred.
+
+     Concentrations of Credit Risk. At December 30, 2001, there was not a
+significant portion of outstanding receivables attributable to any one customer.
+The Company's exposure to concentrations of credit risk relates primarily to
+trade receivables. This exposure is limited due to the large number of customers
+and their dispersion across several vertical markets and geographies. The
+Company controls potential credit risk by performing credit evaluations for all
+customers and requires letters of credit, bank guarantees and advance payments,
+if deemed necessary.
+
+     Use of Estimates. The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosures of contingent assets and liabilities as
+of the date of the financial statements. Estimates also affect the reported
+amounts of revenues and expenses during the periods presented. Estimates are
+used for such items as allowances for doubtful accounts, inventory reserves,
+useful lives of property and equipment and warranty costs. Ultimate results
+could differ from those estimates.
+
+     Accounting Pronouncements. SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities", became effective for fiscal years beginning
+after June 15, 2000. The Company adopted SFAS No. 133 effective January 1, 2001.
+SFAS No. 133 establishes accounting and reporting standards requiring that every
+derivative instrument, including certain derivative instruments embedded in
+other contracts, be recorded in the balance sheet as either an asset or
+liability measured at its fair value. SFAS No. 133 requires that changes in the
+derivative's fair value be recognized currently in earnings unless specific
+hedge accounting criteria are met and requires that a company must formally
+document, designate and assess the effectiveness of transactions that receive
+hedge accounting. SFAS No. 133 did not have a material impact on the Company's
+financial position or results of operations at adoption; see discussion below
+regarding foreign currency forward contracts utilized later in 2001.
+
+     Staff Accounting Bulletin (SAB) No. 101 "Revenue Recognition in Financial
+Statements" was issued in December 1999 and provides further guidance on the
+recognition, presentation and disclosure of revenue in financial statements
+filed with the Securities and Exchange Commission. The Company adopted SAB No.
+101 in the fourth quarter of fiscal year 2000, as required. The adoption did not
+have a material impact on the Company's financial position or results of
+operations.
+
+     Foreign Currency Transactions. As described in Note 5, the Company's credit
+agreements with Kontron allow for borrowings which are payable in Euros.
+
+     In the second quarter of 2001, the Company began utilizing foreign currency
+forward contracts to protect against significant fluctuations in net income
+(loss) caused by changes in Euro exchange rates. The Company's practice is to
+enter into a forward contract at the beginning of each quarter and settle the
+contract at the end of the quarter. The Company records gains and losses on
+these derivative contracts (which are not designated as hedging instruments for
+accounting purposes) in net income (loss) in accordance with the requirements of
+Statement of Financial Accounting Standards (SFAS) No. 133, "Derivatives and
+Hedging Activities," and also marks the related debt instrument to market under
+SFAS No. 52, "Foreign Currency Translation." These gain (loss) amounts are
+included in the net foreign currency gain of $207,664 recorded in 2001. As of
+December 30, 2001, the Company's forward contract arrangements allowed the
+Company to hedge up to 8.0 million Euros.
+
+     Related Party Transactions. The Company sells certain products to Kontron
+and the Kontron group of companies for further resale outside North America.
+These sales were approximately $1.3 million in 2001. The Company also buys
+products from these related entities for further resale within North America.
+These purchases were approximately $0.8 million in 2001. The Company and the
+Kontron group of companies are operating under agreements regarding the sales
+and purchases from each other. Such transactions are in the normal course of
+business at negotiated prices comparable to similar transactions with other
+customers and suppliers. Management believes the transactions with Kontron and
+the Kontron group of companies are at arms length and are under terms no less
+favorable to the Company than those with other customers or suppliers.
+
+     Included in the financial statements are approximately $118,500 of related
+party receivables and approximately $210,100 of related party payables as of
+December 30, 2001.
+
+3.   Restructuring Costs
+
+     During fiscal year 2000, the Company announced certain organizational
+restructuring changes related to the Kontron transaction. The management
+reorganization was designed to reduce ongoing administrative and operating
+expenses, and further streamline the organization in preparation for Kontron's
+increased involvement with the Company. During 1999, the Company
+
+                                       26
+<PAGE>
+
+incurred restructuring costs due to severance charges from reorganization
+efforts related to outsourcing certain aspects of the manufacturing and design
+of products.
+
+     The reserves remaining at December 30, 2001 and December 31, 2000 were $0
+and $44,300, respectively.
+
+4.   Income Taxes
+
+     The Company accounts for income taxes under the liability method, which
+requires recognition of deferred income tax assets and liabilities for the
+expected future income tax consequences under enacted tax laws of temporary
+differences between the financial reporting and tax bases of assets and
+liabilities.
+
+     A reconciliation of the Company's statutory tax rate to the effective rate
+is as follows:
+
+                                                      2001      2000      1999
+                                                      ----      ----      ----
+Federal statutory rate ...........................      34%       34%       34%
+State taxes, net of federal tax benefit ..........       4%        4%        4%
+Valuation allowance ..............................     (38)%     (38)%     (38)%
+                                                       ---       ---       ---
+     Total .......................................      --%       --%       --%
+                                                       ===       ===       ===
+
+     As of December 30, 2001, the Company had approximately $29 million of net
+operating loss carryforwards for federal income tax purposes that are available
+to offset future taxable income through the year 2021. These carryforwards will
+be subject to an annual limitation as a result of a deemed change in ownership
+under the tax regulations at the time of the Kontron transaction in December
+2000.
+
+     The components of the Company's deferred tax asset are as follows:
+
+<TABLE>
+<CAPTION>
+                                                          2001           2000          1999
+                                                      ------------   ------------   -----------
+<S>                                                   <C>            <C>            <C>
+Net operating loss and tax credit carryforwards ...   $ 11,511,000   $ 11,493,000   $ 6,070,000
+Timing differences ................................      2,576,000      1,981,000     1,556,000
+Valuation allowance ...............................    (14,087,000)   (13,474,000)   (7,626,000)
+                                                      ------------   ------------   -----------
+     Total ........................................   $         --   $         --   $        --
+                                                      ============   ============   ===========
+</TABLE>
+
+5.   Line of Credit and Subordinated Notes Payable
+
+     Kontron Embedded Computers AG Line of Credit. On January 29, 2002, Kontron
+agreed to provide financial support to enable the Company to meet its cash flow
+needs and obligations as and when they become due through the period ending
+December 31, 2002. On September 28, 2000 (revised November 9, 2000), the Company
+entered into credit line agreements with Kontron to provide up to $5 million of
+cash for operations. Borrowings under these agreements bear interest at 11% per
+annum (payable monthly), and were due on December 15, 2000. The agreement was
+revised on December 16, 2000 for Kontron to provide up to DM 10 million and
+further revised on April 1, 2001 to provide up to DM 14 million for operations.
+On September 1, 2001 and December 28, 2001, the agreement was revised to provide
+up to 8.5 million Euros for operations ($7.7 million based on December 30, 2001
+exchange rate.) Borrowings under this agreement bear interest at 11% per annum
+(payable monthly), with no stated maturity date. Outstanding borrowings under
+this line of credit were $6.9 million at December 30, 2001.
+
+     Subordinated Notes Payable. In September 1999, the Company completed a
+private placement of $3.0 million in 11% subordinated notes. The notes were
+repaid at the September 2001 maturity date. Noteholders also received warrants
+to purchase 1.5 million shares of common stock exercisable at $1.00 per share.
+The warrants are exercisable for five years, and were recorded at their
+estimated fair value of $882,000 at the date of issuance.
+
+6.   Shareholders' Equity
+
+     On June 30, 2000, the Company issued warrants to purchase 1.25 million
+shares of common stock to FWRKS Acquisition Corp., (a wholly owned subsidiary of
+Kontron), exercisable at $1.00 per share. The warrants were exercisable until
+November 15, 2000, and were recorded at their estimated fair value of $437,500
+at the date of issuance. These warrants were cancelled upon closing of the
+Kontron investment. See Note 1 for additional discussion.
+
+                                       27
+<PAGE>
+
+     Warrants to purchase 2,852,405 shares of the Company's common stock were
+outstanding at December 30, 2001 and December 31, 2000. The warrants are
+exercisable at various times through February 2007 at prices ranging from $1.00
+to $7.80.
+
+     On March 31, 2000, the Company issued 500,000 shares of Series C
+Convertible Preferred Stock to IWHC. The Company recorded a $250,000 charge
+relating to the beneficial conversion feature associated with this preferred
+stock. The Company issued a warrant to IWHC to purchase 100,000 shares of common
+stock with an exercise price of $2.00 per share in connection with this
+transaction. Subsequent to March 31, 2000, the conversion rate was adjusted to
+such that the holders have the right to receive a total of 1,041,666 shares of
+common stock upon conversion of the Series C Convertible Participating Preferred
+Stock. In connection with this conversion rate adjustment, an additional
+beneficial conversion feature of $270,833 was recorded.
+
+     On February 22, 2000, the Company completed a $4.25 million equity
+investment by IWHC. In exchange for the $4.25 million investment, the Company
+issued 4,250,000 shares of Series B Convertible Preferred Stock (each share of
+which was initially convertible into one share of Common Stock). Subsequent to
+February 22, 2000, the conversion rate was adjusted to such that the holders
+have the right to receive a total of 4,427,083 shares of common stock upon
+conversion of the Series B Convertible Participating Preferred Stock. IWHC
+received 500,000 warrants exercisable at $1.00 per share. The Company used the
+net proceeds for market expansion and new product development as well as for
+working capital and general corporate purposes. In December 2000, IWHC tendered
+all of its shares of Series B and Series C Convertible Preferred Stock to
+Kontron for shares of Kontron Common Stock.
+
+     In the event of liquidation of the Company, the liquidation preference
+would first be to shareholders of Series B Convertible Participating Preferred
+Stock, followed by shareholders of Series C Convertible Participating Preferred
+Stock, followed by shareholders of Common Stock. Voting rights of both the
+Series B and Series C Convertible Participating Stock are equal to that of the
+Common Stock shareholders, on an as if converted basis.
+
+7.   Stock Option and 401(k) Plans
+
+     Stock Option Plan. The Company has a Long-Term Incentive and Stock Option
+Plan (the Plan). Under the Plan, options are granted at an exercise price equal
+to the fair market value of the common stock at the date of grant. Incentive
+stock options are granted to employees, and vest over varying periods not to
+exceed ten years. The Plan is authorized to issue up to 2,500,000 shares of
+common stock for such options. At December 30, 2001 and December 31, 2000,
+610,127 and 313,877 shares were available for future grants.
+
+     The Company also has a Non-Employee Directors' Stock Option Plan (the
+Directors' Plan). Under the Directors' Plan, each non-employee director receives
+25,000 nonqualified options upon election and 10,000 options at each reelection
+date. At December 30, 2001 and December 31, 2000, 137,500 and 231,000 shares
+were available for future grants.
+
+     On August 4, 1999, the Board of Directors approved the repricing of all
+outstanding incentive stock options for non-director employees with an exercise
+price greater than $1.25. The new exercise price of such options is $1.25, an
+amount greater than the fair market value of the Company's common stock on that
+date. A total of 819,050 options with exercise prices of $1.53 to $6.40 were
+cancelled and reissued under the terms described above. The Company is required
+to account for these repriced options under variable plan accounting. No
+compensation charge was recognized in 2001, 2000 or 1999, as the market value of
+the Company's common stock was less than the exercise price for these options.
+
+                                       28
+<PAGE>
+
+     Shares subject to option are summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                         Incentive     Weighted Average   Non-qualified   Weighted Average
+                                       Stock Options    Exercise Price    Stock Options    Exercise Price
+                                       -------------   ----------------   -------------   ----------------
+<S>                                     <C>                  <C>            <C>                <C>
+Balance, January 3, 1999 ...........     1,368,950           $2.75            320,250          $5.14
+     Options granted ...............     1,533,300            1.48            240,000           1.62
+     Options canceled ..............    (1,536,200)           2.29                 --             --
+     Options exercised .............       (70,500)           1.00                 --             --
+                                        ----------           -----          ---------          -----
+Balance January 2, 2000 ............     1,295,550            1.69            560,250           3.63
+     Options granted ...............     1,195,550            1.07            523,500           1.40
+     Options canceled ..............    (1,356,150)           1.69            (82,500)          2.27
+     Options exercised .............            --              --                 --             --
+                                        ----------           -----          ---------          -----
+Balance, December 31, 2000 .........     1,134,950            1.05          1,001,250           2.58
+     Options granted ...............        31,500             .73            110,000            .72
+     Options canceled ..............      (327,750)           1.34                 --             --
+     Options exercised .............       (50,000)            .42             (8,500)           .72
+                                        ----------           -----          ---------          -----
+Balance, December 30, 2001 .........       788,700           $ .96          1,102,750          $2.41
+                                        ==========           =====          =========          =====
+
+Options exercisable at:
+     January 2, 2000 ...............       336,000           $2.54            425,150          $3.52
+     December 31, 2000 .............        87,575            1.12            681,615           2.72
+     December 30, 2001 .............        67,530            1.28            752,000           2.60
+</TABLE>
+
+     Additional information regarding options outstanding at December 30, 2001
+is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                         Weighted Average
+                             Number      Exercise     Weighted Average      Remaining
+Type of Option             of Options   Price Range    Exercise Price    Contractual Life
+- --------------             ----------   -----------   ----------------   ----------------
+<S>                         <C>         <C>                <C>                 <C>
+Incentive ...............     253,750   $0.42-$1.00        $0.46               5.93
+Incentive ...............     517,700   $1.01-$1.25        $1.14               5.35
+Incentive ...............      17,250   $1.26-$1.88        $1.65               4.73
+                            ---------
+                              788,700
+                            =========
+Nonqualified ............     836,250   $0.72-$3.00        $1.37               5.90
+Nonqualified ............      95,500   $3.01-$5.00        $4.54               5.05
+Nonqualified ............     171,000   $5.01-$6.50        $6.24               4.77
+                            ---------
+                            1,102,750
+                            =========
+</TABLE>
+
+     The Company applies Accounting Principles Board Opinion No. 25, "Accounting
+for Stock Issued to Employees," and related Interpretations in accounting for
+its stock option plans. Accordingly, no compensation cost has been recognized in
+the accompanying statements of operations. Had compensation cost been recognized
+based on the fair values of options at the grant dates consistent with the
+provisions of SFAS No. 123, "Accounting for Stock-Based Compensation," the
+Company's net income (loss) and net income (loss) per common share would have
+been increased to the following pro forma amounts:
+
+                                           2001         2000           1999
+                                         --------   ------------    -----------
+Net income (loss)
+     As reported ....................    $940,359   $(17,698,252)   $(5,380,058)
+     Pro forma ......................    $910,717   $(18,096,693)   $(5,819,960)
+Net income (loss) per common share
+     As reported ....................    $    .06   $      (1.92)   $      (.61)
+     Pro forma ......................    $    .06   $      (1.96)   $      (.66)
+
+     The weighted average fair values of options granted were as follows:
+
+                                                     Incentive     Nonqualified
+                                                   Stock Options   Stock Options
+                                                   -------------   -------------
+2001 grants.....................................     $ 0.72          $ 0.74
+2000 grants.....................................       1.14            1.54
+1999 grants.....................................       1.28            1.50
+
+                                       29
+<PAGE>
+
+     The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option pricing model with the following weighted-average
+assumptions used for grants in 2001, 2000 and 1999:
+
+                                                     2001      2000      1999
+                                                   --------   -------   -------
+Risk-free interest rate.........................       5.32%     6.10%     6.10%
+Expected life of incentive options..............    7 years   7 years   7 years
+Expected life of nonqualified options...........   10 years   8 years   7 years
+Expected volatility.............................        150%      186%      117%
+Expected dividend yield.........................         --        --        --
+
+     401(k) Profit-Sharing Plan. The Company has a 401(k) profit-sharing plan
+(the 401(k) Plan) covering substantially all employees. Eligible employees may
+elect to defer up to 15% of their eligible compensation. The Company accrues
+matching contributions of 50% on the first 4% of each plan participant's
+eligible contributions. The Company's matching contributions were $40,500,
+$51,600 and $83,100 for 2001, 2000 and 1999, respectively.
+
+8.   Commitments and Contingencies
+
+     Leases. The Company leases its current headquarters office facilities under
+an operating lease which expires November 30, 2004. The Company has subleased
+two portions of the site: 12,422 square feet of office space has been subleased
+for the period of September 1, 2000 to November 30, 2004 and 4,728 square feet
+of warehouse space has been subleased with an original ending date of June 30,
+2001 that has now become month-to-month and is cancelable by either party with a
+60-day notice. Total rental payments to be received over the term of the
+non-cancelable sublease agreement will be $742,000. The Company subleased its
+previous office facilities under an operating lease that expired in June 1999.
+Rent expense associated with operating leases was $496,600, $485,400 and
+$469,700 for 2001, 2000 and 1999, respectively. The Company does not have any
+capital leases as of December 30, 2001.
+
+     The following is a schedule of future minimum operating lease payments as
+of December 30, 2001:
+
+2002 ........................................   $512,000
+2003 ........................................    501,000
+2004 ........................................    449,000
+
+     Legal Proceedings. On April 28, 2000, the Company entered into an
+Engagement Agreement with Goldsmith, Agio, Helms & Lynner, Ltd. ("GAH") to act
+as its agent to assist with a merger, sale or similar transaction, for a minimum
+period of six months. The Company cancelled the agreement with GAH after being
+approached by Kontron about the transaction that eventually closed in December
+2000. GAH pursued legal proceedings against the Company and in September 2001,
+an arbitrator found that the Company was required to pay damages of $792,000 to
+GAH. These costs have been classified as "other expense" in the Company's 2001
+and 2000 statements of operations. For comparative purposes, payments made to
+GAH prior to the date of the award by the arbitrator have been reclassified to
+reflect this change.
+
+     The Company is involved in legal actions in the ordinary course of its
+business. Although the Company cannot predict the outcome of any such legal
+actions, management believes that there is no pending legal proceeding against
+or involving the Company for which the outcome is likely to have a material
+adverse effect upon the Company's financial position, results of operations or
+cash flows.
+
+9.   Quarterly Financial Data (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                         First Quarter      Second Quarter     Third Quarter      Fourth Quarter
+                                        ----------------   ----------------   ----------------   ----------------
+                                         2001     2000      2001     2000      2001     2000      2001     2000
+                                        ------   -------   ------   -------   ------   -------   ------   -------
+                                                                       (in thousands)
+<S>                                     <C>      <C>       <C>      <C>       <C>      <C>       <C>      <C>
+Net sales...........................    $5,010   $ 4,347   $4,862   $ 4,050   $3,248   $ 3,436   $4,186   $ 3,863
+Gross profit (loss).................     2,255       965    2,196       681    1,560    (2,714)   1,808      (626)
+Net income (loss) applicable to
+common shareholders.................    $  554   $(2,280)  $  460   $(3,775)  $ (304)  $(7,256)  $  230   $(4,387)
+
+Basic and diluted earnings (loss) per
+   common share.....................    $  .04   $  (.26)  $  .03   $  (.42)  $ (.02)  $  (.82)  $  .01   $  (.43)
+</TABLE>
+
+                                       30
+<PAGE>
+
+10.  Segment Reporting
+
+     Based on the requirements of Statement of Financial Accounting Standards
+No. 131, "Disclosures about Segments of an Enterprise and Related Information",
+the Company has determined that development and sale of rugged portable
+computing solutions is its only reportable segment.
+
+     Sales by geographic locations were as follows:
+
+<TABLE>
+<CAPTION>
+                                            2001             2000             1999
+                                         -----------      -----------      -----------
+<S>                                      <C>              <C>              <C>
+United States ........................   $14,875,000      $13,396,000      $21,667,000
+Europe ...............................     1,865,000        1,469,000        2,815,000
+Americas (excluding United States) ...       301,000           95,000          104,000
+Asia .................................       118,000          159,000           90,000
+Middle East/Africa ...................        85,000          236,000          450,000
+Australia ............................        61,000            4,000           95,000
+Russia ...............................         1,000          337,000          108,000
+                                         -----------      -----------      -----------
+                                         $17,306,000      $15,696,000      $25,329,000
+                                         ===========      ===========      ===========
+</TABLE>
+
+     Sales by product line were as follows:
+
+<TABLE>
+<CAPTION>
+                                            2001             2000             1999
+                                         -----------      -----------      -----------
+<S>                                       <C>              <C>              <C>
+8000 Series ..........................   $ 7,770,000      $ 5,313,000(1)   $        --(1)
+2000 Series ..........................     5,905,000        4,796,000        3,700,000
+EnVoy ................................     2,235,000(2)            --               --
+Field Lite ...........................       248,000(3)            --               --
+IN Rave ..............................        89,000(3)            --               --
+Power Lite ...........................        13,000(3)            --               --
+7000 Series ..........................            --(4)     1,826,000(4)     9,037,000
+5000 Series ..........................     1,046,000(5)     3,761,000(5)    12,592,000
+                                         -----------      -----------      -----------
+                                         $17,306,000      $15,696,000      $25,329,000
+                                         ===========      ===========      ===========
+</TABLE>
+
+- ----------
+(1)  The 8000 Series product was introduced in fiscal year 2000.
+(2)  The EnVoy product was introduced in 2001.
+(3)  The Field Lite, IN Rave and Power Lite are Kontron products. The Company
+     began marketing these products in 2001.
+(4)  The 7000 Series product was discontinued and replaced with the 8000 Series
+     product in fiscal year 2000.
+(5)  The 5000 Series product was discontinued in 2001.
+
+     All of the Company's long-lived assets are located in the United States.
+
+                                       31
+<PAGE>
+
+Report of independent public accountants
+
+To Kontron Mobile Computing, Inc.:
+
+We have audited the accompanying balance sheets of Kontron Mobile Computing,
+Inc. (a Minnesota corporation, formerly known as FieldWorks, Incorporated) as of
+December 30, 2001 and December 31, 2000, and the related statements of
+operations, shareholders' equity and cash flows for each of the three years in
+the period ended December 30, 2001. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Kontron Mobile Computing, Inc.
+as of December 30, 2001 and December 31, 2000, and the results of its operations
+and its cash flows for each of the three years in the period ended December 30,
+2001 in conformity with accounting principles generally accepted in the United
+States.
+
+Our audit was made for the purpose of forming an opinion on the basic financial
+statements taken as a whole. Schedule II is presented for purposes of complying
+with the Securities and Exchange Commission's rules and is not part of the basic
+financial statements. This schedule has been subjected to the auditing
+procedures applied in the audit of the basic financial statements and, in our
+opinion, fairly states in all material respects the financial data required to
+be set forth therein in relation to the basic financial statements taken as a
+whole.
+
+ARTHUR ANDERSEN LLP
+
+Minneapolis, Minnesota,
+February 11, 2002
+
+                                       32
+<PAGE>
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+<TABLE>
+<CAPTION>
+Fiscal                                        Balance at       Additions Charged   Deductions - Write-    Balance at End of
+- ------                                       -----------       -----------------   -------------------    -----------------
+ Year                                      Beginning of Year      to Expense         Offs of Accounts            Year
+ ----                                      -----------------      ----------         ----------------            ----
+<S>      <C>                                   <C>                 <C>                 <C>                    <C>
+2001     Allowance for Doubtful Accounts       $ 334,100           $ 132,700           $ 149,600              $ 317,200
+         Accrued Restructuring Costs              44,300                  --              44,300                     --
+
+2000     Allowance for Doubtful Accounts         259,600             132,500              58,000                334,100
+         Accrued Restructuring Costs             230,000             390,900             576,600                 44,300
+
+1999     Allowance for Doubtful Accounts         269,800              10,200              20,400                259,600
+         Accrued Restructuring Costs              16,100             400,000             186,100                230,000
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.24
+<SEQUENCE>3
+<FILENAME>dex1024.txt
+<DESCRIPTION>2002COMPENSATION PLAN FOR THOMAS SPARRVIK
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.24
+
+November 12, 2001
+
+                   2002 Compensation Plan for Thomas Sparrvik
+
+The main focus this year is to grow the company and continue on the path of
+profitability. The main challenge will be to continue to motivate the staff
+while located in San Diego. This reward system intends to motivate you to
+fulfill both the Company tasks and, in the long term, create shareholder value
+for all shareholders of KMC
+
+The existing contract between us will remain in effect as a base contract,
+however, your monthly base salary will be reduced to $2000/month effective
+01/01/02, and you will not be part of the KMC benefit plans as of that date.
+
+A "per quarter" bonus will be paid to you, based on the following quarterly
+Operating Profit:
+- ----------------
+
+     .    If less than $150K, then $0/Qtr.
+     .    If more than $150K, but less than $399K, then $5,000/Qtr.
+     .    If more than $400K, but less than $600K, then $7,500/Qtr.
+     .    If more than $600K, butless than $900K, then $10,000/Qtr.
+     .    If more than $900K, then $15,000/Qtr.
+
+A "year end" bonus of $20,000 will be paid to you if the 2002 Annual Operating
+                                                              ----------------
+Profit for KMC exceeds $2.0 million.
+- ------
+
+A "year end" bonus will be paid to you based on the following 2002 annual
+Revenue results:
+- -------
+
+     .    If at least $18.5 million, then $7,500.
+     .    If between $18.5 million and $21.5 million, then an additional
+          $12,500, prorated.
+     .    If $21.5 million or more, then $20,000.
+
+Before the bonuses are paid, financial results must be received and approved by
+the Audit Committee Chairman.
+
+No Q3 or Q4 bonus will be paid if the 2002 YTD cumulative Operating Profit at
+the end of these quarters is less than $1 million.
+
+This agreement will be added to your existing contract and will be in effect Q1
+through Q4, 2002.
+
+
+/s/ Thomas Sparrvik                             /s/ Richard L. Poss
+- -------------------------                       --------------------------------
+Thomas Sparrvik                                 Richard L. Poss
+President/CEO                                   Chairman, Compensation Committee
+
+
+                                                /s/ David C. Malmberg
+                                                --------------------------------
+                                                David C. Malmberg
+                                                Chairman
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.25
+<SEQUENCE>4
+<FILENAME>dex1025.txt
+<DESCRIPTION>LETTER DATED MARCH 28, 2002
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.25
+
+
+March 28, 2002
+
+
+Securities and Exchange Commission
+450 Fifth Street, NW
+Washington, D.C. 20549
+
+
+Kontron Mobile Computing, Inc. (the Company) has received a letter dated March
+28, 2002 from Arthur Andersen LLP (Arthur Andersen) regarding the audit of the
+Company's financial statements as of December 30, 2001 and for the year then
+ended.
+
+In this letter, Arthur Andersen represented that this audit was subject to its
+quality control system for its U.S. accounting and auditing practice to provide
+reasonable assurance that the engagement was conducted in compliance with
+professional standards, and that there was appropriate continuity of Arthur
+Andersen personnel working on the audit and availability of national office
+consultation.
+
+
+Sincerely,
+
+/s/ Thomas Sparrvik
+
+Thomas Sparrvik
+Chief Executive Officer
+Kontron Mobile Computing, Inc.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>5
+<FILENAME>dex231.txt
+<DESCRIPTION>CONSENT OF ARTHUR ANDERSEN LLP
+<TEXT>
+<PAGE>
+
+Exhibit 23.1
+
+Consent of independent public accountants
+
+As independent public accountants, we hereby consent to the incorporation of our
+report included in this Form 10-K into the Company's previously filed
+Registration Statement File Nos. 333-26297, 333-65379 and 333-88973.
+
+ARTHUR ANDERSEN LLP
+
+Minneapolis, Minnesota,
+March 28, 2002
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>6
+<FILENAME>dex991.txt
+<DESCRIPTION>CAUTIONARY STATEMENT
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 99.1
+
+                              CAUTIONARY STATEMENT
+
+     Kontron Mobile Computing, Inc. ("we" or "us"), or persons acting on our
+behalf, or outside reviewers we have retained who are making statements on our
+behalf, or underwriters, from time to time, may make, in writing or orally,
+"forward-looking statements" as defined under the Private Securities Litigation
+Reform Act of 1995 (the "Act") and incorporated in Section 27A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934,
+as amended. This Cautionary Statement is for the purpose of qualifying for the
+"safe harbor" provisions of the Act and is intended to be a readily available
+written document that contains factors which could cause results to differ
+materially from those projected in the forward-looking statements. These factors
+are in addition to any other cautionary statements, written or oral, which may
+be made or referred to in connection with any forward-looking statement.
+
+     The following matters, among others, may have a material adverse effect on
+our business, financial condition, liquidity, results of operations or
+prospects, financial or otherwise. Reference to this Cautionary Statement in the
+context of a forward-looking statement shall be deemed to be a statement that
+any one or more of the following factors may cause actual results to differ
+materially from those that we have projected, forecast, estimated or budgeted in
+any forward-looking statement or statements:
+
+                         Risks Related to Our Operations
+
+We have a history of losses
+
+     As of December 30, 2001, we had an accumulated deficit of $36.6 million.
+Although we achieved net income and a positive operating cash flow in 2001 for
+the first time in our history, we expect to continue to incur significant
+operating expenses and, as a result, will need to generate significant revenues
+to sustain profitability, which may not occur. Even if we do sustain
+profitability, we may be unable to increase profitability on a quarterly or
+annual basis in the future.
+
+We cannot assure you that we will generate sufficient sales to allow us to
+continue to operate profitably
+
+     The market for the kind of computing platforms and solutions we sell is
+relatively new and limited. The rugged computing platforms that we use are both
+heavier and more expensive than most consumer portable personal computers. Our
+success will depend upon our ability to expand the tools and services we offer,
+penetrate our key vertical markets of government, military, public services, and
+utilities, and continue our reduction in product costs and time to market. We
+cannot assure you that our current or new products will gain widespread
+acceptance or that we will generate sufficient sales to allow us to continue to
+operate profitably. We will in particular suffer adverse effects if the market
+for the kind of computing solutions and products we sell declines.
+
+Our ability to develop solutions around our rugged platforms will influence our
+ability to compete in the marketplace
+
+     We have had a history of designing and delivering hardware platforms for
+extreme environments and will continue to capitalize on this strategy. Our
+strategy is to be a key provider of tools and services to facilitate field data
+acquisition, test and measurement, telemetry, and mobile communication
+applications in the government, military, public services, and utilities markets
+worldwide. To produce these solutions, we combine appropriate hardware, software
+and peripherals and also provide service and support. To succeed with this
+approach, we will need to design, develop, conceptualize and support computing
+solutions that address the needs of these vertical markets. We cannot guarantee
+that we will be able to do this in a timely, cost-effective manner or that our
+target markets will accept the solutions that we do introduce.
+
+We depend on third-party manufacturers to produce some of our products
+
+                                       1
+<PAGE>
+
+     We depend on third-party manufacturers to manufacture and assemble some of
+our products. This results in dependence on the timely delivery of high quality
+products from these manufacturers and may leave us with less flexibility and
+control over the manufacturing process than if we conducted all of these
+operations internally. These manufacturers (including the manufacturers of
+subassemblies included in our final products) may not timely deliver the items
+they are expected to produce. Any occurrence of this sort could compromise our
+ability to deliver our products and solutions in a timely fashion. It could also
+require us to make alternative arrangements, which might not be available on
+acceptable terms or on a timely basis. If we were unable to make alternative
+arrangements, our business and financial condition could suffer.
+
+Our failure to anticipate or rapidly respond to changing customer demands could
+adversely affect our market position
+
+     Both the computer industry and the diagnostic and data collection
+instrument industry are characterized by rapid technological change, including
+changes in customer requirements, frequent new product introductions and
+enhancements, and evolving industry standards. Our success will depend in part
+on our ability to keep pace with technological developments and emerging
+industry standards and to respond to customer requirements by enhancing our
+current products and developing and introducing new solutions and products. Our
+market position will be adversely affected if we do not adequately anticipate or
+rapidly respond to changes of this type. Technological advances may also
+increase the level of competition in our market niche.
+
+Intense competition could reduce our market share and harm our financial
+performance
+
+     We occupy a niche in the portable computer market. In this niche, our
+products face direct competition from companies producing portable computers
+intended for field use such as Dolch Computer Systems; Getac Corp.; Itronix
+Corp.; Paravant Computer Systems, Inc.; Motorola, Inc.; Data 911, Litton
+Industries, Inc., and Panasonic Personal Computer Company. Our computing
+platforms also face indirect competition from a variety of different companies
+and products, including consumer portable personal computers, customized
+portable personal computers and single-purpose diagnostic and data collection
+instruments.
+
+     Both the computer industry and the diagnostic and data collection
+instrument industry are intensely competitive. To the extent that we and our
+current direct competitors expand and develop the market niche that we currently
+service, other manufacturers may turn their attention to it and begin to produce
+products directly competitive with those we offer. Many of the companies that
+produce or may produce devices that compete or may compete, directly or
+indirectly, with ours have greater name recognition, larger client bases and
+substantially more financial, technological and marketing resources than we do.
+These factors may provide them with significant advantages over us. Among other
+things, these factors may allow them to adapt more rapidly and effectively to
+changes in technology or in the market or to develop or market products that
+will be more widely accepted. Competitive pressures could result in reduced
+market share, price reductions, reduced margins and increased spending on
+marketing and product development, any of which could adversely affect our
+business.
+
+If we do not adequately manage our inventory we may be required to make
+write-offs in the future
+
+     In the past, we have written off portions of our parts inventory that have
+become obsolete. If our current policies aimed at preventing a recurrence prove
+ineffective, we may be required to do so again. Any significant future
+write-offs could have an adverse effect on our financial condition.
+
+We may not succeed in attracting and retaining the personnel we need for our
+business
+
+     Our future success depends substantially on our ability to attract and
+retain the personnel we need for our business. Our personnel needs include
+highly trained personnel for management, sales and engineering. Qualified
+individuals in these areas are in high demand and are often subject to competing
+employment opportunities. In recent years there has been great demand for
+qualified employees in the Minneapolis area, where our headquarters are located.
+We may not succeed in attracting and retaining the personnel we need for our
+business.
+
+Adverse events with respect to our international sales could have an adverse
+effect on our business and financial condition
+
+                                       2
+<PAGE>
+
+     In the year ended December 30, 2001, international sales represented
+approximately 14% of our net sales. All of our export sales are currently
+denominated in United States dollars. An increase in the value of the United
+States dollar relative to foreign currencies could make our products more
+expensive and, therefore, potentially less competitive in foreign markets. In
+the future, if we were to denominate our export sales in foreign currencies, our
+financial condition and results of operations would become subject to foreign
+currency translations and the possibility of currency exchange or price controls
+or other restrictions on foreign currencies. If any of these events occurred, it
+could have an adverse effect on our business and financial condition.
+
+We depend on resellers for our product distribution
+
+     We distribute a substantial portion of our products through independent
+sales representatives and distributors. We also sell our products to
+value-added-resellers (known as VARs) and systems integrators. Our success
+depends in large part upon the performance of these resellers and on our ability
+to attract new resellers. Many of our resellers also carry -- and may have
+incentives to encourage purchase of -- competitive products. Most of our
+resellers may terminate their written agreements with us with or without cause
+by giving us 30 days' written notice. The loss of any of our major resellers or
+a failure to make acceptable arrangements with resellers in new markets could
+have a material adverse effect on us.
+
+We obtain a number of our components from single sources
+
+     Our rugged computing platforms employ a number of components not generally
+used in off-the-shelf personal computers, such as special hard disk drives,
+CD-ROM drives, floppy disk drives, displays and power supplies. We currently
+obtain a number of these components from single sources. It could create
+uncertainty and be costly and time-consuming if we had to change suppliers. If
+we could not obtain adequate or timely quantities of necessary components from
+our current suppliers, we might not be able to identify or access alternative
+sources within a reasonable period of time, on acceptable terms, or at all. Some
+of our current vendors use tools that have been designed for us and are our
+property. If we were required to change suppliers for these components, we would
+need either to move the necessary tools or to obtain new tools, either of which
+could entail significant cost and delay. Moreover, our buying power may be
+limited by our small volume and we may receive less favorable allocations and
+other terms such as price, timing or other factors than larger companies buying
+from the same suppliers. Any of these factors or a significant increase in the
+price of components could have a material adverse effect on our ability to
+manufacture and market our products.
+
+Potential fluctuations in our quarterly financial results make financial
+forecasting difficult
+
+     Our quarterly operating results may fluctuate significantly in the future
+as a result of a variety of factors, many of which are outside our control.
+These factors include:
+
+     .    long customer sales cycles (especially for customers that are
+          government agencies or large corporations);
+
+     .    changes in customer buying patterns;
+
+     .    orders from significant customers in one quarter that are
+          disproportionate in size or value compared to our other orders;
+
+     .    the timing and nature of customer returns;
+
+     .    the timing of the introduction of new products by us or our
+          competitors;
+
+     .    our competitors' tactics;
+
+     .    technological developments; and
+
+     .    the overall strength of the economy.
+
+                                       3
+<PAGE>
+
+     All of these factors, along with the uncertainties associated with the
+introduction of any new product or product enhancement, in gauging ultimate
+customer demand, and in predicting general trends in the market for our tools
+and services, may limit our ability to plan for production and to forecast
+quarterly results of operations accurately. We believe that quarter-to-quarter
+comparisons of our operating results may not be a good indication of our future
+performance. Stockholders should not rely on our operating results for any
+particular quarter as an indication of our future operating results.
+
+                     Risks Related to Intellectual Property
+
+Failure to protect our intellectual property rights could harm our brand and our
+ability to compete effectively
+
+     We rely on a combination of unpatented trade secrets and know-how and on
+the expertise of our employees. We do not rely on patented processes or
+technologies. The protective steps we have taken may be inadequate to deter
+misappropriation of our proprietary information. We may be unable to detect the
+unauthorized use of, or take appropriate steps to enforce, our intellectual
+property rights. Effective trade secret protection may not be available in every
+country in which we offer or intend to offer our products and services.
+Likewise, others may independently develop or otherwise acquire unpatented
+and/or patented technologies or products similar or superior to ours. We claim
+trademark rights in three marks we use in connection with our products in the
+United States. We are aware that there are third parties that have claimed or
+may claim superior rights, in some U.S. territories, to use marks in which we
+claim rights. One or more of these third parties may contest our right to use or
+register our trademarks. We do not know whether any of the trademarks covered by
+our applications for registration will be found registrable, that registrations
+will issue, or that we can support the cost of defense of our trademarks.
+Failure to protect our intellectual property adequately could harm our brand and
+affect our ability to compete effectively. Defending our intellectual property
+rights could also result in the expenditure of significant financial and
+managerial resources, which could materially adversely affect our business.
+
+Loss of software licenses could have an adverse effect on us
+
+     We license some of the software that we include in our products from third
+parties. If any licensor terminated any of these licenses, we might not be able
+to license similar software from another party in a timely fashion, on
+acceptable terms, or at all.
+
+We may have to defend against intellectual property infringement claims, which
+could have an adverse effect on us whether or not we prevailed
+
+     Disputes over intellectual property are frequent in the high technology
+area. Although we believe that our business activities do not infringe the
+intellectual property rights of others, other parties may assert infringement
+claims against us or claim that we have violated a patent or other proprietary
+right belonging to them. Likewise, disputes may arise in the future with respect
+to ownership of technology developed by employees who were previously employed
+by other companies. Infringement claims, even if not meritorious, could result
+in the expenditure of significant financial and managerial resources. An adverse
+determination could subject us to significant liabilities, require us to seek
+licenses from or pay royalties to third parties or require us to develop
+appropriate alternative technology. We might not be able to do any of these
+things on acceptable terms, at an acceptable price, or at all. Any of these
+results could materially adversely affect our business.
+
+                    Risks Related to Our Financial Condition
+
+Our Common Stock was delisted by Nasdaq and currently is traded on the Over The
+Counter Bulletin Board
+
+     In August 2000, our Common Stock was delisted from the Nasdaq SmallCap
+Market for failure to demonstrate sustained compliance with the net tangible
+assets listing requirement, and began trading on the Over The Counter Bulletin
+Board. There can be no assurance that our Common Stock will continue to meet the
+
+                                       4
+<PAGE>
+
+requirements required for listing on the Over The Counter Bulletin Board or that
+our Common Stock will continue to be publicly traded.
+
+We may need to raise additional cash during 2002 but may not be able to do so
+
+     On January 29, 2002, Kontron Embedded Computers AG (Kontron) agreed to
+provide us financial support to enable us to meet our cash flow needs and
+obligations as and when they become due through the period ended December 31,
+2002. We are also in the process of finalizing a line of credit with an existing
+bank. Nevertheless, we may need to raise additional capital. We may not be able
+to access sufficient capital when required on favorable terms, if at all. If we
+raise additional funds by issuing equity securities, existing shareholders may
+experience dilution in their ownership interest. If we raise additional funds by
+issuing debt securities, we may incur significant interest expense and become
+subject to covenants that could limit our ability to operate and fund our
+business. If we cannot obtain additional funds when required, we may be unable
+to realize our current plans and may even be forced to cease operations.
+
+Our loan agreements with Kontron are valued in Euros and our foreign currency
+forward contract may negatively impact our cash flow
+
+     In 2001, we began utilizing foreign currency forward contracts to protect
+against significant fluctuations in net income (loss) caused by the valuation of
+our loan agreement with Kontron. Our practice is to enter into a forward
+contract at the beginning of each quarter and settle the contract at the end of
+the quarter. Depending on the currency fluctuation of the Euro, we either pay
+out cash or receive cash when we mark-to-market each quarter. The uncertainty of
+the fluctuation of the Euro could cause cash flow problems.
+
+                    Risks Related to Our Corporate Structure
+
+One of our shareholders, together with its affiliates, owns a significant
+percentage of our outstanding stock and by virtue of that ownership and various
+contractual rights has significant influence over our operations and strategic
+direction
+
+     Kontron, together with certain of its affiliates, owns approximately 65% of
+our Common Stock, assuming conversion of the shares of preferred stock owned by
+them. In addition, two designees of Kontron currently serve on our Board of
+Directors. Kontron's majority ownership stake gives Kontron the ability to
+control the outcome of votes of our shareholders, and therefore results in
+Kontron having significant influence on our operations and strategic direction.
+Kontron's ownership may also have the effect of delaying, deterring or
+preventing a change in control or a change in the composition of our Board of
+Directors.
+
+Our charter documents and Minnesota law may discourage a takeover of our company
+
+     Provisions of our articles of incorporation, bylaws and Minnesota law could
+make it more difficult for a third party to acquire us, even if doing so would
+be beneficial to our shareholders.
+
+We do not intend to pay dividends
+
+     We currently intend to retain any earnings for use in the operation and
+expansion of our business and therefore do not anticipate paying any cash
+dividends in the foreseeable future.
+
+                                       5
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

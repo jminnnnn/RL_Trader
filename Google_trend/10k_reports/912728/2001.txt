@@ -1,0 +1,3364 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JaSGWdZ0JpCyhqELE3f8ofm9M2ZIjoKxVq8JnO9Y0Pdq+bLp1fjM5PXEtMJqMVhn
+ 47iZp0IQsKwWqKel1VvMmg==
+
+<SEC-DOCUMENT>0000950144-01-004578.txt : 20010409
+<SEC-HEADER>0000950144-01-004578.hdr.sgml : 20010409
+ACCESSION NUMBER:		0000950144-01-004578
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010402
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FORWARD AIR CORP
+		CENTRAL INDEX KEY:			0000912728
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCKING (NO LOCAL) [4213]
+		IRS NUMBER:				621120025
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22490
+		FILM NUMBER:		1589647
+
+	BUSINESS ADDRESS:	
+		STREET 1:		430 AIRPORT RD
+		CITY:			GREENEVILLE
+		STATE:			TN
+		ZIP:			37745
+		BUSINESS PHONE:		4236367100
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 1058
+		CITY:			GREENEVILLE
+		STATE:			TN
+		ZIP:			37744
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LANDAIR SERVICES INC
+		DATE OF NAME CHANGE:	19930928
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>g68101e10-k.txt
+<DESCRIPTION>FORWARD AIR CORPORATION
+<TEXT>
+
+<PAGE>   1
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+                   For the fiscal year ended December 31, 2000
+
+                          Commission File No. 000-22490
+
+                             FORWARD AIR CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+                  Tennessee                                  62-1120025
+      (State or other jurisdiction of                     (I.R.S. Employer
+      incorporation or organization)                     Identification No.)
+
+           430 Airport Road
+         Greeneville, Tennessee                                37745
+(Address of principal executive offices)                      (Zip Code)
+
+       Registrant's telephone number, including area code: (423) 636-7100
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $.01 par value
+                                (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [X] No [ ]/
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant as of February 28, 2001 was approximately $578.8 million based on the
+closing price of such stock on such date of $36.938.
+
+The number of shares outstanding of the registrant's common stock, $.01 par
+value, as of February 28, 2001 was 21,503,589.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the definitive proxy statement for the 2001 Annual Meeting of
+Shareholders are incorporated by reference into Part III of this report. Such
+definitive proxy statement will be filed with the Securities and Exchange
+Commission not later than 120 days subsequent to December 31, 2000.
+
+
+<PAGE>   2
+
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+
+                                                                                        Page Number
+                                                                                        -----------
+                                        PART I
+<S>           <C>                                                                       <C>
+Item 1.       Business                                                                          3
+Item 2.       Properties                                                                       13
+Item 3.       Legal Proceedings                                                                13
+Item 4.       Submission of Matters to a Vote of Security Holders                              13
+Executive Officers of the Registrant                                                           14
+
+                                        Part II
+
+Item 5.       Market for Registrant's Common Stock and                                         16
+              Related Shareholder Matters
+Item 6.       Selected Financial Data                                                          17
+Item 7.       Management's Discussion and Analysis of Financial                                18
+              Condition and Results of Operations
+Item 7A.      Quantitative and Qualitative Disclosures About Market Risk                       23
+Item 8.       Financial Statements and Supplementary Data                                      23
+Item 9.       Changes in and Disagreements with Accountants on                                 23
+              Accounting and Financial Disclosure
+
+                                        PART III
+
+Item 10.      Directors and Executive Officers of the Registrant                               24
+Item 11.      Executive Compensation                                                           24
+Item 12.      Security Ownership of Certain Beneficial                                         24
+              Owners and Management
+Item 13.      Certain Relationships and Related Transactions                                   24
+
+                                        PART IV
+
+Item 14.      Exhibits, Financial Statement Schedules and                                      25
+              Reports on Form 8-K
+Signatures                                                                                     26
+Index to Financial Statements and Financial Statement Schedule                                 F-2
+</TABLE>
+
+
+                                       2
+<PAGE>   3
+
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+Introduction
+
+         Forward Air Corporation, through its operating subsidiaries (the
+"Company" or "Forward Air"), offers its customers scheduled ground
+transportation of cargo as a cost effective, reliable alternative to air
+transportation. The Company transports cargo that must be delivered at a
+specific time but is less time-sensitive than traditional air freight. This type
+of cargo is frequently referred to in the transportation industry as "deferred
+air freight." Forward Air operates a network of 75 terminals located on or near
+airports in the United States and Canada, including a central sorting facility
+in Columbus, Ohio and regional hubs serving key markets. Rather than owning its
+own trucks, the Company purchases most of its transportation requirements from
+owner-operators and, to a lesser extent, from truckload carriers. A typical
+shipment consists of a pallet load of freight, often computers,
+telecommunications equipment, machine parts, trade show exhibit materials or
+medical equipment. During 2000, an average shipment weighed over 700 pounds.
+Forward Air has experienced rapid revenue growth from $63.6 million in 1995 to
+$214.9 million in 2000, a 28% compound annual growth rate. The Company's
+operating income grew from $6.4 million to $37.3 million over the same period, a
+42% compound annual growth rate.
+
+         The Company focuses its services on: air freight forwarders, which are
+businesses that arrange transportation of cargo for third parties; integrated
+air cargo carriers; and airlines. The Company serves its customers by locating
+terminals on or near airports and maintaining regularly scheduled transportation
+service between major cities. Forward Air receives shipments at its terminals
+and transports them by truck to its central sorting facility or one of its
+regional hubs, where they are unloaded and sorted. After sorting, the shipments
+are reloaded and delivered to the terminals nearest their destinations. The
+Company ships freight directly between terminals when justified by the volume of
+shipments. The Company typically does not provide local pickup and delivery
+services and does not market its services directly to shippers. Since the
+Company does not place significant size or weight restrictions on shipments, it
+does not compete directly with small or overnight package delivery services such
+as DHL Worldwide, UPS and Airborne. Approximately 20% of the shipments the
+Company handles are for overnight delivery, with the rest for delivery within
+two to four days.
+
+Industry Overview
+
+         As businesses minimize inventory levels, perform manufacturing and
+assembly operations in multiple locations and distribute their products through
+many channels, they more frequently require expedited delivery services.
+Expedited shipments are those shipments that the customer requires to be
+delivered the next day or within two to three days, usually at a specified time
+or within a specified time window.
+
+
+                                        3
+<PAGE>   4
+
+         Shippers with expedited delivery requirements have four principal
+alternatives to transport freight: they may use a fully integrated air cargo
+carrier, an airline, a less-than-truckload carrier or an air freight forwarder.
+Integrated air cargo carriers provide pick-up and delivery services primarily
+using their own fleet of trucks and provide transportation services generally
+using their own fleet of aircraft. Airlines provide airport to airport service,
+but have limited cargo space and generally accept only shipments weighing less
+than 150 pounds. Less-than-truckload carriers provide pick-up and delivery
+services through their own fleet of trucks. The national less-than- truckload
+carriers operate terminals where freight is unloaded, sorted and reloaded
+multiple times in a single shipment. The additional handling increases transit
+time, handling costs and the likelihood of cargo damage. An air freight
+forwarder obtains shipments from customers, makes arrangements for
+transportation of the cargo by a third party carrier and usually arranges for
+both delivery from the shipper to the carrier and from the carrier to the
+recipient.
+
+         Although expedited freight is primarily transported by aircraft,
+transportation by truck often is a viable alternative, especially for shipments
+requiring deferred delivery. Generally, the cost of shipping freight, especially
+heavy freight, by truck is substantially less than shipping by aircraft. The
+Company believes there are several trends that are increasing demand for
+lower-cost truck transportation of expedited freight. These trends include:
+
+    Increased Outsourcing of Logistics Management to Third Parties. Air freight
+    forwarders are playing an increasingly important role in logistics
+    management. As the growing emphasis on just-in-time processes has added to
+    the complexity of logistics management, companies are finding it more
+    advantageous to outsource their logistics management functions to third
+    parties. In contrast to integrated air cargo carriers and
+    less-than-truckload carriers that are focused on utilizing their own
+    fixed-cost assets, air freight forwarders can select from various
+    transportation modes and suppliers to meet their customers' shipping
+    requirements, thereby serving their customers less expensively. Air freight
+    forwarders generally handle shipments of any size and offer customized
+    shipping options, unlike integrated air cargo carriers and less-
+    than-truckload carriers.
+
+    Integrated Air Cargo Carriers' Increased Focus on Expedited Freight.
+    Integrated air cargo carriers that transport heavy freight, such as Emery
+    Worldwide and BAX Global, are increasingly targeting their marketing efforts
+    at higher yielding expedited or overnight freight to better utilize their
+    high fixed-cost infrastructures. As a result, these carriers are
+    increasingly outsourcing deferred freight to surface transportation
+    providers like Forward Air.
+
+    Reduced Airline Cargo Capacity. Since the 1980's, when the airlines
+    eliminated many of their all-cargo aircraft, growth in demand for air cargo
+    services has generally outpaced the growth of aircraft cargo capacity. More
+    recently, airlines have been modifying their domestic route systems to
+    provide higher frequency service to more destinations, therefore replacing
+    many of their wide-body aircraft with narrow-body aircraft that have less
+    cargo capacity. Federal Aviation Administration ("FAA") mandates have also
+    reduced air cargo capacity because most all-cargo aircraft are older, and it
+    often is not economically feasible to modify these older aircraft to meet
+    the FAA's noise reduction standards.
+
+
+                                        4
+<PAGE>   5
+
+COMPETITIVE ADVANTAGES
+
+         The Company believes that its competitive advantages are:
+
+         -        Focus on the deferred air freight market. Forward Air focuses
+                  on providing ground transportation services to the deferred
+                  air freight market. The Company believes that this focus and
+                  commitment to reliable service has enabled Forward Air to
+                  provide a higher level of service in a more cost effective
+                  manner than its competitors.
+
+         -        Concentrated marketing strategy. The Company provides its
+                  services to air freight forwarders, integrated air cargo
+                  carriers and airlines rather than marketing its services
+                  directly to shippers. The Company does not place significant
+                  size or weight restrictions on shipments and, therefore, does
+                  not compete with small or overnight package delivery services
+                  such as DHL Worldwide, UPS and Airborne. The Company believes
+                  that air freight forwarders prefer to purchase their
+                  transportation services from Forward Air because it does not
+                  market its services to their shipper customers and is not
+                  competing with them for customers.
+
+         -        Established nationwide network of terminals and sorting
+                  facilities. The Company has built a network throughout the
+                  United States and Canada located on or near airports. The
+                  Company believes it would be difficult for a competitor to
+                  duplicate its nationwide network without the expertise it has
+                  acquired and without expending significant management
+                  resources and capital. Forward Air's network enables it to
+                  provide regularly scheduled service between most markets,
+                  on-time delivery with minimal freight damage or loss, all at
+                  rates significantly below air freight rates.
+
+         -        Low-capital-intensive business model. The Company purchases
+                  virtually all of its transportation requirements from
+                  owner-operators or truckload carriers, rather than acquiring
+                  and operating its own tractors. This allows the Company to
+                  respond quickly to changing demands and opportunities in its
+                  industry and to generate a higher return on assets with lower
+                  capital expenditures.
+
+         -        Enhanced technology. The Company is committed to using
+                  information technology to improve its service and reduce its
+                  operating costs. Technology allows the Company to increase the
+                  volume of freight that it can handle in its network and
+                  provides real-time tracking and tracing of shipments
+                  throughout the transportation process. Forward Air is
+                  currently enhancing its systems to permit its customers to
+                  obtain real-time information about that shipment via the
+                  Internet.
+
+         -        Broad customer base. The Company has established close
+                  relationships with a large number of air freight forwarders,
+                  integrated air cargo carriers and airlines. The Company's five
+                  largest customers only accounted for approximately 18.0% of
+                  its operating revenue in 2000, and no single customer
+                  accounted for more than ten percent.
+
+
+                                        5
+
+<PAGE>   6
+
+GROWTH STRATEGY
+
+         The key elements of Forward Air's growth strategy are to:
+
+         -        Increase freight volume from existing customers. Many of the
+                  Company's customers currently use Forward Air for only a
+                  portion of their overall transportation needs. In addition,
+                  many of the Company's air freight forwarder customers are
+                  growing rapidly, and the Company expects that they will have a
+                  greater need for its services as their businesses grow. The
+                  Company will continue to market directly to these customers to
+                  capture additional freight volume.
+
+         -        Improve efficiency of its transportation network. The Company
+                  constantly seeks to improve the efficiency of its network
+                  without changing its infrastructure or incurring significant
+                  capital expenditures. As the volume of freight between key
+                  markets increases, the Company intends to continue to add
+                  regional hubs and direct shuttles. Additional regional hubs
+                  and direct shuttles improve Forward Air's efficiency by
+                  reducing the number of miles freight must be transported and
+                  reducing the number of times freight must be handled and
+                  sorted. Increased freight volumes should increase the
+                  Company's profits and operating margins because these
+                  additional shipments help cover the substantial fixed costs of
+                  its operations.
+
+         -        Develop new customers. The Company will actively market its
+                  services to potential new air freight forwarder customers. The
+                  Company believes air freight forwarders will move away from
+                  integrated air cargo carriers because of those carriers'
+                  higher costs and away from less-than-truckload carriers
+                  because of those carriers' less reliable service. The Company
+                  also believes that there is significant potential for
+                  increased freight volume from airlines as well as from the
+                  integrated air cargo carriers.
+
+         -        Enhance information systems. The Company is committed to
+                  continued enhancement of its information systems in ways that
+                  can provide it both competitive service advantages and
+                  increased productivity. Management believes that Forward Air's
+                  customers will increasingly demand more sophisticated
+                  information systems to track and trace shipments. Forward Air
+                  believes its enhanced systems will enable it to retain
+                  existing customers and encourage them to increase the volume
+                  of freight they send through its network. The Company also
+                  believes these enhanced information systems will attract new
+                  customers.
+
+         -        Expand logistics services. The Company will continue to expand
+                  its national and international logistics services to increase
+                  revenue and improve utilization of its terminal facilities and
+                  labor force. The Company has added a number of services in the
+                  past few years, such as exclusive-use transportation services,
+                  and insurance, customs brokerage and terminal handling
+                  services. These services directly benefit Forward Air's
+                  customers, particularly air freight forwarders who cannot
+                  justify providing the services for themselves, attract new
+                  customers and improve utilization of the Forward Air network
+                  by increasing its revenue without significantly increasing the
+                  Company's costs.
+
+
+                                        6
+<PAGE>   7
+
+
+
+         -        Pursue acquisitions. The Company intends to continue to
+                  evaluate acquisitions that can increase its penetration of a
+                  geographic area, add customers or freight density or allow it
+                  to offer additional services. Since its inception, the Company
+                  has acquired the assets of eight of its regional competitors
+                  that met one or more of these criteria.
+
+OPERATIONS
+
+         The Company receives freight from air freight forwarders, airlines and
+integrated air cargo carriers at its terminals, which are located on or near
+airports in the United States and Canada. The Company consolidates and
+transports these shipments by truck through the Forward Air network to the
+terminals nearest the ultimate destinations of the shipments. The Company
+operates regularly scheduled service to and from each of its terminals through
+its Columbus, Ohio central sorting facility or through one of its regional hubs.
+The Company also operates regularly scheduled shuttle service directly between
+cities where the volume of freight warrants bypassing the Columbus sorting
+facility or a regional hub. When a shipment arrives at the terminal nearest its
+destination, the customer arranges for the shipment to be picked up at the
+terminal and delivered to its final destination.
+
+         A typical shipment consists of a pallet load of freight, often
+computers, telecommunications equipment, machine parts, trade show exhibit
+materials or medical equipment. Since Forward Air commenced operations in
+November 1990, the weekly volume of freight moving through its network has
+increased from an average of approximately 1.2 million pounds to over 24.0
+million pounds in 2000. During 2000, an average shipment weighed over 700
+pounds. Shipments range from small boxes weighing only a few pounds to large
+shipments of several thousand pounds. Although the Company imposes no
+significant size or weight restrictions, it focuses its marketing and price
+structure on shipments of 200 pounds or more. As a result, the Company does not
+directly compete for most of its business with overnight couriers or small
+package delivery companies.
+
+
+                                        7
+<PAGE>   8
+
+TERMINALS
+
+         The Forward Air network includes 75 terminals located in the following
+cities:
+
+<TABLE>
+<CAPTION>
+
+
+City                                    Airport Served
+- ----                                    --------------
+<S>                                    <C>
+Albany, NY......................................ALB
+Albuquerque, NM.................................ABQ
+Atlanta, GA.....................................ATL
+Austin, TX......................................AUS
+Baltimore, MD...................................BWI
+Baton Rouge, LA.................................BTR
+Birmingham, AL..................................BHM
+Boston, MA......................................BOS
+Buffalo, NY.....................................BUF
+Charleston, SC..................................CHS
+Charlotte, NC...................................CLT
+Chicago, IL.....................................ORD
+Cincinnati, OH..................................CVG
+Cleveland, OH...................................CLE
+Columbia, SC....................................CAE
+Columbus, OH....................................CMH
+Dallas/Ft. Worth, TX............................DFW
+Dayton, OH......................................DAY
+Denver, CO......................................DEN
+Detroit, MI.....................................DTW
+El Paso, TX.....................................ELP
+Greensboro, NC..................................GSO
+Greenville, SC..................................GSP
+Hartford, CT....................................BDL
+Houston, TX.....................................IAH
+Huntsville, AL..................................HSV
+Indianapolis, IN................................IND
+Jackson, MS.....................................JAN
+Jacksonville, FL................................JAX
+Kansas City, MO.................................MCI
+Knoxville, TN...................................TYS
+Lafayette, LA...................................LFT
+Laredo, TX......................................LRD
+Las Vegas, NV...................................LAS
+Little Rock, AR.................................LIT
+Los Angeles, CA.................................LAX
+Louisville, KY..................................SDF
+Memphis, TN.....................................MEM
+Miami, FL.......................................MIA
+Milwaukee, WI...................................MKE
+Minneapolis, MN.................................MSP
+Mobile, AL......................................MOB
+Nashville, TN...................................BNA
+Newark, NJ......................................EWR
+Newburgh, NY....................................SWF
+New Orleans, LA.................................MSY
+New York, NY....................................JFK
+Norfolk, VA.....................................ORF
+Oklahoma City, OK...............................OKC
+Omaha, NE.......................................OMA
+Orlando, FL.....................................MCO
+Pensacola, FL...................................PNS
+Philadelphia, PA................................PHL
+Phoenix, AZ.....................................PHX
+Pittsburgh, PA..................................PIT
+Portland, OR....................................PDX
+Raleigh, NC.....................................RDU
+Richmond, VA....................................RIC
+Rochester, NY...................................ROC
+Sacramento, CA..................................SMF
+Salt Lake City, UT..............................SLC
+San Antonio, TX.................................SAT
+San Diego, CA...................................SAN
+San Francisco, CA...............................SFO
+Seattle, WA.....................................SEA
+St. Louis, MO...................................STL
+Syracuse, NY....................................SYR
+Tampa, FL.......................................TPA
+Toledo, OH......................................TOL
+Tucson, AZ......................................TUS
+Tulsa, OK.......................................TUL
+Washington, DC..................................IAD
+Montreal, Canada................................YUL
+Ottawa, Canada..................................YOW
+Toronto, Canada.................................YYZ
+</TABLE>
+
+
+                                        8
+<PAGE>   9
+
+         Independent agents operate twelve of these locations, which typically
+handle relatively low volumes of freight.
+
+SHUTTLE SERVICE AND REGIONAL HUBS
+
+         The Company operates direct terminal-to-terminal shuttles and regional
+overnight service between cities where justified by freight volumes. The Company
+currently provides regional overnight service to many of the markets within its
+network. Direct service allows the Company to provide quicker scheduled service
+at a lower cost because it can transport freight over the most direct route and
+eliminate the added time and cost of handling the freight at its central or a
+regional hub sorting facility. Direct shipments also reduce the likelihood of
+damage because of reduced handling and sorting of the freight. As Forward Air
+continues to increase volume between various cities, it intends to continue to
+add direct shuttles. For example, the Northeast Shuttle transports freight
+between Albany, Baltimore, Boston, Buffalo, Hartford, Newark, Newburgh, New
+York, Philadelphia, Rochester, Syracuse and Washington. The Company accomplishes
+this by direct shipment, as from Boston to Newark, or by overnight service
+routed through the Newburgh regional hub. Where warranted by sufficient volume
+in a region, the Company utilizes larger terminals as regional sorting hubs,
+which allows it to bypass the Columbus sorting facility. These regional hubs
+improve the Company's operating efficiency and enhance customer service. The
+Company currently operates regional hubs in Atlanta, Dallas/Ft. Worth, Kansas
+City, Los Angeles, New Orleans, Newburgh, Orlando and San Francisco.
+
+SHIPMENTS
+
+         Since operations were commenced in November 1990, the weekly volume of
+freight moving through the Company's network has increased from an average of
+approximately 1.2 million pounds to over 24.0 million pounds per week as shown
+below:
+
+<TABLE>
+<CAPTION>
+                                                 Average Weekly
+                                                Volume in Pounds
+                                           --------------------------
+                                                 (In millions)
+<S>                                                   <C>
+1990......................................            1.2
+1991......................................            1.4
+1992......................................            2.3
+1993......................................            3.8
+1994......................................            7.4
+1995......................................            8.5
+1996......................................            10.5
+1997......................................            12.4
+1998......................................            15.4
+1999......................................            19.4
+2000......................................            24.0
+</TABLE>
+
+
+                                        9
+<PAGE>   10
+
+
+CUSTOMERS AND MARKETING
+
+         The Company's customers are air freight forwarders, airlines and
+integrated air cargo carriers. Air freight forwarder customers vary in size from
+small, independent, single facility companies to large, international logistics
+companies, such as USF Worldwide, Associated Global Systems, Pilot Air Freight,
+AIT Freight Systems and Eagle Global Logistics. Airline customers include Virgin
+Atlantic, Delta, Northwest Airlines, Continental, United Airlines, British
+Airways, Air Nippon, Air France, Korean Airlines, KLM and Japan Airlines.
+Because of Forward Air's reputation for dependable service, integrated air cargo
+carriers such as Emery Worldwide, Airborne, BAX Global and UPS utilize its
+services to provide overflow capacity and other services.
+
+         The Company markets its services through a sales and marketing staff
+located in various regions of the United States. Senior management also is
+actively involved in sales and marketing at the national account level and
+supports local sales activity. The Company has a strong commitment to marketing
+and focuses on air freight forwarders, airlines and integrated air cargo
+carriers that have time sensitive shipping requirements requiring customized
+services. The Company also participates in air cargo trade shows and advertises
+its services through direct mail programs and through the Internet via
+www.forwardair.com.
+
+LOGISTICS SERVICES
+
+         Customers increasingly demand more than the movement of freight from
+their transportation providers. To meet these demands, the Company continually
+seeks ways to customize its logistics services and add new services. Logistics
+services increase the Company's profit margins by increasing its revenue without
+corresponding increases in its fixed costs.
+
+         Forward Air logistics services include providing:
+
+         -        exclusive-use transportation services;
+
+         -        dock, warehouse and office space;
+
+         -        customs brokerage, such as assistance with customs procedures
+                  for both import and export shipments; and
+
+         -        terminal handling, such as shipment build-up and break-down
+                  and reconsolidation of air or ocean pallets or containers.
+
+TECHNOLOGY AND INFORMATION SYSTEMS
+
+         The regular enhancement of the Company's information systems is a key
+component of its growth strategy. The Company has invested and will continue to
+invest significant management and financial resources on improving its
+information systems in an effort to provide accurate, real-
+
+
+                                       10
+<PAGE>   11
+
+time information to its management and customers. Management believes the
+ability to provide accurate, real-time information on the status of shipments
+will become increasingly important and that its efforts in this area will result
+in both competitive service advantages and increased productivity throughout the
+Forward Air network.
+
+PURCHASED TRANSPORTATION
+
+         The Company contracts for most of its transportation services from
+owner-operators. The owner-operators own, operate and maintain their own
+vehicles and employ their own drivers. The Company also purchases transportation
+from Landair Corporation and from other truckload carriers to handle overflow
+volume. Of the $91.4 million of purchased transportation in 2000, the Company
+purchased 70.9% from owner-operators, 2.4% from Landair Corporation and 26.7%
+from other common carriers.
+
+         The Company seeks to establish long-term relationships with
+owner-operators to assure dependable service and availability, and the Company
+has consistently experienced a low turnover of owner-operators. The Company has
+established guidelines relating to safety records, driving experience and
+personal evaluations that it uses to select its owner-operators. To enhance the
+Company's relationship with the owner-operators, it pays per mile rates above
+prevailing market rates and offers each driver a consistent work schedule,
+typically to the same destination.
+
+COMPETITION
+
+         The air freight transportation industry is highly competitive and very
+fragmented. The Company's competitors include regional trucking companies that
+specialize in handling deferred air freight and regional and national
+less-than-truckload carriers. To a lesser extent, the Company competes with
+integrated air cargo carriers and airlines. The Company's competition ranges
+from small operators that compete within a limited geographic area to companies
+with substantially greater financial and other resources and larger freight
+capacity. The Company also faces competition from its air freight forwarder
+customers who decide to establish their own networks to transport deferred air
+freight. The Company believes competition is based on service, primarily on-time
+delivery and reliability, as well as rates. The Company believes it offers its
+services at rates that are substantially below the charge to transport the same
+shipment to the same destination by air. The Company believes it has an
+advantage over less-than-truckload carriers based upon its reputation for
+faster, more reliable service between many cities.
+
+EMPLOYEES
+
+         As of December 31, 2000, the Company employed 1,820 persons, 930 of
+whom were freight handlers and customer service personnel. None of the Company's
+employees is covered by a collective bargaining agreement. The Company
+recognizes that its workforce, including its freight handlers, is one of its
+most valuable assets. The recruitment, training and retention of qualified
+employees are essential to support the Company's continued growth and to meet
+the service requirements of its customers.
+
+
+                                       11
+<PAGE>   12
+
+
+RISK MANAGEMENT AND LITIGATION
+
+         Under Department of Transportation regulations, the Company may be
+liable for property damage or personal injuries caused by owner-operators while
+they are transporting freight on its behalf. The Company is self-insured for
+property damage to its own equipment. The Company believes that its insurance
+coverage is sufficient to adequately protect it from significant claims.
+
+         From time to time, the Company is a party to litigation arising in the
+normal course of its business, most of which involve claims for personal injury,
+property damage related to the transportation and handling of freight or
+workers' compensation. The Company does not believe that any of these pending
+actions, individually or in the aggregate, will have a material adverse effect
+on its business, financial condition or results of operations.
+
+REGULATION
+
+         The Company, through its Forward Air, Inc. subsidiary, is a licensed
+property broker holding authority issued by the Federal Motor Carrier Safety
+Administration ("FMCSA") at Docket No. MC-249708. The Company, through its FAF,
+Inc. subsidiary, is an interstate motor carrier licensed by the FMCSA at Docket
+No. MC-333604. The Company's air freight business is subject to regulation as an
+indirect air cargo carrier under the Federal Aviation Act, although freight
+brokers have been exempted from most of the requirements of the Federal Aviation
+Act by the Economic Aviation Regulations promulgated thereunder. In addition,
+the Company's domestic customs brokerage operations are subject to the licensing
+requirements of the United States Department of the Treasury and are regulated
+by the United States Customs Service. The Federal Maritime Commission regulates
+the Company's ocean freight forwarding operations.
+
+         The Company believes that it is in substantial compliance with
+applicable regulatory requirements relating to its operations. If the Company
+does not comply with applicable laws and regulations, it could be required to
+pay substantial fines and could have its licenses revoked.
+
+         The Company is also subject to federal and state environmental laws and
+regulations, including those dealing with the transportation of hazardous
+materials and storage of fuel. The Company believes that it is in substantial
+compliance with applicable environmental laws and regulations. The Company does
+not expect any material expenditures for compliance with federal, state or local
+environmental laws and regulations in 2001.
+
+
+                                       12
+<PAGE>   13
+
+
+ITEM 2.  PROPERTIES
+
+PROPERTIES AND EQUIPMENT
+
+         The Company's headquarters are located in Greeneville, Tennessee. The
+Company leases this building from the Greeneville-Greene County Airport
+Authority. The Company's central sorting facility in Columbus, Ohio was
+constructed in 1994. During the third quarter of 2000, the Company entered into
+a ten-year lease with the Rickenbacker Port Authority for a 50,000 square foot
+building on the Rickenbacker Airport in Columbus near the hub. The Company owns
+a terminal facility in Atlanta.
+
+         The Company leases 61 additional terminal facilities for terms
+typically ranging from three to five years. The Company shares its Indianapolis
+terminal with Landair Corporation. The Company believes that, in most of the
+markets it serves, replacement space comparable to these terminal facilities is
+obtainable. The Company believes that its facilities are adequate to support its
+current operations. The remaining twelve terminals are agent stations operated
+by independent agents who handle freight for the Company on a commission basis.
+
+         The Company owns or leases the trailers it uses to move freight through
+the Forward Air network. Substantially all of the Company's trailers are 53'
+long, and many have specialized roller bed equipment required to serve air cargo
+industry customers. The average age of the Company's owned trailer fleet was
+approximately 2.9 years at December 31, 2000.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         From time to time, the Company is a party to litigation arising in the
+normal course of its business, most of which involve claims for personal injury
+and property damage related to the transportation and handling of freight or
+workers' compensation. The Company does not believe that any of these pending
+actions, individually or in the aggregate, will have a material adverse effect
+on its business, financial condition or results of operations.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         During the fourth quarter of the fiscal year ended December 31, 2000,
+no matters were submitted to a vote of security holders through the solicitation
+of proxies or otherwise.
+
+
+                                       13
+<PAGE>   14
+
+
+                      EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         Pursuant to Instruction 3 to Item 401(b) of Regulation S-K and General
+Instruction G(3) to Form 10-K, the following information is included in Part I
+of this report.
+
+         The following are the Company's executive officers:
+
+<TABLE>
+<CAPTION>
+                 Name                        Age                                 Position
+          -------------------             ---------               ---------------------------------------
+<S>                                       <C>       <C>
+Scott M. Niswonger (1)...................    53     Chairman of the Board and Chief Executive Officer
+Bruce A. Campbell........................    49     President and Chief Operating Officer
+Edward W. Cook...........................    42     Chief Financial Officer, Senior Vice President and
+                                                    Treasurer
+David E. Queen...........................    55     Senior Vice President, Operations
+Michael A. Roberts.......................    56     Senior Vice President, Marketing
+Richard H. Roberts (1)...................    46     Senior Vice President, General Counsel and Secretary
+James R. Weiland.........................    56     Senior Vice President, Sales
+</TABLE>
+- ---------------
+(1)  Also serves as an executive officer of Landair Corporation.
+
+         There are no family relationships between any of the executive officers
+of the Company. All officers hold office at the pleasure of the Board of
+Directors.
+
+         Scott M. Niswonger is a co-founder of the Company, has served as a
+director since its founding in October 1981 and as Chairman of the Board and
+Chief Executive Officer since February 1988. Mr. Niswonger served as President
+of the Company from October 1981 until August 1998. He also serves as a director
+of Landair Corporation and on the Regional Advisory Board of First Tennessee
+Bank National Association.
+
+         Bruce A. Campbell has served as Chief Operating Officer of the Company
+since April 1990, a director since April 1993 and President since August 1998.
+Mr. Campbell served as Executive Vice President of the Company from April 1990
+until August 1998. Prior to joining the Company, Mr. Campbell served as Vice
+President of Ryder-Temperature Controlled Carriage in Nashville, Tennessee from
+September 1985 until December 1989. Mr. Campbell also serves as a director of
+Greene County Bancshares.
+
+         Edward W. Cook has served the Company as Chief Financial Officer,
+Senior Vice President and director since September 1994 and as Treasurer since
+May 1995. Prior to joining the Company, Mr. Cook was employed as a certified
+public accountant by Ernst & Young LLP for eleven years, most recently as a
+senior manager in the Nashville, Tennessee office.
+
+         David E. Queen has served as Senior Vice President, Operations, since
+October 1997. He served as Vice President of Operations and General Manager from
+November 1987 until October 1997. From December 1984 to November 1987, Mr. Queen
+was Manager of the Columbus, Ohio hub for The Flying Tiger Line.
+
+
+                                       14
+<PAGE>   15
+
+
+         Michael A. Roberts has served as Senior Vice President, Marketing, of
+the Company since April 1990. He served as Vice President of Marketing from
+November 1987 until April 1990. Mr. Roberts served as a consultant to the
+Company from 1982 to 1987.
+
+         Richard H. Roberts has served as Senior Vice President and General
+Counsel of the Company since July 1994 and as Secretary and a director since May
+1995. Prior to joining the Company, Mr. Roberts was a partner with the Baker,
+Worthington, Crossley & Stansberry law firm from January 1991 until July 1994.
+Mr. Roberts also serves as a director of Landair Corporation and Miller
+Industries, Inc.
+
+         James R. Weiland has served as Senior Vice President, Sales, since
+October 1997. He served as Vice President, Sales from November 1990 until
+October 1997. From May 1984 to October 1990, Mr. Weiland served the Company in
+various capacities, including Regional Operations Manager and Director of Sales
+and Marketing.
+
+
+                                       15
+<PAGE>   16
+
+
+                                     PART II
+
+ITEM 5.       MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED
+              SHAREHOLDER MATTERS
+
+         The $.01 par value common stock of the Company (the "Common Stock")
+trades on The Nasdaq National Market tier of The Nasdaq Stock Market(R) under
+the symbol "FWRD." The following table sets forth the high and low sale prices
+for the Common Stock as reported by The Nasdaq National Market for each full
+quarterly period within the two most recent fiscal years. All prices have been
+restated to reflect a three-for-two stock split distributed in January 2000.
+
+<TABLE>
+<CAPTION>
+
+                                                                      High                 Low
+                                                                      ----                 ---
+                 <S>                                                  <C>                <C>
+                     1999
+                 First Quarter........................................$10.50             $  6.17
+                 Second Quarter.......................................$19.17             $  8.67
+                 Third Quarter........................................$22.00              $13.00
+                 Fourth Quarter.......................................$29.50              $13.58
+
+                     2000                                              High               Low
+                 First Quarter........................................$33.50              $19.31
+                 Second Quarter.......................................$41.00              $20.00
+                 Third Quarter........................................$48.25              $33.63
+                 Fourth Quarter.......................................$47.75              $27.75
+</TABLE>
+
+
+         There were approximately 3,700 shareholders of record (including
+brokerage firms and other nominees) of the Common Stock as of December 31, 2000.
+
+         The Company has not paid cash dividends on its Common Stock in the two
+preceding fiscal years, and it is the current intention of management to retain
+earnings to finance the growth of the Company's business. Future payment of
+dividends will depend upon the financial condition, results of operations,
+contractual restrictions and capital requirements of the Company, as well as
+other factors deemed relevant by the Board of Directors.
+
+
+                                       16
+<PAGE>   17
+
+
+ITEM 6.          SELECTED FINANCIAL DATA
+
+         The following table sets forth selected financial data of the Company.
+The selected financial data should be read in conjunction with the Company's
+financial statements and notes thereto, included elsewhere in this report.
+
+<TABLE>
+<CAPTION>
+                                                                            Year ended December 31
+                                              -----------------------------------------------------------------------------------
+                                                   2000             1999              1998           1997(4)            1996
+                                              --------------    -------------    --------------   --------------    -------------
+                                                                     (In thousands, except per share data)
+<S>                                           <C>               <C>              <C>              <C>               <C>
+INCOME STATEMENT DATA: (1), (2)
+Operating revenue                                   $214,907         $170,843          $130,438         $105,140         $ 80,737
+Income from operations                                37,301           26,444            16,011           13,064            8,516
+Operating margin (3)                                    17.4%            15.5%             12.3%             12.4%            10.5%
+Income from continuing operations                     23,445           16,040             9,189            7,444            4,884
+Income from continuing operations
+   per share: (5)
+      Basic                                             1.11             0.80              0.49             0.42             0.27
+      Diluted                                           1.05             0.76              0.48             0.40             0.27
+
+Cash dividends declared per
+   common share (5)                                       --               --                --               --               --
+
+BALANCE SHEET DATA (AT END OF PERIOD):
+Total assets of continuing operations               $115,968         $ 79,617          $ 56,808         $ 39,965         $ 31,887
+Long-term obligations of continuing
+   operations, net of current portion                  7,232            4,754            20,126            8,254            7,323
+Shareholders' equity (6)                              83,453           54,952            19,071           50,460           41,264
+</TABLE>
+
+(1)      Reflects the Truckload Business as a discontinued operation.
+
+(2)      Includes certain allocations of corporate administrative expenses by
+         the Company (see Note 1 of Notes to Consolidated Financial Statements).
+
+(3)      Income from operations as a percentage of operating revenue.
+
+(4)      During the third quarter of 1997, the Company benefited from
+         non-recurring revenue that resulted from the UPS strike. This
+         additional revenue, net of variable costs and income taxes, but not
+         allocated fixed costs, resulted in approximately $2.3 million of
+         additional operating revenue, $1.2 million of income from operations
+         and $.06 of diluted earnings per share.
+
+(5)      Restated to reflect a three-for-two stock split distributed in January
+         2000 and a two-for-one stock split distributed in March 1999.
+
+(6)      Shareholders' equity at December 31, 1998 reflects the Spin-off of
+         $44.3 million of net assets of Landair Corporation.
+
+
+                                       17
+<PAGE>   18
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+          CONDITION AND RESULTS OF OPERATIONS
+
+INTRODUCTION
+
+         The Company provides scheduled ground transportation of cargo on a
+time-definite basis. As a result of the Company's established transportation
+schedule and network of terminals, its operating cost structure includes
+significant fixed costs. The Company's ability to improve its operating margins
+will depend on its ability to increase the volume of freight moved through its
+network.
+
+         The following does not include a discussion and analysis of the
+truckload carrier business, which has been accounted for as a discontinued
+operation as a result of the Spin-off.
+
+Results of Operations
+
+         The following table sets forth the percentage relationship of expense
+items to operating revenue for the periods indicated.
+
+<TABLE>
+<CAPTION>\
+                                                                               Year Ended December 31
+                                                          -----------------------------------------------------------------
+                                                                2000                     1999                    1998
+                                                          ----------------         ----------------         ---------------
+<S>                                                       <C>                      <C>                      <C>
+Operating revenue                                                   100.0%                   100.0%                  100.0%
+Operating expenses:
+     Purchased transportation                                         42.5                     43.8                    43.2
+     Salaries, wages and employee benefits                            22.0                     22.4                    23.9
+     Operating leases                                                  4.7                      5.2                     5.3
+     Depreciation and amortization                                     2.7                      2.9                     3.3
+     Insurance and claims                                              1.7                      1.2                     1.8
+     Other operating expenses                                          9.0                      9.0                    10.2
+                                                          ----------------         ----------------         ---------------
+Total operating expenses                                              82.6                     84.5                    87.7
+                                                          ----------------         ----------------         ---------------
+Income from operations                                                17.4                     15.5                    12.3
+                                                          ----------------         ----------------         ---------------
+Interest expense                                                        --                    (0.5)                   (0.9)
+Other income, net                                                      0.3                      0.2                      --
+                                                          ----------------         ----------------         ---------------
+Income from continuing operations before
+   income taxes                                                       17.7                     15.2                    11.4
+Income taxes                                                           6.8                      5.8                     4.4
+                                                          ----------------         ----------------         ---------------
+Income from continuing operations                                    10.9%                     9.4%                    7.0%
+                                                          ================         ================         ===============
+</TABLE>
+
+Year Ended December 31, 2000 Compared to Year Ended December 31, 1999
+
+        Operating revenue increased by $44.1 million, or 25.8%, to $214.9
+million for 2000 from $170.8 million in 1999. This increase resulted primarily
+from increased volume from domestic and international air cargo customers, an
+increased number of operating terminals and direct shuttles, and enhanced
+logistics services.
+
+
+                                       18
+<PAGE>   19
+
+
+        Purchased transportation was 42.5% of operating revenue in 2000 compared
+to 43.8% in 1999. The decrease in purchased transportation was primarily
+attributable to operating efficiencies resulting from increased volumes of
+freight transported through the Forward Air network.
+
+        Salaries, wages and employee benefits were 22.0% of operating revenue in
+2000 compared to 22.4% in 1999. The decrease in salaries, wages and employee
+benefits as a percentage of operating revenue was due primarily to operating
+efficiencies resulting from increased volumes of freight transported through the
+Forward Air network.
+
+        Operating leases, the largest component of which is terminal rent, were
+4.7% of operating revenue in 2000 compared to 5.2% in 1999. This decrease in
+operating leases as a percentage of revenue was attributable to increased
+leverage resulting from increased operating revenue.
+
+        Depreciation and amortization expense as a percentage of operating
+revenue was 2.7% in 2000, compared to 2.9% in 1999. The decrease in depreciation
+and amortization expense as a percentage of revenue was attributable to
+increased utilization of operating equipment during 2000 as a result of
+increased operating revenue.
+
+        Insurance and claims as a percentage of revenue was 1.7% of operating
+revenue in 2000, compared with 1.2% in 1999. This increase in insurance and
+claims expense as a percentage of revenue was due primarily to an increase in
+the frequency and severity of accidents and higher premium costs during 2000.
+
+        Other operating expenses were 9.0% of operating revenue in 2000 and
+1999.
+
+        Income from operations increased by $10.9 million, or 41.3%, to $37.3
+million for 2000 compared to $26.4 million for 1999. This increase in income
+from operations is due primarily to a lower operating cost structure resulting
+from an increase in operating revenue, which allowed the Company to spread the
+fixed costs of its network over a larger revenue base. The increase in income
+from operations during 2000 was partially offset by operating losses of
+approximately $1.6 million relating to the Company's information technology
+subsidiary, LogTech Corporation. In 2001, the Company plans to wind-down the
+LogTech operations and begin offering its information technology services to its
+existing customer base. The wind-down of LogTech operations will result in an
+additional estimated $350,000, or $.01 per share, of operating losses during the
+first quarter of 2001.
+
+        Interest expense was $107,000 in 2000 compared to $787,000, or 0.5% of
+revenue, in 1999. The decrease in interest expense was due to lower average net
+borrowings during 2000 coupled with the capitalization of interest costs
+totaling $301,000 during 2000 relating to the development of internal-use
+software.
+
+        The combined federal and state effective tax rate for 2000 was 38.2%,
+compared to a rate of 38.3% for 1999. For information concerning income taxes,
+as well as information regarding differences between effective tax rates and
+statutory rates, see Note 6 of the Notes to Consolidated Financial Statements.
+
+
+                                       19
+<PAGE>   20
+
+         As a result of the foregoing factors, income from continuing operations
+increased by $7.4 million, or 46.3%, to $23.4 million for 2000, from $16.0
+million in 1999.
+
+Year Ended December 31, 1999 Compared to Year Ended December 31, 1998
+
+         Operating revenue increased by $40.4 million, or 31.0%, to $170.8
+million for 1999 from $130.4 million in 1998. This increase resulted primarily
+from increased volume from domestic and international air cargo customers, an
+increased number of operating terminals and direct shuttles, and enhanced
+logistics services.
+
+         Purchased transportation was 43.8% of operating revenue in 1999
+compared to 43.2% in 1998. This increase was primarily attributable to an
+increase in revenue from exclusive use transportation services which have a
+higher purchased transportation percentage than freight transported through the
+Forward Air network. The increase in purchased transportation was partially
+offset by operating efficiencies resulting from increased volumes of freight
+transported through the Forward Air network.
+
+         Salaries, wages and employee benefits were 22.4% of operating revenue
+in 1999 compared to 23.9% in 1998. The decrease in salaries, wages and employee
+benefits as a percentage of operating revenue was due primarily to operating
+efficiencies resulting from increased volumes of freight transported through the
+Forward Air network coupled with a reduction in the number of Company drivers
+which were hired initially as a part of the acquisition of certain of the assets
+of Adams Air Cargo, Inc. in October 1997.
+
+         Operating leases, the largest component of which is terminal rent, were
+5.2% of operating revenue in 1999 compared to 5.3% in 1998. This decrease was
+attributable to increased leverage resulting from increased operating revenue.
+
+         Depreciation and amortization expense as a percentage of operating
+revenue was 2.9% in 1999, compared to 3.3% in 1998. The decrease in depreciation
+and amortization expense as a percentage of revenue was attributable to
+increased utilization of operating equipment during 1999 as a result of
+increased operating revenue.
+
+         Insurance and claims as a percentage of revenue was 1.2% of operating
+revenue in 1999, compared with 1.8% in 1998. This decrease was due primarily to
+a decrease in the frequency and severity of accidents and lower premium costs
+during 1999.
+
+         Other operating expenses were 9.0% of operating revenue in 1999
+compared to 10.2% in 1998. The decrease in other operating expenses as a
+percentage of operating revenue was primarily attributable to a lower operating
+cost structure due to increased operating revenue and a reduction in commissions
+paid to agent terminals.
+
+         Income from operations increased by $10.4 million, or 65.0%, to $26.4
+million for 1999 compared to $16.0 million for 1998. This increase in income
+from operations is due primarily
+
+
+                                       20
+<PAGE>   21
+
+to a lower operating cost structure resulting from an increase in operating
+revenue, which allowed the Company to spread the fixed costs of its network over
+a larger revenue base.
+
+         Interest expense was $787,000, or 0.5%, of operating revenue in 1999,
+compared to $1.2 million, or 0.9%, in 1998. The decrease in interest expense was
+due to lower average net borrowing during 1999 coupled with the capitalization
+of interest costs totaling $71,000 during 1999 relating to the development of
+internal-use software.
+
+         The combined federal and state effective tax rate for 1999 was 38.3%,
+compared to a rate of 38.1% for 1998. For information concerning income taxes,
+as well as information regarding differences between effective tax rates and
+statutory rates, see Note 6 of the Notes to Consolidated Financial Statements.
+
+         As a result of the foregoing factors, income from continuing operations
+increased by $6.8 million, or 73.9%, to $16.0 million for 1999, from $9.2
+million in 1998.
+
+Liquidity and Capital Resources
+
+         Prior to the Spin-off in September 1998, the Company operated its
+business and the truckload carrier business of Landair Corporation. As a result,
+the Company's statement of cash flows for 1998 does not reflect the cash flows
+of its business on a stand-alone basis.
+
+         The Company has historically financed its working capital needs,
+including capital purchases, with cash flows from operations and borrowings
+under its bank lines of credit. Net cash provided by operating activities
+totaled approximately $33.8 million for 2000, $20.1 million for 1999 and $1.9
+million for 1998. The increases in net cash provided by operating activities in
+2000 and 1999 are mainly attributable to growth and improvements in results of
+operations.
+
+         Net cash used in investing activities was approximately $26.9 million
+in 2000, $13.4 million in 1999 and $17.0 million in 1998. Investing activities
+consisted primarily of acquisitions in 2000 and 1999 and the $5.0 million
+capital contribution to Landair Corporation in 1998, along with the purchase of
+operating equipment and management information systems during all three years.
+
+         Net cash provided by financing activities was $2.6 million and $14.6
+million in 2000 and 1998, respectively, compared to cash used in financing
+activities of $1.2 million in 1999. Financing activities included the continued
+financing of operating equipment and working capital needs, repayment of
+long-term debt and capital leases, proceeds received from the exercise of stock
+options, Common Stock issued under the Company's employee stock purchase plan,
+and Common Stock issued from a public offering.
+
+         On May 4, 1999, 1.5 million shares of the Common Stock of the Company
+were sold under a Form S-3 Registration Statement dated April 23, 1999. The net
+proceeds of the offering were $18.0 million and were used principally to repay
+outstanding debt.
+
+
+                                       21
+<PAGE>   22
+
+         The Company expects net capital expenditures in 2001 for operating
+equipment and management information systems, excluding acquisitions, to be less
+than $5 million. The Company expects to fund these expenditures through cash
+provided by operating activities and borrowings under its credit facility.
+
+         The credit facility consists of a working capital line of credit. As
+long as the Company complies with several financial covenants and ratios, the
+credit facility permits it to borrow up to $20.0 million. Interest rates for
+advances under the facilities vary based on covenants related to total
+indebtedness, cash flows, results of operations and other ratios. The facility
+bears interest at LIBOR plus 1.00% to 1.90%, expires in April 2002 and is
+secured by accounts receivable. The amount the Company can borrow under the line
+of credit is reduced by the amount of any outstanding letters of credit.
+
+         Management believes that the Company's available cash, expected cash
+generated from future operations and borrowings under available lines of credit,
+will be sufficient to satisfy anticipated cash needs for at least the next
+twelve months.
+
+         On February 24, 1999, the Board of Directors approved a two-for-one
+stock split which was distributed on March 19, 1999. On January 10, 2000, the
+Board of Directors approved a three-for-two stock split which was distributed on
+January 28, 2000. All share, earnings per share, dividends per share, and
+quarterly stock price data included herein and in the Consolidated Financial
+Statements and Notes thereto have been restated to give effect to the stock
+splits.
+
+Impact of Recent Accounting Pronouncements
+
+         In June 1998, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 133, Accounting for Derivative Instruments
+and Hedging Activities. SFAS No. 133, as amended, is required to be adopted by
+the Company in 2001. Management does not anticipate that the adoption of the
+Statement will have a significant effect on the financial position or results of
+operations of the Company.
+
+Forward-Looking Statements
+
+         The Company, or its officers and directors on behalf of the Company,
+may from time to time make written or oral "forward-looking statements." Written
+forward-looking statements may appear in documents filed with the Securities and
+Exchange Commission (the "Commission"), in press releases and in reports to
+shareholders. Oral forward-looking statements may be made by the Company's
+officers and directors on behalf of the Company to the press, potential
+investors, securities analysts and others. The Private Securities Litigation
+Reform Act of 1995 contains a safe harbor for forward-looking statements. The
+Company relies on this safe harbor in making such disclosures. In connection
+with this safe harbor provision, the Company is hereby identifying important
+factors that could cause actual results to differ materially from those
+contained in any forward-looking statement made by or on behalf of the Company.
+Without limitation, factors that might cause such a difference include economic
+factors such as recessions, inflation, higher interest rates and downturns in
+customer business cycles, the Company's inability
+
+
+                                       22
+<PAGE>   23
+
+to maintain its historical growth rate due to a decreased volume of freight
+moving through the Company's network, competition, surplus inventories, loss of
+a major customer, the ability of the Company's information systems to handle
+increased volume of freight moving through its network, and the availability and
+compensation of qualified independent owner-operators to serve the Company's
+transportation needs. The Company disclaims any intent or obligation to update
+these forward-looking statements.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         On May 4, 1999, the Company sold 1.5 million shares of Common Stock in
+a public offering. The net proceeds of $18.0 million were used principally to
+repay outstanding debt. With this repayment, the Company's exposure to market
+risk related to its remaining outstanding debt is not significant.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The response to this item is submitted as a separate section of this
+report.
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+         None.
+
+
+                                       23
+<PAGE>   24
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         The information required by this item with respect to directors of the
+Company is incorporated herein by reference to the Company's definitive proxy
+statement for its 2001 Annual Meeting of Shareholders (the "2001 Proxy
+Statement"). The 2001 Proxy Statement will be filed with the Commission not
+later than 120 days subsequent to December 31, 2000.
+
+         Pursuant to Item 401(b) of Regulation S-K, the information required by
+this item with respect to executive officers of the Company is set forth in Part
+I of this report.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         The information required by this item is incorporated herein by
+reference to the 2001 Proxy Statement, which will be filed with the Commission
+not later than 120 days subsequent to December 31, 2000.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The information required by this item is incorporated herein by
+reference to the 2001 Proxy Statement, which will be filed with the Commission
+not later than 120 days subsequent to December 31, 2000.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The information required by this item is incorporated herein by
+reference to the 2001 Proxy Statement, which will be filed with the Commission
+not later than 120 days subsequent to December 31, 2000.
+
+
+                                       24
+<PAGE>   25
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+         (a)(1) and (2)    List of Financial Statements and Financial Statement
+                           Schedules.
+
+                           The response to this portion of Item 14 is submitted
+                           as a separate section of this report.
+
+         (a)(3)            List of Exhibits.
+
+                           The response to this portion of Item 14 is submitted
+                           as a separate section of this report.
+
+         (b)               Reports on Form 8-K.
+
+                           The Company filed a report on Form 8-K on December
+                           13, 2000 in connection with the December 3, 2000
+                           purchase by Forward Air, Inc. of the assets of DTSI,
+                           Inc. from SouthTrust Bank.
+
+         (c)               Exhibits.
+
+                           The response to this portion of Item 14 is submitted
+                           as a separate section of this report.
+
+         (d)               Financial Statement Schedules.
+
+                           The response to this portion of Item 14 is submitted
+                           as a separate section of this report.
+
+
+                                       25
+<PAGE>   26
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Forward Air Corporation has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                       FORWARD AIR CORPORATION
+
+
+
+                                       By: /s/ Scott M. Niswonger
+                                          --------------------------------------
+                                          Scott M. Niswonger, Chairman
+                                          and Chief Executive Officer
+
+                                       Date: March 30, 2001
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+            NAME                                          CAPACITY                                    DATE
+<S>                                               <C>                                            <C>
+
+
+
+ /s/ Scott M. Niswonger                           Chairman and                                   March 30, 2001
+- -------------------------------------             Chief Executive Officer
+     Scott M. Niswonger                           (Principal Executive Officer)
+
+
+
+
+  /s/ Edward W. Cook                              Chief Financial Officer,                       March 30, 2001
+- -------------------------------------             Senior Vice President, Treasurer
+     Edward W. Cook                               and Director (Principal Financial
+                                                  and Accounting Officer)
+
+
+
+  /s/ Bruce A. Campbell                           President, Chief Operating                     March 30, 2001
+- -------------------------------------             Officer and Director
+      Bruce A. Campbell
+
+
+
+  /s/ Richard H. Roberts                          Senior Vice President, General                 March 30, 2001
+- -------------------------------------             Counsel, Secretary and Director
+     Richard H. Roberts
+
+
+
+ /s/ James A. Cronin, III                         Director                                       March 30, 2001
+- -------------------------------------
+     James A. Cronin, III
+
+
+
+ /s/ Robert K. Gray                               Director                                       March 30, 2001
+- -------------------------------------
+Hon. Robert K. Gray
+
+
+
+ /s/ Ray A. Mundy                                 Director                                       March 30, 2001
+- -------------------------------------
+     Ray A. Mundy
+</TABLE>
+
+
+                                       26
+<PAGE>   27
+
+                           Annual Report on Form 10-K
+
+                   Item 8, Item 14(a)(1) and (2), (c) and (d)
+
+          List of Financial Statements and Financial Statement Schedule
+
+                   Financial Statements and Supplementary Data
+
+                                Certain Exhibits
+
+                          Financial Statement Schedule
+
+                          Year Ended December 31, 2000
+
+                             Forward Air Corporation
+
+                             Greeneville, Tennessee
+
+
+<PAGE>   28
+
+                             Forward Air Corporation
+
+                  Form 10-K -- Item 8 and Item 14(a)(1) and (2)
+
+         Index to Financial Statements and Financial Statement Schedule
+
+The following consolidated financial statements of Forward Air Corporation are
+included as a separate section of this report:
+
+<TABLE>
+<CAPTION>
+                                                                                                          Page No.
+                                                                                                          --------
+<S>                                                                                                       <C>
+Report of Ernst & Young LLP, Independent Auditors............................................................F-3
+Consolidated Balance Sheets - December 31, 2000 and 1999.....................................................F-4
+Consolidated Statements of Income - Years Ended December 31, 2000,
+   1999 and 1998.............................................................................................F-6
+Consolidated Statements of Shareholders' Equity - Years Ended
+   December 31, 2000, 1999 and 1998..........................................................................F-7
+Consolidated Statements of Cash Flows - Years Ended December 31, 2000,
+   1999 and 1998.............................................................................................F-8
+Notes to Consolidated Financial Statements - December 31, 2000..............................................F-10
+
+The following financial statement schedule of Forward Air Corporation is
+included as a separate section of this report.
+
+Schedule II - Valuation and Qualifying Accounts..............................................................S-1
+</TABLE>
+
+All other schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable and, therefore, have been omitted.
+
+
+                                      F-2
+<PAGE>   29
+
+                         Report of Independent Auditors
+
+The Board of Directors and Shareholders
+Forward Air Corporation
+
+We have audited the accompanying consolidated balance sheets of Forward Air
+Corporation as of December 31, 2000 and 1999, and the related consolidated
+statements of income, shareholders' equity, and cash flows for each of the three
+years in the period ended December 31, 2000. Our audits also included the
+financial statement schedule listed in the Index at Item 14(a). These financial
+statements and schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Forward Air
+Corporation at December 31, 2000 and 1999, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 2000, in conformity with accounting principles generally accepted
+in the United States. Also, in our opinion, the related financial statement
+schedule, when considered in relation to the basic financial statements taken as
+a whole, presents fairly in all material respects the information set forth
+therein.
+
+
+
+                                       Ernst & Young LLP
+
+Nashville, Tennessee
+February 7, 2001
+
+
+                                      F-3
+<PAGE>   30
+
+                             Forward Air Corporation
+
+                           Consolidated Balance Sheets
+
+<TABLE>
+<CAPTION>
+                                                                                                December 31
+                                                                                           2000              1999
+                                                                                       ----------------------------
+                                                                                              (In thousands)
+<S>                                                                                    <C>                <C>
+ASSETS
+Current assets:
+  Cash and cash equivalents                                                            $  15,589          $   5,989
+  Accounts receivable, less allowances of $1,184 in
+    2000 and $918 in 1999                                                                 33,617             27,342
+  Income taxes receivable                                                                  1,926                 --
+  Inventories                                                                                439                640
+  Prepaid expenses                                                                         2,398              1,791
+Deferred income taxes                                                                        956                652
+                                                                                       ----------------------------
+Total current assets                                                                      54,925             36,414
+
+Property and equipment:
+  Land                                                                                     3,199              3,199
+  Buildings                                                                                9,936              6,919
+  Equipment                                                                               42,636             33,890
+  Leasehold improvements                                                                   1,642              1,372
+  Software development in progress                                                         6,707              1,817
+                                                                                       ----------------------------
+                                                                                          64,120             47,197
+
+  Accumulated depreciation and amortization                                               19,059             14,307
+                                                                                       ----------------------------
+                                                                                          45,061             32,890
+
+Goodwill and other intangibles, net                                                       15,083              9,458
+Other assets                                                                                 899                855
+                                                                                       ----------------------------
+Total assets                                                                           $ 115,968          $  79,617
+                                                                                       ============================
+</TABLE>
+
+
+                                      F-4
+<PAGE>   31
+
+<TABLE>
+<CAPTION>
+                                                                                                 December 31
+
+                                                                                            2000               1999
+                                                                                         ---------          ---------
+                                                                                                (In thousands)
+<S>                                                                                      <C>                <C>
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable                                                                       $   9,730          $   7,436
+  Accrued payroll and related items                                                          2,215              2,798
+  Insurance and claims accruals                                                              2,354              2,127
+  Income taxes payable                                                                          --                633
+  Other accrued expenses                                                                     3,856              2,587
+  Current portion of long-term debt                                                            532                758
+  Current portion of capital lease obligations                                                 446                513
+                                                                                         ----------------------------
+Total current liabilities                                                                   19,133             16,852
+
+Long-term debt, less current portion                                                         2,784                835
+Capital lease obligations, less current portion                                              4,448              3,919
+Deferred income taxes                                                                        6,150              3,059
+
+Commitments and contingencies                                                                   --                 --
+
+Shareholders' equity:
+  Preferred stock, $.01 par value:
+    Authorized shares - 5,000,000
+    No shares issued                                                                            --                 --
+  Common stock, $.01 par value:
+    Authorized shares - 50,000,000
+    Issued and outstanding shares - 21,311,799 in
+    2000 and 20,732,963 in 1999                                                                  213                207
+  Additional paid-in capital                                                                  40,578             35,528
+  Retained earnings                                                                           42,662             19,217
+                                                                                           ----------------------------
+Total shareholders' equity                                                                    83,453             54,952
+                                                                                           ----------------------------
+Total liabilities and shareholders' equity                                                 $ 115,968          $  79,617
+                                                                                           ============================
+</TABLE>
+
+See accompanying notes.
+
+
+                                      F-5
+<PAGE>   32
+
+                             Forward Air Corporation
+
+                        Consolidated Statements of Income
+
+<TABLE>
+<CAPTION>
+                                                                                 Year ended December 31
+                                                                      2000                 1999                 1998
+                                                                   ----------------------------------------------------
+                                                                          (In thousands, except per share data)
+<S>                                                                <C>                  <C>                  <C>
+Operating revenue                                                  $  214,907           $  170,843           $  130,438
+
+Operating expenses:
+      Purchased transportation                                         91,421               74,836               56,345
+      Salaries, wages and employee benefits                            47,253               38,325               31,191
+      Operating leases                                                 10,059                8,807                6,876
+      Depreciation and amortization                                     5,783                4,996                4,346
+      Insurance and claims                                              3,639                2,007                2,402
+      Other operating expenses                                         19,451               15,428               13,267
+                                                                   ----------------------------------------------------
+                                                                      177,606              144,399              114,427
+                                                                   ----------------------------------------------------
+Income from operations                                                 37,301               26,444               16,011
+
+Other income (expense):
+      Interest expense                                                   (107)                (787)              (1,206)
+      Other, net                                                          773                  333                   37
+                                                                   ----------------------------------------------------
+                                                                          666                 (454)              (1,169)
+                                                                   ----------------------------------------------------
+Income from continuing operations before
+     income taxes                                                      37,967               25,990               14,842
+Income taxes                                                           14,522                9,950                5,653
+                                                                   ----------------------------------------------------
+Income from continuing operations                                      23,445               16,040                9,189
+                                                                   ----------------------------------------------------
+Discontinued operations:
+    Income from operations (less income taxes of $850)                     --                   --                1,345
+    Loss on Spin-off (less income taxes of $440)                           --                   --                 (380)
+                                                                   ----------------------------------------------------
+                                                                           --                   --                  965
+                                                                   ----------------------------------------------------
+Net income                                                         $   23,445           $   16,040           $   10,154
+                                                                   ====================================================
+
+Income per share:
+      Basic:
+         Income from continuing operations                         $     1.11           $      .80           $      .49
+         Income from discontinued operations                               --                   --                  .06
+                                                                   ----------------------------------------------------
+         Net income                                                $     1.11           $      .80           $      .55
+                                                                   ====================================================
+      Diluted:
+         Income from continuing operations                         $     1.05           $      .76           $      .48
+         Income from discontinued operations                               --                   --                  .05
+                                                                   ----------------------------------------------------
+         Net income                                                $     1.05           $      .76           $      .53
+                                                                   ====================================================
+</TABLE>
+
+See accompanying notes.
+
+
+                                      F-6
+<PAGE>   33
+
+                             Forward Air Corporation
+
+                 Consolidated Statements of Shareholders' Equity
+
+<TABLE>
+<CAPTION>
+                                                                Common Stock        Additional                     Total
+                                                              -----------------       Paid-in       Retained    Shareholders'
+                                                              Shares     Amount       Capital       Earnings       Equity
+                                                              ----------------------------------------------------------------
+                                                                                        (In thousands)
+<S>                                                           <C>        <C>       <C>             <C>          <C>
+Balance at December 31, 1997                                  18,073     $  181     $  26,683      $  23,596      $  50,460
+  Net income for 1998                                             --         --            --         10,154         10,154
+  Exercise of stock options                                      798          8         2,402             --          2,410
+  Common stock issued under
+    employee stock purchase plan                                  11         --            69             --             69
+  Income tax benefit from stock
+    options exercised                                             --         --           232             --            232
+  Spin-off of Landair Corporation                                 --         --       (13,681)       (30,573)       (44,254)
+                                                              ----------------------------------------------------------------
+Balance at December 31, 1998                                  18,882        189        15,705          3,177         19,071
+  Net income for 1999                                             --         --            --         16,040         16,040
+  Exercise of stock options                                      336          3         1,328             --          1,331
+  Common stock issued under
+    employee stock purchase plan                                  15         --           136             --            136
+  Income tax benefit from stock
+    options exercised                                             --         --           341             --            341
+  Net proceeds of public offering                              1,500         15        18,018             --         18,033
+                                                              ----------------------------------------------------------------
+Balance at December 31, 1999                                  20,733        207        35,528         19,217         54,952
+  Net income for 2000                                             --         --            --         23,445         23,445
+  Exercise of stock options                                      573          6         2,611             --          2,617
+  Common stock issued under
+    employee stock purchase plan                                   6         --           177             --            177
+  Income tax benefit from stock
+     options exercised                                            --         --         2,262             --          2,262
+                                                              ----------------------------------------------------------------
+Balance at December 31, 2000                                  21,312     $  213     $  40,578      $  42,662      $  83,453
+                                                              ================================================================
+</TABLE>
+
+See accompanying notes.
+
+
+                                      F-7
+<PAGE>   34
+
+                             Forward Air Corporation
+
+                      Consolidated Statements of Cash Flows
+
+<TABLE>
+<CAPTION>
+                                                                                  Year ended December 31
+                                                                       2000                1999                 1998
+                                                                   ----------------------------------------------------
+                                                                                      (In thousands)
+<S>                                                                <C>                  <C>                  <C>
+OPERATING ACTIVITIES
+Net income                                                         $   23,445           $   16,040           $   10,154
+Adjustments to reconcile net income to
+     net cash provided by operating activities:
+       Income from discontinued operations                                 --                   --               (2,075)
+       Depreciation and amortization                                    5,783                4,996                4,346
+       (Gain) loss on sale of property and equipment                       33                  (43)                (128)
+       Provision for losses on receivables                                433                  295                  438
+       Provision for revenue adjustments                                1,258                1,245                1,641
+       Deferred income taxes                                            2,787                1,450                1,893
+       Changes in operating assets and liabilities,
+          net of effects from acquisition of businesses:
+           Accounts receivable                                         (2,410)              (9,128)              (4,162)
+           Inventories                                                    201                 (251)                 (89)
+           Prepaid expenses                                              (607)                 754               (1,191)
+           Accounts payable and accrued expenses                        3,207                5,021                8,314
+           Income taxes                                                  (297)                (275)                 203
+           Due to Truckload Business subsidiaries                          --                   --              (17,447)
+                                                                   ----------------------------------------------------
+Net cash provided by operating activities                              33,833               20,104                1,897
+
+INVESTING ACTIVITIES
+Purchases of property and equipment                                   (16,547)              (7,412)             (11,764)
+Proceeds from disposal of property and equipment                          494                1,001                  117
+Acquisition of businesses                                             (10,711)              (6,814)                  --
+Contribution of capital to discontinued operations                         --                   --               (5,000)
+Other                                                                     (87)                (139)                (335)
+                                                                   ----------------------------------------------------
+Net cash used in investing activities                                 (26,851)             (13,364)             (16,982)
+
+FINANCING ACTIVITIES
+Proceeds from long-term debt                                            1,853                   --               21,792
+Payments of long-term debt                                             (1,479)             (19,739)              (8,631)
+Payments of capital lease obligations                                    (550)                (967)                (995)
+Proceeds from exercise of stock options                                 2,617                1,331                2,410
+Proceeds from common stock issued under
+    employee stock purchase plan                                          177                  136                   69
+Net proceeds from public offering of common stock                          --               18,033                   --
+                                                                   ----------------------------------------------------
+Net cash provided by (used in) financing activities                     2,618               (1,206)              14,645
+                                                                   ----------------------------------------------------
+Net increase (decrease) in cash and cash equivalents                    9,600                5,534                 (440)
+Cash and cash equivalents at beginning of year                          5,989                  455                  895
+                                                                   ----------------------------------------------------
+Cash and cash equivalents at end of year                           $   15,589           $    5,989           $      455
+                                                                   ====================================================
+</TABLE>
+
+
+                                      F-8
+<PAGE>   35
+
+                             Forward Air Corporation
+
+                Consolidated Statements of Cash Flows (continued)
+
+<TABLE>
+<CAPTION>
+                                                                                       Year ended December 31
+                                                                               2000              1999             1998
+                                                                             -----------------------------------------
+                                                                                          (In thousands)
+<S>                                                                          <C>               <C>               <C>
+Non-cash transactions:
+   Issuance of note payable to DTSI for non-compete
+   agreement                                                                 $  1,349          $     --          $  --
+                                                                             =========================================
+   Capital lease obligation to Rickenbacker
+   Port Authority                                                            $  1,011          $     --          $  --
+                                                                             =========================================
+   Issuance of notes payable to Quick Delivery Service,
+   Inc. and LTD Air Cargo, Inc. for asset acquisitions
+   and non-compete agreements                                                $     --          $  1,400          $  --
+                                                                             =========================================
+</TABLE>
+
+See accompanying notes.
+
+
+                                      F-9
+<PAGE>   36
+
+                             Forward Air Corporation
+
+                   Notes to Consolidated Financial Statements
+
+                                December 31, 2000
+
+1.  ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION AND PRINCIPLES OF CONSOLIDATION
+
+The accompanying consolidated financial statements of the Company include
+Forward Air Corporation and its subsidiaries. Significant intercompany accounts
+and transactions have been eliminated in consolidation.
+
+On July 9, 1998 (the "Measurement Date"), the Board of Directors of the Company
+authorized the separation of the Company into two publicly-held corporations,
+one owning and operating the deferred air freight operations and the other
+owning and operating the truckload operations (the "Spin-off").
+
+The Spin-off was effected on September 23, 1998 through the distribution to
+shareholders of the Company of all of the outstanding shares of common stock of
+a new truckload holding company (formerly "the Truckload Business"), Landair
+Corporation. Pursuant to the Spin-off, the common stock of Landair Corporation
+was distributed on a pro rata basis of one share of Landair Corporation common
+stock for every one share of the Company's common stock held as of the record
+date. Subsequent to the Spin-off, the Company has continued as the legal entity
+that owns and operates the deferred air freight operations through its operating
+subsidiaries and Landair Corporation is the legal entity that owns and operates
+the truckload operations. As a result of the Spin-off, the results of operations
+and cash flows of the Truckload Business have been reported as discontinued
+operations for all periods presented in the accompanying consolidated financial
+statements (see Note 2).
+
+As used in the accompanying consolidated financial statements, the term "Forward
+Air Business" refers to the deferred air freight operations; Landair
+Corporation, or the term "Truckload Business," refers to the truckload
+operations; and the "Company" refers to the entity which, prior to the Spin-off,
+through its subsidiaries operated both the Forward Air Business and the
+Truckload Business and which, after the Spin-off, continues to operate the
+Forward Air Business.
+
+The Company operates a comprehensive national network for the time-definite
+surface transportation of deferred freight. The Company provides its
+transportation services through a network of terminals located on or near
+airports in the United States and Canada. The Company's customers consist
+primarily of air freight forwarders, domestic and international airlines and
+integrated air cargo carriers. The Company's operations involve receiving
+deferred freight shipments at its terminals and transporting them by truck to
+the terminal nearest their destination.
+
+
+                                      F-10
+<PAGE>   37
+
+                             Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+1.  ACCOUNTING POLICIES (CONTINUED)
+
+USE OF ESTIMATES
+
+The preparation of the financial statements in conformity with accounting
+principles generally accepted in the United States requires management to make
+estimates and assumptions that affect the amounts reported in the financial
+statements and accompanying notes. Actual results could differ from those
+estimates.
+
+OPERATING REVENUE
+
+Operating revenue and related costs are recognized as of the date shipments are
+completed. No single customer accounted for more than 10% of operating revenue
+from continuing operations in 2000, 1999 or 1998.
+
+CASH EQUIVALENTS
+
+The Company considers all highly liquid investments with a maturity of three
+months or less when purchased to be cash equivalents.
+
+INVENTORIES
+
+Inventories of tires, replacement parts, supplies, and fuel for equipment are
+stated at the lower of cost or market utilizing the FIFO (first-in, first-out)
+method of determining cost.
+
+PROPERTY AND EQUIPMENT
+
+Property and equipment are stated at cost. Depreciation of property and
+equipment is calculated based upon the cost of the asset, reduced by its
+estimated salvage value, using the straight-line method over the estimated
+useful lives as follows:
+
+<TABLE>
+                      <S>                                          <C>
+                      Buildings................................... 30-40 years
+                      Equipment................................... 3-10  years
+                      Leasehold improvements...................... 1-15  years
+</TABLE>
+
+The Company reviews its long-lived assets, including goodwill and other
+intangibles, for impairment whenever events or changes in circumstances indicate
+that the carrying amount may not be recoverable. The measurement of possible
+impairment is based upon determining whether
+
+
+                                      F-11
+<PAGE>   38
+
+                             Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+1.  ACCOUNTING POLICIES (CONTINUED)
+
+projected undiscounted future cash flows from the use of the asset over its
+remaining useful life are less than the carrying value of the asset. As of
+December 31, 2000, in the opinion of management, there has been no such
+impairment.
+
+RISK MANAGEMENT
+
+The Company is self-insured for certain of its workers' compensation, property
+damage, auto liability and medical benefit claims. The Company has entered into
+agreements with independent insurance companies to limit its losses with respect
+to these claims.
+
+INCOME PER SHARE
+
+The Company calculates income per share in accordance with Statement of
+Financial Accounting Standards (SFAS) No. 128, Earnings Per Share. Under SFAS
+No. 128, basic earnings per share exclude any dilutive effects of options,
+warrants and convertible securities. Diluted earnings per share includes any
+dilutive effects of options, warrants and convertible securities, and uses the
+treasury stock method in calculating dilution. All earnings per share data
+included in the consolidated financial statements and notes thereto have been
+restated to give effect to a three-for-two stock split and a two-for-one stock
+split (see Note 5).
+
+COMPREHENSIVE INCOME
+
+The Company had no items of other comprehensive income in 2000, 1999 and 1998
+and, accordingly, comprehensive income is equivalent to net income.
+
+EMPLOYEE STOCK OPTIONS
+
+The Company grants options for a fixed number of shares to employees with an
+exercise price equal to the fair value of the shares at the grant date. The
+Company accounts for employee stock option grants in accordance with Accounting
+Principles Board Opinion No. 25, Accounting for Stock Issued to Employees, and,
+accordingly, recognizes no compensation expense for the stock option grants.
+
+COMMON EXPENSES
+
+Prior to the Spin-off, certain administrative and back office functions were
+shared by both the Forward Air Business and the Truckload Business. The expenses
+related to these services were allocated to the Forward Air Business and the
+Truckload Business in accordance with the provisions of a Transition Services
+Agreement as discussed in Note 2. These administrative
+
+
+                                      F-12
+<PAGE>   39
+
+                             Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+1.  ACCOUNTING POLICIES (CONTINUED)
+
+expenses, which would have been incurred by the Forward Air Business and the
+Truckload Business if each had been operated as an independent stand-alone
+entity, totaled $2.8 million for the Forward Air Business and $3.2 million for
+the Truckload Business for the period January 1, 1998 through September 23,
+1998.
+
+Interest expense of $661,000 for the Forward Air Business and $1.4 million for
+the Truckload Business for the period from January 1, 1998 through September 23,
+1998 has been allocated by the Company on an annual basis based upon the pro
+rata share of average operating assets of the Truckload Business and the Forward
+Air Business.
+
+Management believes these allocation methods are reasonable.
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+In June 1998, SFAS No. 133, Accounting for Derivative Instruments and Hedging
+Activities, was issued and was required to be adopted in years beginning after
+June 15, 1999. In June 1999, SFAS No. 137 was issued, deferring the effective
+date of SFAS No. 133 for one year. This Statement requires all derivatives to be
+recorded on the balance sheet at fair value. This results in the offsetting
+changes in fair values or cash flows of both the hedge and the hedged item being
+recognized in earnings or other comprehensive income, as appropriate, in the
+same period. Changes in fair value of derivatives not meeting the Statement's
+hedge criteria are included in income. The Company adopted the new Statement as
+of January 1, 2001. The Company does not expect the adoption of this Statement
+to have a significant effect on its results of operations or financial position.
+
+RECLASSIFICATIONS
+
+Certain reclassifications have been made to the prior year financial statements
+to conform to the 2000 presentation. These reclassifications had no effect on
+net income as previously reported.
+
+2.  DISCONTINUED OPERATIONS
+
+As discussed in Note 1, on July 9, 1998, the Board of Directors of the Company
+authorized the separation of the Company into two publicly-held corporations,
+one owning and operating the Forward Air Business and the other owning and
+operating the Truckload Business. The Spin-off was effected on September 23,
+1998.
+
+
+                                      F-13
+<PAGE>   40
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+2.  DISCONTINUED OPERATIONS (CONTINUED)
+
+Summarized income statement information relating to the Truckload Business (as
+reported in discontinued operations) is as follows (in thousands):
+
+
+<TABLE>
+<CAPTION>
+                                                                                    1998(1)
+                                                                                   --------
+              <S>                                                                  <C>
+              Operating revenue                                                    $ 51,543
+              Operating expenses                                                     48,450
+                                                                                   --------
+              Income from operations                                                  3,093
+              Interest expense                                                         (924)
+              Other income                                                               26
+                                                                                   --------
+              Income before income taxes                                              2,195
+              Income taxes                                                              850
+                                                                                   --------
+              Income from discontinued operations                                  $  1,345
+                                                                                   ========
+</TABLE>
+
+(1)      The fiscal 1998 summarized income statement information above includes
+         the results of operations only through the July 9, 1998 Measurement
+         Date.
+
+The loss on Spin-off in the amount of $380,000 recorded in 1998 includes the
+net of the after-tax income of the discontinued operations from the Measurement
+Date through the date of the Spin-off of $730,000 ($1.2 million on a pre-tax
+basis), and costs associated with the Spin-off of $1.1 million. The costs
+associated with the Spin-off represent the cost of separating the two
+businesses which are non-deductible for income tax purposes.
+
+In connection with the Spin-off, the Company and Landair Corporation entered
+into certain agreements which were effective upon the actual separation of the
+two companies. The agreements were entered into to facilitate orderly changes
+from an integrated transportation company to separate deferred air freight and
+truckload operating companies in a way which is minimally disruptive to each
+entity. Following are summaries of the principal agreements:
+
+DISTRIBUTION AGREEMENT
+
+The Distribution Agreement provided for, among other things, the principal
+corporate transactions required to effect the Spin-off and the allocation of
+certain assets and liabilities between the Company and Landair Corporation. The
+Distribution Agreement provides that the Company and Landair Corporation each
+have sole responsibility for claims arising out of their respective activities
+after the Spin-off. It also provides that each party will indemnify the other
+in the event of certain liabilities arising under the federal securities laws,
+and that, for a period of three years after the Spin-off, neither the Company
+nor Landair Corporation will directly solicit the employment of any employee of
+the other company or its affiliates without the prior written consent of such
+other company.
+
+
+                                      F-14
+<PAGE>   41
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+2.  DISCONTINUED OPERATIONS (CONTINUED)
+
+TRANSITION SERVICES AGREEMENT
+
+The Transition Services Agreement describes the services which the Company and
+Landair Corporation provide to each other following the Spin-off. Services
+performed under the Transition Services Agreement are negotiated and paid for
+on an arm's-length basis. The Company or Landair Corporation, as recipients of
+the services, may terminate any or all such services at any time on thirty
+days' irrevocable written notice, and the Company or Landair Corporation, as
+providers of the services, may terminate any or all of the services, other than
+information technology services, on three months' irrevocable notice.
+Information technology services to be provided by the Company to Landair
+Corporation have a thirty-six month term.
+
+EMPLOYEE BENEFIT MATTERS AGREEMENT
+
+The Employee Benefit Matters Agreement provided for the treatment of employee
+benefit matters and other compensation arrangements for the employees of the
+Company and Landair Corporation after the Spin-off. Pursuant to this agreement,
+the Company continued sponsorship of the various employee benefit plans and
+welfare plans of the Company with respect to employees of the Company after the
+Spin-off, and Landair Corporation established such similar plans to provide to
+its employees after the Spin-off substantially the same benefits previously
+provided to them as employees of the Company. This Employee Benefit Matters
+Agreement also provided for the adjustment and conversion of the existing
+non-exercisable stock options of the Company into options of Landair
+Corporation for those employees that continued employment with Landair
+Corporation after the Spin-off. (See Note 5).
+
+TAX SHARING AGREEMENT
+
+The Tax Sharing Agreement describes the responsibilities of the Company and
+Landair Corporation with respect to all tax matters occurring prior to and
+after the Spin-off. The Tax Sharing Agreement provides for the allocation of
+tax expense, assessments, refunds and other tax benefits. The Agreement also
+sets forth the responsibility for filing tax returns and provides for
+reasonable cooperation in the event of any audit, litigation or other
+proceeding with respect to any federal, state or local tax.
+
+3.  ACQUISITION OF BUSINESSES
+
+In December 2000, the Company acquired the assets of Dedicated Transportation
+Services, Inc. ("DTSI"), a deferred air freight contractor to the air cargo
+industry based in Santa Ana, California. The Company paid approximately $10.7
+million in cash for certain assets of DTSI (including approximately $700,000 of
+capitalized direct and/or out-of-pocket expenses related to
+
+
+                                      F-15
+
+<PAGE>   42
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+3.  ACQUISITION OF BUSINESSES (CONTINUED)
+
+the acquisition), which included accounts receivable, net of estimated costs to
+collect such receivables, in the amount of approximately $5.4 million. As of
+December 31, 2000, the Company has collected approximately $1.3 million in DTSI
+accounts receivable and the remaining $4.1 million is included in accounts
+receivable in the accompanying balance sheet. The acquisition was accounted for
+as a purchase and the excess cost over fair value of the net assets acquired is
+being amortized on a straight-line basis over a fifteen-year period. The
+allocation of the purchase price resulted in a tentative allocation of $5.1
+million to goodwill. This allocation may change upon the completion of the
+collection of DTSI accounts receivable. The Company also entered into
+non-compete agreements with the former owners of DTSI, which provide for a
+total of $500,000 to be paid annually by the Company over a three-year period.
+Non-compete agreements are being amortized over the terms of the agreements.
+
+In October 1999, the Company acquired certain air cargo operating assets of
+Quick Delivery Service, Inc. ("Quick"), a deferred air freight contractor to
+the air cargo industry based in Mobile, Alabama and certain air cargo operating
+assets of LTD Air Cargo, Inc. ("LTD"), a deferred air freight contractor to the
+air cargo industry based in Franklin, Tennessee. The Company paid approximately
+$6.8 million in cash and issued notes payable totaling $1.0 million for the
+above two acquisitions. The acquisitions were accounted for as purchases. The
+Company also entered into non-compete agreements with the former owners of
+Quick and LTD for a total of $400,000 to be paid in installments by the Company
+over the terms of the agreements. Non-compete agreements are being amortized
+over the terms of the agreements. Goodwill relating to the Quick and LTD
+acquisitions totaled approximately $6.4 million and is being amortized on a
+straight-line basis over a life of fifteen years.
+
+The results of operations for the acquired businesses are included in the
+consolidated statements of income from the respective acquisition dates
+forward.
+
+Goodwill and other intangible assets totaled $16.2 million and $9.8 million at
+December 31, 2000 and 1999, respectively. Accumulated amortization of goodwill
+and other intangible assets totaled approximately $1.1 million and $300,000 at
+each year end, respectively. The net present value of payments required under
+the non-compete agreements are included as obligations in long-term debt (see
+Note 4).
+
+
+                                      F-16
+<PAGE>   43
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+4.  LONG-TERM DEBT
+
+Long-term debt consists of the following:
+
+
+<TABLE>
+<CAPTION>
+                                                                       December 31
+                                                             2000                      1999
+                                                            ------                    ------
+                                                                      (In thousands)
+
+<S>                                                         <C>                       <C>
+Line of credit                                              $1,853                    $   --
+Non-compete obligations                                      1,463                       400
+Other, principally 7.0% due through 2003                        --                     1,193
+                                                            ------                    ------
+                                                             3,316                     1,593
+Less current portion                                           532                       758
+                                                            ------                    ------
+                                                            $2,784                    $  835
+                                                            ======                    ======
+</TABLE>
+
+Effective with the Spin-off, the Company entered into a $20.0 million working
+capital line of credit facility with a Tennessee bank which expires in April
+2002. Interest rates for advances under the facility vary from LIBOR plus 1.0%
+to 1.9% based upon covenants related to total indebtedness, cash flows, results
+of operations and other ratios (7.8% and 6.8% at December 31, 2000 and 1999,
+respectively). Advances are collateralized primarily by accounts receivable.
+The agreement contains, among other things, restrictions that do not allow the
+payment of dividends, and requires the maintenance of certain levels of net
+worth and other financial ratios. At December 31, 2000, the Company had $1.9
+million outstanding under the line and had utilized $4.3 million of
+availability for outstanding letters of credit.
+
+Maturities of long-term debt are as follows (in thousands):
+
+
+<TABLE>
+<CAPTION>
+               <S>                                        <C>
+               2001                                       $  532
+               2002                                        2,314
+               2003                                          470
+                                                          ------
+                                                          $3,316
+                                                          ======
+</TABLE>
+
+Interest payments during 2000, 1999 and 1998 were $409,000, $911,000 and $1.2
+million, respectively, of which $301,000, $71,000 and $-0- was capitalized.
+
+5.  SHAREHOLDERS' EQUITY AND STOCK OPTIONS
+
+Preferred Stock -- The Board of Directors is authorized to issue, at its
+discretion, up to 5.0 million shares of preferred stock, par value $.01. The
+terms and conditions of the preferred shares are to be determined by the Board
+of Directors. No shares have been issued to date.
+
+
+                                      F-17
+<PAGE>   44
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+5.  SHAREHOLDERS' EQUITY AND STOCK OPTIONS (CONTINUED)
+
+Common Stock Splits -- On January 10, 2000, the Board of Directors approved a
+three-for-two split of the common shares which was distributed on January 28,
+2000 to shareholders of record as of January 21, 2000. On February 24, 1999,
+the Board of Directors approved a two-for-one split of the common shares which
+was distributed on March 19, 1999 to shareholders of record as of March 12,
+1999. Common stock issued and additional paid-in capital have been restated to
+reflect these splits for all years presented. All common share and per share
+data included in the consolidated financial statements and notes thereto have
+been restated to give effect to the stock splits.
+
+Employee Stock Option and Incentive Plan -- The Company follows Accounting
+Principles Board Opinion No. 25, Accounting for Stock Issued to Employees, and
+related Interpretations in accounting for its employee stock options. Under
+Opinion No. 25, because the exercise price of the Company's employee stock
+options equals the market price of the underlying stock on the date of grant,
+no compensation expense is recognized.
+
+At December 31, 1998, the Company had reserved 3.0 million shares of common
+stock under a Stock Option and Incentive Plan. In February 1999, the Company
+reserved an additional 1.5 million common shares under the 1999 Stock Option
+and Incentive Plan, resulting in a total of 4.5 million shares being reserved
+at December 31, 2000 and 1999. Options issued under the Plans have eight to ten
+year terms and vest over a four to five year period.
+
+Pro forma information regarding net income and earnings per share is required
+by SFAS No. 123, Accounting for Stock Based Compensation, which also requires
+that the information be determined as if the Company has accounted for its
+stock options granted subsequent to December 31, 1994 under the fair value
+method of that Statement. The fair value for these options was estimated at the
+date of grant using a Black-Scholes option pricing model with the following
+weighted-average assumptions for 2000, 1999 and 1998, respectively: risk-free
+interest rates of 6.5%, 5.2% and 4.7%; dividend ratio of zero; volatility
+factors of the expected market price of the common stock of 0.7, 0.7 and 0.5;
+and a weighted-average expected life of the option of seven years.
+
+The Black-Scholes option valuation model was developed for use in estimating the
+fair value of traded options which have no vesting restrictions and are fully
+transferable. In addition, option valuation models require the input of highly
+subjective assumptions, including the expected stock price volatility. Because
+the Company's stock options have characteristics significantly different from
+those of traded options, and because changes in the subjective input assumptions
+can materially affect the fair value estimate, in management's opinion, the
+existing models do not necessarily provide a reliable single measure of the fair
+value of its stock options.
+
+
+                                      F-18
+<PAGE>   45
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+5.  SHAREHOLDERS' EQUITY AND STOCK OPTIONS (CONTINUED)
+
+For purposes of pro forma disclosures, the estimated fair value of the stock
+options is amortized to expense over the options' vesting period. The Company's
+pro forma information follows (in thousands, except per share data):
+
+
+<TABLE>
+<CAPTION>
+                                                      2000                         1999                           1998
+                                                   ----------                    ----------                    ---------
+<S>                                                <C>                           <C>                           <C>
+Pro forma net income                               $   22,463                    $   14,946                    $    9,839
+Pro forma net income per share:
+     Basic                                         $     1.07                    $      .74                    $      .53
+     Diluted                                       $     1.01                    $      .71                    $      .51
+</TABLE>
+
+A summary of the Company's employee stock option activity and related
+information for the years ended December 31 follows:
+
+
+<TABLE>
+<CAPTION>
+                                           2000                       1999                      1998
+                                  ----------------------     ----------------------   ---------------------
+                                               Weighted-                  Weighted-               Weighted-
+                                                Average                    Average                 Average
+                                  Options      Exercise      Options      Exercise    Options     Exercise
+                                   (000)         Price        (000)         Price      (000)        Price
+                                  -------      ---------     ------       ---------   ------      ---------
+<S>                               <C>          <C>           <C>          <C>         <C>         <C>
+Outstanding - beginning
+   of year                         1,682         $  6         1,146         $4         1,813         $4
+   Granted/converted                 198           27           888          7           254          5
+   Exercised                        (573)           5          (336)         4          (708)         2
+   Forfeited                         (43)          11           (16)         4          (213)         4
+                                  ------         ----        ------         --        ------         --
+Outstanding - end of year          1,264         $  9         1,682         $6         1,146         $4
+                                  ======         ====        ======         ==        ======         ==
+Exercisable at end of year           357         $  5           490         $4           607         $4
+                                  ======         ====        ======         ==        ======         ==
+Options available for
+   grant                             402                        557                      314
+                                  ======                     ======                   =====
+Weighted-average fair
+   value of options
+   granted during the year        $19.69                     $ 5.24                   $3.37
+                                  ======                     ======                   =====
+</TABLE>
+
+Exercise prices for options outstanding as of December 31, 2000 ranged from
+$2.67 to $37.41.
+
+Under the provisions of the Company's stock option plan, options to purchase
+shares of the Company's common stock that were exercisable at the time of the
+Spin-off, and that were held by those employees who terminated employment with
+the Company and became employees of Landair Corporation upon the Spin-off, were
+canceled if not exercised prior to such employees' termination of employment
+with the Company. Accordingly, employees that were leaving the Company and
+continuing as employees of Landair Corporation exercised 297,000 vested options
+during 1998 prior to the Spin-off. Unexercisable options held by employees of
+the Company who remained or became employees of Landair Corporation upon
+consummation of the Spin-off which totaled 153,000 were converted into options
+to purchase Landair Corporation common stock under Landair Corporation's Stock
+Option and Incentive Plan. Such conversion was on the basis of a formula
+designed to preserve the fair market value of such converted options on the
+date of the
+
+
+                                      F-19
+<PAGE>   46
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+5.  SHAREHOLDERS' EQUITY AND STOCK OPTIONS (CONTINUED)
+
+Spin-off. All options held by employees of the Company who remained or became
+employees of the Company upon consummation of the Spin-off were adjusted on the
+basis of a formula designed to preserve the fair market value of such options
+on the date of the Spin-off. The adjustment of these options resulted in the
+grant of options to purchase 225,000 additional shares during the year ended
+December 31, 1998.
+
+Non-Employee Director Options -- In July 2000, May 2000, May 1999 and August
+1998, options to purchase 7,500, 15,000, 22,500 and 56,250 shares of common
+stock, respectively, were granted to the non-employee directors of the Company
+at option prices of $36.38, $33.75, $17.83 and $6.13 per share, respectively.
+All options held by directors of the Company as of the Spin-off were adjusted
+on the basis of a formula designed to preserve the fair market value of such
+options on the date of the Spin-off.
+
+The options have terms of ten years and are exercisable in installments which
+vest over two-year periods from the date of grant. At December 31, 2000,
+270,000 options are outstanding and will expire in May 2005 through July 2010,
+unless a non-employee director resigns or is not re-elected, in which event the
+options expire 90 days after the option holder is no longer a non-employee
+director.
+
+Employee Stock Purchase Plan -- The Company implemented an employee stock
+purchase plan effective January 1, 1996 at which time participating employees
+became entitled to purchase common stock through payroll deduction of up to 10%
+of the employee's annual compensation. The issue price of the common stock is
+equal to the lesser of (1) 85% of market price on the first trading day of the
+semi-annual option period or (2) 85% of market price on the last trading day of
+the semi-annual option period. The Company has reserved 900,000 shares of
+common stock for issuance pursuant to the plan. At December 31, 2000,
+approximately 81,000 shares had been issued under the Plan.
+
+
+                                      F-20
+<PAGE>   47
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+5.  SHAREHOLDERS' EQUITY AND STOCK OPTIONS (CONTINUED)
+
+Earnings Per Share -- The following table sets forth the computation of basic
+and diluted income per share (in thousands, except per share data):
+
+
+<TABLE>
+<CAPTION>
+                                                                2000           1999           1998
+                                                              -------        -------        -------
+<S>                                                           <C>            <C>            <C>
+Numerator:
+     Numerator for basic and diluted income per share:
+        Income from continuing operations                     $23,445        $16,040        $ 9,189
+        Income from discontinued operations                        --             --            965
+                                                              -------        -------        -------
+        Net income                                            $23,445        $16,040        $10,154
+                                                              =======        =======        =======
+
+Denominator:
+     Denominator for basic income per share-
+         weighted-average shares                               21,074         20,072         18,589
+     Effect of dilutive stock options                           1,161          1,110            681
+                                                              -------        -------        -------
+     Denominator for diluted income per share-
+         adjusted weighted-average shares                      22,235         21,182         19,270
+                                                              =======        =======        =======
+Income per share - basic:
+        Income from continuing operations                     $  1.11        $   .80        $   .49
+        Income from discontinued operations                        --             --            .06
+                                                              -------        -------        -------
+        Net income                                            $  1.11        $   .80        $   .55
+                                                              =======        =======        =======
+Income per share - diluted:
+        Income from continuing operations                     $  1.05        $   .76        $   .48
+        Income from discontinued operations                        --             --            .05
+                                                              -------        -------        -------
+        Net income                                            $  1.05        $   .76        $   .53
+                                                              =======        =======        =======
+</TABLE>
+
+
+                                      F-21
+<PAGE>   48
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+6.  INCOME TAXES
+
+The Company and Landair Corporation entered into a Tax Sharing Agreement in
+connection with the Spin-off (see Note 2).
+
+The provision for income taxes from continuing operations consists of the
+following:
+
+
+<TABLE>
+<CAPTION>
+                                       2000                      1999                      1998
+                                     -------                    ------                    ------
+                                                            (In thousands)
+<S>                                  <C>                        <C>                       <C>
+Current:
+          Federal                    $10,392                    $7,509                    $3,246
+          State                        1,343                       991                       514
+                                     -------                    ------                    ------
+                                      11,735                     8,500                     3,760
+Deferred:
+          Federal                      2,592                     1,382                     1,807
+          State                          195                        68                        86
+                                     -------                    ------                    ------
+                                       2,787                     1,450                     1,893
+                                     -------                    ------                    ------
+                                     $14,522                    $9,950                    $5,653
+                                     =======                    ======                    ======
+</TABLE>
+
+The historical income tax expense differs from the amounts computed by applying
+the federal statutory rate of 35% to income before income taxes as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                2000                        1999                      1998
+                                                              --------                     ------                    ------
+                                                                                      (In thousands)
+
+<S>                                                           <C>                          <C>                       <C>
+Tax expense at the statutory rate                             $ 13,288                     $9,097                    $5,195
+State income taxes, net of federal benefit                       1,000                        688                       397
+Meals and entertainment                                            357                        165                        61
+Tax-exempt interest income                                        (123)                        --                        --
+                                                              --------                     ------                    ------
+                                                              $ 14,522                     $9,950                    $5,653
+                                                              ========                     ======                    ======
+</TABLE>
+
+
+                                      F-22
+<PAGE>   49
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+6.  INCOME TAXES (CONTINUED)
+
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax purposes. Significant components
+of the Company's deferred tax liabilities and assets are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                           December 31
+                                                                  2000                       1999
+                                                                -------                     -------
+                                                                         (In thousands)
+<S>                                                             <C>                         <C>
+Deferred tax assets:
+       Accrued expenses                                         $ 1,177                     $   973
+       Allowance for doubtful accounts                              372                         345
+       Capital lease                                                 59                          --
+                                                                -------                     -------
+Total deferred tax assets                                         1,608                       1,318
+Deferred tax liabilities:
+       Tax over book depreciation                                 3,195                       2,180
+       Research and development expenses                          2,567                          --
+       Prepaid expenses deductible when paid                        523                         476
+       Capital lease                                                 --                         332
+       Other                                                        517                         737
+                                                                -------                     -------
+Total deferred tax liabilities                                    6,802                       3,725
+                                                                -------                     -------
+Net deferred tax liabilities                                    $(5,194)                    $(2,407)
+                                                                =======                     =======
+</TABLE>
+
+The balance sheet classification of deferred income taxes is as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                December 31
+                                                     2000                        1999
+                                                   -------                     -------
+                                                               (In thousands)
+
+<S>                                                <C>                         <C>
+Current assets                                     $   956                     $   652
+Noncurrent assets (liabilities)                     (6,150)                     (3,059)
+                                                   -------                     -------
+                                                   $(5,194)                    $(2,407)
+                                                   =======                     =======
+</TABLE>
+
+Total income tax payments, net of refunds, during fiscal 2000, 1999 and 1998
+were $12.3 million, $8.1 million and $3.4 million, respectively.
+
+
+                                      F-23
+<PAGE>   50
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+7.  LEASES
+
+In September 2000, the Company entered into an agreement with the Rickenbacker
+Port Authority ("Rickenbacker") to lease a building located near the Company's
+Columbus hub facility in Columbus, Ohio. At the inception of the lease, the
+Company made a $2.0 million payment to Rickenbacker. The lease agreement has a
+ten year initial term, with two five-year renewal options. The present value of
+the future minimum lease payments of $1.0 million (at December 31, 2000) is
+included in capital lease obligations in the accompanying consolidated balance
+sheet. The leased building was recorded in property and equipment at $3.0
+million (which represents the present value of minimum lease payments,
+including the $2.0 million initial payment, as it is less than the fair value
+at the inception date). The building is being depreciated over the initial
+lease term, which is less than the estimated useful life of the building.
+
+The Company has a capital lease agreement (with a bargain purchase option)
+extending to 2008 with the Director of Development of the State of Ohio for a
+terminal facility located in Columbus, Ohio. The amounts due under the lease
+have been included in capital lease obligations. The Company is responsible for
+all taxes, assessments and other costs of ownership under the lease agreement.
+The lease also requires, among other things, restrictions on the payment of
+dividends and the maintenance of certain levels of net worth and other
+financial ratios. The assets are being amortized over the estimated useful
+lives of the assets under the assumption that the bargain purchase option will
+be exercised.
+
+The Company leases certain equipment under capital leases. These equipment
+leases expire in various years through 2001.
+
+Property and equipment include the following amounts for leases that have been
+capitalized:
+
+
+<TABLE>
+<CAPTION>
+                                                            December 31
+                                                   2000                      1999
+                                                 -------                    ------
+                                                            (In thousands)
+<S>                                              <C>                        <C>
+Land                                             $ 2,605                    $2,605
+Buildings                                          6,687                     3,675
+Equipment                                          2,472                     2,702
+                                                 -------                    ------
+                                                  11,764                     8,982
+Less accumulated amortization                      3,074                     2,602
+                                                 -------                    ------
+                                                 $ 8,690                    $6,380
+                                                 =======                    ======
+</TABLE>
+
+Amortization of leased assets is included in depreciation and amortization
+expense.
+
+The Company leases certain facilities and equipment under noncancellable
+operating leases that expire in various years through 2008. Certain of these
+leases may be renewed for periods varying
+
+
+                                      F-24
+<PAGE>   51
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+7.  LEASES (CONTINUED)
+
+from one to ten years. Landair Corporation shares certain facilities leased by
+the Company, and has been allocated a portion of the rent expense related
+thereto (see Note 1 - Common Expenses). As discussed below, the Company entered
+into lease or sublease agreements with Landair Corporation related to certain
+facilities on or prior to the date of the Spin-off. Sublease rental income was
+$465,000, $773,000 and $653,000 in 2000, 1999 and 1998, respectively, and was
+included in operating revenue in the accompanying consolidated statements of
+income.
+
+Included in operating leases is an aircraft leased under a dry lease
+arrangement from a limited liability corporation owned by the Company's
+Chairman and Chief Executive Officer which expired in July 1999. Under the
+terms of the lease agreement, the Company paid the limited liability
+corporation $700 per hour of usage subject to a 400 hour per year minimum usage
+guarantee. The total net amount of rent expense for this lease was $107,000 and
+$423,000 in 1999 and 1998, respectively. Upon expiration of the lease
+agreement, the Company commenced chartering the aircraft on an as-needed hourly
+basis. The air charter expense totaled $185,000 and $106,000 in 2000 and 1999,
+respectively. In addition, during 2000, the Company paid salaries and benefits
+of $130,000 for two pilots of the limited liability corporation.
+
+On or prior to the date of the Spin-off, the Company entered into subleases
+with Landair Corporation pursuant to which the Company sublet to Landair
+Corporation (i) a portion of its terminal facility in Atlanta, Georgia; (ii) a
+portion of its terminal facility in Chicago, Illinois; (iii) a portion of its
+terminal facility in Detroit, Michigan; and (iv) a portion of the headquarters
+of the Company in Greeneville, Tennessee that is leased from the
+Greeneville-Greene County Airport Authority. The Company subleases the terminal
+facilities to Landair Corporation for consideration based upon the cost of such
+facilities to the Company and an agreed-upon percentage of usage. The Company
+subleases a portion of Landair Corporation's facility in Indianapolis for
+consideration based upon an agreed-upon percentage of usage. The Company
+expects to receive aggregate future minimum rental payments under noncancelable
+subleases of approximately $950,000.
+
+
+                                      F-25
+
+<PAGE>   52
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+7.  LEASES (CONTINUED)
+
+Future minimum rental payments under capital leases and noncancellable
+operating leases with initial or remaining terms in excess of one year
+consisted of the following at December 31, 2000:
+
+
+<TABLE>
+<CAPTION>
+                                                               Capital                  Operating
+Fiscal Year                                                    Leases                   Leases
+- -----------                                                    ------                   ---------
+                                                                         (In thousands)
+<S>                                                            <C>                      <C>
+   2001                                                        $  775                    $ 9,646
+   2002                                                           775                      6,809
+   2003                                                           775                      4,638
+   2004                                                           775                      2,718
+   2005                                                           775                        768
+Thereafter                                                      2,414                         29
+                                                               ------                    -------
+Total minimum lease payments                                    6,289                    $24,608
+                                                                                         =======
+Amounts representing interest                                   1,395
+                                                               ------
+Present value of net minimum lease payments
+   (including current portion of $446)                         $4,894
+                                                               ======
+</TABLE>
+
+8.  TRANSACTIONS WITH LANDAIR CORPORATION
+
+The Company and Landair Corporation routinely engage in operating transactions
+as Landair Corporation hauls a portion of the deferred air freight shipments
+for the Company which are in excess of the Company's scheduled capacity. During
+2000, 1999 and 1998, Landair Corporation provided $2.1 million, $3.3 million
+and $4.4 million, respectively, of transportation services for the Company
+which were included in the accompanying statements of income in purchased
+transportation.
+
+In accordance with the terms included in the Transition Services Agreement,
+subsequent to the Spin-off the Company provided accounts payable, payroll,
+human resources, employee benefit plan administration, owner-operator
+settlement, central purchasing, accounting and legal, general administrative,
+and information technology services to Landair Corporation. The Company charged
+Landair Corporation $1.5 million, $2.4 million and $797,000, respectively,
+during the years ended December 31, 2000 and 1999 and the period September 24,
+1998 through December 31, 1998 for these services. In addition, Landair
+Corporation provided the Company safety, licensing, permitting and fuel tax,
+recruiting and retention, and driver training center services subsequent to the
+Spin-off. Landair Corporation charged the Company $230,000, $455,000 and
+$193,000, respectively, during the years ended December 31, 2000 and 1999 and
+the period September 24, 1998 through December 31, 1998 for these services.
+
+In connection with the Spin-off, the Company settled all intercompany balances
+for cash as of September 23, 1998. At December 31, 2000, accounts receivable
+included $315,000 of amounts
+
+
+                                      F-26
+<PAGE>   53
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+8.  TRANSACTIONS WITH LANDAIR CORPORATION (CONTINUED)
+
+due from Landair Corporation related to services covered under the Transition
+Services Agreement and various other transactions between both entities. At
+December 31, 1999, accounts payable included $707,000 of amounts due to Landair
+Corporation related to services covered under the Transition Services Agreement
+and various transactions between both entities.
+
+As discussed in Note 7, the Company subleases a portion of certain facilities
+to Landair Corporation.
+
+9.  COMMITMENTS AND CONTINGENCIES
+
+The primary claims in the Company's business are workers' compensation,
+property damage, auto liability and medical benefits. Most of the Company's
+insurance coverage provides for self-insurance levels with primary and excess
+coverage which management believes is sufficient to adequately protect the
+Company from catastrophic claims. In the opinion of management, adequate
+provision has been made for all incurred claims up to the self-insured limits,
+including provision for estimated claims incurred but not reported.
+
+The Company estimates its self-insurance loss exposure by evaluating the merits
+and circumstances surrounding individual known claims, and by performing
+hindsight analysis to determine an estimate of probable losses on claims
+incurred but not reported. Such losses could be realized immediately as the
+events underlying the claims have already occurred as of the balance sheet
+dates.
+
+Because of the uncertainty of the ultimate resolution of outstanding claims, as
+well as uncertainty regarding claims incurred but not reported, it is possible
+that management's provision for these losses could change materially in the
+near term. However, no estimate can currently be made of the range of
+additional loss that is at least reasonably possible.
+
+The estimated cost to complete software development in progress at December 31,
+2000 is approximately $500,000.
+
+10.  EMPLOYEE BENEFIT PLAN
+
+The Company has a retirement savings plan (the "401(k) Plan"). The 401(k) Plan
+is a defined contribution plan whereby employees who have completed ninety days
+of service, a minimum of 1,000 hours of service and are age 21 or older are
+eligible to participate. The 401(k) Plan allows eligible employees to make
+contributions of 2% to 15% of their annual compensation. Employer contributions
+are made at 25% during 2000, 1999 and 1998 of the employee's contribution up to
+a maximum of 6% during 2000 and 1999 and 4% during 1998 of total annual
+compensation.
+
+
+                                      F-27
+<PAGE>   54
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+10.  EMPLOYEE BENEFIT PLAN (CONTINUED)
+
+Employer contributions vest 20% after two years of service and continue vesting
+20% per year until fully vested. The Company's matching contribution included
+in income from continuing operations for 2000, 1999 and 1998 was approximately
+$190,000, $146,000 and $71,000, respectively. In connection with the Spin-off,
+the account balances of Truckload employees were transferred to a Landair
+Corporation plan in a trust-to-trust transfer during 1999.
+
+11.  FINANCIAL INSTRUMENTS
+
+Off Balance Sheet Risk
+
+At December 31, 2000, the Company had letters of credit outstanding totaling
+$4.3 million, all of which guarantee obligations carried on the balance sheet.
+
+Concentrations of Credit Risk
+
+Financial instruments that potentially subject the Company to significant
+concentrations of credit risk consist principally of cash investments and trade
+accounts receivable. The Company does not generally require collateral from its
+customers. Concentrations of credit risk with respect to trade accounts
+receivable are limited due to the large number of entities comprising the
+Company's customer base and their dispersion across many different industries.
+
+Fair Value of Financial Instruments
+
+The following methods and assumptions were used by the Company in estimating
+its fair value disclosures for financial instruments:
+
+          Cash and cash equivalents: The carrying amount reported in the
+          balance sheet for cash and cash equivalents approximates its fair
+          value.
+
+          Accounts receivable and accounts payable: The carrying amounts
+          reported in the balance sheet for accounts receivable and accounts
+          payable approximate their fair value.
+
+          Long-and short-term debt: The carrying amounts of the Company's
+          borrowings under its revolving credit arrangement approximate fair
+          value. The fair value of the Company's long-term debt and capital
+          lease obligations is estimated using discounted cash flow analyses,
+          based on the Company's current incremental borrowing rates for
+          similar types of borrowing arrangements.
+
+
+                                      F-28
+<PAGE>   55
+
+
+                            Forward Air Corporation
+
+             Notes to Consolidated Financial Statements (continued)
+
+12.  QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+
+The following is a summary of the quarterly results of operations for the years
+ended December 31, 2000 and 1999:
+
+
+<TABLE>
+<CAPTION>
+                                                           2000
+                                ------------------------------------------------------------
+                                March 31         June 30        September 30     December 31
+                                --------         -------        ------------     -----------
+                                             (In thousands, except per share data)
+
+<S>                             <C>              <C>            <C>              <C>
+Operating revenue               $49,407          $54,058          $53,703          $57,739
+Income from operations            7,371            9,766            9,758           10,406
+Net income                        4,589            6,118            6,145            6,593
+
+Net income per share:
+      Basic                     $   .22          $   .29          $   .29          $   .31
+      Diluted                   $   .21          $   .28          $   .28          $   .30
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                            1999
+                                ------------------------------------------------------------
+                                March 31         June 30        September 30     December 31
+                                --------         -------        ------------     -----------
+                                             (In thousands, except per share data)
+
+<S>                             <C>              <C>            <C>              <C>
+Operating revenue               $37,728          $40,781          $42,599          $49,735
+Income from operations            5,475            5,939            6,560            8,470
+Net income                        3,100            3,550            4,006            5,384
+
+Net income per share:
+      Basic                     $   .16          $   .18          $   .19          $   .26
+      Diluted                   $   .16          $   .17          $   .18          $   .25
+</TABLE>
+
+13.  SUBSEQUENT EVENT
+
+In January 2001, the Company completed an asset purchase transaction in which
+it acquired certain assets of Expedited Delivery Services, Inc. ("Expedited").
+Expedited is a provider of transportation services to the air cargo industry.
+The aggregate consideration paid to Expedited consisted of approximately $2.0
+million in cash. The acquisition will be accounted for using the purchase
+method of accounting.
+
+
+                                      F-29
+<PAGE>   56
+                            Forward Air Corporation
+
+                Schedule II -- Valuation and Qualifying Accounts
+
+
+<TABLE>
+<CAPTION>
+                     Col. A                            Col. B                  Col. C                 Col. D            Col. E
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                                                             Additions
+                                                                    ---------------------------
+                                                                         (1)           (2)
+                                                                       Charged       Charged
+                                                      Balance at        to Costs     to Other                         Balance at
+                                                      Beginning          and        Accounts-       Deductions-         End of
+                     Description                      of Period        Expenses      Describe        Describe           Period
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                                                                  (In thousands)
+<S>                                                   <C>             <C>           <C>             <C>               <C>
+Year ended December 31, 2000:
+     Allowance for doubtful accounts                    $  595        $   433          $  --        $      162(2)     $   866
+     Allowance for revenue adjustments(1)                  323          1,258             --             1,263(3)         318
+                                                     -----------------------------------------------------------------------------
+                                                           918          1,691             --             1,425          1,184
+Year ended December 31, 1999:
+     Allowance for doubtful accounts                    $  577        $   295          $  --        $      277(2)     $   595
+     Allowance for revenue adjustments(1)                  375          1,245             --             1,297(3)         323
+                                                     -----------------------------------------------------------------------------
+                                                           952          1,540             --             1,574            918
+Year ended December 31, 1998:
+     Allowance for doubtful accounts                    $  440        $   438          $  --        $      301(2)     $   577
+     Allowance for revenue adjustments(1)                  313          1,641             --             1,579(3)         375
+                                                     -----------------------------------------------------------------------------
+                                                           753          2,079             --             1,880            952
+</TABLE>
+
+(1)      Represents an allowance for adjustments to accounts receivable due to
+         disputed rates, accessorial charges and other aspects of previously
+         billed shipments.
+(2)      Uncollectible accounts written off, net of recoveries.
+(3)      Adjustments to billed accounts receivable.
+
+
+                                      S-1
+<PAGE>   57
+
+
+                                 EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+Exhibit No.
+  Under                                                 Exhibit No. in
+Item 601 of                                             Document Where
+Regulation                                              Incorporated by
+   S-K                                                     Reference
+- -----------                                             ---------------
+
+<S>         <C>                                         <C>
+ 2.1(g)-    Distribution between the                         2.1
+            Registrant and Landair Corporation
+
+ 3.1(j)-    Restated Charter of the registrant               3
+
+ 3.2(g)-    Bylaws of the registrant, as amended             3.1
+
+ 4.1(b)-    Form of Landair Services, Inc. Common            4.1
+            Stock Certificate
+
+ 4.2(g)-    Form of Forward Air Corporation                  4.1
+            Common Stock Certificate
+
+ 4.3(j)-    Rights Agreement dated May 18, 1999,             4
+            between the registrant and SunTrust Bank,
+            Atlanta, N.A., including the Form of Rights
+            Certificate (Exhibit A) and the Form of
+            Summary of Rights (Exhibit B)
+
+10.1(f)-    Registrant's Restated Employee Stock              10
+            Purchase Plan
+
+10.2(e)-    Registrant's Amended and Restated                 10.1
+            Stock Option and Incentive Plan
+
+10.3(b)-    Lease Agreement, dated July 27, 1981,             10.18
+            between the Greeneville-Greene County
+            Airport Authority and General Aviation
+            of Tennessee, Inc., as assumed by the
+            registrant by agreement, dated May 10,
+            1988
+
+10.4(b)-    Assignment, Assumption and Release                10.19
+            Agreement, dated May 10, 1988,
+            between Greeneville-Greene County
+            Airport, General Aviation, Inc., and
+            the registrant
+</TABLE>
+
+
+<PAGE>   58
+
+
+<TABLE>
+<S>         <C>                                                   <C>
+ 10.5(g)-   Air Carrier Certificate, effective                    10.4
+            September 9, 1993, reissued September
+            21, 1998
+
+ 10.6(c)-   Lease between the Director of                         10.24
+            Development of the State of Ohio and
+            the registrant dated as of October 1, 1993
+
+ 10.7(e)-   Registrant's Non-Employee Director                    10.2
+            Stock Option Plan
+
+ 10.8(g)-   Transition Services Agreement between the             10.1
+            registrant and Landair Corporation
+
+ 10.9(g)-   Employee Benefit Matters Agreement                    10.2
+            between the registrant and Landair Corporation
+
+10.10(g)-   Tax Sharing Agreement between the registrant          10.3
+            and Landair Corporation
+
+10.11(g)-   Amended and Restated Loan and Security                10.5
+            Agreement, dated as of September 10, 1998,
+            between First Tennessee Bank National
+            Association and the registrant
+
+10.12(g)-   $20.0 million Amended and Restated Master             10.6
+            Secured Promissory Note (Line of Credit),
+            dated as of September 10, 1998, to First
+            Tennessee Bank National Association
+
+10.13(g)-   $15.0 million Amended and Restated                    10.7
+            Secured Promissory Note (Equipment
+            Loan), dated as of September 10, 1998,
+            to First Tennessee Bank National Association
+
+10.14(g)-   Security Agreement, dated August 11, 1998,            10.8
+            between SunTrust Bank, Nashville, N.A.
+            and FAF, Inc.
+
+10.15(g)-   $8,022,000 Promissory Note, dated                     10.9
+            August 11, 1998, to SunTrust Bank,
+            Nashville, N.A.
+
+10.16(h)-   Employment Agreement between the registrant           10.16
+            and Bruce A. Campbell
+</TABLE>
+
+
+<PAGE>   59
+
+
+<TABLE>
+<S>         <C>                                                   <C>
+10.17(i)-   1999 Stock Option and Incentive Plan                  10.1
+
+10.18(i)-   Loan and Security Agreement ($10.0 million            10.2
+            Line of Credit), dated as of January 13, 1999
+            among SunTrust Bank, Nashville, N.A. and
+            the registrant, FAF, Inc. and Forward Air,
+            Inc.  (Certain exhibits to this document are
+            omitted from this filing but the registrant
+            will furnish supplemental copies of the
+            omitted materials to the Securities and
+            Exchange Commission (the"Commission")
+            upon request.)
+
+10.19(k)-   Cash Incentive Plan                                   10.19
+
+10.20(l)-   First Amendment to the Transition Services            10.1
+            Agreement, dated as of February 4, 2000, between
+            the registrant and Landair Corporation
+
+10.21(m)-   Non-Qualified Stock Option Agreement dated            10.1
+            August 21, 2000 between the registrant and
+            Ray A. Mundy
+
+21.1(a)-    Subsidiaries of the registrant                          --
+
+23.1(a)-    Consent of Ernst & Young LLP                            --
+</TABLE>
+
+         (a)      Filed herewith.
+
+         (b)      Filed as an exhibit to the registrant's Registration
+Statement of Form S-1, filed with the Commission on September 27, 1993.
+
+         (c)      Filed as an exhibit to the registrant's Annual Report on Form
+10-K for the fiscal year ended December 25, 1993, filed with the Commission on
+March 25, 1994.
+
+         (d)      Filed as an exhibit to the registrant's Annual Report on Form
+10-K for the fiscal year ended December 31, 1994, filed with the Commission on
+March 31, 1995.
+
+         (e)      Filed as an exhibit to the registrant's Quarterly Report on
+Form 10-Q for the quarterly period ended June 30, 1995, filed with the
+Commission on August 14, 1995.
+
+         (f)      Filed as an exhibit to the registrant's Quarterly Report on
+Form 10-Q for the quarterly period ended September 30, 1995, filed with the
+Commission on November 14, 1995.
+
+
+<PAGE>   60
+
+
+         (g)      Filed as an exhibit to the registrant's Quarterly Report on
+Form 10-Q for the quarterly period ended September 30, 1998, filed with the
+Commission on November 16, 1998.
+
+         (h)      Filed as an exhibit to the registrant's Annual Report on Form
+10-K for the fiscal year ended December 31, 1998, filed with the Commission on
+March 11, 1999.
+
+         (i)      Filed as an exhibit to the registrant's Quarterly Report on
+Form 10-Q for the quarterly period ended March 31, 1999, filed with the
+Commission on May 17, 1999.
+
+         (j)      Filed as an exhibit to the registrant's Current Report on
+Form 8-K filed with the Commission on May 28, 1999.
+
+         (k)      Filed as an exhibit to the registrant's Annual Report on Form
+10-K for the fiscal year ended December 31, 1999, filed with the Commission on
+March 7, 2000.
+
+         (l)      Filed as an exhibit to the registrant's Quarterly Report on
+Form 10-Q for the quarterly period ended March 31, 2000, filed with the
+Commission on May 5, 2000.
+
+         (m)      Filed as an exhibit to the registrant's Quarterly Report on
+Form 10-Q for the quarterly period ended September 30, 2000, filed with the
+Commission on November 6, 2000.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>2
+<FILENAME>g68101ex21-1.txt
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 21.1
+
+                      FORWARD AIR CORPORATION SUBSIDIARIES
+
+
+<TABLE>
+<CAPTION>
+                                                                               State of Incorporation
+                                                                               ----------------------
+
+<S>                                                                            <C>
+FAF, Inc.                                                                               Tennessee
+
+Forward Air, Inc.                                                                       Tennessee
+
+Forward Air International Airlines, Inc.                                                Tennessee
+
+Forward Air Royalty Company                                                             Delaware
+
+Forward Air Systems Technology, Inc.                                                    Tennessee
+
+Forward Air Licensing Company                                                           Delaware
+
+Transportation Properties, Inc.                                                         Tennessee
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>g68101ex23-1.txt
+<DESCRIPTION>CONSENT OF ERNST & YOUNG LLP
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 23.1
+
+
+                        Consent of Independent Auditors
+
+We consent to the incorporation by reference in: (1) the Registration Statement
+(Form S-8 No. 33-77944) pertaining to the Forward Air Corporation Stock Option
+and Incentive Plan and the Employee Stock Purchase Plan, (2) the Registration
+Statement (Form S-8 No. 333-03891) pertaining to the Forward Air Corporation
+Amended and Restated Stock Option and Incentive Plan, (3) the Registration
+Statement (Form S-8 No. 333-03893) pertaining to the Forward Air Corporation
+Non-Employee Director Stock Option Award and Non-Employee Director Stock Option
+Plan, and (4) the Registration Statement (Form S-8 No. 333-94249) pertaining to
+the Forward Air Corporation 1999 Stock Option and Incentive Plan, of our report
+dated February 7, 2001, with respect to the consolidated financial statements
+and schedule of Forward Air Corporation included in its Annual Report (Form
+10-K) for the year ended December 31, 2000, filed with the Securities and
+Exchange Commission.
+
+
+                                                     Ernst & Young LLP
+
+
+Nashville, Tennessee
+March 30, 2001
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

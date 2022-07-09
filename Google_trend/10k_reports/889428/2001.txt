@@ -1,0 +1,3439 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Hn6LooR0bMqW9o4OtUuBPDv1GgUVk7bhw33UhJQEb23jNKbMImeEzD2Ok/w6pBCU
+ aznuhhtAhjZNV5YLXtb30w==
+
+<SEC-DOCUMENT>0001104659-01-500263.txt : 20010409
+<SEC-HEADER>0001104659-01-500263.hdr.sgml : 20010409
+ACCESSION NUMBER:		0001104659-01-500263
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010402
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LIFE MEDICAL SCIENCES INC
+		CENTRAL INDEX KEY:			0000889428
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				141745197
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-20580
+		FILM NUMBER:		1592362
+
+	BUSINESS ADDRESS:	
+		STREET 1:		379 THORNALL ST
+		CITY:			EDISON
+		STATE:			NJ
+		ZIP:			08837-2227
+		BUSINESS PHONE:		6094520707
+
+	MAIL ADDRESS:	
+		STREET 1:		379 THORNALL ST
+		STREET 2:		15TH FLOOR
+		CITY:			EDISON
+		STATE:			NJ
+		ZIP:			08837-2227
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>j0247_10-k.txt
+<TEXT>
+
+<PAGE>
+
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                ----------------
+
+                                    FORM 10-K
+
+(MARK ONE)
+
+/ X / ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      FOR THE FISCAL YEAR ENDED DECEMBER 31, 2000
+                                       OR
+/   / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      FOR THE TRANSITION PERIOD     TO
+                         COMMISSION FILE NUMBER: 0-20580
+                           LIFE MEDICAL SCIENCES, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+             DELAWARE                               14-1745197
+    (STATE OR OTHER JURISDICTION OF                (I.R.S. EMPLOYER
+    INCORPORATION OR ORGANIZATION)            IDENTIFICATION NO.)
+
+ P.O. BOX 219, LITTLE SILVER, NEW JERSEY            07739
+    (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)        (ZIP CODE)
+
+                                 (732) 728-1769
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                    SECURITIES REGISTERED PURSUANT TO SECTION
+                               12(b) OF THE ACT:
+
+                                      NONE
+                              (TITLE OF EACH CLASS)
+
+                    SECURITIES REGISTERED PURSUANT TO SECTION
+                               12(g) OF THE ACT:
+                     COMMON STOCK--PAR VALUE $.001 PER SHARE
+                                      UNITS
+                           REDEEMABLE CLASS A WARRANTS
+                           REDEEMABLE CLASS B WARRANTS
+                                (TITLE OF CLASS)
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES / X / NO / /
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. / /
+
+         The aggregate market value of voting stock held by non-affiliates of
+the registrant as of March 13, 2001 was approximately $ 2.3 million.
+
+     As of March 13, 2001, 10,343,342 shares of Common Stock, $.001 par value,
+of the registrant were issued and outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+         Portions of the registrant's definitive proxy statement to be filed
+pursuant to Regulation 14A in connection with solicitation of proxies for its
+Annual Meeting of Stockholders to be held on June 13, 2001 are incorporated by
+reference into Part III of this Form 10-K.
+
+================================================================================
+<PAGE>
+
+                                INTRODUCTORY NOTE
+
+         Life Medical Sciences, Inc., a Delaware corporation (the "Company"), is
+a biomaterials company engaged in the development and commercialization of
+innovative and cost-effective medical devices for therapeutic applications.
+
+         Certain statements in this Report on Form 10-K (the "Report") under the
+caption "Management's Discussion and Analysis of Financial Condition and Results
+of Operations" and elsewhere constitute "forward-looking statements" within the
+meaning of the Private Securities Litigation Reform Act of 1995, including,
+without limitation, statements regarding future cash requirements and the
+ability of the company to raise capital. Such forward-looking statements involve
+known and unknown risks, uncertainties and other factors which may cause the
+actual results, performance or achievements of the Company, or industry results,
+to be materially different from any future results, performance, or achievements
+expressed or implied by such forward-looking statements. Such factors include,
+among others, the following: delays in product development; problems or delays
+with clinical trials; failure to receive or delays in receiving regulatory
+approval; lack of enforceability of patents and proprietary rights; lack of
+reimbursement; general economic and business conditions; industry capacity;
+industry trends; demographic changes; competition; material costs and
+availability; the loss of any significant customers; changes in business
+strategy or development plans; quality of management; availability, terms and
+deployment of capital; business abilities and judgment of personnel;
+availability of qualified personnel; changes in, or the failure to comply with,
+government regulations; and other factors referenced in this Report. When used
+in the Report, statements that are not statements of material facts may be
+deemed to be forward-looking statements. Without limiting the foregoing, the
+words "anticipates", "plans", "intends", "expects" and similar expressions are
+intended to identify such forward-looking statements which speak only as of the
+date hereof. The Company undertakes no obligation to publicly release the
+results of any revisions to these forward-looking statements that may be made to
+reflect events or circumstances after the date hereof or to reflect the
+occurrence of unanticipated events.
+
+
+                                       1
+<PAGE>
+
+                                     PART I
+
+ITEM 1.   BUSINESS
+
+GENERAL
+
+     Life Medical Sciences, Inc. is a biomaterials company engaged in the
+development and commercialization of innovative and cost-effective medical
+devices for therapeutic applications. During 2000, the Company postponed the
+further advancement and expansion of product development programs based on its
+proprietary bioresorbable polymer technology due to the lack of financial
+resources to fund such activities. As a result of this cash shortfall, in July
+2000, the Company terminated all but one of its remaining employees. Contingent
+upon the receipt of additional funding, the Company intends to apply its
+platform technology to the development of multiple products that address unmet
+therapeutic needs or offer improved, cost-effective alternatives to current
+methods of treatment. Products currently under development focus on preventing
+or reducing post-operative adhesions subsequent to a broad range of surgical
+procedures and are in various stages of clinical trials and preclinical studies.
+In February 2000, the Company completed a pilot clinical trial for its
+REPEL-CV(TM) bioresorbable adhesion barrier film, the first surgical device
+approved by the FDA for human evaluation in the prevention of adhesions after
+open-heart surgical procedures. In conjunction with its strategic focus on the
+development of medical products based on its bioresorbable polymer technology,
+the Company discontinued, effective February 29, 2000, the manufacturing and
+sale of the CLINICEL(R) silicone gel-filled cushions. In December 2000, the
+Company received approximately $1 million through the combination a private
+placement of convertible preferred stock and the sale of certain state tax
+losses (See Notes A and E to the Financial Statements). The proceeds are being
+used to reinitiate activities in support of the REPEL-CV pivotal clinical trial.
+
+     The Company's bioresorbable polymer technology is based on a proprietary
+group of polymers. The Company believes that these polymers display desirable
+properties, which enable them to be tailored to a wide variety of applications.
+These properties include bioresorbability, flexibility, strength and
+biocompatibility. Potential applications for products derived from these
+polymers are in medical areas such as the prevention of post-operative
+adhesions, sutures, stents, implantable device coatings and drug delivery. The
+Company is currently developing bioresorbable adhesion barrier films for the
+prevention or reduction of post-operative surgical adhesions in cardio-vascular
+surgery (REPEL-CV(TM)), gynecological and general surgical procedures
+(REPEL(TM)), as well as in bioresorbable adhesion barrier coatings (viscous
+solutions) for the prevention or reduction of post-operative surgical adhesions
+in gynecological and general abdominal surgical procedures (RESOLVE(TM)) and
+orthopedic and spinal surgical procedures (RELIEVE(TM)). These products are in
+various stages of development:
+
+<TABLE>
+<CAPTION>
+- ----------------------------------------------------------------------------------------------------------------
+ADHESION PREVENTION PRODUCTS UNDER DEVELOPMENT
+
+- ---------------------- ---------------------------------------- -------------------------- ---------------------
+                       POTENTIAL                                                            EST. ANNUAL MARKET
+PRODUCT                THERAPEUTIC APPLICATION                  STATUS                          POTENTIAL
+- ---------------------- ---------------------------------------- -------------------------- ---------------------
+<S>                    <C>                                      <C>                        <C>
+REPEL                  Preventing  or reducing  post-operative  Completed    U.S.   pilot  $250 Million
+Barrier Film           surgical   adhesions  in  gynecological  clinical trial
+                       and general abdominal surgery.
+- ---------------------- ---------------------------------------- -------------------------- ---------------------
+REPEL-CV               Preventing  or reducing  post-operative  IDE  submission  for U.S.  $250 Million
+Barrier Film           surgical  adhesions  in  cardiovascular  pivotal clinical trial
+                       surgery.
+- ---------------------- ---------------------------------------- -------------------------- ---------------------
+RESOLVE                Preventing  or reducing  post-operative  Preclinical development    $400 Million
+Viscous Solution       surgical   adhesions  in  gynecological
+                       and general abdominal surgery.
+- ---------------------- ---------------------------------------- -------------------------- ---------------------
+RELIEVE                Preventing  or reducing  post-operative  Preclinical development    $300 Million
+Viscous Solution       surgical  adhesions in  orthopedic  and
+                       spinal surgery.
+- ---------------------- ---------------------------------------- -------------------------- ---------------------
+</TABLE>
+
+     In April 1998, the Company launched its CLINICEL silicone-based device for
+diminishing unsightly scars and associated discomfort. CLINICEL was marketed
+through a direct to consumer marketing campaign in the United States and
+internationally through a series of independent distributors. However, in order
+to focus resources on the bioresorbable polymer product opportunities, the
+Company discontinued the manufacture and sale of CLINICEL products effective
+February 29, 2000 and the intellectual property rights associated with CLINICEL
+reverted to the Dimotech Ltd., a subsidiary of Technion Research and Development
+Foundation Ltd.
+
+                                       2
+<PAGE>
+
+     The Company's product development strategy has been to maintain a
+relatively small core of scientists and researchers within the Company. The
+Company currently conducts substantially all of its research and product
+development through arrangements with specialized academic and industrial
+organizations that broaden the development capabilities of the Company. The
+Company has established contract manufacturing arrangements for its product
+lines.
+
+         The Company previously developed and marketed the Sure-Closure
+System(TM), a disposable wound closure device. The Company, in July 1994, sold
+the Sure-Closure System to MedChem Products, Inc. ("MedChem") which was
+subsequently acquired by C.R. Bard, Inc. ("C.R. Bard"). In October 1997, Zimmer,
+Inc., a subsidiary of Bristol - Myers Squibb ("Zimmer"), acquired the Sure -
+Closure System from C.R. Bard. The Company receives a 10% royalty on all net
+sales of the Sure-Closure System products through June 30, 2004.
+
+PROPRIETARY PLATFORM TECHNOLOGIES
+
+   POLYMER TECHNOLOGY
+
+         The Company's polymer technology is based on a proprietary group of
+polymers. The Company believes that these polymers display desirable properties
+which enable them to be tailored to a wide variety of applications. These
+properties include bioresorbability, flexibility, strength, and
+biocompatibility. Unlike many other polymer systems which may cause untoward
+responses, polymers derived from the Company's polymer technology are highly
+biocompatible and have not caused any undesirable tissue responses. Medical
+applications include the prevention or reduction of post-operative surgical
+adhesions. In addition, potential medical implantable uses include resorbable
+sutures, drug delivery systems, stents, coatings for implantable devices and
+drug delivery.
+
+         Utilizing its polymer technology, the Company has been developing
+REPEL, a bioresorbable barrier film, for the prevention or reduction of
+post-operative adhesions in gynecological and general surgical procedures,
+REPEL-CV, a bioresorbable barrier film, for the prevention or reduction of
+post-operative adhesions in cardio-vascular surgical procedures, RESOLVE, a
+bioresorbable barrier coating (viscous solution), for the prevention or
+reduction of post-operative surgical adhesions in gynecological and general
+surgical procedures and RELIEVE, a bioresorbable barrier coating (viscous
+solution), for the prevention or reduction of post-operative surgical adhesions
+in orthopedic and spinal surgical procedures. See "Collaborative Agreements -
+Polymer Technology."
+
+         REPEL and REPEL-CV are proprietary bioresorbable post-operative
+adhesion barrier films based on the Company's polymer technology. The Company
+has been developing RESOLVE and RELIEVE, post-operative adhesion barrier
+coatings (viscous solution). REPEL, REPEL-CV, RESOLVE and RELIEVE are intended
+to be used routinely during surgeries to prevent or reduce the formation of
+post-operative adhesions.
+
+         Adhesions are fibrous structures that connect tissues or organ surfaces
+that are not normally joined. They are an undesirable side effect of the body's
+normal healing process following damage to tissue. Adhesions can cause
+significant complications such as bowel obstruction following abdominal surgery,
+infertility following gynecological surgery, serious complications during
+secondary cardiovascular surgical procedures, restricted limb motion following
+orthopedic surgery, and pain following any surgery. Moreover, adhesions that
+form as a result of surgery can increase the complexity, duration and risk of
+subsequent surgery. According to industry sources, in the United States,
+surgeons perform an estimated 440,000 abdominal operations annually to remove
+adhesions, and the annual cost in the United States for the removal of such
+adhesions is approximately $1.2 billion in inpatient treatment charges.
+
+         According to industry data, adhesions occur in approximately 93% of
+abdominal surgeries, between 55% and 100% of gynecologic operations and are a
+common occurrence following open-heart procedures. However, as it is not
+possible to predict which patients will develop adhesion related complications,
+the Company believes that most surgeries will benefit from routine use of its
+adhesion prevention products. The Company believes that current products for the
+prevention or reduction of adhesions are limited by various shortcomings
+including: (i) undesirable handling characteristics in the surgical environment,
+(ii) diminished efficacy in the presence of blood, (iii) inability to be used in
+laproscopic procedures, and (iv) failure to be absorbed. The Company believes
+that REPEL, REPEL-CV, RESOLVE and RELIEVE may not suffer from these shortcomings
+and as a result
+
+
+                                       3
+<PAGE>
+
+may become the preferred method of treatment for the prevention or reduction of
+adhesions. In addition, some resorbable polymers may form particles or
+break-down products as they degrade which could lead to untoward biological
+effects or may actually cause adhesions. The Company believes that REPEL,
+REPEL-CV, RESOLVE and RELIEVE uniformly dissolve without forming particles and
+do not form break-down products, which could lead to untoward biological
+effects.
+
+REPEL-CV
+
+         REPEL-CV is a bioresorbable adhesion barrier film made from a
+co-polymer formulation than which results in it being stronger and longer
+lasting in the body than the original REPEL film. The clinical significance of
+these enhanced characteristics was demonstrated in a series of pre-clinical
+studies. These studies were conducted at the University of Southern California
+and at New York Presbyterian Medical Center. Throughout these studies, REPEL-CV
+was rated as safe and well-tolerated as well as virtually preventing the
+formation of adhesions to the surface of the heart.
+
+         Adhesion formation after open-heart surgical procedures is a
+well-documented, significant complication at the point of performing a secondary
+procedure. Secondary procedures (re-do's) account for 15-20% of the
+approximately 600,000 open-heart surgeries performed annually in the United
+States. Extensive adhesions form between the surface of the heart (epicardium)
+and the inner surface of the sternum after virtually every open-heart surgical
+procedure. These adhesions make opening the sternum and accessing the heart a
+time consuming and dangerous process in the secondary procedure. There are no
+FDA approved products currently available to the cardiovascular surgeon to
+address post-operative adhesion formation.
+
+         In February 2000, the Company concluded a multi-center, randomized,
+controlled U.S. pilot clinical trial for REPEL-CV in cardiovascular surgical
+procedures. REPEL-CV is a bioresorbable film which is placed over the anterior
+surface of the heart at the conclusion of the surgical procedure. In the pilot
+clinical trial, REPEL-CV was rated safe and well tolerated when compared to the
+control of standard surgical technique. The Company has reinitiated development
+activities in support of a U. S. pivotal clinical trial, the timing for the
+start of this trial is contingent upon the FDA approval of the trial protocol
+and the infusion of additional capital into the Company.
+
+REPEL
+
+         REPEL adhesion barrier film is the first in the series of bioresorbable
+adhesion prevention products from the patented platform technology. REPEL was
+tested in a series of pre-clinical studies at the University of Southern
+California in which its efficacy was evaluated in controlled, blinded,
+randomized studies. These studies demonstrated that REPEL either completely
+eliminated or substantially reduced the formation of adhesions in the peritoneal
+cavity in such industry standard models as DE NOVO adhesion formation, adhesion
+reformation and adhesion formation in the presence of blood. Throughout these
+studies, REPEL was assessed as safe and biocompatible and resorbed without
+complication. In conjunction with the Investigational Device Exemption (IDE)
+submission to the FDA, REPEL was rated safe in an extensive series of
+non-clinical toxicologic and hematologic studies.
+
+         During 1997, a pilot clinical trial was conducted on REPEL in
+gynecological surgery, at several sites in the United States. The trial was
+designed to test the safety and efficacy of REPEL when applied to the anterior
+and posterior surfaces of the uterus during myomectomies by laparotomy. REPEL
+was rated safe and well tolerated as well as being greater than twice as
+effective in reducing adhesion formation compared to the control of standard
+surgical technique. The most striking result of the trial was the reduction in
+the extent of adhesion formation on the posterior surface of the uterus, where
+adhesions are more extensive, clinically relevant and difficult to address. On
+the posterior surface, the median extent of adhesions in the REPEL patients was
+less than 25 percent, whereas the control patients' median extent was greater
+than 75 percent. Based on these results, FDA has granted approval to initiate
+the pivotal clinical trial.
+
+RESOLVE
+
+         Coating tissue surfaces as a means of providing broad-based versus site
+specific protection against adhesion formation is the objective of the RESOLVE
+viscous gel development program. This approach has particular application in
+gynecological and general abdominal surgery due to the "bowl shaped" anatomical
+configuration of the peritoneal cavity. RESOLVE would be poured (open
+procedures) or injected (laparoscopic procedures) into the peritoneal cavity at
+the conclusion of the procedure as an instillate to coat and lubricate the
+tissue surfaces thereby protecting the organs from adhesion formation.
+
+                                       4
+<PAGE>
+
+         The formulation of RESOLVE was specified through a series of
+pre-clinical studies during which the preferred viscosity, tissue adherence and
+resorption time were determined. In addition to being determined as safe and
+biocompatible, RESOLVE proved to be efficacious in reducing the level of
+adhesion formation in the abdominal cavity during a series of pre-clinical
+studies. In one pre-clinical study, approximately forty-five (45) percent of the
+tissue surfaces in the RESOLVE treated group were free of adhesions, compared to
+less than ten (10) percent in the control group.
+
+RELIEVE
+
+         Gels of higher viscosities may also be beneficial in addressing
+adhesion formation in articulating joints subsequent to orthopedic surgical
+procedures and involving the spinal canal after spinal surgery. The RELIEVE
+category of viscous gel products have been under development through
+pre-clinical studies. Candidate materials have been evaluated in a surrogate
+hand tendon model and in a feasibility study in spinal surgery.
+
+DEVELOPMENT OPPORTUNITIES
+
+         The material capabilities and intellectual property portfolio for the
+Company's proprietary bioresorbable polymer technology continues to broaden.
+This provides opportunities to both enhance the performance characteristics of
+the Company's adhesion prevention products as well as to pursue the application
+of these unique materials in other medical products. The Company has had
+discussions with medical device and pharmaceutical companies on the use of these
+materials in drug and cell delivery, implantable medical device coatings and
+other bioresorbable polymer product opportunities.
+
+COLLABORATIVE AGREEMENTS
+
+   POLYMER TECHNOLOGY
+
+     The Company's polymer technology was developed at the Hebrew University of
+Jerusalem. The Company entered into an agreement with Yissum Research
+Development Company of the Hebrew University of Jerusalem ("Yissum") dated June
+14, 1991, as amended in February 1994, as of January 1996 and as of October 1996
+(the "Yissum Agreement"), pursuant to which the Company agreed to finance
+research and development conducted at the Hebrew University of Jerusalem in the
+field of biomedical polymers. Pursuant to the Yissum Agreement, Yissum has
+assigned to the Company its worldwide rights to patents, patent applications and
+know-how to develop, manufacture and market products relating to this
+technology. Under the terms of the Yissum Agreement, all rights in the research
+or products developed are owned solely by the Company, except as set forth
+below. The Company is permitted to grant licenses of its polymer technology upon
+certain terms and conditions. The Company has agreed to favorably consider
+manufacturing in Israel products resulting from its polymer technology and to
+explore opportunities to do so.
+
+     In consideration for the assignment of the patents and the patent
+applications, the granting of the licensing rights and the know-how, the
+research that Yissum agreed to procure pursuant to the Yissum Agreement and
+Yissum's performance of its obligations thereunder, the Company paid Yissum a
+fixed fee of $750,000 and is obligated to pay a royalty of five percent of all
+net sales of the Company's products under the Yissum Agreement up to a maximum
+amount of $5,500,000 in royalties during the term of the Yissum Agreement.
+
+     The Yissum Agreement continues until the earlier of the last date upon
+which the patents covering the products governed by the Yissum Agreement expire
+or the end of a period of 15 years from the date of the first commercial sale of
+products under the assigned technology. Yissum has the right in its sole
+discretion, subject to certain exceptions set forth in the following sentences,
+to terminate the Yissum Agreement and/or enter into contracts with others in
+order to grant them a license for the development, manufacture and marketing of
+a product and the other rights detailed in the Yissum Agreement if, among other
+things, (i) the Company does not advise Yissum of the completion of development
+and manufacturing work necessary to lead to the development of a product by
+December 31, 2001; (ii) the Company does not advise Yissum of the first
+commercial sale by December 31, 2001; (iii) the Company does not reach total net
+sales of products or achieve income of $1,000,000 by December 31, 2002; (iv) the
+Company stops manufacturing and/or marketing the product for a period of more
+than 12 months; or (v) the Company breaches the Yissum Agreement, a receiver or
+liquidator is appointed for the Company or the Company passes a resolution for
+voluntary winding up, or a winding up application is made against the Company,
+an attachment is made over a substantial part of the Company's assets, or
+execution proceedings are taken against the Company, and the same is not
+remedied or set aside within the time periods specified in the Yissum Agreement.
+Notwithstanding the foregoing: (i) in the event that the Company does not advise
+Yissum of the first commercial sale by December 31, 2001, Yissum shall not
+terminate the Yissum
+
+
+                                       5
+<PAGE>
+
+Agreement during the year ended December 31, 2002 so long as the Company pays to
+Yissum a minimum royalty payment of $50,000; (ii) in the event that the Company
+does not (a) advise Yissum of the first commercial sale by December 31, 2002 or
+(b) reach total net sales of products or achieve income of $1,000,000 by
+December 31, 2002, Yissum shall not terminate the Yissum Agreement during the
+year ended December 31, 2003 so long as the Company pays to Yissum a minimum
+royalty payment of $50,000; and (iii) in the event that the Company does not
+reach total net sales of products or achieve income of $1,000,000 by December
+31, 2003, Yissum shall not terminate the Yissum Agreement during the year ended
+December 31, 2004 so long as the Company pays to Yissum a minimum royalty
+payment of $50,000. The Company has agreed to indemnify Yissum under certain
+circumstances. Upon the termination of the Yissum Agreement for any reason, the
+patents and patent applications assigned by Yissum to the Company will revert in
+full to Yissum.
+
+     In March 1996, pursuant to the Yissum Agreement, the Company paid Yissum
+$60,000 for conducting research relating to the development of surgical adhesion
+barriers. Effective as of October 1996, the Yissum Agreement was amended as it
+relates to the Company financing research at Yissum. The amendment provides a
+research term of five years from the date of the amendment and requires Yissum
+personnel to enter into confidentiality and non-competition agreements with the
+Company. Pursuant to the amendment, the Company paid Yissum approximately
+$379,000 during the first four years of the research term.
+
+CLINICEL
+
+     The CLINICEL product line was developed at The Bruce Rappaport Faculty of
+Medicine at Technion-Israel Institute of Technology in Haifa, Israel (the
+"Rappaport Faculty"). In July 1995, the Company entered into an agreement with
+Dimotech subsidiary of Technion R&D Foundation Ltd. (the "Dimotech Agreement")
+pursuant to which the Company agreed to finance the research and development
+conducted by Dimotech with regard to CLINICEL. Pursuant to the Dimotech
+Agreement, Dimotech had assigned to the Company the worldwide rights to its
+patent applications, any patents which may issue and know-how to develop,
+manufacture and market products relating to CLINICEL. Under the terms of the
+Dimotech Agreement, all rights in the research or products developed were owned
+solely by the Company. On February 29, 2000, the Dimotech agreement was
+terminated and all rights therein which accrued to the Company reverted to
+Dimotech and the license granted to the Company expired.
+
+   SURE-CLOSURE SYSTEM
+
+     The Sure-Closure System was invented at the Rambam Medical Center, an
+affiliate of Technion-Israel Institute of Technology in Haifa, Israel. The
+Company entered into an agreement with Technion dated June 28, 1992 (the
+"Skin-Stretching Agreement"), pursuant to which Technion has assigned to the
+Company its worldwide rights to its patents, patent applications and know-how to
+develop, manufacture and market products relating to the Sure-Closure System
+technology, and Technion assigned the Skin-Stretching Agreement to Dimotech. On
+July 29, 1994, the Company completed the sale of its Sure-Closure System to
+MedChem. The assets sold included substantially all of the Company's assets,
+properties, claims, rights and interests related to the Sure-Closure System,
+other than accounts receivable. The transaction provided for (i) the payment to
+the Company of $4 million; (ii) the assumption of certain liabilities, in an
+amount of approximately $644,000 which was recorded as deferred royalty income
+and will continue to be reduced by a 10% royalty on net sales of all current and
+future Sure-Closure System products to be paid to the Company through June 30,
+2004. In July 1994, in connection with the sale of the Sure-Closure System,
+Technion and Dimotech agreed to the assignment of all rights and duties under
+the Skin Stretching Agreement, to MedChem, relieving the Company of any
+obligations under the Skin Stretching Agreement. In October 1997 the
+Sure-Closure System was acquired by the Zimmer Inc. subsidiary of Bristol-Myers
+Squibb.
+
+GOVERNMENT REGULATION
+
+   FDA AND OTHER REGULATIONS
+
+     The Company's research and development activities and the production and
+marketing of the Company's products are subject to regulation for safety,
+efficacy and compliance with a wide range of regulatory requirements by numerous
+governmental authorities in the United States and other countries. In the United
+States, drugs, biologic products and medical devices are subject to rigorous FDA
+review. The Federal Food, Drug, and Cosmetic Act, the Public Health Service Act
+and other federal statutes and regulations govern or influence the research,
+testing, manufacture, safety, labeling, storage, record keeping, approval,
+distribution, reporting, advertising and promotion of such products.
+Noncompliance with applicable requirements can result in fines, recall,
+
+                                       6
+<PAGE>
+
+injunction or seizure of products, refusal to permit products to be imported
+into the United States, refusal of the government to approve or clear product
+approval applications or to allow the Company to enter into government supply
+contracts, withdrawal of previously approved applications and criminal
+prosecution. The FDA may also assess civil penalties for violations of the Food,
+Drug, and Cosmetic Act relating to medical devices.
+
+     In order to obtain FDA approval of a new drug, a biologic or device,
+companies must submit proof of safety and efficacy. In most cases such proof
+entails extensive clinical and preclinical laboratory tests. The testing and
+preparation of necessary applications and processing of those applications by
+the FDA is expensive and may take several years to complete. There is no
+assurance that the FDA will act favorably or in a timely manner in reviewing
+submitted applications, and the Company may encounter significant difficulties
+or costs in its efforts to obtain FDA approvals which could delay or preclude
+the Company from marketing any product it may develop. The FDA may also require
+postmarketing testing and surveillance of approved products, or place other
+conditions on the approvals. These requirements could cause it to be more
+difficult or expensive to sell the products, and could therefore restrict the
+commercial applications of such products. Product approvals may be withdrawn if
+compliance with regulatory standards is not maintained or if problems occur
+following initial marketing. For patented products or technologies, delays
+imposed by the governmental approval process may materially reduce the period
+during which the Company will have the exclusive right to exploit such
+technologies. See "Risk Factors - Risks Associated with Uncertainties of
+Clinical Trials."
+
+     The conduct of non-clinical studies must be done in conformity with the
+FDA's good laboratory practice (GLP) regulations. Clinical studies must comply
+with the FDA's regulations for institutional review board approval and for
+informed consent and, depending on the product, Investigational New Drug (IND)
+or Investigational Device Exemption (IDE) regulations. In addition, a variety of
+state and local permits are required under regulations relating to the Company's
+proposed laboratory activity.
+
+     The Company will also be required to register as a manufacturer with the
+FDA if it manufactures drugs, biologics or devices in the United States. As
+such, the Company would be inspected on a routine basis by the FDA for
+compliance with the FDA's good manufacturing practices (GMP) regulations. These
+regulations require that the Company manufacture its products and maintain its
+documents in a prescribed manner with respect to manufacturing, testing and
+control activities. Foreign manufacturing facilities that produce products for
+sale in the United States are also subject to these GMP requirements and to
+periodic FDA inspections. FDA regulations also require that the Company provide
+information to the FDA on deaths or serious injuries associated with the use of
+its products, as well as other post-approval marketing experiences. In addition,
+the FDA prohibits a company from marketing approved products for unapproved
+applications.
+
+   DEVICES
+
+     The FDA categorizes devices into three regulatory classifications subject
+to varying degrees of regulatory control. In general, Class I devices require
+compliance with labeling and record keeping regulations, GMPs, 510(k) pre-market
+notification, and are subject to other general controls. Class II devices may be
+subject to additional regulatory controls, including performance standards and
+other special controls, such as guidelines and postmarket surveillance. Class
+III devices, which are typically invasive or life-sustaining products, or new
+products never before marketed, require clinical testing to assure safety and
+effectiveness and FDA approval prior to marketing and distribution. The FDA also
+has the authority to require clinical testing of Class I and Class II devices.
+
+     If a medical device manufacturer can establish that a newly developed
+device is substantially equivalent to a Class I or Class II device that was
+legally marketed prior to May 1976, the date on which the Medical Device
+Amendments of 1976 were enacted, or to a device that was legally introduced to
+the market after the FDA has found it to be substantially equivalent to a
+legally marketed device, the manufacturer may seek clearance from the FDA to
+market the device by filing a 510(k) pre-market notification. Substantial
+equivalence also can be found for pre-1976 Class III devices for which PMAs have
+not been required. The 510(k) pre-market notification may need to be supported
+by appropriate data establishing the claim of substantial equivalence to the
+satisfaction of the FDA. Following submission of the 510(k) pre-market
+notification, the manufacturer or distributor may not place the device into
+commercial distribution until an order is issued by the FDA. By regulation, the
+FDA has no specific time limit by which it must respond to a 510(k) pre-market
+notification. At this time, the FDA responds to the submission of a 510(k)
+pre-market notification in approximately 150 days on average. The FDA order may
+declare that the device is substantially equivalent to another legally marketed
+device and allow the proposed device to be marketed in the United States. The
+FDA may, however, determine that the proposed device is not substantially
+equivalent, or require further information, such as additional test
+
+
+                                       7
+<PAGE>
+
+data, before the FDA is able to make a determination regarding substantial
+equivalence. Such determination or request for additional information could
+delay the Company's market introduction of its products and could have a
+material adverse effect on the Company.
+
+     If a manufacturer or distributor of medical devices cannot establish that a
+proposed device is substantially equivalent, whether or not the FDA has made a
+determination in response to a 510(k) premarket notification, the manufacturer
+or distributor must seek pre-market approval of the proposed device through the
+submission of a PMA application. A PMA application must be supported by
+extensive data, including preclinical and human clinical trial data, as well as
+extensive literature, to prove the safety and efficacy of the device. Upon
+receipt, the FDA conducts a preliminary review of the PMA application. If
+sufficiently complete, the submission is declared fileable by the FDA. By law,
+the FDA has 180 days to review a PMA application once it is filed, although PMA
+application reviews more often occur over a significantly protracted time
+period, and generally take approximately two years or more from the date of
+filing to complete. A number of devices for which FDA marketing clearance has
+been sought have never been cleared for marketing.
+
+     If human clinical trials of a proposed device are required and the device
+presents a "significant risk," the manufacturer or distributor of the device
+will have to file an IDE application with the FDA prior to commencing human
+clinical trials. The IDE application must be supported by data, typically
+including the results of animal testing. If the IDE application is approved,
+human clinical trials may begin at a specified number of investigational sites
+with the number of patients approved by the FDA.
+
+     Sales of devices, new drugs and biologic products outside the United States
+are subject to foreign regulatory requirements that vary widely from country to
+country. Whether or not FDA approval has been obtained, approval of a device,
+new drug or biologic product by a comparable regulatory authority of a foreign
+country must generally be obtained prior to the commencement of marketing in
+those countries. The time required to obtain such approval may be longer or
+shorter than that required for FDA approval.
+
+     Products utilizing the Company's polymer technology are likely to be
+classified as Class III devices, requiring a PreMarket Approval ("PMA")
+application review process prior to commercial distribution in the United
+States. CLINICEL silicone gel-filled cushions are classified as Class 1 devices
+for which a 510K pre-market notification for over-the-counter (OTC) marketing
+has been approved by the FDA.
+
+   THIRD PARTY REIMBURSEMENT
+
+     Successful commercialization of the Company's proposed products may depend
+in part on the availability of adequate reimbursement from third-party health
+care payers such as Medicare, Medicaid, and private insurance plans.
+Reimbursement matters include both coverage issues and payment issues. Questions
+of coverage raise the issue of whether a product will be paid for at all and
+under what circumstances. Questions of payment relate to the amount or level of
+payment. Reimbursement policies vary among payers and may depend on the setting
+in which a product is used.
+
+     There are numerous governmental third-party payers. Medicare is a federally
+funded health insurance for persons who are age 65 or older, who have end stage
+renal disease, or who otherwise qualify by virtue of a disability. Medicare is
+the largest single health insurance program in the United States. Medicaid is a
+joint federal-state program to provide health services to the indigent. The
+Department of Veterans Affairs provides a variety of medical services to
+veterans both directly and through arrangements with private health care
+providers. The Civilian Health and Medical Program for the Uniformed Services
+pays for care and services furnished to dependents of members of the armed
+forces. There are also numerous private health insurance plans, including
+private nonprofit insurers (E.G., Blue Cross and Blue Shield plans), commercial
+insurers, and various types of managed care organizations.
+
+PATENTS AND PROPRIETARY RIGHTS
+
+     In connection with the polymer technology, the Company currently holds four
+issued United States patents, one Canadian patent and two Israeli patents
+relating to bioresorbable polymeric compounds and polyurethane polymeric
+compounds. The first United States patent claims novel bioresorbable polymeric
+compounds of specified chemical structure. Also claimed are medical articles,
+including sutures and prosthetic devices, made from these materials as well as
+methods for making these materials. The second United States patent claims novel
+polyurethane polymeric compounds of specified chemical structure. Also claimed
+are medical articles, including sutures and wound and burn dressings. The third
+United States patent claims novel bioresorbable polymer compounds of specified
+chemical structure and their use in post-operative adhesion prevention. The
+fourth United States
+
+
+                                       8
+<PAGE>
+
+patent is a continuation in part expanding the claims of a previously issued
+patent. The four United States patents will remain in effect until June 2, 2008
+May 3, 2010, July 11, 2016 and July 11, 2017, respectively, provided that all
+requisite maintenance fees are paid to the United States Patent and Trademark
+Office. The Company also has numerous patent applications pertaining to various
+novel bioresorbable polymeric compounds and, in certain instances, their use in
+post-operative adhesion prevention on file with the United States and
+international patent agencies.
+
+COMPETITION
+
+   REPEL, REPEL-CV,  RESOLVE AND RELIEVE
+
+     REPEL, REPEL-CV, RESOLVE and RELIEVE are expected to compete with various
+currently marketed products such as Interceed(TM), a product of Johnson &
+Johnson, Seprafilm(TM) , a product of Genzyme Corp., Intergel(TM), a product of
+LifeCore Biomedical, Inc., Adcon-L(TM), a product of Gliatech, Inc. and
+Goretex(TM), a product of WL Gore. Several other companies including Anika
+Therapeutics, Inc., Biomatrix Inc., Alliance Pharmaceuticals, Corp. and Focal
+Inc. either are or may be pursuing the development of products for the
+prevention of adhesions. The anti-adhesion market is characterized by a limited
+number of products currently on the market with limited (as a percent of total
+surgical procedures using such products) penetration. The Company's products are
+in the developmental stage in a market where clinical efficacy and, to a lesser
+extent, strength of existing product lines are the principal bases of
+competition.
+
+MANUFACTURING
+
+   REPEL, REPEL-CV, RESOLVE, AND RELIEVE
+
+     The Company intends to rely primarily on certain manufacturers to produce
+REPEL, REPEL-CV, RESOLVE, RELIEVE and other proposed products for testing and
+commercial production. The manufacturer procures, tests and inspects all raw
+materials used in the production of the Company's proposed products. The
+manufacturer relies on various sources, approved by the Company, for its raw
+materials and components. The Company believes that alternative sources for
+these raw materials and components are available. The Company's products would
+be manufactured in a facility in compliance with regulatory requirements. The
+Company has engaged a third party to inspect the product formulated by the
+manufacturer for quality assurance purposes.
+
+     As of the date of this report, the Company and its primary manufacturer
+have completed various manufacturing pilot batches and scale-up studies at its
+primary manufacturing partner's site. The Company's manufacturing equipment,
+which was used by the manufacturer in the production process, was pledged as
+collateral against amounts owed to this manufacturer during 1998. On April 12,
+1999, the Company transferred the title to this equipment to the contract
+manufacturer in exchange for the forgiveness of certain liabilities owed. The
+Company has recently reinitiated the production of REPEL-CV products for use in
+clinical trials at this manufacturer and intends to continue this manufacturing
+development and optimize, validate and utilize the process, equipment and
+manufacturer to produce further clinical and commercial sale products at this
+site.
+
+MARKETING AND SALES
+
+        With regard to the commercialization of the proposed products from its
+polymer technology, the Company may either establish an organization for the
+marketing and sale of these proposed products or enter into corporate alliances
+for the distribution of certain products in the United States. The Company
+intends to seek joint venture, licensing or collaborative arrangements for the
+marketing and sale of these proposed products elsewhere in the world.
+
+     Products utilizing the Company's technologies are expected to be targeted
+to various segments in the medical community, including physicians, surgeons,
+and other care providers in both the institutional and home care markets. The
+Company's future growth and profitability will depend, in large part, on the
+success of its personnel and others in fostering acceptance of the Company's
+products as an alternative to other available products, among the medical
+community. Such acceptance will be substantially dependent on educating the
+medical community as to the distinctive characteristics and potential benefits
+of the Company's technologies and products.
+
+PRODUCT LIABILITY AND INSURANCE
+
+                                       9
+<PAGE>
+
+     The Company's business exposes it to potential liability risks that are
+inherent in the testing, manufacturing and marketing of medical products. The
+Company has obtained product liability insurance for its clinical trials and
+commercial sales of its products providing coverage in an aggregate amount of
+$5,000,000.
+
+HUMAN RESOURCES
+
+     As of March, 2001, the Company employed one full time employee. Research
+and development activities are conducted through arrangements with various
+consultants and companies in Europe, Israel and the United States. The Company
+believes that it has good relations with its employee. The Company intends to
+increase its number of full time employees as it expands its clinical trials and
+product development activities and begins to market its products.
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+     The Company's executive officer is as follows:
+
+<TABLE>
+<CAPTION>
+               NAME                  AGE     POSITIONS WITH THE COMPANY
+               ----                  ---     --------------------------
+<S>                                   <C>   <C>
+     Robert P. Hickey...............  55    Chairman, President, CEO & CFO
+</TABLE>
+
+
+     ROBERT P. HICKEY has served as Chairman since May 1999, President and Chief
+Executive Officer since May 1996, Chief Financial Officer since March 2000 and
+as a Director since August 1996. From May 1994 until joining the Company, Mr.
+Hickey was founder and president of Roberts Healthcare Resources, Inc., a
+company engaged in project consulting to Fortune 500 and leading edge companies
+in the healthcare industry. From 1975 to 1994, Mr. Hickey served in various
+positions at Johnson & Johnson. From 1992 to 1994, Mr. Hickey was Vice
+President, Marketing and Director of Ethicon, Inc., a unit of Johnson & Johnson.
+
+
+CONSULTANTS AND ADVISORS
+
+     The Company utilizes various consultants and advisors for research,
+development and testing of its technologies and products. The Company
+periodically confers with such consultants and advisors as necessary to discuss
+research, development and testing strategies and specific details of certain
+projects. Certain of the listed consultants and advisors have entered into
+agreements specifying the terms and scope of their individual advisory
+relationship with the Company. The Company does not believe that termination of
+any individual consulting or advisory agreement would materially affect its
+business. None of the consultants or advisors are employed by the Company and,
+therefore, may have commitments to, or consulting or advisory contracts with,
+other entities which may compete with their obligations to the Company. The
+Company's consultants and advisors are as follows:
+
+ELI PINES, PH.D.......... ELI PINES, PH.D. previously served as a Vice President
+                          and the Chief Scientific Officer of the Company from
+                          June 1995 to July 2000.. From June 1992 to June 1995
+                          Dr. Pines served as vice president and chief technical
+                          officer for Fibratek, Inc., a biopharmaceutical
+                          company engaged in research, development and
+                          production of medical products. Prior to joining
+                          Fibratek, Inc., Dr. Pines was employed for seventee
+                          years by Johnson & Johnson, where his last position
+                          was n director of new products research and
+                          development with worldwide responsibilities for the
+                          Surgical Specialty Division of Johnson & Johnson
+                          Medical, Inc. Dr. Pines received a BS in Chemistry
+                          from Brooklyn College in 1968, a Ph.D. in Biophysics
+                          from Syracuse University in 1972 and conducted post
+                          doctoral research in Biochemistry at The Rockefeller
+                          University from 1972 to 1974.
+
+
+
+
+DANIEL COHN, PH.D........ Dr. Daniel Cohn is Professor of Biomaterials Science
+                          and Head of the Biomedical Polymers Research Group,
+                          Casali Institute of Applied Chemistry, Hebrew
+                          University, Jerusalem, Israel. Dr. Cohn's main areas
+                          of research are biomedical
+
+                                       10
+<PAGE>
+
+                          resorbable polymers, surface tailoring of polymeric
+                          biomaterials, biomedical composites and the
+                          development of polymeric scaffolds for tissue
+                          engineering. Dr. Cohn developed the Company's polymer
+                          technology.
+
+
+
+
+ALAN H. DECHERNEY, M.D. ..Dr. Alan DeCherney is Professor and Chairman,
+                          Department of Obstetrics and Gynecology at UCLA School
+                          of Medicine. Prior to that, Dr. DeCherney was Louis E.
+                          Phaneuf Professor and Chairman of the Department of
+                          Obstetrics and Gynecology at Tufts University School
+                          of Medicine, and Chief of Obstetrics and Gynecology at
+                          the New England Medical Center. Prior to this, Dr.
+                          DeCherney was Director of the Division of Reproductive
+                          Endocrinology, and was John Slade Ely Professor of
+                          Obstetrics and Gynecology at Yale University School of
+                          Medicine. He has been President of the International
+                          Society of Gynecologic Endoscopy, the Society of
+                          Assisted Reproductive Technologies, the Society of
+                          Reproductive Surgeons, the Society of Reproductive
+                          Endocrinologists, the American Society of Reproductive
+                          Medicine, and the Society of Gynecologic
+                          Investigation. Dr. DeCherney is a member of the
+                          American Board of Obstetrics and Gynecology, is an
+                          Associate Editor of the NEW ENGLAND MEDICAL JOURNAL,
+                          and Editor of ASSISTED REPRODUCTIVE REVIEWS. In 1987,
+                          Dr. DeCherney was recipient of the President's
+                          Achievement Award of the Society of Gynecologic
+                          Investigation.
+
+
+
+
+MICHAEL P. DIAMOND, M.D.  Dr. Michael P. Diamond, since 1994, has served as
+                          Professor of Obstetrics and Gynecology at Wayne State
+                          University in Detroit, Michigan, and Director of the
+                          Division of Reproductive Endocrinology and
+                          Infertility. Dr. Diamond is a Board-certified
+                          Obstetrician/Gynecologist with a subspecialization in
+                          Reproductive Endocrinology and Infertility. Dr.
+                          Diamond previously served on the faculty at Yale
+                          University, and as Associate Professor of Obstetrics
+                          and Gynecology, and Director of the Division of
+                          Reproductive Endocrinology and Infertility at
+                          Vanderbilt University. He has long-standing
+                          involvement in animal and clinical trials assessing
+                          postoperative adhesion development.
+
+
+
+GERE S. DIZEREGA, M.D. .. Dr. Gere S. diZerega is Professor, Department of
+                          Obstetrics and Gynecology at Women's' Hospital,
+                          University of Southern California Medical Center. Dr.
+                          diZerega's area of research include post-operative
+                          adhesions, peritoneal healing and post-surgical wound
+                          repair.
+
+
+
+GARY L. LOOMIS, PH.D. ... Dr. Gary Loomis is founder, president and senior
+                          consultant of G. L. Loomis & Associates, Inc., a firm
+                          providing technical expertise in polymer science to a
+                          diverse international client base. Dr. Loomis is
+                          internationally renowned as an expert in the
+                          preparation, modification, evaluation and processing
+                          of polymers, especially bioresorbable polymers for
+                          medical devices and drug delivery applications.
+
+
+MEHMET C. OZ, M.D. ...... Dr. Mehmet C. Oz is Irving Assistant Professor of
+                          Surgery at Columbia University College of Physicians
+                          and Surgeons, New York and Director of The Assist
+                          Device Program and attending surgeon of the Division
+                          of Cardiothoracic Surgery at New York-Presbyterian
+                          Medical Center, New York.
+
+ERIC A. ROSE,  M.D. ..... Dr. Eric A. Rose is Chairman, Department of Surgery at
+                          College of Physicians & Surgeons of Columbia
+                          University, New York, Surgeon-in-Chief of
+                          Columbia-
+
+
+
+                                       11
+<PAGE>
+
+                          Presbyterian Medical Center, New York and Director,
+                          Cardio-Thoracic Services at St. Michael's Medical
+                          Center, Newark, New Jersey.
+
+
+HISTORY
+
+     The Company is a Delaware corporation which was organized in August 1990
+under the name BioMedical Polymers International, Ltd. The Company changed its
+name to Life Medical Sciences, Inc. in June 1992.
+
+RISK FACTORS
+
+RISK THAT TECHNOLOGIES OR PROPOSED PRODUCTS WILL NEVER BE SUCCESSFULLY DEVELOPED
+
+      The Company's polymer technology and proposed products are still under
+development and are subject to the risks of failure inherent in the development
+of new technologies and products based on new technologies. The Company's
+polymer technology and proposed products will require significant further
+research, development and testing, including extensiveclinical testing and
+regulatory approval, prior to commercial use. Unsuccessful results from clinical
+trials of the Company's proposed products or adverse findings with respect to
+these products could adversely affect some or all of the Company's proposed
+products. No assurance can be given that such proposed products will prove to be
+safe, efficacious and non-toxic, receive requisite regulatory approvals,
+demonstrate substantial therapeutic benefit, be commercialized on a timely
+basis, experience no design or manufacturing problems, be manufactured on a
+large scale, be economical to market, be accepted by the marketplace, or
+generate sufficient revenues to support future research and development
+programs. In addition, no assurance can be given that proprietary rights of
+third parties will not preclude the Company from marketing its proposed products
+or that third parties will not market superior or equivalent products.
+
+RISKS ASSOCIATED WITH UNCERTAINTIES OF CLINICAL TRIALS
+
+      The Company is required to obtain approval from the FDA prior to marketing
+its proposed therapeutic products in the United States and the approval of
+foreign regulatory authorities to commercialize its proposed products in other
+countries. To obtain such approvals, the Company is required to prove the safety
+and efficacy of its proposed products through extensive preclinical studies and
+clinical trials. The Company is in various stages of such testing. The
+completion of any of the Company's clinical trials is dependent upon many
+factors including the rate of patient enrollment and the heterogeneity of the
+patients and indications to be treated. Delays in patient enrollment, as well as
+the heterogeneity of patients and indications to be treated, may result in
+increased trial costs and delays in FDA submissions, which could have a material
+adverse effect on the Company.
+
+      A number of companies in the biotechnology and pharmaceutical industries
+have suffered significant setbacks in clinical trials, even after showing
+promising results in earlier studies or trials. Although the Company has
+obtained favorable results to date in preclinical studies and clinical trials of
+certain of its proposed products, such results may not be predictive of results
+that will ultimately be obtained in or throughout such preclinical studies and
+clinical trials. There can be no assurance that the Company will not encounter
+problems in its clinical trials that will cause the Company to delay or suspend
+its clinical trials, that the clinical trials of its proposed products will be
+completed at all, that such testing will ultimately demonstrate the safety or
+efficacy of such proposed products or that any proposed products will receive
+regulatory approval on a timely basis, if at all. If any such problems occur, it
+could have a material adverse affect on the Company.
+
+CAPITAL NEEDS; UNCERTAINTY OF ADDITIONAL FUNDING; GOING CONCERN EMPHASIS IN
+AUDITORS REPORT: LOSS ON SALE OR MERGER
+
+      The Company's available cash will not be sufficient to meet its
+cash requirements through 2001. As a result of the Company's limited capital
+resources, the Company's auditors have indicated in their report that there is
+substantial doubt about the Company's ability to continue as a going concern.
+The Company will be required to raise substantial additional funds to fund
+existing operations, continue to conduct necessary research and development,
+preclinical studies and clinical trials, to commercialize its proposed products,
+and to fund the growth that is expected to occur if any of its proposed products
+
+                                       12
+<PAGE>
+
+are approved for marketing. The Company is seeking such additional funding
+through collaborative arrangements with strategic partners, licensing
+arrangements for certain of its proposed products, and additional public or
+private financings, including equity financings. Any additional equity
+financings may be dilutive to stockholders. There can be no assurance that such
+arrangements or financings will be available as needed or on terms acceptable to
+the Company. Insufficient funds may require the Company to delay, scale back or
+eliminate some or all of its research and development programs and manufacturing
+and marketing efforts, or require it to license to third parties certain
+products or technologies that the Company would otherwise seek to commercialize
+itself. If the Company is not able to raise additional funds as needed to
+continue its research and development programs and for its intended
+manufacturing and marketing efforts, it may become necessary for the Company to
+attempt to be merged or sold in whole or in part with or to another entity.
+There can be no assurance that such a sale or merger would be available, but if
+it were, the proceeds to the Company or its stockholders from such a sale or
+merger could be substantially less than the amount invested by stockholders in
+the Company, resulting in significant losses to the stockholders on their
+investment in the Company's securities.
+
+LIMITED OPERATING HISTORY; HISTORY OF LOSSES
+
+      The Company has a limited history of operations that, to date, has
+consisted primarily of research, development and testing of its technologies and
+the commercialization of CLINICEL(TM) and the Sure-Closure System. With the
+exception of the third quarter of 1994, when the gain on the sale of the
+Sure-Closure System was realized, and the first quarter of 1999, when other
+income was recorded related to the reduction of prior period debt, the Company
+has incurred significant net losses from its inception. The Company experienced
+net losses of $7,602,000, $955,000 and $437,000 for the years ended December 31,
+1998, 1999 and 2000 respectively. At December 31, 2000, the Company had an
+accumulated deficit of $36,825,000 which has increased since that date. Although
+recent capital constraints have reduced spending levels, the Company continues
+to expend financial and other resources on (i) research, development and testing
+of its polymer technology and proposed products utilizing this technology and
+(ii) general and administrative expenses. The Company expects to incur
+additional losses as its research, development and preclinical studies and
+clinical trials continue to expand. The Company's ability to achieve a
+profitable level of operations is dependent on successfully completing the
+development of its proposed products, obtaining required regulatory approvals,
+and manufacturing and selling its proposed products. Accordingly, the extent of
+future losses and the time required to achieve profitability, if ever, is
+uncertain. There can be no assurance that the Company will achieve or sustain a
+profitable level of operations.
+
+         In February 2001, the Company was notified of a lawsuit filed against
+the Company and its principal executive officer in the Magistrate Court of
+Haifa, Israel by Dimotech, Ltd. for the non-payment of royalties and accrued
+interest in the amount of approximately $125,000 under the terms of the Dimotech
+Agreement.
+
+RELIANCE ON OUTSIDE CONSULTANTS AND CONTRACTORS
+
+         The Company seeks to protect its trade secrets and proprietary
+know-how, in part, through confidentiality agreements with its employees,
+consultants, advisors, collaborators and others. There can be no assurance that
+these agreements will not be violated by the other parties, that the Company
+will have adequate remedies for any breach, or that the Company's trade secrets
+will not otherwise become known or be independently developed by competitors.
+The Company has relationships with a number of academic consultants who are
+employed by organizations other than the Company. Accordingly, the Company has
+limited control over their activities and can expect only limited amounts of
+their time to be dedicated to the Company's activities. These persons may have
+consulting, employment or advisory arrangements with other entities that may
+conflict or compete with their obligations to the Company. Consultants generally
+sign agreements that provide for confidentiality of the Company's proprietary
+information and results of studies. There can be no assurance, however, that the
+Company will, in connection with every relationship, be able to maintain the
+confidentiality of the Company's technology, dissemination of which could have a
+materially adverse effect on the Company's business. To the extent that the
+Company's scientific consultants develop inventions or processes independently
+that may be applicable to the Company's proposed products, disputes may arise as
+to the ownership of the proprietary rights to such information. Such inventions
+or processes will not necessarily become the property of the Company, but may
+remain the property of such persons or their full-time employers. The Company
+could be required to make payments to the owners of such inventions or
+processes, either in the form of cash, equity or a combination thereof. In
+addition, protracted and costly litigation may be necessary to enforce and
+determine the scope and validity of the Company's proprietary rights.
+
+NO ASSURANCE OF REGULATORY APPROVALS; POTENTIAL DELAYS
+
+                                       13
+<PAGE>
+
+      The Company's proposed products will be subject to regulation by the FDA
+and comparable agencies in foreign countries. The regulatory approval process
+often takes a number of years and requires the expenditure of substantial funds.
+In the United States, the FDA enforces, where applicable, development, testing,
+labeling, manufacturing, registration, notification, clearance or approval,
+marketing, distribution, recordkeeping and reporting requirements for new drugs,
+medical devices, biologics and cosmetics. In addition, there can be no assurance
+that government regulations applicable to the Company's products or the
+interpretation of those regulations will not change and thereby prevent the
+Company from marketing some or all of its products temporarily or permanently.
+There can be no assurance that any proposed products that may be developed by
+the Company will be able to satisfy the current requirements and regulations of
+the FDA or comparable foreign agencies. There can be no assurance that the
+Company's proposed products will ever obtain the regulatory clearance or
+approval required for marketing. Products utilizing the Company's polymer
+technology are likely to be regulated by the FDA as medical devices.
+
+      Whether or not FDA approval has been obtained, approval of a medical
+device by comparable regulatory authorities in other countries must be obtained
+prior to marketing the product in those countries. The approval process varies
+by country and the time required may be longer or shorter than that required for
+FDA approval. There can be no assurance that clinical testing will provide
+evidence of safety and efficacy in humans or that regulatory approvals will be
+granted for any of the Company's products. Manufacturers of medical devices are
+required to obtain FDA approval of their manufacturing facilities and processes,
+to adhere to applicable standards for manufacturing practices and to engage in
+extensive recordkeeping and reporting. Failures to obtain or delays in obtaining
+regulatory approvals would adversely affect the manufacturing and marketing of
+the Company's products, the Company's financial position and the Company's
+revenues or royalties. When and if approvals are granted, the Company, the
+approved device, the manufacture of such device and the facilities in which such
+device is manufactured are subject to ongoing regulatory review. Subsequent
+discovery of previously unknown problems may result in restriction on a
+product's use or withdrawal of the product from the market. Adverse government
+regulation that might arise from future legislative or administrative action,
+particularly as it relates to healthcare reform and product pricing, cannot be
+predicted.
+
+PATENTS AND PROPRIETARY RIGHTS; NO ASSURANCE OF ENFORCEABILITY OR SIGNIFICANT
+COMPETITIVE ADVANTAGE
+
+      The Company's success will depend heavily on its ability to obtain and
+retain patent protection for its polymer technology and other products, to
+preserve its trade secrets and to operate without infringing the proprietary
+rights of third parties. The Company owns three United States patents, one
+Canadian patent and two Israeli patents relating to its polymer technology. In
+addition, the Company has filed for patents in a number of countries and intends
+to file additional patent applications in other countries. There can be no
+assurance that the claims in the pending patent applications will issue as
+patents, that any issued patents will provide the Company with significant
+competitive advantages, that challenges will not be instituted against the
+validity or enforceability of any patent owned by the Company, or, if
+instituted, that such challenges will not be successful. The cost of litigation
+to uphold the validity and prevent infringement of a patent can be substantial.
+Furthermore, there can be no assurance that others will not independently
+develop similar or superior technologies, duplicate the Company's technologies
+or design around the patented aspects of the Company's technologies. The Company
+could incur substantial costs in proceedings before the United States Patent and
+Trademark Office, including interference proceedings. The proceedings could also
+result in adverse decisions as to the patentability of the Company's licensed or
+assigned inventions. Further, there can be no assurance that the Company will
+not infringe upon prior or future patents owned by others, that the Company will
+not need to acquire licenses under patents belonging to others for technology
+potentially useful or necessary to the Company, or that such licenses will be
+available to the Company, if at all, on terms acceptable to the Company.
+Moreover, there can be no assurance that any patent issued to or licensed by the
+Company will not be infringed by others. Lastly, there can be no assurance that
+third parties will not bring suits against the Company for patent infringement
+or for declaratory judgment to have the patents owned or licensed by the Company
+declared invalid.
+
+      The Company seeks to protect its trade secrets and proprietary know-how,
+in part, through confidentiality agreements with its employees, consultants,
+advisors, collaborators and others. There can be no assurance that these
+agreements will not be violated by the other parties, that the Company will have
+adequate remedies for any breach, or that the Company's trade secrets will not
+otherwise become known or be independently developed by competitors. To the
+extent that consultants, key employees, third parties involved in the Company's
+projects or others independently develop technological information, disputes may
+arise as to the proprietary rights to such information, which may not be
+resolved in favor of the Company.
+
+DEPENDENCE ON REIMBURSEMENT
+
+                                       14
+<PAGE>
+
+      Successful commercialization of the Company's proposed products may depend
+in part on the availability of adequate reimbursement from third-party health
+care payors such as Medicare, Medicaid and private insurance plans.
+Reimbursement matters include both coverage issues and payment issues. Questions
+of coverage raise the issue of whether a product will be paid for at all and
+under what circumstances. Questions of payment relate to the amount or level of
+payment. Reimbursement policies vary among payors and may depend on the setting
+in which a product is used.
+
+      Significant uncertainty exists as to the reimbursement status of newly
+approved health care products. There can be no assurance that adequate
+third-party reimbursement will be available for the Company to establish and
+maintain price levels sufficient for realization of an appropriate return on its
+investment in developing new therapies. Government and other third-party payors
+are increasingly attempting to contain health care costs by limiting both
+coverage and payment levels for new therapeutic products approved for marketing
+by the FDA and by refusing, in some cases, to provide any coverage for uses of
+approved products for disease indications for which the FDA has not granted
+marketing approval. If adequate coverage and payment levels are not provided by
+government and third-party payors for the Company's proposed products, the
+market acceptance of these products would be adversely affected. Failure of the
+Company's proposed products to be adequately reimbursed by third-party payors
+could have a material adverse effect on the Company.
+
+UNCERTAIN MARKET ACCEPTANCE OF PROPOSED PRODUCTS
+
+      The Company's future growth and profitability will depend, in large part,
+on the acceptance by the medical community of the Company's proposed products.
+This acceptance will be substantially dependent on educating the medical
+community as to the full capabilities, distinctive characteristics, perceived
+benefits and clinical efficacy of the Company's proposed products. There can be
+no assurance that the Company's efforts or those of others will be successful or
+that any of the Company's proposed products will receive the necessary market
+acceptance. Failure of the Company's proposed products to gain market acceptance
+would have a material adverse effect on the Company.
+
+RISK OF NOT OBTAINING ADDITIONAL  MANUFACTURING  FACILITIES AND EXPERIENCED
+MANUFACTURING PERSONNEL AND/OR ESTABLISHING  MANUFACTURING ARRANGEMENTS WITH
+OTHERS
+
+      The Company believes it currently has contracted for sufficient
+manufacturing capabilities to allow for production of its proposed products in
+quantities sufficient to support its anticipated commercial needs and clinical
+programs. To be successful, however, the Company must be capable of
+manufacturing or contracting for the manufacture of its products in commercial
+quantities, in compliance with regulatory requirements and at acceptable costs.
+The Company may manufacture certain products directly at such time, if ever,
+that such products are successfully developed. The Company has no experience
+with the direct manufacture of these proposed products although certain of the
+Company's officers have had experience in similar activities for other
+companies. The manufacture of these proposed products is complex and difficult,
+and will require the Company to attract and retain experienced manufacturing
+personnel and to obtain the use of a manufacturing facility in compliance with
+FDA and other regulatory requirements. There can be no assurance that
+experienced personnel can be attracted to or retained by the Company, or that
+the Company will be able to obtain the financing necessary to manufacture these
+products directly.
+
+RISK OF TERMINATION OF, OR LOSS OF RIGHTS TO, TECHNOLOGIES UNDER AGREEMENTS WITH
+OTHERS
+
+      The Company has acquired the rights to its technologies pursuant to
+agreements with research institutions. Such agreements contain provisions
+requiring the Company, among other things, to develop, commercialize and/or
+market products, to achieve minimum sales and/or income levels within certain
+periods of time, to meet minimum funding requirements and to make royalty
+payments in order to maintain the patents and other rights granted thereunder.
+In addition, the patents and proprietary rights revert to the grantor on certain
+dates and/or upon the occurrence of certain conditions. In light of the
+Company's current capital resource constraints, there can be no assurance that
+said conditions will not occur. In the event that certain patents and
+proprietary rights were to revert to the grantor, it would have a material
+adverse affect on the Company.
+
+DEPENDENCE UPON THIRD PARTIES FOR CLINICAL DEVELOPMENT OF PROPOSED PRODUCTS
+
+                                       15
+<PAGE>
+
+      The Company may enter into strategic alliances for the clinical
+development of certain of its proposed products. There can be no assurance that
+the Company will be successful in obtaining satisfactory agreements with
+strategic partners. In addition, there can be no assurance that the interests
+and motivations of any strategic partner would be or remain consistent with
+those of the Company or that such partner would successfully perform its
+obligations.
+
+
+
+COMPETITION AND TECHNOLOGICAL OBSOLESCENCE
+
+      The Company is engaged in rapidly evolving and highly competitive fields.
+Competition from biotechnology companies, medical device manufacturers,
+pharmaceutical and chemical companies and other competitors is intense. Many of
+these companies have substantially greater capital resources, research and
+development staffs, facilities and experience in obtaining regulatory approvals
+than the Company as well as substantially more experience than the Company in
+the manufacturing, marketing and sale of products. Academic institutions,
+hospitals, governmental agencies and other public and private research
+organizations are also conducting research and seeking patent protection and may
+develop competing products or technologies on their own or through joint
+ventures. The Company believes that its competitive position will be based on
+its ability to create and maintain scientifically advanced technology and
+proprietary products, obtain required government approvals on a timely basis,
+develop and manufacture its proposed products on a cost-effective basis and
+successfully market its products. There can be no assurance that the Company's
+current or proposed products under development will be able to compete
+successfully with existing products or products under development by other
+companies, universities and other institutions or that they will attain
+regulatory approval in the United States or elsewhere.
+
+RISK OF USING HAZARDOUS MATERIALS
+
+      Medical and biopharmaceutical research and development involves the
+controlled use of hazardous materials. The Company is subject to federal, state
+and local laws and regulations governing the use, manufacture, storage, handling
+and disposal of such materials and certain waste products. Although the Company
+believes that all of its current contractors comply and future contractors will
+comply with safety procedures for handling and disposing of such materials under
+the standards prescribed by federal, state and local regulations, the risk of
+accidental contamination or injury from those materials cannot be completely
+eliminated. In the event of such an accident, the Company could be held liable
+for any damages that result and any such liability could exceed the resources of
+the Company.
+
+DEPENDENCE UPON ATTRACTION AND RETENTION OF KEY PERSONNEL AND CONSULTANTS
+
+      The Company is dependent upon a limited number of key management,
+scientific and technical personnel. In addition, the Company's future success
+will depend in part upon its ability to attract and retain highly qualified
+personnel. The Company competes for such personnel with other companies,
+academic institutions, government entities and other organizations. There can be
+no assurance that the Company will be successful in hiring or retaining
+qualified personnel. Loss of key personnel or the inability to hire or retain
+qualified personnel could have a material adverse effect on the Company. In
+addition, the Company relies upon consultants and advisors to assist the Company
+in formulating its research and development strategies, testing and
+manufacturing and marketing-related issues. All of the Company's consultants and
+advisors are employed outside the Company and may have commitments or consulting
+or advisory contracts with other entities.
+
+RISK OF PRODUCT LIABILITY CLAIMS; INSURANCE
+
+      The Company's business exposes it to potential liability risks that are
+inherent in the testing, manufacturing and marketing of medical products. The
+use of the Company's proposed products in clinical trials may expose the Company
+to product liability claims and possible adverse publicity. These risks also
+exist with respect to the Company's proposed products, if any, that receive
+regulatory approval for commercial sales. The Company currently has product
+liability insurance coverage for the use of its proposed products in clinical
+trials and for CLINICEL products. However, there can be no
+
+
+
+                                       16
+<PAGE>
+
+assurance that the Company will be able to obtain additional insurance coverage
+at acceptable costs, if at all, or be able to maintain the current level of
+insurance. Further, there can be no assurance that a product liability claim
+would not materially adversely affect the Company. A product liability or other
+judgment against the Company in excess of the Company's insurance coverage could
+have a material adverse effect upon the Company.
+
+RISK INHERENT IN INTERNATIONAL SALES AND OPERATIONS
+
+      The Company intends to sell its proposed products outside of the United
+States, as well as domestically. A number of risks are inherent in international
+transactions. International sales and operations may be limited or disrupted by
+the imposition of governmental controls, regulation of medical devices and other
+medical products, export license requirements, political instability, trade
+restrictions, changes in tariffs, exchange rate fluctuations and difficulties in
+managing international operations.
+
+
+
+
+ANTI-TAKEOVER PROVISIONS
+
+      The Company's Restated Certificate of Incorporation, as amended (the
+"Restated Certificate of Incorporation") authorizes the issuance of a maximum of
+5,000,000 shares of preferred stock ("Preferred Stock") on terms that may be
+fixed by the Company's Board of Directors without further stockholder action.
+The terms of any series of Preferred Stock could adversely affect the rights of
+holders of the Common Stock. 500,000 preferred shares have been issued to date.
+The issuance of Preferred Stock could make the possible takeover of the Company
+more difficult or otherwise dilute the rights of holders of the Common Stock and
+the market price of the Common Stock. In addition, the Company is subject to
+Delaware General Corporation Law provisions that may have the effect of
+discouraging persons from pursuing a non-negotiated takeover of the Company and
+preventing certain changes of control.
+
+SHARES ELIGIBLE FOR FUTURE SALE; OUTSTANDING WARRANTS AND OPTIONS; REGISTRATION
+RIGHTS
+
+      Of the Company's 10,343,342 shares of Common Stock outstanding as of March
+2000, 3,354,542 shares are "restricted securities," as defined in Rule 144 of
+the Securities Act, and under certain circumstances may be sold without
+registration pursuant to Rule 144. The Company is unable to predict the effect
+that sales made under Rule 144, or otherwise, may have on the then prevailing
+market price of the Common Stock. Any substantial sale of restricted securities
+pursuant to Rule 144 may have an adverse effect on the market price of the
+Common Stock. The "restricted securities" are eligible for sale under Rule 144.
+
+      In December 2000, the Company issued 500,000 shares of Series A
+Convertible Preferred Stock, each share of Preferred Stock being convertible
+into 10 shares of the Company's Common Stock as of the earlier of six months
+from the issuance date or the closing date of a subsequent financing. The
+holders of the Series A Convertible Preferred Stock are entitled anti-dilution
+protection and piggyback registration rights. Any such registration and possible
+subsequent sale of the registered shares may have a negative effect on the then
+prevailing market price of the Common Stock.
+
+      The Company has outstanding (i) Class A Warrants and Class B Warrants,
+which could result in the issuance of 4,768,059 additional shares of Common
+Stock, (ii) 198,667 shares of Common Stock issuable upon exercise of options
+which have been granted under the Company's Amended and Restated 1992 Stock
+Option Plan (the "Plan"), (iii) 882,139 shares of Common Stock issuable upon
+exercise of options which have been granted under the Company's 2000
+Non-Qualified Stock Option Plan and (iv) 2,620,021 shares of Common Stock
+issuable upon exercise of currently outstanding options granted outside the
+Plan. In connection with the public offering in May 1996, the Company sold to
+the underwriter of that offering, a warrant to purchase 200,000 shares of Common
+Stock. Such warrant is exercisable for a period of five years, commencing May 3,
+1997 and has an exercise price of $7.95 per share. The foregoing options and
+warrants are likely to be exercised at a time when the Company might be able to
+obtain additional equity capital on more favorable terms. While these options
+and warrants are outstanding, they may adversely affect the terms on which the
+Company could obtain additional capital. The Company cannot predict the effect,
+if any, that market sales of Common Stock, the exercise of options or warrants
+or the availability of such Common Stock for sale will have on the market price
+prevailing from time to time. In addition, if the exercise price of options or
+warrants are adjusted downward, such options or warrants may be exercised sooner
+than otherwise with a resulting increase in the number of shares of Common Stock
+available for sale on the market.
+
+                                       17
+<PAGE>
+
+POSSIBLE VOLATILITY OF STOCK PRICE
+
+      The stock market has from time to time experienced significant price and
+volume fluctuations that are unrelated to the operating performance of
+particular companies. In addition, the market price of the Company's Common
+Stock and the Class A and Class B Warrants has been and is likely to continue to
+be highly volatile. Factors such as fluctuations in the Company's operating
+results, and/or ability to obtain capital, shortfalls in revenue or earnings
+from levels expected by securities analysts, announcements of technological
+innovations or new products by the Company or its competitors, governmental
+regulations, developments with respect to patents or proprietary rights,
+litigation, public concern as to the safety of products developed by the Company
+or others and general market conditions may have a significant adverse effect on
+the market price of the Common Stock and the Warrants.
+
+ITEM 2.  PROPERTIES
+
+     The Company's offices are currently located in an aggregate of
+approximately 500 square feet in Oceanport New Jersey. Although there is no
+rental expense associated with this space; the Company remains bound by the
+terms of a five year lease expiring in November 2001 for its prior offices. The
+lease expense in 2001 is estimated at $67,000.
+
+     The Company's research and development activities and clinical studies are
+currently conducted at various hospitals and universities in the United States
+and certain European countries. The Company believes that these facilities are
+adequate for its current research and development needs. The Company will be
+required to add additional sites in connection with its expanded development and
+testing activities. Currently the Company utilizes contract manufacturing
+organizations to produce its proposed products for research and development
+activities, clinical studies and for commercial sale.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     In February 2001, the Company was notified of a lawsuit filed against the
+Company and its chief executive officer in the Magistrate Court of Haifa, Israel
+by Dimotech, Ltd. for the non-payment of royalties and accrued interest in the
+amount of $125,000 under the terms of the Dimotech Agreement for CLINICEL
+products.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None.
+                                       18
+<PAGE>
+
+                                     PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+         MATTERS.
+
+(a)      MARKET INFORMATION
+
+         The Company's Common Stock, Class A Warrants, and Class B Warrants have
+traded separately on the National Association of Securities Dealers Automated
+Quotation System ("Nasdaq") Stock Market under the symbols CHAI, CHAIW, and
+CHAIZ, respectively, from September 22, 1992 to August 27, 1998. Effective
+August 28, 1998, the Company's securities were delisted from the Nasdaq because
+the Company failed to satisfy applicable maintenance criteria. Since delisting
+from Nasdaq, the company's Common Stock, Class A Warrants, and Class B Warrants
+have been quoted on the OTC Bulletin Board. The following sets forth the
+quarterly high and low sales price for the periods presented. Such quotations
+reflect inter-dealer prices, without retail mark-up, mark-down or commission and
+may not necessarily represent actual transactions.
+<TABLE>
+<CAPTION>
+
+                                                                        CLASS A               CLASS B
+                                                COMMON STOCK            WARRANT               WARRANT
+                                                SALES PRICE           SALES PRICE           SALES PRICE
+                                              -----------------    ------------------    ------------------
+                                                HIGH       LOW        HIGH       LOW       HIGH       LOW
+                                                ----       ---        ----       ---       ----       ---
+<S>                                           <C>           <C>      <C>        <C>        <C>        <C>
+Fiscal Year Ended December 31, 1999
+       First Quarter                          $ 1 3/32      $1/4     $ 7/64     $ 1/64     $1/100     $1/100
+       Second Quarter                            13/16      15/32      1/16       1/32      1/100      1/100
+       Third Quarter                             15/16      17/32      5/64       1/32      1/100      1/100
+       Fourth Quarter                             7/8        1/4       1/32       1/64      1/100      1/100
+
+Fiscal Year Ended December 31, 2000
+       First Quarter                            1 5/8        5/16      1/100      1/100     1/100      1/100
+       Second Quarter                            23/32       7/32      1/100      1/100     1/100      1/100
+       Third Quarter                              9/32       3/32      1/100      1/100     1/100      1/100
+       Fourth Quarter                             5/32       3/64      1/100      1/100     1/100      1/100
+
+Fiscal Year Ended December 31, 2001
+       January 1 through March 13, 2001          33/64      14/64      2/100      1/100     1/100      1/100
+</TABLE>
+
+
+
+
+
+         Each Class A Warrant entitles the holder to purchase, at an exercise
+price of $8.40, subject to adjustment, 1.071474 shares of Common Stock and one
+Class B Warrant, and each Class B Warrant entitles the holder to purchase, at an
+exercise price of $12.60, subject to adjustment, 1.071474 shares of Common
+Stock. These exercise prices were adjusted from the initial exercise prices of
+$9.00 and $13.50 per share, respectively, at the time the Class A Warrants and
+Class B Warrants were issued due primarily to public offerings completed in the
+second half of 1993 and the first half of 1996. The Class A Warrants and the
+Class B Warrants (collectively, the "Warrants"), are exercisable at any time
+after issuance until March 21, 2002. The Warrants are subject to redemption by
+the Company for $.05 per Warrant, upon 30 days written notice, if the average
+closing bid price of the Common Stock exceeds $12.60 per share with respect to
+Class A Warrants and $18.90 per share with respect to Class B Warrants (subject
+to adjustment in each case) for 20 consecutive business days ending the date on
+which the notice of redemption is given. The exercise prices and number of
+shares underlying these Warrants do not reflect anti-dilution adjustments in
+respect to any transactions which occurred since May 1996.
+
+         In December 2000, the Company completed a private placement in which
+500,000 shares of Series A Convertible Preferred Stock were sold to "accredited
+investors" as defined in Rule 501 of Regulation D in consideration for cash
+proceeds of $500,000. Each share of the Series A offering is convertible into
+ten shares of the Company's common stock as of the earlier of six months from
+the issuance date or the closing date of a subsequent financing.
+
+(b)      APPROXIMATE NUMBER OF EQUITY SECURITIES HOLDERS
+
+         As of March 13, 2001 the number of holders of record of the Company's
+Common Stock was 185. The Company believes that the number of beneficial holders
+of its Common Stock on such date was in excess of 2,900.
+
+
+                                       19
+<PAGE>
+
+(c)      DIVIDENDS
+
+         The Company has never paid a cash dividend on its Common Stock and
+anticipates that for the foreseeable future any earnings will be retained for
+use in its business and, accordingly, does not anticipate the payment of any
+cash dividends.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The selected financial data presented below (in thousands, except per share
+data), for the years ended December 31, 1996, 1997, 1998,1999 and 2000 have been
+derived from audited financial statements of the Company. The financial
+statements of the Company at December 31, 1999 and 2000 and for the years ended
+December 31, 1998, 1999 and 2000, together with the notes thereto and the
+related report of Richard A. Eisner & Company, LLP, independent auditors, are
+included elsewhere in this Form 10-K. The selected financial data set forth
+below should be read in conjunction with the Financial Statements of the Company
+and related notes thereto and "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" included elsewhere in this Form 10-K.
+<TABLE>
+<CAPTION>
+
+                                                                              YEAR ENDED DECEMBER 31,
+                                                                              -----------------------
+                                                             1996           1997            1998          1999             2000
+                                                             ----           ----            ----          ----             ----
+<S>                                                   <C>           <C>              <C>          <C>              <C>
+STATEMENT OF OPERATIONS DATA: 2000
+
+Revenues:
+     Product Sales                                                                   $     1,715   $     1,201      $        58
+     Royalty Income                                   $       155   $         64              55            48               43
+                                                      -----------   ------------     ------------  -----------      -----------
+     Total Revenue                                            155             64           1,770         1,249              101
+Cost of Sales                                                                                820           556                4
+                                                                                     -----------   -----------      -----------
+Gross Margin                                                                                 950           693               97
+Operating Expenses:
+     Research and development                               2,779          6,721           3,584           788              316
+     Sales and marketing                                                                   3,142           437               20
+     General and administrative                             1,743          2,012           1,982         1,684              759
+                                                      -----------    -----------    ------------   -----------      -----------
+          Operating expenses                                4,522          8,283           8,708         2,909            1,095
+                                                      -----------    -----------    ------------   -----------      -----------
+(Loss) from operations                                     (4,367)        (8,219)         (7,758)       (2,216)            (998)
+Interest income                                               540            557             161            16               11
+Interest expense                                               (3)            (4)             (5)           (4)              (1)
+                                                      -----------    -----------    ------------   -----------      -----------
+Net (loss) before benefit for income tax and               (3,830)        (7,666)         (7,602)       (2,204)            (988)
+extraordinary item
+Benefit for income taxes                                                                                   817              468
+                                                      -----------    -----------    ------------   -----------      -----------
+Net (loss) before extraordinary item                       (3,830)        (7,666)         (7,602)       (1,387)            (520)
+Extraordinary Item                                                                                         432                -
+Net (loss)                                            $    (3,830)    $   (7,666)    $    (7,602)  $      (955)            (520)
+                                                      ===========     ==========     ===========   ===========     ===========
+Net (loss) per share                                  $      (.55)    $     (.97)    $      (.96)  $      (.11)            (.05)
+                                                      ===========     ==========     ===========   ===========     ===========
+Weighted average shares
+     Outstanding                                            6,976          7,919           7,923         8,715           10,155
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+
+                                                                            DECEMBER 31,
+                                                                            ------------
+
+                                                       1996              1997             1998           1999            2000
+                                                       ----              ----             ----           ----            ----
+<S>                                              <C>                 <C>              <C>        <C>                <C>
+BALANCE SHEET DATA:
+
+Cash, cash equivalents and investments           $   14,278          $  7,569         $    485   $        724       $      844
+Working capital (deficiency)                         14,121             5,975           (1,006)          (698)            (613)
+Total Assets                                         14,801             7,786            1,034            798              966
+Total Liabilities.                                    1,007             1,621            2,312          1,789            1,765
+Accumulated deficit                                 (20,165)          (27,831)         (35,433)       (36,388)         (36,908)
+Stockholders' equity (deficiency)                    13,794             6,165           (1,278)          (991)            (799)
+</TABLE>
+
+
+                                       20
+<PAGE>
+
+
+ITEM 7          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                       CONDITION AND RESULTS OF OPERATIONS
+
+FINANCIAL OVERVIEW
+
+     Since its inception, the Company has been engaged primarily in research and
+development of its technologies and proposed products, and the commercialization
+of CLINICEL and the Sure-Closure System. In early 2000, in conjunction with the
+discontinuation of the CLINICEL product line, the Company refocused its strategy
+solely toward the development of products for the prevention and/or reduction of
+post surgical adhesions.
+
+RESULTS OF OPERATIONS
+
+   1999 VS. 2000
+
+     The Company had revenue of $101,000 for the fiscal year ended December 31,
+2000 of which $58,000 was attributed to the sale of CLINICEL products and
+$43,000 represented royalties on sales of the Sure-Closure System. Total revenue
+for the fiscal year ended December 31, 1999 was $1,249,000, comprised of
+$1,201,000 in CLINICEL sales and $48,000 in royalties on sales of the
+Sure-Closure System. The decline in CLINICEL sales was due to the
+discontinuation of sale of CLINICEL products in February 2000.
+
+     Cost of goods sold for the fiscal year ended December 31, 2000 was $4,000
+as compared to $556,000 for the prior year. The reduction is attributable to the
+reduced level of CLINICEL sales and the write-off of certain inventories in the
+prior year.
+
+     Sales and marketing expenses declined to $20,000 in the fiscal year ended
+December 31, 2000 from $437,000 for the comparable period in 1999. The reduction
+reflected the elimination of consumer and professional advertising associated
+with the discontinuation of the sale of CLINICEL products.
+
+     The Company incurred research and development expenses of $316,000 and
+$788,000 for the fiscal years ended December 31, 2000 and 1999, respectively.
+The reduction was primarily attributable to the scale back of expenditures on
+several bioresorbable polymer-based product development programs.
+
+     General and administrative expenses totaled $759,000 for the fiscal year
+ended December 31, 2000 as compared to $1,684,000 for the previous fiscal year.
+The reduction was related to termination of most remaining staff members in July
+2000.
+
+     Interest income declined to $11,000 for the fiscal year ended December 31,
+2000 from $16,000 for the fiscal year ended December 31, 1999.
+
+     Interest expense was $1,000 and $4,000 for the fiscal years ended December
+31, 2000 and 1999, respectively.
+
+     The Company recorded a benefit for income taxes of $468,000 during the
+fiscal year ended December 31, 2000; compared to $817,000 in the prior year.
+These amounts were attributable to the receipt of funds associated with the sale
+of certain accumulated New Jersey State tax operating losses; the reduction
+compared to the prior year was largely the result of lower overall funding
+allocated by the State to the program.
+
+
+                                       21
+<PAGE>
+
+     The Company recorded an extraordinary item of $432,000 during the
+fiscal year ended December 31, 1999. This extraordinary item was attributable to
+a gain on the extinguishment of amounts owed to suppliers by the transfer of
+title to equipment that had previously been charged to research and development
+expenses.
+
+     The Company recorded a net loss of $520,000 for the fiscal year ended
+December 31, 2000 as compared to a net loss of $955,000 for the prior year. The
+decrease in the current period net loss is attributable to the reasons described
+above.
+
+   1998 VS. 1999
+
+     The Company had revenue of $1,249,000 for the fiscal year ended December
+31, 1999 of which $1,201,000 was attributed to the sale of CLINICEL products and
+$48,000 represented royalties on sales of the Sure-Closure System. Total for the
+fiscal year ended December 31, 1998 was $1,770,000 comprised of $1,715,000 in
+CLINICEL sales and $55,000 in royalties on sales of the Sure-Closure System. The
+decline in CLINICEL sales was largely related to reduced trade purchases and
+lower direct-to-consumer orders associated with lower advertising expenditures.
+
+     Cost of goods sold of $556,000 for the fiscal year ended December 31, 1999
+as compared to $820,000 for the prior year. The reduction is attributable to the
+reduced level of CLINICEL sales.
+
+     Sales and marketing expenses declined to $437,000 in the fiscal year ended
+December 31, 1999 from $3,142,000 for the comparable period in 1998. The
+reduction reflected lower levels of consumer and professional advertising and
+promotion expenditures in support of CLINICEL coupled with one-time start-up
+costs associated with the CLINICEL market launch in 1998.
+
+     The Company incurred research and development expenses of $788,000 and
+$3,584,000 for the fiscal years ended December 31, 1999 and 1998, respectively.
+The reduction was primarily attributable to the scale back of expenditures on
+several bioresorbable polymer-based product development programs and the
+completion in 1998 of CLINICEL clinical development activities.
+
+     General and administrative expenses totaled $1,684,000 for the fiscal year
+ended December 31, 1999 as compared to $1,982,000 for the previous fiscal year.
+The reduction was related to fewer employees.
+
+     Interest income declined to $16,000 for the fiscal year ended December 31,
+1999 to $161,000 for the fiscal year ended December 31, 1998. This decline is
+primarily attributable to the lower average balance of cash and investments
+during 1999 versus 1998.
+
+     Interest expense was $4,000 and $5,000 for the fiscal years ended December
+31, 1999 and 1998, respectively. For both 1998 and 1999, these amounts represent
+the interest on capital leases entered into during 1996 and 1997 on certain
+office equipment.
+
+     The Company recorded a benefit for income taxes of $817,000 during the
+fiscal year ended December 31, 1999; there was no similar entry recorded in
+1998. This was attributable to the receipt of funds associated with the sale of
+certain accumulated New Jersey State tax operating losses.
+
+     The Company recorded an extraordinary item of $432,000 during the fiscal
+year ended December 31, 1999; there was no similar entry in 1998. This
+extraordinary item was attributable to the gain on extinguishment of amounts
+owed to a contract manufacturer by the transfer of title to equipment that had
+previously been charged to research and development expenses.
+
+     The Company recorded a net loss of $955,000 for the fiscal year ended
+December 31, 1999 as compared to a net loss of $7,602,000 for the prior year.
+The decrease in the current period net loss is primarily attributable to the
+previously mentioned other income coupled with lower levels of operating
+expenses.
+
+
+                                       22
+<PAGE>
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     At December 31, 2000, the Company had cash and cash equivalents of $844,000
+compared to cash and cash equivalents of $724,000 at December 31, 1999. The
+primary use of these funds is to fund the Company's research and development
+related to anti-adhesion products and general and administrative expenses
+associated with these activities. In December 2000, the company received a
+payment of $468,000 in exchange for the transfer of certain New Jersey State tax
+benefits; $817,000 was received under this program in the prior year. The
+Company closed on a Series A Convertible Preferred Stock financing in December
+2000 which contributed $435,000 to cash flow.
+
+     At December 31, 2000, the Company had a working capital deficit of
+$513,000. The current cash and cash equivalents balance as of December 31, 2000
+will not be sufficient to meet the Company's cash requirements through 2001. The
+Company will be required to raise substantial additional funds to continue the
+clinical development and commercialization of its proposed products. There can
+be no assurance that such arrangements or financings will be available as needed
+or on terms acceptable to the Company. The Company plans to seek such additional
+funding through collaborative arrangements with strategic partners, licensing
+arrangements for certain of its proposed products and additional equity or debt
+financings. The Company continues to be in discussion with venture and private
+investors regarding a private placement of new equity in amounts sufficient to
+support near term operations and with its advisors regarding other financing
+vehicles. Any additional financings may be dilutive to existing stockholders.
+The Company is also pursuing other initiatives, including state tax benefit
+transfers and licensing/marketing agreements intended to improve its financial
+condition. The Company has reduced spending on certain programs as a means of
+preserving its cash resources.
+
+ITEM 7A.        QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+         The Company does not invest in derivative financial instruments.
+
+ITEM 8.         FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The Index to Financial Statements appears on page F-1, the Report of
+Independent Auditors appears on page F-2, and the Financial Statements and Notes
+to Financial Statements appear on pages F-3 to F-15.
+
+ITEM 9.         CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+                FINANCIAL DISCLOSURE.
+
+         None.
+
+
+
+
+
+                                       23
+<PAGE>
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+         Edward A. Celano,  age 62, has served as a director of the Company
+since November, 1996. Since February 2001, Mr. Celano has been Managing Director
+of the Corporate Finance Group of M. R. Weiser & Co., LLP, an investment banking
+firm. From May 1996 to January 2001, Mr. Celano had been an executive vice
+president of Atlantic Bank of New York, a commercial bank. From November 1984 to
+May 1996, Mr. Celano was a senior vice president of NatWest Bank, a commercial
+bank. Mr. Celano is currently a director of the following publicly traded
+companies: Entrade, Inc. and Asta Funding, Inc.
+
+         Gere S. diZerega, MD, age 51, has served as a director of the Company
+since December 2000. Since January 1987, Dr. diZerega has been Professor,
+Department of Obstetrics and Gynecology at Women's and Children's Hospital which
+is affiliated with the University of Southern California Medical Center. Dr.
+diZerega's area of research includes post-operative adhesions, peritoneal
+healing and post-surgical wound repair. Since December 1995, Dr. diZerega has
+been consulting with the Company in the field of post-operative adhesion
+prevention.
+
+         Coy Eklund, age 85, has served as a director of the Company since
+March 1994. From 1938 to 1983, Mr. Eklund served in various capacities at The
+Equitable Life Assurance Society of the United States and from 1975 to 1983 was
+its chief executive officer. From August 1987 through March 1996, Mr. Eklund had
+served as the chairman and chief executive officer of Trivest Financial
+Services, a company engaged in the television business.
+
+         Richard L. Franklin, MD, age 55, has served as a director of the
+Company since December 2000. Since May 1996, Dr. Franklin has been Chief
+Executive of Phairson, Ltd., medical product development company. From January
+1991 to May 1996, Dr. Franklin was founder and principal of Richard Franklin &
+Associates and from January 1988 to December 1990, was with Boston Capital
+Group, both consulting firms to the healthcare industry. From July 1986 to
+December 1987, Dr. Franklin was head of Healthcare Corporate Finance at Tucker
+Anthony, an investment banking firm.
+
+         Robert P. Hickey, age 55, has served as Chairman of the Company's Board
+of Directors since May 1999, Chief Financial Officer since March 2000, President
+and Chief Executive Officer of the Company since May 1996 and as a director
+since July 1996. From May 1994 until joining the Company, Mr. Hickey was founder
+and president of Roberts Healthcare Resources, Inc., a company engaged in
+project consulting to Fortune 500 and leading edge companies in the healthcare
+industry. From 1975 to 1994, Mr. Hickey served in various positions at Johnson &
+Johnson. From 1992 to 1994, Mr. Hickey was vice president, marketing and
+director of Ethicon, Inc., a unit of Johnson & Johnson.
+
+         Walter R.  Maupay,  Jr.,  age 62, has served as a director of the
+Company since July 1996. At his retirement in 1995, Mr. Maupay was a group
+executive with Bristol-Myers Squibb and president of Calgon Vestal Laboratories.
+From May 1988 to January 1995, Mr. Maupay had been president of Calgon Vestal
+Laboratories, a division of Merck & Co., Inc. From 1984 to 1988, Mr. Maupay
+served as vice president of Calgon Vestal Laboratories. Mr. Maupay is currently
+a director of the following publicly traded companies: Kinsey Nash Corporation
+and Cubist Pharmaceuticals.
+
+         Irwin M.  Rosenthal,  age 72, is a co-founder of the Company and has
+served as Secretary and Treasurer at various periods and a director of the
+Company since its inception in 1990. Mr. Rosenthal is an attorney specializing
+in securities law and has been a senior partner at Greenberg Traurig, LLP since
+June 2000. Prior to joining Greenberg Traurig, LLP, Mr. Rosenthal was a senior
+partner at Graham & James LLP from June 1998 to June 2000 and at Rubin Baum
+Levin Constant & Friedman from December 1991 to June 1998. From December 1989 to
+December 1991, Mr. Rosenthal was a senior partner at Baer Marks and Upham and,
+from January 1983 to December 1989, he was a senior partner at Botein Hays &
+Sklar. Mr. Rosenthal serves as secretary and as a director of Magar Inc., of
+which he is a principal stockholder. Magar Inc. is a principal stockholder of
+the Company. Mr. Rosenthal is also a director of the following publicly traded
+companies: Magna-Lab Inc. and EchoCath, Inc. Mr. Rosenthal is the co-founder and
+involved in the organization and development of four national health oriented
+non-profit foundations.
+
+
+                                       24
+<PAGE>
+
+         Each director shall hold office until the Company's next meeting of its
+stockholders and until such director's successor is duly elected and qualified
+or until such director's earlier resignation or removal. The Series A
+Convertible Preferred Stockholders have the right, until the Series A shares are
+converted to the Company's Common Shares, to designate two members of the
+Company's Board of Directors. The Series A directors are currently Dr. Gere S.
+diZerega and Dr. Richard L. Franklin.
+
+ITEM 11.  EXECUTIVE COMPENSATION.
+
+         The following summary compensation table sets forth the
+aggregate compensation paid or accrued by the Company during the fiscal years
+ended December 31, 2000, 1999 and 1998 to the executive officers whose annual
+compensation exceeded $100,000 in fiscal 2000 (the "Named Executive Officers").
+
+<TABLE>
+<CAPTION>
+                           SUMMARY COMPENSATION TABLE
+                                                                                        LONG TERM
+                                                                                      COMPENSATION
+                                                     ANNUAL COMPENSATION                 AWARDS
+                                                    ----------------------------   --------------------
+                                                                                       SECURITIES              OTHER
+    NAME AND PRINCIPAL CAPACITIES                                                      UNDERLYING             COMPEN-
+           IN WHICH SERVED               YEAR          SALARY         BONUS              OPTIONS             SATION (1)
+- ----------------------------------  --------------  -------------  -------------   --------------------     -------------
+
+<S>                                      <C>            <C>                                    <C>      <C>       <C>
+Robert P. Hickey                         2000           $217,604                               415,313  (2)       $2,043
+  Chairman, President and                1999           $219,663                               169,448            $1,921
+  Chief Executive Officer                1998           $229,229                               420,000  (3)       $1,804
+</TABLE>
+
+     (1) Represents premium payments for term life insurance for the benefit  of
+         the Named Executive Officer.
+     (2) Of the 415,313 options granted during 2000, 263,820 were granted to
+         replace previously granted options which were cancelled.
+     (3) Of the 420,000 options granted during 1998, 300,000 were granted to
+         replace previously granted options which were cancelled.
+
+The following table sets forth certain information with respect to stock option
+grants during the year ended December 31, 2000 to the Named Executive Officer.
+
+                      OPTION/SAR GRANTS IN LAST FISCAL YEAR
+
+<TABLE>
+<CAPTION>
+                                                                INDIVIDUAL GRANTS (1)
+                          ---------------------------------------------------------------------------------------------------
+                              NUMBER OF SECURITIES          % OF TOTAL OPTIONS
+                                   UNDERLYING              GRANTED TO EMPLOYEES         EXERCISE OR BASE         EXPIRATION
+         NAME                  OPTIONS GRANTED (#)            IN FISCAL YEAR            PRICE ($/SH) (1)            DATE
+- ------------------------  ------------------------------  ------------------------  --------------------------  -------------
+<S>                                   <C>                          <C>                       <C>                  <C>  <C>
+Robert P. Hickey                       23,062                      5.6%                       $2.00               5/29/03
+                                       23,062                      5.6%                       $2.00               5/29/04
+                                       23,063                      5.6%                       $2.00               5/29/05
+                                       23,063                      5.6%                       $2.00               5/29/06
+                                       23,063                      5.6%                       $2.00               5/29/07
+                                      100,000                      24.0%                     $0.562               5/05/06
+                                      100,000                      24.0%                     $1.4375              3/09/07
+                                      100,000                      24.0%                      $0.09               10/12/07
+
+- -----------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1) All options were granted with an exercise price equal to or above the fair
+market value of the Common Stock at the date of grant.
+
+
+                                       25
+<PAGE>
+
+The following table sets forth certain information with respect to stock option
+exercises by the Named Executive Officers during the year ended December 31,
+2000 and the value of unexercised options at December 31, 2000.
+
+               AGGREGATED OPTION/SAR EXERCISES IN LAST FISCAL YEAR
+                      AND FISCAL YEAR END OPTION/SAR VALUES
+
+<TABLE>
+<CAPTION>
+
+                                                               NUMBER OF SECURITIES                VALUE OF UNEXERCISED
+                                                             UNDERLYING UNEXERCISED               IN-THE-MONEY OPTIONS
+                              SHARES                       OPTIONS AT FISCAL YEAR END (#)        AT FISCAL YEAR END ($) (1)
+                           ACQUIRED ON         VALUE    ----------------------------------- -------------------------------------
+         NAME              EXERCISED(#)     REALIZED($)   EXERCISABLE       UNEXERCISABLE     EXERCISABLE        UNEXERCISABLE
+- ------------------------  ---------------  ------------ -----------------  ---------------- -----------------  ------------------
+<S>                                                         <C>                                <C>
+       Robert P. Hickey                                     839,448                            $ 35,073
+</TABLE>
+
+
+(1) Based upon the closing price of $1/4 per share of Common Stock on December
+31, 2000, less the option exercise price.
+
+         EMPLOYMENT AGREEMENT
+
+         As of May 29, 1996, the Company entered into an employment agreement
+with Mr. Hickey, pursuant to which Mr. Hickey serves as President and Chief
+Executive Officer of the Company. In May 1999, Mr. Hickey was elected Chairman
+of the Board of Directors and, in March 2000, was appointed Chief Financial
+Officer. The term of Mr. Hickey's employment agreement is for a period of five
+years. Pursuant to such agreement, Mr. Hickey currently receives an annual base
+salary of $240,000 subject to adjustments for cost-of-living increases and other
+increases as determined by the Board and received an option to purchase an
+aggregate of 250,000 shares of Common Stock. Such options vest in twenty percent
+annual increments from the date of the agreement through its fourth anniversary
+and are exercisable for five years from the date of vesting and have an exercise
+price of $8.125. In June 1997, the Company canceled these options and granted an
+option to purchase up to 250,000 shares of Common Stock with such option having
+identical terms as the canceled option except for the exercise price of $4.00
+per share, which was fair market value on the date of the grant and an exercise
+term of seven years from the date of vesting. In May 1998, the Company canceled
+115,315 shares covered under this option and issued a new option under identical
+terms as the canceled option except for the exercise price of $2.00 per share.
+
+         In March 2000, the Company granted to Mr. Hickey an option to acquire
+up to 51,493 shares of Common Stock at $1.4375 per share and in October 2000,
+Mr. Hickey was granted an option to acquire up to 100,000 shares at $0.09 per
+share. In October 2000, the Company granted non-qualified options aggregating to
+263,820 shares which replaced previously granted incentive stock option grants
+at the same exercise price, vesting and exercise term as the option grants
+replaced.
+
+         If Mr. Hickey dies, is terminated for cause, voluntarily resigns or is
+unable to perform his duties on account of illness or other incapacity and the
+agreement is terminated, he or his legal representative shall receive from the
+Company the base salary which would otherwise be due to the date which
+termination of employment occurred. If Mr. Hickey's employment is terminated for
+any other reason by the Company during the term of the agreement, Mr. Hickey
+will receive from the Company the base salary which would otherwise be due to
+the date which termination of employment occurred plus severance pay equal to
+six months of salary. The agreement with Mr. Hickey contains confidentiality and
+post-termination non-competition provisions.
+
+         Under the foregoing employment agreement, the Company is
+required to obtain life insurance coverage on the life and for the benefit of
+Mr. Hickey in an amount equal to twice the amount of the base salary then in
+effect. Mr. Hickey will also have the right to participate in all group
+insurance, hospital, dental, major medical and disability benefits, stock option
+plans and other similar benefits afforded to executives.
+
+         DIRECTOR COMPENSATION
+
+         All directors of the Company are reimbursed for reasonable expenses
+incurred by them in acting as a director or as a member of any committee of the
+Board. All outside directors are entitled to receive $1,000 for attendance at
+each Special Meeting and $500 for participation in each teleconference meeting.
+
+
+                                       26
+<PAGE>
+
+         In October 2000, the Company granted to Messrs. Celano and Maupay,
+options for each to acquire up to 50,000 shares of Common Stock at $0.09 per
+share; to Mr. Eklund, an option to acquire up to 75,000 shares at $0.09 per
+share and to Mr. Rosenthal, an option to acquire up to 100,000 shares at $0.09
+per share. Such options vested immediately and are exercisable for seven years
+from the grant date.
+
+         During 2000, Messrs. Eklund and Maupay were each granted various
+options to purchase Common Stock in lieu of Board fees aggregating to 37,755
+shares at exercise prices ranging from $0.023 to $0.36 per share; similarily,
+Mr. Celano was granted various options in lieu of Board fees aggregating to
+22,422 shares at exercise prices ranging from $0.025 to $0.36 per share. Such
+options vested immediately and are exercisable for seven years from the date of
+grant. In December 2000, the Company discontinued the granting of options in
+lieu of Board fees.
+
+         SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+         The Company believes that during 2000 all reports for the Company's
+executive officers and directors that were required to be filed under Section
+16(A) of the Securities Exchange Act of 1934 were timely filed.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+         Set forth below is information concerning the stock ownership of
+all persons known by the Company to own beneficially 5% or more of the
+outstanding shares of Common Stock, all directors (including nominees), the
+Named Executive Officers (as defined in "Executive Compensation - Summary
+Compensation Table") and all directors and executive officers of the Company as
+a group, as of March 13, 2001. Beneficial ownership is defined in accordance
+with the rules of the Securities and Exchange Commission (the "Commission") and
+generally means the power to vote and/or to dispose of the securities regardless
+of any economic interest therein.
+
+<TABLE>
+<CAPTION>
+                                PRINCIPAL STOCKHOLDERS TABLE
+
+                                        SHARES OF COMMON                PERCENT OF OUT-
+     NAME AND ADDRESS OF                STOCK BENEFICIALLY           STANDING COMMON STOCK
+      BENEFICIAL OWNER                     OWNED(1)                   BENEFICIALLY OWNED/
+     OR NUMBER IN GROUP                   --------                       VOTING POWER
+     ------------------                                                  ------------
+<S>                                   <C>                              <C>
+Marilyn Moskowitz                        1,433,026(2)                    10.2%/7.5%
+9071 Rutledge Ave.
+Boca Raton, FL 33434
+
+Dr. Herbert Moskowitz                 1,306,870(3)(4)(5)                  9.3%/6.9%
+9071 Rutledge Ave.
+Boca Raton, FL 33434
+
+Robert P. Hickey                          902,032(7)                      6.4%/4.7%
+c/o Life Medical Sciences, Inc.
+P.O. Box 219
+Little Silver, NJ 07739
+</TABLE>
+
+                                       27
+<PAGE>
+
+<TABLE>
+<S>                                   <C>                              <C>
+Irwin M. Rosenthal                      612,644(3)(4)(6)                4.4%/3.2%
+c/o Greenberg Traurig LLP
+200 Park Avenue
+New York, NY 10106
+
+Walter R. Maupay                           521,775(8)                   3.7%/2.7%
+c/o Life Medical Sciences,Inc.
+P.O. Box 219
+Little Silver, NJ 07739
+
+Edward A. Celano                          347,461(11)                   2.5%/1.8%
+c/o Life Medical Sciences,Inc.
+P.O. Box 219
+Little Silver, NJ 07739
+
+Coy Eklund                                263,755(10)                   1.9%/1.4%
+c/o Life Medical Sciences,Inc.
+P.O. Box 219
+Little Silver, NJ 07739
+
+Gere S. diZerega, MD                       60,000(12)                      */*
+c/o Life Medical Sciences,Inc.
+P.O. Box 219
+Little Silver, NJ 07739
+
+Richard L. Franklin, MD                       -0-                          */*
+c/o Life Medical Sciences,Inc.
+P.O. Box 219
+Little Silver, NJ 07739
+
+All executive officers and
+directors
+as a group (7 persons)                   2,707,667(13)                 19.3%/14.2%
+</TABLE>
+
+         * Denotes less than 1%
+(1)     All shares outstanding are Common Stock and are beneficially owned, and
+        sole voting and investment power is held by the persons named, except as
+        otherwise noted.
+(2)     Excludes 43,687 shares of Common Stock, 148,217 shares of Common Stock
+        issuable upon exercise of Class A Warrants and Class B Warrants and
+        658,262 shares of Common Stock issuable upon exercise of options which
+        are currently exercisable, all of which are held by Mrs. Moskowitz's
+        husband, as to which shares of Common Stock Mrs. Moskowitz disclaims
+        beneficial ownership.
+(3)     Dr. Moskowitz and Mr. Rosenthal are each officers, directors and
+        principal stockholders of Magar Inc. and own approximately 47% and
+        16.5%, respectively, of the outstanding stock of such corporation. As
+        such, these individuals may be considered to beneficially own, and to
+        have shared investment and voting power with respect to, all shares of
+        Common Stock owned by Magar Inc. Information relating to shares owned by
+        each of these individuals assumes that each beneficially owns all shares
+        owned of record by Magar Inc.
+(4)     Includes 406,704 shares of Common Stock of which 270,000 shares are
+        pledged to a bank as security for a loan to Magar Inc. Magar Inc. has
+        the sole right to vote such shares, unless there is an event of default
+        under the loan. In the event of a default by Magar Inc., the bank would
+        have the right to dispose of the shares.
+(5)     Includes shares of Common Stock issuable upon exercise of 46,110 Class
+        A Warrants and 46,110 Class B Warrants, and 46,110 Class B Warrants
+        issuable upon exercise of the Class A Warrants which may be exercised
+        at any time up to March 21, 2002 into an additional 148,217 shares of
+        Common Stock. Also includes 708,262 shares of Common Stock issuable
+        upon exercise of options which are currently exercisable, but excludes
+        1,433,026 shares of Common Stock held by Dr. Moskowitz's wife, as to
+        which shares of Common Stock Dr. Moskowitz disclaims beneficial
+        ownership.
+(6)     Includes 305,940 shares of Common Stock issuable upon exercise of
+        options which are currently exercisable. Does not include shares of
+        Common Stock beneficially held by attorneys associated with Greenberg
+        Traurig, LLP, of which Mr. Rosenthal is a partner, as to which shares
+        of Common Stock Mr. Rosenthal disclaims beneficial ownership. Such
+        shares of Common Stock do not exceed one percent of the total
+        outstanding shares of Common Stock of the Company.
+(7)     Includes 839,448 shares of Common Stock issuable upon exercise of
+        options which are currently exercisable and 40,584 shares owned by Mr.
+        Hickey's wife.
+(8)     Includes 300,107 shares of Common Stock issuable upon exercise of
+        options which are currently exercisable.
+(9)     Represents shares of Common Stock issuable upon exercise of options
+        which are currently exercisable
+
+
+                                       28
+<PAGE>
+
+(10)    Includes 276,877 shares of Common Stock issuable upon exercise of
+        options which are currently exercisable and 22,222 shares of Common
+        Stock owned by Walworth Financial Services, Inc., Defined Benefit Trust,
+        controlled by Mr. Celano.
+(11)    Represents shares of Common Stock issuable upon exercise of options but
+        excludes 40,000 shares of Common Stock issuable upon exercise of options
+        which are not exercisable within the next sixty days.
+(12)    Includes 2,046,127 shares of Common Stock issuable upon exercise of
+        warrants and options which are currently exercisable but excludes 40,000
+        shares of Common Stock issuable upon exercise of options which are not
+        exercisable within the next sixty days.
+
+        Set forth below is information concerning all persons known by the
+Company to own shares of the Company's Series A Preferred having a number of
+votes equal to at least 5% of the outstanding voting power attributable to the
+Company's outstanding Common Stock and Series A Preferred. Each share of Series
+A Preferred is currently entitled to 10 votes.
+<TABLE>
+<CAPTION>
+                                               SHARES OF SERIES
+                                                 A PREFERRED                    PERCENT OF OUTSTANDING
+                                              BENEFICIALLY OWNED                     VOTING POWER
+                                              ------------------                ----------------------
+<S>                                                <C>                                   <C>
+Ventura, Inc.                                      150,000                               7.9%
+Regent Centre East
+Freeport, Bahamas
+
+Schweizerishe Gesellschaft fur                     100,000                               5.3%
+Aldlenhandel und Resaarch AG
+Kirchstrasse 6
+Fratenbach, Switzerland
+</TABLE>
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+        The Company incurred expenses of approximately $103,000, $67,000,
+$108,000 in the years ended December 31, 1998, 1999 and 2000, respectively, for
+legal services rendered by a firm, one of the partners of which is a director
+and a principal stockholder of the Company.
+
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+(a)  1.   FINANCIAL STATEMENTS.
+
+          An Index to Financial Statements appears on page F-1.
+
+2.        SCHEDULES.
+
+          None
+
+3.        EXHIBITS.
+
+3.1       Restated Certificate of Incorporation of Registrant, filed December
+          26, 1991, as amended. (1)
+
+3.1(a)    Amendment to Restated Certificate of Incorporation, dated August 21,
+          1992. (1)
+
+3.1(b)    Certificate of Designations, Rights and Preferences of Series A
+          Convertible Preferred Stock. (18)
+
+3.2       By-Laws of Registrant. (1)
+
+3.2(a)    Amendment No. 1 to the By-Laws of Registrant. (18)
+
+10        The 2000 Stock Option. Plan* (17)
+
+10.1      Amended and Restated 1992 Stock Option Plan of Registrant. (14) (15)
+
+10.2      Form of Non-Qualified Option Agreement granted outside of a Plan to
+          certain Directors and Officers.*(17)
+
+
+                                       29
+<PAGE>
+
+10.3      Agreement, dated June 14, 1991, between Registrant and Yissum Research
+          Development Company of the Hebrew University of Jerusalem ("Yissum").
+          (1)
+
+10.4      Form of Indemnification Agreement entered into between Registrant and
+          certain officers and directors of Registrant. (2)
+
+10.8      Assignment of certain rights relating to the polymer technology to
+          Registrant by Yissum. (3)
+
+10.9      Form of Non-Qualified Stock Option Agreement. (4) (15)
+
+10.10     Form of Incentive Stock Option Agreement. (4) (15)
+
+10.11     Asset Purchase Agreement between Registrant and MedChem Products, Inc.
+          dated as of July 29, 1994. (5)
+
+10.12     Underwriting Agreement between Registrant and D.H. Blair Investment
+          Banking Corp. (7)
+
+10.14     Warrant Agreement among Registrant, D. H. Blair Investment Banking
+          Corp. and American Stock Transfer & Trust Company including forms of
+          Class A and Class B Warrants. (7)
+
+10.15     Warrant Agreement between Registrant and American Stock Transfer and
+          Trust Company. (7)
+
+10.16     Agreement, dated as of February 1994, between Registrant and Yissum.
+          (7)
+
+10.19     Amendment No. 2 dated as of January 1, 1996 to the Agreement between
+          the Registrant and Yissum. (2)
+
+10.23     Warrant Agreement between Registrant and Wedbush Morgan Securities.
+          (13)
+
+10.24     Underwriting Agreement between Registrant and Wedbush Morgan
+          Securities. (13)
+
+10.25     Employment Agreement dated May 29, 1996 between Registrant and Robert
+          P. Hickey. (10) (15)
+
+10.26     Lease Agreement dated August 13, 1996 between Registrant and Metro
+          Four Associates, LP, 8th Floor of 379 Thornall Street. (11)
+
+10.27     Amendment No. 3 dated as of October 1, 1996 to the Agreement between
+          the Registrant and Yissum.
+
+10.29     Series A Preferred Stock Purchase Agreement dated December 15, 2000.
+          (18)
+
+10.30     Investor Rights Agreement dated December 15, 2000. (18)
+
+ 23.1     Consent of Richard A. Eisner & Company, LLP. *
+*         Filed herewith.
+ --------------------
+
+(1)     Incorporated by reference to the Registrant's  Registration  Statement
+        on Form S-1 (File No. 33-94008) declared effective on September 22,
+        1992.
+(2)     Incorporated by reference to Registrant's  Registration  Statement on
+        Form S-1 (File No. 333-02588) declared effective on May 3, 1996.
+(3)     Incorporated by reference to the Registrant's report on Form 10-Q for
+        the quarter ended September 30, 1992.
+(4)     Incorporated by reference to the Registrant's report on Form 10-K for
+        the year ended December 31, 1993.
+(5)     Incorporated by reference to the Registrant's report on Form 8-K  filed
+        by the Company on August 12, 1994.
+(6)     Incorporated by reference to the Registrant's report on Form 10-Q for
+        the quarter ended September 30, 1994.
+(7)     Incorporated by reference to the Registrant's report on Form 10-K for
+        the year ended December 31, 1994.
+(8)     Incorporated by reference to the Registrant's report on Form 10-Q for
+        the quarter ended June 30, 1995.
+(9)     Intentionally omitted
+(10)    Incorporated by reference to the Registrant's report on Form 10-Q for
+        the quarter ended June 30, 1996.
+(11)    Incorporated by reference to the Registrant's report on Form 10-Q for
+        the quarter ended September 30, 1996.
+
+
+                                       30
+<PAGE>
+
+(12)    Incorporated by reference to the Registrant's  Registration  Statement
+        on Form S-3 (File No. 333-19195)  declared effective on January 3, 1997.
+(13)    Incorporated by reference to the Registrant's report on Form 10-K  for
+        the year ended December 31, 1996.
+(14)    Incorporated by reference to the Registrant's report on Form 10-Q  for
+        the quarter ended June 30, 1997.
+(15)    Includes compensatory plan and or arrangements required to be filed
+        pursuant to item 14 (c) of Form 10-K.
+(16)    Incorporated by reference to the Registrant's report on Form 10-K for
+        the year ended December 31, 1998.
+(17)    Incorporated by reference to the Registrant's S-8 filed in January 2000.
+(18)    Incorporated by reference to the Registrant's 8-K filed in January 2001.
+
+
+
+
+    (b) REPORTS ON FORM 8-K
+
+        None
+
+    (c) See (a) 3.
+
+
+
+                                       30
+<PAGE>
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                     Life Medical Sciences, Inc.
+                                     (Registrant)
+
+                                     By:     /s/ ROBERT P. HICKEY
+                                        --------------------------------
+                                        Robert P. Hickey
+                                          Chairman, President, CEO and CFO
+                                          (principal executive, financial and
+                                          accounting officer)
+
+
+
+Dated:  March 13, 2001
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+               SIGNATURES                   TITLE                                              DATE
+               ----------                   -----                                              ----
+
+<S>                                     <C>                                                <C>
+     /s/ Robert P. Hickey               Director, Chairman of the Board,                   March 13, 2001
+     ------------------------------     President, CEO and CFO
+     ROBERT P. HICKEY                    (principal executive, financial and
+                                          accounting officer)
+
+     /s/ Edward A. Celano               Director                                           March 13, 2001
+     ------------------------------
+     EDWARD A. CELANO
+
+     /s/ Gere S. diZerega, M.D.         Director                                           March 13, 2001
+     ------------------------------
+     GERE S. DIZEREGA, M.D.
+
+     /s/ Coy Eklund                     Director                                           March 13, 2001
+     ------------------------------
+     COY EKLUND
+
+     /s/Richard L. Franklin, M.D.       Director                                           March 13, 2001
+     ------------------------------
+     RICHARD L. FRANKLIN, M.D.
+
+     /s/ Walter R. Maupay               Director                                           March 13, 2001
+     ------------------------------
+     WALTER R. MAUPAY
+
+     /s/ Irwin M. Rosenthal             Director                                           March 13, 2001
+     ------------------------------
+     IRWIN M. ROSENTHAL
+</TABLE>
+
+
+                                       31
+<PAGE>
+
+                          INDEX TO FINANCIAL STATEMENTS
+<TABLE>
+<CAPTION>
+
+                                                                                        PAGE NUMBER
+                                                                                        -----------
+<S>                                                                                         <C>
+Report of Independent Auditors. . . . . . . . . . . . . . . . . . . . . . . . .             F-2
+Balance Sheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            F-3
+Statements of Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . .            F-4
+Statements of Changes In Stockholders' Equity (Deficiency) .....................            F-5
+Statements of Cash Flows . . . . . . . . . . . . . . . . . . . . . . . .  . . .             F-6
+Notes to Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . .             F-7
+</TABLE>
+
+
+                                       F-1
+<PAGE>
+
+                          INDEPENDENT AUDITORS' REPORT
+
+Board of Directors and Stockholders
+Life Medical Sciences, Inc.
+Little Silver, New Jersey
+
+         We have audited the accompanying balance sheets of Life Medical
+Sciences, Inc. as of December 31, 1999 and 2000 and the related statements of
+operations, changes in stockholders' equity (deficiency) and cash flows for each
+of the years in the three-year period ended December 31, 2000. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+         We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatements. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+         In our opinion, the financial statements enumerated above present
+fairly, in all material respects, the financial position of Life Medical
+Sciences, Inc. as of December 31, 1999 and 2000 and the results of its
+operations and cash flows for each of the years in the three-year period ended
+December 31, 2000 in conformity with generally accepted accounting principles.
+
+         The accompanying financial statements have been prepared assuming that
+the Company will continue as a going concern. As discussed in Note A to the
+financial statements, the Company has sustained recurring losses from
+operations, and has both a working capital and stockholders' deficiency at
+December 31, 2000. As a result, the Company has limited capital resources for
+its continuing operations, which raises substantial doubt about its ability to
+continue as a going concern. Management's plans in regard to these matters are
+also discussed in Note A. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+
+                                        Richard A. Eisner & Company, LLP
+
+
+
+New York, New York
+March 14, 2001
+
+
+                                       F-2
+<PAGE>
+
+                           LIFE MEDICAL SCIENCES, INC.
+
+                                 BALANCE SHEETS
+
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<TABLE>
+<CAPTION>
+
+                                                                                                       DECEMBER 31
+                                                                                      -----------------------------------------
+                                                                                               1999                  2000
+                                                                                               ----                  ----
+
+<S>                                                                                   <C>                   <C>
+                                        ASSETS
+
+Current assets:
+      Cash and cash equivalents................................                        $        724          $        844
+      Prepaid expenses..........................................                                 19                   110
+                                                                                       ------------           -----------
+              Total current assets.............................                                 743                   954
+Furniture and equipment, less accumulated depreciation                                           55                    12
+                                                                                       ------------           -----------
+
+                                    TOTAL...............                                $       798          $        966
+                                                                                        ===========          ============
+
+
+                    LIABILITIES AND STOCKHOLDERS' DEFICIENCY
+
+Current liabilities:
+    Capital lease obligation....................................                      $           9         $          16
+    Accounts payable............................................                              1,084                 1,120
+    Accrued expenses............................................                                 95                   162
+    Other liabilities...........................................                                253                   169
+                                                                                       ------------          ------------
+               Total current liabilities........................                              1,441                 1,467
+
+Capital lease obligation, less current portion..................                                  9                     2
+Deferred royalty income........................................                                 339                   296
+                                                                                       ------------           -----------
+              Total liabilities................................                          $    1,789           $     1,765
+                                                                                       ------------           -----------
+
+Commitments ( Note G)
+
+Stockholders'  deficiency:
+     Preferred stock, $.01 par value: shares authorized - 5,000;
+       Series A convertible shares issued and outstanding - none and 500                                                5
+     Common stock, $.001 par value; shares authorized - 43,750;
+              issued and outstanding - 9,470 and 10,343..........                                10                    10
+     Additional paid-in capital..................................                            35,387                36,094
+     Accumulated deficit.........................................                           (36,388)              (36,908)
+                                                                                       ------------           -----------
+              Total stockholders'  deficiency                                                  (991)                 (799)
+                                                                                       ------------           -----------
+                                   TOTAL.......................                        $        798           $       966
+                                                                                       ============           ===========
+</TABLE>
+
+
+
+                 See accompanying notes to financial statements.
+
+                                      F-3
+<PAGE>
+
+                           LIFE MEDICAL SCIENCES, INC.
+
+                            STATEMENTS OF OPERATIONS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<TABLE>
+<CAPTION>
+
+                                                                                        YEAR ENDED DECEMBER 31,
+                                                                            ---------------------------------------------
+                                                                            1998               1999                  2000
+                                                                            ----               ----                  ----
+
+Revenues:
+<S>                                                                 <C>                   <C>                <C>
+   Product sales     .........................................      $      1,715          $   1,201          $         58
+   Royalty income   .........................................                 55                 48                    43
+                                                                      ----------         ----------          ------------
+                                                                           1,770              1,249                   101
+
+Cost of goods sold...................................                        820                556                     4
+                                                                      ----------         ----------          ------------
+
+Gross profit.........................................                        950                693                    97
+                                                                      ----------         ----------          ------------
+
+Operating expenses:
+   Research and development expenses ..................                    3,584                788                   316
+   Sales and marketing.......................................              3,142                437                    20
+   General and administrative expenses .......................             1,982              1,684                   759
+                                                                      ----------         ----------          ------------
+         Operating expenses...................................             8,708              2,909                 1,095
+Loss from operations..........................................            (7,758)            (2,216)                 (998)
+Interest income...............................................               161                 16                    11
+Interest expense.....................................                         (5)                (4)                   (1)
+                                                                      ----------         ----------          ------------
+
+Loss before benefit for income tax and extraordinary gain...              (7,602)            (2,204)                 (988)
+Benefit for income taxes......................................                                  817                   468
+                                                                      ----------         ----------          ------------
+Loss before extraordinary gain................................            (7,602)            (1,387)                 (520)
+
+Extraordinary gain on extinguishment of liability.............                                  432
+                                                                      ----------         ----------          ------------
+
+Net loss                                                              $   (7,602)        $     (955)         $       (520)
+                                                                      ==========         ==========          ============
+
+Net loss per common share - basic and diluted:
+Loss before extraordinary gain                                        $    (0.96)        $    (0.16)          $     (0.05)
+Extraordinary gain                                                                              .05
+                                                                      ----------         ----------          ------------
+Net loss per share ................................                     $  (0.96)           $ (0.11)           $    (0.05)
+                                                                      ==========         ==========          ============
+
+Weighted average shares outstanding - basic & diluted.........             7,923              8,715                10,155
+</TABLE>
+
+
+                 See accompanying notes to financial statements.
+
+                                       F-4
+<PAGE>
+
+                           LIFE MEDICAL SCIENCES, INC.
+
+           STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY (DEFICIENCY)
+                                 (IN THOUSANDS)
+<TABLE>
+<CAPTION>
+
+                                           PREFERRED                     COMMON                   ADDITIONAL
+                                       ----------------            --------------------            PAID IN             ACCUMULATED
+                                       SHARES    AMOUNT            SHARES        AMOUNT            CAPITAL               DEFICIT
+                                       ------    ------            ------        ------           ----------           -----------
+<S>                                    <C>     <C>               <C>          <C>                 <C>             <C>
+Balance - January 1, 1998......                                     7,923      $      8         $   33,988         $    (27,831)
+
+  Fair value of options issued
+  for compensation......
+                                                                                                       159
+  Net (loss) for the year..........                                                                                      (7,602)
+                                       -----     ------            ------       -------            -------          -----------
+
+Balance - December 31, 1998                                         7,923             8             34,147              (35,433)
+  Common stock issued.........                                      1,505             2                748
+  Fair value of options issued
+  for compensation...............                                                                      472
+  Issuance of common stock
+  in payment of previously
+  established liabilities...........                                   42                               20
+  Net (loss) for the year..........                                                                                        (955)
+                                       -----     ------            ------       -------            -------          -----------
+
+Balance - December 31, 1999                                         9,470            10             35,387              (36,388)
+  Common stock issued.........                                        873                              116
+  Fair value of options issued
+  for compensation...............                                                                      156
+  Preferred stock issued...........      500     $    5                                                435
+  Net (loss) for the year...........                                                                                       (520)
+                                       -----     ------            ------       -------            -------          -----------
+
+Balance---December 31, 2000              500     $    5            10,343       $    10             36,094          $   (36,908)
+                                       =====     ======            ======       =======            =======          ===========
+</TABLE>
+
+
+                 See accompanying notes to financial statements
+
+                                       F-5
+<PAGE>
+
+                           LIFE MEDICAL SCIENCES, INC.
+
+                            STATEMENTS OF CASH FLOWS
+                                ( IN THOUSANDS )
+<TABLE>
+<CAPTION>
+                                                                          YEAR ENDED DECEMBER 31,
+                                                                     1998            1999             2000
+                                                                     ----            ----             ----
+<S>                                                               <C>             <C>             <C>
+Cash flows from operating activities:
+     Net (loss) .............................................    $(7,602)         $ (955)        $   (520)
+     Adjustments to reconcile net (loss) to net cash (used in)
+        operations:
+          Deferred royalty income ..........................          (55)            (47)             (43)
+          Fair value of common stock and options issued as
+          compensation .......................................        159             472              156
+          Depreciation .......................................         33              30               24
+          Loss on sale of equipment ..........................                                          14
+          Changes in operating assets and liabilities:....
+            (Increase) decrease in accounts receivable....           (120)            120
+            (Increase) decrease in inventory..............           (264)            264
+             Decrease in prepaid expenses and advances....             57              14              (91)
+             Decrease (increase) in deposits..............            (34)             47
+             Increase (decrease) in accounts payable and
+                 accrued expenses.........................            555            (522)             103
+             Increase (decrease) in other liabilities                 199              54              (84)
+                                                                  -------        --------         --------
+                   Net cash used in operating activities..         (7,072)           (523)            (441)
+                                                                  -------        --------         --------
+
+Cash flows from investing activities:
+     Purchase of equipment....................................         (4)
+     Proceeds from sale of equipment............................                                         5
+     Proceeds from maturity of investment securities............    4,836
+                                                                  -------        --------         --------
+     Net cash provided by  investing activities ................    4,832               0                5
+                                                                  -------        --------         --------
+
+Cash flows from financing activities:
+     Proceeds from private placement                                                  770
+     Proceeds from exercise of stock options                                                           116
+     Proceeds from the issuance of preferred stock                                                     440
+     Payment on capital lease obligation..........                     (8)             (8)
+                                                                  -------        --------         --------
+         Net cash  provided by (used in) financing activities          (8)            762              556
+                                                                  -------        --------         --------
+
+Net (decrease) increase in cash and cash equivalents..........     (2,248)            239              120
+Cash and cash equivalents at beginning of year................      2,733             485              724
+                                                                  -------        --------         --------
+Cash and cash equivalents at end of year.....................     $   485         $   724         $    844
+                                                                  =======        ========         ========
+
+Supplementary cash flow information:
+     Interest paid...........................................     $     5        $      4         $      1
+</TABLE>
+
+                 See accompanying notes to financial statements.
+
+                                      F-6
+<PAGE>
+
+(NOTE A)-- THE COMPANY AND BASIS OF PRESENTATION:
+
+         Life Medical Sciences, Inc. (the "Company") is a biomaterials company
+engaged in the development and commercialization of innovative and
+cost-effective medical devices for therapeutic applications. During 2000, the
+Company postponed the further advancement and expansion of product development
+programs based on its proprietary bioresorbable polymer technology due to the
+lack of financial resources to fund such activities. As a result of this cash
+shortfall, in July 2000, the Company terminated all but one of its remaining
+employees. Contingent upon the receipt of additional funding, the Company
+intends to apply its platform technology to the development of multiple products
+that address unmet therapeutic needs or offer improved, cost-effective
+alternatives to current methods of treatment. Products currently under
+development focus on preventing or reducing post-operative adhesions subsequent
+to a broad range of surgical procedures and are in various stages of clinical
+trials and preclinical studies. In February 2000, the Company completed a pilot
+clinical trial for its REPEL-CV bioresorbable adhesion barrier film, the first
+surgical device approved by the FDA for human evaluation in the prevention of
+adhesions after open-heart surgical procedures. In conjunction with its
+strategic focus on the development of medical products based on its
+bioresorbable polymer technology, the Company discontinued, effective February
+29, 2000, the manufacturing and sale of the CLINICEL line of scar management
+products. Such product line represented all of the Company's product sales
+included in the accompanying statements of operations for the years ended
+December 31, 1998, 1999 and 2000. In December 2000, the Company received
+approximately $1 million through the combination of a private placement of
+convertible preferred stock and the sale of certain state tax losses. The
+proceeds are being used to reinitiate activities in support of the REPEL-CV
+pivotal clinical trial.
+
+     The accompanying financial statements have been prepared on a going concern
+basis. As shown in the accompanying financial statements, the Company has
+incurred recurring losses and used cash in operations and has both a working
+capital and stockholders' deficiency at December 31, 2000. As a result, the
+Company has limited capital resources for its continuing operations, which
+raises substantial doubt about the Company's ability to continue as a going
+concern. The Company is pursuing various financing alternatives, including
+collaborative arrangements with strategic partners, licensing arrangements for
+certain of its proposed products and additional public or private financings
+including equity financings, which management believes could result in the
+infusion of sufficient capital to alleviate this concern. In December 2000, the
+Company received $468,000 from the sale of certain New Jersey State tax net
+operating losses and anticipates receiving similar funds during 2001 and future
+years contingent upon approvals from the State Division of Taxation. In
+addition, in December 2000, a private placement was completed in which the
+Company received $500,000 in exchange for the issuance of 500,000 shares of
+Series A Convertible Preferred Stock. The Company's continuation as a going
+concern is dependent upon obtaining sufficient financing to fund its operations
+and ultimately to achieve profitability, which in turn is dependent on
+successfully completing the development of its proposed products, obtaining
+required regulatory approvals and manufacturing and selling its proposed
+products. There is no assurance that initiatives to raise additional capital
+will be successful or that other financing arrangements will be available or
+that the Company will achieve or sustain a profitable level of operations. The
+financial statements do not include any adjustments that might be necessary if
+the Company is unable to continue as a going concern.
+
+(NOTE B) --SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+  [1] REVENUE RECOGNITION:
+
+        Revenue is recognized when product is shipped to customers.
+
+  [2] CASH EQUIVALENTS:
+
+         The Company considers all highly liquid investment instruments
+purchased with a maturity of three months or less to be cash equivalents.
+
+                                      F-7
+<PAGE>
+(NOTE B)--SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:  (CONTINUED)
+
+  [3]  ADVERTISING:
+
+     Advertising costs are charged to expense as they are incurred. Total
+expenditures in 1998, 1999 and 2000 were $2,266,000, $196,000 and $21,000,
+respectively.
+
+  [4] DEPRECIATION:
+
+     Furniture and equipment are recorded at cost and are depreciated using the
+straight-line method based upon an estimated useful life of 5 years.
+
+  [5] RESEARCH AND DEVELOPMENT:
+
+     Substantially all research and development activities are conducted through
+arrangements with specialized academic and industrial organizations (see Note
+F). Research and development costs are charged to expense as incurred. Prepaid
+expenses at December 31, 2000, includes $100,000 for product development and
+pilot manufacturing costs in support of the REPEL-CV clinical trial which will
+be charged to research and development expense in 2001.
+
+  [6] PATENT COSTS:
+
+     Costs incurred in connection with acquiring patent rights and the
+protection of proprietary technologies are charged to expense as incurred.
+
+  [7] ROYALTY INCOME:
+
+     Royalty income is based on the quarterly sales of the Sure-Closure System
+and any line extensions or embodiments thereof. Royalties are calculated and
+credited to the Company within forty-five days after the last day of each
+quarter. The Company recognizes such income when the amounts earned become fixed
+and determinable. Royalties earned by the Company are applied to the outstanding
+deferred royalty income balance.
+
+  [8]  USE OF ESTIMATES:
+
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the reporting
+period. Actual results could differ from those estimates.
+
+  [9]   STOCK BASED COMPENSATION:
+
+     The Company  accounts for stock-based  employee  compensation  under
+Accounting Principles Board Opinion No. 25, "Accounting for Stock Issued to
+Employees", and related interpretations. The Company has adopted the
+disclosure-only provisions of SFAS No. 123, "Accounting for Stock-Based
+Compensation".
+
+                                      F-8
+<PAGE>
+
+(NOTE B)--SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (CONTINUED)
+
+  [10]  EARNINGS(LOSS) PER SHARE:
+
+     Basic earnings (loss) per share is computed by dividing the income or loss
+by the weighted average number of shares of common stock outstanding during each
+period. Diluted earnings (loss) per share includes the effect, if dilutive, from
+the potential exercise or conversion of securities which would result in the
+issuance of incremental shares of common stock. Securities and the related
+number of common shares not included in the diluted computation for the year
+ended December 31, 2000 that would potentially dilute basic earnings per share,
+if any in the future, are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                 DILUTIVE POTENTIAL
+                                                                    COMMON SHARES
+                                                                 ------------------'
+<S>                                                              <C>
+                 Convertible preferred stock                         5,000,000
+                 Options                                             3,701,000
+                 Warrants                                            4,968,059
+                                                                    ----------
+
+                                                                    13,669,059
+                                                                    ==========
+</TABLE>
+
+(NOTE C) - FURNITURE AND EQUIPMENT AT DECEMBER 31,:
+
+Furniture and equipment consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                                  ESTIMATED
+                                                                     1999            2000        USEFUL LIFE
+                                                                ---------         -------        -----------
+<S>                                                             <C>            <C>               <C>
+                 Furniture and fixtures                         $  72,000      $   11,000        5 - 7 years
+                 Office equipment                                 104,000          48,000          5 years
+                                                                ---------         -------
+
+                                                                  176,000          59,000
+                 Less accumulated depreciation                    121,000          47,000
+                                                                ---------         -------
+
+                                                                $  55,000         $12,000
+                                                                =========         =======
+</TABLE>
+
+
+(NOTE D) -- STOCKHOLDERS' DEFICIENCY:
+
+  [1] COMMON STOCK:
+
+        On June 28, 1999, the Company completed a private placement in which
+1,505,003 shares of common stock were sold to "accredited investors" as defined
+in Rule 501 of Regulation D in consideration for cash proceeds of $750,000.
+
+  [2]  PREFERRED STOCK:
+
+        In December 2000, the Company completed a private placement in which
+500,000 shares of Series A convertible preferred stock were sold to "accredited
+investors" as defined in Rule 501 of Regulation D in consideration for cash
+proceeds of $500,000. Each share of Series A preferred stock is convertible into
+10 shares of the Company's common stock as of the earlier of six months from the
+issuance date or the closing date of a subsequent financing.
+
+                                      F-9
+<PAGE>
+
+(NOTE D) -- STOCKHOLDERS' DEFICIENCY: (CONTINUED)
+
+  [3]  WARRANTS:
+
+        In 1992, the Company consummated its initial public offering of
+1,150,000 units, each unit consisting of one share of common stock and two
+warrants. The warrants included in each unit consist of a redeemable Class A
+Warrant and a redeemable Class B Warrant. Each Class A Warrant entitles the
+holder to purchase, at an exercise price of $8.40, subject to adjustment,
+1.071474 shares of Common Stock and one Class B Warrant. Each Class B Warrant
+entitles the holder to purchase, at an exercise price of $12.60, subject to
+adjustment, 1.071474 shares of Common Stock. The warrants are redeemable by the
+Company for $.05 per warrant on 30 days written notice under certain
+circumstances.
+
+        In 1993, the Company consummated a public offering of 500,000 units;
+each unit consisting of two shares of common stock and one Class A Warrant.
+
+        At December 31, 2000 there were 1,650,000 Class A Warrants and 1,150,000
+Class B Warrants outstanding. The warrants'expiration date has been extended to
+March 21, 2002.
+
+        The Company sold to the underwriter of its public offering in May 1996,
+for nominal consideration, a warrant to purchase 200,000 shares of Common Stock.
+The warrant has an exercise price of $7.95 per share and expires in May 2001.
+
+  [4] OPTIONS:
+
+        The Company may issue options to purchase up to an aggregate of
+1,407,500 shares of Common Stock pursuant to its 1992 Stock Option Plan, as
+amended (the "1992 Plan") and 1,000,000 shares of Common Stock pursuant to its
+2000 Non-Qualified Stock Option Plan (the "2000 Plan"). Options to purchase
+shares may be granted under the 1992 Plan to person who, in the case of
+incentive stock options, are employees of the Company; or, in the case of SARs
+and nonstatutory stock options, are officers and key employees of the Company,
+or agents, medical and scientific advisors, directors of or consultants to the
+Company, whether or not otherwise employed by the Company. Under the 2000 Plan
+only non-qualified stock options may be granted to employees and directors of
+the Company or agents, medical and scientific advisors, or consultants to the
+Company. In the case of both the 1992 Plan and the 2000 Plan, the exercise price
+is determined by the Stock Option Committee of the Board of Directors at the
+time of the granting of an option, but in the case of an incentive stock option,
+the exercise price shall not be less than the fair market value of the stock on
+the date of grant. Options and SARs vest over a period not greater than five
+years, and expire no later than ten years from the date of grant.
+
+       At December 31, 2000, options to purchase 199,000 shares of Common Stock
+pursuant to the 1992 Plan and 782,000 shares of Common Stock pursuant to the
+2000 Plan are outstanding. In addition, options to purchase 2,720,000 shares of
+Common Stock are outstanding pursuant to other agreements. These options vest
+over various periods and expire no later than seven years from the date of
+vesting.
+
+       The Company applies APB Opinion 25 and related Interpretations in
+accounting for its options to employees. Operating expenses include $20,000 for
+stock options granted in lieu of directors' fees in 2000 and $322,000 for stock
+options granted to employees in 1999. In addition operating expenses include
+$136,000, $150,000 and $159,000 in 2000, 1999 and 1998, respectively with
+respect to options granted under consulting agreements.
+
+                                      F-10
+<PAGE>
+
+(NOTE D) -- STOCKHOLDERS' DEFICIENCY: (CONTINUED)
+
+  [4] OPTIONS ( CONTINUED):
+
+       Had compensation cost for the Company's stock option grants to employees
+been determined based on the fair value at the grant dates for awards consistent
+with the method of FASB Statement 123, the Company's net loss and loss per share
+would have been increased to the pro forma amounts indicated below (in
+thousands, except per share data).
+
+<TABLE>
+<CAPTION>
+                                                          1998                       1999             2000
+                                                          ----                       ----             ----
+<S>                       <C>                          <C>                        <C>               <C>
+Net loss                  As reported                  $(7,602)                     $(955)           $(520)
+                          Pro forma                    $(8,992)                   $(1,297)           $(666)
+Net loss per share-
+basic & diluted           As reported                   $(0.96)                    $(0.11)          $(0.05)
+                          Pro forma                     $(1.13)                    $(0.15)          $(0.07)
+</TABLE>
+
+        The fair value of each option grant is estimated on the date of grant
+using the Black-Scholes option-pricing model with the following weighted-average
+assumptions used for grants in 1998: no dividend yield, expected volatility of
+76%, a risk-free interest rate of 5.5% to 6.0% and an expected life of 2.5 to
+3.3 years; in 1999: no dividend yield, expected volatility of 82%, a risk-free
+interest rate of 5.5% to 6.3% and an expected life of 2.5 years; and in 2000: no
+dividend yield, expected volatility of 88%, a risk-free interest rate of 5.46%
+to 5.85% and an expected life of 2.5 years.
+
+     A summary of the status of the Company's stock options as of December 31,
+1998, 1999 and 2000, and changes during the years ended on those dates is
+presented below (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+
+                                 1998                              1999                             2000
+                      ---------------------------       ---------------------------      ---------------------------
+                                  Weighted-Average                  Weighted-Average                 Weighted-Average
+                      Shares       Exercise Price       Shares       Exercise Price      Shares       Exercise Price
+                      ------       --------------       ------       --------------      ------       --------------
+<S>                   <C>             <C>               <C>                 <C>          <C>                <C>
+Outstanding at
+beginning of year      1,874           $5.50             2,928               $2.13        4,465              $1.31
+
+Granted                2,698            1.73             1,889                0.50          782               0.35
+
+Exercised                 --              --                --                  --         (873)              0.13
+
+Forfeited             (1,634)           5.32              (352)               3.78         (672)              2.09
+
+Outstanding at
+end of year            2,928            2.13             4,465                1.31        3,701               1.24
+
+Options
+exercisable at                          2.64             4,042                1.24        3,464               1.19
+year-end               1,935
+
+Weighted-average
+fair value of
+options granted
+during the year.                        0.44                                  1.11                            0.32
+</TABLE>
+
+
+                                      F-11
+<PAGE>
+
+(NOTE D) -- STOCKHOLDERS' DEFICIENCY: (CONTINUED)
+
+          [3] OPTIONS ( CONTINUED):
+
+         The following table summarizes information about fixed stock options
+outstanding at December 31, 2000 (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+
+                                      Options Outstanding                                    Options Exercisable
+                       -------------------------------------------------------        --------------------------------
+                          Number        Weighted-Average                                 Number
+     Range             Outstanding         Remaining          Weighted-Average         Exercisable    Weighted-Average
+Exercise Prices        At 12/31/00      Contractual Life       Exercise Price         At 12/31/00      Exercise Price
+- ---------------        -----------      ----------------      ----------------        ------------    ----------------
+
+<S>                       <C>              <C>                    <C>                     <C>              <C>
+  $0.00 - $0.99           1,506            6 years                $0.21                   1,506            $0.21
+   1.00 - 2.00            1,991            4 years                $1.71                   1,756             1.68
+   2.01 - 7.88              204            3 years                $4.28                     204             4.28
+                        --------           -------                -----                  ------            -----
+                          3,701            4 years                $1.24                   3,464             1.19
+</TABLE>
+
+
+(NOTE E)-- INCOME TAXES:
+
+     At December 31, 2000, the Company has approximately $34,295,000 of net
+operating loss carryforwards and approximately $603,000 of research and
+development tax credit carryforwards available to offset future federal income
+tax, subject to limitations for alternative minimum tax. The net operating loss
+and research and development credit carryforwards expire in various years from
+2005 through 2020. Certain other limitations may apply, including the amount
+that may be used annually. Future issuances of the Company's stock, may subject
+the Company to additional limitations.
+
+         At December 31, 2000, after giving effect to the sales described in the
+following sentence, the Company has net operating loss carryforwards for New
+Jersey State income tax purposes of approximately $15,894,000 which expire
+through 2007. The Company had participated in the Tax Benefit Transfer Program
+administered by the State of New Jersey under which $11,002,000 and $6,257,000
+in eligible loss carryforwards, covering the tax years 1992 through 1995 and a
+portion of 1996, were sold to PSE&G in exchange for cash payments of
+approximately $817,000 and $468,000, in 1999 and 2000 respectively. These cash
+payments are shown as income tax benefits in the accompanying statements of
+operations. The Company anticipates similar transactions during 2001 and beyond,
+contingent upon approvals from the State Department of Taxation.
+
+Deferred tax benefits, which amounted to $14,187,000 and $14,046,000 at December
+31, 1999 and 2000 are principally attributable to net operating loss
+carryforwards and have been offset by a valuation allowance against the entire
+benefit due to management's uncertainty regarding the future profitability of
+the Company. The valuation allowance has been increased by $3,020,000, $211,000
+in 1998 and 1999, respectively and decreased by $364,000 in 2000.
+
+The income tax benefit of $817,000 and $468,000 for the years ended December 31,
+1999 and 2000 reflect the Company's participation in the Tax Benefit Transfer
+Program described above. The benefit from losses generated during those years at
+the federal statutory rate is offset by equivalent increases in the valuation
+allowance.
+
+                                      F-12
+<PAGE>
+
+
+(NOTE F)-- RESEARCH AND LICENSE AGREEMENTS:
+
+  [1] YISSUM AGREEMENT:
+
+     During June 1991, the Company entered into a research and license agreement
+with Yissum Research and Development Company of the Hebrew University of
+Jerusalem ("Yissum"), which was amended in February 1994, as of January 1996 and
+as of October 1996, pursuant to which the Company finances and Yissum conducts
+research and development at the Hebrew University of Jerusalem in the field of
+biomedical polymers. In connection with the agreement, Yissum assigned to the
+Company its worldwide rights to patents, patent applications and know-how to
+develop, manufacture and market products relating to this technology.
+
+     Pursuant to the agreement, the Company is obligated to pay a royalty of
+five percent of all net sales of the Company's products derived under the
+agreement. The maximum amount of royalties to be paid during the term of the
+agreement is $5,500,000. The agreement continues until the earlier of the last
+date upon which the patents expire, or at the end of fifteen years from the date
+of the first commercial sale pursuant to the assignment. Yissum has the right in
+its sole discretion to terminate the agreement if, among other things the
+Company does not attain certain milestones by specified dates. The January 1996
+amendment gives the Company options for three one-year extensions, through 2004,
+of the periods in which certain milestones must be attained, each for a payment
+of $50,000. Upon termination of the agreement for any reason, the patents,
+patent applications and know-how assigned by Yissum to the Company will revert
+in full to Yissum.
+
+     The October 1996 amendment provides a research term of five years from the
+date of the amendment and required Yissum personnel to enter into
+confidentiality and non-competition agreements with the Company.
+
+  [2] DIMOTECH AGREEMENT:
+
+     During July 1995, the Company entered into an agreement with Dimotech Ltd.,
+pursuant to which the Company financed and Dimotech conducted research and
+development with regard to the scar management program. In connection with the
+agreement, Dimotech has assigned to the Company its worldwide rights to the
+patents and know-how to develop, manufacture and market products relating to
+this technology.
+
+     Pursuant to the agreement, the Company is obligated to pay a royalty of
+five percent of all net sales of the Company's products derived under this
+agreement including CLINICEL. The agreement continues until the earlier of the
+last date upon which the patents expire, or at the end of fifteen years from the
+date of the first commercial sale pursuant to the assignment. Dimotech has the
+right in its sole discretion to terminate the agreement under certain
+circumstances. Upon termination of the agreement for any reason, the patents,
+license and know-how assigned by Dimotech to the Company will revert in full to
+Dimotech.
+
+         In November 1999, the Company was declared to be in breach of this
+agreement by Dimotech due to non-payment of royalties. Effective February 29,
+2000, the Company discontinued the manufacture and sale of CLINICEL and the
+patent rights to reverted to Dimotech. In addition, at December 31, 1999, the
+Company wrote off to cost of sales the $186,000 carrying value of the Clincel
+products in inventory at such date. The company no longer sells the CLINICEL
+products. In February 2001, the Company was notified of a lawsuit filed in
+Israel against the Company and its principal executive officers by Dimotech,
+Ltd. for the non-payment of royalties and accrued interest in the amount of
+$125,000. Such amount is included in other liabilities in the accompanying
+balance sheets.
+
+                                      F-13
+<PAGE>
+
+(NOTE F )--RESEARCH AND LICENSE AGREEMENTS: (CONTINUED)
+
+  [3] TECHNION AGREEMENTS:
+
+     During June 1991, the Company entered into an agreement with Technion
+Research and Development Foundation, Ltd., in Haifa, Israel ( "Technion"), which
+was assigned to its wholly-owned subsidiary Dimotech, Ltd. ("Dimotech") and was
+amended in February 1994 and February 1996, pursuant to which the Company
+financed, and Dimotech conducted, research and development with regard to the
+Company's IN-SITU tissue culturing technology. In connection with the agreement,
+Technion assigned to the Company its worldwide rights to patent applications,
+any patents which may be issued and know-how to develop, manufacture and market
+products relating to this technology. This agreement was terminated by the
+Company in September 1998.
+
+(NOTE G)-- COMMITMENTS:
+
+   [1] LEASE:
+
+   The Company entered into an operating lease in November 1996 for its
+corporate offices, which were vacated during 2000, at an annual fixed rent of
+$80,000. The initial term of the lease was for five years and included one
+five-year renewal option. At December 31, 2000 minimum future rental payments of
+$67,000 have been accrued. The terms of the lease provides for escalation for
+increases in real estate taxes and certain operating expenses. The Company's
+activities are being conducted at the premises of the Company's Chief Executive
+Officer on a rent-free basis. Rent expense was $84,000, $88,000 and $90,000 in
+1998, 1999 and 2000, respectively.
+
+   [2] EMPLOYMENT AGREEMENT:
+
+     The Company has an employment agreement with one executive which expires in
+May 2001. Pursuant to this agreement, the Company's commitment regarding early
+termination benefits aggregates $120,000 at December 31, 2000.
+
+(NOTE H)-- SURE-CLOSURE SYSTEM SALE:
+
+     In July 1994, the Company sold or assigned to MedChem Products, Inc.
+substantially all of its assets related to the Sure-Closure System, a disposable
+wound closure device, including rights, agreements and licenses. The terms of
+the agreement provide that the Company is entitled to royalties of 10% of the
+net sales (as defined in the agreement), through June 30, 2004, of the
+Sure-Closure System and any line extensions or future embodiments. In connection
+with this transaction, $644,000 was recorded as deferred royalty income and
+through December 31,2000 has been reduced by $348,000 of royalties earned after
+October 1, 1995. A number of the Company's agreements with Technion and
+Dimotech, related to the Sure-Closure System, were assigned to MedChem in
+connection with the sale. In connection with one such agreement, the Company may
+be liable for a two percent royalty on sales of the Sure-Closure System in the
+event that MedChem does not pay these royalties.
+
+(NOTE I)-- RELATED PARTY:
+
+     The Company incurred expenses of approximately $103,000, $67,000 and
+$108,000 in the years ended December 31, 1998, 1999 and 2000, respectively, for
+legal services rendered by a firm, one of the partners at which is a director
+and a principal stockholder of the Company. Accounts payable includes $85,000
+and $93,000 at December 31, 1999 and 2000, respectively, due to such firm.
+
+(NOTE J)---EXTRAORDINARY GAIN :
+
+     For the year ended December 31, 1999 the extraordinary gain of $432,000 is
+attributable to the gain on extinguishment of amounts owed to a supplier by the
+transfer of title to equipment that had previously been charged to research and
+development expenses.
+
+                                      F-14
+<PAGE>
+
+(NOTE K)-- QUARTERLY RESULTS (UNAUDITED):
+
+<TABLE>
+<CAPTION>
+                                                                             QUARTER ENDED
+                                      ----------------------------------------------------------------------
+                                      MARCH 31             JUNE 30           SEPTEMBER 30         DECEMBER 31         TOTAL YEAR
+                                      --------             -------           ------------         -----------         ----------
+<S>                              <C>               <C>                 <C>                        <C>              <C>
+2000
+
+Revenues                        $     19,000       $    62,000              $9,000              $     11,000       $    101,000
+Net income (loss)                   (305,000)         (290,000)           (141,000)                  216,000           (520,000)
+Income (loss) per share -
+basic and diluted (a)                  (0.03)            (0.03)              (0.01)                     0.02              (0.05)
+
+1999
+
+Revenues                         $   816,000       $   250,000         $    43,000                $  140,000       $  1,249,000
+Net income (loss)                    198,000          (838,000)           (526,000)                  211,000           (955,000)
+Income (loss) per share -
+basic and diluted (a)                   0.03             (0.10)              (0.06)                     0.02              (0.11)
+</TABLE>
+
+
+(a)  Per common share amounts for the quarters and full year have been
+     calculated separately. Accordingly, quarterly amounts do not add to the
+     annual amount because of differences in the weighted average common shares
+     outstanding during each period due to the effect of the Company's issuing
+     shares of its common stock during the year.
+
+                                      F-15
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>2
+<FILENAME>j0247_ex23-1.txt
+<TEXT>
+
+                                                                    Exhibit 23.1
+
+
+
+
+                         CONSENT OF INDEPENDENT AUDITORS
+
+         We consent to the incorporation by reference in the Registration
+Statements on Forms S-8 (Registration Nos. 33-60580 and 333-03895) and Form S-3
+(Registration No. 333-19195) of our report dated March 14, 2001 on the financial
+statements included in the 2000 annual report on Form 10-K of Life Medical
+Sciences, Inc.
+
+Richard A. Eisner & Company, LLP
+
+New York, New York
+March 30, 2001
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,2515 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QKWtlpvX10IDp9eO5zfErKbbFV36KXMuVnNs69LoO+p9Q3lNyXF0tiiUngNapHQ9
+ uc30He8cfMWg7f8Zoc0jCw==
+
+<SEC-DOCUMENT>0000950115-97-000432.txt : 19970329
+<SEC-HEADER>0000950115-97-000432.hdr.sgml : 19970329
+ACCESSION NUMBER:		0000950115-97-000432
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970328
+SROS:			AMEX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NOCOPI TECHNOLOGIES INC/MD/
+		CENTRAL INDEX KEY:			0000888981
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-SERVICES, NEC [8900]
+		IRS NUMBER:				870406496
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20333
+		FILM NUMBER:		97567603
+
+	BUSINESS ADDRESS:	
+		STREET 1:		230 SUGARTOWN RD
+		STREET 2:		STE 100
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6106872000
+
+	MAIL ADDRESS:	
+		STREET 1:		NOCOPI TECHNOLOGIES INC
+		STREET 2:		230 SUGARTOWN RD STE 100
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                    FORM 10-K
+
+(Mark One)
+
+  X      Annual report pursuant to section 13 or 15(d) of the Securities
+- -----    Exchange Act of 1934 Fee Required] for the fiscal year ended
+         December 31, 1996 or
+
+         Transition report pursuant to section 13 or 15(d) of the Securities
+- -----    Exchange Act of 1934 [No Fee Required] for the transition period from
+         _____ to _____.
+
+Commission File Number 0-20333
+
+                            NOCOPI TECHNOLOGIES, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+              Maryland                                   87-0406496
+   ----------------------------                       -------------------
+   (State or other jurisdiction                        I.R.S. Employer
+          of incorporation)                           Identification No.)
+
+   230 Sugartown Road, Wayne, Pennsylvania                  19087
+   ---------------------------------------            -------------------
+   (Address of principal executive offices)               (Zip Code)
+
+Telephone Number, Including Area Code:  (610) 687-2000
+
+Securities registered pursuant to section 12(b) of the Act:
+
+      Title of each class         Name of each exchange on which registered
+             None                               Not Applicable
+      -------------------         -----------------------------------------
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                           Common Stock $.01 par value
+                           ---------------------------
+                                (Title of class)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that registrant
+was required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                          Yes   X          No
+                              -----           -----
+
+     State the aggregate market value of the voting stock held by non-affiliates
+of the registrant. $9,700,000 at March 14, 1997.
+
+     (Applicable only to corporate registrants) Indicate the number of shares
+outstanding of each class of registrant's common stock, as of the latest
+practicable date. 14,080,654 Shares of Common Stock, $.01 par value at March 14,
+1997.
+
+     Documents Incorporated by Reference.
+
+     Proxy Statement for the Annual Meeting of Shareholders to be Held June 9,
+1997 (Part III).
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definite proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. _______
+
+
+                                               Exhibit Index Begins on Page 17.
+
+
+<PAGE>
+
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+Background
+
+     Nocopi Technologies, Inc. (hereinafter "Nocopi" or "Registrant") was
+organized to exploit a technology developed by its founders for impeding the
+reproduction of documents on office copiers. In its early stages of development,
+Nocopi's business consisted primarily of selling burgundy colored, copy
+resistant paper to protect corporate documents, that is, to provide document
+security. In the last several years, Registrant has continued to refine its
+document security technologies but has increasingly focused on developing and
+marketing technologies for document and product authentication which can reduce
+losses caused by fraudulent document reproduction and by product counterfeiting
+and/or diversion.
+
+     Registrant is involved in the business of product and document
+authentication and security. It has developed and markets a variety of
+products--special inks and paper which deters photocopying and transmission by
+facsimile and proprietary inks which print invisibly until activated for the
+purpose of identifying counterfeit or diverted products. Registrant's document
+authentication products and technologies, over the last three years, have become
+the most substantial market for Registrant. Sales are made either through
+licensees or directly to end-users.
+
+Anti-Counterfeiting and Anti-Diversion Technologies and Products
+
+     Recent developments in copying and printing technologies have made it ever
+easier to counterfeit a wide variety of documents. Lottery tickets, gift
+certificates, event and transportation tickets, travellers' checks and the like
+are all susceptible to counterfeiting, and Registrant believes that losses from
+such counterfeiting have increased substantially with improvements in
+technology. Counterfeiting has long caused losses to manufacturers of brand name
+products, and Registrant believes these losses have also increased as the
+counterfeiting of labeling and packaging has become easier.
+
+     Registrant's document authentication technologies are useful to businesses
+desiring to authenticate a wide variety of printed materials and products. These
+include a technology with the ability to print invisibly on certain areas of a
+document which can be activated or revealed by use of a special highlighter pen
+when authentication is required. This is sold under the trade mark COPIMARK(TM).
+Other variations of the COPIMARK(TM) technology involve multiple color responses
+from a common pen, visible marks of one color that turn another color with the
+pen or visible and invisible marks that turn into a multicolored image. A
+related technology is Nocopi's RUB & REVEAL(R) system, which permits the
+invisible printing of an authenticating symbol or code that can be revealed by
+rubbing a fingernail over the printed area. These technologies provide users
+with the ability to authenticate documents and detect counterfeit documents.
+Applications include the authentication of documents having intrinsic value,
+such as checks, travellers' checks, gift certificates and event tickets, and the
+authentication of product labelling and packaging. The Rub & Reveal(R)
+technology was enhanced during 1995 permitting its use in documents produced on
+laser printers, thus affording expanded market opportunities for this
+technology. When applied to product labels and packaging, such technologies can
+be used to detect counterfeit products whose labels and packaging would not
+contain the authenticating marks invisibly printed on the packaging or labels of
+the legitimate product, as well as to
+
+                                        2
+
+<PAGE>
+
+
+combat product diversion (i.e., the sale of legitimate products through
+unauthorized distribution channels or in unauthorized markets). During 1993,
+Registrant developed its invisible inkjet technology which permits manufacturers
+and distributors to track the movement of products from production to ultimate
+consumption. During 1994, Registrant developed a new technology to address the
+widespread problem of counterfeiting in the apparel industry consisting of a
+reactive thread which can be woven into a label which is then sewn into a
+garment. The woven label can be activated in the same manner as a reactive paper
+label to reveal the authenticity of the garment. During 1995, Registrant
+developed a new covert authenticating technology which allows a manufacturer of
+compact discs to identify CD's produced by that manufacturer. Registrant
+believes that this technology will provide CD manufacturers and publishers a
+tool with which to combat the significant losses sustained as a result of
+illegal pirating and counterfeiting of data, music and video discs.
+
+Document Security Products
+
+     The first product Nocopi developed was a burgundy colored paper that
+deterred photocopying and transmission by facsimile. The color was chosen and
+designed so that it absorbed most of the light projected on documents during
+photocopying except for light in the part of the spectrum the copy process is
+incapable of detecting. This colored paper exhibited the ability to inhibit
+reproduction at the cost of legibility to the reader. The darker it was, the
+better it worked. The trade-off was and is tied to security. If a client needed
+the security, he would put up with the diminished legibility. Registrant
+currently markets its copy resistant papers in three grades, each balancing
+improved copy resistance against diminished legibility.
+
+     The next step in the evolution of Registrant's products was the development
+of a product which enables the user to select certain areas of a document for
+copy protection. This led to the development of user defined pre-printed forms
+on which certain areas were already activated, such as a doctor's prescription
+form with the signature area protected or a financial instrument exhibiting the
+same kind of protection. This product line is called SELECTIVE NOCOPI(TM).
+Registrant also developed several inks which impede photocopying by color
+copiers. This new technology is called COLOR BLOC(R).
+
+     During 1993, Registrant developed a technology for providing secure faxes.
+Using this technology, a message printed by a receiving telecopier cannot be
+read until the paper has been activated by the recipient. This technology
+initially was available for use only in thermal facsimile machines, limiting its
+marketability. During 1996, Registrant developed a new technology to allow plain
+paper ink jet facsimile machines to receive confidential faxes. This new
+technology is called SECRETFAX(TM). An associated technology, called
+SECURPRINT(TM), enables an ink jet computer printer to produce documents in
+which, at the discretion of the author, a portion or all of the document can be
+rendered confidential until activation. Registrant is engaged in market
+investigations which it believes may lead to the commercial introduction of
+SECRETFAX(TM) and SECURPRINT(TM) during 1997.
+
+                                        3
+
+<PAGE>
+
+
+     The following table illustrates the approximate percentage of Registrant's
+revenues accounted for by each type of its products for each of the three last
+fiscal years:
+
+                                                Year Ended December 31,
+                                             ----------------------------
+                                             1996        1995        1994
+                                             ----        ----        ----
+     Product Type
+     ------------
+Anti-Counterfeiting & Anti-Diversion
+Technologies and Products                     97%         96%         94%
+
+Document Security Products                     3%          4%          6%
+
+
+Marketing
+
+     The marketing approach of Registrant is to have sufficient flexibility in
+its products and technologies so as to provide cost effective solutions to a
+wide variety of counterfeiting, diversion and copier fraud problems. As a
+technology company, Registrant generates revenues primarily by collecting
+license fees from market-specific manufacturers who incorporate Registrant's
+technologies into their manufacturing process and their products. Registrant
+also licenses its technologies directly to end users.
+
+     Registrant has identified a number of major markets for its technologies
+and products, including security printers, manufacturers of labels and packaging
+materials and distributors of brand name products. Within each market, key
+potential users have been identified, and, in many cases, already licensed.
+Within North America, sales efforts include direct selling by company personnel
+to create end user demand and selling through licensee sales forces with support
+from company personnel. Registrant has determined that technical sales support
+by its personnel is of great importance to increasing its licensees' sales of
+products incorporating Registrant's technologies, and recently has significantly
+increased its commitment to providing such support.
+
+     As continued improvements in color copier and desktop publishing technology
+make counterfeiting and fraud opportunities less expensive and more available,
+Registrant intends to maintain an interactive product development and
+enhancement program with the combined efforts of marketing, applications
+engineering and research and development. Registrant's objective is to
+concentrate efforts on developing market-ready products with the most beneficial
+ratios of market potential to development time and cost.
+
+Euro-Nocopi S.A.
+
+     In 1994, the Registrant formed a European company, Euro-Nocopi S.A. to
+market the Company's technologies in Europe under an exclusive license
+agreement. Euro-Nocopi S.A., headquartered in Paris, has sales representatives
+in France, England and Germany. Euro-Nocopi sells the full range of Nocopi
+products and technologies in the European market, both to European-based
+companies and to subsidiaries of U.S.-based corporations. The Registrant
+receives an on-going royalty stream from revenues generated in Europe. The
+Registrant owns an approximately 18% interest in Euro-Nocopi and holds warrants
+permitting it to increase its interest to 55%. Beginning in August 1998, the
+Euro-Nocopi stock sold to investors may be converted into
+
+                                        4
+
+<PAGE>
+
+
+approximately one million shares of the Registrant's common stock in the event
+that no public offering of Euro-Nocopi has been made by that date.
+
+Major Customers
+
+     During 1996, Registrant made sales or obtained revenues equal to 10% or
+more of Registrant's 1996 total revenues from two customers, 3M Corporation and
+Paxar Corporation, which accounted for approximately 22% and 18%, respectively,
+of 1996 revenues. Registrant anticipates that its reliance on these customers
+will diminish as other licensees increase their sales of products incorporating
+Registrant's technologies.
+
+Manufacturing
+
+     Nocopi does not have substantial manufacturing facilities. Registrant
+presently subcontracts the manufacture of its applications to third party
+manufacturers and expects to continue such subcontracting. Applications of
+Registrant's technology are effected mainly through printing and coating. The
+inks are custom manufactured by the Company. Since some of the processes that
+Nocopi uses in its applications are based on relatively common manufacturing
+technologies, there does not appear to be a technical or economic reason for
+Registrant to invest capital in its own manufacturing facilities. In the area of
+its proprietary inks, however, Registrant desires to control the manufacturing
+process for security purposes and has invested $75,000 to establish an ink
+making capacity capable of supplying commercial quantities of its security ink.
+
+     Registrant has established a quality control program which currently
+entails laboratory analysis of developed technologies. Management intends to
+expand this program to include placing specially trained Nocopi technicians
+onsite at third party production facilities to monitor the manufacturing
+process, where warranted. There can be no assurance that Registrant will, in
+fact, so expand its quality control program.
+
+Patents
+
+     Nocopi has received various patents and has patents pending in the United
+States, Canada, South Africa, Saudi Arabia, Australia, New Zealand, Japan,
+France, the United Kingdom, Belgium, the Netherlands, Germany, Austria, Italy,
+Sweden, Switzerland, Luxembourg, and Liechtenstein. Patent applications for
+Registrant's technology (including improvements in the technology) have been
+filed in numerous other jurisdictions where commercial usage is foreseen,
+including Europe, Japan, Australia, and New Zealand, and the rights under such
+applications have been assigned to Registrant. Registrant's patent counsel,
+which conducted the appropriate searches in Canada and the United States, has
+reviewed the results of searches conducted in Europe and advised management that
+effective patent protection for Registrant's technology should be obtainable in
+all countries in which the patent applications have been filed. There can be no
+assurance, however, that such protection will be obtained.
+
+     When a new product or process is developed, the developer may seek to
+preserve for himself the economic benefit of the product or process by applying
+for a patent in each jurisdiction in which the product or process is likely to
+be exploited. Generally speaking, in order for a patent to be granted, the
+product or process must be new and be inventively different from what has been
+previously patented or otherwise known anywhere in the world. Patents generally
+have a duration of 17 years from the date of grant or 20 years from the date of
+application depending on the jurisdiction
+
+                                        5
+
+<PAGE>
+
+
+concerned, after which time any person is free to exploit the product or process
+covered by a patent. A person who is the owner of a patent has, within the
+jurisdiction in which the patent is granted, the exclusive right to exploit the
+patent either directly or through licensees, and is entitled to prevent any
+person from infringing on the patent.
+
+     The granting of a patent does not prevent a third party from seeking a
+judicial determination that the patent is invalid. Such challenges to the
+validity of a patent are not uncommon and are occasionally successful. There can
+be no assurance that a challenge will not be filed to one or more of
+Registrant's patents and that, if filed, such challenge(s) will not be
+successful.
+
+     In the United States and Canada, the details of the product or process
+which is sought to be patented are not publicly disclosed until a patent is
+granted. However, in some other countries, patent applications are automatically
+published at a specified time after filing.
+
+Research and Development
+
+     Nocopi has been involved in research and development since its inception,
+and intends to continue its research and development activities in three areas.
+First, Registrant will continue to refine its present family of products.
+Second, Registrant will seek to expand its technology into new areas of
+implementation. Third, Registrant will seek to develop specific customer
+applications.
+
+     During the years ended December 31, 1994, 1995, and 1996, Nocopi expended
+approximately $742,100, $789,100 and $805,100, respectively, on research and
+development activities (excluding capital expenditures related to research and
+development activities).
+
+Competition
+
+     Registrant is not aware of any competitors in the area of covert document
+and product authentication. Likewise, Registrant is not aware of any competitors
+that market paper which functions in the same way as Nocopi security papers,
+although management is aware of a limited number of competitors which are
+attempting different approaches to the same problems which Registrant's products
+address. Management is aware of a Japanese company that has developed a film
+overlay which is advertised as providing protection from photocopying.
+Management has examined the film overlay and believes that it has a limited
+number of applications. Nocopi security paper is also considerably less
+expensive than the film overlay.
+
+     Other indirect competitors are marketing products utilizing the hologram
+and copy void technologies. The hologram, which has been incorporated into
+credit cards to foil counterfeiting, is considerably more costly than
+Registrant's technology. Copy void is a security device which has been developed
+to indicate whether a document has been photocopied.
+
+     Registrant has limited resources, and there can be no assurance that
+businesses with greater resources than Registrant will not enter the market and
+compete with Registrant.
+
+Employees
+
+     At March 1, 1997, Registrant had 16 employees, including management.
+
+                                        6
+
+<PAGE>
+
+
+Financial Information about Foreign and Domestic Operations
+
+     Certain information concerning Registrant's foreign and domestic operations
+is contained in Note 9 to Registrant's Financial Statements included elsewhere
+in this Annual Report on Form 10-K, and is incorporated herein by reference.
+
+
+
+ITEM 2. PROPERTIES
+
+     Registrant's corporate headquarters are located at 230 Sugartown Road,
+Wayne, Pennsylvania 19087. Its telephone number at that location is (610)
+687-2000. These premises consist of approximately 2,800 square feet of space
+leased from an unaffiliated third party under a lease expiring in July, 2001.
+Current monthly rental under this lease is $4,300.
+
+     In 1992, Registrant established research facilities at One Great Valley
+Parkway, Malvern, Pennsylvania 19355. These facilities, currently consisting of
+approximately 5,000 square feet of space, have been outfitted with approximately
+$39,000 in leasehold improvements. The facilities are occupied by Registrant
+under a lease expiring in September, 1998 at a current monthly rent of $4,200
+including common area charges.
+
+     Registrant's European affiliate leases approximately 800 sq. ft. of office
+space at 30 rue Ste. Marc, Paris, France, under a lease expiring in July, 1998.
+Monthly rental under this lease is $1,200.
+
+     Registrant believes its facilities are adequate for its current needs.
+
+
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     Registrant is not aware of any material pending litigation (other than
+ordinary routine litigation incidental to its business where, in management's
+view, the amount involved is less than 10% of Registrant's current assets) to
+which Registrant is or may be a party, or to which any of its properties is or
+may be subject, nor is it aware of any pending or contemplated proceedings
+against it by any governmental authority. Registrant knows of no material legal
+proceedings pending or threatened, or judgments entered against, any director or
+officer of Registrant in his capacity as such.
+
+
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     During the fourth quarter of the fiscal year ended December 31, 1996, no
+matters were submitted to a vote of Registrant's security holders.
+
+                                        7
+
+<PAGE>
+
+
+                                     PART II
+
+
+ITEM 5. MARKET PRICE OF AND DIVIDENDS ON REGISTRANT'S COMMON EQUITY
+        AND RELATED STOCKHOLDER MATTERS
+
+     Registrant's Common Stock is traded on the over-the-counter market and
+quoted on the NASD over-the-counter Bulletin Board under the symbol "NNUP". The
+table below presents the range of high and low bid quotations of Registrant's
+Common Stock by calendar quarter for the last two full fiscal years and for a
+recent date, as reported by the National Quotation Bureau, Inc. The quotations
+represent prices between dealers and do not include retail markup, markdown, or
+commissions; hence, such quotations do not represent actual transactions.
+Quotations for periods before July 15, 1996, the date on which the Company
+amended its Bylaws to effect a one-for-five reverse split of its common stock,
+have been adjusted for the reverse split.
+
+                                                   High Bid           Low Bid
+                                                   --------           -------
+January 1, 1995 to March 31, 1995                   $4.15              $ .35
+April 1, 1995 to June 30, 1995                       3.65                .65
+July 1, 1995 to September 30, 1995                   3.55                .65
+October 1, 1995 to December 31, 1995                 4.70                .65
+
+January 1, 1996 to March 31, 1996                    3.70               2.55
+April 1, 1996 to June 30, 1996                       4.60               2.65
+July 1, 1996 to September 30, 1996                   3.85               1.88
+October 1, 1996 to December 31, 1996                 2.50               1.00
+
+January 1, 1997 to March 14, 1997                    1.19                .75
+
+     As of March 14, 1997, 14,080,654 shares of Registrant's Common Stock were
+outstanding. The number of holders of record of Registrant's Common Stock was
+approximately 1,100. However, Registrant estimates that it has a significantly
+greater number of Common Stockholders because a number of shares of Registrant's
+Common Stock are held of record by broker-dealers for their customers in street
+name. In addition to the 14,080,654 shares of Common Stock which are
+outstanding, Registrant has reserved for issuance 2,664,472 shares of its Common
+Stock which underlie outstanding options and warrants to purchase Common Stock
+and securities issued by Registrant and Euro-Nocopi S.A., which may be converted
+into its common stock.
+
+     Registrant has paid no cash dividends on its Common Stock and does not
+anticipate paying any such dividends in the foreseeable future.
+
+                                        8
+
+<PAGE>
+
+
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+The following selected financial data has been has been derived from the
+Company's consolidated financial statements. The information set forth should be
+read in conjunction with the Company's Consolidated Financial Statements, the
+related notes and other financial information appearing elsewhere herein and
+Management's Discussion and Analysis of Results of Operations and Financial
+Condition.
+
+                      Selected Consolidated Financial Data
+
+<TABLE>
+<CAPTION>
+
+                                               1996              1995              1994                1993             1992
+                                               ----              ----              ----                ----             ----
+<S>                                       <C>                <C>               <C>                <C>                <C>
+Operating Data
+  Revenues                                $ 3,640,300        $ 3,019,700       $  1,761,700       $  1,286,600       $    354,800
+
+  Loss from operations                       (799,600)          (644,700)        (1,572,600)        (1,288,400)        (1,426,200)
+  Net loss                                   (408,300)          (241,900)        (1,419,200)        (1,293,400)        (1,330,900)
+
+Balance Sheet Data
+  Total assets                              3,532,500          4,465,200          4,299,400          3,265,500          2,573,200
+  Working capital                           1,891,000          2,645,500          3,128,100          2,437,800          1,873,500
+  Notes payable                               950,000            950,000          1,362,500          1,412,500
+  Ownership interest of others
+    in consolidated entity                  1,448,300          1,823,100          2,146,000
+  Shareholders' equity                        172,200            572,700            255,600          1,642,300          2,269,000
+  Average common shares outstanding        14,067,606         14,006,254         13,878,593         13,719,036         13,520,095
+
+Loss per common share                           $(.03)             $(.02)             ($.10)             ($.09)             ($.10)
+</TABLE>
+
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+        AND RESULTS OF OPERATIONS
+
+Results of Operations
+
+     Revenues for the year ended December 31, 1996 were $3,640,300 compared to
+$3,019,700 in 1995 and $1,761,700 in 1994, representing increases of 21% and
+71%, respectively. The increase in both 1996 and 1995 is attributable to the
+growing recognition by the international business community of the financial
+impact of product counterfeiting and product diversion, as well as the need and
+the ability to combat the problem through technologies such as those offered by
+the Company. During 1996 the Company produced its initial order of pressure
+sensitive security labels for 3M Corporation. These label sales are included in
+Product and other sales. During 1996, the Company also renegotiated its
+exclusive license agreement with Georgia-Pacific Corporation. The Company
+believes the new arrangement, combined with a technical development which has
+opened up the potential for an alternative method of applying the Company's
+technology to checks and other security documents, will allow it to broaden the
+distribution of its check printing technologies. The slower than anticipated
+revenue growth from Georgia-Pacific which led, in part, to the license
+renegotiation, negatively affected the Company's second half revenues compared
+to the second half of 1995. The Company and its affiliate, Euro-Nocopi S.A.
+(Euro-Nocopi) continued to sign licensees and end-user customers during the year
+and experienced growth in revenues from certain customers and licensees signed
+in earlier years.
+
+     The Company's gross profit declined to $2,581,600 or 71% of sales from
+$2,620,900 or 87% of revenues and $1,473,300 in or 84% of revenues in 1994. The
+decline in gross profit in 1996 in both absolute dollars and as a percentage of
+revenues is due, in part, to the increase in sales of tangible products such as
+pressure sensitive labels which are manufactured or purchased for resale and
+carry a higher level of direct costs compared to the Company's license and
+royalty revenues.
+
+                                        9
+
+<PAGE>
+
+
+     Research and development costs increased to $805,100 in 1996 from $789,100
+in 1995 and $742,100 in 1994. The increases in both 1996 and 1995 resulted from
+a staff addition in late 1995 and travel expenses to support European sales
+activity.
+
+     Sales and marketing expenses declined to $1,494,100 in 1996 from $1,552,600
+in 1995. The decline relates primarily to lower commission and compensation
+expenses experienced in 1996 compared to 1995. The increase in 1995 from
+$1,485,000 in 1994 is primarily attributable to the development of a sales and
+marketing organization in Europe where efforts intensified after 1994.
+Euro-Nocopi has full-time sales persons in France, England and Germany. As a
+significant amount of luxury products affected by counterfeiting and diversion
+are produced in Europe, the successful implementation of a sales organization in
+Europe was an important 1995 objective. This increase was partially offset by
+lower sales and marketing expenses in the United States resulting in a reduction
+of costs associated with a major sales and marketing program initiated in 1994
+which included direct mail, public relations activities and participation in
+anti-counterfeiting trade shows and meetings.
+
+     General and administrative expenses increased to $943,300 in 1996 from
+$781,500 and $652,100 in 1994 in 1994. The increase in 1996 is attributable to
+legal fees incurred relative to the Company's international patent activities
+and professional fees incurred by Euro-Nocopi. The increase in 1995 compared to
+1994 was attributable to the accrual of incentive payments payable for the
+achievement of the Company's 1995 operating plan in that year and administrative
+costs associated with Euro-Nocopi.
+
+     Other income (expenses) include interest on the Series B 7% Subordinated
+Convertible Promissory Notes issued in May 1993 and amortization of debt issue
+costs related to the Notes. The decrease in interest and amortization in 1995
+reflects the conversion of $412,500 in principal amounts of these notes into
+common stock during that year. Interest income includes interest on funds
+invested in the U.S. as well as the investment of funds held by Euro-Nocopi.
+
+     Ownership interest of others in consolidated entity represents the
+proportionate share in the loss of Euro-Nocopi attributable to the 82% ownership
+interest of the outside shareholders of that company.
+
+     The net loss for 1996 was $408,300 compared to losses of $241,900 and
+$1,419,200 respectively in 1995 and 1994.
+
+     The increase in the 1996 net loss compared to 1995 relates in part to the
+lower revenues realized from Georgia-Pacific compared to 1995 leading to the
+renegotiation of the Company's agreement with Georgia-Pacific as well as delays
+in the development of revenues in other areas of the Company's business. Also
+contributing to the 1996 increase in the net loss is the lower gross profit
+realized as a result of changes in product mix in favor of tangible products
+which carry a higher level of direct costs than licenses and royalties. The
+significant improvement in 1995 compared to 1994 is primarily attributable to
+U.S. revenue increases that year carrying a high gross profit margin as well as
+reductions in domestic overhead costs.
+
+Liquidity and Capital Resources
+
+     The Company's consolidated cash position declined to $2,229,200 at
+December 31, 1996 from $2,982,100 at December 31, 1995. Included in the
+December 31, 1996 cash balance is $1,641,200 held by Euro-Nocopi. This amount is
+available primarily to fund Euro-Nocopi's operations. These funds were raised in
+1994 to enable
+
+
+                                       10
+
+<PAGE>
+
+
+this new entity to exploit the European market for Nocopi's technologies. The
+Company owns an approximate 18% interest in Euro-Nocopi with warrants which
+could increase its holding to 55%. Euro-Nocopi markets the Company's
+technologies in Europe under an exclusive licensing arrangement. Beginning in
+August 1998, the Euro-Nocopi stock sold to investors may be converted into
+approximately one million shares of the Registrant's common stock in the event
+that no public offering of Euro-Nocopi has been made by that date.
+
+     The Company's domestic cash position decreased to $588,000 at December 31,
+1995 from $827,900 at December 31, 1995. The decrease in cash resulted primarily
+from the use of cash required to fund domestic operations, payments in 1996
+related to the acquisition of ink production equipment in late 1995 and
+incentive compensation paid for the achievement of the 1995 U.S. business plan,
+offset by the proceeds of stock option exercises. The Euro-Nocopi cash balance
+declined to $1,641,200 at December 31, 1996 from $2,075,000 at December 31,
+1995. The decrease is attributable principally to funds required to support
+Euro-Nocopi's operations. Capital spending was $61,500 in 1996, $112,000 in 1995
+and $56,900 in 1994.
+
+     The Company has a $1 million short-term line of credit with a bank at
+prime. Collateral for the line of credit includes all assets of the Company
+along with personal assets pledged by two directors. No compensation is payable
+to these directors under this arrangement. The credit line, unless renewed,
+expires at December 31, 1997. There have been no borrowings under this line of
+credit. The Company intends to renew this line prior to its expiration.
+
+     The Company believes that is has sufficient working capital and available
+credit to support its consolidated operations and debt service requirements over
+the next twelve months.
+
+     The Company, on July 15, 1996, amended its Articles of Incorporation to
+effect a one-for-five reverse split of its common stock, increased the par value
+of its common stock from $.002 to $.01 and decreased the number of shares of
+common stock authorized under its Articles of Incorporation from 90,000,000 to
+50,000,000.
+
+Factors That May Affect Future Growth and Stock Price
+
+     The Company's operating results and stock price are dependent upon a number
+of factors, some of which are beyond the Company's control. These include:
+
+     Uneven Pattern of Quarterly and Annual Operating Results. The Company's
+revenues, which are derived primarily from licensing and royalties, are
+difficult to forecast due to the long sales cycle for the Company's
+technologies, the potential for customer delay or deferral of implementation of
+the Company's technologies, the size and timing of inception of individual
+license agreements, the success of the Company's licensees and strategic
+partners in exploiting the market for the licensed products, modifications of
+customer budgets, and uneven patterns of royalty revenue and product orders. As
+the Company's revenue base is not substantial, delays in finalizing license
+contracts, implementing the technology to initiate the revenue stream and
+customer ordering decisions can have a material adverse effect on the Company's
+quarterly and annual revenue expectations and, as the Company's operating
+expenses are substantially fixed, income expectations will be subject to a
+similar adverse outcome.
+
+                                       11
+
+<PAGE>
+
+
+     New Business Opportunities. The Company, with limited research and
+development resources, is compelled to develop new technologies which it
+believes will enhance and expand its leadership position in the
+anti-counterfeiting and anti-diversion marketplace it serves. There can be no
+assurance that the considerable resources expended in this effort will generate
+significant revenues for the Company.
+
+     Intellectual Property. The Company relies on a combination of protections
+provided under applicable international patent, trademark and trade secret laws.
+It also relies on confidentially, non-analysis and licensing agreements to
+establish and protect its rights in its proprietary technologies. While the
+Company actively attempts to protect these rights, the Company's technologies
+could possibly be compromised through reverse engineering or other means. There
+can be no assurance that the Company will be able to protect the basis of its
+technologies from discovery by unauthorized third parties, thus adversely
+affecting its customer and licensee relationships.
+
+     Volatility of Stock Price. The market price for the Company's common stock
+has historically experienced significant fluctuations and may continue to do so.
+The Company has, since its inception, operated at a loss and has not produced
+revenue levels traditionally associated with publicly traded companies. The
+Company's common stock is not listed on a national or regional securities
+exchange and, consequently, receives limited public notice regarding its
+business achievements and prospects nor is it extensively followed by securities
+analysts and traders. The market price may be affected by announcements of new
+relationships or modifications to existing relationships. The stock prices of
+many developing public companies, particularly those with small capitalizations
+have experienced wide fluctuations not necessarily related to operating
+performance. Such fluctuations may adversely affect the market price of the
+Company's common stock.
+
+Recently Issued Accounting Standards
+
+     In March 1997 the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards (SFAS) No. 128 "Earnings per Share." This
+Statement establishes standards for computing and presenting earnings per share
+(EPS) and applies to entities with publicly held common stock or potential
+common stock. This Statement is effective for financial statements issued for
+periods ending after December 15, 1997 (earlier application is not permitted).
+This Statement requires restatement of all prior-period EPS data presented. The
+Company is currently evaluating the impact, if any, adoption of SFAS No. 128
+will have on its financial statements.
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     Financial Statements of Registrant meeting the requirements of Regulation
+S-X (except section 210.3-05 and Article 11 thereof) are included herein
+beginning at page F-1 of this Annual Report on Form 10-K.
+
+     For information required with respect to this Item 8, see "Consolidated
+Financial Statements and Schedules on pages F-1 through F- of this report.
+
+                                       12
+
+<PAGE>
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+        ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     Not Applicable.
+
+                                       13
+
+
+<PAGE>
+
+
+                                    PART III
+
+     The information required by Part III, Items 10 through 13, inclusive of
+Form 10-K are incorporated by reference to Registrant's Definitive Proxy
+Statement for the Annual Meeting of Shareholders scheduled for June 9, 1997,
+which shall be filed with the Securities and Exchange Commission not later than
+120 days after the end of the fiscal year to which this Annual Report on Form
+10-K relates.
+
+                                       14
+<PAGE>
+
+
+                                     PART IV
+
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)  The following Financial Statements are filed as part of this Annual Report
+     on Form 10-K
+
+                                                                       PAGE
+                                                                       ----
+Report of Independent Accountants                                      F-1
+
+Consolidated Balance Sheets as of December 31, 1996 and 1995           F-2
+
+Consolidated Statements of Operations for the Years Ended
+  December 31, 1996, 1995 and 1994                                     F-3
+
+Consolidated Statements of Shareholders' Equity for the
+  Years Ended December 31, 1996, 1995 and 1994                         F-4
+
+Consolidated Statements of Cash Flows for the Years Ended
+  December 31, 1996, 1995 and 1994                                     F-5
+
+Notes to Consolidated Financial Statements                          F-6 to F-16
+
+Schedule II - Valuation and Qualifying Accounts and Reserves           F-17
+
+All other schedules are omitted because they are not required or 
+are inapplicable.
+
+- -------------------------------
+
+
+(b)  The Exhibit Index appears on Page 17 of this Annual Report on Form 10-K.
+
+(c)  Registrant has not filed any reports on Form 8-K during the last quarter of
+     the fiscal year covered by this Annual Report on Form 10-K.
+
+                                       15
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+
+     Pursuant to the requirements of Section 13 of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+
+                                       NOCOPI TECHNOLOGIES, INC.
+                                       Registrant
+
+Dated:   March 27, 1997                By: /s/ Norman A. Gardner
+                                           ------------------------------------
+                                       Norman A. Gardner
+                                       President & Chief Executive Officer
+
+Dated:   March 27, 1997                By: /s/ Rudolph A. Lutterschmidt
+                                           ------------------------------------
+                                       Rudolph A. Lutterschmidt,
+                                       Vice President, Chief Financial Officer
+                                       and Chief Accounting Officer
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+Date:    March 27, 1997                /s/ William F. Drake, Jr.
+                                       ----------------------------------------
+                                       William F. Drake, Jr., Director
+
+Date:    March 27, 1997                /s/ Norman A. Gardner
+                                       ----------------------------------------
+                                       Norman A. Gardner, Director
+
+Date:    March 27, 1997                /s/ Dr. Arshavir Gundjian
+                                       ----------------------------------------
+                                       Dr. Arshavir Gundjian, Director
+
+Date:    March 27, 1997                /s/ Ray B. Mundt
+                                       ----------------------------------------
+                                       Ray B. Mundt, Director
+
+Date:    March 27, 1997                /s/ Edward N. Patrone
+                                       ----------------------------------------
+                                       Edward N. Patrone,
+                                       Chairman of the Board of Directors
+
+Date:    March 27, 1997                /s/ Joel A. Pinsky
+                                       ----------------------------------------
+                                       Joel A. Pinsky, Director
+
+                                       16
+
+
+<PAGE>
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Shareholders and Board of Directors
+of Nocopi Technologies, Inc.
+
+We have audited the accompanying consolidated financial statements and the 
+financial statement schedule of Nocopi Technologies, Inc. listed on the index
+on page 15 of this Form 10-K. These financial statements and financial 
+statement schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of 
+material misstatement. An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements.
+An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Nocopi
+Technologies, Inc. as of December 31, 1996 and 1995 and the consolidated
+results of their operations and cash flows for each of the three years in the
+period ended December 31, 1996 in conformity with generally accepted
+accounting principles. In addition, in our opinion, the financial statement
+schedule referred to above, when considered in relation to the basic  
+consolidated financial statements taken as a whole, presents fairly in all
+material respects the information required to be included herein.
+
+
+COOPERS & LYBRAND L.L.P.
+Philadelphia, Pennsylvania
+March 7, 1997
+
+
+                                      F-1
+
+
+
+<PAGE>
+
+                                                                          
+               Nocopi Technologies, Inc.                                  
+              Consolidated Balance Sheets                                 
+                                                                          
+<TABLE>                                                                   
+<CAPTION>                                                                 
+                                                                              December 31                  
+                                                                     1996                      1995        
+                                                                     ----                      ----        
+                                                                                                           
+                                                Assets                                                     
+<S>                                                               <C>                       <C>            
+ Current assets                                                                                            
+  Cash and cash equivalents                                       $2,229,200                $2,982,100     
+  Accounts receivable less allowances                                                                      
+   (1996-$37,100; 1995-$21,000)                                      513,400                   667,700     
+  Inventory                                                            5,100                    22,200     
+  Prepaid and other                                                  105,300                    93,900     
+                                                                 -----------               -----------     
+   Total current assets                                            2,853,000                 3,765,900     
+                                                                                                           
+ Fixed assets                                                                                              
+  Leasehold improvements                                              43,200                    55,300     
+  Furniture, fixtures and equipment                                  435,000                   381,100     
+                                                                 -----------               -----------     
+                                                                     478,200                   436,400     
+  Less: accumulated depreciation                                     296,600                   231,600     
+                                                                 -----------               -----------     
+                                                                     181,600                   204,800     
+                                                                                                           
+ Other assets                                                                                              
+  Patents, net of accumulated amortization                                                                 
+   (1996 - $214,300; 1995 - $171,200)                                452,000                   419,800     
+  Debt issuance costs, net of accumulated                                                                  
+   amortization (1996 - $156,500; 1995 - $131,200)                    31,600                    56,900     
+  Other                                                               14,300                    17,800     
+                                                                 -----------               -----------     
+                                                                     497,900                   494,500     
+                                                                 -----------               -----------     
+                                                                  $3,532,500                $4,465,200     
+                                                                 ===========               ===========     
+                                                                                                           
+                                                                                                           
+                                 Liabilities and Shareholders' Equity                                      
+                                                                                                           
+ Current liabilities                                                                                       
+  Accounts payable                                                  $539,800                  $398,100     
+  Accrued expenses                                                   139,900                   258,700     
+  Accrued commissions                                                118,100                   182,500     
+  Deferred revenue                                                   164,200                   280,100     
+                                                                 -----------               -----------     
+   Total current liabilities                                         962,000                 1,119,400     
+                                                                                                           
+ Long-term notes payable                                             950,000                   950,000     
+                                                                                                           
+ Commitments and contingencies                                                                             
+                                                                                                           
+ Ownership interest of others in consolidated entity               1,448,300                 1,823,100     
+                                                                                                           
+ Shareholders' equity                                                                                      
+  Series A preferred stock $1.00 par value                                                                 
+   Authorized - 300,000 shares                                                                             
+    Issued and outstanding - none                                                                          
+ Common stock, $.01 par value                                                                              
+   Authorized - 50,000,000 shares                                                                          
+    Issued and outstanding                                                                                 
+     1996 - 14,080,654 shares                                        140,800                               
+     1995 - 14,044,166 shares                                                                  140,400     
+  Paid-in capital                                                  7,651,000                 7,522,900     
+  Currency translation adjustment                                     57,100                   177,800     
+  Accumulated deficit                                             (7,676,700)               (7,268,400)     
+                                                                 -----------               -----------     
+                                                                     172.200                   572,700    
+                                                                 -----------               -----------     
+                                                                  $3,532,500                $4,465,200    
+                                                                 ===========               ===========     
+</TABLE>                                                                 
+
+                                       F-2
+                                                                         
+ See notes to consolidated financial statements.                         
+                                                                         
+                                                                        
+<PAGE>
+
+               Nocopi Technologies, Inc.
+
+         Consolidated Statements of Operations
+
+
+<TABLE>
+<CAPTION>
+                                                                     Years ended December 31
+                                                                 1996            1995            1994
+                                                                 ----            ----            ----
+<S>                                                           <C>             <C>             <C>
+Revenues
+ Licenses, royalties and fees                                 $3,036,800      $2,878,500      $1,610,800
+ Product and other sales                                         603,500         141,200         150,900
+                                                              ----------      ----------      ----------
+                                                               3,640,300       3,019,700       1,761,700
+Cost of sales
+ Licenses, royalties and fees                                    496,900         273,200         150,100
+ Product and other sales                                         561,800         125,600         138,300
+                                                              ----------      ----------      ----------
+                                                               1,058,700         398,800         288,400
+                                                              ----------      ----------      ----------
+  Gross profit                                                 2,581,600       2,620,900       1,473,300
+
+Operating expenses
+ Research and development                                        805,100         789,100         742,100
+ Sales and marketing                                           1,494,100       1,552,600       1,485,600
+ General and administrative                                      943,300         781,500         652,100
+ Other expenses                                                  138,700         142,400         166,100
+                                                              ----------      ----------      ----------
+                                                               3,381,200       3,265,600       3,045,900
+                                                              ----------      ----------      ----------
+  Loss from operations                                          (799,600)       (644,700)     (1,572,600)
+
+Other income (expenses)
+ Amortization of debt issuance costs                             (25,300)        (28,880)        (37,600)
+ Interest income                                                 113,900         189,300          74,800
+ Interest and bank charges                                       (72,100)        (80,600)       (101,800)
+ Ownership interest of others in
+  loss of consolidated entity                                    374,800         322,900         218,000
+                                                              ----------      ----------      ----------
+                                                                 391,300         402,800         153,400
+                                                              ----------      ----------      ----------
+  Net loss                                                     ($408,300)      ($241,900)    ($1,419,200)
+                                                              ==========      ==========     =========== 
+
+Net loss per common share                                          ($.03)          ($.02)          ($.10)
+
+Average common shares outstanding                             14,067,606      14,006,254      13,878,593
+</TABLE>
+
+
+ See notes to consolidated financial statements.
+
+   
+                                   F-3
+<PAGE>
+
+
+                            Nocopi Technologies, Inc.
+                 Consolidated Statements of Shareholders' Equity
+
+<TABLE>
+<CAPTION>
+
+                                                                                           Currency
+                                           Common stock         Paid-in       Treasury    Translation    Accumulated
+                                      Shares       Amount       Capital         Stock     Adjustment       Deficit         Total
+                                      ------       ------       -------         -----     ----------       -------         -----
+<S>                                 <C>           <C>          <C>            <C>         <C>            <C>            <C>
+Balance-January 1, 1994             13,789,048    $137,900     $7,111,700                                $(5,607,300)   $1,642,300
+
+Acquisition of treasury stock          (34,000)                               $(68,000)                                    (68,000)
+
+Exercise of stock options              140,000       1,100            900       68,000                                      70,000
+
+Conversion of Series B note             14,536         100         50,700                                                   50,800
+
+Net loss                                                                                                  (1,419,200)   (1,419,200)
+
+Translation adjustment                                                                     $(20,300)                       (20,300)
+                                    ----------------------------------------------------------------------------------------------
+Balance-December 31, 1994           13,909,584     139,100      7,163,300                   (20,300)      (7,026,500)      255,600
+
+Exercise of stock options               15,000         100         28,900                                                   29,000
+
+Conversion of Series B notes,
+  net of expenses                      119,582       1,200        330,700                                                  331,900
+
+Net loss                                                                                                    (241,900)     (241,900)
+
+Translation adjustment                                                                      198,100                        198,100
+                                    ----------------------------------------------------------------------------------------------
+Balance-December 31, 1995           14,044,166     140,400      7,522,900                   177,800       (7,268,400)      572,700
+
+Exercise of stock options               36,488         400        128,100                                                  128,500
+
+Net loss                                                                                                    (408,300)     (408,300)
+
+Translation adjustment                                                                     (120,700)                      (120,700)
+                                    ----------------------------------------------------------------------------------------------
+Balance-December 31, 1996           14,080,654    $140,800     $7,651,000                   $57,100      $(7,676,700)     $172,200
+                                    ==============================================================================================
+</TABLE>
+
+See notes to consolidated financial statements.
+
+
+                                      F-4
+
+<PAGE>
+
+               Nocopi Technologies, Inc.
+         Consolidated Statements of Cash Flows
+
+
+<TABLE>
+<CAPTION>
+                                                                                       Years ended December 31
+                                                                                  1996           1995           1994
+                                                                                  ----           ----           ----
+<S>                                                                             <C>            <C>          <C>         
+Operating Activities
+ Net loss                                                                       ($408,300)     ($241,900)   ($1,419,200)
+ Adjustments to reconcile net loss to
+  cash used by operating activities
+  Depreciation                                                                     84,200         68,600         51,100
+  Amortization                                                                     71,900         70,400         70,900
+  Allowance for doubtful accounts, net                                             16,100          7,400          9,000
+  Ownership interest of others in
+    loss of consolidated entity                                                  (374,800)      (322,900)      (218,000)
+  Other                                                                                            6,000               
+                                                                               ----------     ----------     ----------
+                                                                                 (610,900)      (412,400)    (1,506,200)
+
+Changes in working capital
+ Accounts receivable                                                              132,800       (230,400)      (329,400)
+ Inventory                                                                         17,100         (8,600)         5,200
+ Prepaid and other                                                                (14,000)       (17,000)       (21,900)
+ Accounts payable and accrued expenses                                            (30,200)       280,400        307,200
+ Deferred revenue                                                                (113,000)       235,300         18,800
+                                                                               ----------     ----------     ----------
+                                                                                   (7,300)       259,700        (20,100)
+                                                                               ----------     ----------     ----------
+  Cash used by operating activities                                              (618,200)      (152,700)    (1,526,300)
+
+Investing Activities
+ Additions to fixed assets                                                        (61,500)      (112,000)       (56,900)
+ Additions to patents                                                             (75,300)      (125,800)       (84,000)
+                                                                               ----------     ----------     ----------
+  Cash used by investing activities                                              (136,800)      (237,800)      (140,900)
+
+Financing Activities
+ Exercise of stock options                                                        128,500         29,000         70,000
+ Issue of stock in Euro-Nocoopi, S.A., net of issue costs                                                     2,310,200
+ Acquisition of treasury stock                                                                                  (68,000)
+                                                                               ----------     ----------     ----------
+  Cash provided by financing activities                                           128,500         29,000      2,312,200
+
+ Effect of exchange rate changes on cash                                         (126,400)       206,000         33,000
+                                                                               ----------     ----------     ----------
+    Increase (decrease) in cash and cash equivalents                             (752,900)      (155,500)       678,000
+Cash and cash equivalents
+ Beginning of year                                                              2,982,100      3,137,600      2,459,600
+                                                                               ----------     ----------     ----------
+ End of year                                                                   $2,229,200     $2,982,100     $3,137,600
+                                                                               ==========     ==========     ==========
+
+Supplemental cash flow data
+  Interest paid                                                                   $66,500        $74,700        $98,000
+
+Additional common stock was issued upon conversion
+ of Series B notes
+  Conversion of Series B notes, net of debt issuance
+   and conversion costs                                                                         $331,900        $50,800
+</TABLE>
+
+ See notes to consolidated financial statements.
+
+                                      F-5
+
+
+<PAGE>
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                   ------------------------------------------
+
+1.    Organization of the Company
+
+      Nocopi Technologies, Inc. (the Company) is organized under the laws of the
+      State of Maryland. Its main business activities are the development and
+      distribution of document security products and the licensing of its
+      patented authentication technologies in the United States and foreign
+      countries.
+
+
+2.    Significant Accounting Policies
+
+      Principles of consolidation - The financial statements include the
+      accounts of the Company and Euro-Nocopi S.A., the European affiliate of
+      the Company. The Company has an approximately 18% interest in Euro-Nocopi
+      and holds warrants permitting it to increase its interest to 55%. The
+      Company's operational and financial control of Euro-Nocopi requires
+      Euro-Nocopi's operations be included in the Consolidated Financial
+      Statements. The 82% equity interest of shareholders other than the Company
+      is shown as "Ownership interest of others in consolidated entity" in the
+      Consolidated Statements of Operations and Consolidated Balance Sheets. All
+      significant intercompany accounts and transactions have been eliminated.
+
+      Principles of accounting - The Company's financial statements are prepared
+      on a basis in conformity with U.S. generally accepted accounting
+      principles ("U.S. GAAP"). The preparation of the financial statements in
+      conformity with U.S. GAAP requires management to make estimates and
+      assumptions that affect the reported amounts of assets and liabilities and
+      disclosure of contingent liabilities at the dates of financial statements
+      and the reported amounts of revenues and expenses during the reported
+      periods. Actual results could differ from those estimates.
+
+      Cash and cash equivalents - Cash equivalents consist principally of time
+      deposits and highly liquid investments with an original maturity of three
+      months or less placed with major banks and financial institutions. The
+      investments are in excess of the FDIC insurance limit. Temporary cash
+      investments are carried at the lower of cost, plus accrued interest, or
+      market value. The amount included in the Consolidated Balance Sheets for
+      "Cash and temporary cash investments" includes $1.6 and $2.1 million in
+      cash and temporary cash investments of Euro-Nocopi at December 31, 1996
+      and 1995, respectively. These amounts are available primarily to fund 
+      European operations.
+
+                                      F-6
+
+<PAGE>
+
+
+
+      Inventory, is valued at the lower of cost or market, determined on a
+      first-in, first-out basis or net realizable value.
+
+      Income taxes are accounted for in accordance with SFAS 109, "Accounting
+      for Income Taxes". Deferred income taxes are provided for all temporary
+      differences and operating loss and tax credit carryforwards. Deferred tax
+      assets are reduced by a valuation allowance when, in the opinion of
+      management, it is more likely than not that some portion or all of the
+      deferred tax assets will not be realized.
+
+      Fixed assets are carried at cost less accumulated depreciation and
+      amortization. Furniture, fixtures and equipment are generally depreciated
+      on the straight-line method over their estimated service lives. Leasehold
+      improvements are amortized on a straight-line basis over five years or the
+      term of the lease, if shorter. Major renovations and betterments are
+      capitalized. Maintenance, repairs and minor items are expensed as
+      incurred. Upon disposal, assets and related depreciation are removed from
+      the accounts and the net amount, less proceeds from disposal, is charged
+      or credited to income.
+
+      Patents are stated at cost less amortization and are being amortized on a
+      straight-line basis over the life of the patent (approximately fifteen
+      years).
+
+      Debt issuance costs are costs incurred in connection with the issuance of
+      long-term debt which have been capitalized and are being amortized over
+      the life of the related debt agreement.
+
+      Revenue, consisting primarily of license fees and royalties, is recorded
+      as earned over the license term. Product sales are recognized primarily
+      upon shipment of products.
+
+      Loss per share of common stock is computed utilizing the weighted average
+      number of shares outstanding during the year including dilutive common
+      stock equivalents after deducting dividends on preferred stock. Fully
+      diluted per share amounts are not presented because they are
+      anti-dilutive.
+
+      Recoverability of Long Lived Assets - Effective January 1, 1996 the
+      Company adopted SFAS No. 121, "Accounting for the Impairment of Long-Lived
+      Assets and for Long-Lived Assets to be Disposed of." The Statement
+      requires that long-lived assets and certain identifiable intangibles be
+      reviewed for impairment whenever events or changes in circumstances
+      indicate that the carrying amount of the asset may not be recoverable. The
+      Company is not aware of any events or circumstances which indicate the
+      existence of an impairment which would be material to the Company's
+      quarterly or annual financial statements.
+
+      Accounting for Stock-Based Compensation - Compensation costs attributable
+      to stock option and similar plans are recognized based on any difference
+      between the quoted market price of the stock on the date of the grant
+      over the amount the employee is required to pay to acquire the stock
+      (the intrinsic value method under Accounting Principles Board Opinion 25).
+      Such amount, if any, is accrued over the related vesting period, as 
+      appropriate.
+
+      Effective January 1, 1996 the Company implemented SFAS No. 123,
+      "Accounting for Stock-Based Compensation." The Statement encourages
+      employers to account for stock compensation awards based on their fair
+      value on their date of grant. Entities may choose not to apply the new
+      accounting method but instead, disclose in the notes to the financial
+      statements the pro forma effects on net income and earnings per share as
+      if the new method had been applied. The Company has adopted the
+      disclosure-only approach of the Standard.
+
+                                      F-7
+
+
+<PAGE>
+
+
+      Recently Issued Accounting Standards
+
+      In March 1997 the Financial Accounting Standards Board issued Statement of
+      Financial Accounting Standards (SFAS) No. 128 "Earnings per Share." This
+      Statement establishes standards for computing and presenting earnings per
+      share (EPS) and applies to entities with publicly held common stock or
+      potential common stock. This Statement is effective for financial
+      statements issued for periods ending after December 15, 1997 (earlier
+      application is not permitted). This Statement requires restatement of all
+      prior-period EPS data presented. The Company is currently evaluating the
+      impact, if any, adoption of SFAS No. 128 will have on its financial
+      statements.
+
+
+3.    Long-term Notes, Shareholders' Equity and Credit Arrangements.
+
+      The Company has $950,000 Series B 7% Subordinated Convertible Promissory
+      Notes (the B Notes) outstanding. Interest on the B notes is payable on a
+      semi-annual basis. The B Notes are payable in full on March 31, 1998, may
+      be prepaid at any time and are convertible into common stock of the
+      Company at a conversion price of $3.50 per share. The carrying cost of the
+      B Notes at December 31, 1996 and 1995 approximates their fair value.
+
+      Debt issuance costs of $188,200 related to the notes are being amortized
+      to other expense under the straight line method over the term of the B
+      Notes.
+
+      The Company, on July 15, 1996, amended its Articles of Incorporation to
+      effect a one-for-five reverse split of its common stock, to increase the
+      par value of its common stock from $.002 to $.01 and to decrease the
+      number of shares of common stock authorized under its Articles of
+      Incorporation from 90,000,000 to 50,000,000. All applicable share and per
+      share data have been adjusted for the reverse stock split.
+
+      During the first quarter of 1994, the Company provided a $30,000
+      short-term loan to a director arising from his exercise of 60,000 stock
+      options which was repaid in full in the second quarter. Additionally, the
+      Company acquired 34,000 shares of common stock from this director for
+      $68,000 which was reissued in connection with the exercise of stock
+      options by another individual.
+
+
+                                      F-8
+
+<PAGE>
+
+
+      The Company has a $1 million short-term line of credit with a bank at
+      prime. Collateral for the line of credit includes all assets of the
+      Company along with personal assets pledged by two directors. No
+      compensation will be paid to these directors under this arrangement. The
+      credit line, unless renewed, expires at December 31, 1997. There have been
+      no borrowings under this line of credit. The Company intends to renew this
+      line prior to its expiration.
+
+
+4.    Income Taxes
+
+      On December 31, 1996 and 1995, the Company had operating loss
+      carryforwards totaling approximately $7,395,000 and $7,209,000,
+      respectively. These operating losses are available to offset future
+      taxable income through the years 2012 and 2011, respectively. A valuation
+      allowance has been provided against the deferred tax assets due to
+      uncertainty of realization.
+
+      The following is a summary of the significant components of the Company's
+      deferred tax assets and liabilities as of December 31, 1996 and December
+      31, 1995.
+
+                                                   December 31, 1996
+                                           ----------------------------------
+                                           Deferred Tax          Deferred Tax
+                                              Asset                Liability
+                                              -----                ---------
+
+      Allowance for bad debts              $    12,700
+
+      Excess tax amortization
+        and depreciation on
+        intangible and fixed
+        assets                                                     $17,700
+
+      Inventory reserve                          3,900
+
+      Net operating losses                   2,638,900
+
+      Research and development
+        credits                                140,600
+                                           -----------             -------
+                                             2,796,100
+      Valuation allowance                   (2,778,400)
+                                           -----------             -------
+      Total deferred tax assets
+        and liabilities                    $    17,700             $17,700
+                                           ===========             =======
+
+                                      F-9
+
+
+<PAGE>
+
+
+
+                                                   December 31, 1996
+                                           ----------------------------------
+                                           Deferred Tax          Deferred Tax
+                                              Asset                Liability
+                                              -----                ---------
+
+      Allowance for bad debts              $    7,100
+
+      Excess tax amortization
+        and depreciation on
+        intangible and fixed
+        assets                                                      $29,800
+
+      Inventory reserve                        22,100
+
+      Net operating losses                  2,567,000
+
+      Research and development
+        credits                                99,500
+                                           ----------               -------
+                                            2,695,700
+      Valuation allowance                  (2,665,900)
+                                           ----------               -------
+      Total deferred tax assets
+        and liabilities                    $   29,800               $29,800
+                                           ==========               =======
+
+5.    Related Party Transactions
+
+      During 1996, 1995 and 1994, payments of $138,700, $142,400 and $166,100,
+      respectively, were made to firms employing certain officers and directors
+      for legal, consulting and research services. In 1995, $50,000 was charged
+      to paid-in capital for services in connection with debt conversions in
+      that year.
+
+6.    Commitments and Contingencies
+
+      The Company conducts its operations in leased facilities and leases
+      equipment under leases expiring at various dates to 2001.
+
+      Future minimum lease payments under non-cancelable operating leases with
+      initial or remaining terms of one year or more at December 31, 1996 are:
+      $116,800 - 1997; $98,000 - 1998; $67,000 - 1999; $63,200 - 2000; and
+      $38,500 - 2001.
+
+      Total rental expense under operating leases was $149,600 in 1996, $125,100
+      in 1995 and $114,400 in 1994.
+
+      From time to time, the Company may be subject to legal proceedings and
+      claims which arise in the ordinary course of its business. In the opinion
+      of management, the amount of ultimate liability with respect to any
+      present actions will not materially affect the financial position or
+      results of operations of the Company.
+
+                                      F-10
+
+<PAGE>
+
+
+7.    Stock Options and 401(k) Savings Plan
+
+      In accordance with the 1986 Incentive Stock Option Plan, the Company was
+      authorized through June 1996 to issue options to purchase up to 300,000
+      common shares to management and key employees of the Company. The exercise
+      price of the options granted must be equal to the fair market value of
+      such shares on the date of grant. The term of each option and the manner
+      in which it may be exercised was determined by the Company, subject to the
+      requirement that no option may be exercisable more than ten years after
+      the date of grant. With respect to any incentive stock option granted to a
+      participant who owns more than 10% of the voting rights of the Company's
+      capital stock on the date of grant, the exercise price of the option must
+      be at least equal to 110% of the fair market value on the date of grant
+      and the option may not be exercisable for more than five years from the
+      date of grant.
+
+      In accordance with the 1986 Non-Qualified Stock Option Plan, the Company
+      was authorized through June 1996 to issue options to purchase up to
+      700,000 common shares to certain key employees, independent contractors,
+      technical advisors and directors of the Company. The difference between
+      fair market value and the option price for grants made under the
+      non-qualified plan is charged to income as compensation expense over the
+      vesting periods of the related options.
+
+      The 1996 Stock Option Plan was approved by the shareholders of the Company
+      in June 1996. The Plan provides for the granting of up to 700,000
+      incentive and non-qualified stock options to employees, non-employee
+      directors, consultants and advisors to the Company. In the case of options
+      designated as incentive stock options, the exercise price of the options
+      granted must be not less than the fair market value of such shares on the
+      date of grant. Non-qualified stock options may be granted at any amount
+      established by the Stock Option Committee or, in the case of Discounted
+      Options issued to non-employee directors in lieu of any portion of an
+      Annual Retainer, in accordance with a formula designated in the Plan. The
+      difference between fair market value and the option price for
+      non-qualified options granted made under the plan is charged to income as
+      compensation expense over the vesting periods of the related options. No
+      options were granted in 1996 under this plan.
+
+                                      F-11
+
+<PAGE>
+
+
+
+      A summary of stock options under these plans follows:
+
+      Outstanding at December 31, 1993          657,412          $.50 to $3.80
+      Options granted                           270,000           2.20 to 2.80
+      Options exercised                        (140,000)                   .50
+      Options canceled                         (321,206)          3.00 to 3.80
+                                               --------
+      Outstanding at December 31, 1994          466,206            .75 to 3.75
+      Options granted                           295,200           3.25 to 4.05
+      Options exercised                         (15,000)         1.30 and 2.25
+      Options canceled                          (63,706)          3.25 to 4.05
+                                               --------
+      Outstanding at December 31, 1995          682,700            .75 to 4.05
+      Options granted                            43,000          3.10 and 4.35
+      Options exercised                         (36,488)          3.00 to 3.75
+      Options canceled                           (8,846)          3.00 to 4.05
+                                               --------
+      Outstanding at December 31, 1996          680,366          $.75 to $4.35
+                                               ========
+      Exercisable at December 31, 1996          574,466          $.75 to $4.35
+                                               ========
+
+
+      The Company applies APB Opinion 25 and related interpretations in
+      accounting for its plans. Accordingly, no compensation expense has been
+      recognized in connection with stock option grants under the plans. Had
+      compensation expense been determined based on the fair value on the grant
+      dates for awards under those plans consistent with the method of SFAS No.
+      123, the Company's net loss and net loss per common share would have been
+      reported as the pro forma amounts below:
+
+
+                                            1996            1995
+                                            ----            ----
+      Net loss
+         As reported                     ($408,300)      ($241,900)
+         Pro forma                       ($470,400)      ($629,200)
+                                                                   
+      Loss per common share           
+         As reported                       ($.03)          ($.02)  
+         Pro forma                         ($.03)          ($.04)  
+
+
+      The fair value of each option granted is estimated on the day of grant
+      based on a modified Black-Scholes option-pricing model with the following
+      weighted-average assumptions used for grants in 1996 and 1995,
+      respectively: expected volatility of 76% and 50%; risk free interest rates
+      of 6.1% to 6.3% and 5.7% to 6.6% and expected lives of two years.
+
+      At December 31, 1996, the Company has reserved 2,733,072 shares of common
+      stock for possible future issuance upon exercise of stock options,
+      warrants and convertible securities.
+
+      The Company sponsors a 401(k) savings plan, covering substantially all
+      employees, providing for employee and employer
+
+                                      F-12
+
+<PAGE>
+
+
+
+      contributions. Employer contributions are made at the discretion
+      of the Company. There were no contributions charged to expense
+      during 1996, 1995 or 1994.
+
+8.    Euro-Nocopi, S.A.
+
+      Euro-Nocopi, S.A. was formed in 1994 to market the Company's technologies
+      in Europe under an exclusive license arrangement. Euro-Nocopi's Board of
+      Directors is composed of five members who are members of the Company's
+      Board of Directors and two outsiders. Euro-Nocopi was capitalized through
+      a European private placement which allows those investors to convert the
+      Euro-Nocopi stock into approximately one million shares of Nocopi
+      Technologies, Inc. common stock beginning in August 1998 in the event that
+      no public offering of Euro-Nocopi has been made by that date.
+
+                                      F-13
+
+<PAGE>
+
+
+9.    Segment, Geographic and Major Customer Information
+
+      The Company operates in one principal industry segment - the development
+      and distribution of security products and the licensing of its patented
+      authentication technologies. The Company's technologies and products are
+      sold principally to the corporate market.
+
+      Geographic financial information is as follows:
+
+<TABLE>
+<CAPTION>
+
+                                               1996              1995             1994
+                                            ----------        ----------       -----------
+<S>                                         <C>               <C>              <C>
+Revenues from unaffiliated customers:
+   United States                            $2,604,900        $2,198,700       $ 1,467,900
+   Europe                                      872,300           720,500           217,200
+   Other foreign                               163,100           100,500            76,600
+                                            ----------       -----------       -----------
+     Total revenues                         $3,640,300        $3,019,700       $ 1,761,700
+                                            ==========        ==========       ===========
+
+Transfers between geographic segments
+ (eliminated in consolidation):
+   United States                            $  150,200        $  109,600       $    27,800
+   Europe                                       48,000            44,900
+                                            ----------        ----------       -----------
+     Total transfers                        $  198,200        $  154,500       $    27,800
+                                            ==========        ==========       ===========
+
+Loss from operations:
+   United States                            $ (276,300)       $ (109,400)      $(1,142,300)
+   Europe                                     (523,300)         (535,300)         (430,300)
+                                            ----------        ----------       -----------
+Total loss from operations                  $ (799,600)       $ (644,700)      $(1,572,600)
+                                            ==========        ==========       ===========
+
+Identifiable assets:
+   United States                            $1,673,300        $2,250,400       $ 1,868,200
+   Europe                                    1,857,100         2,209,300         2,426,200
+   Other foreign                                 2,100             5,500             5,000
+                                            ----------        ----------       -----------
+     Total assets                           $3,532,500        $4,465,200       $ 4,299,400
+                                            ==========        ==========       ===========
+</TABLE>
+
+
+      Revenues from unaffiliated customers are based on the location of the
+      customers. Transfers between geographic areas are recorded according to
+      contractual arrangements. Loss from operations consists of total revenue
+      less operating expenses and does not include either interest or other
+      expenses, net. Identifiable assets of geographic areas are those assets
+      used in the Company's operations in each area.
+
+      The Company's two largest customers accounted for approximately 40%, 37%
+      and 52% of revenues in 1996, 1995 and 1994, respectively, and
+      approximately 35%, 39% and 61% of accounts receivable at December 31,
+      1996, 1995 and 1994, respectively. The Company performs ongoing credit
+      evaluations of its customers and generally does not require collateral.
+      The Company also maintains allowances for potential credit losses.
+
+                                      F-14
+
+<PAGE>
+
+
+10.   Quarterly Financial Data (unaudited)
+
+<TABLE>
+<CAPTION>
+
+                                                         Quarter Ended
+                                    Mar. 31         Jun. 30         Sep. 30          Dec. 31
+                                    -------         -------         -------          -------
+       1996
+       ----
+<S>                                <C>             <C>             <C>              <C>
+ Revenues                          $875,500        $936,200        $951,200         $877,400
+ Gross profit                       705,300         673,900         604,300          598,100
+ Net loss                           (10,800)        (34,600)       (163,400)        (199,500)
+ Loss per share (1)                    (.00)           (.00)           (.01)            (.01)
+
+       1995
+       ----
+ Revenues                          $653,200        $743,100        $782,100         $841,300
+ Gross profit                       556,500         650,400         710,700          703,300
+ Net earnings (loss)               (168,800)        (60,800)        (22,200)           9,900
+ Earnings (loss)
+  per share (1)                        (.01)           (.00)           (.00)             .00
+</TABLE>
+
+
+(1) Quarterly earnings (loss) per share are based on the weighted average number
+of shares outstanding for each quarter and, as a result, the quarterly earnings
+(loss) per share do not add to the annual amount.
+
+                                      F-15
+
+<PAGE>
+
+
+                            NOCOPI TECHNOLOGIES, INC.
+
+          SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+
+<TABLE>
+<CAPTION>
+
+                                           Balance        Additions
+                                          Beginning       Charged to                        Balance
+                                           of Year        Operations      Deductions      End of Year
+                                           -------        ----------      ----------      -----------
+           DESCRIPTION
+<S>                                      <C>               <C>              <C>           <C>
+Year ended December 31, 1994
+  Allowance for doubtful accounts           $12,800          $9,000                          $21,800
+  Inventory reserve                          89,500                         $12,900           76,600
+  Income tax valuation allowance          1,797,700         645,700                        2,443,400
+
+
+Year ended December 31, 1995
+  Allowance for doubtful accounts           $21,800          $9,600         $10,400          $21,000
+  Inventory reserve                          76,600                          11,600           65,000
+  Income tax valuation allowance          2,443,400         222,500                        2,665,900
+
+
+Year ended December 31, 1996
+  Allowance for doubtful accounts           $21,000         $18,300         $ 2,200          $37,100
+  Inventory reserve                          65,000                          53,500           11,500
+  Income tax valuation allowance          2,665,900         112,500                        2,778,400
+</TABLE>
+
+                                      F-16
+
+<PAGE>
+
+
+
+     The following Exhibits are filed as part of this Annual Report on Form
+10-K:
+
+
+          Exhibit
+          Number                   Description
+          -------                  -----------
+
+           3.1                     Articles of Incorporation(1)
+
+           3.2                     Bylaws(1)
+
+           3.3                     Articles of Amendment to Articles
+                                   of Incorporation
+
+           10.1                    Amended and Restated Non-Qualified Stock
+                                   Option Plan(3)
+
+           10.2                    Amended and Restated Incentive Stock
+                                   Option Plan(3)
+
+           10.3                    Employment Agreement between Registrant
+                                   and Dr. A. Gundjian
+
+           10.4                    Summary Plan Description for Nocopi
+                                   Technologies, Inc. 401(k) Profit Sharing
+                                   Plan(2)
+
+           10.5                    License Agreement between Registrant and
+                                   Euro-Nocopi S.A.(3)
+
+           10.6                    Service Agreement between Registrant and
+                                   Euro-Nocopi S.A.(3)
+
+           10.7                    Memorandum of Agreement between
+                                   Registrant and Euro-Nocopi S.A.(3)
+
+           10.8                    Nocopi Technologies, Inc. 1996 Stock
+                                   Option Plan
+
+           21.1                    List of Subsidiaries
+
+           23.1                    Consent of Coopers & Lybrand L.L.P.
+
+           27.0                    Financial Data Schedule
+
+- ----------
+
+(1)  Incorporated by reference to Registrant's Registration Statement on
+     Form 10, as filed with the Commission on or about August 19, 1992
+
+(2)  Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the Year Ended December 31, 1993
+
+(3)  Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the Year Ended December 31, 1994
+
+                                       17
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<DESCRIPTION>ARTICLES OF AMENDMENT TO ARTICLES OF INCORPORATION
+<TEXT>
+
+
+
+                            NOCOPI TECHNOLOGIES, INC.
+
+                              ARTICLES OF AMENDMENT
+                                       to
+                            ARTICLES OF INCORPORATION
+
+
+     NOCOPI TECHNOLOGIES, INC., a Maryland corporation having its principal
+office in Baltimore City, Maryland (the "Corporation") hereby certifies to the
+State Department of Assessments and Taxation of Maryland that:
+
+     FIRST: The Charter of the Corporation is hereby amended (a) by deleting the
+first sentence of Article V thereof and replacing such sentence with the
+following:
+
+     "The aggregate number of shares which the corporation shall have authority
+     to issue is Fifty Million (50,000,000) shares of common stock having a par
+     value of $.01 per share and Three Million (3,000,000) shares of preferred
+     stock having a par value of $1.00 per share."
+
+and (b) by adding the following at the end of Article V thereof:
+
+     "Upon the filing of this Amendment (the "Effective Time"), each five (5)
+     shares of common stock, par value $.002 then outstanding or in treasury
+     shall, without further action by the corporation or any shareholder, be
+     converted into one share of common stock, par value $.01; provided that
+     fractional shares shall not be issued and, in lieu of issuing any
+     fractional shares, the corporation shall purchase each such fractional
+     share for a price determined by multiplying the Fair Market Value (as
+     hereinafter defined) of one share of common stock, par value $.01 at the
+     Effective Time by a fraction, the numerator of which is the interest in the
+     corporation represented by such fractional share and the denominator of
+     which is the interest in the corporation represented by one whole share of
+     such common stock, in each case, rounded to the nearest one-thousandth of
+     one percent (.001%). For the purpose of the preceding sentence, the term
+     Fair Market Value shall mean an amount determined by multiplying Five (5)
+     by either (i) the closing selling price of the corporation's common stock,
+     par value $.002 on the day preceding the date of the Effective Time, or
+     (ii) if no sale of such common stock occurred on such date, the mean
+     average of the closing high bid and low asked
+
+
+<PAGE>
+
+
+     prices of such common stock on the day preceding the date of the Effective
+     Time. From and after the Effective Time, each certificate evidencing shares
+     of common stock, par value $.002 of the corporation outstanding or in
+     treasury at the Effective Time shall thereafter evidence (x) that number of
+     shares of common stock, par value $.01 of the corporation as is determined
+     by dividing the number of shares of common stock, par value $.002 of the
+     corporation specified on such certificate by Five (5) and, if the result
+     thus obtained shall not be a whole number, by reducing such result to the
+     next smaller whole number, and (y) the right to receive payment for any
+     fractional share as hereinabove provided."
+
+     SECOND: The amendment of the Charter of the Corporation as hereinabove set
+forth has been duly advised by the board of directors and approved by the
+stockholders of the Corporation.
+
+     THIRD: Prior to the amendment, the total number of shares of all classes
+which the Corporation had authority to issue was Ninety Three Million
+(93,000,000), consisting of Ninety Million (90,000,000) shares of common stock,
+par value $.002 per share, and Three Million (3,000.000) shares of preferred
+stock, par value $1.00 per share, and the aggregate par value of all shares of
+all classes was $3,180,000. Subsequent to the amendment, the total number of
+shares of all classes which the Corporation had authority to issue was Fifty
+Three Million (53,000,000), consisting of Fifty Million (50,000,000) shares of
+common stock, par value $.01 per share, and Three Million (3,000,000) shares of
+preferred stock, par value $1.00 per share, and the aggregate par value of all
+shares of all classes was $3,500,000. The information required by subsection
+(b)(2)(i) of Section 2-607 of the Maryland General Corporation Law was not
+changed by the amendment.
+
+                                       -2-
+
+<PAGE>
+
+
+     IN WITNESS WHEREOF, Nocopi Technologies, Inc. has caused these presents to
+be signed in its name and on its behalf by its President and attested by its
+Assistant Secretary on the 2nd day of July, 1996.
+
+                                             NOCOPI TECHNOLOGIES, INC.
+
+
+
+                                             By: /s/ Norman A. Gardner
+                                                 ------------------------------
+                                                   Norman A. Gardner, President
+
+Attest:
+
+
+/s/ Donna Ciavarelli
+- -------------------------------------
+Donna Ciavarelli, Assistant Secretary
+
+
+     THE UNDERSIGNED, President of Nocopi Technologies, Inc., who executed on
+behalf of said corporation the foregoing Articles of Amendment, of which this
+certificate is made a part, hereby acknowledges, in the name and on behalf of
+said corporation, the foregoing Articles of Amendment to be the corporate act of
+said corporation and further certifies that, to the best of his knowledge,
+information and belief, the matters and facts set forth therein with respect to
+the approval thereof are true in all material respects, under the penalties of
+perjury.
+
+
+
+                                            /s/ Norman A. Gardner
+                                                -------------------------------
+                                                Norman A. Gardner
+
+
+                                       -3-
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>3
+<DESCRIPTION>1996 STOCK OPTION PLAN
+<TEXT>
+
+
+
+                            NOCOPI TECHNOLOGIES, INC.
+
+                             1996 STOCK OPTION PLAN
+
+     1. Name, Purpose and Eligibility. This plan shall be known as the Nocopi
+Technologies, Inc. 1996 Stock Option Plan (the "Plan"). The purpose of the Plan
+is to advance the interests of Nocopi Technologies, Inc. (the "Company") by
+encouraging the acquisition of its common stock by directors and key employees
+of the Company and its subsidiaries upon whose judgment and ability the Company
+depends for its long term growth and development. Accordingly, the Plan is
+intended to promote a close identity of interests between the Company and its
+directors and employees as well as a means to attract and retain outstanding
+management. All salaried employees of the Company and its subsidiaries and
+non-employee directors of the Company ("Eligible Employees") shall be eligible
+to receive options under and in accordance with the terms of the Plan. In
+addition, consultants and advisers to the Company may receive options under the
+Plan to the extent that such persons are deemed to be employees for the purposes
+of registering shares issuable upon the exercise of options under the Securities
+Act of 1933 (the "Act") through the use of Form S- 8 promulgated thereunder.
+
+     2. Plan Administration.
+
+        (a) The Plan shall be administered by a committee (the "Committee")
+which shall consist of not less than two non-employee directors appointed by the
+Company's Board of Directors (the "Board"). No member of the Committee shall be,
+or within one year before having become a member thereof shall have been,
+eligible for selection as a person to whom stock options may be granted by the
+Committee under the Plan. Non-employee directors, including members of the
+Committee, may, however, participate under the Plan to the extent, and on the
+terms, specified in Section 7 hereof.
+
+        (b) Subject to the terms of the Plan, the Committee shall have the
+authority, in its sole discretion and from time to time, to: (i) designate the
+Eligible Employees (other than non-employee directors) to whom options to
+purchase ("Options") the Company's common stock, par value $.01 per share (such
+common stock, and any other common stock or other securities which may be
+issuable upon the exercise of Options granted hereunder by virtue of any
+adjustment made pursuant to Section 11 hereof is herein referred to as "Common
+Stock") shall be granted under the Plan; (ii) grant Options provided for in the
+Plan in such form and amount as the Committee shall determine; (iii) impose such
+limitations, restrictions and conditions upon any such Option as the Committee
+shall deem appropriate; and (iv) interpret the Plan, adopt, amend and rescind
+rules and regulations relating to the Plan, and make all other determinations
+and take all other actions necessary and advisable for the administration of the
+Plan.
+
+
+<PAGE>
+
+
+
+
+        (c) Decisions and determinations of the Committee on all matters
+relating to the Plan shall be in its sole discretion and shall be conclusive. No
+member of the Committee shall be liable for any action taken or decision made in
+good faith relating to this Plan or any award hereunder.
+
+     3. Types of Options Under Plan. The Committee may designate Options granted
+to a person who (i) is an employee of the Company or a subsidiary of the Company
+and (ii) does not own stock possessing more than ten percent of the total
+combined voting power of all classes of stock of the Company as "incentive stock
+options" within the meaning of Section 422A of the Internal Revenue Code of
+1986, as amended (the "Code"). A stock option agreement for any Option intended
+to qualify as an incentive stock option shall contain a statement of such
+intent. All Options granted under the Plan which are not designated as incentive
+stock options shall be non-qualified stock options.
+
+     4. Shares Subject to the Plan. The aggregate number of shares of the
+Company's common stock, par value $.01 per share which may be issued upon the
+exercise of Options granted under the Plan is 700,000 subject to adjustment as
+provided in Section 11 hereof. Such shares may be authorized and unissued shares
+or may be treasury shares. If an Option expires or terminates for any reason
+during the term of the Plan and prior to its exercise in full, the number of
+shares previously subject to but not delivered under such Option shall again be
+available for the grant of Options thereafter.
+
+     5. Effective Date and Term of Plan. The Plan shall become effective at such
+time as there shall have been filed and become effective articles of amendment
+to the Company's articles of incorporation effecting a one for five reverse
+stock split, setting the number of authorized shares of the Company's common
+stock at 50,000,000, and setting the par value of such shares at $.01 per share,
+provided that on such date, the adoption of the Plan shall have been approved by
+the affirmative vote of the holders of a majority of the Company's Common Stock
+present or represented and entitled to vote at a meeting duly held in accordance
+with the provisions of the Maryland General Corporation Law, as amended, and
+shall remain in effect for a period of ten years thereafter, or until
+termination by the Board, whichever occurs first. The effectiveness of the Plan
+shall constitute its adoption for the purposes of Section 422A of the Code.
+
+                                       -2-
+
+<PAGE>
+
+
+     6. Stock Options.
+
+        (a) Options granted under the Plan shall be evidenced by stock option
+agreements in such form, not inconsistent with this Plan, as the Committee shall
+approve from time to time. At the time of the grant the Committee shall
+determine for each Option the exercise period, which shall not continue for more
+than ten years from the date of Option grant, the appropriate Option price (as
+specified below) and such other conditions to or restrictions on the exercise of
+the Option, including but not limited to vesting provisions, if any, as the
+Committee deems appropriate.
+
+        (b) The per share price at which a share of Common Stock may be
+purchased upon the exercise of an Option (the "Option Price") shall be
+determined as follows:
+
+            (i)  In the case of an Option designated as an incentive stock
+option, the Option Price shall be not less than 100% of the fair market value
+(on the date such Option is granted) of the Common Stock issuable upon the
+exercise thereof, as determined by the Committee in the reasonable exercise of
+its discretion.
+
+            (ii) In the case of a non-qualified Option, the Option Price shall
+be any amount established by the Committee in its discretion or, in the case of
+Discounted Options (as hereafter defined), the amount determined in accordance
+with Section 7(a)(iii) of this Plan.
+
+        (c) The aggregate Option Price payable to the Company in connection with
+the exercise of Option(s) may be paid in cash or, in whole or in part, with
+unrestricted shares of Company Common Stock, as the Committee may determine.
+
+     7. Non-Employee Director Options.
+
+        (a) If, during the term of this Plan, the Company shall adopt a policy
+of compensating non-employee directors for their service as directors on an
+annual basis, the Company shall issue discounted options ("Discounted Options")
+to any non-employee director of the Company electing to receive such Discounted
+Options in lieu of the payment to said non-employee director of any specified
+portion of the Annual Retainer (as defined hereinbelow) otherwise payable to
+such non-employee director, provided that in the particular case all of the
+limitations and provisions of this Section shall have been complied with:
+
+                                       -3-
+
+<PAGE>
+
+
+            (i)  A Discounted Option shall be issued automatically on June 1
+(or if June 1 is not a business day, on the next succeeding business day) of
+each year to any non-employee director who, prior to January 1 of such year,
+files with the Committee or its designee an irrevocable, written election to
+receive such Discounted Option in lieu of all or a specified portion of the
+Annual Retainer to be earned in such year by such non-employee director.
+
+            (ii) The number of shares subject to a Discounted Option issued to a
+non-employee director pursuant to this Section shall be equal to the nearest
+number of whole shares determined in accordance with the following formula:
+
+         Dollar Amount of Annual Retainer to
+         be Received as Discounted Option        =  Number
+         Fair Market Value of Common Stock          of Shares
+         on Date of Issue - Per Share
+         Option Price
+
+"Annual Retainer" shall mean the amount which the non-employee director will be
+entitled to receive for serving as a director in the relevant calendar year, but
+shall not include fees or expenses for attendance at meetings of the Board or
+any committee of the Board or for any other services to be provided to the
+Company.
+
+            (iii) The Option price per share for the shares covered by
+Discounted Options issued in accordance with this Section shall be Seventy Five
+Percent (75%) of the fair market value of the Common Stock. For the purpose of
+this subsection 7(a)(iii), the fair market value of the Common Stock shall be
+deemed to be the closing selling price of the Common Stock on the trading day
+immediately preceding the date on which the Discounted Option is issued, or, if
+no sale of Common Stock occurred on such day, the mean average of the low
+"asked" and high "bid" prices for the Common Stock on such day, in either case,
+as reported by the National Quotation Bureau, Inc.
+
+            (iv)  No Discounted Option issued under this Section may be
+exercised before the first anniversary of the date upon which it was issued;
+provided, however, that any Discounted Option so issued shall become exercisable
+upon the retirement of the non-employee director because of age or upon the
+death or disability of the director, as provided in paragraphs (v) and (vi) of
+this Section. No Discounted Option issued under this Section shall be
+exercisable after the expiration of ten years from the date upon which such
+Discounted Option is issued. Each Discounted Option shall be subject to
+termination before its date of expiration as hereinafter provided.
+
+                                       -4-
+
+<PAGE>
+
+
+
+
+            (v)   Except as herein provided, the rights of a non-employee 
+director in a Discounted Option issued under this Section shall not terminate
+upon such director's termination as a director for any reason (including death,
+retirement or disability). That portion of any Discounted Option granted under
+this Section which is attributable to a portion of an Annual Retainer which is
+not earned due to termination as a director (for any reason) shall automatically
+abate and be canceled.
+
+            (vi)  Any Discounted Option issued to a non- employee director and
+outstanding on the date of his or her death may be exercised by the
+administrator of such director's estate, the executor under his or her will, or
+the person or persons to whom such Discounted Option shall have been validly
+transferred by such executor or administrator pursuant to the will of the
+deceased non-employee director or the laws of intestate succession (but not
+beyond the specified expiration date of such Discounted Option).
+
+            (vii) Discounted Options issued under this Section may be exercised
+only by written notice to the Company accompanied by payment in cash of the full
+consideration for the shares as to which they are exercised.
+
+        (b) The provisions of this Section shall apply only to Discounted
+Options issued or to be issued to non-employee directors, and shall not be
+deemed to modify, limit or otherwise apply to any other provision of this Plan
+or any Option issued under this Plan to a participant who is not a non-employee
+director of the Company.
+
+     8. Termination of Employment. Except as the Committee otherwise determines
+in a particular case, Options held by a participant whose employment with the
+Company or a subsidiary terminates for reasons other than (i) retirement at the
+normal retirement date then in effect for employees of the Company or such
+subsidiary, (ii) early retirement with the consent of the Board, (iii)
+disability, or (iv) death shall terminate upon the expiration of thirty days
+after such participant's termination of employment. This Section shall not apply
+to Discounted Options awarded to non-employee directors.
+
+     9. Death of a Participant. In the event of the death of a participant, if
+the deceased participant holds Options some portion of one or more of which is
+exercisable at the time of his or her death, the administrator of such
+participant's estate, the executor under his or her will, or the person or
+persons to whom
+
+
+
+                                       -5-
+
+<PAGE>
+
+
+
+such Options shall have been validly transferred by such executor or
+administrator pursuant to the participant's will or the laws of intestate
+succession shall have the right, within twelve months from the date of such
+participant's death, to exercise all Options (or any portion thereof) held by
+such participant on the date of death which were then exercisable, but not yet
+exercised; provided, however, that no Option shall be exercised after its
+specified expiration date.
+
+     10. Retirement and Disability. In the event of termination of the
+employment of a participant (or the termination of a participant's service as a
+non-employee director) due to retirement at the normal retirement date then in
+effect for employees or non-employee directors of the Company or early
+retirement with the consent of the Board, or in the event a participant becomes
+disabled, a participant who, upon retirement or disability, holds Options some
+portion of one or more of which is then exercisable shall have the right, within
+three years of the date of such retirement or disability, to exercise all
+Options (or any portion thereof) held by such participant on the date of
+retirement or disability which were then exercisable but not yet exercised;
+provided, however, that no Option shall be exercised after its specified
+expiration date.
+
+     11. Changes in Capitalization. The (i) total number of shares of Common
+Stock of the Company for which Options may be granted, (ii) number of shares
+subject to each outstanding Option, and (iii) Option prices and Discount Option
+prices per share shall be subject to appropriate adjustment by the Committee for
+any changes in the number of outstanding shares of Common Stock resulting from a
+merger, recapitalization, stock split, stock dividend or other change in the
+Company's corporate or capital structure.
+
+     12. Withholding Taxes. Whenever shares of Company Common Stock are to be
+issued or delivered upon the exercise of Options granted hereunder, the
+Committee shall have the right, at or prior to the delivery of any certificate
+or certificates for shares, to require the exercising participant to remit to
+the Company, in cash, in shares of Company Common Stock, or in other
+consideration deemed satisfactory to the Committee, as the Committee may
+determine, an amount sufficient to satisfy withholding requirements, with
+respect to federal, state and local income and employment taxes.
+
+     13. Employment. The establishment of the Plan and awards hereunder shall
+not be construed as conferring on any participant any right to continued
+employment, and the employment of any participant may be terminated without
+regard to the effect which such action might have upon him or her as a
+participant.
+
+                                       -6-
+
+<PAGE>
+
+
+     14. Transferability.
+
+         (a) Options are not transferable other than by will, by the laws of
+intestate succession or pursuant to a qualified domestic relations order. No
+transfer shall be effective to bind the Company unless the Committee shall have
+been furnished with a copy of the deceased participant's will and such other
+evidence as the Committee may deem necessary to establish the validity of the
+transfer or, if applicable, a certified copy of such qualified domestic
+relations order.
+
+         (b) Only the participant or his or her guardian, or in the event of
+death, his or her legal representative or beneficiary, may exercise Options or
+Discounted Options and receive deliveries of shares.
+
+     15. Non-Uniform Determinations. The Committee's determinations under this
+Plan (including without limitation determinations of the persons to receive
+awards, the form, amount and timing of such awards, the terms and provisions of
+such awards and the agreements evidencing the same, and the establishment of
+performance standards) need not be uniform and may be made by it selectively
+among persons who receive, or are eligible to receive, awards under the Plan,
+whether or not such persons are similarly situated.
+
+     16. Effect on Other Plans. Participation in this Plan shall not affect a
+participant's eligibility to participate in any other benefit or incentive plan
+of the Company.
+
+     17. Amendment, Modification, and Termination. The Board, at any time, may
+terminate and in any respect amend or modify the Plan; provided, however, that
+no such action by the Board, without approval of the Company's shareholders, may
+(i) increase the total number of shares of Common Stock available under the Plan
+in the aggregate (except as otherwise provided in Section 11), (ii) materially
+increase the benefits accruing to participants under the Plan, or (iii)
+materially modify the requirements as to eligibility for participation under the
+Plan. No amendment, modification or termination of the Plan shall in any manner
+adversely affect the rights of any participant under an award previously
+granted. Section 7 of this Plan shall not be amended more than once in any six
+month period, except to comport with changes in the Code or the Employee
+Retirement Income Security Act of 1974, as amended.
+
+     18. Governing Law. This Plan shall be governed by the laws of the State of
+Maryland.
+
+                                       -7-
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>4
+<DESCRIPTION>COMPUTATION OF LOSS PER COMMON SHARE
+<TEXT>
+
+
+
+                           NOCOPI TECHNOLOGIES, INC.
+
+                      COMPUTATION OF LOSS PER COMMON SHARE
+
+
+                                                                    EXHIBIT 11.1
+
+<TABLE>
+<CAPTION>
+
+                                                          1996             1995                  1994
+                                                          ----             ----                  ----
+<S>                                                 <C>                <C>                   <C>
+Primary
+   Net loss applicable to common shares             $    (408,300)     $  (241,900)          $(1,419,200)
+                                                       ==========       ==========            ==========
+
+   Weighted average common shares outstanding          14,067,606       14,006,254            13,878,593
+   Dilutive shares - based on the
+     treasury stock method using the
+     average market price (1)                              34,780           83,586                17,535
+                                                       ----------       ----------            ----------
+                                                       14,102,386       14,089,840            13,896,128
+                                                       ==========       ==========            ==========
+
+Per share amount applicable to net loss                     ($.03)           ($.02)                ($.10)
+
+
+                                                          1996             1995                  1994
+                                                          ----             ----                  ----
+Fully diluted
+  Net loss                                          $   (408,300)      $  (241,900)          $(1,419,200)
+  Add interest on Series B notes                          66,500            74,700                98,000
+  Deduct ownership interest of others
+    in loss of consolidated entity                      (374,800)         (322,900)             (218,000)
+                                                       ----------       ----------            ----------
+  Net loss applicable to common shares                 $(716,600)        $(490,100)          $(1,539,200)
+                                                       ==========       ==========            ==========
+
+  Weighted average common shares outstanding           14,067,606       14,006,254            13,878,593
+  Dilutive shares - based on the
+    treasury stock method using the
+    greater of the period-end market
+    price or the average market price (2)               1,336,461        1,411,382               934,978
+                                                       ----------       ----------            ----------
+                                                       15,404,067       15,417,636            14,813,571
+                                                       ==========       ==========            ==========
+
+
+Per share amount applicable to net loss                     ($.05)           ($.03)                ($.10)
+</TABLE>
+
+
+(1)   represents shares resulting from stock options and warrants.
+
+(2)   represents shares resulting from stock options, warrants and the assumed
+      conversion of convertible notes and Euro-Nocopi S.A. stock.
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>5
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+
+
+                            NOCOPI TECHNOLOGIES, INC.
+
+                         SUBSIDIARIES OF THE REGISTRANT
+
+
+                                                                    EXHIBIT 21.1
+
+Registrant has the following subsidiaries:
+
+         Name                           Jurisdiction Where Organized
+         ----                           ----------------------------
+Euro-Nocopi S.A. (1)                            France
+Nocopi (UK) Limited (2)                         Great Britain
+
+
+
+
+(1)   Registrant holds an approximate 18% interest in Euro-Nocopi S.A. together
+      with warrants which, if exercised, would result in Registrant owning an
+      approximate 55% equity interest. In addition, Registrant has the power to
+      appoint a majority of the Board of Directors of Euro-Nocopi S.A.
+
+(2)   Nocopi (UK) Limited is a wholly owned subsidiary of Euro-Nocopi S.A.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>6
+<DESCRIPTION>CONSENT
+<TEXT>
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+
+We consent to the incorporation by reference in the registration statements of
+Nocopi Technologies, Inc. on Form S-8 (Files No. 33-84388 and 33-84402) of our
+report dated March 7, 1997, on our audits of the consolidated financial
+statements and financial statement schedule of Nocopi Technologies, Inc. as of
+December 31, 1996 and 1995 and for the years ended December 31, 1996, 1995 and
+1994, which report is included in this Annual Report on Form 10-K.
+
+
+Coopers & Lybrand L.L.P.
+Philadelphia, Pennsylvania
+March 27, 1997
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>7
+<DESCRIPTION>FDS
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          DEC-31-1996
+<PERIOD-END>                               DEC-31-1996
+<CASH>                                       2,229,200
+<SECURITIES>                                         0
+<RECEIVABLES>                                  550,500
+<ALLOWANCES>                                    37,100
+<INVENTORY>                                      5,100
+<CURRENT-ASSETS>                             2,853,000
+<PP&E>                                         478,200
+<DEPRECIATION>                                 296,600
+<TOTAL-ASSETS>                               3,532,500
+<CURRENT-LIABILITIES>                          962,000
+<BONDS>                                        950,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                       140,800
+<OTHER-SE>                                      31,400
+<TOTAL-LIABILITY-AND-EQUITY>                 3,532,500
+<SALES>                                      3,640,300
+<TOTAL-REVENUES>                             3,640,300
+<CGS>                                        1,058,700
+<TOTAL-COSTS>                                1,058,700
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                18,300
+<INTEREST-EXPENSE>                              66,500
+<INCOME-PRETAX>                              (408,300)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                          (408,300)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 (408,300)
+<EPS-PRIMARY>                                   (0.03)
+<EPS-DILUTED>                                   (0.05)
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

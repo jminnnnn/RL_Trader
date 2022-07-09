@@ -1,0 +1,2734 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F6nvrJ5DzMrrM/uJdhcQeuNho9xC5yjHOVxbHbQxf13Nv12iV0A4SyjqGZGW5Eom
+ MQD7x+Kkb7jR/Hn9wQVmKQ==
+
+<SEC-DOCUMENT>0001015402-01-500605.txt : 20010409
+<SEC-HEADER>0001015402-01-500605.hdr.sgml : 20010409
+ACCESSION NUMBER:		0001015402-01-500605
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010402
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MATHSOFT INC
+		CENTRAL INDEX KEY:			0000895095
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				042842217
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-20992
+		FILM NUMBER:		1590260
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 MAIN ST
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142-1017
+		BUSINESS PHONE:		6175771017
+
+	MAIL ADDRESS:	
+		STREET 1:		101 MAIN STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142-1521
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>mathsoft_10k.txt
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC  20549
+                                  ____________
+
+                                    FORM 10-K
+
+
+
+ X   ANNUAL  REPORT  PURSUANT  TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+- ---  ACT  OF  1934
+
+
+For  the  fiscal  year  ended  December  31,  2000
+
+                        Commission file number 0-020992
+
+                                 MATHSOFT, INC.
+                                 --------------
+                       (now d/b/a INSIGHTFUL CORPORATION)
+             (Exact name of registrant as specified in its charter)
+
+          MASSACHUSETTS                                        04-2842217
+          -------------                                    ----------------
+  (State or other jurisdiction                             (I.R.S. employer
+ of incorporation or organization)                           identification)
+
+  1700  WESTLAKE  AVE.  N.  #500                                98109-3044
+      SEATTLE,  WASHINGTON                                      ----------
+- ---------------------------------------                         (Zip code)
+(Address of principal executive offices)
+
+
+Registrant's telephone number, including area code (206) 283-8802
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                          COMMON STOCK, $.01 PAR VALUE
+                          ----------------------------
+                                (Title of class)
+
+     Indicate  by  check mark whether the registrant:  (1) has filed all reports
+required  to  be  filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934  during  the  preceding  12  months  (or  for  such shorter period that the
+registrant  was required to file such reports), and (2) has been subject to such
+filing  requirements  for  the  past  90  days.  Yes  X    No  ___
+                                                     ---
+
+     Indicate  by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best  of  registrant's  knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form  10-K. [X]
+
+     The  aggregate  market  value of the voting stock held by non-affiliates of
+the  registrant  was approximately $11,754,119 as of March 23, 2001 (computed by
+reference  to  the  closing  price of such stock on the Nasdaq SmallCap Market).
+The  number  of  shares of common stock, $.01 par value, outstanding as of March
+23,  2001  was  10,726,806.
+
+     Documents  incorporated  by  reference  in  Part  III  of  this 10-K: Proxy
+Statement  for  Registrant's  2001  Annual  Meeting  of  Shareholders.
+
+
+<PAGE>
+                                     PART I
+ITEM  1.  BUSINESS.
+
+                                     General
+
+     MathSoft,  Inc.  is  now  doing  business  as  Insightful  Corporation
+     ("Insightful"  or  the  "Company").
+
+     The  Company  was  originally incorporated in Massachusetts in October 1984
+     under  the name Engineering Specific Products Corp. and changed its name to
+     MathSoft,  Inc.  in  January  1986.  Following  the closing of its internet
+     business  FreeScholarships.com  in  September  2000  and  the  sale  of its
+     Engineering and Education Products Division in January 2001, MathSoft, Inc.
+     will  now  do  business  as  Insightful  Corporation  (NASDAQ:  IFUL).  The
+     Company's  principal executive offices are located at 1700 Westlake Ave. N,
+     Suite  500,  Seattle,  Washington  98109, and its telephone number is (206)
+     283-8802.
+
+     As  of December 31, 1999 the company operated three divisions consisting of
+     its  Data  Analysis  Products  Division  (DADP),  Engineering and Education
+     Products  Division  (EEPD),  and  FreeScholarships.com  (FSC). In September
+     2000,  the Company discontinued operations of its internet business FSC. In
+     October  2000, the Company signed a letter of intent to sell the operations
+     of  its  technical  calculation  software business, EEPD, to a third party.
+     Consistent  with  this letter of intent, the Company sold the EEPD division
+     on January 23, 2001. Accordingly the Company has recorded the operations of
+     FSC  and  EEPD  as  discontinued  operations. The accompanying consolidated
+     financial  statements and selected data contain certain accounts which have
+     been  reclassified  to  reflect  these  dispositions.
+
+     The  Company's  continuing  operations  and  primary  focus  are to provide
+     software  and  consulting  solutions for statistical analysis, data mining,
+     and  analytic  Customer-Relations-Management (CRM). The Company's principal
+     location  has  shifted  to  Seattle,  Washington,  where  the Data Analysis
+     Products  Division  ("DAPD")  is  located.  This  business  was acquired by
+     Mathsoft  in  June  1993  through  the acquisition of substantially all the
+     assets  of  Statistical  Sciences,  Inc.  The  Company's  current solutions
+     facilitate  mining, analyzing, viewing, and predicting critical information
+     for  faster,  intelligent,  and  more  efficient  management  decisions.
+
+     The  market  for  analytic  applications  is expanding rapidly according to
+     industry  sources.  The  company's  solutions serve a variety of industries
+     including  financial  institutions,  pharmaceutical,  biotechnology,
+     telecommunications,  GIS,  government  agencies  and  others.
+
+     The  Company's  goals are to become a leading provider in its market domain
+     by  expanding  :
+
+     -    Its  user  base  from  primarily  technical  specialists to mainstream
+          business  users.
+
+     -    Its  products  from  desktop  applications  to  server  applications
+
+     -    Its  data  scale  from  moderate  size  to   large  scale
+
+     -    Its  market  from  primarily  domestic  to  worldwide  coverage
+
+     S-Plus is a registered trademark of the Company. Insightful, StatServer and
+     FreeScholarships  are  trademarks  of the Company. All other trademarks are
+     the  property  of  their  respective  owners.
+
+
+                                        2
+<PAGE>
+                                    Products
+
+DATA  ANALYSIS  SOFTWARE  PRODUCTS
+
+     S-PLUS
+
+     On  June  30,  1993,  the  Company  acquired  Statistical Sciences, Inc., a
+     software  company  located  in Seattle, Washington. The Company's principal
+     product,  S-PLUS, is an advanced, exploratory data analysis and statistical
+     data  mining  solution  for  technical  and business professionals who need
+     sophisticated  analysis  and  visualization  capabilities.  Based  on  the
+     object-oriented  "S" programming language licensed from Lucent Technologies
+     Inc.,  S-PLUS enables users to perform exploratory data analysis, graphics,
+     statistics,  visualization  and  mathematical  computing in the Windows and
+     UNIX  environments.  The  primary  advantage  of S-PLUS lies within the "S"
+     language.  The  "S"  language  is  one  of  the only modern object-oriented
+     language  created  specifically  for  data  visualization  and exploration,
+     statistical  modeling  and programming with data. This interactive language
+     environment  gives  users  immediate  feedback  at  every  stage  of  their
+     analysis.
+
+     Services
+
+     The  Company  believes  that  providing  a  high  level  of  support to its
+     customers  is  a  critical  requirement  for  customer satisfaction and the
+     long-term success of the Company. The Company believes it has established a
+     strong  history  of  responsiveness  to  customer requirements. The Company
+     delivers  this  support  for  its  data  analysis  products  through  its
+     maintenance,  consulting,  and  training  services.
+
+     The  Company provides product updates and enhancements and customer support
+     services  under  an  annual maintenance agreement offered to its customers.
+     Maintenance fees are based on a percentage of the current list price of the
+     licensed  software  products.  The  consulting  and  training  organization
+     provides  fee-based  services, including implementation assistance, project
+     management,  application  extension  or  customization,  integration  with
+     existing  customer  applications  and  similar  services  to  the Company's
+     customers.  The Company offers a comprehensive series of fee-based training
+     courses  to  its  customers.  Courses can be taken at the Company's Seattle
+     location,  at  the  customer's  site, at other prearranged sites for larger
+     customer  groups,  or  online  via  the  internet.
+
+     Modules
+
+     To  complement  S-PLUS,  the  Company  offers add-on modules that work with
+     S-PLUS  and  provide additional "S" language functions for specialized data
+     analysis  purposes.
+
+     StatServer
+
+     In  April  1997,  the  Company  expanded  its data analysis product line by
+     introducing  StatServer.  StatServer  enables  corporations  to  leverage
+     existing  client/server  and  internet/intranet  technologies  and  deploy
+     statistical  expertise  throughout  an  organization.  StatServer  is  data
+     warehouse-independent  and integrates seamlessly with all standard database
+     and  data warehouse formats. The robust database support provides the tools
+     for advanced analysis and data visualization of the most popular relational
+     databases. With StatServer, basic statistical models and data visualization
+     capabilities  are  built  and  stored  in  a  central  server for access by
+     non-technical  users,  who  can  apply  these  analytical techniques from a
+     single  and familiar client to understand or interpret key data sets. Using
+     StatServer,  professionals  in  diverse fields such as finance, biomedicine
+     and  manufacturing can use familiar tools such as Excel , Internet Explorer
+     or  Powerbuilder  to  access  corporate  data  resources  and  perform data
+     analysis  without  becoming  experts  in statistics or users of statistical
+     tools.  StatServer  moves  beyond  the  capabilities  of  report  writers,
+     spreadsheet  applications  and  stand-alone  data  analysis  software,
+     representing  a significant advancement in decision support and data mining
+     technology.
+
+
+                                        3
+<PAGE>
+MARKETING  AND  SALES
+
+     The Company's market for Statistical Analysis, Data Mining and Analytic CRM
+     is  serving  a  variety  of  industries  including  Financial Institutions,
+     Biotechnology, Pharmaceutical, Telecommunications and other industries. The
+     Company's  solutions are used in a variety of functions including research,
+     engineering,  production,  marketing,  finance,  and  investments.
+
+     The  Company  reaches  domestic  customers  of  its products and consulting
+     services  both  through  its domestic telesales organization and an outside
+     sales  team.  Leads  are  generated  from  advertising,  public  relations,
+     seminars  and tradeshows and then pursued by telesales and the direct sales
+     force.
+
+     Internationally,  the  Company  reaches  customers  of  its  products  and
+     consulting  services  primarily  through  a  network  of  resellers  and
+     distributors.  In the United Kingdom, the Company utilizes its direct sales
+     force  to  sell  directly  to  end-users.
+
+CUSTOMER  TECHNICAL  SUPPORT
+
+     Technical  support  for  the  S-PLUS  product  line is provided to domestic
+     customers  by  a  staff  of  engineers  located in Seattle. Support is only
+     available  to  customers  who  purchase an annual maintenance and technical
+     support  plan.
+
+     International  customers  who  purchase  products from distributors receive
+     first  line  technical  support  from their respective local distributor. A
+     technical  support  staff  of  engineers,  located  in the Company's United
+     Kingdom  sales  and  marketing  office,  is  available  to  support  the
+     distributors  as  well  as  the  Company's  direct  customers in the United
+     Kingdom.
+
+MANUFACTURING  AND  DISTRIBUTION
+
+     The  Company  utilizes  several  third  party  vendors  to  manufacture and
+     distribute  its  products.  This permits the Company to manage peak volumes
+     customary  in  the  software  industry and to avoid having to maintain high
+     fixed  costs  while  experiencing  daily fluctuations in order and customer
+     contacts.
+
+     The  Company's  practice  is  to ship its products promptly upon receipt of
+     orders  from  its  customers  and,  as  a  result,  product  backlog is not
+     significant.
+
+     The  Company  subcontracts  with  a  third  party vendor, located in Salem,
+     Oregon,  to manufacture all of its S-PLUS product line updates. The Company
+     warehouses  inventory,  processes,  and fulfills domestic orders internally
+     out  of  its  Seattle  office.  All  international orders are processed and
+     fulfilled  by  third  party vendors located in the United Kingdom that also
+     provide  warehousing  and  fulfillment  services.
+
+
+                                        4
+<PAGE>
+PRODUCT  DEVELOPMENT
+
+     Insightful's  software  products  research  and development organization is
+     responsible  for  software  development, product documentation, and quality
+     assurance.  Their priorities are to continue technical innovation for power
+     and  performance  and to respond to market feedback by continuing to design
+     products  for  ease-of-use.
+
+     Insightful's  development team consists of experts in software engineering,
+     quality  assurance, mathematics, statistics, engineering and documentation.
+     In  software  engineering, Insightful's professional staff has expertise in
+     computer  graphics,  compiler  design,  user  interface design and advanced
+     Windows  and  Internet  technologies.
+
+     During  the  fiscal  years  ended  December  31,  2000,  1999 and 1998, net
+     research  and  development  costs  charged  to  operations were $2,310,000,
+     $1,669,000,  and  $2,301,000,  respectively. The Company did not capitalize
+     any  software research and development costs during the twelve months ended
+     December  31,  2000  as  software  research  and development costs incurred
+     between  technological  feasibility  and general release were not material.
+
+COMPETITION
+
+     The  market  for data analysis software products is highly competitive. The
+     Company considers its principal competition to include statistical software
+     products from such companies as SAS and SPSS, and alternative data analysis
+     programming languages, specifically "R". The Company also faces competition
+     from companies providing competing software solutions, such as spreadsheets
+     (Excel  from Microsoft) and mathematical calculation tools (Matlab from The
+     MathWorks).  The  Company  may  also  face  new  competition from potential
+     entrants  into  the data analysis software markets, as well as more focused
+     competition  from  companies  in related markets. For example, providers of
+     spreadsheet  programs  could  add  to  or  improve  the  data  analysis
+     functionality  of their existing products. Some of these companies may have
+     significant  name  recognition,  as  well  as substantially greater capital
+     resources,  marketing  experience,  research  and  development  staffs, and
+     production  facilities  than  the Company. Although the Company believes it
+     has  certain  technological advantages over existing competitors in the the
+     data  analysis  software markets, maintaining these advantages will require
+     continued  investment by the Company in research and development. There can
+     be  no  assurance  that  the Company will have sufficient resources to make
+     such  investment or that the Company will be able to make the technological
+     advances  necessary  to  maintain  its  competitive  position.
+
+INTELLECTUAL  PROPERTY  RIGHTS  AND  LICENSES
+
+     Insightful's software is proprietary and the Company attempts to protect it
+     with  copyrights,  patents,  trade  secret  laws and internal nondisclosure
+     safeguards,  as  well  as  restrictions  on  copying,  disclosure  and
+     transferability that are incorporated into its software license agreements.
+     Generally,  the  Company's  products  are not physically copy-protected. In
+     order  to  retain  exclusive  ownership rights to all software developed by
+     Insightful, the Company licenses all software and provides it in executable
+     code  only,  with  contractual  restrictions  on  copying,  disclosure  and
+     transferability.  As  is customary in the industry, Insightful licenses its
+     products  to  end-users  by use of a 'shrink-wrap' license. The source code
+     for  all  of  the  Company's products is protected as a trade secret and as
+     unpublished  copyrighted  work.  In  addition, the Company has entered into
+     nondisclosure  and  inventions  agreements  with key employees. However, in
+     those  areas  where  the  Company  has  no  patent  protection,  judicial
+     enforcement  of  copyright  laws  may  be  uncertain.
+
+
+                                        5
+<PAGE>
+     The  Company  is  a  worldwide  licensee  until February 18, 2002 of Lucent
+     Technologies  Inc. for the "S" programming language. Under the license, the
+     Company  has  the  right to use, sublicense and support the "S" programming
+     language  from  Lucent  Technologies  in  exchange  for  royalties.  Any
+     modifications,  enhancements,  adaptations  or  derivations  of  the  "S"
+     programming  language  are  the property of the Company. After February 18,
+     2002,  the  Company, at its election, may extend this license for five-year
+     terms in perpetuity, provided that the Company continues to comply with its
+     obligations  under  the license. Although termination of this license could
+     have  a  material adverse effect on the Company's operations because Lucent
+     Technologies  is  the  sole  licensor  of the "S" programming language, the
+     Company  is not presently aware of any circumstances which would prevent it
+     from  fulfilling  its  obligations  under  the  license.
+
+     Due to the rapid pace of technological change in the software industry, the
+     Company  believes  that  patent,  trade secret and copyright protection are
+     less  significant  to  its  competitive  position  than factors such as the
+     knowledge,  ability  and experience of the Company's personnel, new product
+     development,  frequent  product enhancements, name recognition, and ongoing
+     reliable  product  maintenance  and  support.
+
+     The  Company believes that its products and other proprietary rights do not
+     infringe  the  proprietary  rights  of  third  parties.  There  can  be  no
+     assurance,  however, that third parties will not assert infringement claims
+     in  the  future.
+
+EMPLOYEES
+
+     As  of  December  31,  2000,  the  Company's continuing operations employed
+     approximately  140  regular  full-time  and part-time employees, of whom 15
+     were  outside  the United States. As necessary, the Company supplements its
+     regular  employees  with temporary and contract personnel in its continuing
+     operations.  As  of December 31, 2000, the Company employed 8 temporary and
+     contract  personnel  in  its continuing operations, of whom one was located
+     outside  the  United  States.  None  of the Company's regular employees are
+     represented  by  a  labor  union  or are subject to a collective bargaining
+     agreement.  The  Company has never experienced a work stoppage and believes
+     that  its  employee  relations  are  good.
+
+CAUTIONARY  STATEMENTS
+
+     In  addition  to  the  other  information  in  this  report,  the following
+     cautionary  statements  should  be  considered  carefully in evaluating the
+     Company  and its business. Information provided by the Company from time to
+     time  may  contain  certain  "forward-looking" information, as that term is
+     defined  by  (i)  the Private Securities Litigation Reform Act of 1995 (the
+     "Act")  and (ii) in releases made by the Securities and Exchange Commission
+     (the  "SEC").  These  cautionary  statements are being made pursuant to the
+     provisions  of  the Act and with the intention of obtaining the benefits of
+     the  "safe  harbor"  provisions  of  the  Act.
+
+     Variability  of  Quarterly  Operating  Results.  The  Company's  quarterly
+     operating results may vary significantly from quarter to quarter, depending
+     upon factors such as the introduction and market acceptance of new products
+     and  new versions of existing products, the ability to reduce expenses, and
+     the  activities  of competitors. Because a high percentage of the Company's
+     expenses  are  relatively  fixed  in the near term, minor variations in the
+     timing  of  orders  and  shipments  can  cause  significant  variations  in
+     quarterly operating results. The Company operates with little or no backlog
+     and  has  no long-term contracts. Substantially all of its product revenues
+     in each quarter result from software licenses issued in that quarter making
+     the Company's ability to accurately forecast future revenues and income for
+     any  period  necessarily  limited. Any forward-looking information provided
+     from  time  to  time  by the Company represents only management's then-best
+     current estimate of future results or trends, and actual results may differ
+     materially  from  those  contained  in  the  Company's  estimates.
+
+     Potential  Volatility of Stock Price. There has been significant volatility
+     in  the  market  price  of  securities of technology companies. The Company
+     believes  factors  such  as announcements of new products by the Company or
+     its  competitors, quarterly fluctuations in the Company's financial results
+     or other software companies' financial results, shortfalls in the Company's
+     actual financial results compared to results previously forecasted by stock
+     market  analysts,  and  general  conditions  in  the  software and internet
+     industries  and  conditions in the financial markets could cause the market
+     price  of  the  common  stock  to  fluctuate  substantially.  These  market
+     fluctuations  may adversely affect the price of the Company's common stock.
+
+
+                                        6
+<PAGE>
+     Risks  Associated  with  Acquisitions.  The  Company  has  made a number of
+     acquisitions  and will continue to review future acquisition opportunities.
+     No  assurances can be given that acquisition candidates will continue to be
+     available  on  terms and conditions acceptable to the Company. Acquisitions
+     involve numerous risks, including, among other things, possible dilution to
+     existing  shareholders,  difficulties  and  expenses incurred in connection
+     with the acquisitions and the subsequent assimilation of the operations and
+     services or products of the acquired companies, the difficulty of operating
+     new  (albeit  related)  businesses, the diversion of management's attention
+     from other business concerns and the potential loss of key employees of the
+     acquired  company. In the event that the operations of an acquired business
+     do  not live up to expectations, the Company may be required to restructure
+     the  acquired  business or write-off the value of some or all of the assets
+     of  the  acquired  business. There can be no assurance that any acquisition
+     will  be  successfully  integrated  into  the  Company's  operations.
+
+     Limited  Operating  History  in  the  Internet  Market.  Historically,  the
+     Company's  revenues  have  come from licenses related to the Company's core
+     product families. Although the Company anticipates that the majority of its
+     revenue  will  continue  to  come from licenses related to its core product
+     families, these moves toward increased focus on the Internet have required,
+     and  will continue to require, changes in personnel and business processes.
+
+     Internet-Related  Risks.  The Company's online store and its online courses
+     available  through  the  World  Wide  Web,  such  as  its  S-PLUS Knowledge
+     Discovery Series, rely on the continued growth of the Internet. The Company
+     expects  that  continued consumer concerns regarding security, reliability,
+     privacy,  ease  of use, and the changing regulatory environment will affect
+     the  development  of the Company's products and services connected with the
+     Internet.
+
+     Security.  If  the  Company's  web  site  security fails, it may damage the
+     Company's  ability  to sell products through its online store. In addition,
+     the  Company may be liable if security on its web sites is breached and the
+     Company  is  the  victim  of  credit  card  fraud.
+
+     Privacy.  Visitors  to  the  Company's  online  store are asked for certain
+     personally  identifying  information,  which is then used to ship products,
+     and  for  marketing  and  data  collection.  No  personally  identifiable
+     information  is  sold  or conveyed to third parties. As attitudes regarding
+     online  privacy  continue  to  evolve,  there  can be no assurance that the
+     Company's  needs  for  personally  identifiable information will be in line
+     with  public  attitudes  or  government  regulations  regarding  privacy.
+
+     Ease  of Use. If, for reasons such as failure of the Company's web servers,
+     slow  modem  connections,  or  poor web site design, users of the Company's
+     products  and  services, including the online store and the online courses,
+     find it difficult to use the Company's products and services, the Company's
+     revenues  could  decrease  and  its  brands  could  be  damaged.
+
+     Changing Regulatory Environment. Laws and regulation regarding the internet
+     are  becoming  more  common.  Changes  in  laws regarding privacy, internet
+     access  taxes  or  other areas may require the Company to change the way it
+     does business over the Internet. The laws governing the use of the internet
+     are  generally  unsettled.  There  is  no  way to predict the ways in which
+     existing  and  new  laws  will  apply  to  internet  commerce,  services or
+     products.
+
+     Risks  Associated  with  Divestitures.  Following the sale of the Company's
+     EEPD  unit  in  January  of 2001, the Company is now functioning with fewer
+     employees while at the same time concentrating on a single market. The lack
+     of  diversification  of  product lines may make the Company more subject to
+     market  fluctuations.
+
+
+                                        7
+<PAGE>
+     Risks  Associated  with  Distribution  Channels.  The  Company  markets and
+     distributes its S-PLUS products in the U.S. through the Company's telesales
+     and  outside  sales force and internationally through third party resellers
+     and distributors and its own salesforce. There can be no assurance that the
+     Company  will  be able to retain its current resellers and distributors, or
+     expand  its  distribution  channels  by entering into arrangements with new
+     resellers  and  distributors  in  the  Company's  current markets or in new
+     markets.
+
+     Risks Associated with International Operations. Sales outside North America
+     accounted  for  approximately  24%  of  the Company's total revenues in the
+     fiscal  year  ended December 31, 2000, and approximately 26% and 28% of the
+     Company's  total  revenues in the fiscal years ended December 31, 1999, and
+     1998,  and may continue to represent a significant portion of the Company's
+     product  revenues.  Any  decrease in sales outside North America may have a
+     materially adverse effect on the Company's operating results. The Company's
+     international  business  and  financial  performance  may  be  affected  by
+     fluctuations  in  exchange  rates  and  by  trade  regulations.
+
+     Reliance on Third Party Licensors. The S programming language, the language
+     on  which  all  of  the  Company's  products  are based, and other software
+     licenses incorporated in the Company's products are currently licensed from
+     a  single  source  or  limited  source  suppliers.  If  such  licenses  are
+     discontinued,  there  can  be no assurance that the Company will be able to
+     independently  develop  substitutes or to obtain alternative sources or, if
+     able to be developed or obtained as needed in the future, that such efforts
+     would  not  result  in  delays  or  reductions in product shipments or cost
+     increases  that  could  have  a  material  adverse  effect on the Company's
+     consolidated  business  operations.
+
+     Rapid  Technological Change; Competition. The data analysis software market
+     is  subject  to rapid and substantial technological change, similar to that
+     affecting  the  software  industry  generally.  The  Company,  to  remain
+     successful,  must  be  responsive  to new developments in hardware and chip
+     technology,  operating systems, programming technology, internet technology
+     and  multimedia  capabilities.  In  addition,  the Company competes against
+     numerous  other companies, some of which have significant name recognition,
+     as  well  as substantially greater capital resources, marketing experience,
+     research and development staffs and production facilities than the Company.
+     Moreover,  the  Company  has  recently encountered competition from an open
+     source  data  analysis  programming  language  called  "R"  which is freely
+     available  and  provides  a  number  of  the  features and functions of the
+     Company's  technology.  The  Company's  financial results may be negatively
+     impacted  by  the  failure  of  new  or  existing  products to be favorably
+     received  by  retailers and consumers due to price, availability, features,
+     other  product  choices or the necessity of promotions to increase sales of
+     the  Company's  products.
+
+     Uncertainties Regarding Protection of Proprietary Technology; Uncertainties
+     Regarding  Patents.  The  Company's  success  will  depend, in part, on its
+     ability  to  protect  the  proprietary aspects of its products. The Company
+     seeks  to  protect  these  proprietary  aspects of its products principally
+     through  a  combination  of  contract  provisions  and  copyright,  patent,
+     trademark  and  trade secret laws. There can be no assurance that the steps
+     taken  by the Company to protect its proprietary rights will be adequate to
+     prevent  misappropriation  of its technology. Although the Company believes
+     that  its  products and technology do not infringe any existing proprietary
+     rights  of others, the use of patents to protect software has increased and
+     there  may  be  pending or issued patents of which the Company is not aware
+     that  the  Company may need to license or challenge at significant expense.
+     There  can  be  no  assurance  that  any such license would be available on
+     acceptable  terms, if at all, or that the Company would prevail in any such
+     challenge.
+
+     Reliance on Attracting and Retaining Key Employees. The Company's continued
+     success  will  depend  in  large  part on its ability to attract and retain
+     highly  qualified  technical,  managerial,  sales  and  marketing and other
+     personnel. Competition for such personnel in the Pacific Northwest area  of
+     the United States and in Europe is intense. The Company has non-competition
+     agreements with its key management and technical personnel. There can be no
+     assurance  that  the  Company will be able to continue to attract or retain
+     such  personnel.
+
+     Risks  Associated  with  New  Products  or  Services.  The Company's future
+     revenue growth rate and earnings performance depend on a number of factors,
+     including  the  continued  success  of  its  existing  products and service
+     offerings  and  the  development  of  one or more new products or services.
+     These  investments  may adversely affect the Company's quarterly and annual
+     financial  results  until  such  time  that  they begin to return a profit.
+     Furthermore,  there  can  be  no assurance that these investments will ever
+     achieve  the  desired  financial  results.
+
+
+                                        8
+<PAGE>
+ITEM  2.  PROPERTIES.
+
+     The  Company  leases  26,804  square  feet of office space at 1700 Westlake
+     Avenue  North, Seattle, Washington. This lease expires in September 2004. A
+     third  party  vendor  provides  warehousing  services to meet the Company's
+     needs.  The  Company  also  leases 2,931 square feet of office space in the
+     United  Kingdom. The term of the lease for this office space was renewed in
+     March  2000  and  is  scheduled  to  expire  in  March  2005.
+
+     The  Company  believes  that its facilities are adequate for its needs. The
+     Company  does  not  consider  the  specific  location  of its offices to be
+     material  to  its  business.
+
+ITEM  3.  LEGAL  PROCEEDINGS.
+
+     The  Company  is  not  involved in any legal proceedings which could have a
+     material  adverse  effect  on  the  Company.
+
+ITEM  4.  SUBMISSION  OF  MATTERS  TO  A  VOTE  OF  SECURITY-HOLDERS.
+
+     Not  applicable.
+
+
+                                        9
+<PAGE>
+                                     PART II
+
+
+ITEM  5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+     The  Company's Common Stock (Nasdaq: IFUL) is quoted on the Nasdaq SmallCap
+     Market.  The  following  table  presents quarterly information on the price
+     range  of the common stock. This information indicates the high and low bid
+     prices  for  the common stock as reported by the Nasdaq SmallCap Market for
+     the  periods  indicated.  These  prices  do  not  include  retail  markups,
+     markdowns  or  commissions.
+
+
+                                                  HIGH      LOW
+                                                --------  -------
+
+          FISCAL YEAR ENDED DECEMBER 31, 1999:
+          First Quarter                          6 31/32    3 1/8
+          Second Quarter                        4   7/16   2 7/16
+          Third Quarter                          3 11/32    2 1/4
+          Fourth Quarter                         6 27/32  1 31/32
+
+          FISCAL YEAR ENDED DECEMBER 31, 2000:
+          First Quarter                          8 23/32        4
+          Second Quarter                          5 2/32        2
+          Third Quarter                          2 29/32    1 3/4
+          Fourth Quarter                           2 1/4    1 1/4
+
+     As  of March 23, 2001, the number of stockholders of record of Common Stock
+     was  approximately  198.
+
+     The  Company has never paid any cash dividends on its Common Stock and does
+     not  anticipate  paying  any  cash dividends in the foreseeable future. The
+     Company currently intends to retain future earnings to fund the development
+     and  growth  of  its  business.
+
+
+                                       10
+<PAGE>
+ITEM  6.  SELECTED  FINANCIAL  DATA.
+
+The  selected  consolidated financial data set forth below has been derived from
+the  audited  financial  statements of the Company, except for the twelve months
+ended  December  31, 1997 which has been presented for comparison purposes only.
+The  information should be read in conjunction with the financial statements and
+notes  thereto  set  forth  elsewhere  herein.  The  Company closed its Internet
+division  in  September  2000 and sold its EEPD division in the first quarter of
+2001.  All selected data has been restated to reflect the discontinuance of both
+of  those  operations,  however  none  of the data reflects the $ 7 million cash
+received  or the $ 3.5 to $4.0 million estimated gain on the sale of EEPD in the
+first  quarter  of  2001.
+
+<TABLE>
+<CAPTION>
+                                                    FISCAL   FISCAL    FISCAL
+                                                     YEAR     YEAR      YEAR    YEAR ENDED
+                                                     ENDED    ENDED     ENDED     DEC. 31,                    FISCAL YEARS
+                                                   DEC. 31,  DEC. 31,  DEC. 31,    1997        TRANSITION    ENDED JUNE 30,
+(in thousands, except per share data)                2000     1999      1998    (UNAUDITED)   PERIOD (1)     1997     1996
+- -------------------------------------------------  --------  -------  --------  ------------  -----------  --------  -------
+
+<S>                                                <C>       <C>      <C>       <C>           <C>          <C>       <C>
+Total revenues                                     $15,246   $12,212  $ 8,843   $     7,277   $    4,248   $ 5,828   $6,135
+
+Gross profit                                        10,739     8,935    6,462         5,083        2,979     4,022    4,551
+
+Net Income (loss)  from continuing operations        1,307       875     (591)       (2,827)        (750)   (3,390)    (261)
+
+Net income (loss)                                   (6,000)    1,453    2,220        (2,129)       1,105    (4,300)   1,076
+
+Basic net income (loss) per share - continuing
+  operations                                          0.12      0.09    (0.06)        (0.31)       (0.08)    (0.38)   (0.03)
+
+Diluted net income (loss) per share - continuing
+  operations                                          0.12      0.08    (0.06)        (0.31)       (0.08)    (0.38)   (0.03)
+
+Basic net income (loss) per share                    (0.57)     0.15     0.24         (0.24)        0.12     (0.49)    0.13
+
+Diluted net income (loss) per share                  (0.54)     0.14     0.24         (0.24)        0.12     (0.49)    0.13
+
+Total assets                                        10,506    13,911   10,561         7,361        7,361     8,786    8,329
+
+Long-term obligations,                                  39        90       86            32           32        79        1
+     less current portion
+
+Stockholders equity                                  3,875     8,634    6,051         3,495        3,495     2,168    6,759
+
+<FN>
+(1)  The  Company changed its fiscal year end from June 30 to December 31 in 1997.
+     The  Transition  Period  represents  the six month period from July 1, 1997
+     through  December  31,  1997.
+</TABLE>
+
+
+                                       11
+<PAGE>
+ITEM  7.  MANAGEMENT'S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL  CONDITION  AND
+          RESULTS  OF  OPERATIONS.
+
+The  following  discussion  and  analysis should be read in conjunction with the
+"Selected  Consolidated  Financial  Data", the Consolidated Financial Statements
+and  the  information  described  in the Risk Factors included elsewhere in this
+report.
+
+               RESULTS  OF  OPERATIONS
+
+               As  an  aid to understanding the Company's operating results, the
+               table  below indicates the percentage relationships of income and
+               expense  items  included  in  the  Consolidated  Statements  of
+               Operations for the fiscal years ended December 31, 2000, 1999 and
+               1998,  and  the  percentage changes in those items for the fiscal
+               years  ended  December  31,  2000,  1999,  and  1998.
+
+
+<TABLE>
+<CAPTION>
+                                                                                    -------------Percentage  Change-------------
+                                                                                                                      Fiscal
+                                                  ---Percentage of Total Revenues---    Fiscal         Fiscal       Year Ended
+                                                                                      Year Ended     Year Ended    Dec 31, 1998
+                                                Fiscal       Fiscal       Fiscal     Dec 31, 2000   Dec 31, 1999    compared to
+                                              Year Ended   Year Ended   Year Ended    compared to    compared to    Year Ended
+                                                Dec 31,      Dec 31,      Dec 31,     Year Ended     Year Ended    Dec 31, 1997
+                                                 2000         1999         1998      Dec 31, 1999   Dec 31, 1998    (unaudited)
+                                              ----------------------------------------------------------------------------------
+
+<S>                                           <C>          <C>          <C>          <C>            <C>            <C>
+Revenues:
+  Software licenses                                 44.7%        53.3%        58.4%           4.7%          25.9%          18.3%
+  Services and other                                55.3%        46.7%        41.6%          47.8%          55.3%          26.3%
+                                              ----------------------------------------------------------------------------------
+      Total revenues                               100.0%       100.0%       100.0%          24.8%          38.1%          21.5%
+
+Cost of Revenues:
+  Software licenses                                 10.4%        12.6%        12.7%           1.8%          37.9%          11.2%
+  Services and other                                19.2%        14.2%        14.2%          69.6%          37.4%           6.2%
+                                              ----------------------------------------------------------------------------------
+     Total cost of revenues                         29.6%        26.9%        26.9%          37.6%          37.6%           8.5%
+
+     Gross profit                                   70.4%        73.1%        73.1%          20.2%          38.3%          27.1%
+
+Operating Expenses:
+  Sales and marketing                               31.9%        33.0%        34.7%          20.5%          31.4%          -3.2%
+
+  Research and development, gross                   45.8%        51.1%        58.0%          12.1%          21.5%           6.8%
+
+  Less Funded Research                             -30.7%       -37.4%       -32.0%           2.4%          61.3%          46.3%
+                                              ----------------------------------------------------------------------------------
+
+  Research and development, net                     15.1%        13.7%        26.0%          38.4%         -27.5%         -19.8%
+
+  General and administrative                        15.8%        19.5%        20.6%           0.6%          31.4%          -6.8%
+                                              ----------------------------------------------------------------------------------
+
+     Total operating expenses                       62.8%        66.2%        81.3%          18.3%          12.6%         -10.1%
+
+     Income (loss) from operations                   7.6%         6.9%        -8.2%          37.8%         216.5%         -75.1%
+
+Interest income (expense), net                       1.4%         1.2%         1.5%          44.4%           8.3%          68.4%
+                                              ----------------------------------------------------------------------------------
+
+Income (loss) before provision
+  for income taxes                                   9.0%         8.2%        -6.7%          38.8%         266.9%         -79.1%
+
+Provision for income taxes                           0.4%         0.9%         0.0%         -41.2%           0.0%           0.0%
+                                              ----------------------------------------------------------------------------------
+
+Net Income (loss) from continuing operations         8.6%         7.3%        -6.7%          49.2%         247.7%         -79.1%
+                                              ----------------------------------------------------------------------------------
+
+Discontinued  Operations:
+
+Net Income (loss) from discontinued operations     -47.9%         4.7%        31.8%       -1364.0%         -79.4%         302.9%
+                                              ----------------------------------------------------------------------------------
+
+                       Net income (loss)           -39.4%        11.9%        25.1%        -512.9%         -34.5%        -204.3%
+                                              ==================================================================================
+</TABLE>
+
+
+                                       12
+<PAGE>
+Twelve  Months  Ended  December  31,  2000  Compared  to the Twelve Months Ended
+December  31,  1999
+
+     Total  revenues  increased  24.8%,  from  $12,212,000 for the twelve months
+     ended December 31, 1999 to $15,246,000 for the twelve months ended December
+     31,  2000.  The  increase  in  total revenues was primarily attributable to
+     worldwide new license and service revenue generated by the Company's S-PLUS
+     product  line.
+
+     The  increase  in S-PLUS product line revenue was primarily attributable to
+     an  increase in service revenues, which included maintenance, training, and
+     consulting.  S-PLUS  license  revenue was $6,505,000 and $6,811,000 for the
+     twelve months ended 1999 and 2000, respectively. S-PLUS service revenue was
+     $5,707,000  and  $8,435,000  for  the  twelve  months  ended 1999 and 2000,
+     respectively.  The  increase  in  both  service  and  license  revenues was
+     directly attributable to the June 1999 release of S-PLUS 2000 and increased
+     headcount  additions  to  the  consulting  department.
+
+     International  revenues  increased  15.0%,  from  $3,196,000  in  1999  to
+     $3,676,000  in  2000,  respectively.
+
+     Total  cost  of  revenues  increased  37.6%, from $3,277,000 for the twelve
+     months  ended  December  31, 1999 to $4,507,000 for the twelve months ended
+     December  31, 2000, respectively. The increase in total cost of revenues as
+     a  percentage  of  total  revenues  was  primarily  attributable to a 24.8%
+     increase  in  sales  as  well  as  a  product mix shift toward lower margin
+     products  such  as  consulting  due  to  its  service  component.
+
+     Sales  and  marketing  expenses  increased  20.5%,  from $4,033,000 for the
+     twelve-months  ended  December 31, 1999 to $4,861,000 for the twelve months
+     ended  December  31, 2000. The increase in sales and marketing expenses was
+     attributable  to  an  increase  in  variable  marketing  expenditures  and
+     headcount  additions  to  the  marketing  department  and  sales  force.
+
+     Net  research and development expenses increased 38.4%, from $1,669,000 for
+     the  twelve  months  ended  December  31, 1999 to $2,310,000 for the twelve
+     months  ended  December  31,  2000,  and increased as a percentage of total
+     revenues  from  13.7%  to  15.1%, respectively. The overall increase in net
+     research  and  development expenses was primarily attributable to increased
+     investment  in  the  S-Plus  product  lines,  and  offset  partially by the
+     increase  in  research  funding.  Funded  research  increased  2.4%,  from
+     $4,567,000  for the twelve months ended December 31, 1999 to $4,678,000 for
+     the  twelve months ended December 31, 2000. The increase in funded research
+     is  attributable  to  an  increase  in  awarded  contracts  and the related
+     increase  in personnel costs to fulfill those contracts. The Company's Data
+     Analysis  Products  Division  research  department's  headcount  remained
+     consistent  at  46  as  of  December  31,  1999  and  2000,  respectively.
+
+     General and administrative expenses increased slightly, from $2,388,000 for
+     the  twelve  months  ended  December  31, 1999 to $2,402,000 for the twelve
+     months  ended  December  31,  2000,  and decreased as a percentage of total
+     revenues  from  19.5%  to  15.8%,  respectively.
+
+     Net  income from continuing operations for the twelve months ended December
+     31,  2000  was  $1,307,000 compared to $875,000 for the twelve months ended
+     December  31,  1999.  Fiscal year 2000 reflected solid profit growth in the
+     Company's  core  products,  particularly  its  consulting  services.
+
+     Net  income  for  the  twelve  months ended December 31, 2000 was a loss of
+     $6,000,000  compared  to a profit of $1,453,000 for the twelve months ended
+     December  31,  1999.  Fiscal  year  2000  reflected  profit  growth  in the
+     Company's  continuing  operations, substantially  offset by the significant
+     loss  of  $7,306,000 from discontinued operations primarily attributable to
+     the  Company's  internet  business,  FreeScholarships.com.
+
+
+                                       13
+<PAGE>
+Twelve  Months  Ended  December  31,  1999  Compared  to the Twelve Months Ended
+December  31,  1998
+
+     Worldwide  S-PLUS  license  and  service  revenue  increased  38.1%,  from
+     $8,843,000 for the twelve months ended December 31, 1998 to $12,212,000 for
+     the  twelve  months ended December 31, 1999. The increase in S-PLUS product
+     line revenue was primarily attributable to an increase in service revenues,
+     which  includes  maintenance,  training,  and  consulting.  S-PLUS  license
+     revenue  was $5,165,000 and $6,505,000 for the twelve months ended 1998 and
+     1999,  respectively.  S-PLUS  service revenue was $3,678,000 and $5,706,000
+     for  the  twelve  months ended 1998 and 1999, respectively. The increase in
+     both  service  and  license  revenues was directly attributable to the June
+     1999  release  of  S-PLUS  2000 as well as to the product line's stability,
+     quality,  maturing  sales  and  marketing  model.
+
+     Total  international  revenues  increased 28.1%, from $2,495,000 in 1998 to
+     $3,196,000  in  1999,  and decreased as a percentage of total revenues from
+     28.2%  to  26.2%,  respectively.
+
+     Total  cost  of  revenues  increased  37.6%, from $2,380,000 for the twelve
+     months  ended  December  31, 1998 to $3,277,000 for the twelve months ended
+     December  31,  1999,  corresponding  with  the  38.1% growth in revenue and
+     decreased  slightly  as a percentage of total revenues from 26.9% to 26.8%,
+     respectively.
+
+     Sales  and  marketing  expenses  increased  31.4%,  from $3,069,000 for the
+     twelve-months  ended  December 31, 1998 to $4,033,000 for the twelve months
+     ended  December  31,  1999, and decreased slightly as a percentage of total
+     revenues  from  34.7%  to  33.0%,  respectively.  The increase in sales and
+     marketing  expenses  was  attributable to an increase in variable marketing
+     expenditures  and headcount additions to the marketing department and sales
+     force.
+
+     Net  research and development expenses decreased 27.5%, from $2,301,000 for
+     the  twelve  months  ended  December  31, 1998 to $1,669,000 for the twelve
+     months  ended  December  31,  1999,  and decreased as a percentage of total
+     revenues  from  26.0%  to  13.7%, respectively. The overall decrease in net
+     research and development expenses was primarily attributable to an increase
+     in  research  funding. Funded research increased 61.3%, from $2,831,000 for
+     the  twelve  months  ended  December  31, 1998 to $4,567,000 for the twelve
+     months  ended  December  31,  1999.  The  increase  in  funded  research is
+     attributable  to  an increase in awarded contracts and the related increase
+     in  personnel  to  fulfill  those  contracts.  The  Company's Data Analysis
+     Products  Division  research department's headcount increased from 32 to 46
+     as  of  December  31,  1998  and  1999,  respectively.
+
+     General  and  administrative  expenses increased 31.4%, from $1,817,000 for
+     the  twelve  months  ended  December  31, 1998 to $2,388,000 for the twelve
+     months  ended  December 31, 1999, and decreased slightly as a percentage of
+     total  revenues  from 20.6% to 19.5%, respectively. The increase in overall
+     general and administrative expenses was primarily attributable to increased
+     compensation  costs,  higher  facilities  costs,  and  increases  in  other
+     miscellaneous  expenses.
+
+     Net  income from continuing operations for the twelve months ended December
+     31,  1999  consisted of a profit of $875,000 compared to a loss of $591,000
+     for  the  twelve months ended December 31, 1998. Fiscal year 1999 reflected
+     profit  growth  in  the  Company's  core  products.
+
+     Net  income  for  the  twelve  months  ended December 31, 1999 was $578,000
+     compared  to  $2,812,000  for  the  twelve  months ended December 31, 1998.
+     Fiscal  Year  1999  reflected  profit growth in the Company's core products
+     offset by the reduced profits from discontinued operations. Net income from
+     discontinued  operations  was  $578,000  in  1999 compared to $2,812,000 in
+     1998.  The  reduction  was primarily attributable to losses incurred by the
+     Company's  internet  business, FreeScholarships.com. FreeScholarships.com's
+     net  loss  totaled  $1,842,000  in  1999.
+
+
+                                       14
+<PAGE>
+Liquidity  and  Capital  Resources
+
+     Cash  and  cash  equivalents,  totaling  $3,745,000  at  December 31, 2000,
+     decreased  $3,468,000  during the fiscal year ended December 31, 2000, from
+     $7,213,000  at  December  31,  1999.  The  cash  and cash equivalents as of
+     December  31,  2000  does  not  include  the $7 million of cash received on
+     January  23,  2001  arising out of the sale of the Company's EEPD unit. The
+     negative  cash  flow for the year 2000 resulted primarily from cash used by
+     discontinued  operations of $6,198,000, purchases of property and equipment
+     of  $635,000,  and  payments on capital lease obligations of $307,000 which
+     were offset by cash provided by continuing operations of $2,558,000 and net
+     proceeds  from  the  exercise  of  stock  options  of  $1,148,000.
+
+     The  Company  generated $2,558,000 in cash from operating activities during
+     the  fiscal  year  ended December 31, 2000. The cash generated by operating
+     activities  was  primarily  attributable  to  net  income  of approximately
+     $1,307,000, non-cash depreciation and amortization charges, and an increase
+     in deferred revenue, offset by an increase in accounts receivable. Accounts
+     receivable  and  deferred  revenue increased primarily due to the growth in
+     the  Company's  business. The Company used $624,000 in investing activities
+     primarily  due  to  the  purchase  of  property  and equipment. The Company
+     provided  $841,000  in financing activities primarily from the net proceeds
+     generated  from the exercise of stock options offset by payments on capital
+     lease  obligations.
+
+     The  Company's  financial  reserves  are  represented  by  cash  and  cash
+     equivalents  as  of  December  31,  2000.
+
+     As of December 31, 2000 the Company had net operating loss carryforwards of
+     $17.8  million  and  research  and development credit carryforwards of $4.2
+     million.  The  net  operating  loss and credit carryforwards will expire at
+     various  dates  through  2020,  if  not  used.  Under the provisions of the
+     Internal  Revenue  Code, substantial changes in the Company's ownership may
+     limit the amount of net operating loss carryforwards that could be utilized
+     annually in the future to offset taxable income. A full valuation allowance
+     has been established in our financial statements to reflect the uncertainty
+     of  the Company's ability to use available tax loss carryforwards and other
+     deferred  tax  assets.
+
+     Based  on  its closing of FreeScholarships.com in the third quarter of 2000
+     and  its  sale  of  its  Engineering and Education Products Division for $7
+     million  cash  in  the  first  quarter  of  2001,  the Company believes its
+     financial reserves and cash flows from future operations will be sufficient
+     to meet its liquidity requirements for at least the next twelve months. The
+     cash  activity described above excludes the cash generated from the sale of
+     its  Engineering  and  Education Products Division since it occurred in the
+     first  quarter  of 2001. This transaction is a significant subsequent event
+     and  is  directly  attributable to the Company having a $9.8 million dollar
+     cash  balance  as  of  March  23,  2001.  The  foregoing  statement  is
+     forward-looking  and  involves  risks  and uncertainties, many of which are
+     outside  the  Company's control. The Company's actual experience may differ
+     materially  from  that  discussed  above.  Factors  that might cause such a
+     difference  include, but are not limited to, those discussed in "Cautionary
+     Statements"  in  this Form 10-K for the fiscal year ended December 31, 2000
+     as  well  as  future  events that have the effect of reducing the Company's
+     available  cash balances, such as unanticipated operating losses or capital
+     expenditures, cash expenditures related to possible future acquisitions, or
+     investment  in  new products or services. The Company may be presented from
+     time  to  time  with  acquisition  opportunities  that  require  additional
+     external  financing,  and  the Company may from time to time seek to obtain
+     additional  funds  from  public  or  private  issuance  of  equity  or debt
+     securities.  There  can  be  no  assurance  that any such financing will be
+     available  at  all  or  on  terms  favorable  to  the  Company.
+
+
+                                       15
+<PAGE>
+Recent  Accounting  Pronouncements
+
+     In  March  2000,  the  FASB  issued  Interpretation  No. 44, Accounting for
+     Certain  Transactions Involving Stock Compensation-an Interpretation of APB
+     Opinion No. 25. This interpretation provides guidance on the application of
+     APB Opinion No. 25, Accounting for Stock Issued to Employees, including (i)
+     the  definition of an employee, (ii) the criteria for determining whether a
+     plan  qualifies as a noncompensatory plan, (iii) the accounting consequence
+     of various modifications to the terms of a previously fixed stock option or
+     award  and (iv) the accounting for an exchange of stock compensation awards
+     in a business combination. The interpretation is effective July 1, 2000 and
+     the  effects of applying the interpretation are recognized on a prospective
+     basis.  The  adoption of this interpretation did not have a material impact
+     on  the  Company's  results  of  operations  or  financial  condition.
+
+     In  September  2000, the FASB issued SFAS No. 140, Accounting for Transfers
+     and  Servicing  of  Financial  Assets and Extinguishments of Liabilities, a
+     replacement  of  SFAS  No.  125.  This  statement  provides  accounting and
+     reporting  standards  for  transfers  and servicing of financial assets and
+     extinguishments of liabilities. The statement provides consistent standards
+     for  distinguishing  transfers  of  financial  assets  that  are sales from
+     transfers  that  are  secured  borrowings.  The  statement is effective for
+     transfers  and  servicing  of  financial  assets  and  extinguishments  of
+     liabilities  occurring after March 31, 2001. The statement is effective for
+     recognition and reclassification of collateral and for disclosures relating
+     to securitization transactions and collateral for fiscal years ending after
+     December 15, 2000. The Company does not expect the adoption of SFAS No. 140
+     to  have  a  material  impact on the results of its operations or financial
+     position.
+
+ITEM 7A.  QUANTITATIVE  AND  QUALITATIVE  DISCLOSURES  ABOUT  MARKET  RISK
+
+     The  Company  develops  products  in  the  United  States  and  sells  them
+     worldwide.  As  a result, the Company's financial results could be affected
+     by  factors  such  as  changes  in  foreign currency exchange rates or weak
+     economic  conditions  in  foreign  markets.  Since  the Company's sales are
+     currently  priced  in  U.S.  dollars  and  translated  into  local currency
+     amounts,  a  strengthening  of the dollar could make the Company's products
+     less  competitive  in foreign markets. The Company operates a subsidiary in
+     the United Kingdom which incurs expenses denominated in its local currency.
+     However, the Company believes that these operating expenses will not have a
+     material  adverse  effect on its results of operations. Interest income and
+     expense  are  sensitive  to  changes  in the general level of U.S. interest
+     rates,  particularly  since  the  company's  investments  are in short-term
+     instruments.  Based  on  the  nature  and  current  levels of the Company's
+     investments  and  debt,  however,  the  Company  believes  that there is no
+     material  market  risk  or  exposure.
+
+     The  Company's  general  investing policy is to limit the risk of principal
+     loss  and ensure the safety of invested funds by limiting credit and market
+     risk.  The  Company currently places its investments in highly liquid money
+     market  accounts  and short-term investments. All highly liquid investments
+     with  original maturities of three months or less are considered to be cash
+     equivalents.
+
+
+                                       16
+<PAGE>
+ITEM  8.  FINANCIAL  STATEMENTS  AND  SUPPLEMENTARY  DATA.
+
+     See Item 14 and the Index therein for a listing of the financial statements
+     and  supplementary  data  as  part  of  this  Report.
+
+ITEM  9.  CHANGES  IN  AND  DISAGREEMENTS  WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL  DISCLOSURE.
+
+     Not  applicable.
+
+
+                                       17
+<PAGE>
+                                    PART III
+
+ITEM 10.  DIRECTORS  AND  EXECUTIVE  OFFICERS
+
+     Information  with  respect  to  this  item  may  be found under the caption
+     "Occupations  of  Directors  and  Executive  Officers"  appearing  in  the
+     Company's  definitive  proxy  statement to be filed with the Securities and
+     Exchange  Commission  not later than 120 days after the close of the fiscal
+     year  ended  December  31,  2000.  Such information is incorporated here by
+     reference.
+
+ITEM 11.  EXECUTIVE  COMPENSATION
+
+     Information  with  respect  to  this  item  may  be found under the caption
+     "Compensation  and  Other  Information  Concerning  Directors and Officers"
+     appearing  in the Company's definitive proxy statement to be filed with the
+     Securities  and Exchange Commission not later than 120 days after the close
+     of  the  fiscal  year  ended  December  31,  2000.  Such  information  is
+     incorporated  here  by  reference.
+
+ITEM 12.  SECURITY  OWNERSHIP  OF  CERTAIN  BENEFICIAL  OWNERS  AND  MANAGEMENT
+
+     Information  with  respect  to  this  item  may  be found under the caption
+     "Management  and  Principal  Holders of Voting Securities" appearing in the
+     Company's  definitive  proxy  statement to be filed with the Securities and
+     Exchange  Commission  not later than 120 days after the close of the fiscal
+     year  ended  December  31,  2000.  Such information is incorporated here by
+     reference.
+
+ITEM 13.  CERTAIN  RELATIONSHIPS  AND  RELATED  TRANSACTIONS
+
+     Information  with  respect  to  this  item  may  be found under the caption
+     "Certain Relationships and Related Transactions" appearing in the Company's
+     definitive  proxy  statement  to  be filed with the Securities and Exchange
+     Commission not later than 120 days after the close of the fiscal year ended
+     December  31,  2000.  Such  information  is incorporated here by reference.
+
+
+                                       18
+<PAGE>
+                                     PART IV
+
+ITEM 14.  EXHIBITS,  FINANCIAL  STATEMENT  SCHEDULES,  AND REPORTS ON FORM 8-K.
+
+     (a)  The  following  documents  are  filed  as  a  part  of  this  report:
+
+          1.   Financial  Statements.  The  following  consolidated  financial
+               ---------------------
+          statements of the Company and Independent Auditors Report are filed as
+          part  of  this  report.
+
+          Report  of  Independent  Public  Accountants
+
+          Consolidated  Balance  Sheets  as  of December 31, 2000, 1999 and 1998
+
+          Consolidated Statements of Operations for the years ended December 31,
+          2000,  1999  and  1998.
+
+          Consolidated  Statements of Stockholders' Equity for the for the years
+          ended  December  31,  1998,  1999  and  2000.
+
+          Consolidated Statements of Cash Flows for the years ended December 31,
+          2000,  1999  and  1998.  Notes  to  Consolidated  Financial Statements
+
+          2.   Exhibits.
+               --------
+
+          3.1  Third  Restated Articles of Organization of the Company (filed as
+               Exhibit to Registration Statement number 33-55658 on Form S-1 and
+               incorporated  herein  by  reference).
+
+          3.2  Amended and Restated By-laws of the Company (filed as Exhibit 3.2
+               to  Annual Report on Form 10-K for the fiscal year ended June 30,
+               1994,  file  number  0-020992,  and  incorporated  herein  by
+               reference).
+
+          4.1  Specimen  certificate  representing  the  Common  Stock (filed as
+               Exhibit 4.1 to Registration Statement number 33-55658 on Form S-1
+               and  incorporated  herein  by  reference).
+
+          4.2  Please  refer  to  Article  VI  of  Exhibit  3.1.
+
+          10.1 Amended  and  Restated  1992 Stock Plan (filed as Exhibit 10.1 to
+               Registration  Statement  number  33-55658  on  Form  S-1  and
+               incorporated  herein  by  reference).
+
+          10.2 1992  Employee  Stock  Purchase  Plan  (filed  as Exhibit 10.4 to
+               Registration  Statement  number  33-55658  on  Form  S-1  and
+               incorporated  herein  by  reference).
+
+          10.4 1992  Non-Employee  Director  Stock Option Plan (filed as Exhibit
+               10.5  to  Registration  Statement number 33-55658 on Form S-1 and
+               incorporated  herein  by  reference).
+
+          10.5 Promissory  Note  made by Charles J. Digate in favor of MathSoft,
+               Inc.,  dated  as  of  June 20, 2000 (filed as Exhibit 10.1 to the
+               Quarterly Report on Form 10-Q for the quarter ended June 30, 2000
+               and  incorporated  herein  by  reference)
+
+          10.6 Pledge  Agreement  between  Charles J. Digate and MathSoft, Inc.,
+               dated as of June 20, 2000 (filed as Exhibit 10.2 to the Quarterly
+               Report  on  Form  10-Q  for  the  quarter ended June 30, 2000 and
+               incorporated  herein  by  reference)
+
+          21.1 Subsidiaries  of  the  Registrant.
+
+          23.1 Consent  of  Arthur  Andersen  LLP
+
+     (b)  Reports  on  Form  8-K.
+
+          The  Company filed a Current Report on Form 8-K dated October 20, 2000
+          reporting  fiscal  third  quarter  results.
+
+
+                                       19
+<PAGE>
+                                   SIGNATURES
+
+     Pursuant  to  the  requirements  of  Section  13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its  behalf  by  the  undersigned,  thereunto  duly  authorized.
+
+     MATHSOFT,  INC.
+
+March  30,  2001                 By:  /s/  Shawn  F.  Javid
+                                           ---------------------
+                                           Shawn  F.  Javid
+                                           President and Chief Executive Officer
+
+     Pursuant  to  the requirements of the Securities Exchange Act of 1934, this
+report  has  been  signed  below  by  the  following  persons  on  behalf of the
+registrant  and  in  the  capacities  and  on  the  dates  indicated.
+
+
+March 30, 2001                                  /s/ Charles J. Digate
+                                                ----------------------------
+                                                Charles J. Digate
+                                                Chairman
+
+
+March 30, 2001                                  /s/ Shawn F. Javid
+                                                ----------------------------
+                                                Shawn F. Javid
+                                                President and Chief Executive
+                                                Officer
+
+
+March 30, 2001                                  /s/ Dermot P. O'Grady
+                                                ----------------------------
+                                                Dermot P. O'Grady
+                                                Senior Vice President Finance
+                                                and Administration, Chief
+                                                Financial Officer,
+                                                Treasurer and Clerk
+                                                (Principal Financial and
+                                                Accounting Officer)
+
+
+March 30, 2001                                  /s/ Arthur H. Reidel
+                                                ----------------------------
+                                                Arthur H. Reidel
+                                                Director
+
+March 30, 2001                                  /s/ Christopher S. Covington
+                                                ----------------------------
+                                                Christopher S. Covington
+                                                Director
+
+March 30, 2001                                  /s/ Mark Ozur
+                                                ----------------------------
+                                                Mark Ozur
+                                                Director
+
+March 30, 2001                                  /s/ Samuel R. Meshberg
+                                                ----------------------------
+                                                Samuel R. Meshberg
+                                                Director
+
+
+                                       20
+<PAGE>
+                                  EXHIBIT INDEX
+
+EXHIBIT NO.    DESCRIPTION
+
+          3.1  Third  Restated Articles of Organization of the Company (filed as
+               Exhibit to Registration Statement number 33-55658 on Form S-1 and
+               incorporated  herein  by  reference).
+
+          3.2  Amended and Restated By-laws of the Company (filed as Exhibit 3.2
+               to  Annual Report on Form 10-K for the fiscal year ended June 30,
+               1994,  file  number  0-020992,  and  incorporated  herein  by
+               reference).
+
+          4.1  Specimen  certificate  representing  the  Common  Stock (filed as
+               Exhibit 4.1 to Registration Statement number 33-55658 on Form S-1
+               and  incorporated  herein  by  reference).
+
+          4.2  Please  refer  to  Article  VI  of  Exhibit  3.1.
+
+          10.1 Amended  and  Restated  1992 Stock Plan (filed as Exhibit 10.1 to
+               Registration  Statement  number  33-55658  on  Form  S-1  and
+               incorporated  herein  by  reference).
+
+          10.2 1992  Employee  Stock  Purchase  Plan  (filed  as Exhibit 10.4 to
+               Registration  Statement  number  33-55658  on  Form  S-1  and
+               incorporated  herein  by  reference).
+
+          10.4 1992  Non-Employee  Director  Stock Option Plan (filed as Exhibit
+               10.5  to  Registration  Statement number 33-55658 on Form S-1 and
+               incorporated  herein  by  reference).
+
+          10.5 Promissory  Note  made by Charles J. Digate in favor of MathSoft,
+               Inc.,  dated  as  of  June 20, 2000 (filed as Exhibit 10.1 to the
+               Quarterly Report on Form 10-Q for the quarter ended June 30, 2000
+               and  incorporated  herein  by  reference)
+
+          10.6 Pledge  Agreement  between  Charles J. Digate and MathSoft, Inc.,
+               dated as of June 20, 2000 (filed as Exhibit 10.2 to the Quarterly
+               Report  on  Form  10-Q  for  the  quarter ended June 30, 2000 and
+               incorporated  herein  by  reference)
+
+          21.1 Subsidiaries  of  the  Registrant.
+
+          23.1 Consent  of  Arthur  Andersen  LLP
+
+
+                                       22
+<PAGE>
+INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+(FORMERLY  MATHSOFT,  INC.)
+
+Financial  Statements
+as  of  December  31,  2000  and  1999
+Together  with  Auditors'  Report
+
+
+<PAGE>
+Index
+
+                                                                            Page
+Report of Independent Public Accountants                                     F-1
+Consolidated Balance Sheets as of December 31, 2000
+and 1999                                                                     F-2
+Consolidated Statements of Operations for the Years
+ended December 31, 2000, 1999 and 1998                                       F-3
+Consolidated Statements of Stockholders' Equity for the
+Years ended December 31, 2000, 1999 and 1998                                 F-4
+Consolidated Statements of Cash Flows for the Years
+ended December 31, 2000, 1999 and 1998                                       F-5
+Notes to Consolidated Financial Statements                                   F-6
+
+
+<PAGE>
+REPORT  OF  INDEPENDENT  PUBLIC  ACCOUNTANTS
+
+
+To  Insightful  Corporation:
+
+We have audited the accompanying consolidated balance sheets of MathSoft, Inc. a
+Massachusetts corporation presently doing business as Insightful Corporation and
+subsidiaries  as  of  December  31,  2000  and 1999 and the related consolidated
+statements  of  operations,  stockholders' equity and cash flows for each of the
+three  years in the period ended December 31, 2000. These consolidated financial
+statements  are  the  responsibility  of  the  Company's  management.  Our
+responsibility  is  to  express  an  opinion  on  these  consolidated  financial
+statements  based  on  our  audits.
+
+
+We conducted our audits in accordance with auditing standards generally accepted
+in  the  United  States.  Those  standards  require that we plan and perform the
+audit  to obtain reasonable assurance about whether the financial statements are
+free  of  material  misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements.  An
+audit  also  includes  assessing  the accounting principles used and significant
+estimates  made  by  management,  as  well  as  evaluating the overall financial
+statement  presentation.  We  believe that our audits provide a reasonable basis
+for  our  opinion.
+
+In  our opinion, the consolidated financial statements referred to above present
+fairly,  in  all  material  respects,  the  financial  position  of  Insightful
+Corporation and subsidiaries as of December 31, 2000 and 1999 and the results of
+their  operations and their cash flows for each of the three years in the period
+ended  December  31,  2000,  in  conformity with accounting principles generally
+accepted  in  the  United  States.
+
+
+
+
+                                                  /s/  Arthur  Andersen  LLP
+
+
+
+Boston,  Massachusetts
+February  23,  2001
+
+
+                                      F-1
+<PAGE>
+<TABLE>
+<CAPTION>
+ASSETS                                                                               DECEMBER 31,
+                                                                                  2000           1999
+<S>                                                                           <C>            <C>
+Current Assets:
+  Cash and cash equivalents                                                   $  3,745,112   $  7,213,035
+  Accounts and other receivables, less reserves of $381,750 and $223,781 at
+    December 31, 2000 and 1999, respectively                                     3,978,510      3,253,620
+  Inventories                                                                       70,380         77,907
+  Prepaid expenses                                                                 126,993        140,872
+                                                                              -------------  -------------
+        Total current assets                                                     7,920,995     10,685,434
+                                                                              -------------  -------------
+Property and Equipment, at cost:
+  Computer equipment and software                                                2,639,896      1,979,353
+  Furniture and fixtures                                                           391,486        337,454
+  Property and equipment under capital lease                                       478,165        478,165
+  Leasehold improvements                                                            90,161          1,876
+                                                                              -------------  -------------
+                                                                                 3,599,708      2,796,848
+  Less-Accumulated depreciation and amortization                                 2,507,000      2,238,744
+                                                                              -------------  -------------
+                                                                                 1,092,708        558,104
+Net Assets of Discontinued Operations                                            1,290,570      2,398,898
+Other Assets                                                                       201,688        268,950
+                                                                              -------------  -------------
+                                                                              $ 10,505,961   $ 13,911,386
+                                                                              =============  =============
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities:
+  Current portion of capital lease obligations and equipment financings       $    149,911   $    237,496
+  Accounts payable                                                               1,179,711        552,161
+  Accrued expenses and other current liabilities                                 2,220,413      1,864,370
+  Deferred revenue                                                               3,042,461      2,532,969
+                                                                              -------------  -------------
+          Total current liabilities                                              6,592,496      5,186,996
+                                                                              -------------  -------------
+Capital Lease Obligations and Equipment Financings, less current portion            38,798         90,192
+                                                                              -------------  -------------
+Commitments (Note 5)
+Stockholders' Equity:
+  Preferred stock, $0.01 par value-
+    Authorized-1,000,000 shares
+    Issued and outstanding-none                                                          -              -
+  Common stock, $0.01 par value-
+     Authorized-20,000,000 shares
+    Issued and outstanding-10,695,895 and 9,931,990, shares at
+       December 31, 2000 and 1999, respectively                                    106,959         99,320
+  Additional paid-in capital                                                    32,524,604     30,834,687
+  Accumulated deficit                                                          (28,213,510)   (22,213,919)
+  Subscription receivable                                                         (550,000)             -
+  Cumulative translation adjustment                                                  6,614        (85,890)
+                                                                              -------------  -------------
+        Total stockholders' equity                                               3,874,667      8,634,198
+                                                                              -------------  -------------
+                                                                              $ 10,505,961   $ 13,911,386
+                                                                              =============  =============
+
+The  accompanying  notes  are  an  integral part of these consolidated financial statements.
+</TABLE>
+
+
+                                      F-2
+<PAGE>
+<TABLE>
+<CAPTION>
+INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+Consolidated  Statements  of  Operations
+
+                                                              ----  YEARS  ENDED  DECEMBER  31, ----
+                                                                  2000          1999          1998
+<S>                                                           <C>           <C>           <C>
+Revenues:
+  Software licenses                                           $ 6,811,427   $ 6,505,452   $ 5,164,798
+  Services and other                                            8,435,051     5,706,397     3,677,861
+                                                              ------------  ------------  ------------
+    Total revenues                                             15,246,478    12,211,849     8,842,659
+                                                              ------------  ------------  ------------
+Cost of Revenues:
+  Software licenses                                             1,575,004     1,547,189     1,122,419
+  Services and other                                            2,932,261     1,729,319     1,257,983
+                                                              ------------  ------------  ------------
+    Total cost of revenues                                      4,507,265     3,276,508     2,380,402
+                                                              ------------  ------------  ------------
+    Gross profit                                               10,739,213     8,935,341     6,462,257
+                                                              ------------  ------------  ------------
+Operating Expenses:
+  Sales and marketing                                           4,861,103     4,032,840     3,069,313
+  Research and development-Gross                                6,988,239     6,236,116     5,132,078
+  Less-Funded research (Note 2(f))                             (4,678,059)   (4,567,094)   (2,831,339)
+                                                              ------------  ------------  ------------
+    Research and development, net                               2,310,180     1,669,022     2,300,739
+  General and administrative                                    2,401,700     2,387,989     1,816,769
+                                                              ------------  ------------  ------------
+  Total operating expenses                                      9,572,983     8,089,851     7,186,821
+                                                              ------------  ------------  ------------
+  Income (loss) from continuing operations                      1,166,230       845,490      (724,564)
+Interest and Other Income                                         237,655       176,751       168,217
+Interest Expense                                                   30,116        32,569        35,094
+                                                              ------------  ------------  ------------
+  Income (loss) before provision for income taxes               1,373,769       989,672      (591,441)
+Provision for Income Taxes                                         67,216       114,270             -
+                                                              ------------  ------------  ------------
+  Net income (loss) from continuing operations                  1,306,553       875,402      (591,441)
+Discontinued Operations:
+  Income (loss) from discontinued operations,
+  net of applicable income taxes (Note 1)                      (7,306,144)      578,076     2,811,569
+                                                              ------------  ------------  ------------
+    Net income (loss)                                         $(5,999,591)  $ 1,453,478   $ 2,220,128
+                                                              ============  ============  ============
+Basic Net Income (Loss) per Share-Continuing operations       $      0.12   $      0.09   $     (0.06)
+                                                              ============  ============  ============
+Diluted Net Income (Loss) per Share-Continuing operations     $      0.12   $      0.08   $     (0.06)
+                                                              ============  ============  ============
+Basic Net Income (Loss) per Share-Discontinued operations     $     (0.70)  $      0.06   $      0.30
+                                                              ============  ============  ============
+Diluted Net Income (Loss) per Share-Discontinued operations   $     (0.66)  $      0.06   $      0.30
+                                                              ============  ============  ============
+Basic Net Income (Loss) per Share                             $     (0.57)  $      0.15   $      0.24
+                                                              ============  ============  ============
+Diluted Net Income (Loss) per Share                           $     (0.54)  $      0.14   $      0.24
+                                                              ============  ============  ============
+Weighted Average Number of Common Shares Outstanding           10,458,208     9,769,772     9,244,307
+                                                              ============  ============  ============
+Weighted Average Common Shares Outstanding Assuming
+   Dilution                                                    11,027,860    10,493,724     9,244,307
+                                                              ============  ============  ============
+
+The  accompanying  notes  are  an  integral part of these consolidated financial statements.
+</TABLE>
+
+
+                                      F-3
+<PAGE>
+<TABLE>
+<CAPTION>
+INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+Consolidated  Statements  of  Operations
+
+                                   COMMON STOCK       ADDITIONAL                                 CUMULATIVE          TOTAL
+                              NUMBER OF   $0.01 PAR    PAID-IN     ACCUMULATED    SUBSCRIPTION    TRANSLATION    STOCKHOLDERS'
+                               SHARES      VALUE      CAPITAL       DEFICIT       RECEIVABLE     ADJUSTMENT        EQUITY
+<S>                          <C>         <C>        <C>          <C>            <C>             <C>            <C>
+
+Balance, December 31, 1997    9,108,616  $  91,086  $29,339,752  $(25,887,525)  $           -   $    (47,990)  $    3,495,323
+
+  Exercise of stock options     215,791      2,158      366,612             -               -              -          368,770
+  and Employee Stock
+  Purchase Plan
+
+  Net income                          -          -            -     2,220,128               -              -        2,220,128
+
+  Translation adjustment              -          -            -             -               -        (33,714)         (33,714)
+
+  Comprehensive income                -          -            -             -               -              -                -
+                             ----------  ---------  -----------  -------------  --------------  -------------  ---------------
+
+Balance, December 31, 1998    9,324,407     93,244   29,706,364   (23,667,397)              -        (81,704)       6,050,507
+
+  Exercise of stock options     607,583      6,076    1,128,323             -               -              -        1,134,399
+  and Employee Stock
+  Purchase Plan
+
+  Net income                          -          -            -     1,453,478               -              -        1,453,478
+
+  Translation adjustment              -          -            -             -               -         (4,186)          (4,186)
+
+  Comprehensive income                -          -            -             -               -              -                -
+                             ----------  ---------  -----------  -------------  --------------  -------------  ---------------
+
+Balance, December 31, 1999    9,931,990     99,320   30,834,687   (22,213,919)              -        (85,890)       8,634,198
+
+  Exercise of stock options     763,905      7,639    1,689,917             -        (550,000)             -        1,147,556
+  and Employee Stock
+  Purchase Plan
+
+  Net loss                            -          -            -    (5,999,591)              -              -       (5,999,591)
+
+  Translation adjustment              -          -            -             -               -         92,504           92,504
+
+  Comprehensive loss                  -          -            -             -               -              -                -
+                             ----------  ---------  -----------  -------------  --------------  -------------  ---------------
+
+Balance, December 31, 2000   10,695,895  $ 106,959  $32,524,604  $(28,213,510)  $    (550,000)  $      6,614   $    3,874,667
+                             ==========  =========  ===========  =============  ==============  =============  ===============
+
+
+                              COMPREHENSIVE
+                              INCOME (LOSS)
+<S>                          <C>
+
+Balance, December 31, 1997   $            -
+
+  Exercise of stock options               -
+  and Employee Stock
+  Purchase Plan
+
+  Net income                      2,220,128
+
+  Translation adjustment            (33,714)
+                             ---------------
+
+  Comprehensive income            2,186,414
+                             ---------------
+
+Balance, December 31, 1998                -
+
+  Exercise of stock options               -
+  and Employee Stock
+  Purchase Plan
+
+  Net income                      1,453,478
+
+  Translation adjustment             (4,186)
+                             ---------------
+
+  Comprehensive income            1,449,292
+                             ---------------
+
+Balance, December 31, 1999                -
+
+  Exercise of stock options               -
+  and Employee Stock
+  Purchase Plan
+
+  Net loss                       (5,999,591)
+
+  Translation adjustment             92,504
+                             ---------------
+
+  Comprehensive loss             (5,907,087)
+                             ---------------
+
+Balance, December 31, 2000
+
+The  accompanying  notes  are  an  integral part of these consolidated financial
+statements.
+</TABLE>
+
+
+                                      F-4
+<PAGE>
+<TABLE>
+<CAPTION>
+INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+Consolidated  Statements  of  Stockholders'  Equity
+
+                                                                             2000         1999         1998
+<S>                                                                      <C>           <C>          <C>
+Cash Flows from Operating Activities:
+  Net income (loss)                                                      $(5,999,591)  $1,453,478   $2,220,128
+  Less-Net Income (loss) from discontinued operations                     (7,306,144)     578,076    2,811,569
+                                                                         ------------  -----------  -----------
+
+        Net income (loss) from continuing operations                       1,306,553      875,402     (591,441)
+
+    Adjustments to reconcile net income (loss) from continuing
+    operations to net cash provided by operating activities-
+  Depreciation and amortization                                              324,914      622,353      375,397
+  Currency translation adjustment                                            136,504       20,733      (39,587)
+  Changes in current assets and liabilities
+    Accounts and other receivables                                          (724,890)    (515,953)    (715,365)
+    Inventories                                                                7,526        2,431      (18,640)
+    Prepaid expenses                                                          13,879      (40,540)     (23,143)
+    Accounts payable                                                         627,550      (65,793)    (132,160)
+    Accrued expenses and other current liabilities                           356,041      206,597      109,634
+    Deferred revenue                                                         509,491      646,436      497,491
+                                                                         ------------  -----------  -----------
+
+    Net cash provided by (used in) continuing operating                    2,557,568    1,751,666     (537,814)
+                                                                         ------------  -----------  -----------
+    activities
+
+Cash Flows from Investing Activities:
+  Purchases of property and equipment                                       (635,072)    (129,551)     (12,433)
+  Decrease (Increase) in other assets                                         10,605      (99,214)    (228,928)
+                                                                         ------------  -----------  -----------
+
+    Net cash used in investing activities                                   (624,467)    (228,765)    (241,361)
+                                                                         ------------  -----------  -----------
+
+Cash Flows from Financing Activities:
+    Payments on capital lease obligations and equipment
+    financings                                                              (306,764)    (333,608)    (127,232)
+    Proceeds from exercise of stock options, and
+    Employee Stock Purchase Plan                                           1,147,556    1,134,399      368,770
+                                                                         ------------  -----------  -----------
+        Net cash provided by financing activities                            840,792      800,791      241,538
+                                                                         ------------  -----------  -----------
+Effect of Exchange Rate Changes on Cash and Cash                             (44,000)     (24,919)       5,873
+                                                                         ------------  -----------  -----------
+Equivalents
+
+          Net cash (used in) provided by discontinued operations          (6,197,816)    (792,395)   2,104,880
+                                                                         ------------  -----------  -----------
+Net(Decrease) Increase in Cash and Cash Equivalents                       (3,467,923)   1,506,378    1,573,116
+
+Cash and Cash Equivalents, beginning of period                             7,213,035    5,706,657    4,133,541
+                                                                         ------------  -----------  -----------
+
+Cash and Cash Equivalents, end of period                                 $ 3,745,112   $7,213,035   $5,706,657
+                                                                         ============  ===========  ===========
+
+Supplemental Disclosure of Cash Flow Information:
+  Cash paid during the period for-
+    Interest                                                             $    28,192   $   32,569   $   34,465
+                                                                         ============  ===========  ===========
+    Income taxes                                                         $    67,216   $   80,505   $    5,000
+                                                                         ============  ===========  ===========
+
+Supplemental Disclosure of Noncash Investing and Financing Activities:
+    Capital leases                                                       $   167,788   $  266,255   $  169,519
+                                                                         ============  ===========  ===========
+
+The  accompanying  notes  are  an  integral part of these consolidated financial
+statements.
+</TABLE>
+
+
+                                      F-5
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+(1)  OPERATIONS
+
+     MathSoft,  Inc.,  presently  doing  business as Insightful Corporation (the
+     Company)  provides  software  and  consulting  solutions  for  statistical
+     analysis, data mining and analytic Customer Relations Management (CRM).
+
+     The  Company  is  subject to a number of risks and uncertainties similar to
+     those  of  other companies of the same size within its industry, including,
+     without  limitation,  rapid  technological  change, competition and need to
+     attract  and  retain  key  employees.
+
+     On  June 1, 1999, the Company incorporated FreeScholarships.com, Inc. (FSC)
+     as  a  wholly  owned  subsidiary. FSC was originated as an Internet company
+     which  provided  information  and  assistance  to  a  broad consumer market
+     focused  on  funding  the  costs  of  education.
+
+     During  the  third  quarter of 2000, the Company discontinued operations of
+     FSC, which began Web operations in February 2000. Operating losses from the
+     discontinued  operation  were $9,000,623 and $1,841,762 for the years ended
+     December  31,  2000  and  1999,  respectively.  In  connection  with  this
+     discontinuation,  the  Company  recorded  a $1.9 million charge for various
+     costs related to closing this operation. This charge is included in the net
+     loss  for  2000.  During  the  fourth  quarter  $850,000 of this charge was
+     reversed  as  a  result of certain favorable negotiations in winding-up its
+     operations.
+
+     In  October  2000,  the  Company  signed  a  letter  of  intent to sell the
+     operations  of  the  Company's  Engineering and Education Products Division
+     (EEPD)  to a third party. Consistent with this letter of intent, on January
+     23, 2001, the Company sold all of the outstanding stock of its wholly-owned
+     subsidiary,  Mathsoft  Engineering  &  Education,  Inc. (MEEI), to Mathsoft
+     Corporate  Holdings,  Inc. As a result of this transaction, the Company has
+     recorded  the  operations  of  EEPD  as  discontinued operations during the
+     fourth quarter of 2000, which is reflected in the accompanying consolidated
+     financial  statements.  The  net gain for this transaction will be reported
+     during  the  first  quarter  of  2001 within discontinued operations and is
+     presently  expected  to  range  between  $3.5  and  $4.0  million.
+
+     The accompanying consolidated financial statements contain certain accounts
+     that  have  been  reclassified  in each of the periods presented to reflect
+     these  dispositions.  Reported  revenue,  costs  and  expenses  exclude the
+     operating  results  of  FSC  and  EEPD.  The  results  of  FSC and EEPD are
+     presented  on  a  net basis in the consolidated statements of operations as
+     (loss)  income from operations of discontinued operations. Operating (loss)
+     income  from  operations  of  discontinued operations were $(7,306,144) and
+     $578,076  for  the  years  ended  December 31, 2000 and 1999, respectively.
+
+
+                                      F-6
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+     Net  assets from discontinued operations in the accompanying balance sheets
+     include the discontinued operations of FSC and EEPD as of December 31, 2000
+     and  1999.  Components  are  as  follows:
+
+<TABLE>
+<CAPTION>
+                                                   DECEMBER 31,
+                                               2000           1999
+<S>                                       <C>             <C>
+
+              Cash and cash equivalents   $           -   $ 1,231,224
+              Accounts receivable, net        3,666,998     2,909,664
+              Net property and equipment        529,273       755,900
+              Other assets                      501,826       583,242
+              Accounts payable               (1,650,590)   (1,809,989)
+              Other current liabilities      (1,695,508)   (1,212,893)
+              Long-term liabilities             (61,429)      (58,250)
+                                          --------------  ------------
+
+              Total                       $   1,290,570   $ 2,398,898
+                                          ==============  ============
+</TABLE>
+
+(2)  SIGNIFICANT  ACCOUNTING  POLICIES
+
+     The  accompanying  consolidated  financial  statements  comprise  those  of
+     MathSoft  and  its  wholly  owned  subsidiaries: Statistical Sciences, Inc.
+     (StatSci),  Mathsoft Engineering & Education, Inc. (MEEI), TriMetrix, Inc.,
+     acroScience  Corporation  and FSC (collectively, the Company). All material
+     intercompany  accounts  and  transactions  have  been  eliminated  in
+     consolidation.
+
+     The  accompanying consolidated financial statements reflect the application
+     of  certain  accounting policies as described in this note and elsewhere in
+     the  consolidated  financial  statements  and  notes.
+
+     (a)  REVENUE  RECOGNITION
+
+          The  Company  records revenue in accordance with Statement of Position
+          (SOP)  No.  97-2,  Software  Revenue  Recognition.  License  revenue,
+          including  license  renewals,  consists  principally of revenue earned
+          under  fixed-term  and  perpetual  software  license agreements and is
+          generally  recognized  upon  shipment of the software if collection of
+          the  resulting  receivable  is  probable,  the  fee  is  fixed  or
+          determinable,  and  vendor-specific  objective evidence exists for all
+          undelivered  elements  to  allow  allocation  of  the total fee to all
+          delivered  and undelivered elements of the arrangement. Revenues under
+          such  arrangements,  which  may  include  several  different  software
+          products  and  services  sold  together, are allocated to each element
+          based  on  the  residual  method in accordance with SOP 98-9, Software
+          Revenue  Recognition,  with Respect to Certain Transactions. Under the
+          residual  method,  the  fair  value  of  the  undelivered  elements is
+          deferred  and  subsequently  recognized  when  earned. The Company has
+          established  sufficient  vendor  specific  objective  evidence  for
+          professional  services, training and maintenance and support services.
+
+
+
+                                      F-7
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+          Accordingly, software license revenue is recognized under the residual
+          method in arrangements in which software is licensed with professional
+          services,  training  and  maintenance  and  support  services.
+
+          The  Company  provides for estimated returns and warranty costs at the
+          time of sale. The Company offers maintenance contracts and training on
+          certain  of  its  products.  Maintenance revenue is recognized ratably
+          over the term of the related contracts generally for one year or less.
+          Training  and  consulting  revenue  is  recognized  as  services  are
+          performed.  Amounts received in advance for maintenance agreements are
+          recorded  as deferred revenue on the accompanying consolidated balance
+          sheets.
+
+     (b)  CASH  AND  CASH  EQUIVALENTS
+
+          Cash  and  cash  equivalents  are  stated  at cost, which approximates
+          market,  and  consist  of  short-term,  highly liquid investments with
+          original  maturities  of less than three months. Cash equivalents were
+          approximately  $3,745,000  and  $7,213,000 as of December 31, 2000 and
+          1999,  respectively,  and  consisted  primarily  of  investments  in
+          commercial  paper.
+
+     (c)  INVENTORIES
+
+          Inventories  are  stated at the lower of cost (first-in, first-out) or
+          market  and  consist  entirely  of  raw  materials.
+
+     (d)  DEPRECIATION  AND  AMORTIZATION
+
+          The  Company  provides for depreciation and amortization by charges to
+          operations  on a straight-line basis, in amounts estimated to allocate
+          the  cost of the assets over their estimated useful lives, as follows:
+
+
+                 ASSET CLASSIFICATION                   USEFUL LIVES
+            Computer equipment and software               3 years
+            Furniture and fixtures                      3-5 years
+            Leasehold improvements                     Life of lease
+
+
+          Property  and  equipment  under  capital leases are amortized over the
+          shorter  of  the  estimated  useful life of three to five years or the
+          term  of  the  lease.
+
+     (e)  RESEARCH  AND  DEVELOPMENT
+
+          The  Company  accounts for its software research and development costs
+          in  accordance with Statement of Financial Accounting Standards (SFAS)
+          No.  86,  Accounting  for  the  Costs of Computer Software to Be Sold,
+          Leased  or  Otherwise  Marketed.  During  the years ended December 31,
+          2000, 1999 and 1998, the Company expensed all research and development
+          costs, as those costs incurred from technological feasibility (defined
+          as  a  working  model)  to  general  release  were  not  material.
+
+
+                                      F-8
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+     (f)  FUNDED  RESEARCH
+
+          Funded  Research  amounts  represent  funding  received primarily from
+          federal  government  agencies  for  work  performed  by  the Company's
+          research  and  development department under cost-sharing arrangements.
+          These amounts are recognized as the work is performed and are recorded
+          as  an  offset  against  the  Company's total research and development
+          costs.
+
+     (g)  NET  INCOME  (LOSS)  PER  SHARE
+
+          The  Company  reports  earnings  per share in accordance with SFAS No.
+          128,  Earnings  per Share. Under SFAS No. 128, basic net income (loss)
+          per  common  share is computed based on net income (loss) available to
+          common  stockholders  and the weighted average number of common shares
+          outstanding  during the period. Diluted net income (loss) per share is
+          computed  based  on  the number of additional common shares that would
+          have been outstanding if the dilutive potential common shares had been
+          issued.
+
+          A  reconciliation  of  basic  and  diluted  shares  outstanding  is as
+          follows:
+
+<TABLE>
+<CAPTION>
+                                              --- YEARS ENDED DECEMBER 31, ---
+                                                2000        1999        1998
+<S>                                          <C>         <C>         <C>
+           Weighted average common
+           shares outstanding                10,458,208   9,769,772   9,244,307
+           Effect of dilutive stock options     569,652     723,952           -
+                                             ----------  ----------  ----------
+
+           Weighted average common
+           shares outstanding assuming
+           dilution                          11,027,860  10,493,724   9,244,307
+                                             ==========  ==========  ==========
+</TABLE>
+
+          The  above schedule does not include shares of common stock or options
+          to  purchase shares of common stock of FSC, the Company's wholly owned
+          subsidiary.
+
+          The  following  securities  were  not  included  in  computing diluted
+          earnings  per  share  because  their  effect  would  be  antidilutive:
+
+<TABLE>
+<CAPTION>
+                               -- YEARS ENDED DECEMBER 31, --
+                                  2000      1999     1998
+<S>                             <C>        <C>      <C>
+            Antidilutive stock
+            options             1,659,804  349,116  255,586
+                                =========  =======  =======
+</TABLE>
+
+     (h)  FOREIGN  CURRENCY  TRANSLATION
+
+          Assets  and liabilities of the Company's foreign branch are translated
+          to  U.S.  dollars  using the exchange rate at each balance sheet date.
+          Income  and  expense  accounts are translated using an average rate of
+          exchange  during  the period. Foreign currency translation adjustments
+          are  accumulated  as a separate component of stockholders' equity. The
+          effect of aggregate transaction losses are recognized currently in the
+          statements  of  operations  included  in  general  and  administrative
+          expense  and  were  approximately  $109,000, $9,000 and $8,000 for the
+          years  ended  December  31,  2000,  1999  and  1998,  respectively.
+
+
+                                      F-9
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+     (i)  OTHER  ASSETS
+
+          Other  assets, consisting primarily of purchased technology, long-term
+          deposits  and  capitalized  legal  patent  fees,  totaled $201,688 and
+          $268,950,  net  of accumulated amortization of $127,698 and $71,030 as
+          of  December  31,  2000  and  1999,  respectively.
+
+          The  Company  assesses  the  realizability of its long-lived assets in
+          accordance  with  SFAS  No.  121,  Accounting  for  the  Impairment of
+          Long-Lived  Assets  and for Long-Lived Assets to Be Disposed Of. Under
+          SFAS  No.  121, the Company is required to assess the valuation of its
+          long-lived assets, including intangible assets, based on the estimated
+          cash  flows  to  be generated by such assets. Based on its most recent
+          analysis,  the  Company  believes  that  no  material  impairment  of
+          intangible  assets  exists  as  of  December  31,  2000.
+
+     (j)  CONCENTRATION  OF  CREDIT  RISK
+
+          SFAS  No.  105,  Disclosure of Information about Financial Instruments
+          with  Off-Balance-Sheet  Risk  and  Financial  Instruments  with
+          Concentrations  of Credit Risk, requires disclosure of any significant
+          off-balance-sheet  and  credit  risk  concentrations.  The  Company's
+          financial  instruments that subject the Company to credit risk consist
+          primarily  of  cash  and cash equivalents and accounts receivable. The
+          Company maintains the majority of its cash balances with one financial
+          institution.  The  Company  has  not  experienced  significant  losses
+          related to accounts receivable from any individual customers or groups
+          of  customers  in  any  specific  industry  or  geographic  area.
+
+          During  the  years ended December 31, 2000, 1999 and 1998, the Company
+          did  not  have any one customer that accounted for greater than 10% of
+          net  revenues. As of December 31, 2000, 1999 and 1998, the Company did
+          not  have  any  one  customer  that  accounted  for  10%  of  accounts
+          receivable.
+
+     (k)  USE  OF  ESTIMATES
+
+          The  preparation  of  these  consolidated  financial  statements  in
+          conformity  with  generally  accepted  accounting  principles requires
+          management  to make estimates and assumptions that affect the reported
+          amounts  of assets and liabilities and disclosure of contingent assets
+          and  liabilities  at  the  date  of  the  financial statements and the
+          reported  amounts of revenues and expenses during the reported period.
+          Actual  results  could  differ  from  those  estimates.
+
+     (l)  FINANCIAL  INSTRUMENTS
+
+          SFAS  No.  107, Disclosures about Fair Value of Financial Instruments,
+          requires  disclosure  about  fair  value  of  financial  instruments
+          consisting  of  cash,  accounts  receivable,  equipment  financing and
+          capital  leases.  The  estimated  fair  value  of  these  financial
+          instruments  approximates  their  carrying  value  in the accompanying
+          financial  statements.
+
+
+                                      F-10
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+     (m)  DERIVATIVES
+
+          SFAS  No.  137,  Accounting  for  Derivative  Instruments  and Hedging
+          Activities-Deferral of the Effective Date of FASB Statement No. 133-An
+          Amendment  of  FASB Statement No. 133, which defers the effective date
+          of  SFAS  No. 133 to all fiscal quarters of all fiscal years beginning
+          after  June  15,  2000.  SFAS  No.  133,  Accounting  for  Derivative
+          Instruments  and  Hedging Activities, issued in June 1998, establishes
+          accounting  and  reporting  standards  for  derivative  instruments,
+          including  certain derivative instruments embedded in other contracts,
+          and  hedging  activities.  It  requires  an  entity  to  recognize all
+          derivatives  as  either  assets  or  liabilities  in  the statement of
+          financial position and measure those instruments at fair value. As the
+          Company  does  not  currently  engage  in  derivatives  or  hedging
+          transactions,  there  is  no  impact  to  the  Company's  results  of
+          operations, financial position or cash flows upon the adoption of SFAS
+          No.  133.
+
+     (n)  RECENT  ACCOUNTING  PRONOUNCEMENTS
+
+          In  March 2000, the Financial Accounting Standards Board (FASB) issued
+          Interpretation  No.  44, Accounting for Certain Transactions Involving
+          Stock  Compensation-an  Interpretation  of  APB  Opinion  No. 25. This
+          interpretation provides guidance on the application of APB Opinion No.
+          25,  Accounting  for  Stock Issued to Employees. The interpretation is
+          effective July 1, 2000. Its adoption did not have a material impact on
+          the  Company's  results  of  operations  or  financial  condition.
+
+          In  September  2000,  the  FASB  issued  SFAS  No. 140, Accounting for
+          Transfers  and  Servicing  of  Financial Assets and Extinguishments of
+          Liabilities,  a  replacement  of SFAS No. 125. This statement provides
+          accounting  and  reporting  standards  for  transfers and servicing of
+          financial  assets and extinguishments of liabilities. The Company does
+          not  expect  the adoption of SFAS No. 140 to have a material impact on
+          the  results  of  its  operations  or  financial  position.
+
+(3)  INCOME  TAXES
+
+     The  Company  accounts  for  income  taxes in accordance with SFAS No. 109,
+     Accounting  for  Income  Taxes.  Under this method, deferred tax assets and
+     liabilities  are  determined  based on the difference between the financial
+     statement  and  tax bases of assets and liabilities using currently enacted
+     tax  rates.
+
+
+                                      F-11
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+     The  provisions  for  income  taxes  consist  of  the  following:
+
+<TABLE>
+<CAPTION>
+                                     --- YEARS ENDED DECEMBER 31, ---
+                                       2000         1999       1998
+<S>                                <C>           <C>         <C>
+      Current tax expense-
+        Foreign                     $    69,000   $ 273,000   $ 23,000
+
+      Deferred tax expense
+      (benefit)-
+        Federal                      (2,829,000)    (70,000)   387,000
+        State                          (499,000)    (12,000)    68,000
+                                    ------------  ----------  ---------
+
+                                     (3,328,000)    (82,000)   455,000
+
+      Change in valuation reserve    (3,328,000)    (82,000)   455,000
+                                    ------------  ----------  ---------
+
+        Less-Amounts attributable
+        to discontinued operations       (2,000)   (159,000)   (23,000)
+                                    ------------  ----------  ---------
+
+        Total                       $    67,000   $ 114,000   $      -
+                                    ============  ==========  =========
+</TABLE>
+
+     A  reconciliation  of the federal statutory rate to the Company's effective
+     tax  rate  is  as  follows:
+
+<TABLE>
+<CAPTION>
+                                      YEARS ENDED DECEMBER 31,
+                                       2000    1999    1998
+<S>                                   <C>     <C>     <C>
+     Income tax provision at federal
+     statutory rate                    34.0%   34.0%  (34.0)%
+
+     Increase (decrease) in tax
+     resulting from-
+       State tax provision              6.0     6.0     (6.0)
+       Foreign tax provision            0.5    11.5      0.0
+       Other permanent items            1.0     1.0      1.0
+       Change in valuation reserve    (42.0)  (41.0)    39.0
+                                      ------  ------  -------
+
+                                      (0.5)%   11.5%     0.0%
+                                      ======  ======  =======
+</TABLE>
+
+
+                                      F-12
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+     The  significant  components of the deferred tax assets and liabilities are
+     as  follows:
+
+<TABLE>
+<CAPTION>
+                                                             DECEMBER 31,
+                                                         2000           1999
+<S>                                                  <C>            <C>
+      Net operating loss carryforward                $  7,102,000   $ 5,113,000
+      Research and development credit carryforwards     1,696,000     1,320,000
+      Temporary differences                             2,084,000     1,121,000
+                                                     -------------  ------------
+
+                                                       10,882,000     7,554,000
+
+      Valuation allowance                             (10,882,000)   (7,554,000)
+                                                     -------------  ------------
+
+        Net deferred tax asset                       $          -   $         -
+                                                     =============  ============
+</TABLE>
+
+     Due  to  the  uncertainty  surrounding  the realization of its deferred tax
+     assets,  the  Company  has  recorded a full valuation allowance against its
+     deferred  tax  assets.
+
+     At  December  31,  2000,  the  Company  has  available  net  operating loss
+     carryforwards  of approximately $17,775,000 and tax credit carryforwards of
+     approximately  $4,240,000.  The  net  operating  loss  and  tax  credit
+     carryforwards  may  be  used  to  offset  future federal taxable income and
+     federal  income  taxes,  respectively, through the year ending December 31,
+     2020.  The  Internal  Revenue  Code  contains provisions that limit the net
+     operating  loss  and credit carryforwards available to be used in any given
+     year  upon  the occurrence of certain events, including significant changes
+     in  ownership  interests.
+
+(4)  EQUIPMENT  FINANCING
+
+     During  2000,  the  Company entered into several financing arrangements for
+     the purchase of fixed assets totaling $167,788, all of which were equipment
+     lease financing arrangements. All of the financings are payable in 24 equal
+     monthly  payments  of  principal plus interest ranging from 10.9% to 11.3%.
+
+
+                                      F-13
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+     Future  minimum  payments  as  of  December  31, 2000 under these financing
+     arrangements  and  capital  leases  are  as  follows:
+
+     Year ending December 31,
+
+         2001                                                $163,417
+         2002                                                  40,553
+                                                             --------
+
+            Total minimum lease payments                      203,970
+
+     Less-Amount representing interest                         15,261
+                                                             --------
+
+            Present value of minimum payments                 188,709
+
+     Less-Current portion of capital lease obligations and
+     equipment financings                                     149,911
+                                                             --------
+
+                                                             $ 38,798
+                                                             ========
+
+(5)  COMMITMENTS
+
+     The  Company  has  operating  leases for its various facilities and certain
+     office  equipment.  One lease provides for uneven payments during the lease
+     term; however, rent expense is charged to operations evenly over the leased
+     period.
+
+     The future lease payments under the Company's operating lease arrangements,
+     exclusive  of  operating  costs and net of sublease revenue through October
+     2005  are  approximately  as  follows:
+
+<TABLE>
+<CAPTION>
+                                           OPERATING
+                                             LEASES
+<S>                                        <C>
+          Year ending December 31,
+            2001                           $  717,000
+            2002                              731,000
+            2003                              755,000
+            2004                              605,000
+            2005                               93,000
+                                           ----------
+
+              Total future lease payments  $2,901,000
+                                           ==========
+</TABLE>
+
+     Rental  expense  under  the  Company's  operating  leases was approximately
+     $693,000,  $506,000 and $427,000 for the years ended December 31, 2000,1999
+     and  1998,  respectively.
+
+
+                                      F-14
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+(6)  STOCKHOLDERS'  EQUITY
+
+     (A)  STOCK  OPTION  PLANS
+
+          The Company has a stock option plan that was adopted in 1992 (the 1992
+          Plan) whereby the Board of Directors may grant incentive stock options
+          (ISOs),  nonqualified  stock  options,  awards  of  common  stock  and
+          authorizations  to  make  direct purchases of common stock to eligible
+          employees  and  others, as defined. A total of 4,650,000 shares may be
+          issued  under the 1992 Plan. ISOs are granted at a price not less than
+          fair  market  value  at  the date of grant. The options typically vest
+          over  a five-year period. At December 31, 2000 the Company had 666,135
+          options  available  for  future  grant  under  the  1992  Plan.
+
+          The  Company  also  has  a Nonemployee Director Stock Option Plan (the
+          1992 Director's Plan) pursuant to which directors who are not officers
+          or  employees  of  the  Company  annually  receive options to purchase
+          shares  of  the  Company's  common stock. A total of 400,000 shares of
+          common  stock  may  be  issued  under  the  1992  Director's Plan. The
+          exercise  price  of  each  option  equals the fair market value of the
+          stock  on  the  date  of  grant.  The options are exercisable upon the
+          earlier  of  one  year  from  the  date  of grant, or the first annual
+          meeting  of  stockholders following the date of grant at which members
+          of  the  Board  are  elected.  At  December  31, 2000, the Company had
+          230,416  options  available for future grant under the 1992 Director's
+          Plan.
+
+          The Board of Directors granted Key Officer Stock Options to members of
+          senior  management  of  the  Company  in  1992.  The Key Officer Stock
+          Options  are  nonqualified,  nonplan  stock options exercisable for an
+          aggregate  of  907,556  shares of common stock at an exercise price of
+          $1.08 per share, the fair market value of the common stock on the date
+          of  grant.  Each  such option expires 11 years from the date of grant,
+          subject  to  earlier  termination  if the optionee ceases to serve the
+          Company  other than by reason of death or disability. Each Key Officer
+          Stock  Option  became  exercisable  upon  the closing of the Company's
+          initial  public  offering.
+
+          The  Company  has  a Non-Qualified, Non-Officer Stock Option Plan (the
+          1996  Non-Officer  Plan)  under which employees and consultants to the
+          Company  are  granted  nonqualified  options  to purchase stock in the
+          Company. A total of 200,000 shares of common stock may be issued under
+          the  1996  Non-Officer  Plan. The vesting of options granted under the
+          1996  Non-Officer Plan is determined at the date of grant. Each option
+          expires  10  years  from  the  date  of  grant,  subject  to  earlier
+          termination  if the optionee ceases to serve the Company other than by
+          reason  of  death  or disability, and is not transferable. At December
+          31,  2000,  the Company had 165,000 options available for future grant
+          under  the  1996  Non-Officer  Plan.
+
+          As  of  December 31, 2000, a total of 6,157,556 shares of common stock
+          were  reserved  for  issuance under the 1992 Plan, the 1992 Director's
+          Plan,  the  Key  Officer  Stock  Option Plan, and the 1996 Non-Officer
+          Plan.
+
+
+                                      F-15
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+          The  Company  accounts  for  its  stock-based compensation plans under
+          Accounting  Principles  Board  Opinion  No.  25,  Accounting for Stock
+          Issued  to  Employees, and has adopted the disclosure-only alternative
+          under SFAS No. 123 for employees, which requires disclosure of the pro
+          forma  effects  on  earnings and earnings per share as if SFAS No. 123
+          had  been  adopted,  as well as certain other information. The Company
+          has computed the pro forma disclosures required under SFAS No. 123 for
+          all  stock  options  granted  during fiscal years 2000, 1999 and 1998,
+          including  the  Employee  Stock Purchase Plan, using the Black-Scholes
+          option  pricing  model  prescribed  by SFAS No. 123. For nonemployees,
+          SFAS  No.  123 requires that the compensation expense calculated using
+          the  Black-Scholes option pricing model be charged to the statement of
+          operations.  There  were no grants to nonemployees for the years ended
+          December  31,  2000,  1999  and  1998.
+
+          The  assumptions  used  and  the  weighted  average information are as
+          follows:
+
+<TABLE>
+<CAPTION>
+                                        --- YEARS  ENDED  DECEMBER  31, ---
+                                           2000          1999          1998
+<S>                                    <C>           <C>           <C>
+     Risk-free interest rates           5.28%-6.73%   5.10%-6.33%   4.53%-5.67%
+     Expected dividend yield                None          None          None
+     Expected lives                       7 years       7 years       5 years
+     Expected volatility                    101%          119%           77%
+     Weighted average grant-date fair
+       value of options granted
+       during the period               $      2.99   $      2.83   $      1.67
+     Weighted average remaining
+       contractual life of
+       options outstanding              6.35 years    7.06 years    7.16 years
+</TABLE>
+
+The  effect  of  applying  SFAS  No.  123  would  be  as  follows:
+
+<TABLE>
+<CAPTION>
+                                     --- YEARS ENDED DECEMBER 31, ---
+                                       2000          1999        1998
+<S>                                <C>            <C>         <C>
+Net income (loss) as reported      $ (5,999,591)  $1,453,478  $2,220,132
+                                   =============  ==========  ==========
+
+Pro forma net income (loss)        $(10,007,726)  $  (85,385) $1,331,541
+                                   =============  ==========  ==========
+
+Basic income (loss) per share as
+  reported                         $      (0.57)  $    0.15   $     0.24
+                                   =============  ==========  ==========
+
+Diluted net income (loss) per
+  share as reported                $      (0.54)  $    0.14   $     0.24
+                                   =============  ==========  ==========
+
+Pro forma basic net income
+  (loss) per share                 $      (0.96)  $   (0.01)  $     0.14
+                                   =============  ==========  ==========
+
+Pro forma diluted net income
+  (loss) per share                 $      (0.96)  $   (0.01)  $     0.13
+                                   =============  ==========  ==========
+</TABLE>
+
+
+                                      F-16
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+          The  Company's  stock  option  activity  for  all plans is as follows:
+
+<TABLE>
+<CAPTION>
+                                                        WEIGHTED
+                                                        AVERAGE
+                                            NUMBER OF   EXERCISE
+                                              SHARES      PRICE
+<S>                                         <C>         <C>
+          Outstanding at December 31, 1997  2,872,292       2.39
+            Granted                           721,150       2.67
+            Exercised                        (161,278)      1.56
+            Canceled                         (183,658)      3.30
+                                            ----------  --------
+
+          Outstanding at December 31,1998   3,248,506       2.43
+            Granted                           729,950       2.78
+            Exercised                        (541,248)      1.83
+            Canceled                         (442,140)      2.82
+                                            ----------  --------
+
+          Outstanding at December 31, 1999  2,995,068       2.57
+            Granted                         1,286,900       3.30
+            Exercised                        (706,517)      2.17
+            Canceled                         (715,574)      3.31
+                                            ----------  --------
+
+          Outstanding at December 31, 2000  2,859,877   $   2.81
+                                            ==========  ========
+
+          Exercisable at December 31, 2000  1,317,302   $   2.79
+                                            ==========  ========
+
+          Exercisable at December 31, 1999  1,732,446   $   2.44
+                                            ==========  ========
+
+          Exercisable at December 31, 1998  1,847,454   $   2.21
+                                            ==========  ========
+</TABLE>
+
+
+                                      F-17
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+          The  following  table  summarizes  information  about  stock  options
+          outstanding  and  exercisable  at  December  31,  2000:
+
+<TABLE>
+<CAPTION>
+                     --- OPTIONS  OUTSTANDING ---             --- OPTIONS  EXERCISABLE ---
+                               WEIGHTED                                 WEIGHTED
+                               AVERAGE                                  AVERAGE
+                 NUMBER OF    REMAINING      WEIGHTED     NUMBER OF    REMAINING     WEIGHTED
+RANGE OF          OPTIONS    CONTRACTUAL      AVERAGE      OPTIONS    CONTRACTUAL    AVERAGE
+OPTION PRICES   OUTSTANDING      LIFE      OPTION PRICE  EXERCISABLE      LIFE     OPTION PRICE
+<S>             <C>          <C>           <C>           <C>          <C>          <C>
+1.00-2.06          609,517    8.79 years  $        1.56      118,677   4.65 years  $       1.16
+2.25-4.00         1,691,110   4.93 years           2.62    1,040,500   3.47 years          2.62
+4.44-6.13           559,250   7.96 years           4.71      158,125   5.91 years          5.20
+                -----------                              -----------
+
+                  2,859,877   6.35 years  $        2.81    1,317,302   3.88 years  $       2.79
+                ===========               =============  ===========               ============
+</TABLE>
+
+     (b)  FREESCHOLARSHIPS.COM  OPTION  ACTIVITY
+
+          FreeScholarships.com  adopted a Stock Option and Incentive Plan during
+          1999  (the  1999  Plan)  whereby  the  Board  of Directors could grant
+          incentive  stock options (ISOs), nonqualified stock options and awards
+          of common stock to eligible employees and others, as defined. The Plan
+          and  all  outstanding  options  were  cancelled in connection with the
+          discontinuance  of  the  operations of FreeScholarships.com.
+
+     (c)  EMPLOYEE  STOCK  PURCHASE  PLAN
+
+          The  Company has an employee stock purchase plan pursuant to which the
+          Company  has  reserved  and  may  issue up to 450,000 shares of common
+          stock  in semiannual offerings over a 10-year period. Shares of common
+          stock  are  sold  at  85% of fair market value, as defined. During the
+          years  ended  December  31,  2000,  1999  and 1998, the Company issued
+          57,088,  66,335  and 54,513 shares under the Plan, respectively. As of
+          December  31,  2000,  156,390  shares  remain  for  future  purchase.
+
+     (d)  SUBSCRIPTION  RECEIVABLE
+
+          On June 20, 2000, the Company loaned $550,000 on a full recourse basis
+          to  its  CEO  for the exercise of common stock options. The note bears
+          interest  of  8%  in  the first two years, and the prime rate in years
+          thereafter  (9.5% at December 31, 2000). The principal and any accrued
+          but  unpaid  interest  is payable on demand at any time after June 19,
+          2002,  or  earlier upon the occurrence of certain specific events. The
+          Company  has  recorded  the  note  receivable  as  a  reduction  in
+          stockholders  equity  in  the  accompanying  consolidated  financial
+          statements.
+
+
+
+                                      F-18
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+(7)  GEOGRAPHIC  DATA
+
+     Revenues  by  geographic  area  based on customer location were as follows:
+
+<TABLE>
+<CAPTION>
+                                 --- YEARS ENDED DECEMBER 31, ---
+     GEOGRAPHIC AREA              2000         1999         1998
+<S>                            <C>          <C>          <C>
+     United States and Canada  $11,359,799  $ 8,775,406  $6,118,505
+     United Kingdom              1,232,086    1,061,707     910,993
+     Japan                         603,671      615,324     547,819
+     France                        274,207      228,073     196,898
+     Germany                       211,961      223,801     131,448
+     Other                       1,564,754    1,307,538     936,996
+                               -----------  -----------  ----------
+
+                               $15,246,478  $12,211,849  $8,842,659
+                               ===========  ===========  ==========
+</TABLE>
+
+(8)  SEGMENT  REPORTING
+
+     SFAS  No.  131,  Disclosures  about  Segments  of an Enterprise and Related
+     Information, requires certain financial and supplementary information to be
+     disclosed  on an annual and interim basis for each reportable segment of an
+     enterprise.  The  Company believes that it operates in one business segment
+     based  on  the  way management makes their operating decisions and assesses
+     performance.  Accordingly, the Company's measure of performance is based on
+     software  license  revenues and services and other revenues and the related
+     cost  of  revenues  which  are  reported  in  the accompanying consolidated
+     statements  of  operations.  Accordingly,  no  additional  disclosure  is
+     required.
+
+(9)  ACCRUED  EXPENSES  AND  OTHER  CURRENT  LIABILITIES
+
+     Accrued  expenses  and  other current liabilities consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                         DECEMBER 31,
+                                                       2000        1999
+<S>                                                 <C>         <C>
+         Accrued payroll and payroll-related items  $  690,100  $  879,993
+         Accrued vacation                              324,568     226,640
+         Accrued royalties                             386,184     229,706
+         Other accrued expenses                        819,561     528,031
+                                                    ----------  ----------
+
+                                                    $2,220,413  $1,864,370
+                                                    ==========  ==========
+</TABLE>
+
+(10) LINE  OF  CREDIT
+
+     The  Company  had  a  line  of  credit  with  a  bank,  collateralized  by
+     substantially  all  of the Company's assets. Borrowings were limited to the
+     lesser  of  80%  of  eligible  domestic accounts receivable, as defined, or
+     $2,000,000.  The  line  of  credit  expired  during  2000.
+
+
+                                      F-19
+<PAGE>
+     INSIGHTFUL  CORPORATION  AND  SUBSIDIARIES
+
+     Notes  to  Consolidated  Financial  Statements
+     December  31,  2000
+
+(11) VALUATION  AND  QUALIFYING  ACCOUNTS
+
+     A  rollforward  of  the  allowance  for doubtful accounts and allowance for
+     sales  returns  for  the years ended December 31, 2000, 1999 and 1998 is as
+     follows:
+
+<TABLE>
+<CAPTION>
+                                         BALANCE,     CHARGED TO
+                                       BEGINNING OF    COSTS AND                 BALANCE, END
+                                          PERIOD       EXPENSES     DEDUCTIONS    OF PERIOD
+<S>                                    <C>            <C>          <C>            <C>
+
+Year Ended December 31, 2000:
+  Allowance for doubtful accounts      $      28,252  $    83,840  $           -  $  112,092
+  Allowance for sales returns                195,529       74,129              -     269,658
+                                       -------------  -----------  -------------  ----------
+
+       Total reserve for accounts      $     223,781  $   157,969  $           -  $  381,750
+       receivable                      =============  ===========  =============  ==========
+
+Year Ended December 31, 1999:
+  Allowance for doubtful accounts      $      46,670  $         -  $      18,418  $   28,252
+  Allowance for sales returns                193,386        2,143              -     195,529
+                                       -------------  -----------  -------------  ----------
+
+          Total reserve for accounts   $     240,056  $     2,143  $      18,418  $  223,781
+          receivable                    =============  ===========  =============  ==========
+
+Year Ended December 31, 1998:
+  Allowance for doubtful accounts      $      61,800  $         -  $      15,130  $   46,670
+  Allowance for sales returns                153,016       66,444         26,074     193,386
+                                       -------------  -----------  -------------  ----------
+
+           Total reserve for accounts  $     214,816  $    66,444  $      41,204  $  240,056
+           receivable                  =============  ===========  =============  ==========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+(12)  Unaudited Quarterly Data                                                                2000
+                                                                       --------------------------------------------------
+                                                                           Q1           Q2           Q3           Q4
+                                                                       -----------  -----------  -----------  -----------
+<S>   <C>                                                              <C>          <C>          <C>          <C>
+      Revenue                                                          $3,537,000   $3,659,000   $4,212,000   $3,838,000
+      Net Income from continuing operations                               425,000      294,000      395,000      192,000
+      Basic Net Income (Loss) per Share - Continuing operations              0.04         0.03         0.04         0.02
+      Diluted Net Income (Loss) per Share - Continuing operations            0.04         0.03         0.04         0.02
+
+      Net Income (loss)                                                (1,616,000)  (2,493,000)  (3,520,000)   1,629,000
+      Basic Net Income (Loss) per Share                                     (0.16)       (0.24)       (0.33)        0.15
+      Diluted Net Income (Loss) per Share                                   (0.14)       (0.23)       (0.33)        0.15
+
+                                                                                              1999
+                                                                       --------------------------------------------------
+                                                                           Q1           Q2           Q3           Q4
+                                                                       -----------  -----------  -----------  -----------
+      Revenue                                                          $2,826,000   $2,880,000   $3,197,000   $3,309,000
+      Net Income from continuing operations                               303,000      245,000      356,000      (29,000)
+      Basic Net Income (Loss) per Share - Continuing operations              0.03         0.03         0.04        (0.00)
+      Diluted Net Income (Loss) per Share - Continuing operations            0.03         0.02         0.04        (0.00)
+
+      Net Income (loss)                                                   637,000      389,000      241,000      186,000
+      Basic Net Income (Loss) per Share                                      0.07         0.04         0.02         0.02
+      Diluted Net Income (Loss) per Share                                    0.06         0.04         0.02         0.02
+
+The above data has been restated to reflect the operations of EEPD and FSC as discontinued operations.
+</TABLE>
+
+
+                                      F-20
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>2
+<FILENAME>doc2.txt
+<TEXT>
+
+                                                                    EXHIBIT 21.1
+
+
+
+                                  EXHIBIT 21.1
+
+
+                                 MATHSOFT, INC.
+               PRESENTLY DOING BUSINESS AS INSIGHTFUL CORPORATION
+                                AND SUBSIDIARIES
+
+                                  SUBSIDIARIES
+
+
+
+STATISTICAL SCIENCES, INC.
+(A MASSACHUSETTS CORPORATION)
+
+
+TRIMETRIX, INC.
+(A WASHINGTON CORPORATION)
+
+
+DISTANCE TRAINING.COM
+(A DELAWARE CORPORATION)
+
+
+FREESCHOLARSHIPS.COM, INC.
+(A DELAWARE CORPORATION)
+
+
+ACROSCIENCE CORPORATION
+(A WASHINGTON CORPORATION)
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>doc3.txt
+<TEXT>
+
+                                                                    Exhibit 23.1
+
+
+
+
+                    Consent of Independent Public accountants
+
+
+
+As independent public accountants, we hereby consent to the incorporation of our
+reports  included  in this Form 10-K, into the Mathsoft, Inc.'s previously filed
+Registration Statements on Form S-3 and Form S-8 (File Nos. 33-99620, 333-94466,
+333-19513, 333-45796 and 333-87097.
+
+
+                                         /s/Arthur Andersen LLP
+
+
+
+
+Boston,  Massachusetts
+March  30,  2001
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3207 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KwyQUa+PjUOuUJiAt8nlL8XAAVFu96WDOyhklp0uuUcJDawtkLiLFRRvYDfey687
+ DdDwT5PKBBfmyxazZPnM+g==
+
+<SEC-DOCUMENT>0000912057-97-032001.txt : 19970930
+<SEC-HEADER>0000912057-97-032001.hdr.sgml : 19970930
+ACCESSION NUMBER:		0000912057-97-032001
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19970630
+FILED AS OF DATE:		19970929
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OVERLAND DATA INC
+		CENTRAL INDEX KEY:			0000889930
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		IRS NUMBER:				953535285
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22071
+		FILM NUMBER:		97687577
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8975 BALBOA AVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+		BUSINESS PHONE:		6195715555
+
+	MAIL ADDRESS:	
+		STREET 1:		8975 BALBOA AVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10-K
+<TEXT>
+
+<PAGE>
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                            Washington, DC  20549
+
+                                  FORM 10-K
+(Mark One)
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+                   FOR THE FISCAL YEAR ENDED:  JUNE 30, 1997
+     
+                                      OR
+     
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES 
+    EXCHANGE ACT OF 1934
+                For the transition period from _____ to _____
+     
+                          Commission File Number:  0-22071
+     
+                              OVERLAND DATA, INC.
+           (Exact name of registrant as specified in its charter)
+     
+          CALIFORNIA                                95-3535285
+          (State or other jurisdiction            (IRS Employer
+               of incorporation)                Identification No.)
+                 
+            8975 Balboa Avenue, San Diego, California  92123-1599
+         (Address of principal executive offices, including zip code)
+
+                                (619) 571-5555
+            (Registrant's telephone number, including area code)
+                            ________________________
+
+         Securities registered pursuant to Section 12(b) of the Act:
+                                      None
+
+         Securities registered pursuant to Section 12(g) of the Act:
+                           Common Stock, no Par Value
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes [X]   No [  ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.     [   ]
+
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant as of September 15, 1997 was $35,477,000 based on the closing price
+reported on such date by the NASDAQ National Market System.  Shares of Common
+Stock held by officers and directors and by persons who hold 5% or more of the
+outstanding Common Stock have been excluded from the calculation of this amount
+in that such persons may be deemed to be affiliates.  This determination of
+affiliate status is not necessarily conclusive.
+
+As of June 30, 1997, the number of outstanding shares of the registrant's Common
+Stock was 10,435,000.
+
+                     DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Proxy Statement to be filed in connection with registrant's 1997
+Annual Meeting of Shareholders to be held on November 11, 1997 (the "Proxy
+Statement") are incorporated herein by reference into Part III of this Report.
+
+
+
+<PAGE>
+
+                              PART I
+
+     THIS REPORT CONTAINS CERTAIN STATEMENTS OF A FORWARD-LOOKING NATURE
+RELATING TO FUTURE EVENTS OR THE FUTURE PERFORMANCE OF THE COMPANY.  PROSPECTIVE
+INVESTORS ARE CAUTIONED THAT SUCH STATEMENTS ARE ONLY PREDICTIONS AND THAT
+ACTUAL EVENTS OR RESULTS MAY DIFFER MATERIALLY.  IN EVALUATING SUCH STATEMENTS,
+PROSPECTIVE INVESTORS SHOULD SPECIFICALLY CONSIDER VARIOUS FACTORS IDENTIFIED IN
+THIS REPORT, INCLUDING THE MATTERS SET FORTH BELOW UNDER THE CAPTION "RISK
+FACTORS," WHICH COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE
+INDICATED BY SUCH FORWARD-LOOKING STATEMENTS.
+
+ITEM 1.    BUSINESS
+
+     Overland Data, Inc. (herein "Overland Data", "Overland" or the "Company")
+designs, develops, manufactures, markets and supports magnetic tape data storage
+systems used by businesses for backup, archival and data interchange functions
+with mini-computers, workstations, PC/LAN (Microsoft Windows NT and Novell
+Netware) and UNIX client/server networks, and personal computers.  The Company's
+primary products, automated tape libraries, combine electro-mechanical robotics,
+electronic hardware and firmware which are developed by the Company with an
+emphasis on efficiency of design, functionality and reliability. The Company
+offers three product lines which are all based on one-half inch, linear magnetic
+tape technologies and, with the exception of the tape drives in its
+LibraryXpress product line, are designed and manufactured in-house.  It also
+distributes products manufactured by other original equipment manufacturers
+("OEM's") and markets various other products, including controller cards which
+connect its tape drives to personal computers, interchange software developed by
+the Company, storage management software supplied by third parties, spare parts
+and tape media.
+
+PRODUCTS
+
+     The Company produces tape drives, tape loaders and automated tape libraries
+based on removable tape technologies.  It currently provides turnkey data
+storage solutions to customers in distinct markets through three product lines
+that utilize three generations of half-inch magnetic tape technologies. The
+network backup market is served by LibraryXpress, the Company's DLT-based
+automated tape library product line, which provides automated backup as
+companies migrate to enterprise-wide client/server networks. The mid-range data
+interchange and backup market is served by TapeXpress, the Company's 18/36-track
+product line.  The desktop data interchange market is served by TapePro, the
+Company's 9-track product line, which targets personal computer and workstation
+users who need access to data created on legacy systems.
+
+- -    LIBRARYXPRESS - The LibraryXpress product line of automated tape 
+     libraries is based on DLT technology and tape drives supplied by Quantum 
+     Corporation. In March 1996, the Company commenced shipment of the LXB 
+     base unit, which consists of one or two DLT drives and a ten-cartridge 
+     removable magazine. The Company currently offers the LXB with 2000XT, 
+     4000 or 7000 DLT tape drives. During the third quarter of fiscal year 
+     1997, the Company commenced shipment of (i) the LXG global control 
+     module which provides an additional 16-cartridge magazine, library 
+     control from a single point and the ability to modularly stack up to 
+     eight LXB or LXC capacity modules, and (ii) the LXC capacity module 
+     which consists of a 16-cartridge magazine and no drives. The LXG enables 
+     users to pass cartridges from module to module as one integrated unit, 
+     providing true scalability and allowing end-users to expand their 
+     storage capacity to meet their growing business needs while protecting 
+     their original LXB investment.  In May 1997, the Company began shipping 
+     the LXS MiniLibrary, a single-drive, non-scalable version of the 
+     LibraryXpress to serve the lower end of the network market.
+ 
+- -    TAPEXPRESS - The TapeXpress product line of 18/36-track drives and 
+     loaders is based on IBM's 3480/3490/3490E technologies. The installed 
+     base of 3480 and 3490 drives and cartridges is very large and their 
+     primary function currently is for data interchange.  Based on the size 
+     of this installed base and the mature nature of this technology, the 
+     Company considers its 18-track products to be legacy products. The 
+     Company's T490E, L490E and L60E products are compatible with the 
+     36-track IBM 3490E format, are used extensively on AS400 and RS6000 
+     minicomputers, and are the only products in the marketplace that are 
+     capable of reading and writing in both 18 and 36-track formats. 
+     Overland's products connect easily to numerous hardware platforms and
+
+                                       2
+
+<PAGE>
+
+     are supported by many popular backup and hierarchical storage management 
+     ("HSM") software packages.  During fiscal year 1997, IBM selected the 
+     Company to be its supplier of 36-track products.
+
+- -    TAPEPRO - The TapePro product line consists of compact, lightweight and 
+     low-cost desktop tape drives, and a legacy tape drive sold primarily to 
+     Digital Equipment Corporation ("DEC") for replacement purposes.  
+     Nine-track tape once was the only tape technology used for archive, 
+     backup and data interchange functions.  Today, 9-track tape is used only 
+     for data interchange, a limited function used to access data that 
+     generally was stored when 9-track was the only tape technology.  Data 
+     interchange continues to be important for end-users who need to access 
+     data on the estimated 250 million 9-track reels worldwide.  Although new 
+     information currently is not stored on 9-track tape, end-users need to 
+     access information stored on these tapes periodically and it generally 
+     is not cost-efficient to transfer this information to another storage 
+     medium. The Company has not recently, and will not in the future, invest 
+     additional research and development resources in the 9-track product 
+     line.
+
+     Each of the Company's products is installed on specific computer platforms
+with the appropriate backup, data interchange or storage management software. 
+Overland actively works with a number of backup and storage management software
+companies to confirm that its products are properly supported. Currently, more
+than 40 different software packages support the Company's products. For
+instance, on the Novell Netware and Microsoft Windows NT platforms, the software
+packages include products from Cheyenne Software, Seagate Software, Inc. (Arcada
+and Palindrome), Legato Systems Incorporated ("Legato Systems"), and STAC Inc.
+On UNIX platforms, the software packages include products from Legato Systems,
+IBM, Cheyenne Software and Peripheral Device Corporation.
+
+SALES AND MARKETING
+
+     The Company sells its products through four channels: (i) original
+equipment manufacturers ("OEM"), (ii) volume, consisting of systems integrators,
+technical distributors and value added resellers ("VARs"), (iii) resellers, and
+(iv) end-users.  Overland's products are sold both domestically and
+internationally.  Currently, a significant portion of its 9-track, 18-track and
+36-track products are sold through the OEM channel, principally to IBM and DEC.
+Regardless of the channel through which they are sold, all of Overland's
+products are designed and manufactured to meet OEM level requirements and
+reliability standards. Because the OEM qualification process can take six to 18
+months to complete, the Company's initial sales of new products are often made
+to other volume and reseller customers and end-users, which typically evaluate,
+integrate and adopt new technologies and products more quickly. After
+qualification and acceptance, OEM sales generally represent an increasing
+proportion of a product's unit sales and are important to the Company in terms
+of validating its products in the marketplace and achieving desirable production
+volume.
+
+- -    OEM CHANNEL - The Company currently has supply agreements with Groupe 
+     Bull S.A., DEC, IBM, Intergraph Corporation, NCR Corporation and Symbios 
+     Logic, Inc., all of which incorporate Overland's products into their 
+     system offerings. Subsequent to June 30, 1997, the Company also entered 
+     into a supply agreement with Siemens Nixdorf Informationssysteme AG in 
+     Europe and expanded its agreement with DEC to cover all three of 
+     Overland's product lines.  Overland often works with its OEM customers 
+     early in a new product development cycle in order to design its products 
+     to meet their specifications. The OEM sales cycle is often lengthy and 
+     typically consists of a general technology evaluation, qualification of 
+     product specifications, verification of product performance against 
+     these specifications, integration testing of the product within the 
+     customers' systems, product announcement and volume shipment. As is 
+     typical in the industry, the Company's OEM contracts provide for annual 
+     price reviews and the customers are not required to purchase minimum 
+     quantities. DEC has been the Company's largest customer, accounting for 
+     approximately 14%, 23% and 21% of sales in fiscal years 1997, 1996 and 
+     1995, respectively.  Shipments to IBM accounted for just over 10% of 
+     sales in fiscal 1997.  No other customer accounted for more than 10% of 
+     sales in any year during the three-year period.  The Company supports 
+     this channel through a field sales office and other Company field 
+     representatives.
+
+                                       3
+
+<PAGE>
+
+- -    VOLUME CHANNEL - The Company's volume channel includes systems 
+     integrators, technical distributors and VARs, each of which sells to 
+     both resellers and end-users. Certain of the Company's volume channel 
+     customers specialize in the insurance, banking, financial, geophysical 
+     and medical industries, and offer a variety of value-added services 
+     relating to the Company's products. Overland's products frequently are 
+     packaged by these customers as part of a complete data processing system 
+     or combined with other storage devices, such as redundant array of 
+     independent disks ("RAID") systems, to deliver a complete storage 
+     subsystem. These customers also recommend the Company's products as 
+     replacement solutions when backup systems are upgraded, and bundle its 
+     products with storage management software specific to the end-user's 
+     system. The Company supports this channel through a field sales office 
+     and other field representatives.
+
+- -    RESELLER AND END-USER CHANNELS - The Company maintains internal 
+     capabilities to serve end-user customers when its other channel partners 
+     are unable to do so, even though the end-user channel as a percentage of 
+     sales is decreasing. The Company supports this channel through its 
+     in-house sales force.  The Company believes that direct sales and 
+     contact with end-users and the resellers which sell to them, provide the 
+     Company with important information about the performance of its products 
+     on various platforms and with various software applications. 
+
+- -    INTERNATIONAL BUSINESS - The Company has a wholly-owned subsidiary 
+     located in Wokingham, England which provides sales, technical support, 
+     repair and manufacturing integration for the European marketplace.  The 
+     Company assigns to its international distributors the right to sell 
+     Overland's products in a country or group of countries. These 
+     distributors then sell the Company's products to systems integrators, 
+     VARs and end-users.  In addition, many domestic customers ship a portion 
+     of the Company's products to their overseas customers.  Sales personnel 
+     are located in various cities throughout Europe, while sales personnel 
+     located in the Company's corporate offices serve the Pacific Rim, South 
+     America, Australia, New Zealand and Mexico.  Export sales by the 
+     Company, principally in Europe, for the years ended June 30, 1997, 1996 
+     and 1995 were approximately $14,391,000, $12,775,000 and $7,737,000, 
+     respectively.
+
+     Overland supports its sales efforts with various marketing programs
+designed to build the Company's brand name and attract new customers. Its
+channel partners are provided with a full range of marketing materials,
+including product specification literature, software connectivity information
+and application notes. The Company's management and engineering personnel work
+with the channel partners to provide support and, in certain instances, visit
+potential customer sites to explain and demonstrate the technical advantages of
+the Company's products. In addition, the Company holds two conferences each year
+to inform its channel partners of new product developments and programs and to
+discuss emerging trends in their markets. The Company also maintains press
+relations both domestically and in Europe, advertises in computer systems
+publications targeted to its channels and offers market development funds to all
+of its channel partners except for OEM customers and end-users.  Overland
+participates in national and regional trade shows both domestically and
+internationally and displays its products at the CEBIT show in Europe and
+domestically at COMDEX, NetWorld/InterOp and AIIM. The Company also maintains a
+World Wide Web site (http://www.overlanddata.com), which features marketing
+information, includes news releases and product specifications, and has a
+computer BBS from which customers can download application, service and
+technical support notes.
+
+CUSTOMER SERVICE AND SUPPORT
+
+     Overland's technical support personnel, located both in its headquarters
+facility and its U.K. office, are trained with respect to the Company's products
+and assist customers with "plug-and-play" compatibility between multiple
+hardware platforms, operating systems and backup, data interchange and storage
+management software. The Company's application engineers are available to solve
+more complex customer problems and visit customer sites when necessary.
+Customers that need service and support can contact the Company through its
+toll-free telephone lines, facsimile and Internet e-mail.
+
+     The Company's standard warranty is a two-year return-to-factory policy
+which covers both parts and labor. For products that it distributes and for
+drives and tapes used in the Company's products that are manufactured by a third
+party, the Company passes on to the customer the warranty provided by the
+manufacturer. The Company also
+
+                                       4
+
+<PAGE>
+
+offers on-site service for certain of its products, including 24-hour 
+service, seven days a week, for which it contracts with third-party service 
+providers.
+
+COMPETITION
+
+     The worldwide tape storage market is intensely competitive as a large 
+number of manufacturers of alternative tape technologies compete for a 
+limited number of customers and barriers to entry are relatively low in the 
+library category.  The Company currently participates in three market areas 
+which are defined by different tape technologies: (i) network data storage; 
+(ii) data backup and interchange based on IBM compatible 3480/3490 
+technology; and (iii) data interchange based on 9-track reel-to-reel 
+technology.  In each of these areas, many of the Company's competitors have 
+substantially greater financial and other resources, larger research and 
+development staffs, and more experience and capabilities in manufacturing, 
+marketing and distributing products than the Company. For network data 
+storage, the LibraryXpress products currently compete with products made by 
+Advanced Digital Information Corporation ("ADIC"), ATL Products, Inc. 
+("ATL"), Breece Hill Technologies, Inc. ("Breece Hill"), Hewlett-Packard 
+Company ("Hewlett-Packard"), Quantum and Storage Technology Corporation 
+("Storage Technology"), and the Company believes that additional competitors 
+can be expected to enter the market.  For the data backup and interchange 
+market, which is based on IBM compatible 3480/3490 technology, the Company 
+offers a product line of 18 and 36-track products, which the Company believes 
+compete primarily with products made by Fujitsu Computer Products of America, 
+Inc. ("Fujitsu"), Hitachi Data Systems Corporation ("Hitachi"), Laser 
+Magnetic Storage and Storage Technology.  For the 9-track data interchange 
+market, the Company believes it competes with Anritsu American Incorporated, 
+Hewlett-Packard and M4 Data, Inc. 
+
+RESEARCH AND DEVELOPMENT
+
+     The Company currently employs 36 people in its its research and development
+("R&D") department, including 22 engineers who have extensive experience in the
+tape industry. Many of these engineers are former employees of tape drive
+companies such as Cipher Data Products, Archive Corporation and Conner
+Peripherals, Inc., and have developed significant expertise in electrical,
+mechanical and firmware design. Martin D. Gray, the Company's co-founder,
+formerly served as Manager of R&D at Cipher, has 25 years of experience in the
+tape industry, is the inventor of several tape patents and leads the Company's
+R&D efforts to develop new technologies.
+
+     The Company's R&D department is capable of developing both tape drives and
+robotic mechanisms, including the development of various aspects of data
+channels, data compression, intelligent interfaces and firmware (embedded
+systems software).  This includes the ability to develop and test a tape path,
+which is the core of any tape technology.  Overland believes that these
+capabilities provide it with a better understanding of tape technologies in
+general and enable the Company to provide higher value-added content by
+designing reliable products that better utilize the advantages of specific
+technologies.
+
+     The Company's current R&D efforts are focused on the commercialization of a
+new tape coding technique which it has developed and which utilizes the concept
+of "partial response maximum likelihood."  The Company believes that this
+technique has the potential of significantly expanding the capacity and
+throughput of any linear tape technology. The Company has been awarded one
+patent and has other patents pending which relate to various aspects of this
+technique.  No prototypes currently exist which embody the new technique, and
+there can be no assurance that the Company will succeed in its efforts to
+develop such a product or commence shipment within its expected time frame or at
+all. In addition, the Company is working on the development of automated tape
+libraries using other tape technologies and is working on enhancements to
+certain of its 36-track products to increase their speed and performance.  The
+Company's R&D expenditures amounted to $4.1 million, $3.7 million and $3.1
+million in fiscal years 1997, 1996 and 1995, respectively, representing 7.0%,
+7.8% and 8.1% of net sales, respectively.  The Company's intends to spend 7.0%
+to 8.0% of net sales on a sustained basis.  Despite its R&D focus, there can be
+no assurance that the Company will be able to identify, develop, manufacture,
+market or support new or enhanced products successfully or on a timely basis or
+that new products will gain market acceptance.
+
+                                       5
+
+<PAGE>
+
+MANUFACTURING
+
+     The Company has a fully integrated factory in San Diego, California with
+three separate production lines. Its newest line, set up in January 1996, was
+established for the production of the LibraryXpress products. A second line is
+used for the production of both 18-track and 36-track products and a third line
+is used for 9-track products. All of the Company's production lines and
+manufacturing processes have been certified by major OEM customers.  Overland
+performs product assembly, integration and testing, while leaving component and
+piece-part manufacturing to its supplier partners. The Company works closely
+with a group of regional, national and international suppliers, which are
+carefully selected based on their ability to provide quality parts and
+components that meet the Company's specifications and present and future volume
+requirements. A number of the Company's parts and components are not available
+off the shelf, and are specifically designed by the Company for integration into
+its products. The number of suppliers is kept to a minimum to utilize their
+specific capabilities across several product lines. Management of this supply
+chain is critical, because the average material content of the Company's
+products represents approximately 80% of cost of goods sold.
+
+     In general, products are built to an intermediate stage or standard module
+and are customized at the end of the manufacturing process to meet specific
+customer needs or variations in product profiles. The Company believes that this
+capability represents an effective way for the Company to minimize its inventory
+levels while maintaining the ability to fill specific customer orders in short
+lead times. Inventory planning and management are coordinated closely with
+suppliers and customers to match the Company's production to market demand.
+Product orders are confirmed and, in most cases, shipped to the customer within
+one week. The Company fills orders as they are received and therefore believes
+that its backlog levels are not indicative of future sales.
+ 
+     In its current facility, the Company has the capacity to support unit
+output several times greater than its current run rate. All of its manufacturing
+lines are capable of producing, on a single shift, double the capacity of the
+current fiscal year forecast. The Company carefully controls and adjusts the
+staffing of this capacity to meet the requirements at any specific time. Further
+capacity increases could be achieved by adding multiple shifts or moving to a
+full-time factory.
+
+PROPRIETARY RIGHTS
+
+     The Company believes that, because of the rapid pace of technological
+change in the tape storage industry, patent, copyright, trademark and trade
+secret protection are less significant than factors such as the knowledge,
+ability and experience of the Company's personnel, new product introductions and
+product enhancements.  Notwithstanding the foregoing, the Company relies on a
+combination of patent, copyright, trademark and trade secret protection, non-
+disclosure agreements and licensing arrangements to establish and protect its
+proprietary rights.  Such rights, however, may not preclude competitors from
+developing substantially equivalent or superior products to those of the
+Company.  In addition, there can be no assurance that any patents held by, or
+that may be issued to, the Company will not be challenged, invalidated or
+circumvented, or that any rights granted thereunder would provide proprietary
+protection to the Company.
+
+     The Company has entered into a five-year cross-license agreement with IBM,
+effective January 1, 1996. Pursuant to the terms of the agreement, the Company
+may use any of the patents owned by IBM within certain designated areas of
+technology and IBM may use any of the patents of the Company that were in
+existence at the effective date of the agreement or which are issued during the
+term of the agreement. In consideration for this agreement, the Company is
+required to pay royalty fees to IBM in an amount equal to 2.7% of world-wide
+revenues generated from the Company's 18 and 36-track product sales, exclusive
+of those sold to IBM.
+
+EMPLOYEES 
+
+     The Company had 208 employees (full-time equivalents) as of June 30, 1997,
+including 49 in sales and marketing, 36 in research and development, 91 in
+manufacturing and operations and 32 in finance, information systems, human
+resources and other management. There are no collective bargaining contracts
+covering any of the Company's employees and management believes that its
+relationship with its employees is good.
+
+                                       6
+
+<PAGE>
+
+                                 RISK FACTORS
+
+     AN INVESTMENT IN THE COMMON STOCK INVOLVES A HIGH DEGREE OF RISK. THIS
+REPORT CONTAINS FORWARD-LOOKING STATEMENTS, THE ACCURACY OF WHICH IS SUBJECT TO
+MANY RISKS AND UNCERTAINTIES.  THE COMPANY'S ACTUAL RESULTS MAY DIFFER
+SIGNIFICANTLY FROM THE RESULTS DISCUSSED IN THE FORWARD-LOOKING STATEMENTS. 
+FACTORS THAT MIGHT CAUSE SUCH A DIFFERENCE INCLUDE, BUT ARE NOT LIMITED TO, THE
+FOLLOWING RISK FACTORS, WHICH SHOULD BE CONSIDERED CAREFULLY IN EVALUATING THE
+COMPANY AND ITS BUSINESS.
+
+RAPID TECHNOLOGICAL CHANGE AND DEPENDENCE ON NEW PRODUCT DEVELOPMENT
+
+     The market for the Company's products is generally characterized by rapid
+technological change and evolving industry standards and is highly competitive
+with respect to timely innovation.  The future success of the Company will
+depend on its ability to anticipate changes in technology, to develop new and
+enhanced products on a timely and cost-effective basis and to introduce,
+manufacture and achieve market acceptance of such new and enhanced products.  In
+particular, the Company's future success is dependent on its LibraryXpress
+product line.  As a whole, the product line is relatively new and certain of the
+recently announced modules have not yet achieved widespread market acceptance.
+LibraryXpress is facing increasing competition both from competitive automated
+tape library products, and can be expected to face competition from other
+storage devices that may be developed in the future.  The DLT tape drives used
+by the Company in its LibraryXpress products are obtained from a sole supplier,
+Quantum Corporation ("Quantum").  From time to time, Quantum customers such as
+the Company (and its competitors) have been unable to obtain as many DLT tape
+drives as needed due to drive shortages or quality issues.  See "Dependence on
+Certain Suppliers."  Development schedules for high technology products are
+inherently subject to uncertainty and there can be no assurance that the Company
+will be able to meet its product development schedules, including those for
+products based on its new partial response tape coding technique, or that
+development costs will be within budgeted amounts.  If the products or product
+enhancements that the Company develops are not deliverable due to developmental
+problems, quality issues or component shortage problems or if such products or
+product enhancements do not achieve market acceptance or are unreliable, the
+Company's business, financial condition and results of operations may be
+materially and adversely affected.  The introduction (whether by the Company or
+its competitors) of new products embodying new technology such as new sequential
+or random access mass storage devices and the emergence of new industry
+standards can render existing products obsolete or not marketable.
+
+COMPETITION AND PRICE PRESSURE
+
+     The worldwide tape storage market is intensely competitive as a large
+number of manufacturers of alternative tape technologies compete for a limited
+number of customers and barriers to entry are relatively low in the library
+category.  The Company currently participates in three market areas which are
+defined by different tape technologies: (i) network data storage; (ii) data
+backup and interchange based on IBM compatible 3480/3490 technology; and (iii)
+data interchange based on 9-track reel-to-reel technology.  In each of these
+areas, many of the Company's competitors have substantially greater financial
+and other resources, larger research and development staffs, and more experience
+and capabilities in manufacturing, marketing and distributing products than the
+Company. For network data storage, the LibraryXpress products currently compete
+with products made by ADIC, ATL, Breece Hill, Hewlett-Packard, Quantum and
+Storage Technology, and the Company believes that additional competitors can be
+expected to enter the market.  For the data backup and interchange market, which
+is based on IBM compatible 3480/3490 technology, the Company offers a product
+line of 18 and 36-track products, which the Company believes compete primarily
+with products made by Fujitsu, Hitachi, Laser Magnetic Storage and Storage
+Technology.  For the 9-track data interchange market, the Company believes it
+competes with Anritsu American Incorporated, Hewlett-Packard and M4 Data, Inc.
+Except for the 9-track data interchange market, the markets for the Company's
+products are characterized by significant price competition, and the Company
+anticipates that its products will face increasing price pressure.  This
+pressure could result in significant price erosion, reduced profit margins and
+loss of market share, which could have a material adverse effect on the
+Company's business, financial condition and results of operations. 
+
+                                       7
+
+<PAGE>
+
+DEPENDENCE ON CERTAIN SUPPLIERS
+
+     The Company's products have a large number of components and 
+subassemblies produced by outside suppliers and it is highly dependent on 
+such suppliers for components and subassemblies, including DLT tape drives, 
+read-write heads, printed circuit boards and integrated circuits, which are 
+essential to the manufacture of the Company's products.  In addition, for 
+certain of these items, the Company qualifies only a single source, which can 
+magnify the risk of shortages and decrease the Company's ability to negotiate 
+with its suppliers on the basis of price.  If such shortages occur, or if the 
+Company experiences quality problems with suppliers, shipments of products 
+could be significantly delayed or costs significantly increased, which would 
+have a material adverse effect on the Company's business, financial condition 
+and results of operations. Specifically, the Company's new LibraryXpress 
+automated tape libraries incorporate DLT tape drives manufactured by Quantum, 
+which is also a competitor of the Company in that Quantum markets its own 
+tape drives and tape loader products. Currently, there are no alternative 
+sources for the DLT tape drives supplied by Quantum.  The Company does not 
+have a long-term contract with Quantum, which could cease supplying DLT tape 
+drives directly to the Company. From time to time in the past, the Company 
+has not been able to obtain as many drives as it has needed from Quantum due 
+to drive shortages or quality issues. Any prolonged inability to obtain 
+adequate deliveries could require the Company to pay more for components, 
+parts and other supplies, seek alternative sources of supply, delay shipment 
+of products and damage relationships with current and prospective customers.  
+Any such delay or damage could have a material adverse effect on the 
+Company's business, financial condition and results of operations. During 
+fiscal 1997 and in the first quarter of fiscal 1998, the Company has 
+experienced problems with the supply of DLT drives and such problems have 
+adversely affected the Company's sales and earnings during this period.  
+While the Company believes that the problems relating to the supply of DLT 
+drives are being solved by Quantum, no assurance can be given that such 
+problems will be resolved, that they will not re-occur, or that the Company 
+will not experience similar or more serious disruptions in supply in the 
+future.
+
+FLUCTUATION IN RESULTS
+
+     The Company's results can fluctuate substantially from time to time for
+various reasons.  All of the markets served by the Company are volatile and
+subject to market shifts, which may or may not be discernible in advance by the
+Company.  A slowdown in the demand for workstations, mid-range computer systems
+and networks could have a significant adverse effect on the demand for the
+Company's products in any given period.  The Company has experienced delays in
+receipt of purchase orders and, on occasion, anticipated purchase orders have
+been rescheduled or have not materialized due to changes in customer
+requirements.  The Company's customers may cancel or delay purchase orders for a
+variety of reasons, including the rescheduling of new product introductions,
+changes in their inventory practices or forecasted demand, general economic
+conditions affecting the computer market, changes in pricing by the Company and
+its competitors, new product announcements by the Company or others, quality or
+reliability problems related to the Company's products, or selection of
+competitive products as alternate sources of supply.  In addition, because a
+large portion of the Company's sales are generated by its European channel, the
+first fiscal quarter (July through September) has been impacted by seasonally
+slow European orders, reflecting the summer holiday period in Europe.  The
+Company's operations may reflect substantial fluctuations from period to period
+as a consequence of such industry shifts, price erosion, general economic
+conditions affecting the timing of orders from customers, the supply of DLT
+drives, as well as other factors discussed herein. In particular, the Company's
+ability to forecast sales to distributors and VARs, and increasingly to OEMs, is
+especially limited as such customers typically provide the Company with
+relatively short order lead times or are permitted to change orders on short
+notice.  A portion of the Company's expenses are fixed and difficult to reduce
+should revenues not meet the Company's expectations, thus magnifying the
+material adverse effect of any revenue shortfall.  The Company's gross profit
+has fluctuated and will continue to fluctuate quarterly and annually based upon
+a variety of factors such as the level of utilization of the Company's
+production capacity, changes in product mix, average selling prices,
+manufacturing yields, increases in production and engineering costs associated
+with initial production of new programs, changes in the cost of or limitations
+on availability of materials and labor shortages. Generally, new products have
+higher gross margins than more mature products. Therefore, the Company's ability
+to introduce new products in a timely fashion is an important factor to its
+profitability.  Based upon all of the foregoing, the Company believes that
+period-to-period comparisons of its revenues and operating results will continue
+to
+
+                                       8
+
+<PAGE>
+
+fluctuate and are not necessarily meaningful and should not be relied on as 
+indications of future performance. Furthermore, in some future quarter the 
+Company's revenues and operating results could be below the expectations of 
+public market analysts or investors, which could result in a material adverse 
+effect on the price of the Common Stock.
+
+REPLACEMENT OF INFORMATION SYSTEMS
+
+     In July 1996, the Company began a project to replace its enterprise-wide 
+information and business systems by the end of fiscal year 1997 to more 
+effectively address the complexities of the Company's business and to support 
+its growth in the next five years.  The project has been delayed by one 
+quarter and there can be no assurance that future delays in the 
+implementation process will not occur.  The failure to successfully 
+accomplish the replacement of these systems in a timely manner, or any 
+failure otherwise to achieve the necessary levels of information and business 
+system support, could have a material adverse effect on the Company's 
+business, financial condition and results of operations. 
+
+RISKS RELATED TO FOREIGN SOURCING AND FOREIGN SALES
+
+     Because a number of the Company's key components are currently manufactured
+in Singapore and Malaysia, its results of operations can be affected by
+fluctuations in currency exchange rates.  The Company's international
+procurement is also subject to certain other risks common to foreign operations
+in general, including government regulation and import restrictions.  During
+fiscal year 1997, approximately 10% of the Company's cost of goods sold
+consisted of materials purchased from suppliers in Singapore and Malaysia. An
+adverse foreign exchange movement of the U.S. dollar versus the Singapore dollar
+or other currency, or the imposition of import restrictions or tariffs by the
+U.S. government on products or components shipped from Singapore, Malaysia or
+another country could have a material adverse effect on the Company's business,
+financial condition and results of operations.  In addition, because of the
+Company's use of components produced overseas, the sale of the Company's
+products to domestic federal or state agencies may be restricted by limitations
+imposed by the Buy American Act or the Trade Agreement Act.
+     
+     Direct international sales accounted for 24% of sales in fiscal year 1997,
+and the Company expects that international sales will continue to grow and
+represent an even greater proportion of the Company's revenues in the future. 
+Sales to customers outside the U.S. are subject to various risks, including the
+imposition of governmental controls, the need to comply with a wide variety of
+foreign and U.S. export laws, political and economic instability, trade
+restrictions, changes in tariffs and taxes, longer payment cycles typically
+associated with international sales, as well as the greater difficulty of
+administering business overseas.  Furthermore, although the Company endeavors to
+meet standards established by foreign regulatory bodies, there can be no
+assurance that the Company will be able to comply with changes in foreign
+standards in the future.  The inability of the Company to design products that
+comply with foreign standards could have a material adverse effect on the
+Company.
+
+     In the second half of fiscal year 1997, the Company began assembling and
+shipping certain of its products from its Wokingham facility in the U.K. 
+Products shipped to European customers from the Wokingham facility are
+denominated and invoiced in British Pounds Sterling, thereby creating foreign
+currency risk as the positive cash flows being generated by the Wokingham
+facility must be periodically repatriated.  Subsequent to June 30, 1997, the
+Company began hedging this risk by buying U.S. dollars forward in the futures
+market.  It is expected, however, that most European customers outside of the
+U.K. will choose to be billed in U.S. dollars once the enterprise-wide
+information and business system becomes operational and provides for the
+capability of multi-currency billing.  If this occurs, then the Company's
+foreign currency exposure will be lessened.
+
+                                       9
+<PAGE>
+
+DEPENDENCE ON KEY EMPLOYEES
+
+     The Company's future success depends in large part on its ability to 
+retain certain key executives and other key personnel, many of whom have been 
+instrumental in developing new technologies and setting strategic plans.  The 
+Company's growth will also depend in large part on its continuing ability to 
+hire, motivate and retain highly qualified management, technical, sales and 
+marketing team members.  Competition for such personnel is intense and there 
+can be no assurance that the Company will be able to retain its existing 
+personnel or attract additional qualified personnel in the future.
+
+TECHNOLOGY AND INTELLECTUAL PROPERTY
+
+     The Company believes that, because of the rapid pace of technological 
+change in the tape storage industry, patent and trade secret protection are 
+less significant than factors such as the knowledge, ability and experience 
+of the Company's personnel, new product introductions and product 
+enhancements. Nonetheless, the Company's ability to compete effectively 
+depends in part on its ability to develop and maintain proprietary aspects of 
+its technology. There can be no assurance that any future patents will be 
+granted or that any patents will be valid or provide meaningful protection 
+for the Company's product innovations. In addition, the laws of certain 
+foreign countries may not protect the Company's intellectual property to the 
+same extent as U.S. laws.  Furthermore, there can be no assurance that 
+competitors will not independently develop similar products, duplicate the 
+Company's products or, if patents are issued to the Company, design around 
+the patents issued to the Company.  The Company also relies on a combination 
+of copyright, trademark, trade secret and other intellectual property laws to 
+protect its proprietary rights. Such rights, however, may not preclude 
+competitors from developing substantially equivalent or superior products to 
+those of the Company's.  In addition, many aspects of the Company's products 
+are not subject to significant intellectual property protection.  While the 
+Company is not currently engaged in any intellectual property litigation or 
+proceedings, there can be no assurance that it will not become so involved in 
+the future or that its products do not infringe any intellectual property or 
+other proprietary right of any third party.  An adverse outcome in litigation 
+or similar proceedings could subject the Company to significant liabilities 
+to third parties, require disputed rights to be licensed from others or 
+require the Company to cease marketing or using certain products, any of 
+which could have a material adverse effect on the Company's business, 
+financial condition and results of operations.
+
+RISKS ASSOCIATED WITH POSSIBLE ACQUISITIONS
+
+     The Company may in the future pursue acquisitions of complementary 
+businesses, products or technologies as it seeks to expand and increase the 
+value-added component of its product offerings.  Acquisitions involve 
+numerous risks, including difficulties in the assimilation of the operations 
+and personnel of the acquired business, the diversion of management's 
+attention from other business concerns, risks of entering markets in which 
+the Company has no direct prior experience, and the potential loss of key 
+employees of the acquired business.  In addition, future acquisitions by the 
+Company may result in potentially dilutive issuances of equity securities and 
+the incurrence of additional debt and amortization expenses related to 
+goodwill and other intangible assets which could adversely affect the 
+Company's business, financial condition and results of operations.  
+
+WARRANTY EXPOSURE
+
+     The Company generally provides a two-year, return-to-factory warranty on 
+its products.  For certain products, it provides or offers for sale a 
+two-year on-site warranty which is supplied by a third party service 
+provider.  The Company pays the negotiated price of the contract to the 
+service provider in advance and the service provider is then responsible for 
+the costs of providing warranty service during the term of the contract.  For 
+products which the Company distributes and for tape drives used in the 
+Company's products but manufactured by a third party, the Company passes on 
+to the customer the related manufacturer's warranty.  Although the Company 
+has established reserves for the estimated liability associated with product 
+warranties, there can be no assurance that such reserves will be adequate or 
+that the Company will not incur substantial warranty expenses in the future 
+with respect to new or established products.
+
+                                       10
+
+<PAGE>
+
+ITEM 2.  PROPERTIES
+
+     The Company leases all facilities used in its business.  Its 
+headquarters are located in San Diego, California in a 3-building light 
+industrial complex comprising approximately 121,000 square feet. The lease 
+expires in August 2002. The San Diego facility houses all of the Company's 
+research and development and administrative functions as well as a major 
+portion of manufacturing, sales, sales administration, marketing and customer 
+support. The Company also leases a small facility located in Wokingham, 
+England which houses some light manufacturing, sales, sales administration 
+and customer support for the European marketplace.  Two other small 
+facilities are leased in Longmont, Colorado and in Nashua, New Hampshire for 
+the development of R&D prototypes and an OEM sales office, respectively.  The 
+Company believes that its facilities are suitable for their uses and are, in 
+general, adequate for the Company's current and identified future needs.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     The Company, its directors and certain of its officers have been named 
+as defendants in two putative class action lawsuits filed on April 21, 1997 
+and May 2, 1997 in the U.S. District Court for the Southern District of 
+California. In both cases, the plaintiffs purport to represent a class of all 
+persons who purchased the Company's Common Stock between February 21, 1997 
+and March 14, 1997.  The complaints allege that the defendants violated 
+various federal securities laws through material misrepresentation and 
+omissions in connection with the Company's initial public offering and its 
+registration statement on Form S-1 which was declared effective by the 
+Securities and Exchange Commission on February 21, 1997.  The suits seek 
+rescission of their share purchases or rescissory damages if their shares 
+have been sold, as well as attorneys' fees and other costs and expenses.
+
+     On September 16, 1997, the Court entered an Order permitting the 
+voluntary dismissal of the first-filed lawsuit without prejudice.  The 
+plaintiff in the second lawsuit now has been appointed as the Lead Plaintiff 
+in this litigation, but the defendants have not yet been required to answer 
+the allegations in the complaint.  No discovery has been conducted, and the 
+outcome of the remaining lawsuit cannot be determined.  However, management 
+believes that it has meritorious defenses and intends to defend against the 
+remaining lawsuit vigorously.  The Company maintains directors' and officers' 
+liability insurance to provide coverage against suits of this nature, and 
+other than legal fees incurred to date, no amounts have been recorded in the 
+financial statements for any losses which may result from this litigation.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None
+
+                                    [caad 214]PART II
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+
+     The Company's Common Stock commenced trading on the Nasdaq National 
+Market under the symbol "OVRL" on February 21, 1997, the effective date of 
+its initial public offering.  As of September 15, 1997, there were 
+approximately 100 shareholders of record.  The Company has not paid any 
+dividends on its Common Stock and does not anticipate paying any dividends in 
+the foreseeable future. The high and low closing prices of Overland Data 
+Common Stock from February 21, 1997 through June 30, 1997 were as follows:
+
+PRICE RANGE OF COMMON STOCK
+                                            High             Low
+          Fiscal 1997:
+            Third quarter                  $13.00           $4.75
+            Fourth quarter                   7.00            4.75
+
+
+                                       11
+
+<PAGE>
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+The following selected financial data has been derived from the audited
+consolidated financial statements of the Company and the notes thereto.  This
+information should be read in conjunction with Item 7 of this Report -
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations," and with the consolidated financial statements of the Company and
+the related notes thereto set forth at the pages indicated in Item 14(a)(1).
+
+                                                              Ten
+                                                             months     Year
+                          At or for Years Ended June 30,     ended      ended
+                        ----------------------------------  June 30,  August 31,
+                          1997     1996     1995     1994    1993(3)     1992
+                        -------  -------  -------  -------  --------  ----------
+                                 (in thousands except per share data)
+SUMMARY OF OPERATIONS
+Net sales               $59,146  $47,226  $38,156  $34,044    $11,892   $9,855
+Gross profit             20,371   16,081   11,115   11,154      4,848    4,320
+Income (loss) from 
+  operations              4,736    3,541      980      587       (456)    (664)
+Income (loss) before 
+  income taxes            4,987    3,413      770      356       (412)    (546)
+Net income (loss)(1)      3,100    3,159      501      137       (484)    (486)
+Net income (loss) per 
+  share(2)                  .34      .40      .07      .02       (.09)    (.10)
+
+BALANCE SHEET DATA
+Cash and cash 
+  equivalents           $18,926  $    19  $   101  $ 1,332    $    79
+Working capital          36,733   10,307    6,430    5,097      4,063
+Total assets             48,260   19,771   14,453   14,329      8,950
+Long-term debt,
+  net of current 
+    portion                  --    1,500    1,400      747      1,255
+Convertible redeemable
+  preferred stock            --    5,200    5,567    5,879      4,315
+Shareholders' equity     40,317    5,858    1,767      900        682
+- ----------------------
+(1) The Company's effective tax rate for the year ended June 30, 1996 was
+affected in the fourth quarter of the year by a one-time tax valuation allowance
+adjustment, which reduced income tax expense and correspondingly increased net
+income by $997,000, or $.13 per share. Without this adjustment, for the year
+ended June 30, 1996 net income and net income per share would have been
+$2,162,000 and $.28, respectively.
+
+(2) See Note 1 of Notes to Consolidated Financial Statements for an explanation
+of shares used in computing net income (loss) per share.
+
+(3) In 1993, the Board of Directors approved a change in the Company's fiscal
+year to June 30 from August 31. Consequently, the consolidated financial
+statements for the period ended June 30, 1993 reflect ten months of actual
+results.
+
+
+
+                                       12
+
+<PAGE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+           OF OPERATIONS.
+
+     THIS REPORT CONTAINS CERTAIN STATEMENTS OF A FORWARD-LOOKING NATURE
+RELATING TO FUTURE EVENTS OR THE FUTURE PERFORMANCE OF THE COMPANY.  PROSPECTIVE
+INVESTORS ARE CAUTIONED THAT SUCH STATEMENTS ARE ONLY PREDICTIONS AND THAT
+ACTUAL EVENTS OR RESULTS MAY DIFFER MATERIALLY.  IN EVALUATING SUCH STATEMENTS,
+PROSPECTIVE INVESTORS SHOULD SPECIFICALLY CONSIDER VARIOUS FACTORS IDENTIFIED IN
+THIS REPORT, INCLUDING THE MATTERS SET FORTH BELOW UNDER THE CAPTION "RISK
+FACTORS," WHICH COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE
+INDICATED BY SUCH FORWARD-LOOKING STATEMENTS.
+
+GENERAL
+
+     Overland Data designs, develops, manufactures, markets and supports 
+magnetic tape data storage systems used by businesses for backup, archival 
+and data interchange functions. The Company's primary products are currently 
+based on three different half-inch magnetic tape technologies: (i) DLT, (ii) 18
+& 36-track and (iii) 9-track.  In March 1996, the Company introduced the 
+LibraryXpress, a scaleable automated tape library system incorporating DLT 
+tape drives, and began shipping the LXB base module.  In the second half of 
+fiscal 1997, the Company introduced two additional modules: the LXG global 
+control unit and the LXC capacity module. In May 1997, the LXS MiniLibrary, a 
+single-drive, non-scalable version of the LibraryXpress, was introduced to 
+serve the lower end of the network market.  The Company's second product 
+line, TapeXpress, consists of 18 and 36-track products based on the IBM 
+3480/3490/3490E technologies. Its third product line, TapePro, consists of 
+9-track reel-to-reel tape drives which are used exclusively for data 
+interchange. The Company also distributes a line of DLT products manufactured 
+by Quantum and markets other items supplied by third parties including 
+controller cards, interchange software, storage management software, spare 
+parts and tape media.
+
+RESULTS OF OPERATIONS
+
+     The following tables set forth certain data as a percentage of net sales:
+     
+          STATEMENT OF OPERATIONS:
+                                          Fiscal Years Ended June 30,
+                                          ----------------------------
+                                            1997      1996      1995
+                                          -------   --------  --------
+          Net sales                        100.0%    100.0%    100.0%
+          Cost of goods sold                65.6      65.9      70.9
+                                          -------   --------  --------
+          Gross profit                      34.4      34.1      29.1
+                                          -------   --------  --------
+          Operating expenses:
+             Sales and marketing            12.3      12.6      12.8
+             Research and development        7.0       7.8       8.1
+             General and administrative      7.1       6.2       5.7
+                                          -------   --------  --------
+          Total Expenses                    26.4      26.6      26.6
+                                          -------   --------  --------
+          Income from operations             8.0       7.5       2.5
+          Interest and other, net             .4       (.3)      (.5)
+                                          -------   --------  --------
+          Income before income taxes         8.4       7.2       2.0
+          Provision for income taxes         3.2        .5        .7
+                                          -------   --------  --------
+          Net income                        5.2%       6.7%      1.3%
+                                          -------   --------  --------
+                                          -------   --------  --------
+
+
+                                       13
+
+<PAGE>
+
+     PRODUCT MIX TABLE:
+
+                                          Fiscal Years Ended June 30,
+                                          ----------------------------
+                                           1997       1996      1995
+                                          -------   --------  --------
+     Company products:
+       LibraryXpress                        28.6%      2.6%       .0%
+       36-track                             28.1      19.6       6.1
+       18-track                              9.7      15.3      20.3
+       9-track                              18.2      29.4      48.0
+       Spare parts, controllers, other       8.4      10.3       7.0
+
+     Other parts:
+       DLT distributed products              6.9      21.5      17.8
+       Other distributed products             .1       1.3        .8
+                                          -------   --------  --------
+     Total                                 100.0%    100.0%    100.0%
+                                          -------   --------  --------
+                                          -------   --------  --------
+
+FISCAL 1997 COMPARED TO FISCAL 1996
+
+     NET SALES.  The Company's net sales of $59.1 million in fiscal year 1997
+grew by $11.9 million or 25.2% over net sales of $47.2 million in fiscal year
+1996.  Sales growth in certain of the Company's products were partially offset
+by declines in other product lines.  The strongest growth over the prior year
+was experienced in the LibraryXpress product line, which began shipping in March
+1996.  Sales of LibraryXpress in fiscal year 1997, the first full year of
+shipments,  amounted to $16.9 million compared to $1.2 million in 1996. 
+Although the majority of the growth was generated by sales of the LibraryXpress
+LXB base module, additional sales were generated in the last half of the year
+when the Company introduced three new products: the LXG global control unit, the
+LXC capacity module and the LXS mini-library.  Offsetting this growth, however,
+was a $6.1 million decline in sales of DLT distributed product, due principally
+to a replacement of sales of Quantum DLT loaders by sales of the Company's own
+LibraryXpress products.  Sales of the Company's 36-track products of $16.6
+million in fiscal year 1997 grew by $7.3 million or 78.5% from $9.3 million in
+1996.  This growth resulted principally from increased sales to IBM of the L490E
+model pursuant to a new supply agreement entered into in the second quarter of
+fiscal year 1997.  Sales of 18-track products of $5.7 million fell by $1.5
+million or 20.8% from $7.2 million in the prior year.  This decline was the
+result of an upward migration by the Company's customers from 18-track products
+to its 36-track products and to a general decline in the use of 18-track
+products in favor of other technologies.  Sales of 9-track products of
+$10.9 million in fiscal year 1997 fell by $3.5 million or 24.3% from $14.4
+million in 1996.  This reflects the general maturity of the 9-track technology,
+a trend which the Company expects to continue in the foreseeable future. 
+Additionally, during fiscal year 1997, the Company made end-of-life
+announcements on certain of its 9-track products to narrow its 9-track product
+offerings.
+
+     GROSS PROFIT.  The Company's gross profit amounted to $20.4 million in
+fiscal year 1997, up from $16.1 million in fiscal year 1996, which represented
+gross margins of 34.4% and 34.1%, respectively.  The gross margins were improved
+by the shift from sales of DLT distributed product at lower margins, to sales of
+LibraryXpress products at relatively higher margins.  However, this was offset
+by growth in sales to the Company's OEM customers, which are typically at
+relatively lower margins than offered to its other customers.
+
+     SALES AND MARKETING EXPENSES.  Sales and marketing expenses amounted to
+$7.3 million or 12.3% of net sales in fiscal year 1997 compared to $5.9 million
+or 12.6% of sales in 1996. This increase in total expenditures resulted from
+costs needed to support the higher sales level, including salaries and benefits,
+sales commissions, advertising and promotion and travel and related costs.
+
+     RESEARCH AND DEVELOPMENT EXPENSES.  R&D expenses amounted to $4.1 million
+or 7.0% of net sales in fiscal year 1997 compared to $3.7 million or 7.8% of net
+sales in 1996. The R&D efforts during 1997 and the
+
+
+                                       14
+
+<PAGE>
+
+increased expenses compared to 1996 related to the development of the LXG, 
+LXC and LXS products within the LibraryXpress product family.  The Company 
+also incurred expenses in both years related to the development of its new 
+tape recording technology and coding scheme using the concept of partial 
+response maximum likelihood.
+
+     GENERAL AND ADMINISTRATIVE EXPENSES.  General and administrative expenses
+amounted to $4.2 million or 7.1% of net sales in fiscal year 1997 compared to
+$2.9 million or 6.2% of net sales in 1996. The higher level of expenses in 1997
+included an increase in support personnel, computer related expenses, legal fees
+related to the class action lawsuits filed against the Company and to patent
+work related to the Company's new tape coding technique, increased bad debt
+reserves related to the higher level of sales and increased facility costs.
+
+     INTEREST INCOME/EXPENSE.  In fiscal year 1997, the Company generated net 
+interest income of $223,000, compared to fiscal year 1996 when net interest 
+expense amounted to $154,000.  The net interest income in 1997 resulted from 
+earnings on investment of funds generated by the Company's initial public 
+offering and elimination of interest expense after repayment of bank 
+borrowings. The interest expense in 1996 included $124,000 related to 
+borrowings under the Company's revolving bank line of credit and $30,000 of 
+interest expense related to an installment note which was repaid in full in 
+November 1995. Average borrowings under the Company's bank line of credit in 
+fiscal year 1996 amounted to $1.4 million.
+
+     INCOME TAXES.  The Company's fiscal year 1997 provision for state and 
+federal income taxes amounted to $1.9 million or an effective tax rate of 
+37.8%, which the Company believes to be representative of its normalized 
+effective tax rate.  In fiscal year 1996, the tax provision amounted to 
+$254,000, resulting in an abnormally low effective tax rate of 7.4%. The low 
+tax rate in 1996 was the result of the release of a deferred tax valuation 
+allowance of $997,000 in the fourth fiscal quarter which is discussed below 
+and in Note 5 to the Consolidated Financial Statements.
+
+FISCAL 1996 COMPARED TO FISCAL 1995
+
+     NET SALES.  The Company's net sales of $47.2 million in fiscal year 1996 
+grew by $9.0 million or 23.6% over net sales of $38.2 million in fiscal year 
+1995. This sales growth was driven by new product introductions which more 
+than offset declines in both 18-track and 9-track sales. In particular, the 
+first shipments of the LXB, the base unit product in the Company's new 
+LibraryXpress product line, were made in March 1996. Shipments of the LXB 
+during the last four months of fiscal year 1996 generated $1.2 million in 
+sales. An additional $3.4 million in fiscal year 1996 growth was generated 
+from a 50.0% increase in sales of DLT distributed products, including the DLT 
+4500/4700 loaders which were introduced during the year by Quantum. The 
+largest portion of sales growth, $7.0 million, was reported in the Company's 
+36-track products, with fiscal year 1996 sales of $9.3 million growing to 
+four times its fiscal year 1995 level of $2.3 million. This growth was the 
+result of (i) strong sales of the inaugural 36-track product, the L490E, 
+which was introduced midway through fiscal year 1995, and (ii) two new 
+36-track product introductions, the 60-cartridge L60E, which began shipping 
+in November 1995, and the single cartridge T490E, which began shipping in 
+March 1996. In the 18-track product line, sales declined by 6.8% in fiscal 
+year 1996, reflecting the market's general migration to 36-track products. 
+Sales of 9-track products of $14.4 million in fiscal year 1996 declined by 
+$4.2 million or 22.6% from $18.6 million in fiscal year 1995, reflecting the 
+general maturity of the 9-track technology. Finally, fiscal year 1996 sales 
+of controllers, spare parts, software and other products amounted to $4.9 
+million, an increase of 81.5% over the fiscal year 1995 level of $2.7 
+million. This growth was attributable to increased sales of spare parts and 
+tape media, mainly DLT tape.
+
+     GROSS PROFIT.  The Company's gross profit amounted to $16.1 million in 
+fiscal year 1996, up from $11.1 million in fiscal year 1995, which 
+represented gross margins of 34.1% and 29.1%, respectively. The increased 
+profitability resulted from higher margins on newly introduced products, and 
+improved margins on DLT distributed product because more product was sold 
+through the VAR and European channels compared to a concentration in the 
+distributor channel in the prior year. In addition, gross margins in fiscal 
+year 1996 were significantly improved on 18-track products as material cost 
+savings were realized from an investment in re-engineering certain electrical 
+components.
+
+                                       15
+
+<PAGE>
+
+     SALES AND MARKETING EXPENSES.  Sales and marketing expenses amounted to 
+$5.9 million or 12.6% of net sales in fiscal year 1996 compared to $4.9 
+million or 12.8% of sales in 1995. This increase in total expenditures 
+resulted from costs needed to support the higher sales level, including 
+salaries and benefits, sales commissions, advertising and promotion and 
+travel and related costs. In addition, higher costs were incurred for 
+prototype units, advertising and promotions related to new product 
+introductions.
+
+     RESEARCH AND DEVELOPMENT EXPENSES.  R&D expenses amounted to $3.7 
+million or 7.8% of net sales in fiscal year 1996 compared to $3.1 million or 
+8.1% of net sales in 1995. The increased expenses related to the development 
+of the Company's two new 36-track products, the T490E and the L60E, and to a 
+greater extent, the development of the new LibraryXpress products. The 
+development of the two 36-track products required a lower level of expense 
+than the LibraryXpress products because they were derivative products using 
+common electrical components and robotics. The Company also incurred expenses 
+in fiscal year 1996 related to the development of a new tape recording 
+technology and coding scheme using the partial response maximum likelihood 
+concept.
+
+     GENERAL AND ADMINISTRATIVE EXPENSES.  General and administrative 
+expenses amounted to $2.9 million or 6.2% of net sales in fiscal year 1996 
+compared to $2.2 million or 5.7% of net sales in 1995. The higher level of 
+expenses in 1996 included legal fees related to the filing of a number of 
+patent applications, increased bad debt reserves related to the higher level 
+of sales and increased facility costs and computer related expenses.
+
+     INTEREST EXPENSE.  Net interest expense amounted to $154,000 in fiscal 
+year 1996 and included $124,000 of interest expense related to borrowings 
+under the Company's revolving bank line of credit and $30,000 of interest 
+expense related to the final installment of a note which was repaid in full 
+in November 1995. Average borrowings under the Company's bank line of credit 
+in fiscal year 1996 amounted to $1.4 million. In fiscal year 1995, net 
+interest expense amounted to $204,000 consisting of $214,000 of interest 
+expense and $10,000 of interest income. The portion of the interest expense 
+relating to the installment note amounted to $145,000 and the remaining 
+$69,000 of interest expense related to borrowings under the Company's 
+revolving bank line of credit, which borrowings averaged $725,000 in fiscal 
+year 1995.
+
+     INCOME TAXES.  The Company's fiscal year 1996 provision for state and 
+federal income taxes amounted to $254,000 or an effective tax rate of 7.4%. 
+In fiscal year 1995, the tax provision amounted to $269,000 resulting in a 
+more normalized effective tax rate of 35%. The low tax rate in 1996 was the 
+result of the release of a deferred tax valuation allowance of $997,000 in 
+the fourth fiscal quarter. As discussed in Note 5 to the Consolidated 
+Financial Statements, in prior years the Company established the reserve in 
+accordance with SFAS No. 109, "Accounting for Income Taxes," which requires 
+that a valuation allowance be recorded "when it is more likely than not" that 
+any portion of a deferred tax asset will not be realized. The reserve had 
+been established to reduce the net deferred tax asset to a minimal amount, 
+because of the Company's past history of operating losses and marginal 
+profitability and due to the inherent uncertainty in forecasts of future 
+events and operating results. However, in the fourth quarter of fiscal year 
+1996, due to the significant profitability in that quarter and based on 
+management's expectations of future results, the Company determined that it 
+was more likely than not that deferred tax assets would be realized through 
+future taxable earnings or alternative tax strategies. As a result, the 
+valuation allowance was reduced to zero in that quarter.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     During fiscal year 1997, the Company used $3.4 million to fund its 
+operating activities, primarily to build receivables and inventories in 
+support of the higher sales levels.  An additional $2.3 million was invested 
+in capital expenditures, primarily for the Company's new enterprise wide 
+computer system, leasehold improvements and tooling.  The Company raised 
+$25.8 million in February 1997 in its initial public offering, of which $1.5 
+million was used to repay outstanding bank indebtedness.
+
+     At June 30, 1997, the Company had $18.9 million of cash and cash 
+equivalents, $36.7 million of net working capital, an unused bank line of 
+credit of $5 million and no other funded debt.  The Company believes that 
+these resources will be sufficient to fund its operations and to provide for 
+its growth for the foreseeable future.
+
+                                       16
+
+<PAGE>
+
+INFLATION
+
+     Inflation has not had a significant negative impact on the Company's 
+operations during the periods presented.  With the exception of its OEM 
+contracts, which contain fixed pricing for up to one year, the Company has 
+historically been able to pass on to its customers increases in raw material 
+prices caused by inflation. There can be no assurance, however, that the 
+Company will be able to continue to pass on any future increases should they 
+occur. Although the Company's exposure to the effects of inflation will be 
+magnified by the expected increase in OEM business, the Company believes that 
+its continuous efforts at material and labor cost reductions will minimize 
+such effects.
+
+SELECTED QUARTERLY FINANCIAL DATA
+ 
+     The following table presents selected quarterly financial information 
+for the periods indicated. This information has been derived from unaudited 
+consolidated financial statements which, in the opinion of management, 
+include all adjustments (consisting only of normal recurring adjustments) 
+necessary for a fair presentation of such information. These operating 
+results are not necessarily indicative of results for any future period.
+
+<TABLE>
+
+                                                          Quarters Ended
+                             ---------------------------------------------------------------------------
+                                        Fiscal Year 1996                       Fiscal Year 1997
+                             -------------------------------------  ------------------------------------
+                             Sept. 30  Dec. 31   Mar. 31   June 30  Sept. 30   Dec. 31  Mar. 31  June 30
+                               1995      1995      1996     1996      1996       1996     1997    1997
+                             --------  -------  --------  --------  --------  --------  -------  -------
+<S>                          <C>       <C>      <C>       <C>       <C>       <C>       <C>      <C>   
+Net Sales                     $11,023  $12,296   $10,889   $13,018   $12,013   $15,220  $15,404  $16,509
+Gross Profit                    3,925    4,015     3,635     4,506     4,440     5,372    5,237    5,322
+Income from operations            759    1,004       493     1,285       593     1,817    1,317    1,009
+Income before income taxes        744      982       449     1,238       541     1,740    1,329    1,377
+Net income                        472      640       284     1,763       324     1,044      797      935
+Net income per share              .06      .08       .04       .22       .04       .13      .09      .08
+</TABLE>
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The consolidated financial statements and supplementary data of the Company
+required by this item are set forth at the pages indicated in Item 14(a)(1).
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND 
+            FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+
+
+
+                                       17
+
+<PAGE>
+
+                                  PART III
+
+ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS
+
+     The information required by this item is included under the captions
+entitled "Election of Directors" and "Information Concerning Directors and
+Executive Officers" in the Company's Proxy Statement and is incorporated herein
+by reference.
+
+ITEM 11.   EXECUTIVE COMPENSATION 
+
+     The information required by this item is included under the caption
+entitled "Executive Compensation" in the Company's Proxy Statement and is
+incorporated herein by reference.
+
+ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information required by this item is included under the caption
+entitled "Security Ownership of Certain Beneficial Owners and Management" in the
+Company's Proxy Statement and is incorporated herein by reference.
+
+
+ITEM 13.   CERTAIN TRANSACTIONS
+
+     The information required by this item is included under the caption
+entitled "Certain Relationships and Transactions" in the Company's Proxy
+Statement and is incorporated herein by reference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       18
+
+<PAGE>
+
+                                   PART IV
+
+
+ITEM 14.   EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+     (a)(1)  FINANCIAL STATEMENTS.  The following Consolidated Financial
+Statements of Overland Data, Inc. and Report of Independent Accountants are
+included in a separate section of this Report at the page numbers so indicated:
+
+     Consolidated Balance Sheet as of June 30, 1997 and 1996..     F-1
+     Consolidated Statement of Operations for the Years 
+        Ended June 30, 1997, 1996 and 1995....................     F-2
+     Consolidated Statement of Shareholders' Equity for the 
+        Years Ended June 30, 1997, 1996 and 1995..............     F-3
+     Consolidated Statement of Cash Flows for the Years Ended
+        June 30, 1997, 1996 and 1995..........................     F-4
+     Notes to Consolidated Financial Statements...............  F-5 to F-13
+     Report of Independent Accountants........................     F-14
+
+     (a)(2)  FINANCIAL STATEMENT SCHEDULES.  The following financial statement
+schedule of Overland Data, Inc. for the years ended June 30, 1997, 1996 and 1995
+is filed as part of this Report on the page number so indicated and should be
+read in conjunction with the Consolidated Financial Statements of Overland Data,
+Inc.:
+     
+     Schedule II - Valuation and Qualifying Accounts..........     S-1
+
+     Schedules not listed above have been omitted because they are not
+applicable or are not required or the information required to be set forth
+therein is included in the Consolidated Financial Statements or Notes thereto.
+
+     (a)(3)   EXHIBITS.
+
+ 3.1  Registrant's Amended and Restated Articles of Incorporation.*
+ 3.2  By-Laws.*
+ 4.1  Specimen stock certificate.*
+ 4.2  Investors' Rights Agreement, dated May 21, 1993, between the Registrant 
+        and the parties named therein.*
+10.1  Basic Order Agreement #16529, dated July 1, 1993 and as amended through
+      November 10, 1995, between the Registrant and Digital Equipment
+      Corporation.*
+10.2  Production Procurement Agreement #RMSS-ODI-96-01-0, dated October 25, 
+      1996, between the Registrant and International Business Machines 
+      Corporation.*
+10.3  Credit Agreement effective as of June 27, 1997 between the Registrant and
+        Imperial Bank.
+10.4  Standard Industrial Lease--Multi-Tenant, dated May 26, 1993, between the
+      Registrant and Mitsui/SBD America Fund 87-1.*
+10.5  First Amendment to the 1995 Stock Option Plan dated January 21, 1997. *
+10.6  1996 Employee Stock Purchase Plan adopted December 12, 1996.*
+11.1  Statement Re: Computation of Earnings Per Share.
+21.1  Subsidiaries of the Registrant.
+23.1  Consent of Price Waterhouse LLP, Independent Accountants.
+24.1  Power of Attorney (included on Signature Page).
+27.1  Financial Data Schedule (for EDGAR use only).
+- ---------------------
+*  Incorporated by reference to the Company's Registration Statement 
+   No. 333-18583 dated February 21, 1997. 
+
+     (b)   REPORTS ON FORM 8-K.   No reports on Form 8-K were filed by the
+Company during the fourth quarter of the year ended June 30, 1997.
+
+
+                                       19
+
+<PAGE>
+
+                                  SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities 
+Exchange Act of 1934, the Registrant has duly caused this Report to be signed 
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                       OVERLAND DATA, INC.
+ 
+
+
+                                       By: /s/  SCOTT McCLENDON
+                                           -----------------------------------
+                                           Scott McClendon
+                                           President & Chief Executive Officer
+Dated:  September 27, 1997
+
+                             POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Scott McClendon and Vernon A. LoForti, jointly
+and severally, as his or her attorney-in-fact, each with the power of
+substitution, for him or her in any and all capacities, to sign any amendments
+to this Annual Report on Form 10-K and to file the same, with exhibits thereto
+and other documents in connection therewith, with the Securities and Exchange
+Commission, hereby ratifying and confirming all that each of said attorneys-in-
+fact, or his substitute or substitutes, may do or cause to be done by virtue
+hereof.
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+       SIGNATURE                     TITLE                         DATE
+       ---------                     -----                         ----
+
+/s/ SCOTT McCLENDON        President, Chief Executive        September 27, 1997
+    -------------------      Officer and Director
+     Scott McClendon
+
+
+/s/ MARTIN D. GRAY         Vice President, Secretary and     September 27, 1997
+    -------------------      Director
+       Martin D. Gray
+
+
+/s/ VERNON A. LOFORTI      Vice President, Chief             September 27, 1997
+    -------------------      Financial Officer and
+     Vernon A. LoForti       Assistant Secretary
+
+
+/s/ WILLIAM W. OTTERSON    Director                          September 27, 1997
+    -------------------
+    William W. Otterson
+
+ 
+/s/ JOSEPH D. RIZZI        Director                          September 27, 1997
+    -------------------
+      Joseph D. Rizzi
+
+
+/s/ JOHN A. SHANE          Director                          September 27, 1997
+    -------------------
+      John A. Shane
+
+
+
+
+                                       20
+
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                              CONSOLIDATED BALANCE SHEET
+
+<TABLE>
+<CAPTION>
+
+                                                                                  JUNE 30,
+                                                                  --------------------------------------
+                                                                       1997                    1996
+                                                                  --------------           -------------
+                                                                  (IN THOUSANDS EXCEPT NUMBER OF SHARES)
+ASSETS
+<S>                                                               <C>                      <C> 
+Current assets: 
+  Cash and cash equivalents                                      $       18,926           $          19
+  Accounts receivable, less allowance for doubtful accounts 
+    and returns of $774 and $624, respectively                           11,151                   7,226
+  Inventories                                                            12,101                   8,425
+  Deferred income taxes                                                   1,743                   1,328
+  Other current assets                                                      607                     364
+                                                                  --------------           -------------
+
+       Total current assets                                              44,528                  17,362
+
+Property and equipment, net                                               3,499                   2,128
+Deferred income taxes                                                        77                       5
+Intangible and other assets                                                 156                     276
+                                                                  --------------           -------------
+                                                                 $       48,260           $      19,771
+                                                                  --------------           -------------
+                                                                  --------------           -------------
+
+
+LIABILITIES, PREFERRED STOCK AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                                               $        5,372           $       4,433
+  Accrued liabilities                                                     1,377                   1,493
+  Accrued payroll and employee compensation                               1,046                   1,129
+                                                                  --------------           -------------
+
+       Total current liabilities                                          7,795                   7,055
+
+Long-term debt                                                              -                     1,500
+Other liabilities                                                           148                     158
+                                                                  --------------           -------------
+
+       Total liabilities                                                  7,943                   8,713
+                                                                  --------------           -------------
+
+Convertible redeemable preferred stock, at liquidation value:
+  Series A preferred stock                                                    -                     367
+  Series B preferred stock                                                    -                   1,281
+  Series C preferred stock                                                    -                   3,552
+                                                                  --------------           -------------
+                                                                              -                   5,200
+                                                                  --------------           -------------
+
+Commitments and contingencies (Note 9)
+
+Shareholders' equity:
+  Common stock, no par value, 25,000,000 shares
+    authorized; 10,434,593 and 5,062,325 shares 
+    issued and outstanding in 1997 and 1996, respectively                33,246                   1,896
+  Cumulative translation adjustment                                           9                       -
+  Retained earnings                                                       7,062                   3,962
+                                                                  --------------           -------------
+
+       Total shareholders' equity                                        40,317                   5,858
+                                                                  --------------           -------------
+
+                                                                 $       48,260           $      19,771
+                                                                  --------------           -------------
+                                                                  --------------           -------------
+</TABLE>
+
+             See accompanying notes to consolidated financial statements.
+
+                                         F-1
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                              CONSOLIDATED STATEMENT OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+
+                                                                                  YEAR ENDED JUNE 30,
+                                                                       --------------------------------------
+                                                                         1997           1996           1995
+                                                                       ----------     ----------     ---------
+                                                                       (IN THOUSANDS EXCEPT PER SHARE AMOUNTS)
+
+<S>                                                                    <C>            <C>            <C>
+Net sales                                                             $  59,146      $  47,226      $  38,156
+Cost of goods sold                                                       38,775         31,145         27,041
+                                                                       ----------     ----------     ---------
+
+  Gross profit                                                           20,371         16,081         11,115
+
+Operating expenses:
+  Sales and marketing                                                     7,298          5,935          4,891
+  Research and development                                                4,125          3,697          3,076
+  General and administrative                                              4,212          2,908          2,168
+                                                                       ----------     ----------     ---------
+
+                                                                         15,635         12,540         10,135
+                                                                       ----------     ----------     ---------
+
+Income from operations                                                    4,736          3,541            980
+
+Other income (expense): 
+  Interest income                                                           408              1             10
+  Interest expense                                                         (185)          (155)          (214)
+  Other income (expense), net                                                28             26             (6)
+                                                                       ----------     ----------     ---------
+
+Income before income taxes                                                4,987          3,413            770
+
+
+Provision for income taxes                                                1,887            254            269
+                                                                       ----------     ----------     ---------
+
+Net income                                                            $   3,100      $   3,159      $     501
+                                                                       ----------     ----------     ---------
+                                                                       ----------     ----------     ---------
+
+Net income per share                                                  $     .34      $     .40      $     .07
+                                                                       ----------     ----------     ---------
+                                                                       ----------     ----------     ---------
+
+Shares used in computing net income per share                             9,222          7,857          7,412
+                                                                       ----------     --------       ---------
+                                                                       ----------     --------       ---------
+</TABLE>
+
+             See accompanying notes to consolidated financial statements.
+
+                                         F-2
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                    CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+
+
+
+<TABLE>
+<CAPTION>
+
+                                                    COMMON STOCK          CUMULATIVE
+                                                    ------------          TRANSLATION      RETAINED
+                                               SHARES         AMOUNT      ADJUSTMENT       EARNINGS        TOTAL
+                                             ----------    -----------    -----------     ----------    -----------
+                                                             (IN THOUSANDS EXCEPT NUMBER OF SHARES)
+
+<S>                                         <C>            <C>            <C>            <C>            <C>       
+Balance at June 30, 1994                     3,903,661     $      543                    $      302     $      845
+
+  Preferred stock conversion                   318,396            367                                          367
+
+  Exercise of stock options                     39,040             30                                           30
+
+  Issuance of common stock                      30,000             24                                           24
+
+  Net income                                                                                    501            501
+                                            ----------     ----------     ----------     ----------     ----------
+
+Balance at June 30, 1995                     4,291,097            964                           803          1,767
+
+  Preferred stock conversion                   318,397            367                                          367
+
+  Exercise of stock options                    280,481            220                                          220
+
+  Issuance of common stock                     172,350            345                                          345
+
+  Net income                                                                                  3,159          3,159
+                                            ----------     ----------     ----------     ----------     ----------
+
+Balance at June 30, 1996                     5,062,325          1,896                         3,962          5,858
+
+  Preferred stock conversion                 2,336,574          5,200                                        5,200
+
+  Exercise of stock options                    168,630            142                                          142
+
+  Issuance of common stock in
+    initial public offering                  2,836,364         25,659                                       25,659
+
+  Other issuances of common
+    stock                                       30,700             92                                           92
+
+  Foreign currency translation                                            $        9                             9
+
+  Tax benefits from exercise of
+      stock options                                               257                                          257
+
+  Net income                                                                                  3,100          3,100
+                                            ----------     ----------     ----------     ----------     ----------
+
+Balance at June 30, 1997                    10,434,593     $   33,246     $        9     $    7,062     $   40,317
+                                            ----------     ----------     ----------     ----------     ----------
+                                            ----------     ----------     ----------     ----------     ----------
+</TABLE>
+
+
+             See accompanying notes to consolidated financial statements.
+
+                                         F-3
+<PAGE>
+
+                                  OVERLAND DATA,INC.
+
+                         CONSOLIDATED STATEMENT OF CASH FLOWS
+
+
+<TABLE>
+<CAPTION>
+
+                                                                        YEAR ENDED JUNE 30,
+                                                             ---------------------------------------
+                                                               1997           1996           1995
+                                                             --------       ---------      ---------
+                                                                          (IN THOUSANDS)
+<S>                                                          <C>            <C>            <C>
+Operating activities:
+  Net income                                                  $ 3,100       $  3,159       $    501
+  Adjustments to reconcile net income to 
+    net cash (used in) provided by operating activities:
+    Deferred tax benefit                                         (487)        (1,237)           (66) 
+    Depreciation and amortization                               1,050            862            725
+    Loss on disposal of property and equipment                      7             50             10
+    Non-cash compensation charge                                  -              -                8
+    Changes in assets and liabilities:
+      Accounts receivable                                      (3,925)          (926)        (1,701)
+      Inventories                                              (3,676)        (3,069)           309
+      Other assets                                               (243)          (278)            77
+      Accounts payable and accrued liabilities                    813          1,931            296
+      Accrued payroll and employee compensation                    (1)           349             28
+                                                             --------       --------       --------
+
+        Net cash (used in) provided by operating activities    (3,362)           841            187
+                                                             --------       --------       --------
+
+Investing activities:
+  Capital expenditures                                         (2,308)          (841)          (670)
+                                                             --------       --------       --------
+
+        Net cash used in investing activities                  (2,308)          (841)          (670)
+                                                             --------       --------       --------
+
+Financing activities:
+  Proceeds from issuance of common stock                       25,751            345             16
+  Proceeds from exercise of stock options                          60            220             30
+  Net (payments) proceeds under bank line of credit            (1,500)           100            700
+  Principal payments on notes payable                             -             (747)        (1,494)
+  Tax benefits from exercise of stock options                     257            -              -  
+                                                             --------       --------       --------
+
+        Net cash provided by (used in) financing activities    24,568            (82)          (748)
+                                                             --------       --------       --------
+
+Effect of exchange rate changes on cash                             9            -              -
+                                                             --------       --------       --------
+
+Net increase (decrease) in cash and cash equivalents           18,907            (82)        (1,231)
+Cash and cash equivalents, beginning of period                     19            101          1,332
+                                                             --------       --------       --------
+
+Cash and cash equivalents, end of period                      $18,926            $19           $101
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+  Cash paid for income taxes                                   $2,314         $1,150           $411
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+
+  Cash paid for interest                                         $186           $155           $215
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+
+SUPPLEMENTAL NON-CASH ACTIVITIES:
+
+  Non-cash common stock issuance                                $ -             $-               $8
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+
+  Compensation recognized as equity
+      upon exercise of common stock options                       $82           $-             $-  
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+
+  Conversion of Series A preferred stock to common stock         $367           $367           $367
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+
+
+  Conversion of Series B preferred stock to common stock       $1,281           $-             $-  
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+
+  Conversion of Series C preferred stock to common stock       $3,552           $-             $-  
+                                                             --------       --------       --------
+                                                             --------       --------       --------
+</TABLE>
+
+
+             See accompanying notes to consolidated financial statements.
+
+                                         F-4
+<PAGE>
+
+
+                                 OVERLAND DATA, INC.
+
+                     NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+NOTE 1 - OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+GENERAL
+
+Overland Data, Inc. (the "Company") was incorporated on September 8, 1980 under
+the laws of the state of California.  The Company designs, develops,
+manufactures, markets and supports magnetic tape data storage systems used by
+businesses for high performance network backup and archival solutions as well as
+data interchange.  The Company's fiscal year ends on the Sunday closest to June
+30.  For ease of presentation, the Company's year end is deemed to be June 30. 
+Fiscal years 1997, 1996 and 1995 each included 52 weeks.
+
+PRINCIPLES OF CONSOLIDATION 
+
+The consolidated financial statements include the accounts of the Company and
+its wholly-owned subsidiaries, Overland Data (Europe) Ltd. and Overland Data
+Export Limited, a foreign sales corporation.  All significant intercompany
+accounts and transactions have been eliminated.
+
+MANAGEMENT ESTIMATES AND ASSUMPTIONS
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosures of
+contingent assets and liabilities at the date of the financial statements and
+reported amounts of revenues and expenses during the reporting period.  Actual
+results could differ from those estimates.
+
+REVENUE RECOGNITION
+
+Sales are recognized upon shipment of products to customers and are not subject
+to any specific right of return or price protection, except for any defective
+product which may be returned under the Company's warranty policy.
+
+WARRANTY COSTS
+
+The Company generally provides a two-year return-to-factory warranty on its 
+products.  In addition, on-site warranties are provided for the Company's 
+line of DLT LibraryXpress products.  The Company records a provision for 
+estimated future warranty costs at the time of shipment for both the 
+return-to-factory and on-site warranties.  Separately priced on-site 
+warranties are offered for sale to customers of other product lines.  The 
+Company contracts with outside vendors to provide service relating to all 
+on-site warranties.  Warranty revenues and amounts paid in advance to outside 
+service organizations are recognized in the financial statements in sales and 
+cost of goods sold, respectively, over the warranty period.
+
+RESEARCH AND DEVELOPMENT COSTS
+
+Research and development costs are expensed as incurred.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+It is management's belief that the carrying amounts shown for the Company's
+financial instruments are reasonable estimates of their related fair values
+based on their terms or short-term nature.
+
+EXPORT SALES
+
+Export sales by the Company, principally in Europe, for the years ended June 30,
+1997, 1996 and 1995 were $14,391,000, $12,775,000 and $7,737,000, respectively.
+
+                                         F-5
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+CONCENTRATIONS OF CREDIT RISK
+
+The Company's customers include original equipment manufacturers, 
+integrators, distributors, value added resellers and end users.  Financial 
+instruments which potentially subject the Company to concentrations of credit 
+risk are primarily accounts receivable.  The Company performs ongoing credit 
+evaluations of its customers, generally requires no collateral and maintains 
+allowances for potential credit losses and sales returns.  The Company's 
+largest single customer accounted for approximately 14%, 23% and 21% of sales 
+in fiscal 1997, 1996 and 1995, respectively, and approximately 12% and 33% of 
+accounts receivable at June 30, 1997 and 1996, respectively.  The second 
+largest customer accounted for 10% of sales in 1997 and 11% of accounts 
+receivable at June 30, 1997.  No other customer accounted for 10% or more of 
+sales in any of the three years presented.
+
+CASH EQUIVALENTS
+
+Highly liquid investments with original maturities of three months or less are
+classified as cash equivalents.
+
+INVENTORIES
+
+Inventories are stated at the lower of cost (first-in-first-out method) or
+market.
+
+PROPERTY AND EQUIPMENT 
+
+Property and equipment are recorded at cost.  Depreciation is computed using the
+straight-line method over the estimated useful lives of the depreciable assets
+(generally two to five years).  Leasehold improvements are amortized on a
+straight-line basis over the shorter of the useful life of the asset or the
+lease term.  Expenditures for normal maintenance and repair are charged to
+expense as incurred, and improvements are capitalized.  Upon the sale or
+retirement of property or equipment, the asset cost and related accumulated
+depreciation are removed from the respective accounts and any gain or loss is
+included in the results of operations.
+
+INTANGIBLE ASSETS
+
+Intangible assets, resulting from the acquisition of assets relating to certain
+product lines, are amortized using the straight-line method over five years (the
+estimated life of the products).  Accumulated amortization was $690,000 and
+$570,000 in 1997 and 1996, respectively.
+
+LONG-LIVED ASSETS
+
+The Company assesses potential impairments to its long-lived assets when there
+is evidence that events or changes in circumstances have made recovery of an
+asset's carrying value unlikely.  An impairment loss would be recognized when
+the sum of the expected future net cash flows is less than the carrying amount
+of the asset.  No such impairment losses have been recorded by the Company.
+
+FOREIGN CURRENCY TRANSLATION
+
+The financial statements of the Company's foreign subsidiary are translated into
+U.S. dollars using period-end exchange rates for assets and liabilities and
+weighted average exchange rates during the period for revenues and expenses. 
+Gains or losses from foreign currency transactions are recognized currently in
+income.  Such gains and losses were not significant in any year presented.
+
+                                         F-6
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+INCOME TAXES
+
+The Company provides for income taxes utilizing the liability method.  Under the
+liability method, a deferred tax asset and/or liability is computed for both the
+expected future impact of differences between the financial statement and tax
+bases of assets and liabilities, and for the expected future tax benefit to be
+derived from tax credits and loss carryforwards.  A valuation allowance is
+established to reflect the likelihood of realization of deferred tax assets.
+
+STOCK-BASED COMPENSATION
+
+The Company measures compensation expense for its stock-based employee
+compensation plans using the intrinsic value method and provides pro forma
+disclosures of net income and earnings per share as if the fair value-based
+method had been applied in measuring compensation expense (Note 7).
+
+NET INCOME PER SHARE 
+
+Net income per share is computed based on the weighted average number of 
+common shares and common stock equivalents, using the treasury stock method, 
+outstanding during the respective periods. All issuances of common stock and 
+all stock options granted within one year prior to the filing of the 
+Company's registration statement for its initial public offering and through 
+the effective date thereof have been included as outstanding for all periods 
+presented using the treasury stock method. 
+
+NEW ACCOUNTING PRONOUNCEMENT
+
+In March 1997, the Financial Accounting Standards Board issued Statement of 
+Financial Accounting Standards (SFAS) No. 128, "Earnings Per Share."  SFAS 
+No. 128 will be adopted by the Company as required in the second quarter of 
+fiscal 1998.  Upon adoption of SFAS No. 128, the Company will present basic 
+earnings per share as well as diluted earnings per share.  Basic earnings per 
+share will be computed based on the weighted average number of shares of 
+common stock outstanding during the period.  Diluted earnings per share will 
+be computed based on the weighted average number of shares of common stock 
+outstanding during the period increased by the effect of diluted stock 
+options using the treasury stock method.  Pro forma basic earnings per share 
+for the years ended June 30, 1997, 1996 and 1995 are $.43, $.66 and $.12, 
+respectively.  Pro forma diluted earnings per share for the years ended June 
+30, 1997, 1996 and 1995 are $.34, $.40 and $.07, respectively.
+
+NOTE 2 - COMPLETION OF INITIAL PUBLIC OFFERING
+
+On February 21, 1997, the Company completed its initial public offering of 
+3,450,000 shares of common stock (of which 2,836,364 shares were sold by the 
+Company and 613,636 shares were sold by certain shareholders) at a price to 
+the public of $10 per share.  Net proceeds to the Company were $26,659,000 
+after payment of the underwriters' commissions and deduction of offering 
+expenses.
+
+                                         F-7
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE 3 - COMPOSITION OF CERTAIN FINANCIAL STATEMENT CAPTIONS
+
+                                                            JUNE 30,
+                                                    -------------------------
+                                                      1997             1996
+                                                    --------         --------
+                                                           (IN THOUSANDS)
+
+Inventories:
+  Raw materials                                    $  8,160          $  5,167
+  Work in process                                     2,839             1,816
+  Finished goods                                      1,102             1,442
+                                                   --------          --------
+
+                                                   $ 12,101          $  8,425
+                                                   --------          --------
+                                                   --------          --------
+
+
+Property and equipment: 
+  Machinery and equipment                          $  3,171          $  2,433
+  Computer equipment                                  2,288             1,141
+  Furniture and fixtures                                210               165
+  Leasehold improvements                                779               429
+                                                   --------          --------
+
+                                                      6,448             4,168
+
+Less accumulated depreciation and amortization       (2,949)           (2,040)
+                                                   --------          --------
+
+                                                   $  3,499          $  2,128
+                                                   --------          --------
+                                                   --------          --------
+
+
+Depreciation expense was $930,000, $724,000 and $574,000 in 1997, 1996 and 1995,
+respectively.
+
+
+NOTE 4 - LONG-TERM DEBT 
+
+The Company has a $5,000,000 unsecured revolving credit facility which expires
+on November 5, 1999.  Borrowings under the line may be in the form of working
+capital loans, which bear interest at the bank's prime rate, or banker's
+acceptances priced at the bank's BA rate plus 2.25%.  The Company is required to
+maintain certain covenants and financial ratios including working capital and
+net worth ratios, and pays a .5% annual commitment fee on the unused credit. 
+The Company is in compliance with all terms of the agreement.  As of June 30,
+1997, no borrowings were outstanding under the credit line.  At June 30, 1996,
+$1,500,000 was outstanding and $3,200,000 was available for borrowing.
+
+                                         F-8
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE 5 - INCOME TAXES
+
+The provision (benefit) for income taxes includes the following:
+
+                                                       YEAR ENDED JUNE 30,
+                                                ------------------------------
+                                                 1997         1996       1995
+                                                ------       ------     ------
+                                                          (IN THOUSANDS)
+Current:
+  Federal                                       $1,993       $1,246     $  306
+  State                                            377          236         17
+  Foreign                                            4            9         12
+                                                ------       ------     ------
+                                                 2,374        1,491        335
+                                                ------       ------     ------
+
+Deferred:
+  Federal                                         (347)      (1,053)       (66)
+  State                                           (140)        (184)       -  
+                                                ------       ------     ------
+                                                  (487)      (1,237)       (66)
+                                                ------       ------     ------
+                                                $1,887         $254       $269
+                                                ------       ------     ------
+                                                ------       ------     ------
+
+
+A reconciliation of income taxes computed by applying the federal statutory 
+income tax rate of 34% to income before income taxes to the total income tax 
+provision reported in the Consolidated Statement of Operations is as follows:
+
+                                                       YEAR ENDED JUNE 30,
+                                                ------------------------------
+                                                 1997         1996        1995
+                                                ------       ------     ------
+                                                          (IN THOUSANDS)
+
+  Federal income tax at statutory rate          $1,696       $1,160     $  262
+  (Release of) increase in valuation allowance     -           (997)        48
+  State income taxes, net of federal benefit       156          165         11
+  Foreign sales corporation benefit                (68)         (65)        (8)
+  Research and development credits                 -            -          (39) 
+  Permanent differences                             32          -           -
+  Other                                             71           (9)        (5)
+                                                ------       ------     ------
+
+  Provision for income taxes                    $1,887       $  254     $  269
+                                                ------       ------     ------
+                                                ------       ------     ------
+
+
+During the fiscal year ended June 30, 1996, the Company reduced the deferred tax
+valuation allowance by $997,000 to recognize deferred tax assets.  Based on
+management's assessment and the Company's history of profitability, management
+believes it is more likely than not that the deferred tax asset will be realized
+through future taxable earnings or alternative tax strategies.
+
+                                         F-9
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+Deferred income taxes at June 30, 1997 and 1996 comprised:    
+
+                                                             JUNE 30,
+                                                     ---------------------
+                                                      1997           1996
+                                                     ------         ------
+                                                         (IN THOUSANDS)
+Deferred tax assets:
+  Inventory                                          $  805         $  570
+  Allowance for doubtful accounts and returns           331            195
+  Warranty reserves                                     202            141
+  Vacation and deferred compensation                    193            170
+  License fee accrual                                    69            101
+  Intangible assets                                     139             97
+  State income taxes                                    122             80
+  Other                                                  21             71
+                                                     ------         ------
+
+    Gross deferred tax asset                          1,882          1,425
+                                                     ------         ------
+
+Deferred tax liabilities:
+  Property and equipment depreciation                   (62)           (92)
+                                                     ------         ------
+
+    Gross deferred tax liability                        (62)           (92)
+                                                     ------         ------
+
+Valuation allowance                                     -             -   
+                                                     ------         ------
+
+Net deferred income taxes                            $1,820         $1,333
+                                                     ------         ------
+                                                     ------         ------
+
+
+NOTE 6 - CONVERTIBLE REDEEMABLE PREFERRED STOCK
+
+At June 30, 1996, the Company had outstanding three series of preferred stocks
+which had no par value and were stated in the balance sheet at their original
+issue price, which was equivalent to their redemption value.  Upon completion of
+the Company's initial public offering on February 21, 1997, all outstanding
+shares of the preferred stock converted into 2,092,764 shares of common stock on
+a one-for-one basis.  Thereafter, no shares of preferred stock were authorized,
+issued or outstanding.
+
+
+NOTE 7 - STOCK-BASED COMPENSATION
+
+STOCK OPTIONS
+
+The Company has a number of stock option plans, administered by the Compensation
+Committee of the Board of Directors, which provide for the issuance of options
+to employees, officers and directors.  The exercise price of a stock option is
+generally equal to the fair market value of the Company's common stock on the
+date the option is granted.  Certain of the plans permit options granted to
+qualify as "Incentive Stock Options" under the Internal Revenue Code while other
+plans are specified as non-qualified.  Additionally, certain of the
+non-qualified plans call for 100% vesting of outstanding options upon a change
+of control of the Company.  Options generally vest at a rate of 25 percent per
+year over a period of four years from the date of grant and expire after a
+period not to exceed ten years, except in the event of termination, whereupon
+vested shares must be exercised within 30 days, or upon death or disability,
+where a six month exercise period is specified.
+
+                                         F-10
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+ Option activity for the three years ended June 30, 1997 is summarized as
+follows:
+
+                                                    SHARES          SHARE PRICE
+                                                   --------        ------------
+
+Options outstanding at June 30, 1994                916,248        $ .12 -  .80
+
+  Options granted                                   285,950          .80 -  .88
+  Options exercised                                 (39,040)         .42 -  .80
+  Options canceled                                 (124,799)         .12 -  .80
+                                                  ---------        ------------
+
+Options outstanding at June 30, 1995              1,038,359          .12 -  .88
+
+  Options granted                                   184,810                2.00
+  Options exercised                                (280,481)         .12 -  .80
+  Options canceled                                  (94,092)         .80 - 2.00
+                                                  ---------        ------------
+
+Options outstanding at June 30, 1996                848,596          .12 - 2.00
+
+  Options granted                                   100,000         3.00 - 6.19
+  Options exercised                                (168,630)         .20 - 2.00
+  Options canceled                                  (23,775)         .80 - 6.19
+                                                  ---------        ------------
+
+Options outstanding at June 30, 1997                756,191        $ .12 - 6.19
+                                                  ---------        ------------
+                                                  ---------        ------------
+
+The following table summarizes all options outstanding and exercisable by price
+range as of June 30, 1997:
+
+<TABLE>
+<CAPTION>
+
+                                 OPTIONS OUTSTANDING                        OPTIONS EXERCISABLE
+                -------------------------------------------------   ---------------------------------
+                               WEIGHTED-AVERAGE
+ RANGE OF           NUMBER        REMAINING      WEIGHTED-AVERAGE       NUMBER       WEIGHTED-AVERAGE
+EXERCISABLE     OUTSTANDING AT   CONTRACTUAL         EXERCISE       EXERCISABLE AT       EXERCISE
+  PRICES        JUNE 30, 1997       LIFE               PRICE        JUNE 30, 1997         PRICE
+- ------------    -------------- ----------------  ----------------   --------------   ----------------
+
+<S>             <C>            <C>               <C>                <C>              <C>
+$ .12 -  .88       496,391        5.6 years            $ .60           398,305            $ .55
+$2.00 - 3.00       246,800        8.6                   2.32            40,199             2.00
+$4.50 - 6.19        13,000        9.5                   5.02             1,500             6.19
+- ------------       -------                                             -------
+$ .12 - 6.19       756,191                                             440,004
+- ------------       -------                                             -------
+- ------------       -------                                             -------
+</TABLE>
+
+Shares available for future grant were 446,457 and 566,382 at June 30, 1997 and
+1996, respectively.
+
+                                         F-11
+<PAGE>
+
+                             OVERLAND DATA, INC.
+
+         NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+1996 EMPLOYEE STOCK PURCHASE PLAN
+
+In February 1997, the Company adopted the 1996 Employee Stock Purchase Plan 
+(the "ESPP") whereby 250,000 shares of common stock were reserved for 
+issuance and purchase by employees of the Company to assist them in acquiring 
+a stock ownership interest in the Company and to encourage them to remain 
+employees of the Company.  The ESPP is intended to qualify under Section 423 
+of the Internal Revenue Code and permits eligible employees to purchase 
+common stock at a discount through payroll deductions during specified 
+six-month offering periods.  No employee may purchase more than $25,000 worth 
+of stock in any calendar year or 1,500 shares in any one offering period. The 
+ESPP is administered by an Administrative Committee appointed by the Board of 
+Directors and provides generally that the purchase price must not be less 
+than 85% of the fair market value of the common stock on the first or last 
+day of the offering period, whichever is lower.  As of June 30, 1997, no 
+shares have been purchased under the ESPP because the first offering period 
+had not yet concluded.
+
+PRO FORMA INFORMATION
+
+The Company accounts for stock-based compensation using the intrinsic value 
+method.  No compensation expense has been recognized for purchase rights 
+under the ESPP or for its stock option grants, which are fixed in nature and 
+have been granted at fair market value at the date of grant.  Had 
+compensation expense for the Company's stock-based compensation awards issued 
+during 1997 and 1996 been determined based on the fair value at the grant 
+dates of awards using the method prescribed by SFAS No. 123, the Company's 
+net income and net income per share would have been reduced to the pro forma 
+amounts indicated below:
+
+                                                     YEAR ENDED JUNE 30,
+                                                     -------------------
+                                                        1997      1996
+                                                     --------    -------
+                                         (in thousands except per share amounts)
+Net income:
+    As reported                                     $ 3,100     $3,159
+    Pro forma                                         3,022      3,154
+
+Net income per share:
+    As reported                                     $   .34     $  .40
+    Pro forma                                           .33        .40
+
+The fair value of each option grant is estimated on the date of grant using 
+the Black-Scholes option pricing model.  The weighted average estimated fair 
+value of employee stock options granted during 1997 and 1996 was $1.04 and 
+$0.49 per share, respectively.  The weighted average assumptions used for 
+grants during the years ended June 30, 1997 and 1996 were: no dividend yield 
+for both years, risk-free interest rates of 6.6% and 5.7%, respectively, 
+expected volatility of 33% post-IPO and no volatility pre-IPO, and expected 
+lives of 5.0 years for both years.
+
+The fair value of each share purchase right under the ESPP is estimated at 
+the inception of each offering period also using the Black-Scholes option 
+pricing model.  The weighted average estimated fair value of each share 
+purchase right granted during 1997 was $2.49 per share.  The weighted average 
+assumptions used were: no dividend yield, risk-free interest rate of 5.1%, 
+expected volatility of 33%, and an expected life of 6 months.
+
+NOTE 8 - 401(k) PLAN
+
+In January 1994, the Company adopted an employee savings and retirement plan 
+(the "401(k) Plan") covering all of the Company's employees.  The 401(k) Plan 
+permits but does not require matching contributions by the Company on behalf 
+of all participants.  No such contributions were made during fiscal 1997, 
+1996 or 1995.
+
+                                         F-12
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - CONTINUED
+
+
+NOTE 9 - COMMITMENTS AND CONTINGENCIES
+
+COMMITMENTS
+
+The Company leases its office, production and sales facilities under
+non-cancelable operating leases which expire in various years through fiscal
+2002.  The leases provide for annual rent escalations intended to approximate
+increases in cost of living indices, and certain of the leases provide for rent
+abatement.  At June 30, 1997, future minimum lease payments under these
+arrangements are as follows:
+
+                                                      MINIMUM
+                   YEAR ENDING                         LEASE
+                     JUNE 30,                         PAYMENTS  
+                   -----------                        --------
+                                                   (in thousands)
+
+                        1998                          $  886
+                        1999                             937
+                        2000                             964
+                        2001                           1,003
+                        2002                           1,043
+                        Thereafter                       160
+                                                      ------
+                                                      $4,993
+                                                      ------
+                                                      ------
+
+Rental expense is recognized ratably over the respective lease terms and
+aggregated $703,000, $554,000 and $562,000 for fiscal 1997, 1996 and 1995,
+respectively. 
+
+
+CONTINGENCIES
+
+The Company, its directors and certain of its officers have been named as
+defendants in two putative class action lawsuits filed on April 21, 1997 and May
+2, 1997 in the U.S. District Court for the Southern District of California.  In
+both cases, the plaintiffs purport to represent a class of all persons who
+purchased the Company's common stock between February 21, 1997 and March 14,
+1997.  The complaints allege that the defendants violated various federal
+securities laws through material misrepresentation and omissions in connection
+with the Company's initial public offering and its registration statement on
+Form S-1 filed with the Securities and Exchange Commission on February 21, 1997.
+The suits seek rescission of their share purchases or rescissory damages if
+their shares have been sold, as well as attorney's fees and other costs and
+expenses.
+
+The outcome of the lawsuits cannot be determined.  However, management believes
+that it has meritorious defenses and intends to defend against the suits
+vigorously.  The Company maintains directors' and officers' liability insurance
+to provide coverage against suits of this nature.  Other than legal fees
+incurred to date, no amounts have been recorded in the financial statements for
+any losses which may result from these lawsuits.
+
+                                         F-13
+<PAGE>
+
+                                 OVERLAND DATA, INC.
+
+                          REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+August 4, 1997
+
+
+To the Board of Directors and
+   Shareholders of Overland Data, Inc.
+
+In our opinion, the consolidated financial statements listed in the index 
+appearing under Item 14(a)(1) and (2) of this Form 10-K present fairly, in 
+all material respects, the financial position of Overland Data, Inc. and its 
+subsidiaries at June 30, 1997 and 1996, and the results of their operations 
+and their cash flows for each of the three years in the period ended June 30, 
+1997, in conformity with generally accepted accounting principles.  These 
+financial statements are the responsibility of the Company's management;  our 
+responsibility is to express an opinion on these financial statements based 
+on our audits.  We conducted our audits of these statements in accordance 
+with generally accepted auditing standards which require that we plan and 
+perform the audit to obtain reasonable assurance about whether the financial 
+statements are free of material misstatement.  An audit includes examining, 
+on a test basis, evidence supporting the amounts and disclosures in the 
+financial statements, assessing the accounting principles used and 
+significant estimates made by management, and evaluating the overall 
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for the opinion expressed above.
+
+Price Waterhouse LLP
+San Diego, California
+
+                                         F-14
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+              SCHEDULE II -- VALUATION AND QUALIFYING ACCOUNTS
+ 
+              FISCAL YEARS ENDED JUNE 30, 1997, 1996 AND 1995
+
+
+
+                BALANCE AT          ADDITIONS
+                 BEGINNING         CHARGED TO                      BALANCE AT
+                  OF YEAR            INCOME        DEDUCTIONS*    END OF YEAR
+                ----------         ----------      -----------    ------------
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS RECEIVABLE:
+- -------------------------------------------
+1997               $  624            $  280            $130            $  774
+1996                  446               333             155               624
+1995                  297               211              62               446
+
+ALLOWANCE FOR INVENTORY OBSOLESCENCE:
+- -------------------------------------
+1997               $1,318            $  968            $407            $1,879
+1996                  505             1,050             237             1,318
+1995                  242               933             670               505
+
+- ----------------
+* Deductions represent amounts written off against the allowance, net of
+  recoveries.
+
+
+<PAGE>
+
+                                EXHIBIT INDEX
+
+
+ 3.1  Registrant's Amended and Restated Articles of Incorporation.*
+ 3.2  By-Laws.*
+ 4.1  Specimen stock certificate.*
+ 4.2  Investors' Rights Agreement, dated May 21, 1993, between the Registrant 
+        and the parties named therein.*
+10.1  Basic Order Agreement #16529, dated July 1, 1993 and as amended through
+      November 10, 1995, between the Registrant and Digital Equipment
+      Corporation.*
+10.2  Production Procurement Agreement #RMSS-ODI-96-01-0, dated October 25, 
+      1996, between the Registrant and International Business Machines 
+      Corporation.*
+10.3  Credit Agreement effective as of June 27, 1997 between the Registrant and
+        Imperial Bank.
+10.4  Standard Industrial Lease--Multi-Tenant, dated May 26, 1993, between the
+      Registrant and Mitsui/SBD America Fund 87-1.*
+10.5  First Amendment to the 1995 Stock Option Plan dated January 21, 1997. *
+10.6  1996 Employee Stock Purchase Plan adopted December 12, 1996.*
+11.1  Statement Re: Computation of Earnings Per Share.
+21.1  Subsidiaries of the Registrant.
+23.1  Consent of Price Waterhouse LLP, Independent Accountants.
+24.1  Power of Attorney (included on Signature Page).
+27.1  Financial Data Schedule (for EDGAR use only).
+- ---------------------
+*  Incorporated by reference to the Company's Registration Statement 
+   No. 333-18583 dated February 21, 1997. 
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+
+<PAGE>
+
+                                    IMPERIAL BANK
+                                           
+                                   CREDIT AGREEMENT
+                                             
+     This Agreement is made by and between Overland Data, Inc. ("Borrower") and
+Imperial Bank, a California banking corporation, ("Bank").
+     
+     In consideration of mutual covenants and conditions hereof, the parties
+hereto agree as follows:
+     
+1.  REPRESENTATIONS OF BORROWER
+     
+         Borrower represents and warrants that:
+     
+1.01     EXISTENCE AND RIGHTS. Borrower is a corporation duly organized and
+existing and in good standing under the laws of California, without limit as to
+the duration of its existence and is authorized and in good standing to do
+business in the State of California; Borrower has corporate powers and adequate
+authority, rights and franchises to own its property and to carry on its
+business as now conducted, and is duly qualified and in good standing in each
+State in which the character of the properties owned by it therein or the
+conduct of its business makes such qualification necessary; and Borrower has the
+power and adequate authority to make and carry out this Agreement.
+     
+1.02     AGREEMENT AUTHORIZED. The execution, delivery and performance of this
+Agreement are duly authorized and do not require the consent or approval of any
+governmental body or other regulatory authority; are not in contravention of or
+in conflict with any law or regulation or any term or provision of Borrower's
+articles of incorporation, by-laws, as the case may be, and this Agreement is
+the valid, binding and legally enforceable obligation of Borrower in accordance
+with its terms; subject only to bankruptcy, insolvency or similar laws affecting
+creditors rights generally.
+     
+1.03     NO CONFLICT. The execution, delivery and performance of this Agreement
+are not in contravention of or in conflict with any agreement, indenture or
+undertaking to which Borrower is a party or by which it or any of its property
+may be bound or affected, and do not cause any lien, charge or other encumbrance
+to be created or imposed upon any such property by reason thereof.
+
+1.04     LITIGATION. Aside from those items listed in the attached Schedule A,
+there is no litigation or other proceeding pending or threatened against or
+affecting Borrower which if determined adversely to Borrower or its interest
+would have a material adverse effect on the financial condition of  Borrower,
+and Borrower is not in default with respect to any order, writ, injunction,
+decree or demand of any court or other governmental or regulatory authority.
+
+                                       1
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+1.05     FINANCIAL CONDITION. The balance sheet of Borrower as of May 31, 
+1997, a copy of which has heretofore been delivered to Bank by Borrower, and 
+all other statements and data submitted in writing by Borrower to Bank in 
+connection with this request for credit are true and correct, and said 
+balance sheet truly presents the financial condition of Borrower as of the 
+date thereof, and has been prepared in accordance with generally accepted 
+accounting principles on a basis consistently maintained. Since such date, 
+there have been no material adverse changes in the financial condition of 
+business of Borrower. Borrower has no knowledge of any liabilities, 
+contingent or otherwise, at such date not reflected in said balance sheet, 
+and Borrower has not entered into any special commitments or substantial 
+contracts which are not reflected in said balance sheet, other than in the 
+ordinary and normal course of its business, which may have a materially 
+adverse effect upon its financial condition, operations or business as now 
+conducted.
+     
+1.06     TITLE TO ASSETS. Borrower has good title to its assets, and the same
+are not subject to any liens or encumbrances other than those permitted by
+Section 3.03 hereof and/or listed in the attached Schedule B.
+     
+1.07     TAX STATUS. Borrower has no liability for any delinquent state, local
+or federal taxes, and, if Borrower has contracted with any government agency,
+Borrower has no liability for renegotiation of profits.
+     
+1.08     TRADEMARKS, PATENTS. Borrower, as of the date hereof, possesses all
+necessary trademarks, trade names, copyrights, patents, patent rights, and
+licenses to conduct its business as now operated, without any known conflict
+with the valid trademarks, trade names, copyrights, patents and license rights
+of others.
+     
+1.09     REGULATION U. None of the proceeds of any loan from the Bank to
+Borrower shall be used to purchase or carry margin stock (as defined within
+Regulation U of the Board of Governors of the Federal Reserve system).
+     
+2.  AFFIRMATIVE COVENANTS OF BORROWER
+     
+         Borrower agrees that so long as it is indebted to Bank, under
+borrowings, or other indebtedness, it will, unless Bank shall otherwise consent
+in writing:
+     
+2.01     RIGHTS AND FACILITIES. Maintain and preserve all rights, franchises
+and other authority adequate for the conduct of its business; maintain its
+properties, equipment and facilities in good order and repair; conduct its
+business in an orderly manner without voluntary interruption and, if a
+corporation or partnership, maintain and preserve its existence.
+
+                                       2
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+2.02     INSURANCE. Maintain public liability, property damage and workers'
+compensation insurance and insurance on all its insurable property against fire
+and other hazards with responsible insurance carriers to the extent usually
+maintained by similar businesses and/or in the exercise of  good business
+judgment and as to property insurance have Bank named as loss payee in an
+Lenders "Loss Payable" Endorsement Form 438BFU or equivalent.
+     
+2.03     TAXES AND OTHER LIABILITIES. Pay and discharge, before the same become
+delinquent and before penalties accrue thereon, all taxes, assessments and
+governmental charges upon or against it or any of its properties, and all its
+other liabilities at any time existing, except to the extent and so long as:
+     
+         a.   The same are being contested in good faith and by appropriate
+         proceedings in such manner as not to cause any materially adverse
+         effect upon its financial condition or the loss of any right of
+         redemption from any sale thereunder; and  
+
+         b.   It shall have set aside on its books reserves (segregated to the
+         extent required by generally accepted accounting practice) deemed by
+         it adequate with respect thereto.
+     
+2.04     FINANCIAL COVENANTS.
+     
+         a.   TANGIBLE NET WORTH. Maintain a minimum Tangible Net Worth of not
+         less than $30,000,000.00. "Tangible Net Worth" is defined as the
+         excess of all assets (excluding any value for goodwill, trademarks,
+         patents, copyrights, organization expense and other similar intangible
+         items), over all liabilities.
+     
+         b.   WORKING CAPITAL.  Maintain a minimum Working Capital of
+         $25,000,000.00.  "Working Capital" is defined as the excess of current
+         assets over current liabilities.
+     
+         c.   CURRENT RATIO.  Maintain a ratio of current assets to current
+         liabilities of 2.0:1.
+     
+         d.    LEVERAGE.  Maintain a maximum ratio of total debt to Tangible
+         Net Worth of 1.0:1.
+
+                                       3
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+2.05     RECORDS AND REPORTS.  Maintain a standard and modern system of
+accounting in accordance with generally accepted accounting principles on a
+basis consistently maintained; permit Bank's representatives to have access to,
+and to examine its properties, books and records at all reasonable times and
+upon reasonable notice during normal business hours; and furnish Bank:
+
+         a.   QUARTERLY FINANCIAL STATEMENT. Within forty-five (45) days after
+         the close of each quarter of each fiscal year of Borrower, commencing
+         with the quarter next ending, a balance sheet, profit and loss
+         statement, and a reconciliation of Borrower's capital accounts, as of
+         the close of such period and covering operations for the portion of
+         Borrower's fiscal year ending on the last day of such period, all in
+         reasonable detail, prepared in accordance with generally accepted
+         accounting principles on a basis consistently maintained by Borrower
+         and certified by an appropriate officer of Borrower;
+     
+         b.   ANNUAL FINANCIAL STATEMENT. As soon as available, and in any
+         event within ninety (90) days after the close of each fiscal year of
+         Borrower, a report of Company as of the close of and for each fiscal
+         year, all in reasonable detail, prepared on an audited  basis by an
+         independent certified public accountant selected by Borrower and
+         reasonably acceptable to Bank, in accordance with generally accepted
+         accounting  principles on a basis consistently maintained by Borrower
+         and certified by an appropriate officer of Borrower;
+     
+         c.   OTHER INFORMATION. Such other information relating to the affairs
+         of Borrower as the Bank reasonably may request from time to time;
+     
+         d.   MANAGEMENT LETTER.  In connection with each fiscal year end
+         financial statement furnished to Bank hereunder, any management letter
+         of Borrower's independent certified public accountant.
+     
+2.06     NOTICE OF DEFAULT. Promptly notify Bank in writing of the occurrence
+of any Event of  Default hereunder ("Event of Default") or any event which upon
+notice and lapse of time would be an Event of Default. 
+
+                                       4
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+2.07     OPERATING ACCOUNTS.  Maintain all primary U.S. accounts and banking
+relationship with Bank during the term of any loans from Bank to Borrower.
+Borrower shall maintain, or cause to be maintained, on deposit with Imperial
+Bank, non-interest bearing demand deposit balances sufficient to compensate Bank
+for all services provided by Bank. Balances shall be calculated after reduction
+for the reserve requirement of the Federal Reserve Board and uncollected funds.
+Any deficiencies shall be charged directly to the Borrower on a monthly basis.
+     
+2.08     ATTORNEY'S FEES.  Pay promptly to Bank without demand after notice,
+with interest thereon from the date of expenditure at the rate applicable to any
+loans from Bank to Borrower, reasonable attorneys' fees and all costs and
+expenses paid or incurred by Bank in collecting or compromising any such loan
+after the occurrence of an Event of Default, whether or not suit is filed.  If
+suit is brought to enforce any provision of this Agreement, the prevailing party
+shall be entitled to recover its reasonable attorneys' fees and court costs in
+addition to any other remedy or recovery  awarded by the court.
+     
+3.  NEGATIVE COVENANTS OF BORROWER
+     
+    Borrower agrees that so long as it is indebted to Bank, it will not,
+without Bank's written consent (which Bank shall not unreasonably withhold):
+     
+3.01     TYPE OF BUSINESS; MANAGEMENT. Make any substantial change in the
+character of its business; or make any change in its Chief Executive Officer or
+Chief Financial Officer.
+     
+3.02     PRIMARY LENDING RELATIONSHIP. Establish its primary lending
+relationship with any entity other than Bank.
+     
+3.03     LIENS AND ENCUMBRANCES. Other than in the ordinary course of business
+and consistent with past practices, create, incur, or assume any mortgage,
+pledge, encumbrance, lien or charge of any kind upon any asset now owned, other
+than liens for taxes not delinquent and liens in Bank's favor, except for those
+already existing as of May 31, 1997.
+     
+3.04     LOANS, SECONDARY LIABILITIES.  Make any loans or advances to any
+person or other entity other than in the ordinary and normal course of its
+business and consistent with past practices; or guarantee or otherwise become
+liable upon the obligation of any person or other entity, except by endorsement
+of negotiable instruments for deposit or collection in the ordinary and normal
+course of  its business and consistent with past practices.
+
+                                       5
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+3.05     ACQUISITION OR SALE OF BUSINESS; MERGER OR CONSOLIDATION. Except in
+the ordinary course of business, purchase or otherwise acquire assets or
+business of any person or other entity with an acquisition price in excess of
+$1,000,000.00; or liquidate, dissolve, merge or consolidate, or commence any
+proceedings therefor; or sell any significant assets except in the ordinary
+course of its  business as now conducted; or sell, lease assign or transfer any
+substantial part of its business or  fixed assets, or any property or other
+assets necessary for the continuance of its business as now conducted, including
+without limitation the selling of any dividends, property or other asset
+accompanied by the leasing back of the same.
+     
+4.  EVENTS OF DEFAULT
+     
+    The occurrence of any of the following Events of Default shall, at Bank's
+option, terminate Bank's commitment to lend and make all sums of principal and
+interest then remaining unpaid on all Borrower's indebtedness to Bank
+immediately due and payable, all without demand,  presentment or notice, all of
+which are hereby expressly waived:
+     
+4.01     FAILURE TO PAY.  Failure to pay any installment of principal or
+interest on any indebtedness of Borrower to Bank within 15 days of any due date.
+     
+4.02     BREACH OF COVENANT.  Failure of Borrower to perform any other term or
+condition of this Agreement binding upon Borrower.
+     
+4.03     BREACH OF WARRANTY.  Any of Borrower's representations or warranties
+made herein or any statement or certificate at any time given in writing
+pursuant hereto or in connection herewith  shall be false or misleading in any
+respect.
+     
+4.04     INSOLVENCY; RECEIVER OR TRUSTEE. Borrower shall become insolvent; or
+admit its inability to pay its debts as they mature; or make an assignment for
+the benefit of creditors; or apply for or consent to the appointment of a
+receiver or trustee for it or for a substantial part of its property or
+business.
+     
+4.05     JUDGMENTS, ATTACHMENTS. Any money judgment, writ or warrant of
+attachment, or similar process shall be entered or filed against Borrower or any
+of its assets and shall remain  unvacated, unbonded or unstayed for a period
+later than five days prior to the date of any proposed sale thereunder.
+
+                                       6
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+4.06     BANKRUPTCY.  Bankruptcy, insolvency, reorganization or liquidation
+proceedings or other proceedings for relief under any bankruptcy law or any law
+for the relief of debtors shall be instituted by or against Borrower and, if
+instituted against it, shall be consented to.
+
+5.  CREDIT COMMITMENT
+     
+5.01     REVOLVING CREDIT COMMITMENT. Bank agrees to make available to Borrower
+a revolving credit line of $5,000,000 (the "Revolving Credit Commitment").
+     
+5.02     DIRECT DRAWINGS. Borrower may draw up to $5,000,000 in direct drawings
+under the Revolving Credit Commitment.
+     
+5.03     LETTERS OF CREDIT.  Borrower may utilize up to $5,000,000 in
+documentary or standby letters of credit under the Revolving Credit Commitment.
+No letter of credit shall expire later than the maturity date of the Revolving
+Credit Commitment.
+     
+5.04     BANKERS' ACCEPTANCES.  As a sublimit within the Revolving Credit
+Commitment, Bank  will issue up to $4,000,000 in Bankers' Acceptance in minimum
+increments of $250,000, with tenor  not to exceed 90 days and to be  discounted
+at Bank's then prevailing Bankers' Acceptance rate plus 225 basis points.
+     
+5.05     TOTAL AVAILABILITY. The total direct drawings, letters of credit and
+Bankers' Acceptance shall not, at any one time, exceed the Revolving Credit
+Commitment.
+     
+5.06     UNUSED CREDIT COMMITMENT. Borrower shall pay a 0.50% per annum 
+non-utilization fee on the unused portion of the Revolving Credit Commitment 
+on a quarterly basis, in arrears. However, if Borrower maintains average 
+collected balances in excess of collected balances required to compensate 
+Bank for depository services rendered, in an amount equal to 10% of the 
+average Unused Credit Commitment during any quarter, Bank shall waive the 
+non-utilization fee for that quarter.
+     
+5.07     CONSECUTIVE ANNUAL OUT OF DEBT PERIOD. Borrower shall maintain a zero
+balance on the Revolving Credit Commitment for at least 30 consecutive days
+during each Borrower fiscal year.
+
+                                       7
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+6.   MISCELLANEOUS PROVISIONS
+     
+6.01     FAILURE OR INDULGENCE NOT WAIVER. No failure or delay on the part of
+Bank or any holder of any note issued by Borrower to Bank, in the exercise of
+any power, right or privilege hereunder shall operate as a waiver thereof, nor
+shall any single or partial exercise of any such power, right or privilege
+preclude other or further exercise thereof or of any other right, power or
+privilege. All rights and remedies existing under this Agreement or any note
+issued in connection with a loan that Bank may make hereunder, are cumulative
+to, and not exclusive of, any rights or remedies otherwise available.
+     
+6.02     ADDITIONAL REMEDIES. The rights, powers and remedies given to Bank
+hereunder shall  be cumulative and not alternative and shall be in addition to
+all rights, powers and remedies given to Bank by law against Borrower or any
+other person, including but not limited to Bank's rights of setoff  or banker's
+lien.
+     
+6.03     INUREMENT. The benefits of this Agreement shall inure to the
+successors and assigns of Bank and the permitted successors and assigns of
+Borrower.
+     
+6.04     APPLICABLE LAW. This Agreement and all other agreements and
+instruments required by Bank in connection therewith shall be governed by and
+construed according to the laws of the State of California, to the jurisdiction
+of whose courts the parties hereby agree to submit.
+     
+6.05     OFFSET. In addition to and not in limitation of all rights of offset
+that Bank or other holder of any note issued by Borrower in favor of Bank may
+have under applicable law, Bank or other holder of such notes shall, upon the
+occurrence of any Event of Default or any event which with the passage of time
+or notice would constitute such an Event of Default, have the right to
+appropriate and apply to the payment of the outstanding under any such note any
+and all balances, credits, deposits, accounts or monies of Borrower then or
+thereafter with Bank or other holder, within ten (10) days after the Event of
+Default, and notice of the occurrence of any Event of Default by Bank to
+Borrower.
+     
+6.06     SEVERABILITY. Should any one or more provisions of the Agreement be
+determined to be illegal or unenforceable, all other provisions nevertheless
+shall be effective.
+
+                                       8
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+6.07     TIME OF THE ESSENCE. Time is hereby declared to be of the essence of
+this Agreement and of every part hereof.
+     
+6.08     ACCOUNTING. All accounting terms shall have the meanings applied under
+generally accepted accounting principles unless otherwise specified.
+     
+6.09     REFERENCE PROVISION. a. Other than (1) nonjudicial foreclosure and all
+matters in connection therewith regarding security interests in real or personal
+property; or (ii) the appointment of a receiver, or the exercise of other
+provisional remedies (any and all of which may be initiated pursuant to
+applicable law), each controversy, dispute or claim between the parties arising
+out of or relating to this Note ("Agreement"), which controversy, dispute or
+claim is not settled in writing within thirty (30) days after the "Claim Date"
+(defined as the date on which a party subject to the Agreement gives written
+notice to all other parties that a controversy, dispute or claim exists), will
+be settled by a reference proceeding in California in accordance with the
+provisions of Section 638 ET SEG. of the California Code of Civil Procedure
+("CCP"), or their successor section, which shall constitute the exclusive remedy
+for the settlement of any controversy, dispute or claim concerning this
+Agreement, including whether such controversy, dispute or claim is subject to
+the reference proceeding and except as set forth above, the parties waive their
+rights to initiate any legal proceedings against each other in any court or
+jurisdiction other than the Superior Court in the County where the Real
+Property, if any, is located or Los Angeles County if none (the "Court"). The
+referee shall be a retired Judge of the Court selected by mutual agreement of
+the parties, and if they cannot so agree within forty-five (45) days after the
+Claim Date, the referee shall be promptly selected by the Presiding Judge of the
+Court (or his representative). The referee shall be appointed to sit as a
+temporary judge, with all of the powers of a temporary judge, as authorized by
+law, and upon  selection should take and subscribe to the oath of office as
+provided for in Rule 244 of the California Rules of Court (or any subsequently
+enacted Rule). Each party shall have one peremptory challenge pursuant to CCP
+Section 170.6. The referee shall (a) be requested to set the matter for hearing
+within sixty (60) days after the Claim Date and (b) try any and all issues of
+law or fact and report a statement of decision upon them, if possible, within
+ninety (90) days of the Claim Date. Any decision rendered by the referee will be
+final, binding and conclusive and judgment shall be entered pursuant to CCP
+Section 644 in any court in the State of California having jurisdiction. Any
+party may apply for a reference proceeding at any time after thirty (30) days
+following the notice to any other party of the nature of the controversy,
+dispute or claim, by filing a petition for a hearing and/or trial. All discovery
+permitted by this Agreement shall be completed no later than fifteen (15) days
+before the first hearing date established by the referee. The referee may extend
+such period in the event of a party's refusal to provide requested discovery for
+any reason whatsoever, including, without limitation, legal objections raised to
+such discovery 
+
+                                       9
+
+<PAGE>
+
+CREDIT AGREEMENT
+JUNE 27, 1997
+
+
+or unavailability of a witness due to absence or illness. No party shall be
+entitled to "priority" in conducting discovery. Depositions may be taken by
+either party upon seven (7) days written notice, and request for production or
+inspection of documents shall be responded to within ten (10) days after
+service. All disputes relating to discovery which cannot be resolved by the
+parties shall be submitted to the referee whose decision shall be final and
+binding upon the parties. Pending appointment of the referee as provided herein,
+the Court is empowered to issue temporary and/or provisional remedies, as
+appropriate.
+     
+b.  Except as expressly set forth in this Agreement, the referee shall
+determine the manner in which the reference proceeding is conducted including
+the time and place of all hearings, the order of presentation of evidence, and
+all other questions that arise with respect to the course of the reference
+proceeding. All proceedings and hearings conducted before the referee, except
+for trial, shall be conducted without a court reporter, except that when any
+party so requests, a court reporter will be used at any hearing conducted before
+the referee. The party making such a request shall have the obligation to
+arrange for and pay for the court reporter. The costs of the court reporter at
+the trial shall be borne equally by the parties.
+     
+c.  The referee shall be required to determine all issues in accordance with
+existing case law and the statutory laws of the State of California. The rules
+of evidence applicable to proceedings at law in the State of California will be
+applicable to the reference proceeding. The referee shall be empowered to enter
+equitable as well as legal relief, to provide all temporary and/or provisional
+remedies and to enter equitable orders that will be binding upon the parties.
+The referee shall issue a single judgment at the close of the reference
+proceeding which shall dispose of all of the claims of the parties that are the
+subject of the reference. The parties hereto expressly reserve the right to
+contest or appeal from the final judgment or any appealable order or appealable
+judgment entered by the referee. The parties hereto expressly reserve the right
+to findings of fact, conclusions of law, a written statement of decision, and
+the right to move for a new trial or a different judgment, which new trial, if
+granted, is also to be a reference proceeding under this provision.
+     
+d.  In the event that the enabling legislation which provides for appointment
+of a referee is repealed (and no successor statute is enacted), any dispute
+between the parties that would otherwise be determined by the reference
+procedure herein described will be resolved and determined by arbitration. The
+arbitration will be conducted by a retired judge of the Court, in accordance
+with the California Arbitration Act, Section 1280 through Section 1294.2 of the
+CCP as amended from time to time. The limitations with respect to discovery as
+set forth hereinabove shall apply to any such arbitration proceeding.
+
+                                      10
+
+<PAGE>
+
+6.10     MODIFICATION. This Agreement may be modified only by a writing signed
+by both parties hereto.
+     
+This Agreement is executed on behalf of the parties by duly authorized
+representatives as of August 25, 1997, and is effective as of June 27,1997.
+     
+
+
+                                  IMPERIAL BANK ("BANK")
+     
+
+                                  By:  s/s Mike Berrier
+                                     --------------------------------
+                                     Mike Berrier, Vice President
+     
+                                  Date:     September 22, 1997
+                                     --------------------------------
+
+                                  OVERLAND DATA, INC. ("BORROWER")
+
+     
+                                  By:    s/s Scott McClendon
+                                     --------------------------------
+                                     Scott McClendon, President
+     
+                                  Date:     September 19, 1997
+                                     --------------------------------
+     
+                                       11
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 11.1 COMPUTATION/PER SHARE EARNINGS (1PG)
+<TEXT>
+
+<PAGE>
+
+EXHIBIT 11.1
+COMPUTATION OF PER SHARE EARNINGS
+
+                                                     YEAR ENDED
+                                                      JUNE 30,
+                                      ------------------------------------------
+                                       1997              1996              1995
+                                      ------            ------            ------
+                                       (IN THOUSANDS, EXCEPT FOR PER SHARE DATA)
+
+Net income                            $3,100            $3,159            $  501
+                                      ------            ------            ------
+
+Weighted average number of common 
+  stock shares outstanding             7,053             4,570             3,968
+Weighted average number of 
+  preferred stock shares 
+  outstanding                          1,478             2,602             2,934
+Common stock equivalents from the 
+  issuance of options using the 
+  treasury stock method                  560               490               315
+Cheap stock adjustment                   131               195               195
+                                      ------            ------            ------
+Shares used in computing net
+  income per share                     9,222             7,857             7,412
+                                      ------            ------            ------
+Net income per share                  $ 0.34            $ 0.40            $ 0.07
+                                      ------            ------            ------
+                                      ------            ------            ------
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 21.1 SUBSIDIARIES OF THE REGISTRANT (1 PG)
+<TEXT>
+
+<PAGE>
+
+
+EXHIBIT 21.1
+SUBSIDIARIES OF THE REGISTRANT
+
+
+
+                                                            Place of
+Name of Subsidiary                                        Incorporation
+- ------------------                                        --------------
+
+Overland Data (Europe) Limited                            United Kingdom
+
+Overland Data Export Limited                              Barbados
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>5
+<DESCRIPTION>EXHIBIT 23.1
+<TEXT>
+
+<PAGE>
+                                                                   EXHIBIT 23.1
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We hereby consent to the incorporation by reference in the Registration 
+Statement on Form S-8 (No. 333-22217) of Overland Data, Inc. of our report dated
+August 4, 1997, appearing on page F-14 of this Form 10-K.
+
+/s/ Price Waterhouse LLP
+- ------------------------
+PRICE WATERHOUSE LLP
+
+San Diego, CA
+September 24, 1997
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM CONSOLIDATED
+CONDENSED STATEMENT OF OPERATIONS FOR THE 12 MONTHS ENDED JUNE 30, 1997, THE
+CONSOLIDATED CONDENSED BALANCE SHEET AS OF JUNE 30, 1997, & THE CONSOLIDATED
+CONDENSED STATEMENT OF CASH FLOWS FOR THE 12 MONTHS ENDED JUNE 30, 1997 AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          JUN-30-1997
+<PERIOD-START>                             JUL-01-1996
+<PERIOD-END>                               JUN-30-1997
+<CASH>                                          18,926
+<SECURITIES>                                         0
+<RECEIVABLES>                                   11,151
+<ALLOWANCES>                                         0
+<INVENTORY>                                     12,101
+<CURRENT-ASSETS>                                44,528
+<PP&E>                                           3,499
+<DEPRECIATION>                                       0
+<TOTAL-ASSETS>                                  48,260
+<CURRENT-LIABILITIES>                            7,795
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        33,246
+<OTHER-SE>                                       7,071
+<TOTAL-LIABILITY-AND-EQUITY>                    48,260
+<SALES>                                         59,146
+<TOTAL-REVENUES>                                     0
+<CGS>                                           38,775
+<TOTAL-COSTS>                                   38,775
+<OTHER-EXPENSES>                                15,635
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 185
+<INCOME-PRETAX>                                  4,987
+<INCOME-TAX>                                     1,887
+<INCOME-CONTINUING>                              3,100
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     3,100
+<EPS-PRIMARY>                                      .34
+<EPS-DILUTED>                                      .34
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

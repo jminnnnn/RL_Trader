@@ -1,0 +1,3613 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A3VlECkzIIt0plYaLNwbJsDZMurN2XRR7PBdo1sI8l0r4zumpjYPkOvN1GNTnlJF
+ L+KbJ/NkF6I6CwU5koesgQ==
+
+<SEC-DOCUMENT>0000088948-05-000018.txt : 20050614
+<SEC-HEADER>0000088948-05-000018.hdr.sgml : 20050613
+<ACCEPTANCE-DATETIME>20050614145136
+ACCESSION NUMBER:		0000088948-05-000018
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20050331
+FILED AS OF DATE:		20050614
+DATE AS OF CHANGE:		20050614
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SENECA FOODS CORP /NY/
+		CENTRAL INDEX KEY:			0000088948
+		STANDARD INDUSTRIAL CLASSIFICATION:	CANNED, FRUITS, VEG & PRESERVES, JAMS & JELLIES [2033]
+		IRS NUMBER:				160733425
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01989
+		FILM NUMBER:		05894593
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3736 SOUTH MAIN STREET
+		CITY:			MARION
+		STATE:			NY
+		ZIP:			14534
+		BUSINESS PHONE:		315 926 8100
+
+	MAIL ADDRESS:	
+		STREET 1:		3736 SOUTH MAIN STREET
+		CITY:			MARION
+		STATE:			NY
+		ZIP:			14505
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PIERCE S S COMPANY INC
+		DATE OF NAME CHANGE:	19861210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SENECA FOODS CORP
+		DATE OF NAME CHANGE:	19780425
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SENECA GRAPE JUICE CORP
+		DATE OF NAME CHANGE:	19710419
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a10k0305.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+
+                    Annual Report Pursuant to Section 13 or 15(d) of
+                       The Securities Exchange Act of 1934
+
+For the fiscal year-ended March 31, 2005         Commission File Number 0-01989
+
+                                SENECA FOODS CORPORATION
+                                ------------------------
+                 (Exact name of registrant as specified in its charter)
+
+       New York                                           16-0733425
+       --------                                           ----------
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+3736 South Main Street, Marion, New York                      14505
+- ----------------------------------------                      -----
+   (Address of principal executive offices)                 (Zip Code)
+
+Registrant's telephone number, including area code         (315) 926-8100
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                                   Name of
+                                                              Each Exchange on
+Title of Each Class                                           Which Registered
+- -------------------                                           ----------------
+
+      None                                                          None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                         Common Stock Class A, $.25 Par
+                         Common Stock Class B, $.25 Par
+                                (Title of Class)
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained herein, and
+will not be  contained,  to best of the  Registrant's  knowledge,  in definitive
+proxy or information  statements  incorporated  by reference in Part III of this
+Form 10-K or any amendment to the Form 10-K.   X
+
+Check mark indicates whether Registrant (1) has filed all reports required to be
+filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that registrant was required to
+file such reports), and (2) has been subject to the filing requirements for at
+least the past 90 days.
+
+
+Yes    X     No
+     -----       ------
+
+Check mark indicates whether the Company is an accelerated filer (as defined in
+Exchange Act Rule 12b-2).
+
+Yes    X     No
+     -----       ------
+
+The aggregate market value of the Registrant's voting and non-voting common
+equity held by non-affiliates based on the closing sales price per market
+reports by the National Market System on September 25, 2004 was approximately
+$103,123,000.
+
+
+Common shares outstanding as of May 30, 2005 were Class A: 3,951,717, Class B:
+2,762,905.
+
+Documents Incorporated by Reference:
+
+(1)  Proxy Statement to be issued in connection with the Registrant's annual
+     meeting of stockholders (the "Proxy Statement") applicable to Part III,
+     Items 10-14 of Form 10-K.
+
+(2)  Portions of the Annual Report to shareholders for fiscal year ended March
+     31, 2005 (the "2005 Annual Report") applicable to Part I, Part II, Items
+     5-8 and Part IV, Item 15 of Form 10-K.
+
+
+
+<PAGE>
+
+<TABLE>
+
+                                TABLE OF CONTENTS
+                      FORM 10-K ANNUAL REPORT - FISCAL 2005
+                            SENECA FOODS CORPORATION
+
+<CAPTION>
+
+PART I.                                                                                            Pages
+                                                                                                   -----
+<S>                                                                                                <C>
+
+
+   Item 1.     Business                                                                              1-3
+   Item 2.     Properties                                                                              3
+   Item 3.     Legal Proceedings                                                                       4
+   Item 4.     Submission of Matters to a Vote of Security Holders                                     4
+
+PART II.
+
+   Item 5.     Market for Registrant's Common Stock and Related Security Holder Matters
+   and Issuer Purchases of
+               Equity Securities                                                                       4
+   Item 6.     Selected Financial Data                                                               5-6
+   Item 7.     Management's Discussion and Analysis of Financial Condition and Results
+   of Operations                                                                                       5
+   Item 7A.    Quantitative and Qualitative Disclosures about Market Risk                              5
+   Item 8.     Financial Statements and Supplementary Data                                             5
+   Item 9.     Changes in and Disagreements with Accountants on Accounting and
+   Financial Disclosure                                                                                5
+   Item 9A.    Controls and Procedures                                                               6-7
+   Item 9B.    Other Information                                                                       7
+
+PART III.
+
+   Item 10.    Directors and Executive Officers of the Registrant                                      8
+   Item 11.    Executive Compensation                                                                  8
+   Item 12.    Security Ownership of Certain Beneficial Owners and Management and
+   Related Security Holder Matters                                                                     8
+   Item 13.    Certain Relationships and Related Transactions                                          8
+   Item 14.    Principal Accountant Fees and Services                                                  8
+
+
+PART IV.
+
+   Item 15.    Exhibits and Financial Statements Schedules                                         10-11
+
+SIGNATURES                                                                                            12
+
+</TABLE>
+
+
+<PAGE>
+
+
+2
+
+                           Forward-Looking Statements
+
+Except for the historical information contained herein, the matters discussed in
+this report are forward-looking  statements as defined in the Private Securities
+Litigation  Reform Act (PSLRA) of 1995.  The Company wishes to take advantage of
+the "safe harbor"  provisions of the PSLRA by cautioning that numerous important
+factors  which  involve  risks and  uncertainties,  including but not limited to
+economic,  competitive,  governmental and  technological  factors  affecting the
+Company's operations,  markets, products, services and prices, and other factors
+discussed in the Company's filings with the Securities and Exchange  Commission,
+in the future,  could affect the  Company's  actual  results and could cause its
+actual  consolidated  results to differ  materially  from those expressed in any
+forward-looking statement made by, or on behalf of, the Company.
+
+                                     PART I
+                                     Item 1
+
+                                    Business
+
+General Development of Business
+
+SENECA FOODS  CORPORATION (the "Company") was organized in 1949 and incorporated
+under the laws of the  State of New York.  In the  spring of 1995,  the  Company
+initiated a 20-year  Alliance  Agreement with the Pillsbury  Company,  which was
+acquired by General Mills Operations,  Inc. ("GMOI"), that created the Company's
+most  significant  business  relationship.  Under the  Alliance  Agreement,  the
+Company has packed  canned and frozen  vegetables  carrying  GMOI's  Green Giant
+brand name.
+
+Since the onset of the Alliance  Agreement,  vegetable  production  has been the
+Company's dominant line of business.  In fiscal 1999, the Company sold its fruit
+juice business and its applesauce and industrial  flavors business.  As a result
+of these  fiscal  1999  divestitures,  the  Company's  only  non-vegetable  food
+products are a line of fruit products.
+
+On May 27, 2003, the Company  completed the  acquisition of the sole  membership
+interest in Chiquita Processed Foods, L.L.C. from Chiquita Brands International,
+Inc.
+
+Available Information
+
+The Company's  Internet  address is  www.senecafoods.com.  The Company's  annual
+report on Form 10-K,  the  Company's  quarterly  reports  on Form 10-Q,  current
+reports  on Form 8-K and any  amendments  to those  reports  filed or  furnished
+pursuant to Section  13(a) or 15(d) of the  Securities  Exchange Act of 1934 are
+available on the Company's web site,  as soon as  reasonably  practicable  after
+they are electronically  filed with or furnished to the SEC. All such filings on
+the Company's web site are available free of charge.
+
+In  addition,   the  Company's  website  includes  items  related  to  corporate
+governance  matters,  including  charters of various  committees of the Board of
+Directors and the  Company's  Code of Business  Conduct and Ethics.  The Company
+intends to disclose on its website any  amendment to or waiver of any  provision
+of the Code of Business  Conduct and Ethics that would  otherwise be required to
+be disclosed under the rules of the SEC and NASDAQ.
+
+Financial Information about Industry Segments
+
+The Company's business activities are conducted in food and non-food operations.
+The food operation constitutes 99% of total sales, of which approximately 99% is
+vegetable  processing  and 1% is fruit  processing.  The  non-food  operation is
+mostly trade sales of cans and ends,  which represents 1% of the Company's total
+sales.
+
+Narrative Description of Business
+
+                         Principal Products and Markets
+
+Food Processing
+
+The  principal  products  of this  segment  include  canned  vegetables,  frozen
+vegetables and fruit products. The products are sold to retail and institutional
+markets.  The Company has  divided the United  States into four major  marketing
+sections:  Eastern, Southern,  Northwestern,  and Southwestern.  Food processing
+operations are primarily  supported by plant  locations in New York,  Wisconsin,
+Washington, Idaho, Illinois, and Minnesota.
+
+
+
+<PAGE>
+
+
+The following table summarizes net sales by major product category for the years
+ended March 31, 2005, 2004, and 2003:
+
+<TABLE>
+Classes of similar products/services:
+                                                    2005                  2004               2003
+- -----------------------------------------------------------------------------------------------------
+
+                                                                    (In thousands)
+<S>                                          <C>                  <C>                 <C>
+
+Net Sales:
+   GMOI                                      $        225,527     $       247,992     $      252,059
+   Canned vegetables                                  581,486             586,594            328,907
+   Frozen vegetables                                   28,304              29,410             30,422
+   Fruit and chip products                             16,674              15,347             20,784
+   Other                                               12,283              11,507             12,207
+- -----------------------------------------------------------------------------------------------------
+                                             $        864,274     $       890,850     $      644,379
+=====================================================================================================
+</TABLE>
+
+
+
+                    Source and Availability of Raw Materials
+
+
+The Company's food processing  plants are located in major  vegetable  producing
+states and in one fruit  producing  state.  Fruits and  vegetables are primarily
+obtained  through  contracts with growers.  The Company's  sources of supply are
+considered equal or superior to its competition for all of its food products.
+
+                              Intellectual Property
+
+The  Company's  most  significant  brand name,  Libby's,  is held  pursuant to a
+trademark  license  granted to the  Company in March 1982 and  renewable  by the
+Company  every 10 years for an  aggregate  period  expiring in March  2081.  The
+original licensor was Libby,  McNeill & Libby, Inc., then an indirect subsidiary
+of Nestle,  S. A.  ("Nestle") and the license was granted in connection with the
+Company's  purchase of certain of the licensor's canned vegetable  operations in
+the  United  States.  Nestle,  one of  the  world's  major  food  companies,  is
+successor-licensor.  The license is limited to vegetables which are shelf-stable
+and thermally processed,  and includes the Company's major vegetable varieties -
+corn,  peas and  green  beans - as well as  certain  other  thermally  processed
+vegetable varieties plus sauerkraut.
+
+The Company is required to pay an annual royalty,  initially set at $25,000, and
+adjustable up or down in subsequent  years based upon changes in the "Employment
+Cost  Index-Private  Nonfarm  Workers"  published  by the U. S.  Bureau of Labor
+Statistics  or  an  appropriate  successor  index  as  defined  in  the  license
+agreement.  For the year which  began in March 2005,  the  royalty was  $56,823.
+Nestle  may  terminate  the  license  for  non-payment  of  royalty,  use of the
+trademark in sales outside the licensed territory,  failure to achieve a minimum
+level of sales  under the  licensed  trademark  during  any  calendar  year or a
+material  breach or default by the  Company  under the  agreement  (which is not
+cured within the specified cure period).
+
+                                Seasonal Business
+
+
+While  individual  fruits and vegetables have seasonal cycles of peak production
+and sales, the different cycles are usually  offsetting to some extent.  Minimal
+food  processing  occurs in the Company's  last fiscal  quarter ending March 31,
+which is the optimal time for maintenance,  repairs and equipment changes in its
+processing plants. The supply of commodities,  current pricing, and expected new
+crop quantity and quality affect the timing of the Company's sales and earnings.
+When the seasonal harvesting periods of the Company's major vegetables are newly
+completed,  inventories  for these  processed  vegetables  are at their  highest
+levels.  For peas,  the peak  inventory  time is  mid-summer  and for corn,  the
+Company's highest volume vegetable, the peak inventory is in mid-autumn.  An Off
+Season  Allowance  is  established  during  the year to  minimize  the effect of
+seasonal  production  on  earnings.  The Off Season  Allowance is zero at fiscal
+year-end.
+
+                                     Backlog
+
+
+In the food  processing  business,  the end of year sales  order  backlog is not
+considered  meaningful.   Traditionally,   larger  customers  provide  tentative
+bookings for their expected  purchases for the upcoming  season.  These bookings
+are further  developed  as data on the  expected  size of the  related  national
+harvests  becomes  available.  In general,  these  bookings serve as a yardstick
+rather than as a firm commitment,  since actual harvest results can vary notably
+from early estimates.  In actual practice,  the Company has substantially all of
+its expected  seasonal  production  identified to potential sales outlets before
+the seasonal production is completed.
+
+
+
+<PAGE>
+
+
+                            Competition and Customers
+
+
+Competition  in  the  food  business  is  substantial  with  imaginative   brand
+registration  and  promotion,  quality,  service,  and  pricing  being the major
+determinants in the Company's relative market position.  The Company is aware of
+approximately 18 competitors in the U.S. processed vegetable  industry,  many of
+which are  privately  held  companies.  The Company  believes that it is a major
+producer of canned  vegetables,  but some producers of canned,  frozen and other
+modes of vegetable products have sales which exceed the Company's sales.
+
+During the past year,  approximately 10% of the Company's  processed foods sales
+were  packed  for  retail  customers  under  the  Company's  branded  labels  of
+Libby's(R),  Blue Boy(R),  Aunt Nellie's Farm Kitchen(R),  Stokely(R),  Read(R),
+Festal(R),  Diamond A(R), and Seneca(R). About 18% of processed foods sales were
+packed for institutional  food distributors and 46% were retail packed under the
+private  label of  customers.  The  remaining  26% is sold  under  the  Alliance
+Agreement  with  GMOI  (see  note  13  of  Item  8,  Financial   Statements  and
+Supplementary  Data).  Termination of the Alliance Agreement would substantially
+reduce the Company's  sales and  profitability  unless the Company were to enter
+into a new substantial supply  relationship with GMOI or another major vegetable
+marketer.   The  customers  represent  a  full  cross  section  of  the  retail,
+institutional,  distributor,  and industrial  markets;  and the Company does not
+consider  itself   dependent  on  any  single  sales  source  other  than  sales
+attributable to the Alliance Agreement.
+
+The  Company's  principal  branded  products  are its Libby's  canned  vegetable
+products,  which rate among the top five national brands.  The information under
+the heading  Results of Operations in  Management's  Discussion  and Analysis of
+Financial  Condition  and Results of  Operations  in the 2005  Annual  Report is
+incorporated by reference.
+
+                            Environmental Protection
+
+Environmental  protection is an area that has been worked on most  diligently at
+each food processing facility. In all locations, the Company has cooperated with
+federal, state, and local environmental protection authorities in developing and
+maintaining suitable  antipollution  facilities.  In general,  pollution control
+facilities are equal to or somewhat superior to those of our competitors and are
+within  environmental  protection  standards.  The  Company  does not expect any
+material capital  expenditures to comply with  environmental  regulations in the
+near future. The Company is a potentially  responsible party with respect to two
+waste disposal sites owned and operated by others. The Company believes that any
+reasonably anticipated liabilities will not exceed $437,000 in the aggregate.
+
+Environmental Litigation
+
+The Company is one of a number of business and local  government  entities which
+contributed  waste  materials to a landfill in Yates County in upstate New York,
+which was operated by a party  unrelated to the Company  primarily in the 1970's
+through the early 1980's.  The Company's  wastes were  primarily  food and juice
+products.  The landfill contained some hazardous materials and was remediated by
+the State of New York. The New York Attorney General has advised the Company and
+other known  non-governmental  waste  contributors that New York has sustained a
+total remediation cost of $4.9 million and seeks recovery of half that cost from
+the non-governmental  waste contributors.  The Company is one of four identified
+contributors who  cooperatively are investigating the history of the landfill so
+as to identify and seek out other  potentially  responsible  parties who are not
+defunct and are financially able to contribute to the non-governmental  parties'
+reimbursement liability. Until that search is completed, the Company's liability
+cannot be definitively estimated. The Company does not believe that any ultimate
+settlement  in excess of the amount  accrued will have a material  impact on its
+financial position or results of operations.
+
+                                   Employment
+
+The  Company  has 3,183  employees  of which  2,588  full time and 508  seasonal
+employees  work in food  processing  and 87 full  time  employees  work in other
+activities.
+
+The Company has six  collective  bargaining  agreements  with three union locals
+covering  approximately  825 of its  full  time  employees.  The  terms of these
+agreements  result in wages and benefits  which are  substantially  the same for
+comparable  positions for the Company's  non-union  employees.  Four  collective
+bargaining agreements expire in calendar 2008. Two agreements expire in calendar
+2006.
+
+                               Foreign Operations
+
+Export sales for the Company are a relatively  small  portion  (about 8%) of the
+food processing sales.
+
+
+
+
+<PAGE>
+
+
+                                     Item 2
+
+                                   Properties
+
+The Company has five food  processing,  packaging,  and  warehousing  facilities
+located in New York State that provide  approximately  1,608,000  square feet of
+food packaging, freezing and freezer storage, and warehouse storage space. These
+facilities process and package vegetable products. The Company is a lessee under
+a number of operating  and capital  leases for  equipment and real property used
+for processing and warehousing.
+
+Seven facilities in Minnesota, three facilities in Washington,  three facilities
+in Idaho, two facilities in Oregon, one facility in Illinois, and ten facilities
+in Wisconsin  provide  approximately  8,539,000  square feet of food  packaging,
+freezing and freezer  storage,  and warehouse  storage space.  These  facilities
+process and package various vegetable and fruit products. Most of the facilities
+are owned by the Company.
+
+All of the  properties are well  maintained and equipped with modern  machinery.
+All locations,  although  highly  utilized,  have the ability to expand as sales
+requirements justify. Because of the seasonal production cycles the exact extent
+of  utilization  is  difficult  to  measure.  In  certain   circumstances,   the
+theoretical full efficiency levels are being reached; however,  expansion of the
+number of production  days or hours could increase the output by up to 20% for a
+season.
+
+Certain of the Company's  facilities are mortgaged to financial  institutions to
+secure long-term debt and capital lease  obligations.  See Notes 4 and 5 of Item
+8, Financial Statements and Supplementary Data, for additional information about
+the Company's long-term debt and lease commitments.
+
+                                     Item 3
+
+                                Legal Proceedings
+
+During 2004, various claims totaling  approximately  $3,211,000 were asserted by
+the Fleming Companies  against the Company and a subsidiary  acquired in 2003 in
+the  Bankruptcy  proceedings in the U. S.  Bankruptcy  Court for the District of
+Delaware for  (i)receipt  of  allegedly  preferential  payments  under the U. S.
+Bankruptcy Code ($1,292,000),  (ii) receipt of alleged overpayments ($1,139,000)
+and (iii) amounts  allegedly  owing under various  vendor  promotional  programs
+($780,000). During 2005, the Company settled these claims for $399,000.
+
+On June 15, 2004, an accident occurred at the Company's  aircraft hangar located
+at the Yates County Airport in Penn Yan, New York. A collision  occurred between
+an automobile owned by an employee of an aircraft service company doing contract
+work at the Company's  hangar and two jet aircraft  standing in the hangar.  The
+incident  caused  minor  damage  to the  hangar  and  one of the  airplanes  and
+substantial  damage to the wing of the second airplane.  A corporate customer of
+the  Company's  Flight  Division  shares  ownership  with  the  Company  of  the
+less-damaged aircraft and has sole ownership of the more-damaged  aircraft.  The
+Company  does not  believe  that any  ultimate  settlement  will have a material
+impact on its financial position or results of operations.
+
+In the ordinary  course of its business,  the Company is made a party to certain
+legal proceedings seeking monetary damages. The Company does not believe that an
+adverse  decision  in any of these  proceedings  would have a  material  adverse
+impact on its  financial  position,  results of  operations  or cash flows.  See
+Environmental Litigation in Item 1 for further legal discussion.
+
+
+                                     Item 4
+
+                  Submission of Matters to a Vote of Security Holders
+
+No matters were submitted to a vote of  shareholders  during the last quarter of
+the fiscal period covered by this report.
+
+
+                                     PART II
+
+                                     Item 5
+
+Market for Registrant's Common Stock and Related Security Holder Matters and
+Issuer Purchases of Equity Securities
+
+Each class of preferred  stock  receives  preference as to dividend  payment and
+declaration over any common stock. In addition,  refer to the information in the
+2005 Annual Report,  "Shareholder  Information and Quarterly Results",  which is
+incorporated by reference.
+
+
+
+<PAGE>
+
+<TABLE>
+                      Issuer Purchases of Equity Securities
+<CAPTION>
+- ------------------- ------------------------ ----------------------- ---------------------- ----------------------
+                                                                                             Maximum Number (or
+                                                                        Total Number of      Approximate Dollar
+                                                                      Shares Purchased as     Value) or Shares
+                                                                       Part of Publicly        that May Yet Be
+                    Total Number of Shares     Average Price Paid     Announced Plans or     Purchased Under the
+      Period             Purchased (1)             per Share               Programs           Plans or Programs
+- ------------------- ------------------------ ----------------------- ---------------------- ----------------------
+                      Class A    Class B     Class A     Class B
+                      Common       Common      Common      Common
+- ------------------- ------------ ----------- ----------- ----------- ---------------------- ----------------------
+<S>                 <C>          <C>         <C>         <C>         <C>                    <C>
+
+1/01/05 - 1/31/05     12,000       3,500       $19.06      $15.79             N/A                    N/A
+- ------------------- ------------ ----------- ----------- ----------- ---------------------- ----------------------
+2/01/05 - 2/29/05          -           -           -           -              N/A                    N/A
+- ------------------- ------------ ----------- ----------- ----------- ---------------------- ----------------------
+3/01/05 - 3/31/05     34,603            -      $17.25          -              N/A                    N/A
+- ------------------- ------------ ----------- ----------- ----------- ---------------------- ----------------------
+Total                 46,603       3,500       $17.72      $15.79             N/A                    N/A
+- ------------------- ------------ ----------- ----------- ----------- ---------------------- ----------------------
+<FN>
+(1) These purchases were made in open market transactions by the trustees under
+the Seneca Foods Corporation Employees' Savings Plan and the Seneca Foods,
+L.L.C. 401(k) Retirement Savings Plan to provide employee matching contributions
+under the plans.
+</FN>
+</TABLE>
+
+
+                                     Item 6
+
+                             Selected Financial Data
+
+Refer  to the  information  in the  2005  Annual  Report,  "Five  Year  Selected
+Financial Data", which is incorporated by reference.
+
+
+                                     Item 7
+
+ Management's Discussion and Analysis of Financial Condition and Results of
+ Operations
+
+Refer to the information in the 2005 Annual Report, "Management's Discussion and
+Analysis  of  Financial   Condition  and  Results  of   Operations",   which  is
+incorporated by reference.
+
+
+                                     Item 7A
+
+           Quantitative and Qualitative Disclosures about Market Risk
+
+Refer  to  the  information  in  the  2005  Annual  Report,   "Quantitative  and
+Qualitative Disclosures about Market Risk", which is incorporated by reference.
+
+
+                                     Item 8
+
+                   Financial Statements and Supplementary Data
+
+Refer to the  information  in the 2005 Annual  Report,  "Consolidated  Financial
+Statements and Notes thereto  including Report of Independent  Registered Public
+Accounting Firms", which is incorporated by reference.
+
+
+                                     Item 9
+
+Changes in and Disagreements with Accountants on Accounting and Financial
+Disclosure
+
+None.
+
+
+
+
+<PAGE>
+
+
+                                     Item 9A
+
+                             Controls and Procedures
+
+An evaluation was performed under the supervision and with the  participation of
+our  management,  including  our Chief  Executive  Officer  and Chief  Financial
+Officer, of the effectiveness of the design and operation, as of March 31, 2005,
+of our  disclosure  controls  and  procedures,  as that term is  defined in Rule
+13a-15(e)  under the  Securities  and  Exchange  Act of 1934,  as  amended  (the
+Exchange  Act). Our  disclosure  controls and  procedures  have been designed to
+ensure that  information we are required to disclose in our reports that we file
+with the SEC under the  Exchange Act is  recorded,  processed  and reported on a
+timely basis.  Based upon this evaluation,  our chief executive  officer and our
+chief  financial  officer  concluded  that,  because of the material  weaknesses
+described below under  "Management's  Report on Internal  Control Over Financial
+Reporting,"  our  disclosure  controls and  procedures  were not effective as of
+March 31, 2005.
+
+Management's Report on Internal Control Over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal
+control  over  financial  reporting,  as that term is defined in Rule  13a-15(f)
+under the  Exchange  Act. Our internal  control  over  financial  reporting is a
+process designed to provide  reasonable  assurance  regarding the reliability of
+financial  reporting and the preparation of our company's  financial  statements
+for external  reporting  purposes in  accordance  with U.S.  generally  accepted
+accounting  principles.  Under the supervision and with the participation of our
+management,  including our Chief Executive Officer and Chief Financial  Officer,
+we conducted a review,  evaluation  and assessment of the  effectiveness  of our
+internal  control over financial  reporting as of March 31, 2005, based upon the
+criteria  set forth in Internal  Control -  Integrated  Framework  issued by the
+Committee of Sponsoring Organizations of the Treadway Commission.
+
+A  material  weakness  is a  significant  deficiency  (as  defined in the Public
+Company Accounting Oversight Board's Auditing Standard No. 2), or combination of
+significant  deficiencies,  that  results  in  there  being  more  than a remote
+likelihood  that a material  misstatement  in the  annual or  interim  financial
+statements  will not be  prevented or detected on a timely basis by employees in
+the  normal  course  of  their  work.  Management's  assessment  identified  the
+following  three  material  weaknesses  as of  March  31,  2005  related  to the
+financial statement close process:
+
+o    Insufficient controls to review the application of accounting principles
+     over the determination and calculation of asset impairments in accordance
+     with FAS 144.
+
+o    Insufficient controls over the calculation and review of accrued promotion
+     expense.
+o    Insufficient controls over the selection and monitoring of key assumptions
+     supporting accounting estimates.
+
+These  material  weaknesses  related to the  financial  statement  close process
+affect  the  following  significant  accounts:  property,  plant and  equipment,
+accrued expense,  allowance for doubtful  accounts,  inventory,  and the related
+income statement  accounts,  and could result in a material  misstatement to our
+annual or interim consolidated  financial statements that would not be prevented
+or detected.
+
+As a result of these material weaknesses, management recorded adjustments in the
+fourth  quarter of fiscal 2005 to the following  accounts:  property,  plant and
+equipment,  allowance for doubtful accounts,  accrued promotion expense, accrued
+payroll taxes, accrued unemployment  expenses,  and the related income statement
+accounts.
+
+Because of the material  weaknesses  described above,  our management  concluded
+that our internal control over financial reporting was not effective as of March
+31, 2005.  Management's assessment of the effectiveness of internal control over
+financial reporting as of March 31, 2005, has been audited by Ernst & Young LLP,
+the  Company's  independent  registered  public  accounting  firm.  Their report
+appears below.
+
+Plan to Remediate Material Weaknesses
+The Company has  dedicated  substantial  resources to the review of its internal
+control processes and procedures.  As a result of that review, the Company plans
+to take the  following  steps  toward  remediation  of the  material  weaknesses
+identified as of March 31, 2005 by: (i)  developing an internal audit process in
+the quarter  ending July 2, 2005,  which will include using a third party public
+accounting  firm; (ii)  establishing a control whereby a detailed  analysis,  in
+accordance  with the  provisions  of FAS 144, will be prepared and reviewed when
+management  identifies  an indicator  of  impairment;  (iii)  creating a control
+procedure  whereby  management will be required to provide  detailed support for
+each promotion accrual on a quarterly basis and corporate  accounting  personnel
+will be actively  involved in reviewing the  documentation  for compliance  with
+GAAP;  (iv)   implementing   control   procedures  for  the  monitoring  of  key
+assumptions, on a quarterly basis, to ensure that they are appropriate.
+
+Changes in Internal Control over Financial Reporting
+There have been no changes in the  Company's  internal  control  over  financial
+reporting  during the  fourth  quarter  that have  materially  affected,  or are
+reasonably  likely to materially  affect,  the Company's  internal  control over
+financial reporting.
+
+Report of Independent Registered Public Accounting Firm on Internal Control over
+Financial Reporting
+
+The Board of Directors and Stockholders of Seneca Foods Corporation
+
+We have audited  management's  assessment,  included in "Management's  Report on
+Internal Control over Financial  Reporting,"  that Seneca Foods  Corporation did
+not maintain effective internal control over financial reporting as of March 31,
+2005,  because  of  the  effect  of  the  material   weaknesses   identified  in
+management's  assessment and described below,  based on criteria  established in
+Internal  Control--Integrated  Framework  issued by the  Committee of Sponsoring
+Organizations  of the  Treadway  Commission  (the COSO  criteria).  Seneca Foods
+Corporation's  management is  responsible  for  maintaining  effective  internal
+control over financial  reporting and for its assessment of the effectiveness of
+internal control over financial  reporting.  Our responsibility is to express an
+opinion on management's  assessment and an opinion on the  effectiveness  of the
+Company's internal control over financial reporting based on our audit.
+
+We conducted  our audit in accordance  with the standards of the Public  Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain  reasonable  assurance  about whether  effective
+internal  control  over  financial  reporting  was  maintained  in all  material
+respects. Our audit included obtaining an understanding of internal control over
+financial reporting,  evaluating management's assessment, testing and evaluating
+the design and operating  effectiveness of internal control, and performing such
+other  procedures as we considered  necessary in the  circumstances.  We believe
+that our audit provides a reasonable basis for our opinion.
+
+A company's  internal control over financial  reporting is a process designed to
+provide reasonable  assurance  regarding the reliability of financial  reporting
+and the preparation of financial  statements for external purposes in accordance
+with generally accepted accounting principles. A company's internal control over
+financial  reporting  includes those policies and procedures that (1) pertain to
+the  maintenance  of records that, in reasonable  detail,  accurately and fairly
+reflect the  transactions  and  dispositions  of the assets of the company;  (2)
+provide  reasonable  assurance  that  transactions  are recorded as necessary to
+permit preparation of financial statements in accordance with generally accepted
+accounting  principles,  and that receipts and  expenditures  of the company are
+being made only in accordance with authorizations of management and directors of
+the company; and (3) provide reasonable assurance regarding prevention or timely
+detection of  unauthorized  acquisition,  use, or  disposition  of the company's
+assets that could have a material effect on the financial statements.
+
+Because of its inherent  limitations,  internal control over financial reporting
+may not prevent or detect misstatements.  Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become
+inadequate  because of changes in  conditions,  or that the degree of compliance
+with the policies or procedures may deteriorate.
+
+A  material  weakness  is  a  control  deficiency,  or  combination  of  control
+deficiencies,  that  results  in more than a remote  likelihood  that a material
+misstatement of the annual or interim financial statements will not be prevented
+or detected.
+
+As of March 31, 2005, three material weaknesses existed related to the financial
+statement close process:
+
+o    Insufficient controls to review the application of accounting principles
+     over the determination and calculation of asset impairments in accordance
+     with FAS 144.
+o    Insufficient controls over the calculation and review of accrued promotion
+     expense.
+o    Insufficient controls over the selection and monitoring of key assumptions
+     supporting accounting estimates.
+
+As a result of these material weaknesses, management recorded adjustments in the
+fourth  quarter of fiscal 2005 to the following  accounts:  property,  plant and
+equipment,  allowance for doubtful accounts,  accrued promotion expense, accrued
+payroll taxes, accrued unemployment  expenses,  and the related income statement
+accounts.  These material  weaknesses were considered in determining the nature,
+timing,  and extent of audit  tests  applied in our audit of the 2005  financial
+statements,  and this report  does not affect our report  dated June 10, 2005 on
+those financial statements.
+
+In our opinion,  management's  assessment that Seneca Foods  Corporation did not
+maintain  effective  internal  control over financial  reporting as of March 31,
+2005,  is fairly  stated,  in all material  respects,  based on the COSO control
+criteria. Also, in our opinion, because of the effect of the material weaknesses
+described  above on the  achievement of the objectives of the control  criteria,
+Seneca Foods  Corporation  has not maintained  effective  internal  control over
+financial reporting as of March 31, 2005 based on the COSO control criteria.
+
+/s/ Ernst & Young LLP
+Buffalo, New York
+June 10, 2005
+
+                                     Item 9B
+
+                                Other Information
+
+None.
+
+
+
+
+<PAGE>
+
+
+                                    PART III
+
+                                     Item 10
+
+                   Directors and Executive Officers of the Registrant
+
+The Company has  adopted a Code of Ethics  that  applies to the Chief  Executive
+Officer, Chief Financial Officer and Controller. The Code of Ethics is available
+on our web site www.senecafoods.com (free of charge).
+
+Additional  information  required by Item 10 will be filed  separately  with the
+Commission,  pursuant  to  Regulation  14A,  in  a  definitive  proxy  statement
+involving the election of directors, which is incorporated herein by reference.
+
+
+                                     Item 11
+
+                             Executive Compensation
+
+Information  required by Item 11 will be filed  separately  with the Commission,
+pursuant to  Regulation  14A, in a  definitive  proxy  statement  involving  the
+election of directors, which is incorporated herein by reference.
+
+
+                                     Item 12
+
+Security  Ownership  of Certain  Beneficial  Owners and  Management  and Related
+Stockholder Matters
+
+Information  required by Item 12 will be filed  separately  with the Commission,
+pursuant to  Regulation  14A, in a  definitive  proxy  statement  involving  the
+election of directors, which is incorporated herein by reference.
+
+
+                                     Item 13
+
+                     Certain Relationships and Related Transactions
+
+Information  required by Item 13 will be filed  separately  with the Commission,
+pursuant to  Regulation  14A, in a  definitive  proxy  statement  involving  the
+election of directors, which is incorporated herein by reference.
+
+
+                                     Item 14
+
+                     Principal Accountant Fees and Services
+
+Information  required by Item 14 will be filed  separately  with the Commission,
+pursuant to  Regulation  14A, in a  definitive  proxy  statement  involving  the
+election of directors, which is incorporated herein by reference.
+
+
+<PAGE>
+
+
+
+
+
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+Board of Directors and Stockholders
+Seneca Foods Corporation
+Marion, New York
+
+We have  audited the  consolidated  statements  of net  earnings,  stockholders'
+equity,  and of cash flows of Seneca Foods  Corporation  and  subsidiaries  (the
+"Company") for the year ended March 31, 2003, and have issued our report thereon
+dated  May 21,  2003;  such  consolidated  financial  statements  and  report is
+included in your 2005 Annual Report to Shareholders  and is incorporated  herein
+by  reference.  Our audit also  included the  consolidated  financial  statement
+schedule of the Company listed in Item 15 (A)(2).  This  consolidated  financial
+statement  schedule  is the  responsibility  of the  Company's  management.  Our
+responsibility is to express an opinion based on our audit. In our opinion, such
+consolidated  financial statement  schedule,  when considered in relation to the
+basic consolidated  financial  statements taken as a whole,  presents fairly, in
+all material respects, the information set forth therein.
+
+
+
+/s/Deloitte & Touche LLP
+
+
+
+Rochester, New York
+May 21, 2003
+
+
+
+
+
+<PAGE>
+
+
+
+                                     PART IV
+
+                                     Item 15
+
+                   Exhibits and Financial Statement Schedules
+
+
+A.   Exhibits,  Financial Statements, and Supplemental Schedules
+
+     1.  Financial Statements - the following consolidated financial statements
+         of the Registrant, included in the Annual Report for the year ended
+         March 31, 2005, are incorporated by reference in Item 8:
+
+         Consolidated  Statements of Net Earnings - Years ended March 31,
+         2005, 2004 and 2003
+
+         Consolidated Balance Sheets - March 31, 2005 and 2004
+
+         Consolidated  Statements  of Cash Flows - Years ended March 31, 2005,
+         2004 and 2003
+
+         Consolidated Statements of Stockholders' Equity - Years ended March 31,
+         2005, 2004 and 2003
+
+         Notes to Consolidated Financial Statements - Years ended March 31,
+         2005, 2004 and 2003
+
+         Reports of Independent Registered Public Accounting Firms
+
+
+         Pages
+
+     2. Supplemental Schedule:
+
+         Schedule II       --        Valuation and Qualifying Accounts        11
+
+Other schedules have not been filed because the conditions  requiring the filing
+do not  exist  or the  required  information  is  included  in the  consolidated
+financial statements, including the notes thereto.
+
+
+     3.             Exhibits:
+
+     No. 3    -     Articles of Incorporation and By-Laws - Incorporated by
+                    reference to exhibits 3.1, 3.2 and 3.3 the Company's Form
+                    10-Q/A filed August, 1995; as amended by exhibit 3 filed
+                    with the Company's Form 10-K filed June 1996 as amended by
+                    exhibit 3(i) to the Company's Form 8-K dated September 17,
+                    1998; as amended by exhibit 3.3 to the Company's form 8-K
+                    dated June 10, 2003.
+
+     No. 4    -     Articles   defining   the  rights  of  security   holders  -
+                    Incorporated  by  reference  to the  Company's  Form  10-Q/A
+                    filed August,  1995 as amended by amendments  filed with the
+                    Company's  Form 10-K filed June  1996.  Instrument  defining
+                    the rights of any holder of  Long-Term  Debt -  Incorporated
+                    by  reference  to  Exhibit  99 to the  Company's  Form  10-Q
+                    filed  January  1995 as  amended  by  Exhibit  No.  4 of the
+                    Company's Form 10-K filed June,  1997,  amended by Exhibit 4
+                    of the Company's  Form 10-Q and Form 10-Q/A filed  November,
+                    1997,  as amended  by  amendments  filed with the  Company's
+                    definitive  proxy  statement  filed July, 1998 as amended by
+                    the  Company's  8-K dated June 10,  2003.  The Company  will
+                    furnish,  upon request to the SEC, a copy of any  instrument
+                    defining the rights of any holder of Long-Term Debt.
+
+     No. 10   -     Material  Contracts  -  Incorporated  by  reference  to  the
+                    Company's  Form 8-K dated  February  24,  1995 for the First
+                    Amended  and  Restated  Alliance  Agreement  and  the  First
+                    Amended and  Restated  Asset  Purchase  Agreement  both with
+                    The  Pillsbury  Company  amended by the  Company's  Form 8-K
+                    dated June 11,  2002.  Incorporated  by reference to exhibit
+                    10 to the  Company's  Form 10-K filed  June 25,  2002 for an
+                    Indemnification    Agreement   dated   January   31,   2002.
+                    Incorporated  by reference to the  Company's  8-K dated June
+                    10,  2003 for the  Purchase  Agreement  by and among  Seneca
+                    Foods Corporation,  Chiquita Brands International,  Inc. and
+                    Friday Holdings, L.C.C. dated as of March 6, 2003.
+
+
+<PAGE>
+
+
+
+     No. 13   -     The  material   contained  in  the  2005  Annual  Report  to
+                    Shareholders  under  the  following  headings:   "Five  Year
+                    Selected  Financial  Data",   "Management's  Discussion  and
+                    Analysis   of   Financial    Condition    and   Results   of
+                    Operations",  "Consolidated  Financial  Statements and Notes
+                    thereto    including    Independent    Auditors'    Report",
+                    "Quantitative  and  Qualitative   Disclosures  about  Market
+                    Risk", and "Shareholder Information and Quarterly Results".
+
+     No. 21   -     List of Subsidiaries (filed herewith)
+
+     No. 23.1 -     Consent of Ernst & Young LLP (filed herewith)
+
+     No. 23.2 -     Consent of Deloitte & Touche LLP (filed herewith)
+
+     No. 31.1 -     Certification  of Kraig H.  Kayser  pursuant  to Section 302
+                    of the Sarbanes-Oxley Act of 2002 (filed herewith)
+
+     No. 31.2 -     Certification  of Philip G. Paras  pursuant  to Section  302
+                    of the Sarbanes-Oxley Act of 2002 (filed herewith)
+
+     No. 32   -     Certifications    pursuant    to   Section    906   of   the
+                    Sarbanes-Oxley Act of 2002 (filed herewith)
+
+
+
+
+
+                                   Schedule II
+
+
+<TABLE>
+                        VALUATION AND QUALIFYING ACCOUNTS
+                                 (In thousands)
+
+<CAPTION>
+                                       Balance at   Charged/    Charged to    Deductions   Balance
+                                       Beginning   (Credited)       other         from       at end
+                                       of period   to income      accounts       reserve   of period
+                                       -------------------------------------------------------------
+<S>                                    <C>         <C>           <C>          <C>          <C>
+
+
+Year-ended March 31, 2005:
+     Allowance for doubtful accounts   $    945    $    913     $      --     $ 1,233(a)   $    625
+                                       ============================================================
+
+Year-ended March 31, 2004:
+     Allowance for doubtful accounts   $    761    $    694     $     355 (b) $   155(a)   $    945
+                                       ============================================================
+
+Year-ended March 31, 2003:
+     Allowance for doubtful accounts   $    605    $    390     $      --     $   234 (a)  $    761
+                                       ============================================================
+<FN>
+(a)      Accounts written off, net of recoveries.
+
+(b)      Reclassified to accrued expense related to a liability for Chapter
+         11 preference payments received from a customer.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+         SENECA FOODS CORPORATION
+
+
+         By /s/Jeffrey L. Van Riper                    June 14, 2005
+         --------------------------                    -------------
+         Jeffrey L. Van Riper
+         Controller and Secretary
+         (Principal Accounting Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated:
+
+<TABLE>
+<CAPTION>
+    Signature                                             Title                                 Date
+    ---------                                             -----                                 ----
+<S>                                               <C>                                       <C>
+
+/s/Arthur S. Wolcott                              Chairman and Director                     June 14, 2005
+- --------------------
+Arthur S. Wolcott
+
+
+/s/Kraig H. Kayser                                President, Chief Executive Officer,       June 14, 2005
+- ------------------                                and Director
+
+Kraig H. Kayser
+
+
+/s/Philip G. Paras                                Chief Financial Officer                   June 14, 2005
+- ------------------
+Philip G. Paras
+
+
+/s/Jeffrey L. Van Riper                           Controller and Secretary                  June 14, 2005
+- -----------------------                           (Principal Accounting Officer)
+Jeffrey L. Van Riper
+
+
+/s/Arthur H. Baer                                 Director                                  June 14, 2005
+- -----------------
+Arthur H. Baer
+
+
+/s/Andrew M. Boas                                 Director                                  June 14, 2005
+- -----------------
+Andrew M. Boas
+
+
+/s/Robert T. Brady                                Director                                  June 14, 2005
+- ------------------
+Robert T. Brady
+
+
+/s/Douglas F. Brush                               Director                                  June 14, 2005
+- -------------------
+Douglas F. Brush
+
+
+/s/G. Brymer Humphreys                            Director                                  June 14, 2005
+______________________
+G. Brymer Humphreys
+
+
+/s/Susan W. Stuart                                Director                                  June 14, 2005
+- ------------------
+Susan W. Stuart
+
+</TABLE>
+
+
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>e31110k05.txt
+<DESCRIPTION>KHK CERTIFICATION
+<TEXT>
+
+
+                                  EXHIBIT 31.1
+
+                                  CERTIFICATION
+
+
+     I, Kraig H. Kayser, certify that:
+
+
+     1. I have reviewed this annual report on Form 10-K of Seneca Foods
+        Corporation;
+
+     2. Based on my knowledge, this report does not contain any untrue statement
+        of a material fact or omit to state a material fact necessary to make
+        the statements made, in light of the circumstances under which such
+        statements were made, not misleading with respect to the period covered
+        by this report;
+
+     3. Based on my knowledge, the financial statements, and other financial
+        information included in this report, fairly present in all material
+        respects the financial condition, results of operations and cash flows
+        of the Registrant as of, and for, the periods presented in this report;
+
+     4. The registrant's other certifying officer(s) and I are responsible for
+        establishing and maintaining disclosure controls and procedures (as
+        defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+        control over financial reporting (as defined in Exchange Act Rules
+        13a-15(f) and 15d-15(f)) for the registrant and have:
+
+
+              (a) Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the Registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+              (b) Designed such internal control over financial reporting, or
+                  caused such internal control over financial reporting to be
+                  designed under our supervision, to provide reasonable
+                  assurance regarding the reliability of financial reporting and
+                  the preparation of financial statements for external purposes
+                  in accordance with generally accepted accounting principles;
+
+
+              (c) Evaluated the effectiveness of the Registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+              (d) Disclosed in this report any change in the Registrant's
+                  internal control over financial reporting that occurred during
+                  the Registrant's most recent fiscal quarter (the Registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the Registrant's internal control over financial
+                  reporting; and
+
+     5. The Registrant's other certifying officer(s) and I have disclosed, based
+        on our most recent evaluation of internal control over financial
+        reporting, to the Registrant's auditors and the audit committee of the
+        Registrant's board of directors (or persons performing the equivalent
+        functions):
+
+              (a) All significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  Registrant's ability to record, process, summarize and report
+                  financial information; and
+
+              (b) Any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  Registrant's internal control over financial reporting.
+
+
+
+Dated: June 14, 2005                                   By: /s/Kraig H. Kayser
+                                                           ------------------
+                                                       Kraig H. Kayser
+                                                       President  and  Chief
+                                                       Executive Officer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>3
+<FILENAME>ex31210k05.txt
+<DESCRIPTION>PGP CERTIFICATION
+<TEXT>
+                                  EXHIBIT 31.2
+
+
+
+                                  CERTIFICATION
+
+
+
+I, Philip G. Paras, certify that:
+
+     1. I have reviewed this annual report on Form 10-K of Seneca Foods
+        Corporation;
+
+     2. Based on my knowledge, this report does not contain any untrue statement
+        of a material fact or omit to state a material fact necessary to make
+        the statements made, in light of the circumstances under which such
+        statements were made, not misleading with respect to the period covered
+        by this report;
+
+     3. Based on my knowledge, the financial statements, and other financial
+        information included in this report, fairly present in all material
+        respects the financial condition, results of operations and cash flows
+        of the Registrant as of, and for, the periods presented in this report;
+     4. The registrant's other certifying officer(s) and I are responsible for
+        establishing and maintaining disclosure controls and procedures (as
+        defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+        control over financial reporting (as defined in Exchange Act Rules
+        13a-15(f) and 15d-15(f)) for the registrant and have:
+
+               (a)Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the Registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+              (b) Designed such internal control over financial reporting, or
+                  caused such internal control over financial reporting to be
+                  designed under our supervision, to provide reasonable
+                  assurance regarding the reliability of financial reporting and
+                  the preparation of financial statements for external purposes
+                  in accordance with generally accepted accounting principles;
+
+
+              (c) Evaluated the effectiveness of the Registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+              (d) Disclosed in this report any change in the Registrant's
+                  internal control over financial reporting that occurred during
+                  the Registrant's most recent fiscal quarter (the Registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the Registrant's internal control over financial
+                  reporting; and
+
+     5. The Registrant's other certifying officer(s) and I have disclosed, based
+        on our most recent evaluation of internal control over financial
+        reporting, to the Registrant's auditors and the audit committee of the
+        Registrant's board of directors (or persons performing the equivalent
+        functions):
+
+              (a) All significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  Registrant's ability to record, process, summarize and report
+                  financial information; and
+
+              (b) Any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  Registrant's internal control over financial reporting.
+
+
+Dated: June 14, 2005                                   By:/s/Philip G. Paras
+                                                          --------------------
+                                                       Philip G. Paras
+                                                       Chief Financial Officer
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>4
+<FILENAME>e3210k05.txt
+<TEXT>
+
+
+                                   EXHIBIT 32
+
+
+                            CERTIFICATION PURSUANT TO
+                            18. U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                     SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+
+         In connection with the Annual Report of Seneca Foods Corporation
+(the"Registrant") on Form 10-K for the period ended March 31, 2005 as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), we,
+Kraig H. Kayser, Chief Executive Officer and Philip G. Paras, Chief Financial
+Officer of the Registrant, certify, pursuant to 18 U.S.C. 1350, as adopted
+pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to our knowledge:
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and
+
+(2) The information contained in the report fairly presents, in all material
+respects, the financial condition and results of operations of the Registrant.
+
+                                                       /s/Kraig H. Kayser
+                                                       -----------------------
+                                                       Kraig H. Kayser
+                                                       Chief Executive Officer
+                                                       June 14, 2005
+
+
+                                                       /s/ Philip G. Paras
+                                                       -----------------------
+                                                       Philip G. Paras
+                                                       Chief Financial Officer
+                                                       June 14, 2005
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<FILENAME>ex23110k05.txt
+<DESCRIPTION>ERNST & YOUNG LLP CONSENT
+<TEXT>
+
+
+                                  Exhibit 23.1
+
+
+          CONSENT AND REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+
+
+
+Board of Directors
+Seneca Foods Corporation
+
+We consent to the  incorporation  by reference in this Annual Report (Form 10-K)
+of Seneca Foods  Corporation of our report dated June 10, 2005,  with respect to
+the consolidated  financial statements of Seneca Foods Corporation,  included in
+the 2005 Annual Report to Shareholders of Seneca Foods Corporation.
+
+Our audits also included the financial  statement schedules for the fiscal years
+ended  March  31,  2005 and 2004 of  Seneca  Foods  Corporation  listed  in Item
+15(A)(2).  These schedules are the responsibility of Seneca Foods  Corporation's
+management.  Our responsibility is to express an opinion based on our audits. In
+our opinion,  as to which the date is June 10,  2005,  the  financial  statement
+schedules  referred to above, when considered in relation to the basic financial
+statements  taken  as a whole,  present  fairly  in all  material  respects  the
+information set forth therein.
+
+We consent to the  incorporation  by  reference  in the  following  Registration
+Statements:
+
+(1) Registration Statement (Form S-3/A No. 333-120982) of Seneca Foods
+    Corporation,
+(2) Post-Effective Amendment No. 1 of Registration Statement (Form
+    S-8 No. 333-12365) pertaining to the Seneca Foods Corporation Employees'
+    Savings Plan, and
+(3) Registration  Statement (Form S-8 No. 333-114097) pertaining to the Seneca
+    Foods, L.L.C. 401(k) Retirement Savings Plan;
+
+of our report dated June 10, 2005,  with respect to the  consolidated  financial
+statements of Seneca Foods  Corporation  incorporated  herein by reference,  our
+report  dated  June  10,  2005,   with  respect  to  Seneca  Foods   Corporation
+management's  assessment of the effectiveness of internal control over financial
+reporting and the effectiveness of internal control over financial  reporting of
+Seneca  Foods  Corporation,  included  herein,  and our report  included  in the
+preceding  paragraph with respect to the financial statement schedules of Seneca
+Foods  Corporation  included in this Annual  Report  (Form 10-K) of Seneca Foods
+Corporation.
+
+                                          /s/Ernst & Young LLP
+
+
+Buffalo, New York
+June 14, 2005
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>6
+<FILENAME>ex23210k05.txt
+<DESCRIPTION>DELOITTE & TOUCHE LLP CONSENT
+<TEXT>
+
+                                  Exhibit 23.2
+
+            CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+
+
+We consent to the  incorporation by reference in Post Effective  Amendment No. 1
+of Registration  Statement No. 333-12365 on Form S-8, Registration Statement No.
+333-114097 on Form S-8 and Registration  Statement No.  333-120982 on Form S-3/A
+of our  reports  dated May 21,  2003,  relating  to the  consolidated  financial
+statements  and  consolidated  financial  statement  schedule  of  Seneca  Foods
+Corporation and subsidiaries for the year ended March 31, 2003, appearing in and
+incorporated  by  reference  in this Annual  Report on Form 10-K of Seneca Foods
+Corporation and subsidiaries for the year ended March 31, 2005.
+
+
+
+
+/s/Deloitte & Touche LLP
+
+Rochester, New York
+June 14, 2005
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>7
+<FILENAME>ex1310k05.txt
+<TEXT>
+<TABLE>
+Five Year Selected Financial Data
+
+Summary of Operations and Financial Condition
+(In thousands, except per share data)
+<CAPTION>
+
+ Years ended March 31,                                2005           2004         2003          2002           2001
+- -------------------------------------------------------------------------------------------------------------------
+<S>                                                <C>          <C>           <C>          <C>            <C>
+
+ Net sales                                         $864,274     $890,850      $644,379     $ 651,075      $ 674,300
+- -------------------------------------------------------------------------------------------------------------------
+
+ Operating earnings (before interest and
+    other (income) expense, net)                  $  24,868      $36,476       $33,035     $  20,406      $  20,795
+ Net earnings                                         7,907       12,941         9,050         1,140            813
+- -------------------------------------------------------------------------------------------------------------------
+
+ Basic earnings per common share                        .71         1.18           .89           .11            .08
+ Diluted earnings per common share                      .70         1.17           .88           .11            .08
+- ------------------------------------------------------------------------------------------------------------------
+
+ Working capital                                   $205,430     $187,764      $172,382      $163,606       $163,367
+ Inventories                                        294,470      270,283       141,649       181,835        229,170
+ Net property, plant, and equipment                 163,290      181,907       132,969       155,189        167,450
+ Total assets                                       524,495      533,903       379,540       403,576        444,233
+ Long-term debt and capital lease
+    obligations                                     154,125      160,987       133,337       156,100        171,346
+ Stockholders' equity                               195,809      190,249       159,364       151,123        149,759
+ ------------------------------------------------------------------------------------------------------------------
+
+ Additions to property, plant, and equipment    $      14,415   $ 23,109      $  6,832     $  13,423      $  15,395
+ Interest expense, net                                 16,592     16,135        13,757        17,441         18,662
+ ------------------------------------------------------------------------------------------------------------------
+
+ Net earnings/average equity                             4.1%        7.4%          5.8%          0.8%           0.5%
+ Earnings before taxes/sales                             1.4%        2.3%          2.3%          0.3%           0.2%
+ Net earnings/sales                                      0.9%        1.5%          1.4%          0.2%           0.1%
+ Long-term debt/equity                                    79%         85%           84%          103%           114%
+ Current ratio                                         2.3:1       2.2:1         3.4:1         3.0:1          2.5:1
+ ------------------------------------------------------------------------------------------------------------------
+
+ Stockholders'equity per common share             $    20.77  $    19.97       $ 17.64      $  16.46      $   16.26
+ Class A National Market System
+    closing price range                         20.00-16.75  21.97-16.20   18.75-10.75   14.75-11.50    15.25-11.00
+ Class B National Market System
+    closing price range                         19.45-16.99  22.88-16.85   18.38-12.75   14.78-12.00    14.88-10.75
+ Common cash dividends declared per share               -              -             -             -              -
+ Price earnings ratio                                  23.8         16.0          13.6          84.3          110.2
+ ------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations
+
+OVERVIEW
+
+Our Business
+
+Seneca  Foods  is  the  world's  leading  producer  and  distributor  of  canned
+vegetables. Canned vegetables are sold nationwide in all channels serving retail
+markets,  certain  export  markets,  the food service  industry,  and other food
+processors.  Canned vegetables represent 89% of the Company's sales. The Company
+maintains  a number one share in the  private  label,  food  service  and export
+canned  vegetable  markets;  and a number three  position in the branded  canned
+vegetable market. Our Company also supplies canned and frozen vegetable products
+to General Mills  Operations,  Inc.  ("GMOI")  under an Alliance  Agreement.  In
+addition,  our Company is the supplier of frozen vegetable products  principally
+to the food  service  industry,  and fruit and snack chip  products  principally
+serving retail markets and other food processors.
+
+Currently, our business strategies are designed to maintain our market share and
+enhance our sales and  margins  and  include:  (1)  position  the Company as the
+low-cost,  high quality producer of canned vegetables through the elimination of
+costs from our supply chain and  investment in  state-of-the-art  production and
+logistical  technology;   (2)  effective  integration  of  the  recent  Chiquita
+Processed Foods  acquisition ("the  Acquisition");  (3) drive growth in earnings
+through the use of cash flow to de-leverage the balance sheet;  and (4) focus on
+our growth segments to capitalize on their higher expected returns.
+
+- -
+
+<PAGE>
+
+
+
+
+The Acquisition
+
+On May 27, 2003, the Company completed its acquisition of 100% of the membership
+interest in Chiquita  Processed  Foods,  L.L.C.  ("CPF")  from  Chiquita  Brands
+International,   Inc.  The  rationale  for  the  acquisition  was  twofold:  (1)
+strengthen the Company's  market position in the canned vegetable  segment;  and
+(2) improve the Company's cost structure through the realization of cost savings
+by eliminating  duplicative  functions and combining the purchasing power of the
+two companies.  The purchase price totaled $126.1 million plus the assumption of
+certain  liabilities.  This acquisition was financed with cash,  proceeds from a
+new $200.0 million revolving credit facility, and $16.1 million of the Company's
+Participating  Convertible  Preferred  Stock. The Preferred Stock is convertible
+into the  Company's  Class A Common  Stock on a  one-for-one  basis  subject  to
+antidilution  adjustments.  The  Preferred  Stock was valued at $16.60 per share
+based  on the  market  value  of the  Class  A  Common  Stock  at the  time  the
+acquisition was announced.
+
+Purchase Price Allocation
+
+The purchase  price to acquire CPF was allocated  based on the fair value of the
+assets and liabilities  acquired.  The Company obtained an independent valuation
+of its property,  plant and equipment,  and internally determined the fair value
+of its other assets and  liabilities.  The purchase  price of $130.3 million has
+been calculated as follows (in millions):
+
+Cash                                                 $   110.0
+Issuance of convertible preferred stock                   16.1
+Closing costs                                              4.2
+                                                     ---------
+Purchase Price                                       $   130.3
+                                                     =========
+
+The total purchase price of the transaction has been allocated as follows:
+
+Current assets                                       $   137.8
+Property, plant and equipment                             87.8
+Other assets                                               6.5
+Current liabilities                                      (69.6)
+Long-term debt                                           (27.9)
+Other non-current liabilities                             (4.3)
+                                                     ---------
+Total                                                $   130.3
+                                                     =========
+
+Restructuring
+
+After a  comprehensive  review of our  production  capacities  following the CPF
+acquisition,  the  Company  completed  a  plant  restructuring  program  in 2005
+resulting in a restructuring  charge of $7.7 million.  The restructuring  charge
+consisted of a non-cash  impairment  charge of $7.0 million and a cash severance
+charge  of $0.7  million  which  are  included  in  Plant  Restructuring  in the
+Consolidated  Statement of Net Earnings.  This restructuring program principally
+involved the closure of three processing facilities including a green bean plant
+in upstate New York and corn plants in Wisconsin  and  Washington.  In addition,
+the Company restructured the newly acquired Payette,  Idaho facility through the
+removal  of canned  meat  production  to focus  exclusively  on dry  beans.  The
+rationalization  of the  Company's  productive  capacity  will:  1) improve  the
+Company's overall cost structure and competitive position; 2) address the excess
+capacity  situation arising from the recent  acquisition of CPF; and 3) mitigate
+the effect of  inflationary  pressures on the Company's raw material inputs such
+as steel and fuel.
+
+The  closure  of the  Washington  corn  processing  facility  coincided  with an
+amendment to the Alliance  Agreement with GMOI. Under the above  amendment,  the
+Blue Earth,  Minnesota facility was removed from the Alliance Agreement due to a
+reduction in GMOI volume  requirements  and will be operated by the Company as a
+non-Alliance facility. Additionally, GMOI agreed to reimburse the Company in the
+future for remaining  lease and  depreciation  costs at the Blue Earth  facility
+which, on a net present value basis,  approximate  the closure costs  associated
+with the Washington facility.
+
+Divestitures
+
+The Company sold three former Chiquita Processed Foods plants and related assets
+to Lakeside Foods,  Inc. on June 17, 2003. The Company sold one additional plant
+of Chiquita Processed Foods and related assets to Lakeside Foods, Inc. on August
+6, 2003.  The  aforementioned  divestitures  to Lakeside Foods  generated  $46.0
+million in cash  proceeds,  which was used to pay down debt.  The  Company  sold
+additional  plant  locations and related assets that were  previously  closed by
+Chiquita  Processed Foods and designated as assets held for sale during 2005 and
+2004,  generating  $1.6 million and $2.5  million,  respectively  in  additional
+proceeds used for debt repayment.
+
+Liquidity and Capital Resources
+
+The  Company's  primary  cash  requirements  are to make  payments  on our debt,
+finance  seasonal  working  capital  needs  and to  make  capital  expenditures.
+Internally  generated funds and amounts under our revolving  credit facility are
+our primary sources of liquidity.
+
+Revolving Credit Facility
+
+On May 27, 2003, in connection with the Acquisition,  the Company entered into a
+$200.0 million  five-year  floating rate secured  revolving credit facility (the
+"Revolver")  with  several  lenders,  under which $118.2  million was  initially
+borrowed.  As of March 31,  2005,  the  outstanding  balance on the Revolver was
+$60.7 million. In order to maintain availability of funds under the facility, we
+pay a commitment fee on the unused portion of the Revolver. The Revolver is used
+to fund our seasonal  working  capital needs,  which are affected by the growing
+cycles of the vegetables we process. The vast majority of vegetable  inventories
+are produced during the harvesting and packing months of May through October and
+depleted through the remaining six months. Accordingly,  our need to draw on the
+Revolver may  fluctuate  significantly  throughout  the year. As a result of the
+additional liquidity generated by the aforementioned  divestitures,  the Company
+provided  notice to its bank  lenders  during  the first  quarter in 2005 of its
+intention to reduce the revolving  credit facility from $200.0 million to $150.0
+million.  Correspondingly,  the Company  took a non-cash  charge of $0.5 million
+reflecting the write-down of the pro-rata  amount of deferred  financing  costs,
+which is included in Other Income (net) in the  Consolidated  Statements  of Net
+Earnings.  During the fourth quarter of 2005, the Company provided notice to its
+bank lenders of its intention to further  reduce the revolving  credit  facility
+from $150.0 million to $125.0 million and took a non-cash charge of $0.2 million
+reflecting  the  write-down  of the  corresponding  pro-rata  amount of deferred
+financing  costs,  which is included in Other Income  (net) in the  Consolidated
+Statements  of Net  Earnings.  Subsequent  to 2005 year end, the Company and its
+lenders  extended the term of the Revolver for an  additional  year with a final
+maturity date of May 27, 2009.
+
+We believe that cash flows from operations and  availability  under our Revolver
+will provide  adequate  funds for our working  capital  needs,  planned  capital
+expenditures and debt service obligations for at least the next 12 months.
+
+Long-Term Debt
+
+On June 24, 2004,  the Company  issued a mortgage to GE Capital for $8.0 million
+with an interest rate of 6.35% and a term of 15 years. The proceeds were used to
+finance new warehouse  construction  in Janesville and Cambria,  Wisconsin.  The
+Company did not issue any other significant long-term debt in 2005. During 2004,
+the Company  refinanced  $42.5 million of debt  outstanding  under the revolving
+credit facility with new term debt from John Hancock Life Insurance Company.  At
+issuance, the John Hancock note totaled $75.0 million and included the refinance
+of $32.5  million in existing  John  Hancock  debt.  The John Hancock note has a
+fixed interest rate of 8.03%, a fifteen-year amortization and a ten-year term.
+
+The Company has two major long-term debt instruments: 1) a $70.9 million secured
+note payable to John Hancock Life  Insurance  Company,  with an interest rate of
+8.03%,  which is due through 2014;  and 2) a $46.6 million  secured  nonrecourse
+note payable to GMOI, with an interest rate of 8%, which is due through 2010.
+
+At March 31, 2005, scheduled maturities of long-term debt in each of the five
+succeeding fiscal years are as follows (in thousands):
+
+                                  2006      $14,896
+                                  2007        9,101
+                                  2008        8,956
+                                  2009        9,151
+                                  2010       38,110
+
+Restrictive Covenants
+
+Our credit  facilities  contain  covenants  that  restrict  our  ability and the
+ability of our subsidiaries to incur additional  indebtedness,  pay dividends on
+and  redeem  our  capital  stock,  make  other  restricted  payments,  including
+investments,  sell our assets, incur liens, transfer all or substantially all of
+our assets and enter into consolidations or mergers.  Our credit facilities also
+require us to meet  certain  financial  tests,  including  minimum  fixed charge
+coverage,  minimum  interest  coverage  and  maximum  total debt  ratios.  These
+financial  requirements  and ratios generally become more restrictive over time,
+subject to allowances for seasonal  fluctuations.  We are in compliance with all
+such financial covenants, and were in compliance therewith as of March 31, 2005.
+The most restrictive  financial covenant in the credit agreements is the minimum
+fixed charge coverage ratio.
+
+Capital Expenditures
+
+Capital  expenditures  in 2005 totaled $14.4 million and include $7.4 million of
+construction  costs for three warehouse  expansion projects in Geneva, New York,
+Janesville,   Wisconsin,   and  Cambria,   Wisconsin   together  with  equipment
+replacement and cost saving projects. Capital expenditures in 2004 totaled $23.1
+million and  include  $7.2  million of  construction  in  progress on  warehouse
+expansion  projects in Janesville  and Cambria plus  equipment  replacement  and
+other improvements, and economic return and cost saving projects. The total cost
+of the Geneva,  Janesville and Cambria warehouse projects over the two years was
+$14.8 million.
+
+Inventories
+
+In 2005,  inventories increased by $24.2 million primarily reflecting the effect
+of unit cost increases for key commodity inputs  including steel and energy.  In
+2004, inventories increased by $125.5 million primarily reflecting the effect of
+seasonal  production  from the eight  plants  acquired  in the CPF  acquisition.
+Inventories  consist  primarily of finished  canned  vegetable  products and raw
+materials and supplies including cans and ends.
+
+Critical Accounting Policies
+
+During the year ended 2005, the Company sold for cash, on a bill and hold basis,
+$176.5 million of Green Giant  finished goods  inventory to GMOI. At the time of
+the sale of the Green Giant vegetables to GMOI, title of the specified inventory
+transferred to GMOI. In addition,  the  aforementioned  finished goods inventory
+was  complete,  ready for  shipment  and  segregated  from the  Company's  other
+finished  goods  inventory.  Further,  the  Company  had  performed  all  of its
+obligations with respect to the sale of the specified Green Giant finished goods
+inventory.
+
+Trade  promotions  are an important  component of the sales and marketing of the
+Company's  branded  products,  and are critical to the support of the  business.
+Trade promotion costs,  which are recorded as a reduction of net sales,  include
+amounts paid to encourage  retailers to offer temporary price reductions for the
+sale of our  products to  consumers,  amounts paid to obtain  favorable  display
+positions in retailers' stores, and amounts paid to retailers for shelf space in
+retail stores.  Accruals for trade promotions are recorded primarily at the time
+of sale of product to the  retailer  based on  expected  levels of  performance.
+Settlement of these liabilities typically occurs in subsequent periods primarily
+through an authorized  process for  deductions  taken by a retailer from amounts
+otherwise due to us. As a result, the ultimate cost of a trade promotion program
+is dependent on the relative  success of the events and the actions and level of
+deductions  taken by  retailers  for amounts they  consider  due to them.  Final
+determination of the permissible deductions may take extended periods of time.
+
+The Company assesses its long-lived  assets for impairment  whenever there is an
+indicator of  impairment.  Property,  plant and equipment are  depreciated  over
+their  assigned  lives.  The assigned lives and the projected cash flows used to
+test impairment are subjective.  If actual lives are shorter than anticipated or
+if future cash flows are less than anticipated,  a future impairment charge or a
+loss on  disposal  of the  assets  could  be  incurred.  Impairment  losses  are
+recognized when the carrying value of an asset exceeds its fair value.
+
+Obligations and Commitments
+
+As of March  31,  2005,  the  Company  is  obligated  to make cash  payments  in
+connection with our capital leases,  debt, and operating  leases.  The effect of
+these  obligations  and  commitments  on our  liquidity and cash flows in future
+periods are listed below. All of these  arrangements  require cash payments over
+varying periods of time.  Certain of these  arrangements are cancelable on short
+notice and others require termination or severance payments as part of any early
+termination.
+
+<TABLE>
+                                               Contractual Obligations
+                                                     March 31, 2005
+<CAPTION>
+                                                                                                    2011
+                                     2006              2007-8                2009-10             and beyond
+                                     ----------------------------------------------------------------------
+<S>                               <C>                 <C>                    <C>                 <C>
+
+Long-term debt                    $14,896             $18,057                $47,261                $83,001
+Interest                           14,019              25,513                 19,850                 33,752
+Notes payable                           -                   -                 60,733                      -
+Operating lease obligations        18,415              27,922                 18,888                 15,049
+Pension                                 -               2,009                  2,331                  7,371
+Purchase commitments              122,466                   -                      -                      -
+Capital lease obligations             775               1,527                  1,105                  3,175
+                                 --------------------------------------------------------------------------
+Total                            $170,571             $75,028               $150,168               $142,348
+                                 --------------------------------------------------------------------------
+</TABLE>
+
+
+We have no material off-balance sheet debt or other unrecorded obligations other
+than the items noted in the above table.
+
+Standby Letters of Credit
+
+We have standby letters of credit for certain insurance-related requirements and
+capital leases.  The majority of our standby letters of credit are automatically
+renewed annually,  unless the issuer gives  cancellation  notice in advance.  On
+March 31, 2005, we had $6.2 million in outstanding standby letters of credit.
+
+Cash Flows
+
+In 2005,  our cash and cash  equivalents  increased  by $0.6  million,  which is
+primarily  due  to the  net  impact  of  $18.0  million  provided  by  operating
+activities,  $8.2 million used in investing activities, and $9.2 million used by
+financing activities.
+
+Operating Activities
+
+Cash  provided by operating  activities  increased to $18.0 million in 2005 from
+$1.6 million in 2004.  The increase is primarily a function of the negative cash
+flow impact in 2004  associated with the inventory  increase  related to the CPF
+acquisition  partially  offset by lower  operating  earnings  in 2005.  The cash
+requirements  of the business  fluctuate  significantly  throughout  the year to
+coincide with the seasonal  growing cycles of  vegetables.  The vast majority of
+the  inventories  are  produced  during the  packing  months,  from May  through
+October,  and then  depleted  during the  remaining  six months.  Cash flow from
+operating activities is one of our main sources of liquidity.
+
+Cash provided by operating  activities  decreased  from $68.8 million in 2003 to
+$1.6 million in 2004. The decrease reflects higher inventory balances associated
+with  the  seasonal  production  from  the  eight  plants  acquired  in the  CPF
+acquisition, which were primarily funded through the issuance of debt.
+
+Investing Activities
+
+Cash  used in  investing  activities  was  $8.2  million  in  2005,  principally
+reflecting  capital  expenditures  partially  offset by $6.2 million in proceeds
+from the sale of assets  including  $4.6 million from the sale of Class B Common
+Stock of Moog Inc. Capital expenditures  aggregated $14.4 million in 2005 versus
+$23.1  million  in  2004.  Capital  expenditures  were  unusually  high  in 2004
+reflecting a significant  number of equipment upgrades and other improvements in
+connection  with  the CPF  acquisition.  Capital  expenditures  in 2005 and 2004
+included $7.4 million and $7.2  million,  respectively  for warehouse  expansion
+projects. This included the completion of the Janesville and Cambria,  Wisconsin
+projects started in 2004 and a Geneva, New York warehouse expansion.
+
+Cash  used in  investing  activities  was  $85.9  million  for  2004,  primarily
+reflecting the cash  requirements  of the CPF  acquisition  partially  offset by
+proceeds from the sale of assets  primarily  involving the  divestiture  of four
+plants to Lakeside Foods. Capital expenditures  aggregated $23.1 million in 2004
+versus $6.8 million in 2003. The increase is primarily attributable to equipment
+replacement  and other  improvements  at the former CPF locations  together with
+$7.2 million of construction in progress on two warehouse  expansion projects in
+Janesville and Cambria, Wisconsin.
+
+Cash  used in  investing  activities  was  $6.2  million  in  2003,  principally
+reflecting capital expenditures.
+
+Financing Activities
+
+Cash  used  in  financing  activities  was  $9.2  million  in  2005  principally
+consisting of the repayment of $21.9 million in long-term debt partially  offset
+by the $9.1 million in proceeds from long-term debt.
+
+Cash provided by financing activities was $23.9 million in 2004. During 2004, we
+borrowed cash to fund the CPF acquisition. Cash used in financing activities was
+$22.6 million in 2003 principally reflecting debt repayment.
+
+RESULTS OF OPERATIONS
+
+Fiscal 2005 versus Fiscal 2004
+
+
+Classes of similar
+products/services:                 2005                2004                2003
+- -------------------------------------------------------------------------------
+                                                 (In thousands)
+Net Sales:
+GMOI                           $ 225,527           $ 247,992           $ 252,059
+Canned vegetables                581,486             586,594             328,907
+Frozen vegetables                 28,304              29,410              30,422
+Fruit and chip products           16,674              15,347              20,784
+Other                             12,283              11,507              12,207
+- --------------------------------------------------------------------------------
+                               $ 864,274           $ 890,850           $ 644,379
+================================================================================
+
+
+Net sales for fiscal 2005 decreased $26.6 million, or 3%, from $890.9 million to
+$864.3 million.  The decrease  primarily  reflects a planned  reduction of $22.5
+million in GMOI production  which was exacerbated by the poor sweet corn growing
+conditions  in the  summer  of 2004.  In  addition,  we  experienced  a  planned
+reduction  of $15.0  million in canned  vegetable  co-pack  volume  reflecting a
+strategic decision by the Company to exit certain unprofitable co-pack business.
+Although 2004 included only 10 months of CPF acquisition-related sales activity,
+the sales  retention rate from the  acquisition  was higher in 2004,  reflecting
+volume associated with plants that were ultimately divested to Lakeside Foods.
+
+Cost of product sold as a percentage  of sales  increased  from 92.2% in 2004 to
+92.6% in 2005.  The  increase  in the  percentage  of the cost of  product  sold
+reflects higher  production  costs in fiscal 2005  associated  with  unfavorable
+manufacturing  variances  principally  the result of commodity  inflation in key
+inputs such as steel, natural gas, and fuel. In addition,  last summer and fall,
+we experienced a difficult  growing season due to lower average  temperatures in
+August which impacted crop yields,  plant recovery rates and further resulted in
+certain  contracted  raw  produce  being  unable  to be  harvested.  The cost of
+implementing the Sarbanes-Oxley Act of 2002, which totaled $2.5 million in 2005,
+was also a significant factor in the cost increase.  Furthermore,  the cost of a
+product  recall,  initiated  in the  second  quarter of 2005,  amounted  to $1.4
+million.  Finally,  we were unable to fully pass along those higher costs to our
+customers,  since many of our customer  contracts are  semi-annual and annual in
+nature.
+
+Selling,  general and  administrative  expense remained at 3.7% of sales, as the
+negative impact of the sales reduction was offset by effective expense control.
+
+Interest  expense  increased from $16.1 million in 2004 to $16.6 million in 2005
+primarily reflecting a full year of acquisition-related debt in 2005.
+
+Plant  restructuring  costs were $7.7 million in 2005  primarily  involving  the
+closure of three processing  facilities which are detailed in the  Restructuring
+Program section above. As a result of the CPF acquisition,  the Company was able
+to complete some plant  consolidations  which will result in substantial savings
+by moving the volumes into other plants with minimal capital investment.
+
+Other income of $3.8 million in 2005  reflects the gain on the sale of Moog Inc.
+stock of $3.9 million and the sale of certain fixed assets of $0.6 million. This
+was  partially  offset by a  non-cash  charge  of $0.7  million  reflecting  the
+write-down  of deferred  financing  costs  associated  with the reduction of the
+Revolver from $200 million to $125 million. Other income of $0.2 million in 2004
+reflects the gain on the sale of certain fixed assets.
+
+As a result of the above factors,  pre-tax earnings decreased from $20.5 million
+in 2004 to $12.0  million in 2005.  The effective tax rate was 34.3% in 2005 and
+37.0% in 2004. The 2005 effective tax rate reduction is a result of the reversal
+of certain tax reserves which were no longer required.
+
+
+<PAGE>
+
+
+
+Fiscal 2004 versus Fiscal 2003
+
+Net sales for fiscal 2004 increased $246.5 million,  or 38%, from $644.4 million
+to $890.9  million.  The  increase  reflects  ten months of  operating  activity
+related to the CPF  acquisition  which  resulted in a 35%  increase in vegetable
+unit volume.
+
+Cost of product sold as a percentage  of sales  increased  from 91.6% in 2003 to
+92.2% in 2004.  The  increase  in the  percentage  of the cost of  product  sold
+reflects higher  production  costs in fiscal 2004  associated  with  unfavorable
+manufacturing  variances  principally  the result of drought  conditions  in the
+Midwest growing areas and extreme heat in the Northwest growing areas,  followed
+by an early  killing  frost which  included  the  late-season  growing  areas of
+Illinois.  The drought and hot weather  conditions  impacted crop yields,  plant
+recovery rates and further  resulted in the bunching of crop maturities  whereby
+certain contracted raw produce was unable to be harvested. Although we were able
+to increase  selling  prices over the second half of the fiscal year, the effect
+of these increases was more than offset by the higher manufacturing costs.
+
+Selling,  General and Administrative  expense increased as a percentage of sales
+from 3.3% to 3.7% due in large part to the fact that GMOI  sales do not  involve
+selling  expense and GMOI sales  decreased as a  percentage  of total sales from
+39.1% in 2003 to  27.8%  in  2004.  In  addition,  outside  warehousing  expense
+increased in connection with the CPF acquisition.
+
+Interest  expense  increased from $13.8 million to $16.1 million  reflecting the
+new debt supporting the CPF acquisition.
+
+Other  income of $0.2  million in 2004  reflects the gain on the sale of certain
+fixed  assets.  Other  expense  of $4.7  million  in 2003  reflects  a  non-cash
+impairment charge attributable to idle fixed assets.
+
+As a result of the above factors,  pre-tax earnings increased from $14.6 million
+in 2003 to $20.5  million in 2004.  The effective tax rate was 37.0% in 2004 and
+37.8% in 2003.
+
+Recently Issued Accounting Standards
+
+Recently issued accounting standards have been considered by the Company and are
+not expected to have a material  effect on the Company's  financial  position or
+results of operations.
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Interest Rate Risk
+
+As a result of its regular borrowing activities, the Company's operating results
+are  exposed to  fluctuations  in  interest  rates,  which it manages  primarily
+through its regular financing activities.  The Company uses bank lines of credit
+with variable  interest rates to finance seasonal working capital  requirements.
+The Company  maintains  $5.2 million in cash  equivalents  as of March 31, 2005.
+Long-term debt represents  secured and unsecured  notes and debentures,  certain
+notes payable to insurance companies used to finance long-term  investments such
+as business  acquisitions,  and capital lease obligations.  Long-term debt bears
+interest at fixed and variable  rates.  With $80.5  million in average  variable
+rate debt, a 1% change in interest  rates would have an $805 thousand  effect on
+interest expense.  The following table provides  information about the Company's
+financial instruments that are sensitive to changes in interest rates. The table
+presents  principal  cash  flows  and  sinking  fund  requirements  and  related
+weighted-average  interest  rates by expected  maturity  date.  Weighted-average
+interest rates on variable-rate debt are based on rates as of March 31, 2005.
+
+Commodity Risk
+
+The materials  that the Company uses,  such as  vegetables,  steel and packaging
+materials  are  commodities  that may  experience  price  volatility  caused  by
+external  factors   including  market   fluctuations,   availability,   currency
+fluctuations and changes in governmental  regulations and agricultural programs.
+In light of the recent  volatility in steel  pricing,  a 5% change in steel unit
+costs would equate to a $3.1  million  cost  impact.  These events can result in
+reduced supplies of these materials, higher supply costs or interruptions in our
+production schedules.  If prices of these raw materials increase and the Company
+is not able to  effectively  pass such price  increases  along to its customers,
+operating income will decrease.
+
+<TABLE>
+         Interest Rate Sensitivity of Long-Term Debt, Short-Term Debt and Short-Term Investments
+                                 March 31, 2005
+                                 (In Thousands)
+
+<CAPTION>
+                                                 EXPECTED MATURITY DATE
+                        --------------------------------------------------------------------------------
+                                                                                                               Total /     Estimated
+                                                                                                              Weighted       Fair
+                                2006          2007         2008        2009         2010      Thereafter      Average        Value
+- -------------------------- ------------- ------------- ------------ ------------ ------------ ------------ -------------- ----------
+<S>                         <C>          <C>           <C>          <C>          <C>          <C>          <C>            <C>
+
+Fixed-rate L/T debt:
+   Principal cash flows       $15,221       $9,446       $ 9,326   $  9,541    $    38,525     $63,246       $145,305     $  140,516
+   Average interest rate         7.36%        6.88%         7.10%      7.10%          7.85%       7.71%          7.55%             -
+Variable-rate L/T debt:
+   Principal cash flows     $    450      $    454     $     358    $   150      $    150     $22,929      $   24,491     $   24,491
+   Average interest rate         2.09%        2.08%         2.25%       3.37%         3.25%       3.25%          3.17%             -
+Average variable-rate S/T debt:
+   Principal cash flows                                                                                    $   55,996     $   55,996
+   Average interest rate                                                                                         3.70%             -
+Short-term investments:
+   Average balance                                                                                         $      284     $      284
+   Average interest rate                                                                                         1.95%             -
+
+</TABLE>
+
+<PAGE>
+
+
+<TABLE>
+Consolidated Statements of Net Earnings
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands, except per share amounts)
+
+<CAPTION>
+
+Years ended March 31,                                                              2005             2004              2003
+- --------------------------------------------------------------------------------------------------------------------------
+<S>                                                                            <C>              <C>               <C>
+
+
+Net sales                                                                      $864,274         $890,850          $644,379
+
+- --------------------------------------------------------------------------------------------------------------------------
+
+Costs and expenses:
+   Cost of product sold                                                         800,002          821,604           590,079
+   Selling, general, and administrative expense                                  31,726           32,770            21,265
+   Plant restructuring                                                            7,678                -                 -
+                                                                        ---------------  ----------------- ---------------
+   Total Costs and Expenses                                                     839,406          854,374           611,344
+                                                                        ---------------  ---------------   ---------------
+
+Operating income                                                                 24,868           36,476            33,035
+Other (income) expense, net                                                      (3,757)           (207)             4,719
+Interest expense, net of interest income of
+   $102, $395, and $834, respectively                                            16,592           16,135            13,757
+- --------------------------------------------------------------------------------------------------------------------------
+
+Earnings before income taxes                                                     12,033           20,548            14,559
+Income taxes                                                                      4,126            7,607             5,509
+                                                                        --------------------------------------------------
+   Net earnings                                                                $  7,907         $ 12,941          $  9,050
+==========================================================================================================================
+
+
+   Basic earnings per common share                                             $    .71         $   1.18          $    .89
+==========================================================================================================================
+
+   Diluted earnings per common share                                           $    .70         $   1.17          $    .88
+==========================================================================================================================
+
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+Consolidated Balance Sheets
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands)
+
+<CAPTION>
+March 31,                                                                                                   2005                2004
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                                    <C>                 <C>
+
+Assets
+Current Assets:
+
+
+   Cash and cash equivalents                                                                           $   5,179           $   4,570
+   Marketable securities                                                                                       -               4,465
+   Accounts receivable, less allowance for doubtful accounts
+
+     of $625 and $945, respectively                                                                       43,664              46,180
+   Inventories:
+     Finished products                                                                                   209,874             202,573
+     In process                                                                                           17,168              15,365
+     Raw materials and supplies                                                                           67,428              52,345
+   Deferred income taxes                                                                                   5,669               6,615
+   Assets held for sale                                                                                    1,451               2,931
+   Refundable income taxes                                                                                 1,199                 451
+   Prepaid expenses                                                                                        7,192              12,098
+                                                                                               -------------------------------------
+       Total Current Assets                                                                              358,824             347,593
+- ------------------------------------------------------------------------------------------------------------------------------------
+Other assets                                                                                               2,381               4,403
+Property, Plant, and Equipment:
+   Land                                                                                                    9,981               9,222
+   Building                                                                                              122,644             112,061
+   Equipment                                                                                             296,512             313,494
+                                                                                               -------------------------------------
+                                                                                                         429,137             434,777
+Less accumulated depreciation and amortization                                                           265,847             252,870
+                                                                                               -------------------------------------
+       Net Property, Plant, and Equipment                                                                163,290             181,907
+- ------------------------------------------------------------------------------------------------------------------------------------
+         Total Assets                                                                                $   524,495            $533,903
+====================================================================================================================================
+
+Liabilities and Stockholders' Equity
+Current Liabilities:
+   Notes payable                                                                                       $  60,733           $  58,395
+   Accounts payable                                                                                       38,719              37,362
+   Accrued expenses                                                                                       38,271              42,553
+   Current portion of long-term debt and capital lease obligations                                        15,671              21,519
+                                                                                               -------------------------------------
+     Total Current Liabilities                                                                           153,394             159,829
+- ------------------------------------------------------------------------------------------------------------------------------------
+Long-Term Debt                                                                                           148,318             154,428
+Capital Lease Obligations                                                                                  5,807               6,559
+Other Liabilities                                                                                         10,042               7,790
+Deferred Income Taxes                                                                                     11,125              15,048
+                                                                                               -------------------------------------
+       Total Liabilities                                                                                 328,686             343,654
+- ------------------------------------------------------------------------------------------------------------------------------------
+Commitments and other contingencies (Note 14)
+Stockholders' Equity:
+   Preferred stock                                                                                        56,335              56,338
+   Common stock                                                                                            2,859               2,859
+                                                                                               -------------------------------------
+     Total Capital Stock                                                                                  59,194              59,197
+   Additional paid-in capital                                                                             15,992              15,989
+   Accumulated other comprehensive income                                                                      -               2,324
+   Retained earnings                                                                                     120,623             112,739
+                                                                                               -------------------------------------
+       Total Stockholders' Equity                                                                        195,809             190,249
+- ------------------------------------------------------------------------------------------------------------------------------------
+         Total Liabilities and Stockholders' Equity                                                    $ 524,495            $533,903
+- -----------------------------------------------------------------------------------------------=====================================
+
+<FN>
+
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+Consolidated Statements of Cash Flows
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands)
+
+<CAPTION>
+
+Years ended March 31,                                                                   2005             2004              2003
+- -------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                 <C>              <C>                <C>
+
+Cash flows from operating activities:
+   Net earnings                                                                     $   7,907        $  12,941          $ 9,050
+   Adjustments to reconcile net earnings to
+     net cash provided by operations:
+       Depreciation and amortization                                                   29,178           29,393           22,597
+       Deferred income taxes                                                           (1,552)           1,107            3,520
+       Gain on the sale of assets                                                      (4,469)            (207)               -
+       Impairment provision and other expenses                                          5,673                -            4,719
+       Changes in operating assets and liabilities:
+         Accounts receivable                                                            2,516            9,991              236
+         Inventories                                                                  (24,187)         (41,122)          40,186
+         Prepaid expenses                                                               4,906          (10,782)            (892)
+         Accounts payable, accrued expenses, and other liabilities                     (1,218)          (1,686)         (11,588)
+         Income taxes                                                                    (748)           1,987              942
+                                                                               ------------------------------------------------
+       Net cash provided by operations                                                 18,006            1,622           68,770
+- -------------------------------------------------------------------------------------------------------------------------------
+
+
+Cash flows from investing activities:
+   Additions to property, plant, and equipment                                        (14,415)         (23,109)          (6,832)
+   Proceeds from the sale of assets                                                     6,233           48,808              677
+   Acquisition                                                                             -          (114,172)               -
+   Cash received from acquisition                                                           -            2,560                -
+                                                                               ------------------------------------------------
+       Net cash used in investing activities                                           (8,182)         (85,913)          (6,155)
+- -------------------------------------------------------------------------------------------------------------------------------
+
+Cash flows from financing activities:
+   Borrowings on notes payable                                                        285,425          396,568                -
+   Payments on notes payable                                                         (283,087)        (363,548)               -
+   Payments of long-term debt and capital lease obligations                           (21,856)         (51,903)         (22,834)
+   Proceeds from issuance of long-term debt                                             9,146           42,562              235
+   Other assets                                                                         1,180              221               18
+   Preferred dividends paid                                                               (23)             (23)             (23)
+                                                                               ------------------------------------------------
+
+       Net cash (used in) provided by financing activities                             (9,215)          23,877          (22,604)
+- -------------------------------------------------------------------------------------------------------------------------------
+Net increase (decrease) in cash and cash equivalents                                      609          (60,414)          40,011
+Cash and cash equivalents, beginning of year                                            4,570           64,984           24,973
+                                                                               ------------------------------------------------
+Cash and cash equivalents, end of year                                               $  5,179      $     4,570          $64,984
+===============================================================================================================================
+<FN>
+Supplemental disclosures of cash flow information: Cash paid during the year
+   for:
+     Interest                                                                        $ 16,973      $    15,023         $ 15,122
+     Income taxes                                                                       6,425            5,768            2,025
+Supplemental information of non-cash investing and financing activities:
+     $16.1 million of Preferred Stock was issued in partial consideration for
+     the CPF acquisition in 2004. The Company assumed $9.1 million of long-term
+     debt related to the CPF acquisition.
+===============================================================================================================================
+
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+
+Consolidated Statements of Stockholders' Equity
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands, except share amounts)
+<CAPTION>
+                                              Preferred Stock
+                      --------------------------------------------------------------
+                                 6%             10%
+                     Cumulative Par  Cumulative Par   Participating   Participating
+                         Value $.25     Value $.025 Convertible Par Convertible Par          Class A         Class B   Additional
+                    Callable at Par     Convertible           Value           Value     Common Stock    Common Stock      Paid-In
+                             Voting          Voting           $.025           $.025   Par Value $.25  Par Value $.25      Capital
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                 <C>              <C>            <C>              <C>              <C>             <C>              <C>
+
+Shares authorized           200,000       1,400,000         967,742       4,166,667       20,000,000      10,000,000
+=====================================================================================================================
+Shares issued and outstanding:
+- ---------------------------------------------------------------------------------------------------------------------
+    March 31, 2002          200,000         807,240              --       3,485,506        3,908,470       2,764,005
+- ---------------------------------------------------------------------------------------------------------------------
+    March 31, 2003          200,000         807,240         967,742       3,443,596        3,950,380       2,764,005
+- ---------------------------------------------------------------------------------------------------------------------
+    March 31, 2005          200,000         807,240         967,742       3,443,359        3,951,717       2,762,905
+- ---------------------------------------------------------------------------------------------------------------------
+Balance March 31, 2002          $50            $ 20        $     --         $42,605             $956          $1,871      $13,619
+   Net earnings                  --              --              --              --               --              --           --
+   Cash dividends paid
+     on preferred stock          --              --              --              --               --              --           --
+   Preferred stock conversion    --              --              --          (1,019)              22              --          997
+   Minimum pension liability     --              --              --              --               --              --           --
+   Net unrealized gain on
+     investments                 --              --              --              --               --              --           --
+- ------------------------------------------------------------------------------------------------------------------------------------
+Balance March 31, 2003           50              20              --          41,586              978           1,871       14,616
+
+
+   Net earnings                  --              --              --              --               --              --           --
+   Cash dividends paid
+     on preferred stock          --              --              --              --               --              --           --
+   Preferred stock conversion    --              --              --            (500)              10              --          490
+   Preferred stock issued        --              --          15,000              --               --              --        1,065
+   Minimum pension liability
+   (net of tax $477)             --              --              --              --               --              --           --
+   Preferred stock adjustment    --             182              --              --               --              --         (182)
+   Net unrealized gain on
+     investments
+     (net of tax $658)           --              --              --              --               --              --           --
+- ------------------------------------------------------------------------------------------------------------------------------------
+Balance March 31, 2004           50             202          15,000          41,086              988           1,871       15,989
+
+
+   Net earnings                  --              --              --              --               --              --           --
+   Cash dividends paid
+     on preferred stock          --              --              --              --               --              --           --
+   Preferred stock conversion    --              --              --              (3)              --              --            3
+   Net unrealized gain on
+     investments (net of
+     tax of $16)                 --              --              --              --               --              --           --
+   Net reclassification of
+     accumulated other
+     comprehensive income
+     (net of tax $1,160)         --              --              --              --               --              --           --
+- ------------------------------------------------------------------------------------------------------------------------------------
+Balance March 31, 2005          $50            $202         $15,000         $41,083             $988          $1,871      $15,992
+====================================================================================================================================
+<FN>
+See notes to consolidated financial statements.
+</FN>
+<CAPTION>
+
+                         Accumulated
+                               Other
+                       Comprehensive    Retained     Comprehensive
+                              Income    Earnings            Income
+- ------------------------------------------------------------------
+<S>                    <C>              <C>             <C>
+Balance March 31, 2002        $1,208    $90,794
+   Net earnings                   --      9,050       $    9,050
+   Cash dividends paid
+     on preferred stock           --        (23)              --
+   Preferred stock conversion     --         --               --
+   Minimum pension liability    (778)        --             (778)
+   Net unrealized gain on
+     investments                  (8)        --               (8)
+- ----------------------------------------------------------------
+Balance March 31, 2003            422    99,821        $   8,264
+                                                        ========
+
+   Net earnings                    --    12,941         $ 12,941
+   Cash dividends paid
+     on preferred stock            --       (23)              --
+   Preferred stock conversion      --        --               --
+   Preferred stock issued          --        --               --
+   Minimum pension liability
+   (net of tax $477)              778        --              778
+   Preferred stock adjustment      --        --               --
+   Net unrealized gain on
+     investments
+     (net of tax $658)          1,124        --            1,124
+- ----------------------------------------------------------------
+Balance March 31, 2004          2,324   112,739         $ 14,843
+                                                        ========
+
+   Net earnings                    --     7,907         $  7,907
+   Cash dividends paid
+     on preferred stock            --       (23)              --
+   Preferred stock conversion      --        --               --
+   Net unrealized gain on
+     investments (net of
+     tax of $16)                   32        --               32
+   Net reclassification of
+     accumulated other
+     comprehensive income
+     (net of tax $1,160)       (2,356)       --           (2,356)
+- ----------------------------------------------------------------
+Balance March 31, 2005       $     --  $120,623           $5,583
+================================================================
+
+</TABLE>
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements
+
+Seneca Foods Corporation and Subsidiaries
+
+1.  Summary of Significant Accounting Policies
+
+Nature of Operations - The Company conducts its business almost entirely in food
+processing,  operating 27 plants and  warehouses  in seven  states.  The Company
+markets branded and private label processed foods to retailers and institutional
+food distributors.
+
+Principles of Consolidation - The consolidated  financial statements include the
+accounts for the parent Company and all of its wholly-owned  subsidiaries  after
+elimination of intercompany transactions, profits, and balances.
+
+Revenue Recognition - Sales and related cost of product sold are recognized when
+legal  title  passes  to the  purchaser  which is  primarily  upon  shipment  of
+products.  When customers,  under the terms of specific orders, request that the
+Company  invoice  goods and hold the  goods for  future  shipment,  the  Company
+recognizes  revenue when legal title to the finished goods  inventory  passes to
+the  purchaser.  Generally,  the Company  receives cash from the purchaser  when
+legal title passes.
+
+Concentration of Credit Risk - Financial  instruments  that potentially  subject
+the Company to credit risk  consist of trade  receivables  and  interest-bearing
+investments.  Wholesale  and retail  food  distributors  comprise a  significant
+portion of the trade receivables; collateral is generally not required. The risk
+associated  with  the  concentration  is  limited  due to the  large  number  of
+wholesalers and retailers and their  geographic  dispersion.  The Company places
+substantially all its interest-bearing  investments with financial  institutions
+and  monitors  credit  exposure.  Cash and  short-term  investments  in  certain
+accounts  exceed  the  federal  insured  limit,  however,  the  Company  has not
+experienced any losses in such accounts.
+
+Cash and Cash Equivalents - The Company considers all highly liquid  instruments
+purchased  with an  original  maturity  of three  months  or less as  short-term
+investments.
+
+Inventories  -  Inventories  are stated at lower of cost;  determined  under the
+first-in, first-out (FIFO) method; or market.
+
+Income Taxes - The provision for income taxes  includes  federal,  foreign,  and
+state income taxes  currently  payable and those  deferred  because of temporary
+differences  between  the  financial  statement  and tax  bases  of  assets  and
+liabilities.
+
+Shipping  and  Handling  Costs - The Company  includes all shipping and handling
+costs billed to customers  in net sales and the  corresponding  costs in cost of
+product sold.
+
+Doubtful  Accounts - A provision for doubtful accounts is recorded based upon an
+assessment of credit risk within the accounts receivable  portfolio,  experience
+of  delinquencies  (accounts  over 15 days past due) and  charge-offs  (accounts
+removed from accounts  receivable for  expectation of  non-payment)  and current
+market conditions.  Management believes these provisions are adequate based upon
+the relevant information  presently available.  However, it is possible that the
+Company's provisions may change in the future.
+
+
+
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+Earnings per Common Share
+
+The Company has two classes of convertible  preferred  stock which are deemed to
+be participating  securities that are entitled to participate in any dividend on
+Class A common stock as if the preferred  stock had been  converted  into common
+stock immediately prior to the record date for such dividend. Basic earnings per
+share for  common  stock  must be  calculated  using the  "two-class"  method by
+dividing the earnings  allocated to common  stockholders by the weighted average
+of common shares outstanding during the period.
+
+Diluted  earnings  per share is  calculated  by dividing  earnings  allocated to
+common stockholders by the sum of the weighted average common shares outstanding
+plus the dilutive effect of convertible preferred stock using the "if-converted"
+method, which treats the  contingently-issuable  shares of convertible preferred
+stock as common stock.
+
+<TABLE>
+<CAPTION>
+Years ended March 31,                                         2005         2004         2003
+- --------------------------------------------------------------------------------------------
+                                                         (In thousands, except share amounts)
+<S>                                                    <C>          <C>           <C>
+
+Basic
+
+Net earnings                                          $     7,907   $    12,941   $     9,050
+Deduct preferred stock dividends paid                          23            23            23
+                                                      ---------------------------------------
+
+Undistributed earnings                                      7,884        12,918         9,027
+Earnings allocated to participating preferred               3,126         5,035         3,164
+                                                      ---------------------------------------
+Earnings allocated to common shareholders             $     4,758   $     7,883   $     5,863
+                                                      =======================================
+Weighted average common shares outstanding                  6,714         6,691         6,597
+                                                      =======================================
+Basis earnings per common share                       $       .71   $      1.18   $       .89
+                                                      =======================================
+
+Diluted
+
+Earnings allocated to common shareholders             $     4,758   $     7,883   $     5,863
+Add dividends on convertible preferred stock                   20            20            20
+                                                      ---------------------------------------
+Earnings applicable to common stock on a diluted
+  basis                                               $     4,778   $     7,903   $     5,883
+                                                      =======================================
+
+Weighted average common shares outstanding-basic            6,714         6,691         6,597
+Additional shares to be issued under full conversion
+   of preferred stock                                          67            67            67
+                                                      ---------------------------------------
+Total shares for diluted                                    6,781         6,758         6,664
+                                                      =======================================
+
+Diluted earnings per common share                     $       .70   $      1.17   $       .88
+                                                      =======================================
+</TABLE>
+
+Depreciation - Property, plant, and equipment are stated at cost or, in the case
+of capital  leases,  the present value of future lease  payments.  For financial
+reporting,  the Company provides for depreciation and capital lease amortization
+on the  straight-line  method at rates based upon the estimated  useful lives of
+the various assets. Depreciation and capital lease amortization was $28,503,000,
+$28,676,000,  and  $22,597,000  in  2005,  2004,  and  2003,  respectively.  The
+estimated  useful  lives are as  follows:  buildings - 30 years;  machinery  and
+equipment - 10-15 years;  vehicles - 3-7 years;  and land  improvements  - 10-20
+years.  Impairment  losses are  recognized  when the carrying  value of an asset
+exceeds  its  fair  value.  The  Company  assesses  its  long-lived  assets  for
+impairment  whenever there is an indicator of impairment.  There were $4,960,000
+of  impairment  losses in 2005 that were  included in Plant  Restructuring  (see
+Plant  Restructuring,  note  15).  There  were no  impairment  losses  in  2004.
+Impairment  losses of  $4,719,000  were  recognized in 2003 and were included in
+Other (Income) Expense, net (see Other Income and Expense, note 11).
+
+Use of Estimates in the Preparation of Financial Statements - The preparation of
+financial  statements  in conformity  with U.S.  generally  accepted  accounting
+principles requires management to make estimates and assumptions that affect the
+reported  amount of assets and  liabilities  and the  disclosure  of  contingent
+assets and liabilities at the date of the financial  statements,  as well as the
+related revenues and expenses during the reporting period.  Actual amounts could
+differ from those estimated.
+
+Recently Issued Accounting Standards - Recently issued accounting standards have
+been considered by the Company and are not expected to have a material effect on
+the Company's financial position or results of operations.
+
+Reclassifications  - Certain previously  reported amounts have been reclassified
+to conform to the current period classification.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+
+2.  Common Stock of Moog Inc.
+
+During 2005,  the Company sold its  investment  in the Common Stock of Moog Inc.
+The sale provided proceeds of $4,578,000 and a realized gain of $3,862,000.  The
+Company's  investment  in the  Class  B  Common  Stock  of  Moog  Inc.  totaling
+$4,465,000 as of March 31, 2004 was included in marketable securities. The gross
+unrealized  holding  gains  were  $3,749,000  and  $1,967,000  in 2004 and 2003,
+respectively.
+
+3.  Lines of Credit
+
+The Company obtains required  short-term  funds through bank borrowings.  On May
+27, 2003, in connection  with the acquisition of CPF, the Company entered into a
+$200 million  five-year  floating rate secured  revolving  credit  facility with
+various banks. During 2005, the Company provided its bank lenders with notice to
+reduce  the  revolving  credit  facility  from  $200  million  to $125  million.
+Subsequent to 2005  year-end,  the Company and its lenders  extended the term of
+the revolver for an additional  year with a final maturity date of May 27, 2009.
+As of March 31, 2005, the outstanding  balance on the revolver was  $60,733,000,
+with a weighted average interest rate of 4.56%, and is included in notes payable
+on the  Consolidated  Balance  Sheet.  The $125  million  revolver is secured by
+accounts  receivable and inventory with a carrying value of $338,134,000.  There
+were  $58,395,000 in bank  borrowings  under the revolver at March 31, 2004. The
+Company had $6,187,000 and $7,120,000 of outstanding  standby  letters of credit
+as of March 31, 2005 and 2004,  respectively that reduce borrowing  availability
+under the revolver.
+
+
+4.  Long-Term Debt
+<TABLE>
+<CAPTION>
+                                                                                                               2005           2004
+- ------------------------------------------------------------------------------------------------------- --------------------------
+                                                                                                                   (In thousands)
+<S>                                                                                                       <C>            <C>
+
+Secured note payable to insurance company, 8.03%, due through 2014                                        $   70,862     $   73,675
+Secured nonrecourse subordinated promissory note, 8.00%, due through 2010                                     46,583         50,208
+Secured Industrial Revenue Development Bonds, 3.53% and 3.24% due through 2029                                22,630         22,630
+Secured promissory note, 6.35% due through 2020                                                                7,782              -
+Secured Industrial Revenue Development Bond, 5.69%, due through 2010                                           3,173          3,763
+Unsecured Industrial Revenue Development Bond, 7.75%, due through 2006                                         3,000          3,000
+Unsecured Industrial Revenue Development Bond, 8.50%, due through 2006                                         2,500          2,500
+Secured notes payable to utility company, 3.00%, due through 2009                                              2,295          1,956
+Secured note payable to insurance company, 10.78%, due through 2005                                                -         12,000
+Other                                                                                                          4,389          5,468
+                                                                                                        ------------    -----------
+
+                                                                                                             163,214        175,200
+Less current portion                                                                                          14,896         20,772
+                                                                                                        ------------    -----------
+
+                                                                                                          $  148,318     $  154,428
+                                                                                                        ============    ===========
+</TABLE>
+
+
+Our credit  facilities  contain  covenants  that  restrict  our  ability and the
+ability of our subsidiaries to incur additional  indebtedness,  pay dividends on
+and  redeem  our  capital  stock,  make  other  restricted  payments,  including
+investments,  sell our assets, incur liens, transfer all or substantially all of
+our assets and enter into consolidations or mergers.  Our credit facilities also
+require us to meet  certain  financial  tests,  including  minimum  fixed charge
+coverage,  minimum  interest  coverage  and  maximum  total debt  ratios.  These
+financial  requirements  and ratios generally become more restrictive over time,
+subject to allowances for seasonal  fluctuations.  We are in compliance with all
+such financial covenants, and were in compliance therewith as of March 31, 2005.
+The most restrictive  financial covenant in the credit agreements is the minimum
+fixed charge coverage ratio.
+
+As of March 31, 2005, the most restrictive  credit  agreement  limitation on the
+Company's  payment of dividends  and other  distributions,  such as purchases of
+shares,  to  holders  of  Class A or Class B Common  Stock  is an  annual  total
+limitation of $500,000  reduced by aggregate annual dividend  payments  totaling
+$23,000 which the Company presently pays on two outstanding classes of preferred
+stock.
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+
+The Company has five Industrial  Revenue Bonds ("IRB's")  totaling  $23,680,000,
+which are secured by direct pay  letters of credit.  The  interest  rates in the
+table above reflect the direct pay letters of credit costs and  amortization  of
+other  related  costs for those  IRB's.  Other  than the five IRB's  above,  the
+carrying  value of assets  pledged for secured debt  including  the $125 million
+revolver is $432,656,000.
+
+Debt repayment requirements for the next five fiscal years are:
+
+
+                                 (In thousands)
+                              2006              $14,896
+                              2007                9,101
+                              2008                8,956
+                              2009                9,151
+                              2010               38,110
+
+
+
+5.  Leases
+
+The Company leases a portion of its equipment and buildings.  Capitalized leases
+consist  primarily  of limited  obligation  special  revenue  bonds,  which bear
+interest  rates  from  1.42%  to  4.75%.  Other  leases  include  non-cancelable
+operating  leases expiring at various dates through 2025.  Generally,  operating
+leases provide for early purchase options one year prior to expiration.
+
+Leased assets under capital leases consist of the following:
+<TABLE>
+<CAPTION>
+                                                                            2005              2004
+                  --------------------------------------------------------------------------------
+                                                                               (In thousands)
+
+                  <S>                                                    <C>               <C>
+
+
+                  Land                                                   $    67           $    67
+                  Buildings                                                1,033             1,033
+                  Equipment                                               11,476            11,313
+                                                                 ---------------------------------
+                                                                          12,576            12,413
+                  Less accumulated amortization                           10,651             9,372
+                                                                 ---------------------------------
+                                                                           1,925             3,041
+                  Assets held for sale                                         -               340
+                                                                 ---------------------------------
+                                                                         $ 1,925           $ 3,381
+                  ================================================================================
+</TABLE>
+<TABLE>
+
+The following is a schedule by year of minimum payments due under leases as of
+March 31, 2005:
+<CAPTION>
+
+                                                                     Operating         Capital
+                  ----------------------------------------------------------------------------
+                                                                             (In thousands)
+                 <S>                                                 <C>               <C>
+
+                  Years ending March 31:
+                     2006                                              $18,415          $1,025
+                     2007                                               15,160           1,025
+                     2008                                               12,762             929
+                     2009                                               10,066             719
+                     2010                                                8,822             721
+                     2011-2025                                          15,049           3,585
+                                                                 -----------------------------
+                     Total minimum payment required                    $80,274          $8,004
+                  ============================================================
+
+                  Less interest                                                          1,422
+                                                                                --------------
+                     Present value of minimum lease payments                             6,582
+                  Amount due within one year                                               775
+                                                                                --------------
+                     Long-term capital lease obligations                                $5,807
+                  ============================================================================
+</TABLE>
+
+Rental  expense  in  2005,  2004,  and 2003 was  $23,059,000,  $20,538,000,  and
+$13,077,000, respectively.
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+6.  Income Taxes
+
+The Company files a consolidated income tax return. The provision for income
+taxes is as follows:
+
+<TABLE>
+
+                                                         2005           2004           2003
+                                                   ----------------------------------------
+                                                                 (In thousands)
+                      <S>                          <C>              <C>            <C>
+
+                       Current:
+                         Federal                     $  4,489       $  4,938       $  1,529
+                         State                          1,189          1,562            460
+                                                   ----------------------------------------
+                                                        5,678          6,500          1,989
+                                                   ----------------------------------------
+
+                       Deferred:
+                         Federal                       (1,448)         1,009          3,150
+                         State                           (104)            98            370
+                                                   ----------------------------------------
+
+                                                       (1,552)         1,107          3,520
+                                                   ----------------------------------------
+                         Total income taxes            $4,126       $  7,607       $  5,509
+                                                   ========================================
+
+
+
+A reconciliation of the expected U.S. statutory rate to the effective rate follows:
+
+                                                         2005             2004            2003
+                 -----------------------------------------------------------------------------
+
+
+                 Computed (expected tax rate)            35.0%            35.0%           35.0%
+                 State income taxes (net of
+                   federal tax benefit)                   5.9              5.2             3.7
+                 Reversal of tax reserves                (4.2)             -               -
+                 Other permanent differences
+                     not deductible                       1.7              1.1             0.4
+                 Tax exempt income                         -              (0.7)           (1.5)
+                 Other                                   (4.1)            (3.6)            0.2
+                                                     -----------------------------------------
+                 Effective tax rate                      34.3%            37.0%           37.8%
+                 =============================================================================
+</TABLE>
+
+
+
+<PAGE>
+
+
+6.  Income Taxes (continued)
+
+The  following  is a summary  of the  significant  components  of the  Company's
+deferred tax assets and liabilities as of March 31, 2005 and 2004:
+<TABLE>
+<CAPTION>
+                                                                            2005               2004
+                  ---------------------------------------------------------------------------------
+                                                                             (In thousands)
+                  <S>                                                  <C>                <C>
+
+                  Deferred tax liabilities:
+                     Basis and depreciation difference                 $  14,178          $  15,608
+                     Other comprehensive income                                -              1,425
+                     Other                                                   142                309
+                                                                -----------------------------------
+
+                                                                          14,320             17,342
+                                                                -----------------------------------
+
+
+                  Deferred tax assets:
+                     Inventory valuation                                     704              1,534
+                     Net operating loss carryforwards                          -                 25
+                     Employee benefits                                     2,667              2,697
+                     Pension                                               3,028              2,142
+                     Insurance                                             1,963              2,025
+                     Deferred gain on sale/leaseback                         405                486
+                     Severance                                                97                  -
+                                                                -----------------------------------
+
+                                                                           8,864              8,909
+                                                                -----------------------------------
+
+                      Net deferred tax liability                       $   5,456          $   8,433
+                  =================================================================================
+</TABLE>
+
+
+Net current  deferred tax assets of  $5,669,000  and  $6,615,000 as of March 31,
+2005 and 2004, respectively,  are recognized in the Consolidated Balance Sheets.
+Also recognized are net non-current  deferred tax liabilities of $11,125,000 and
+$15,048,000 as of March 31, 2005 and 2004, respectively.
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+7.  Stockholders' Equity
+
+Preferred   Stock  -  The  Company  has  issued  a  class  of  preferred   stock
+("Participating Preferred Stock") which is convertible, and participating. There
+are  3,443,359  shares  outstanding  as of March  31,  2005.  These  shares  are
+convertible  immediately  on a  one-for-one  basis into shares of Class A Common
+Stock subject to antidilution adjustments. There were no dividends on this class
+of stock. These shares have a liquidation value of $12 per share. This preferred
+stock has the right to receive  dividends or  distributions  at a rate per share
+equal to the amount of any dividend or distribution  declared or made to Class A
+Common Stock. In addition,  this preferred stock has certain distribution rights
+upon liquidation.
+
+As part of the  financing of the CPF  acquisition,  the Company  issued  967,742
+shares of  Participating  Convertible  Preferred  Stock.  The Preferred Stock is
+convertible  into the  Company's  Class A Common  Stock on a  one-for-one  basis
+subject to  antidilution  adjustments.  The Preferred Stock was valued at $16.60
+per share based on the market  value of the Class A Common Stock at the time the
+acquisition  was  announced.  This  class of stock  has a par value of $.025 per
+share and a stated value of $15.50 per share.
+
+The outstanding 10% cumulative,  convertible, voting preferred stock consists of
+407,240 Series A shares,  convertible at the rate of one common share of Class A
+and Class B for every  twenty  preferred  shares,  and 400,000  Series B shares,
+which  carry a one  common  share of Class A and Class B for  thirty  conversion
+rate.  The Series A and B shares have a $.25 stated value and a $.025 par value.
+There are 2,633,333  shares  authorized of Class A $.025 par value stock,  which
+are unissued and  undesignated.  In addition,  there are 30,000 shares of no par
+stock,  which are also  unissued and  undesignated.  The Company paid  dividends
+totaling $20,181, or $.025 per share, to the holders of this 10% preferred stock
+for the years ended March 31, 2005 and 2004.  The Company has 200,000  shares of
+6%, cumulative,  voting, $.25 stated value, preferred stock which is callable at
+par value of $.25 per share. The Company paid dividends totaling $3,000 or $.015
+per share to the holders of this 6% preferred cumulative, $.25 par value, voting
+stock.
+
+Common  Stock - The  Class A Common  Stock  and the  Class B Common  Stock  have
+substantially identical rights with respect to any dividends or distributions of
+cash or property  declared on shares of common  stock and rank equally as to the
+right to receive  proceeds on  liquidation  or  dissolution of the Company after
+payment of the Company's  indebtedness  and liquidation  right to the holders of
+preferred  shares.  However,  holders of Class B Common Stock retain a full vote
+per share  whereas  the holders of Class A Common  Stock have  voting  rights of
+1/20th  of one vote per share on all  matters  as to which  shareholders  of the
+Company are entitled to vote.
+
+Unissued  shares of common stock reserved for conversion  privileges were 33,695
+of Class A and Class B as of March 31, 2005 and 2004.  Additionally,  there were
+3,443,359  and  3,443,596  shares  of Class A  reserved  for  conversion  of the
+Participating Preferred Stock as of March 31, 2005 and 2004, respectively.
+
+Comprehensive  Income - Net unrealized gains and losses are net of their related
+provision for income taxes.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+8.  Retirement Plans
+
+The Company has a  noncontributory  defined  benefit  pension plan  covering all
+employees  who meet  certain age entry  requirements  and work a stated  minimum
+number of hours per year.  Annual  contributions are made to the Plan sufficient
+to satisfy legal funding requirements.
+
+The  following  tables  provide a  reconciliation  of the  changes in the Plan's
+benefit  obligation and fair value of plan assets over the two-year period ended
+March 31, 2005 and a statement of the funded  status as of March 31, of 2005 and
+2004:
+
+                                                            2005          2004
+                                                  ------------------------------
+Change in Benefit Obligation                                  (In thousands)
+
+Benefit obligation at beginning of year               $   66,991     $   41,369
+Service cost                                               3,050          2,546
+Interest cost                                              3,987          3,519
+Actuarial gain                                             3,877          1,227
+Acquisition                                                    -         20,821
+Benefit payments and expenses                             (3,222)        (2,491)
+- -------------------------------------------------------------------------------
+
+Benefit obligation at end of year                     $   74,683       $ 66,991
+===============================================================================
+
+Change in Plan Assets
+
+Fair value of plan assets at beginning of year        $   59,687     $   28,781
+Actual return on plan assets                               3,686         13,603
+Employer contributions                                     2,821            241
+Benefit payments and expenses                             (3,222)        (2,491)
+Acquisition                                                    -         19,553
+- -------------------------------------------------------------------------------
+
+Fair value of plan assets at end of year                 $62,972       $ 59,687
+===============================================================================
+
+
+Funded Status
+Funded status at end of year                          $ (11,711)        $(7,304)
+Unrecognized transition asset                            (1,885)         (2,161)
+Unrecognized loss                                         6,336             963
+- -------------------------------------------------------------------------------
+Accrued benefit cost                                  $  (7,260)      $  (8,502)
+===============================================================================
+
+The  Plan  holds  the  Company's  common  stock  with a  fair  market  value  of
+$4,418,000.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+8.       Retirement Plan (continued)
+
+The following table provides the components of net periodic benefit cost for the
+Plan for fiscal years 2005, 2004, and 2003:
+<TABLE>
+<CAPTION>
+
+                                                           2005                2004                2003
+- -------------------------------------------------------------------------------------------------------
+                                                                        (In thousands)
+<S>                                                    <C>                 <C>                 <C>
+
+Service cost                                           $  3,050            $  2,545            $  2,571
+Interest cost                                             3,986               3,519               2,334
+Expected return on plan assets                           (5,182)             (3,850)             (3,005)
+Amortization of transition asset                           (276)               (276)               (276)
+Amortization of net gain                                      -                 649                   -
+Amortization of prior service cost                            -                   -                  31
+- -------------------------------------------------------------------------------------------------------
+
+Net periodic benefit cost                              $  1,578            $  2,587            $  1,655
+=======================================================================================================
+</TABLE>
+
+
+The Plan's accumulated benefit obligation was $66,941,000 at March 31, 2005, and
+$60,929,000 at March 31, 2004.
+
+The prior service costs are amortized on a straight-line  basis over the average
+remaining service period of active  participants.  Gains and losses in excess of
+10% of the greater of the benefit  obligation  and the  market-related  value of
+assets  are  amortized  over the  average  remaining  service  period  of active
+participants.
+
+The assumptions used to measure the Company's benefit obligation are shown in
+the following table:
+
+                                                      2005                2004
+- ------------------------------------------------------------------------------
+
+
+   Discount rate                                      5.75%               6.00%
+   Expected return on plan assets                     8.75%               8.75%
+   Rate of compensation increase                      3.50%               3.50%
+
+
+Plan Assets
+
+<TABLE>
+<CAPTION>
+                                                         Target                 Percentage of Plan
+                                                       Allocation               Assets at March 31,
+                                                           2006                2005                2004
+- -------------------------------------------------------------------------------------------------------
+   <S>                                                 <C>                     <C>                 <C>
+
+Plan Assets:
+   Equity Securities*                                       99%                 99%                 99%
+   Debt Securities                                           -                   -                   -
+   Real Estate                                               -                   -                   -
+   Cash                                                      1                   1                   1
+- ------------------------------------------------------------------------------------------------------
+
+     Total                                                 100%                100%                100%
+=======================================================================================================
+</TABLE>
+
+
+Expected Return on Plan Assets
+The expected  rate of return on Plan assets is 8.75%.  Seneca Foods  Corporation
+expects  8.75%  to fall  within  the 40 to 50  percentile  range of  returns  on
+investment portfolios with asset diversification  similar to that of the pension
+plan's target asset allocation.
+
+Investment Policy and Strategy
+Seneca Foods  Corporation  maintains an investment  policy designed to achieve a
+long term rate of return,  including  investment  income  through  dividends and
+equity  appreciation,  sufficient  to meet  the  actuarial  requirements  of the
+pension  plans.   Seneca  Foods  Corporation  seeks  to  accomplish  its  return
+objectives by prudently  investing in a diversified  portfolio of public company
+equities with broad industry  representation seeking to provide long term growth
+consistent with the performance of relevant market indices, as well as, maintain
+an adequate level of liquidity for pension  distributions  as they fall due. The
+strategy of being fully invested in equities has  historically  provided greater
+rates of return over extended periods of time.
+
+<PAGE>
+
+
+
+Cash Flows
+
+Expected contributions for fiscal year ending March 31, 2006:
+   Expected employer contributions                         $  -
+   Expected employee contributions                            -
+
+Estimated  future benefit  payments  reflecting  expected future service for the
+fiscal years ending March 31:
+
+                         2006                   $  2,839
+                         2007                      3,035
+                         2008                      3,262
+                         2009                      3,565
+                         2010                      3,742
+                         2011-2015                23,106
+
+
+The Company has  Employees'  Savings Plans  (401(k))  covering all employees who
+meet certain age entry  requirements  and work a stated  minimum number of hours
+per  year.  Participants  may make  contributions  up to the  legal  limit.  The
+Company's matching contributions are discretionary.  Costs charged to operations
+for the Company's matching contributions amounted to $1,519,000, $1,708,000, and
+$605,000, in 2005, 2004, and 2003, respectively.
+
+9.  Fair Value of Financial Instruments
+
+The carrying  amounts and the estimated  fair values of the Company's  financial
+instruments are summarized as follows:
+<TABLE>
+<CAPTION>
+                                                                                             2005                     2004
+                                                                                    -----------------------------------------------
+                                                                                   Carrying    Estimated     Carrying     Estimated
+                                                                                     Amount   Fair Value       Amount    Fair Value
+- -----------------------------------------------------------------------------------------------------------------------------------
+                                                                                                       (In thousands)
+<S>                                                                                <C>          <C>          <C>           <C>
+
+Long-term debt, including current portion                                          $163,214     $159,211     $175,200      $175,850
+
+Notes payable                                                                        60,733       60,733       58,395        58,395
+Capital leases, including current portion                                             6,582        5,796        7,306         6,589
+Class B Common Stock of Moog Inc.                                                         -            -        4,465         4,465
+</TABLE>
+
+The estimated fair values were determined as follows:
+
+     Long-term debt and capital lease obligations - The quoted market prices for
+     similar debt or current rates offered to the Company for debt with the same
+     maturities.
+
+     Notes payable - The carrying amount approximates fair value due to the
+     short-term maturity of the notes.
+
+     Class B Common Stock of Moog Inc. - Based on quoted market prices.
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+10. Acquisition
+
+On May 27, 2003, the Company completed its acquisition of 100% of the membership
+interest in Chiquita  Processed  Foods,  L.L.C.  ("CPF")  from  Chiquita  Brands
+International,  Inc.  The  primary  reason  for the  acquisition  was to acquire
+additional  production capacity in the Canned Vegetable  business.  The purchase
+price totaled $126.1 million plus the  assumption of certain  liabilities.  This
+acquisition was financed with cash, proceeds from a new $200.0 million revolving
+credit facility,  and $16.1 million of the Company's  Participating  Convertible
+Preferred  Stock.  The Preferred Stock is convertible into the Company's Class A
+Common Stock on a one-for-one  basis.  The Preferred  Stock was valued at $16.60
+per share based on the market  value of the Class A Common Stock at the time the
+acquisition was announced.
+
+During the quarter  ended  September  27,  2003,  the Company  refinanced  $42.5
+million of debt  outstanding  under the revolving  credit facility with new term
+debt from an insurance company.  The new term debt from the insurance company of
+$42.5 million,  when combined with the refinancing of existing insurance company
+debt  of  $32.5  million,   has  an  interest  rate  of  8.03%,  a  fifteen-year
+amortization and a ten-year term.
+
+As part of this acquisition, the Company assumed seasonal notes payable from the
+CPF revolving credit facility of $25.4 million which was paid off at the time of
+acquisition with proceeds from the new $200.0 million revolving credit facility.
+The Company also assumed $35.9  million of CPF long-term  debt and capital lease
+obligations, of which $26.8 million was paid off at the time of acquisition with
+proceeds from the new $200.0 million  revolving credit  facility.  The remaining
+long-term debt principally  involves two Industrial  Revenue  Development  Bonds
+totaling $5.5 million and consisting of a $3 million  Pickett,  Wisconsin  issue
+due on June 1, 2005 with an  interest  rate of 7.75%  and a $2.5  million  Walla
+Walla,  Washington issue due on September 1, 2005 with an interest rate of 8.5%.
+The balance of the debt  acquired,  totaling  $3.6 million,  has interest  rates
+ranging from 1.9% to 9% and is due through 2011.
+
+The  Company's  consolidated  statement of net earnings for the year ended March
+31, 2004 includes ten months of the CPF acquired operations.  A pro forma income
+statement as if the  operations  were  acquired at the  beginning of the periods
+presented follows:
+
+<TABLE>
+<CAPTION>
+                                                            2004                2003
+- ---------------------------------------------------------------------------------------
+                                                                 (unaudited)
+<S>                                                        <C>                 <C>
+
+Net Sales                                                  $945,332            $945,217
+- ----------------------------------------------------------------------------------------
+Cost of Product Sold                                        872,534             874,797
+Selling, General and Administrative                          37,075              27,144
+Interest Expense (net)                                       16,985              18,209
+Other Expense (net)                                           1,675               2,409
+- ----------------------------------------------------------------------------------------
+       Total Costs and Expenses                             928,269             922,559
+
+Earnings Before Income Taxes                                 17,063              22,658
+Income Taxes                                                  6,248               7,644
+- ----------------------------------------------------------------------------------------
+Net Earnings                                              $  10,815           $  15,014
+========================================================================================
+Basic Earnings Per Share                                  $    0.96           $    1.35
+========================================================================================
+Diluted Earnings Per Share                                $    0.96           $    1.35
+========================================================================================
+</TABLE>
+
+<PAGE>
+
+Notes to Consolidated Financial Statements (continued)
+
+The Company sold three former Chiquita Processed Foods plants and related assets
+to Lakeside Foods, Inc. on June 17, 2003. The Company sold one additional former
+Chiquita  Processed  Foods plant and related assets to Lakeside  Foods,  Inc. on
+August 6, 2003. The aforementioned sales to Lakeside Foods generated $46 million
+in cash proceeds,  which was used to pay down debt. The Company sold  additional
+plant  locations  that were  designated  as assets held for sale during 2005 and
+2004.
+
+The total purchase price of the transaction has been allocated as follows:
+
+Current assets                                       $   137.8
+Property, plant and equipment                             87.8
+Other assets                                               6.5
+Current liabilities                                      (69.6)
+Long-term debt                                           (27.9)
+Other non-current liabilities                             (4.3)
+                                                     ---------
+Total                                                $   130.3
+                                                     =========
+
+
+11.  Other Income and Expense
+
+Other  income  in 2005  consisted  of a gain on the sale of Moog  Inc.  stock of
+$3,862,000  and a gain of the sale of certain  fixed assets of  $607,000.  Other
+expenses  included a $712,000  non-cash charge  reflecting the write down of the
+corresponding  pro-rata  amount of deferred  financing  cost due to reducing the
+revolving credit facility from $200 million to $125 million.
+
+Other income in 2004  consisted of a gain on the sale of certain fixed assets of
+$207,000.
+
+Other expense in 2003 consisted of an impairment loss of $4,719,000.
+
+
+12.  Concentrations
+
+The Company sold $225,527,000,  $247,992,000 and $252,059,000, representing 26%,
+28% and 39% of net sales, to one customer in 2005, 2004, and 2003, respectively.
+
+The Company has six  collective  bargaining  agreements  with three union locals
+covering  approximately  825 of its  full  time  employees.  The  terms of these
+agreements  result in wages and benefits  which are  substantially  the same for
+comparable  positions for the Company's  non-union  employees.  Four  collective
+bargaining agreements expire in calendar 2008. Two agreements expire in calendar
+2006.
+
+13.      Segment Information
+
+The Company  manages its business on the basis of one  reportable  segment - the
+processing  and sale of  vegetables.  The Company  markets  its  product  almost
+entirely  in the United  States.  The Company  has an  Alliance  Agreement  with
+General Mills  Operations,  Inc. (GMOI) whereby the Company processes canned and
+frozen  vegetables for GMOI under the Green Giant brand name.  GMOI continues to
+be responsible for all of the sales,  marketing,  and customer service functions
+for the Green Giant products.  In 2005,  2004, and 2003, the sale of Green Giant
+vegetables  accounted  for  26%,  28%,  and  39% of  net  sales.  The  following
+information  is presented in  accordance  with SFAS No. 131,  "Disclosure  about
+Segments of an Enterprise and Related Information":
+
+<TABLE>
+<CAPTION>
+
+Classes of similar products/services:                    2005                2004                2003
+- -------------------------------------------------------------------------------------------------------
+                                                                        (In thousands)
+<S>                                                  <C>                 <C>                 <C>
+
+Net Sales:
+   GMOI                                              $  225,527          $  247,992          $  252,059
+   Canned vegetables                                    581,486             586,594             328,907
+   Frozen vegetables                                     28,304              29,410              30,422
+   Fruit and chip products                               16,674              15,347              20,784
+   Other                                                 12,283              11,507              12,207
+- -------------------------------------------------------------------------------------------------------
+                                                     $  864,274          $  890,850          $  644,379
+=======================================================================================================
+</TABLE>
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+
+14.      Commitments and Other Contingencies
+
+In the ordinary  course of its business,  the Company is made a party to certain
+legal proceedings seeking monetary damages. The Company does not believe that an
+adverse  decision  in any of these  proceedings  would have a  material  adverse
+impact on its financial position, results of operations or cash flows.
+
+The Company is one of a number of business and local  government  entities which
+contributed  waste  materials to a landfill in Yates County in upstate New York,
+which was operated by a party  unrelated to the Company  primarily in the 1970's
+through the early 1980's.  The Company's  wastes were  primarily  food and juice
+products.  The landfill contained some hazardous materials and was remediated by
+the State of New York. The New York Attorney General has advised the Company and
+other known  non-governmental  waste  contributors that New York has sustained a
+total remediation cost of $4.9 million and seeks recovery of half that cost from
+the non-governmental  waste contributors.  The Company is one of four identified
+contributors who  cooperatively are investigating the history of the landfill so
+as to identify and seek out other  potentially  responsible  parties who are not
+defunct and are financially able to contribute to the non-governmental  parties'
+reimbursement liability. Until that search is completed, the Company's liability
+cannot be definitively estimated. The Company does not believe that any ultimate
+settlement  in excess of the amount  accrued will have a material  impact on its
+financial position or results of operations.
+
+During 2004, various claims totaling  approximately  $3,211,000 were asserted by
+the Fleming Companies  against the Company and a subsidiary  acquired in 2003 in
+the  Bankruptcy  proceedings  in the U.S.  Bankruptcy  Court for the District of
+Delaware  for (i)  receipt of  allegedly  preferential  payments  under the U.S.
+Bankruptcy Code ($1,292,000),  (ii) receipt of alleged overpayments ($1,139,000)
+and (iii) amounts  allegedly  owing under various  vendor  promotional  programs
+($780,000). During 2005, the Company settled these claims for $399,000.
+
+On June 15, 2004, an accident occurred at the Company's  aircraft hangar located
+at the Yates County Airport in Penn Yan, New York. A collision  occurred between
+an automobile owned by an employee of an aircraft service company doing contract
+work at the Company's  hangar and two jet aircraft  standing in the hangar.  The
+incident  caused  minor  damage  to the  hangar  and  one of the  airplanes  and
+substantial  damage to the wing of the second airplane.  A corporate customer of
+the  Company's  Flight  Division  shares  ownership  with  the  Company  of  the
+less-damaged aircraft and has sole ownership of the more-damaged  aircraft.  The
+Company  does not  believe  that any  ultimate  settlement  will have a material
+impact on its financial position or results of operations.
+
+15.  Plant Restructuring
+
+After a  comprehensive  review of our  production  capacities  following the CPF
+acquisition in 2004, the Company completed a plant restructuring program in 2005
+resulting in a  restructuring  charge of $7,678,000.  The  restructuring  charge
+consisted of a non-cash  impairment  charge of $6,952,000  and a cash  severance
+charge of $726,000 which are included in Plant Restructuring in the Consolidated
+Statements  of Net  Earnings.  The Company  used two methods to  determine  fair
+value:  1) no value was  assigned  to  machinery  and  equipment  that cannot be
+redeployed  within the Company and where there is no ready market for the asset;
+and 2) quoted prices or prices for similar assets for real estate.
+
+This restructuring  program principally involved the closure of three processing
+facilities  including  a green bean plant in upstate New York and corn plants in
+Wisconsin  and  Washington.  In  addition,  the Company  restructured  the newly
+acquired  Payette,  Idaho facility through the removal of canned meat production
+to  focus  exclusively  on dry  beans.  The  rationalization  of  the  Company's
+productive  capacity  will: 1) improve the Company's  overall cost structure and
+competitive  position; 2) address the excess capacity situation arising from the
+acquisition of CPF; and 3) mitigate the effect of inflationary  pressures on the
+Company's raw material inputs such as steel and fuel.
+
+The  closure  of the  Washington  corn  processing  facility  coincided  with an
+amendment to the Alliance  Agreement with GMOI. Under the above  amendment,  the
+Blue Earth,  Minnesota facility was removed from the Alliance Agreement due to a
+reduction in GMOI volume  requirements  and will be operated by the Company as a
+non-Alliance facility. Additionally, GMOI agreed to reimburse the Company in the
+future for remaining  lease and  depreciation  costs at the Blue Earth  facility
+which, on a net present value basis,  approximate  the closure costs  associated
+with the Washington facility.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+
+The following table  summarizes the  restructuring  and related asset impairment
+charges recorded and the accruals established during 2005:
+
+<TABLE>
+<CAPTION>
+                                                   Long-Lived
+                                                        Asset                  Other
+                                Severance             Charges                  Costs                 Total
+                                ---------          ----------                  -----                 -----
+<S>                             <C>                <C>                        <C>                    <C>
+
+Total expected
+  restructuring charge               $726              $4,960                 $1,992                 $7,678
+===========================================================================================================
+Balance March 31, 2004                  -                   -                      -                      -
+Second quarter charge
+  to expense                          619                   -                      -                    619
+Third quarter charge
+  to expense                           94               3,798                  1,912                  5,804
+Fourth quarter charge
+  to expense                           13               1,162                     80                  1,255
+Loss on disposal of
+  assets                                -              (3,361)                     -                 (3,361)
+Cash payments                        (470)                 -                       -                   (470)
+- -----------------------------------------------------------------------------------------------------------
+Balance March 31, 2005               $256              $1,599                 $1,992                 $3,847
+===========================================================================================================
+</TABLE>
+
+In addition,  $771,000 was charged to Cost of Product Sold in the second quarter
+of 2005 related to exiting a line of contract packing business.
+
+
+<PAGE>
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+To the Board of Directors and Stockholders of
+Seneca Foods Corporation
+Marion, New York
+
+
+We have audited the  accompanying  consolidated  balance  sheets of Seneca Foods
+Corporation  and  Subsidiaries  as of March 31,  2005 and 2004,  and the related
+consolidated  statements of net earnings,  stockholders'  equity, and cash flows
+for years then ended.  These financial  statements are the responsibility of the
+Company's  management.  Our  responsibility  is to  express  an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance  with the standards of the Public  Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audits  provide  a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated  financial statements referred to above present
+fairly, in all material respects,  the consolidated financial position of Seneca
+Foods  Corporation  and  Subsidiaries  as of March 31,  2005 and  2004,  and the
+consolidated results of their operations and their cash flows for the years then
+ended in conformity with U.S. generally accepted accounting principles.
+
+We have also  audited,  in accordance  with the standards of the Public  Company
+Accounting  Oversight Board (United States),  the  effectiveness of Seneca Foods
+Corporation and its Subsidiaries'  internal control over financial  reporting as
+of  March  31,   2005,   based  on  the   criteria   established   in   Internal
+Control--Integrated   Framework   issued   by  the   Committee   of   Sponsoring
+Organizations  of the  Treadway  Commission  and our report  dated June 10, 2005
+expressed  an  unqualified  opinion on  management's  assessment  and an adverse
+opinion on the effectiveness of internal control over financial reporting.
+
+
+ERNST & YOUNG LLP
+Buffalo, New York
+June 10, 2005
+
+
+================================================================================
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+Board of Directors and Stockholders
+Seneca Foods Corporation
+Marion, New York
+
+
+We have  audited  the  accompanying  consolidated  statements  of net  earnings,
+stockholders'  equity,  and of  cash  flows  of  Seneca  Foods  Corporation  and
+subsidiaries  (the "Company") for the year ended March 31, 2003. These financial
+statements   are  the   responsibility   of  the   Company's   management.   Our
+responsibility  is  to  express  an  opinion  on  these  consolidated  financial
+statements based on our audit.
+
+We conducted  our audit in accordance  with the standards of the Public  Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audit  provides  a
+reasonable basis for our opinion.
+
+In our opinion,  such consolidated  financial  statements present fairly, in all
+material  respects,  the results of  operations  and cash flows of Seneca  Foods
+Corporation  and  subsidiaries  for the year ended March 31, 2003, in conformity
+with accounting principles generally accepted in the United States of America.
+
+
+DELOITTE & TOUCHE LLP
+Rochester, New York
+May 21, 2003
+
+
+<PAGE>
+
+
+Shareholder Information and Quarterly Results
+
+The Company's  common stock is traded on The NASDAQ  National Stock Market.  The
+3.9 million of Class A  outstanding  shares and 2.8 million  Class B outstanding
+shares are owned by 288 and 279 shareholders of record,  respectively.  The high
+and low prices of the Company's common stock during each quarter of the past two
+years are shown below:
+
+<TABLE>
+<CAPTION>
+
+                          Class A:                            2005                         2004
+                                                      ------------------------------------------------
+                                       Quarter          High          Low            High         Low
+                                       ---------------------------------------------------------------
+                          <S>          <C>             <C>          <C>            <C>          <C>
+
+                                       First           $20.00       $17.92         $18.50       $16.20
+                                       Second           18.81        18.25          19.30        17.30
+                                       Third            19.00        18.00          21.50        19.00
+                                       Fourth           18.75        16.75          21.97        18.00
+
+
+
+                          Class B:                            2005                         2004
+                                                      ------------------------------------------------
+                                       Quarter          High          Low            High         Low
+                                       ---------------------------------------------------------------
+
+                                       First           $19.45       $18.25         $18.72       $16.85
+                                       Second           18.95        17.65          19.55        17.52
+                                       Third            19.10        18.25          22.88        19.05
+                                       Fourth           18.75        16.99          22.25        18.25
+</TABLE>
+
+
+As of March 31, 2005, the most restrictive  credit  agreement  limitation on the
+Company's  payment of dividends  and other  distributions,  such as purchases of
+shares,  to  holders  of  Class A or Class B Common  Stock  is an  annual  total
+limitation of $500,000,  reduced by aggregate annual dividend  payments totaling
+$23,000 which the Company presently pays on two outstanding classes of preferred
+stock.  Payment of dividends to common stockholders is made at the discretion of
+the Company's Board of Directors and depends,  among other factors, on earnings,
+capital  requirements,  operating  and financial  condition of the Company.  The
+Company has not declared or paid a common dividend in many years.
+
+The  following is a summary of the  unaudited  interim  results of operations by
+quarter:
+<TABLE>
+<CAPTION>
+                                                                 First           Second              Third            Fourth
+- ---------------------------------------------------------------------------------------------------------------------------------
+                                                                                  (In thousands, except per share data)
+<S>                                                            <C>               <C>               <C>               <C>
+
+Year ended March 31, 2005:
+Net sales                                                      $ 164,678         $ 220,375         $ 307,966         $ 171,255
+Gross margin                                                      15,147            16,546            16,580            15,999
+Net earnings                                                       4,502             2,445            (1,513)            2,473
+Basic earnings per common share                                      .40               .22              (.14)              .23
+Diluted earnings per common share                                    .40               .22              (.14)              .23
+
+Year ended March 31, 2004:
+Net sales                                                      $ 151,672         $ 248,610         $ 326,326         $ 164,242
+Gross margin                                                      15,567            18,812            16,410            18,457
+Net earnings                                                       3,672             3,910             1,887             3,472
+Basic earnings per common share                                      .35               .35               .17               .31
+Diluted earnings per common share                                    .35               .35               .17               .31
+</TABLE>
+
+
+Earnings  for the fourth  quarter have  historically  reflected  adjustments  of
+previously  estimated  raw  material  costs and  production  levels.  Due to the
+dependence  on fruit and  vegetable  yields  of the  Company's  food  processing
+segment, interim costing must be estimated.  Significant adjustments recorded in
+the  fourth  quarter  include  a net  impairment  charge of $1.3  million  and a
+reduction of the income tax  provision of $571,000.  During the fourth  quarter,
+certain  reclassifications  were  made  between  net  sales,  cost of sales  and
+selling,  general and administrative  expense which changed previously  reported
+quarterly amounts. There was no effect on previously reported net earnings.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>8
+<FILENAME>ex2110k05.txt
+<TEXT>
+
+
+
+
+                                   Exhibit 21
+
+                              LIST OF SUBSIDIARIES
+
+The  following  is  a  listing  of  subsidiaries  100%  owned  by  Seneca  Foods
+Corporation, directly or indirectly:
+
+            Name                                                   State
+            ----                                                   -----
+
+    Seneca Foods, L.L.C.                                         Delaware
+    Marion Foods, Inc.                                           New York
+    Seneca Foods International, Ltd.                             New York
+    Seneca Snack Company                                         Washington
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

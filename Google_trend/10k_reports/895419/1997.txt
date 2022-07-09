@@ -1,0 +1,3043 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RciMV4bXIL8lj/cDeLXO6YP5Vn9DXNLizLJEgibUl0LD7yOnhAGrUM+KpsE96+6N
+ AMzhToAG2UKcwwnyh/vnSQ==
+
+<SEC-DOCUMENT>0000950168-97-002327.txt : 19970818
+<SEC-HEADER>0000950168-97-002327.hdr.sgml : 19970818
+ACCESSION NUMBER:		0000950168-97-002327
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19970630
+FILED AS OF DATE:		19970815
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CREE RESEARCH INC /NC/
+		CENTRAL INDEX KEY:			0000895419
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				561572719
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21154
+		FILM NUMBER:		97665023
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2810 MERIDIAN PKWY STE 176
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27713
+		BUSINESS PHONE:		9193615709
+
+	MAIL ADDRESS:	
+		STREET 1:		2810 MERIDIAN PKWY
+		STREET 2:		STE 176
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27713
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>CREE RESEARCH, INC. 10-K
+<TEXT>
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+           [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D)
+                 OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                     FOR THE FISCAL YEAR ENDED JUNE 30, 1997
+
+            [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR
+              15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                     FOR THE TRANSITION PERIOD FROM ____ TO _____
+
+                           COMMISSION FILE NO. 0-21154
+
+                               CREE RESEARCH, INC.
+             (Exact name of registrant as specified in its charter)
+
+NORTH CAROLINA                                        56-1572719
+(State or other jurisdiction of                    (I.R.S. Employer
+incorporation or organization)                    Identification No.)
+
+               2810 MERIDIAN PARKWAY, SUITE 144, DURHAM, NC 27713
+          (Address of principal executive offices)                 (Zip Code)
+
+       Registrant's telephone number, including area code: (919) 361-5709
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          COMMON STOCK, $.005 PAR VALUE
+                                (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [X] No[ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+The aggregate market value of common stock held by non-affiliates of the
+registrant as of August 8, 1997 was approximately $175,729,164 (based on the
+closing sale price of $17.13 per share).
+
+The number of shares of the registrant's Common Stock, $0.005 par value per
+share, outstanding as of August 8, 1997 was 12,563,948.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+ Portions of the definitive Proxy Statement to be delivered to shareholders in
+connection with the Annual Meeting of Shareholders to be held November 11, 1997
+are incorporated by reference into Part III.
+
+                                       1
+<PAGE>
+
+
+                               CREE RESEARCH, INC
+
+                                    FORM 10-K
+
+                     FOR THE FISCAL YEAR ENDED JUNE 30, 1997
+
+                                      INDEX
+<TABLE>
+<CAPTION>
+
+                                                                                         PAGE
+<S>                                                                                     <C>
+PART I
+
+Item  1.        Business                                                                  3
+
+Item  2.        Properties                                                               15
+
+Item  3.        Legal Proceedings                                                        15
+
+Item  4.        Submission of Matters to a Vote of Security Holders                      15
+
+PART II
+
+Item  5.        Market for Registrant's Common Equity and Related
+                        Stockholder Matters                                              16
+
+
+Item  6.        Selected Financial Data                                                  16
+
+Item  7.        Management's Discussion and Analysis of Financial
+                         Condition and Results of Operations                             18
+
+Item  8.        Financial Statements and Supplementary Data                              23
+
+Item 9.         Changes in and Disagreements with Accountants on
+                        Accounting and Financial Disclosures                             44
+
+PART III
+
+Item 10.        Directors and Executive Officers of the Registrant                       44
+
+Item 11.        Executive Compensation                                                   44
+
+Item 12.        Security Ownership of Certain Beneficial Owners and
+                        Management                                                       44
+
+Item 13.        Certain Relationships and Related Transactions                           44
+
+PART IV
+
+Item 14.        Exhibits, Financial Statement Schedules and Reports on Form 8-K          45
+
+                Signatures                                                               50
+</TABLE>
+
+                                       2
+<PAGE>
+
+
+
+                                     PART I
+
+
+ITEM 1.  BUSINESS
+
+GENERAL DEVELOPMENT OF BUSINESS
+- --------------------------------------------------------------------------------
+         Cree Research, Inc. ("Cree" or "the Company") was incorporated in North
+Carolina in 1987. The Company develops, manufactures and markets electronic
+devices using silicon carbide ("SiC") and other wide bandgap semiconductor
+material technology. The Company believes that, for certain applications,
+SiC-based semiconductor devices offer significant advantages over products based
+on other semiconductor materials. The Company was founded to commercialize the
+production of SiC material, and to develop and market SiC-based semiconductor
+products.
+
+         Cree has developed a proprietary process for the growth of SiC crystals
+and their fabrication into wafers and semiconductor devices. The first
+commercial application of this technology was a light-emitting diode ("LED")
+that takes advantage of the ability of SiC material to emit blue light. The
+Company's first LED product was introduced in October 1989. The Company believes
+that it is currently the principal commercial manufacturer of SiC wafers and
+SiC-based blue LED chips in the world although blue LEDs are produced by
+competitors using materials other than SiC.
+
+         The Company markets its blue LED chip products principally to customers
+who incorporate them into surface mounted LED and packaged lamp components for
+resale to original equipment manufacturers ("OEMs"). Cree began to ship volume
+quantities of the blue LED in fiscal 1991 and 1992. In 1995, Cree released an
+improved LED using gallium nitride on silicon carbide materials technology. The
+Company has since worked to ramp up its manufacturing capacity for this product.
+
+         The Company also sells SiC wafer products to corporate, government, and
+university research laboratories. These customers utilize the material as the
+basis for research into SiC based electronic devices or the development of
+prototypes of such devices. The Company also is engaged in a variety of research
+programs related to the advancement of SiC process technology and the
+development of electronic devices that take advantage of SiC's unique physical
+and electronic properties. These research projects are primarily funded by
+federal government agencies and departments and corporate partners.
+
+         In August 1994, the Company formed a wholly-owned subsidiary, Real
+Color Displays, Inc. ("RCD"), to develop and market full color LED moving
+message displays. As an entry into this business, RCD acquired the assets of a
+Hong-Kong based company engaged in the sale of moving message signs. Vertical
+integration into the LED display market was seen as a means for the Company to
+enhance its core position in LED chip production. RCD's strategy is to target
+the low-end full color moving message display market, which is comprised of one
+and two-line message signs that display text messages and single graphics. These
+products are used in a variety of applications such as retail point of sale
+advertising, information signs, casino displays, transportation signs and market
+information tickers. During the second half of fiscal 1996, Cree introduced a
+new LED based product, marketed as the "Real Color Module(TM)" component, which
+the Company sells to OEMs for use in building large area video and graphic
+display systems. This product has become the primary focus for the future of the
+Company's display business.
+
+                                       3
+
+
+<PAGE>
+
+NARRATIVE DESCRIPTION OF
+BUSINESS                                                                PRODUCTS
+- --------------------------------------------------------------------------------
+BLUE LEDS
+
+         Cree introduced its blue LED chip product in fiscal 1990 and has since
+developed several generations of blue LED products, including a more robust chip
+introduced in fiscal 1997 that can withstand higher amounts of electrostatic
+discharge. Inexpensive LED lamps that produce red and green light have been
+available for many years. The Company has been working continuously to reduce
+the cost of its blue LED chip. Cree believes that the rate of market development
+is significantly dependent on pricing for the blue LED chip. Certain competitors
+offer blue LEDs at selling prices higher than the Company's prices. The
+commercial availability of the blue LED, in conjunction with red and green,
+enables the creation of lamps and displays capable of producing any color in the
+visible spectrum by combining blue with other previously available colors. There
+are two primary areas of the LED market that the Company's blue LED product
+is currently serving; the markets for solid-state lighting components and
+displays. The Company's blue LED chips are presently being used or designed into
+applications such as automotive lighting and full-color displays.
+
+         The Company supplies blue LED chips that OEMs use to manufacture
+solid-state light components. Single lamp red, green, or blue indicators can be
+used for consumer electronics, industrial instrumentation, automotive, and
+military applications that require a full spectrum of colors. The Company
+anticipates that the market for single blue LED lamps will also increase
+significantly, once the pricing of these products is similar to that of the red
+and green LED products available today. During fiscal 1997, the Company was able
+to significantly reduce its cost to manufacture an upgraded blue LED product
+through higher throughput and greater yields. If the Company can continue this
+trend, it will allow the Company greater flexibility in pricing to customers in
+the future.
+
+         Blue LEDs combined with red and green LEDs allow the development of
+full color displays. Such displays are currently being marketed in various
+formats by customers of the Company for indoor messaging and advertising
+applications. The majority of the market for LED-based display applications is
+in the Far East. The Company's principal customers who serve the display market
+are located in China, Taiwan and Japan. Cree also sells the LED product to
+European and domestic accounts.
+
+
+WAFER PRODUCTS
+
+          The Company manufactures wafer materials that are supplied to three
+markets: corporate, government and university programs. These wafers are
+currently being used in research and development applications by these
+customers. Each order may be sold as a bare wafer or customized by adding
+epitaxial films, depending upon the nature of the devices that the customer
+intends to develop. The application areas for these devices may include high
+frequency, high power and high temperature uses. Wafer prices vary
+substantially, depending upon the customer's specifications. The potential
+market for wafers depends on whether the Company's customers are successful in
+creating commercial products using SiC materials.
+
+
+                                       4
+<PAGE>
+
+ MODULES
+
+         The Company markets a modular LED-based component to customers as a
+building block for indoor customized video and graphic display systems. The
+product is a low profile full-color LED sub-assembly for use in both large and
+small scale full-color LED display systems and features a 170 degree viewing
+angle. It uses surface mount pixels which combine the three primary color LED
+chips, which are then assembled into very thin modules and can be combined to
+form any size display.
+
+         Due to the potentially diverse market for LED display systems, the
+Company cannot effectively address all opportunities at the display system level
+and therefore the Company has chosen a strategy of supplying modules directly to
+well established LED display system suppliers. This approach maximizes the
+efficiency of the Company's sales resources and minimizes the capital
+investments that would need to be made as a systems supplier and does not place
+the Company in competition with potential display system customers. The Company
+has recently re-focused operations and is offering four standard products which
+are being laboratory qualified.
+
+MOVING MESSAGE SIGNS
+
+         The Company's Real Color Displays subsidiary has been manufacturing
+full color moving message sign products since its inception in August of 1994.
+The Company is able to produce a variety of color moving message products at
+costs which are comparable to multi-three-color signs by utilizing the
+betagraphing technology which RCD acquired. The sign products range in
+brightness from indoor to "high-bright", which is suitable for store window
+applications. These products provide a low cost and effective way of displaying
+text messages which can be easily changed and updated. The possible applications
+for these displays include point of sale advertising and informational signs. As
+with the module business, the Company has also re-focused operations and intends
+to market eight standard products, along with a limited custom business,
+depending on the size of the order.
+
+
+PRODUCT DEVELOPMENT
+- --------------------------------------------------------------------------------
+         The Company is engaged in a number of research and development
+projects. Some projects have the goal of developing commercial products for the
+market in the near term. Other projects have longer term goals. There can be no
+assurance as to the successful development of commercial products or the timing
+thereof. All of the Company's products are developed internally and have been
+evolved based on proprietary materials using silicon carbide. Most of the
+projects currently under development are also derivatives of the base
+proprietary materials.
+
+         The Company partners with the Federal government in many of its current
+research and development efforts. By entering into contracts, the Company has
+most of its research and development costs funded by the U.S. Government.
+Contracts are awarded to the Company to fund both short term and long term
+research projects. Funding for projects with near term applications for the
+Company typically include a cost-share arrangement. Projects that may not have
+readily available production applications or projects that relate to longer term
+development are normally awarded on a cost plus basis with built in margins
+exceeding 5%. Pursuant to each contract, the amount of funding is determined
+based on cost estimates that include direct costs, plus an allocation for
+research and development, general and administrative costs, and the cost of
+capital expenses. Cost-plus funding is determined based on actual costs plus a
+set percentage margin. For cost-share contracts, the actual costs are divided
+between the U.S. Government and
+
+                                       5
+
+<PAGE>
+ 
+the Company based on the terms of the contract. The government's cost share is
+then funded to the Company. The contracts typically require the submission of a
+written report to document the results of such research.
+
+         For financial reporting purposes, the Company includes funding for all
+cost-plus and cost-share contracts, where the Company anticipates that total
+funding will exceed direct costs over the life of the contract, as contract
+revenue. All associated direct costs for these contracts are reported as cost of
+contract revenue. For cost-share contracts where the Company anticipates that
+costs will exceed funding over the life of the contract, funding is reflected as
+a reduction of research and development expenses, while direct costs are
+reported as research and development expenses. During fiscal years 1997, 1996
+and 1995, the Company spent $9,411,000, $5,572,000, and $4,072,000,
+respectively, for direct expenditures relating to product research and
+development activities. During the same periods, the U.S Government funded
+$8,760,000, $5,721,000 and $4,348,000, respectively, for direct and indirect
+expenses. The Company expects to continue to support substantial research and
+product development projects during the next fiscal year.
+
+         The following applications are currently under research and development
+by the Company:
+
+SILICON CARBIDE MATERIAL
+
+         The Company continually conducts research aimed at improving the
+quality of its wafers and enhancing its epitaxial process. The Company believes
+it can increase the volume of its wafers while lowering manufacturing costs, and
+permiting the development of more complex devices. The key determinant that will
+enable the manufacture of a more complex device, such as power semiconductors,
+is the substrate quality and wafer size. Epitaxial thickness, lower micropipe
+density and the elimination of variation are important factors to improve yield,
+marketability and lower cost. A larger two inch wafer size, which the Company
+expects to introduce in fiscal 1998, will also better fit most production
+fabrication facilities. The Company continues work on a $6.2 million contract
+awarded by the Defense Advanced Research Projects Agency ("DARPA") to fund this
+research and development. The contract runs through May 1998.
+
+LOW COST BLUE LED CHIPS
+
+         In fiscal 1995 Cree developed a blue LED die, that was much brighter
+than its prior generation blue LED. The brighter chip was developed by
+depositing a thin layer of gallium nitride (GaN) on a SiC substrate as opposed
+to a SiC thin film on SiC substrate. The upgraded chip has a wider range of
+potential applications in indoor display and other uses.
+
+         In order for the product to approach the acceptance of the red and
+green LED, the Company's management believes the price of the chip must be
+significantly reduced. In order to reduce the cost of production, the Company
+must attain success in modifying the chip structure to allow for smaller die and
+increasing the wafer size to two inches in diameter. Both of these modifications
+are expected to significantly reduce unit costs by improving the die per wafer
+yield. The development of these processes is expected to be completed in fiscal
+1998, although there can be no assurance that this goal will be achieved. In
+addition to the change in chip structure, the Company is also working to place
+in production a conductive buffer version of its LED product. The conductive
+buffer version is expected to significantly reduce costs of the epitaxial and
+clean room steps in the LED manufacturing process. If the Company does not
+achieve appropriate 
+
+
+                                       6
+
+<PAGE>
+
+increases in yields, then costs would fail to decline significantly and the
+Company's ability to generate acceptable margins would be impaired.
+
+HIGH-POWER RADIO FREQUENCY AND MICROWAVE TRANSISTORS
+
+         The Company is working to develop high-power radio frequency and
+microwave transistors. Such devices could eventually have important applications
+in cellular phone base stations, high-power solid-state broadcast systems for
+television and radio, satellite communications, radar search and detection
+equipment and electronic counter measure systems.
+
+         During fiscal 1997, the Company reported the development of SiC
+transistors that operate at frequencies up to 50 gigahertz ("GHz"). In addition,
+Motorola has previously completed power measurements on the devices and has
+determined that the transistors operate at 2.8 watts per millimeter at 1.8 GHz.
+This power density is two to three times higher than that normally achieved with
+equivalent silicon or gallium arsenide devices. Recently, the Company has
+achieved success by dramatically improving device yields. Cree's goal is to
+create repeatable power levels in excess of 50 watts and across frequencies from
+1 to 10 gigahertz. Although prototype devices have been developed, additional
+development work is needed to achieve commercial viability. During fiscal 1997,
+the Company has secured significant funding from Naval Research Laboratories,
+DARPA, and the Army Research Laboratories to advance this research. The former
+contract runs through February 1998, and the latter two contracts run through
+1999.
+
+BLUE AND ULTRAVIOLET ("UV") LASER DIODES
+
+         The storage capacity of optical disk drives can be increased
+significantly by utilizing a laser diode capable of emitting short wavelength
+light. The Company believes that a laser diode fabricated from gallium nitride
+and related materials deposited on SiC substrates could be capable of
+emitting a shorter blue wavelength light than that of the longer wavelength red
+or infrared lasers used today. This technology could potentially increase the
+storage capability of optical disk drives by a factor of four to five. This
+increased storage capability could lead to advances in CD-ROM data storage and
+audio and video compact disc applications. The government's interest in the blue
+laser diode is for the next generation of high density optical recording and
+playback systems as well as lightweight countermeasure and covert communication
+systems for the military. In April, 1995 the Company began work on a two year
+$4.0 million contract from DARPA to develop a blue laser diode. The Company 
+also entered into a joint research agreement with Philips 
+Laboratories-Briarcliff ("Philips") in March 1995 to cooperate in the
+development of the blue laser diode; this agreement, which was originally
+scheduled to expire in March 1997, is being terminated effective September 30,
+1997.
+
+         Additional funds were allocated to the development of the blue laser
+diode in June of 1996 when DARPA awarded $4.3 million to be spent over a three
+year period. The deliverable specified in the latest DARPA contract is for Cree
+to demonstrate a blue laser diode within a certain range of wavelengths and
+power outputs with a greater than 1,000 hour life. Commercial lasers typically
+have a specification for 1,000 to 10,000 hours of useful life. As a part of this
+development, in June 1997, Cree announced that it was capable of demonstrating
+an electrically pulsed GaN based blue laser with an operating lifetime in excess
+of one hour. In addition, in July 1997 the Company also announced that it has
+demonstrated a continuous wave laser operation at room temperature. Improved
+high reflectivity facet coatings, which lowered the threshold current for
+lasing, were applied to achieve this result. The continuous wave emission lasted
+for more than
+
+
+
+                                       7
+<PAGE>
+
+fifteen seconds. Improvements in the laser structure obtained by facet coating
+reduces device heating and allows for continuous operation. Substantial work is
+still needed to produce a blue laser capable for commercial application. In
+order to promulgate interest and advance this technology, the Company will seek
+aggressive corporate partners to assist with this research in the near future.
+There can be no assurance that a commercial product will result from this
+research and development effort.
+
+HIGH-POWER SEMICONDUCTORS
+
+         The Company is working on the development of prototype high power
+devices that, if successfully developed, could have many significant uses. Such
+devices could be very important in applications involving power conditioning and
+regulation. Potential application areas include variable speed drives for
+heating, ventilation and air conditioning systems, lighting ballasts, industrial
+motor controls, uninterruptable power supplies and power drive components for
+electric vehicles.
+
+         Cree continues to make progress in improving the quality of its SiC
+material, improving processes for fabricating devices and improving device
+designs. However, there is no assurance that further work will result in
+improvements in processes, material quality and end products that are necessary
+to introduce such products to market. Also, it is anticipated that the Company
+will need to develop methods to reliably produce wafers of a three inch diameter
+in order to make such devices economically viable. There can be no assurance 
+that this will be accomplished.
+
+HIGH-TEMPERATURE DEVICES
+
+         The Company has developed prototype SiC-based transistors and
+rectifiers that operate at very high temperatures. These high-temperature
+semiconductors have potential applications in the aerospace and automotive
+industries. For example during fiscal 1997, Cree demonstrated the first
+complementary MOS (CMOS) operational amplifiers in SiC. The CMOS technology
+increased the gain of the SiC devices by a factor of 100, and could operate at
+temperatures as high as 660 F. These devices could be used to amplify low level
+sensor signals directly on the engine block of an automobile engine to measure
+engine performance. This allows the optimization of fuel economy by adjusting
+engine performance during operation. In addition, these devices could find use
+in applications such as down hole drilling equipment, space-based power systems
+and electronic vehicles. Although prototype devices have been developed for some
+of the applications mentioned, additional development work is needed to achieve
+commercial viability. This area of development will not be a priority for the
+Company during the next fiscal year.
+
+NONVOLATILE RANDOM ACCESS MEMORIES ("NVRAMS")
+
+         Cree has been investigating the possible development of SiC-based NVRAM
+products. SiC-based NVRAMs may be able to retain an electrical charge for an
+extended period without being refreshed. The Company believes that SiC-based
+NVRAMs could be capable of "write" speeds many times faster than silicon-based
+nonvolatile memory devices. The Company is nearing the completion of a $4.8
+million contract with the Office of Naval Research ("ONR").
+
+         The Company has conducted a review of all of its development efforts
+and has determined that the cost and time involved for commercialization of such
+devices is too great, and accordingly, the Company does not expect to continue
+efforts in this area.
+
+                                       8
+<PAGE>
+
+GEMSTONE APPLICATIONS
+
+         Under a development agreement entered into with a related party, C3,
+Inc. ("C3"), in June 1997, the Company has undertaken a five-year program
+directed to development of near-colorless single crystalline silicon carbide
+material for use in gemstones as a diamond substitute. C3 will pay Cree's direct
+costs of the development effort, plus a percent margin on certain costs.
+Improved material resulting from the development program are expected to be
+supplied to C3 under a separate supply agreement between the parties, which
+provides for prices based on Cree's production costs plus a specified margin.
+Materials purchased by C3 under the supply agreement may be used solely for the
+fabrication and sale of gemstones. See Note 9 in the Notes to Consolidated
+Financial Statements.
+
+
+STRATEGIC ALLIANCES
+- --------------------------------------------------------------------------------
+         The Company believes that the formation of strategic alliances with
+other companies is a viable strategy for more quickly developing its technology,
+bringing certain products to market and defraying investment in resources.
+
+         Cree and Siemens A.G. ("Siemens") entered into a Development, License
+and Supply Agreement in fiscal 1996 to work jointly on the development of a
+green LED using gallium nitride on silicon carbide substrates, as well as
+improvements to Cree's blue LED product. Siemens is a major manufacturer of LED
+lamps for their merchant components business. In addition to undertaking the
+joint development program, Siemens committed to pay a $1.5 million license fee,
+to license certain epitaxial and fabrication technology from Cree for use in the
+manufacture of green and blue LEDs. The agreement also includes provisions under
+which Cree will supply a portion of Siemens' requirements for blue and green
+LEDs and wafer products required for the manufacture of such LEDs. In September
+1996, the Company entered into a Purchase Agreement with Siemens, pursuant to
+which Siemens agreed to purchase blue LED chips made using the Company's gallium
+nitride-on-silicon carbide technology. In March 1997, the Purchase Agreement was
+amended to provide for enhanced product specifications requested by Siemens and
+extend the non-cancelable portion of the agreement through September 1997. By
+partnering with Siemens on the continued enhancement of the gallium nitride on
+silicon carbide LED technology, the Company expects to gain increased acceptance
+for its products and technology in Europe and elsewhere.
+
+         Also, in September 1996, the Company entered into a License and
+Technology Transfer agreement and a related Supply Agreement with Shin-Etsu
+Handotai Co. Ltd. ("Shin-Etsu") and other parties. Pursuant to these agreements,
+the Company granted Shin-Etsu a license to use certain epitaxial and device
+fabrication process technology for the manufacture of the Company's blue LED
+product and agreed to supply silicon carbide wafers required to manufacture the
+licensed product. The license agreement provides for a payment of a license fee
+and running royalties based on a percentage of sales of products made using the
+licensed technology. The Company expects that this agreement will help establish
+the visibility of its gallium-nitride-on- silicon carbide technology for the
+blue LED chip in the Far Eastern markets.
+
+
+SALES AND DISTRIBUTION
+- --------------------------------------------------------------------------------
+         The Company markets its blue LED chips domestically and in a number of
+foreign countries. Because the production of lamp and display products
+incorporating LED chips is
+
+                                       9
+<PAGE>
+
+concentrated among a relatively small number of manufacturers, the Company uses
+an executive sales approach to market its LED chips. In Japan the Company
+markets its LED products and SiC wafers through its distributors Sumitomo
+Corporation and Shin-Etsu Handotai Co., Ltd. pursuant to a three-year
+Distributorship Agreement signed in June 1995. The Company markets its SiC wafer
+products throughout the rest of the world via a small direct sales staff.
+
+         The Company currently distributes the majority of its LED-based modules
+directly to original equipment manufacturers ("OEMs"). The OEMs in turn
+manufacture, sell and generally install modular based display systems at their
+customers' sites.
+
+         The majority of moving message signs are sold through the Company's
+subsidiary, RCD, via a network of international distributors and sales
+representatives in South America, the United Kingdom, the Pacific Rim and
+Canada. RCD also employs a direct sales program and uses a dealer network to
+market a portion of its products in the United States. In addition, RCD produces
+product as an OEM for other marketing and distribution companies.
+
+
+ COMPETITION
+- --------------------------------------------------------------------------------
+         The semiconductor industry is intensely competitive and is
+characterized by rapid technological change, price erosion, and intense foreign
+competition. The Company believes that it currently enjoys a favorable position
+in the existing and potential emerging markets for SiC-based products and
+materials primarily as a result of its proprietary SiC-based technology.
+However, the Company faces potential competition from a number of established
+domestic and international semiconductor companies, each of which is conducting
+SiC-related research and development. Many of these companies have greater
+engineering, manufacturing, marketing, and financial capabilities than the
+Company.
+
+         The Company's primary competition for the blue LED product comes from
+Nichia Chemicals ("Nichia") and Toyoda Gosei, companies headquartered in Japan,
+who currently market blue LED lamps that are brighter than the Company's LED
+product. The sales price for Cree's LED is presently lower than the standard
+price of the product offered by Nichia. However, there can be no assurance that
+Nichia will not achieve economies of scale in its production process that will
+result in lower pricing.
+
+         Cree has developed its product by growing GaN on SiC substrates for the
+subsequent fabrication of the blue LED. The primary competitor, Nichia, uses a
+sapphire substrate process. Cree's vertical chip has a lower cost primarily as a
+result of its size. Cree's chip is 44% of the size of the current competitive
+chip. Thus, SiC substrates can be 2.25 times the cost of sapphire and still be
+competitive on a price per chip basis assuming all other processing costs are
+the same. Nichia's sapphire substrate requires a larger chip because sapphire is
+an insulator material, and as such, requires a horizontal device with both
+contact ends at the top of the device. The Cree SiC product is a conductive
+substrate, which allows one contact point on the top and the other on the
+bottom, allowing for a more narrow vertical device. Furthermore, because all red
+and green chips are vertical devices, Cree's vertical structure facilitates
+rapid acceptance in existing LED component assembly operations. The Company has
+an issued patent related to GaN LEDs fabricated on SiC substrates entitled "High
+Efficiency Light Emitting Diodes From Bipolar Gallium Nitride", U.S. Patent No.
+#5,210,051.
+
+         In addition to Nichia, other LED companies are known to be funding
+development programs in the area of GaN, including, but not limited to: Toshiba,
+Sharp and Rohm. Also,
+
+
+                                       10
+ 
+<PAGE>
+
+Hewlett Packard recently released a blue LED chip which the Company believes is
+presently available in only limited quantities and at prices comparable to
+Nichia's, which are higher than Cree's prices. The Company also believes that
+the Hewlett Packard chip is on a similar substrate as Nichia's products.
+
+         The ability of the Company to compete successfully in existing and
+future markets for its products will depend on factors both within and outside
+its control. These factors include, but are not limited to, success in designing
+and manufacturing new products that implement its proprietary SiC-based
+technology, improvements of existing products, improvements in its SiC-based
+process technology, increasing production capability of GaN-on-SiC products,
+protection of its products by effective utilization of intellectual property
+laws, improvements in product quality, performance and reliability, diversity of
+product line, the rate at which customers incorporate the Company's components
+into their products, product introductions by the Company's competitors, and
+general domestic and international economic conditions. There is no assurance
+that the Company's competitive position will not be adversely affected by one or
+more of these factors in the future, particularly in view of the fast pace of
+technological change in the semiconductor industry.
+
+SOURCES AND AVAILABILITY OF RAW MATERIALS
+- --------------------------------------------------------------------------------
+         The Company depends on single or limited source suppliers for a number
+of raw materials and components used in its SiC wafer products and LEDs,
+including certain key materials and equipment used in its crystal growth,
+wafering, polishing, epitaxial deposition, device fabrication, and device test
+processes. The Company generally purchases these single or limited source
+materials and components pursuant to purchase orders and has no guaranteed
+supply arrangements with such suppliers. In addition, the availability of these
+materials and components to the Company is dependent, in part, on the Company's
+ability to provide its suppliers with accurate forecasts of its future
+requirements. Production of many materials used in semiconductor manufacturing
+is limited to one or a few manufacturing facilities worldwide. Disruption of
+production at one or more of these facilities represents a risk for the entire
+semiconductor industry. However, smaller companies, such as Cree, may be at
+greater risk than larger companies if supplies of any materials become scarce as
+suppliers may favor their larger customers in allocating their products. Any
+interruption in the supply of these key materials or components could have a
+significant adverse effect on the Company's operations.
+
+
+CUSTOMERS
+- --------------------------------------------------------------------------------
+         During fiscal 1997, sales to Siemens A.G. pursuant to the Purchase
+Agreement signed in September 1996 and amended in April 1997, accounted for 29%
+of total revenue for the Company. In addition, total LED and wafer sales to
+Siemens comprised 51% of total product revenue for the year. The loss of Siemens
+as a customer could have a material adverse effect on the results of operations
+if the Company were unable to replace the volume with another strategic partner.
+In addition, during fiscal 1997, contract revenue included 99% of sales from the
+Department of Defense. For the year ended June 30, 1996, Siemens and Sumitomo
+accounted for 16% and 16% of product revenues, respectively. For the same
+period, contract revenues consisted entirely of U.S. Government contracts, with
+97% from the Department of Defense. For the year ended June 30, 1995, two
+customers accounted for 24% of product revenues. For the same period, contract
+revenues consisted entirely of U.S. government contracts, 95% from the
+Department of Defense.
+
+                                       11
+<PAGE>
+
+
+BACKLOG
+- --------------------------------------------------------------------------------
+         As of June 30, 1997, the Company had a firm backlog of approximately
+$17.5 million consisting of approximately $ 9.2 million of product orders and
+$8.3 million of executed research contracts with the U.S. Government. This
+compares to a firm backlog level of $15.5 million as of June 30, 1996, which
+consisted of approximately $2.1 million of product orders and approximately
+$13.4 million of executed research contracts with the U.S. Government.
+Approximately $3.1 million and $10.9 million of the backlog at June 30, 1997 and
+June 30, 1996, respectively, relates to cost sharing arrangements under
+agreements with the U.S. Department of Defense. The total estimated costs to be
+unfunded by the U.S. Government relating to cost share arrangements, which
+concludes in July 1999, is $603,000. The orders supporting the 1997 product
+backlog amounts are expected to be shipped in fiscal 1998. However, this is a
+forward-looking estimate of the amount expected to be shipped, and future events
+may cause the percentage actually shipped to change.
+
+
+PATENTS AND PROPRIETARY RIGHTS
+- --------------------------------------------------------------------------------
+
+         The Company licenses ten U.S. patents from North Carolina State
+University ("NCSU"), and holds thirty-two additional domestic patents of its own
+or owned jointly. Cree also has license to sixteen foreign patents issued on the
+NCSU technology and twenty five foreign patents issued on Cree applications.
+Cree has twenty three patent applications of its own pending in the United
+States and also has sixty-three foreign patent applications pending. In addition
+to its patent rights, the Company relies upon certain proprietary know-how and
+trade secrets in its manufacturing process and has entered into non-disclosure
+agreements to protect its proprietary technology with both employees and parties
+outside of the Company.
+
+         The Company earns a material amount of its revenues in overseas
+markets. While the Company has applied for patent protection for certain of its
+technologies and products in some of these markets, there can be no assurance
+that such markets will be subject to the Company's intellectual property rights.
+
+         THE NCSU LICENSE. In 1987, the Company entered into a license agreement
+with NCSU pursuant to which the Company was granted a worldwide, fully paid,
+exclusive license to manufacture, use, and sell products and processes covered
+by the claims of ten U.S. patent applications filed by NCSU relating to SiC
+materials and SiC-based semiconductor devices, some of which also have been
+filed in foreign countries. Ten patents were subsequently issued with respect to
+eight of those applications, with expiration dates between 2007 and 2009.
+Sixteen of the foreign filings have been issued with expiration dates from 2006
+through 2011. Under the terms of the license, the U.S. Office of Naval Research
+has retained an interest in the licensed technology for certain military
+applications.
+
+         CREE'S PATENTS. Since its inception, the Company has been granted
+thirty-two U.S. patents of its own or jointly owned. These patents expire
+between 2007 and 2014. The Company has filed a number of these patent
+applications in foreign countries, twenty five of which have been issued. In
+addition, the Company has in the past entered into, and intends to continue to
+seek, joint research and development programs to develop new SiC-based devices.
+These efforts have resulted in several joint patents where the Company has
+exclusive, worldwide rights to its use. The Company has a joint patent with
+Purdue University pertaining to certain nonvolatile memory devices, two joint
+patents with General Electric Corporation ("GE"), and one joint patent with
+NCSU.
+
+                                       12
+<PAGE>
+
+         Although the Company has not received any claims that its products
+infringe on the proprietary rights of third parties, there can be no assurance
+that third parties will not assert infringement claims against the Company in
+the future with respect to current or future products or that such assertion may
+not require the Company to enter into royalty arrangements, prevent the Company
+from selling products, or result in protracted or costly litigation.
+
+         Because of rapid technological developments in the semiconductor
+industry and the broad and rapidly developing patent and mask-work coverage, the
+patent position of any semiconductor device manufacturer, including that of the
+Company, is subject to uncertainties and may involve complex legal and factual
+issues. Consequently, although the Company holds certain patents, is licensed
+under other patents, and is currently pursuing additional patent applications,
+there can be no assurance that patents will be issued from any pending
+applications or that claims allowed by any existing or future patents issued or
+licensed to the Company will not be challenged, invalidated, or circumvented, or
+that any rights granted thereunder will provide adequate protection to the
+Company. Moreover, the Company may be required to participate in interference
+proceedings to determine the priority of inventions, which could result in
+substantial costs to the Company.
+
+
+EMPLOYEES
+- --------------------------------------------------------------------------------
+         As of June 30, 1997, the Company employed 207 people, all of which are
+located in the United States. None of the Company's employees are represented by
+a labor union or subject to collective bargaining agreements. The Company
+believes relations with its employees are excellent.
+
+
+
+RISK FACTORS
+- --------------------------------------------------------------------------------
+         Ownership of the Company's common stock is subject to a number of
+risks, including the following: Since inception, the Company has derived a
+significant portion of its revenue from U.S. government funded research
+contracts. Over the same period, the Company has also made a sizable portion of
+its product sales to customers for evaluation purposes. Although the Company
+believes that, over the past few years, the majority of its blue LED chips have
+been sold for incorporation into end-user commercial products, a number of
+customers are still evaluating the blue LED. Therefore, on-going sales of
+significant volumes of this and other products cannot be assured. In addition,
+the Company faces competition from other companies that have introduced blue LED
+products. Although the Company believes its blue LED is superior and is
+available at lower prices, there can also be no assurance that existing and new
+competitors will not introduce products that are more competitively priced or
+are superior to the Company's blue LED.
+
+         The Company must continue to improve its production yields in order to
+reduce costs and grow revenue. Production yield problems or missed efficiencies
+may have an adverse effect on the Company's operations. Should the Company
+experience protracted problems in the production of its key components or the
+operation of its proprietary manufacturing systems, its ability to deliver its
+products could be materially impacted. The Company is also dependent on a
+limited source of suppliers for a number of raw materials and components used in
+its SiC wafer products and LED's. An interruption in the supply of these items
+could cause the Company's manufacturing efforts to be damaged and result in
+customer dissatisfaction.
+
+         The Company relies on a small number of customers for much of its
+sales. At present, the majority of the LED sales are made to Siemens pursuant to
+the parties' Purchase Agreement
+
+
+
+                                       13
+<PAGE>
+
+executed dated September 1996, and amended in April 1997. This agreement calls
+for shipments through December 1997, subject to certain cancellation provisions.
+The cancellation of the current contract, or the failure to extend this
+agreement, could have a material adverse effect on the business and prospects of
+the Company. Dependence on one or a few customers may require the Company to
+agree to unfavorable contract terms and conditions that could cause contracts to
+be unprofitable. Likewise, the failure of the Company to diversify its customer
+base could limit the prospects for the blue LED business.
+
+         The Company has, and is expected to continue to have, a substantial
+percentage of its sales to foreign companies, primarily in Asia and Europe.
+There can be no assurance that the Company's current intellectual property
+position will be enforceable in foreign countries to the extent it is
+enforceable in the United States. In addition, the Company's international sales
+may be subject to government controls and other risks, including export
+licenses, federal restrictions, changes in demand resulting from currency
+fluctuations, political instability, trade restrictions, changes in tariffs and
+collection of accounts receivable.
+
+         To remain competitive, the Company must continue to invest substantial
+resources in research and development. The Company's prospects for long-term
+success are substantially dependent on its ability to continue to increase the
+performance of its blue LED product and to increase production efficiency. The
+successful introduction of the smaller die size, combined with the larger two
+inch diameter wafer, which is expected to increase yield and lower production
+costs, is very important to the Company achieving its development goals.
+Furthering the need for enhanced efficiency is the expected decline in the
+average sales price for the LED product in fiscal 1998. Without the smaller die
+and two inch wafer implementations, the Company may not maintain or realize
+growth in the LED business.
+
+          The patents and other proprietary rights of the Company may not
+prevent the competitors of the Company from developing noninfringing technology
+and products that are more attractive to customers than the technology and
+products of the Company. The technology and products of the Company could be
+determined to infringe the patents or other proprietary rights of others.
+
+         Over the past several years, the Company has been awarded a number of
+contracts from agencies of the United States government for purposes of
+developing SiC material and SiC-based semiconductor devices. Government policy
+is constantly changing, therefore, there can be no assurance that the Company
+will enter into any additional government contracts, or, if such contracts are
+entered into, that they will be profitable or produce contract revenue. In
+addition, there can be no assurance that after any such contracts are entered
+into, changing government regulations will not significantly alter the benefits
+of such contracts that can be expected to inure to the Company. Cutbacks in, or
+reallocations of federal spending, including changes which could be proposed or
+implemented in the future, could have a material, adverse impact on the
+Company's results of operations, as well as its ability to implement its
+research and development programs.
+
+         The Company's quarterly operating results have varied significantly as
+a result of a number of factors, including the timing and market acceptance of
+new product introductions by the Company, the timing of significant orders from
+and shipments to customers, non-recurring license fee income, and general
+domestic and international economic conditions. The Company's operating results
+may fluctuate in the future as a result of these and other factors, including
+the Company's success in developing, introducing , and shipping new products;
+its product mix; and the level of competition that it experiences.
+
+                                       14
+<PAGE>
+
+ITEM 2.  DESCRIPTION OF PROPERTY
+
+         The Company leases space for its manufacturing and primary research and
+development facilities, which occupy 23,800 and 1,900 square feet, respectively,
+in the same building in Durham, North Carolina. The leases expires in December
+2001 and October 1998, respectively. The Company has also leased approximately
+15,300 square feet of additional space in the same building to accommodate its
+marketing and administration functions, warehousing for inventory and facilities
+for its subsidiary Real Color Displays, Inc. The lease for this space expires in
+January 1998. In addition, the Company also leases approximately 13,200 square
+feet in a separate building in Durham, North Carolina, for its device
+fabrication and test processes. This lease term expires in August 2000. The
+Company continues to lease approximately 3,000 square feet of office and
+warehouse space in Morrisville, North Carolina, which is currently subleased to
+a third party; this lease has been renewed through January 1998.
+
+         The Company has entered into a contract to purchase real property
+consisting of approximately thirty acres of land on which exists on a 145,000
+square foot production facility and a total of 35,000 square feet of service and
+warehouse buildings. This property is located in Durham County, North Carolina,
+in the vicinity of the Research Triangle Park. The purchase price under the
+contract is $3,000,000. The Company is currently evaluating the property and has
+the right to terminate the contract without liability during a specified
+feasibility period. If the Company chooses to purchase this facility, it will
+relocate all of its operations over the next few years.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         On October 25,1996, a putative class action lawsuit alleging violations
+of the federal securities laws was filed against the Company and certain of its
+officers and directors in the U.S. District Court for the Middle District of
+North Carolina. A substantially similar action was filed in the same court on
+December 20, 1996. The two actions were consolidated and lead plaintiffs were
+appointed by order of the court dated February 5, 1997. Plaintiffs filed a
+consolidated amended complaint on March 17, 1997. In the amended complaint,
+plaintiffs seek to represent a class of all persons who purchased the Company's
+common stock between February 1, 1996, and July 2, 1996 ( the "Class Period").
+They assert claims under Sections 10(b) and 20(a) of the Securities Exchange Act
+of 1934, as well as claims of negligent misrepresentations and common law fraud,
+based upon alleged material misrepresentations and omissions during the Class
+Period. The amended complaint does not specify the damages sought.
+
+         On May 2, 1997, the defendants moved that the amended complaint be
+dismissed for failure to state a claim upon which relief can be granted and
+other grounds. As of August 8, 1997, the motions to dismiss remain pending
+before the court, and the court has not certified the action as a class action.
+Management believes that the action is without merit and intends to contest it
+vigorously.
+
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         No matters were submitted to a vote of security holders during the
+fourth quarter of fiscal 1997.
+
+                                       15
+<PAGE>
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+         Common Stock Market Information. The Company's common stock is traded
+         -------------------------------
+in the NASDAQ National Market System and is quoted under the symbol "CREE". The
+following table sets forth, for the quarters indicated, the high and low sale
+prices as reported by NASDAQ and as adjusted for the two-for-one stock split
+effective August 14, 1995. Quotations represent interdealer prices without an
+adjustment for retail markups, markdowns or commissions and may not represent
+actual transactions.
+<TABLE>
+<CAPTION>
+
+                       FY 1997                                     FY 1996
+                       -------                                     -------
+
+<S>                    <C>                  <C>                   <C>                    <C>
+                       High                  Low                   High                  Low
+First Quarter          $15-3/4               $8-1/4                $31-1/2               $14-1/8
+Second Quarter         $14                   $8-7/8                $26-1/2               $12-1/2
+Third Quarter          $15-7/8               $9-3/8                $19                   $11
+Fourth Quarter         $15-1/8               $9-1/2                $21-1/2               $13-3/4
+
+</TABLE>
+
+         Holders and Dividends. There were approximately 376 holders of record
+of the Company's Common Stock as of August 8, 1997.
+
+         The Company has never paid cash dividends on its Common Stock and does
+not anticipate that it will do so in the foreseeable future. There are no
+contractual restrictions in place that would limit the Company from paying
+dividends on its common stock, but applicable state law may limit the payment of
+dividends. The present policy of the Company is to retain earnings, if any, to
+provide funds for the operation and expansion of its business.
+
+
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The consolidated statement of operations data set forth below with
+respect to the years ended June 30, 1997, 1996 and 1995 and the consolidated
+balance sheet data at June 30, 1997 and 1996 are derived from, and are qualified
+by reference to, the audited consolidated financial statements included
+elsewhere in this report and should be read in conjunction with those financial
+statements and notes thereto. The consolidated statement of operations data for
+the years ended June 30, 1994 and 1993 and the consolidated balance sheet data
+at June 30, 1995, 1994 and 1993 are derived from audited consolidated financial
+statements not included herein.
+
+                                       16
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+                             Selected Financial Data
+                      (in thousands, except per share data)
+<TABLE>
+<CAPTION>
+
+
+                                                     Years Ended June 30,
+- ----------------------------------------------------------------------------------------
+                                       1997        1996      1995       1994       1993
+- ----------------------------------------------------------------------------------------
+<S>                                  <C>         <C>        <C>       <C>        <C> 
+Statement of Operations Data:
+Product revenue, net                 $19,823     $9,689     $5,989    $3,534     $3,859
+Contract revenues                      6,535      3,945      3,011     3,956      2,463
+License fee income                     2,615      1,423          -       -            -
+Total Revenue                         28,973     15,057      9,000     7,490      6,322
+Net income (loss)                      3,542        243        (17)     (431)       594
+Net income (loss) per share            $0.27      $0.02      $0.00    $(0.04)     $0.07
+Weighted average shares
+  outstanding                         13,126     12,615     10,367    10,337      8,602
+
+
+
+                                                     Years Ended June 30,
+                                       1997            1996             1995       1994        1993
+- ------------------------------------------------------------------------------------------------------------
+Balance Sheet Data:
+Working capital                      $21,013          $18,596           $9,971    $11,006    $15,852
+Total assets                          50,137           43,796           20,924     20,018     20,309
+Long-term obligations                  1,638                -               -          14         23
+Shareholders' equity                  45,125           40,672           19,504     19,334     19,669
+</TABLE>
+
+
+         o The Company has not declared a dividend on common stock since its
+           inception
+
+         o The years ended June 30, 1997, 1996 and 1995 include the Company's
+           wholly owned subsidiary, Real Color Displays, Inc.
+
+                                       17
+<PAGE>
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+CAUTIONARY STATEMENT IDENTIFYING IMPORTANT FACTORS THAT COULD CAUSE THE
+COMPANY'S ACTUAL RESULTS TO DIFFER FROM THOSE PROJECTED IN FORWARD LOOKING
+STATEMENTS
+
+         In connection with the "safe harbor" provisions of the Private
+Securities Litigation Reform Act of 1995, readers of this document are advised
+that this document contains both statements of historical facts and forward
+looking statements. Forward looking statements are subject to certain risks and
+uncertainties, which could cause actual results to differ materially from those
+indicated by the forward looking statements. Examples of forward looking
+statements include, but are not limited to (i) projections of revenues, income
+or loss, earnings per share, capital expenditures, dividends, capital structure
+and other financial items, (ii) statements of the plans and objectives of the
+Company or its management or Board of Directors, including product enhancements,
+or estimates or predictions of actions by customers, suppliers, competitors or
+regulatory authorities, (iii) statements of future economic performance, and
+(iv) statements of assumptions underlying other statements and statements about
+the Company and its business.
+
+         This document also identifies important factors which could cause
+actual results to differ materially from those indicated by the forward looking
+statements. These risks and uncertainties include the Company's ability to lower
+LED costs, gain a larger customer base, price products competitively, increase
+product yields and reduce chip size, infringement of intellectual property
+rights and licenses of the Company or others, actions of competitors, the
+effects of government regulation, both foreign and domestic, availability of
+U.S. government funded research contracts, possible delays in the introduction
+of new products, customer acceptance of products or services and other factors,
+which are described herein. See Item 1, Business, Risk Factors.
+
+RESULTS OF OPERATIONS
+
+         For the year ended June 30, 1997 ("Fiscal 1997"), Cree posted record
+revenue and net income of $28,973,000 and $3,542,000 or $0.27 per share,
+respectively. These results reflect an increase in revenue and net income of
+$13,916,000 and $3,299,000, respectively over the prior year. Product revenue,
+which includes LED and wafer sales, module display products and Real Color
+Displays, Inc. ("RCD") moving message sign sales, reflect a 105% increase over
+fiscal 1996 results. Comparatively, product revenue also increased 62% during
+fiscal 1996 over 1995 amounts.
+
+         During fiscal 1997, a significant portion of the rise in product
+revenue was directly attributable to higher blue light-emitting diode ("LED")
+volume, which was prompted by the purchase agreement signed in September 1996
+and amended in April 1997, with Siemens A.G. ("Siemens"). That agreement and its
+amendment, provided sales in excess of $8 million for fiscal 1997. As of June
+30, 1997, the Company has shipped all quantities required to be shipped by that
+date under the terms of the agreement. The amendment to the purchase agreement
+provides for enhanced product specifications requested by Siemens. The
+specifications require that all LEDs be tested to meet a maximum rating for
+resistance to electrostatic discharge. In exchange for the higher grade chip,
+Siemens agreed to make non-cancelable all shipments scheduled through September
+30, 1997. Shipments scheduled for October through December 1997, may be
+canceled, subject to a cancellation fee. As of June 30, 1997, approximately 25
+million chips remain to be shipped under the amended contract, of which 15
+million are subject to cancellation at Siemen's option. Additionally, the
+amendment provides for higher prices per unit on items shipped early in
+
+
+                                       18
+<PAGE>
+
+
+the contract, with amounts being reduced as volume increases in the latter part
+of the contract. The higher pricing, much of which has already been recognized
+in fiscal 1997, was negotiated to offset increased per unit costs incurred
+during the third and fourth quarters of 1997 to meet enhanced specifications.
+Further reductions in per unit costs are required to provide a consistent profit
+margin on future sales and is expected from a combination of improvements made
+in the production process for yield, other processing efficiencies and the
+effective utilization of plant assets. There can be no assurance that these
+efficiencies will be achieved. Under the amended contract, revenues received
+from Siemens for shipments are also subject to certain foreign currency
+provisions, whereby Siemens will receive discounts if the conversion rate of the
+German mark to the U.S. dollar at the date of shipment has averaged 1.75 or more
+for the preceding thirty days. LED sales also increased by 279% in 1996 over
+1995 amounts due to capacity and yield improvements made during that year.
+
+         The Company is currently focusing on obtaining additional LED customers
+who are interested in ordering commercial volumes of the product. If the Company
+is unable to expand its customer base, its revenue and earnings growth potential
+could be adversely impacted. The Company believes that in order to significantly
+grow market demand for the LED product and defray competition, it must
+substantially lower prices. To offer lower pricing to customers, the Company
+must reduce unit costs of production. The Company is currently working on two
+projects which it expects will reduce the unit cost per chip. The first is
+expected to reduce the size of each chip while continuing to use existing
+processes, thereby increasing the number of chips yielded per wafer. The second
+initiative is expected to increase the overall wafer size to a two inch diameter
+structure. This effort will also increase the yield per wafer, thus
+substantially lowering the overall cost of the LED product. The Company's goal
+is to complete both of these projects during the first half of fiscal 1998.
+While the Company's average sales price per unit for the LED product in 1997
+remained consistent with 1996 levels, the price is projected to fall during 1998
+as the Siemens amended purchase agreement includes a lower unit price in the
+second half of the contract. In addition, if the Company achieves increased
+volume from other customers a lower average sales price is expected. If the
+Company is unable to successfully manufacture the new chip structures described
+above, profits are anticipated to deteriorate during fiscal 1998. This situation
+would curtail market development and growth for the Company's LED business. The
+anticipated reduction in the average sales price in 1998 is expected to be
+offset with greater LED volume, assuming that the revised chip structure is
+successful.
+
+         In the middle and latter portion of fiscal 1997, material wafer sales
+began to experience an improved pattern of orders as the worldwide research
+community is gaining a better acceptance of the SiC technology, and the Company
+continues to make improvements to the quality of its SiC material. Accordingly,
+wafer sales volume increased approximately 42% over 1996 levels. In addition,
+the Company was able to realize a slight increase in its average sales price due
+to the mix of premium wafer products with low defect levels that were more
+readily available during 1997. Overall, wafer sales were 60% higher than 1996
+amounts. During 1998, the Company expects to continue to supply wafers largely
+for research efforts, as customers have not yet proven the effectiveness of the
+product for commercial applications. During fiscal 1996, wafer sales grew 27% or
+$927,000 over 1995 amounts, due to additional plant capacity installed during
+that year.
+
+         In July 1997, the Company announced development and supply agreements
+with a related party, C3, Inc. ("C3"), to develop and supply bulk single crystal
+silicon carbide for gemstone applications. Pursuant to the development
+agreement, the Company has undertaken a five-year program directed to
+development of near-colorless single crystalline for use in gemstones as a
+diamond substitute. C3 will pay Cree's direct costs of the development effort,
+plus a percentage
+
+
+
+                                       19
+<PAGE>
+
+margin on certain costs. Improved material resulting from the development
+program will be supplied to C3 under the supply agreement, which provides for
+prices based on Cree's production costs plus a specified margin. Material
+purchased by C3 under the supply agreement may be used solely for the
+fabrication and sale of gemstones. During fiscal 1997 and 1996, the Company sold
+material products to C3. Those sales were at margins consistent with those
+achieved in connection with sales of similar products to the Company's other
+customers.
+
+         Financial results for the displays product line includes sales of both
+modules and sign products. Revenue for the modules business increased by 76% in
+fiscal 1997 over prior year results due to increased volume as the product was
+introduced in fiscal 1996. Moving message sign sales by RCD, the Company's
+subsidiary, suffered a 53% decline in revenue over 1996 amounts due to a 48%
+decrease in volume. This reduction was prompted by a long term strategic shift
+in focus of the Company to the module product line, which has a longer sales
+lead time. The moving message sign business relies heavily on distributor and
+small independent customers. While the Company continues to use its best efforts
+to market and sell moving message signs, the modules product line is considered
+to be a better fit for long term initiatives, as it requires fewer resources and
+aligns with the distribution network of other customer partners. For fiscal
+1998, the Company has reduced the number of standard product offerings in both
+of these businesses and will concentrate on increasing sales of these standard
+products. The average sales prices from both products remained consistent with
+1996 levels. Revenue for the displays business grew 11% or $185,000 during
+fiscal 1996 from 1995 amounts due to the introduction of the modules line of
+business during that year.
+
+         Research contract revenue increased 66% to $6,535,000 during 1997 and
+31% in fiscal 1996 from 1995 amounts. Higher revenues were generated as a result
+of more funding being made available from the U.S. government for certain
+research contracts, primarily in the areas of microwave, blue laser and basic
+material development. Also, additional plant capacity in both years have enabled
+more research to be performed by the Company.
+
+         Included in revenue for fiscal 1997, is a one-time license fee of
+$2,615,000. This license fee was earned pursuant to a License and Technology
+Transfer Agreement entered into in September 1996 with Shin-Etsu Handotai Co.
+Ltd. ("Shin Etsu"). Pursuant to this agreement, the Company granted Shin-Etsu a
+license to use certain epitaxial and device fabrication process technology for
+the manufacture of the Company's LED product. The license fee is payable in
+installments, with all funds collected as of June 30, 1997, with the exception
+of a $500,000 payment due on June 30, 1998. The Company also recorded an accrued
+expense of $186,000 payable in June 1998 to a third party that brokered the
+agreement. Results for fiscal 1996 include a one-time net license fee revenue of
+$1,423,000. This license fee was earned pursuant to a Development License and
+Supply Agreement entered in October 1995 with Siemens, in which the Company
+granted Siemens a license to use certain technology to manufacture blue and
+green LED products. These license agreements were entered into to allow the
+Company to increase interest in the GaN-on-SiC materials technology used in its
+LEDs in both Europe and Asia. In addition, if the licensed technology is put
+into commercial production by these corporate partners, it is anticipated that
+they will continue to purchase SiC wafer materials from the Company, although
+there is no contractual requirement to do so. As of August 1997, Siemens and
+Shin-Etsu have not begun commercial production using the licensed technology.
+
+         The Company's gross margin increased 177% to $9,878,000, or 34% of
+revenue for fiscal 1997. The Company's gross margin as a percentage of sales was
+24% and 33% in 1996 and 1995 respectively. License fee revenue, which has no
+corresponding cost, is included in both 1997 and
+
+
+                                       20
+<PAGE>
+
+1996 results. Without license fees, gross margins would have been $7,263,000 or
+28% of revenue for fiscal 1997 and $2,145,000 or 16% of revenue for the
+comparative period in 1996. The overall increase in margin in 1997 stems from
+higher throughput, which more effectively utilized plant capacity, and yield
+efficiencies on LED and wafer products, which lowered the cost of production per
+unit. While the Company has demonstrated a lower per unit cost during 1997, much
+of the success was due to higher volumes processed relating to the Siemens
+purchase agreement. This greater throughput enabled the Company to spread fixed
+cost investments over a larger volume of product. Higher margins in the future
+are largely contingent on the Company's ability to increase the volume of LEDs
+produced, by gaining a larger customer base and by the successful application of
+the research and development projects. In addition, as a result of the
+anticipated decline in the average sales price to be received in 1998, to
+maintain competitive margins, the Company must also enhance its chip structure
+to allow for smaller chips and larger wafers. If the Company is unable to
+improve efficiency under the new chip standards or gain orders for additional
+volume, gross margin could be negatively impacted. Gross margin deteriorated in
+1996 from 1995 levels, due to disappointing manufacturing yields and
+insufficient utilization of the significant investments made in additional plant
+capacity.
+
+         The Company benefits from research and development efforts sponsored by
+U.S. government contracts, corporate sponsors and internal funding. Contracts
+are awarded to the Company to fund both short term and long term research
+projects. Funding for projects with near term applications for the Company
+typically include a cost-share component that the Company is responsible for
+absorbing. Projects that may not have available production applications or
+require longer term development are usually awarded on a cost-plus basis with
+built in margins exceeding 5%.
+
+         During fiscal 1997, the Company changed its policy for reporting
+government contract activity. Reporting is now based on the nature of the
+contract. For contracts under which the Company anticipates that funding will
+exceed direct costs, all funding is reported as revenue and direct costs are
+reported as cost of revenues. For contracts under which the Company anticipates
+that direct costs will exceed funding, costs are reflected as research and
+development expenses with the related funding amounts offsetting these costs.
+
+         Research and development costs have increased by 42% to $1,826,000 in
+1997 due to substantial work performed on two cost-share contracts to further
+the blue laser research. Net costs to the Company for these projects were
+$671,000 and $367,000 for 1997 and 1996, respectively. Both of these cost-share
+contracts will conclude during the first half of 1998. Additionally, research
+and development costs for 1997, include a one-time write off of $93,000 for the
+closure of the Company's Eastern European Division. The Eastern European
+Division, located in St. Petersburg, Russia, was a research group performing
+some of the Company's basic material and device development work.
+
+         Sales and general and administrative expenses increased 47% to
+$4,301,000 for the period ended June 30, 1997, compared to 1996 due to overall
+cost increases to support the growth of the Company. As a percentage of revenue,
+these costs have decreased to 15% in 1997 from 19% and 25% in 1996 and 1995,
+respectively. Increased costs include recruiting and salary expenses for
+additional sales personnel to focus the business on gaining new LED customers,
+the brokerage fee (a net present value of $172,000) associated with generating
+license fee revenue and greater legal fees in connection with the defense of the
+pending securities class action lawsuit (see Part I, Item 3). The Company
+anticipates that sales and general and administrative expenses may continue to
+rise in future periods as it expands sales efforts and as a result of the
+pending litigation.
+
+                                       21
+<PAGE>
+
+
+         Other (income) expense includes a net $762,000 one-time charge
+associated with disposal costs for fixed assets and expenses arising from
+abandoned patent applications. This amount was partially offset by proceeds
+received from an insurance settlement for lost profits associated from a
+temporary plant shut down that was caused by a natural disaster.
+
+         Net interest income decreased by $260,000 in 1997 over 1996 results and
+increased by $405,000 when comparing 1996 to 1995, due to higher investable cash
+balances available in fiscal 1996. The Company concluded a private equity
+placement in September 1995, that increased available cash in 1996.
+
+         During 1997, the Company's effective tax rate was 5%. The rate was
+lowered from statutory levels due to the utilization of federal and state net
+operating loss carryforwards. The 1997 tax provision consists primarily of
+Japanese foreign tax withholdings on license fee income. The Company anticipates
+that the effective tax rate will increase substantially in fiscal 1998 since the
+remaining federal net operating loss carryforwards will not offset as high a
+percentage of projected pre tax book income.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         Net cash provided by operations reached a record $5,859,000 in 1997
+compared with cash used in operations of $1,636,000 and $562,000 in 1996 and
+1995, respectively. This increase was driven primarily from profitability. The
+increase in cash used in 1996 over 1995 amounts was caused by a significant
+increase in accounts receivable and inventory balances. If the Company achieves
+its goal of increasing customer demand and implements the two research and
+development projects related to reducing production costs, the Company expects
+that cash provided by operations will increase in 1998 and will be sufficient to
+fund all anticipated capital additions required.
+
+         The number of trade average days sales outstanding was reduced to 55
+for 1997 from 96 and 57 days experienced in 1996 and 1995, respectively, due to
+a focused collections effort put forth during the year.
+
+         The Company invested $7,974,000 in capital equipment during 1997
+compared to $14,740,000 and $3,486,000 spent during 1996 and 1995, respectively.
+Much of the 1997 plant capacity additions were made in the crystal growth and
+epitaxial departments. At this time, the Company anticipates additions in 1998
+to be at a similar level to amounts spent in 1997 and intends to fund these
+additions through cash provided by operations and cash on hand. During 1996, a
+significant investment was made for equipment related to the production of the
+LED and wafer products. Additional investments were also made in the crystal
+growth and wafer processing areas. Financing activities provided the Company
+$20,924,000 during fiscal 1996. The majority of the funding was provided by the
+September 1995 private placement which yielded approximately $17.5 million.
+
+OUTLOOK: ISSUES AND UNCERTAINTIES
+
+         Cree does not provide a forecast for future financial performance.
+While management is optimistic about the Company's short and long term
+prospects, the issues and uncertainties, described in PART I, Item 1,
+Business, Risk Factors, should be considered in evaluating its growth outlook.
+
+                                       22
+
+<PAGE>
+
+
+
+   ITEM 8.        FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+
+                   Index to Consolidated Financial Statements
+<TABLE>
+<CAPTION>
+
+
+                                                                                         Page
+
+<S>                                                                                       <C>
+Report of Independent Accountants                                                         24
+
+Consolidated Balance Sheets as of June 30, 1997 and 1996                                  25
+
+Consolidated Statements of Operations for the years ended June 30, 1997, 1996
+and 1995                                                                                  26
+
+Consolidated Statements of Cash Flows for the years ended June 30, 1997, 1996
+and 1995                                                                                  27
+
+Consolidated Statements of Shareholders' Equity for the years ended June 30, 1997,
+1996 and 1995                                                                             29
+
+Notes to Consolidated Financial Statements                                                30
+
+Financial Statement Schedule
+- ----------------------------
+
+Report of Independent Accountants on Supplemental Schedule                                49
+
+Schedule II - Valuation and Qualifying Accounts                                           50
+
+</TABLE>
+
+
+                                       23
+<PAGE>
+
+
+
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+Board of Directors and Shareholders
+Cree Research, Inc.
+
+We have audited the accompanying consolidated balance sheets of Cree Research,
+Inc. and subsidiary as of June 30, 1997 and 1996, and the related consolidated
+statements of operations, shareholders' equity, and cash flows for each of the
+three years in the period ended June 30, 1997. These financial statements are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Cree Research,
+Inc. and subsidiary as of June 30, 1997 and 1996, and the consolidated results
+of their operations and their cash flows for each of the three years in the
+period ended June 30, 1997, in conformity with generally accepted accounting
+principles.
+
+
+
+
+Raleigh, North Carolina
+July 24, 1997
+
+                                       24
+<PAGE>
+
+
+
+                               CREE RESEARCH, INC
+                           CONSOLIDATED BALANCE SHEETS
+                       (IN 000'S EXCEPT PER SHARE AMOUNTS)
+<TABLE>
+<CAPTION>
+
+
+                                                                    JUNE 30,                  JUNE 30,
+                                                                     1997                       1996
+                                                                   --------                   ----------
+<S>                                                                <C>                       <C>  
+ASSETS
+
+Current assets:
+         Cash and cash equivalents                                 $10,448                   $10,162
+         Short-term investments, held to maturity                        -                     1,787
+         Accounts receivable, net                                    7,694                     6,393
+         Inventories                                                 3,949                     3,226
+         Deferred income tax                                         1,830                        -
+         Prepaid expenses and other current assets                     466                       152
+                                                                   --------                  --------
+                Total current assets                                24,387                    21,720
+
+Long-term accounts receivable                                           54                       464
+Property and equipment, net                                         24,333                    20,218
+Patent and license rights, net                                       1,267                     1,205
+Other assets                                                            96                       189
+                                                                   --------                  --------
+                 Total assets                                      $50,137                   $43,796
+                                                                   --------                  --------
+
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+         Accounts payable, trade                                  $  2,248                $   2,474
+         Accrued salary and wages                                      292                      178
+         Other accrued expenses                                        834                      472
+                                                                  --------               ---------
+                 Total current liabilities                           3,374                    3,124
+
+Non-current deferred income tax                                      1,638                       -
+
+Shareholders' equity:
+         Common stock, $0.005 par value; 14,500 shares
+                 authorized; shares issued and outstanding
+                 12,523 at June 30, 1997 and 12,277,
+                  net of treasury shares, at June 30, 1996              62                       61
+         Additional paid-in capital                                 46,214                   45,342
+         Accumulated deficit                                        (1,151)                  (4,693)
+                                                                   --------                 -------
+                                                                    45,125                   40,710
+             Less: 10 shares of common stock in treasury
+                         at June 30, 1996, at cost                       -                      (38)
+                                                                   --------                 -------
+                     Total shareholders' equity                     45,125                   40,672
+                                                                   --------                 -------
+                     Total liabilities and shareholders' equity    $50,137                  $43,796
+                                                                   --------                 -------
+
+</TABLE>
+
+               The accompanying notes are an integral part of the
+                       consolidated financial statements.
+
+
+                                       25
+<PAGE>
+
+
+
+                               CREE RESEARCH, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                      (IN 000'S, EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+
+                                                                        YEARS ENDED JUNE 30,
+
+                                                                  1997       1996          1995
+- ---------------------------------------------------------------------------------------------------
+<S>                                                            <C>         <C>           <C>
+Revenue:
+Product revenue, net                                            $19,823     $9,689        $5,989
+Contract revenue, net                                             6,535      3,945         3,011
+License fee income                                                2,615      1,423            -
+                                                                --------------------------------
+
+         Total revenue                                           28,973     15,057         9,000
+
+Cost of revenue:
+Product revenue                                                  13,387      8,411         4,244
+Contract revenue, net
+                                                                  5,707      3,078         1,773
+                                                                --------------------------------
+         Total cost of revenue                                   19,094     11,489         6,017
+
+Gross margin                                                      9,879      3,568         2,983
+
+Operating expenses:
+Research and development, net                                     1,826      1,286         1,194
+Sales, general and administrative                                 4,301      2,917         2,268
+Other (income) expense                                              639        (11)           (1)
+                                                                 --------------------------------
+
+             Income (loss) from operations                        3,113       (624)         (478)
+
+Interest income, net                                                607        866           461
+                                                                 ----------------------------------
+
+             Income (loss) before income taxes                    3,720        243           (17)
+
+Income tax expense                                                  177          -             -
+                                                                 -------------------------------
+
+             Net income (loss)                                   $3,542     $  243      $    (17)
+                                                                 ----------------------------------
+
+             Net income per share                                $  0.27     $0.02       $  0.00
+
+Weighted average shares outstanding                               13,126    12,615        10,367
+
+
+</TABLE>
+
+
+           The accompanying notes are an integral part of the consolidated
+financial statements.
+                                       26
+
+<PAGE>
+
+
+                               CREE RESEARCH, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                        (IN 000'S EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+
+                                                                              YEARS ENDED JUNE 30,
+
+                                                               1997                 1996              1995
+- ------------------------------------------------------------------------------------------------------------
+<S>                                                           <C>                  <C>                <C> 
+Operating activities:
+    Net income (loss)                                    $     3,542              $ 243            $  (17)
+    Adjustments to reconcile net income (loss) to 
+      net cash provided by (used in)
+          operating activities:
+    Depreciation and amortization                              3,356              1,765              1,382
+    Loss (gain) on disposal of property and equipment            631                 (8)                 -
+    Loss on write off of patents                                 141                 -                   -
+    Amortization of patent rights                                108                126                 88
+    Amortization of goodwill                                      41                 41                 38
+    Changes in assets and liabilities:
+        Accounts receivable                                     (891)            (3,258)            (1,451)
+        Inventories                                             (723)            (1,549)            (1,028)
+        Deferred costs on research contracts                      -                  81                (81)
+        Prepaid expenses and other assets                       (263)                49                227
+        Deferred income taxes                                   (192)                 -                 -
+        Accounts payable, trade                                 (226)               714                191
+        Accrued expenses                                         335                160                 89
+                                                               ------------------------------------------------
+        Net cash provided by (used in) operating activities    5,859              (1,636)             (562)
+
+Investing activities:
+    Purchases of investment securities                             -                   -            (2,204)
+    Maturity of investment securities                          1,787               2,124             5,496
+    Purchases of property and equipment                       (7,974)            (14,740)           (3,486)
+    Proceeds from sale of property and equipment                  13                  52                -
+    Payment of equipment deposits                                 -                    -               (71)
+    Payment for acquisition of subsidiary                         -                    -              (215)
+    Purchase of patent rights                                   (310)               (310)             (273)
+                                                                -----------------------------------------------
+         Net cash used in investing activities                (6,484)            (12,874)             (753)
+
+Financing activities:
+    Proceeds from issuance of note payable                         -                  -                416
+    Principal payments on notes and capital leases                 -                  -               (439)
+    Net proceeds from issuance of common stock                   927              20,924               200
+    Purchase of common stock for the treasury                   (112)                 -                  -
+    Tax benefits associated with stock options                    96                  -                  -
+    Legal fees related to common stock profits                    -                   -                (16)
+                                                                 ---------------------------------------------
+          Net cash provided by financing activities              911              20,924               161
+
+Net increase (decrease) in cash and cash equivalents             286               6,414            (1,154)
+
+Cash and cash equivalents:
+         Beginning of year                                     10,162               3,748            4,902
+                                                               ----------------------------------------------
+
+         End of the year                                      $10,448             $10,162            $3,748
+                                                              -----------------------------------------------
+</TABLE>
+
+           The accompanying notes are an integral part of the consolidated
+                             financial statements.
+
+
+                                       27
+<PAGE>
+
+                               CREE RESEARCH, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (CONTINUED)
+                                   (IN 000'S)
+
+
+                                                         YEARS ENDED JUNE 30,
+
+                                                     1997       1996       1995
+- --------------------------------------------------------------------------------
+
+Supplemental disclosure of cash flow information:
+         Cash paid for interest                         -         $5        $11
+
+
+         Cash paid for income taxes                   $80          -          -
+
+
+Supplemental schedule of non-cash investing and
+         financing activities:
+
+         Accounts payable recorded for purchases
+             of equipment                            $141       $831       $330
+
+
+
+                   The accompanying notes are an integral part
+                   of the consolidated financial statements.
+
+
+                                       28
+
+<PAGE>
+
+                               CREE RESEARCH, INC.
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                    YEARS ENDING JUNE 30, 1997, 1996 AND 1995
+                                   (IN 000'S)
+
+<TABLE>
+<CAPTION>
+                                   COMMON
+                                   STOCK    ADDITIONAL                                         TOTAL
+                                    PAR      PAID-IN    ACCUMULATED  UNEARNED   TREASURY    SHAREHOLDERS'
+                                   VALUE     CAPITAL      DEFICIT  COMPENSATION  STOCK         EQUITY
+- --------------------------------------------------------------------------------------------------------
+<S>                                 <C>      <C>          <C>          <C>       <C>           <C>    
+Balance at June 30, 1994            $52      $ 24,244     $(4,919)     $(5)      $(38)         $19,334
+Common stock options exercised
+  for cash, 23 shares                              15                                               15
+Common stock warrants exercised
+  for cash, 38 shares                             184                                              184
+Compensation expense for
+  common stock options                                                   3                           3
+Payment of legal fees related to
+  receipt of Section 16(b) common
+  stock profits                                   (16)                                             (16)
+Net Loss                                                     (17)                                  (17)
+- ---------------------------------------------------------------------------------------------------------
+Balance at June 30, 1995            52         24,427     (4,936)       (2)       (38)          19,503
+
+Common stock options exercised
+   for cash, 122 shares              1            412                                              413
+Common stock warrants exercised
+   for cash, 665 shares              3          2,916                                            2,919
+Compensation expense for
+   common stock options                                                  2                           2
+Proceeds from sale of 1,079
+   shares of common stock and
+   300 common stock warrants,
+   net of issuance costs of $625     5         17,587                                           17,592
+Net income                                                   243                                   243
+- ---------------------------------------------------------------------------------------------------------
+Balance at June 30, 1996            61         45,342     (4,693)        -        (38)          40,672
+
+Common stock options exercised
+   for cash, 52 shares                            160                                              160
+Common stock warrants exercised
+   for cash, 203 shares              1            766                                              767
+Purchase of common stock for the
+ treasury, 10 shares                                                             (112)            (112)
+Retirement of 20 treasury shares                 (150)                            150                -
+Income tax benefits from stock
+ option exercises                                  96                                               96
+Net income                                                 3,542                                 3,542
+- ---------------------------------------------------------------------------------------------------------
+Balance at June 30, 1997         $  62       $ 46,214    $(1,151)        -          -          $45,125
+</TABLE>
+
+
+         The accompanying notes are an integral part of the consolidated
+                             financial statements.
+
+                                       29
+<PAGE>
+
+
+                               CREE RESEARCH, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+ 1.      NATURE OF BUSINESS
+
+         Cree Research, Inc. ("the Company"), incorporated in the State of North
+Carolina on July 14, 1987, develops, manufactures, and markets silicon
+carbide-based semiconductor devices. Revenues are primarily derived from the
+sale of blue light emitting diodes (LEDs), silicon carbide (SiC) wafers and
+full-color LED based electronic displays and modules. The Company markets its
+blue LED chip products principally to customers who incorporate them into
+packaged lamps for resale to original equipment manufacturers. The Company also
+sells SiC wafer products to corporate, government, and university research
+laboratories. In addition, the Company is engaged in a variety of research
+programs related to the advancement of SiC process technology and the
+development of electronic devices that take advantage of SiC's unique physical
+and electronic properties. These research projects are primarily funded by
+federal government agencies and departments. The Company recovers the costs of a
+majority of its research and development efforts from revenues on these
+contracts with agencies of the federal government.
+
+ 2.       SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+PRINCIPLES OF CONSOLIDATION
+
+         The consolidated financial statements include the accounts of Cree
+Research, Inc. and Real Color Displays, Inc. (RCD). All material intercompany
+accounts and transactions have been eliminated in consolidation.
+
+RECLASSIFICATION
+
+         Reclassifications of certain amounts have been made to the 1996 and
+1995 financial statements to conform to the 1997 presentation. These
+reclassifications had no effect on shareholders equity, the results of
+operations or per share data previously reported.
+
+ESTIMATES
+
+         The preparation of these financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities, and
+the disclosure of contingent assets and liabilities, at June 30, 1997 and 1996,
+and the reported amounts of revenues and expenses during each of the three years
+in the period ended June 30, 1997. Actual amounts could differ from those
+estimates.
+
+REVENUE RECOGNITION
+
+         The Company recognizes product revenue at the time of shipment. Revenue
+from contracts is recorded on the percentage-of-completion method as expenses
+per contract are incurred. License fee income is recognized when the transfer of
+licensed technology is completed.
+
+
+
+                                       30
+<PAGE>
+
+         Contract revenue represents reimbursement by various U.S. Government
+entities to aid in the furthering of the development of the Company's technology
+by supplementing the Company's research and development efforts. Any resulting
+technology obtained by the Company through these efforts remain the property of
+the Company after the completion of the contract, subject to certain license
+rights obtained by the government. Contract revenue includes funding of direct
+research and development costs and a portion of the Company's general and
+administrative expenses and other operating expenses for contracts under which
+funding is expected to exceed direct costs over the life of the contract. The
+specific reimbursement provisions of the contracts, including the portion of the
+Company's general and administrative expenses and other operating expenses that
+are reimbursed, vary by contract. For contracts under which the Company
+anticipates that direct costs will exceed amounts to be funded over the life of
+the contract (i.e., certain cost share arrangements), the Company reports direct
+costs as research and development expenses with related funding recorded as an
+offset to those expenses.
+
+         On September 30, 1996, the Company entered into a license and
+technology transfer agreement and a related supply agreement with Shin-Etsu
+Handotai Co. LTD. ("Shin-Etsu") and other parties. Pursuant to these agreements,
+the Company granted Shin-Etsu a license to use certain epitaxial and device
+fabrication process technology for the manufacture of the Company's blue
+light-emitting diode product and has agreed to supply silicon carbide wafers
+required to manufacture the licensed product. The license agreement provides for
+payment of a license fee and running royalties based on a percentage of sales of
+products made using the licensed technology. The license fee is payable in
+installments totaling $2,700,000. As of June 30, 1997, all license fees have
+been paid with the exception of a $500,000 payment due on June 30, 1998. The
+Company also has recorded a short term accrued expense of $186,000 payable June
+30, 1998 to the third party that brokered the license agreement. Substantially
+all of the Company's obligations to transfer the licensed technology were
+performed during fiscal 1997, and the net present value of the license fee
+payments and commission were recognized. In October 1995, the Company also
+entered into an agreement to license its technology for the joint development
+and manufacture of LEDs using Cree's technology to Siemens A.G. License fees are
+payable in installments totaling $1,500,000. As of June 30, 1997, all fees have
+been paid with the exception of a $500,000 installment due in October 1997. The
+Company's obligation to transfer the licensed technology were substantially. In
+fiscal 1996, and the net present value of the license fee payments were recorded
+as revenue at that time.
+
+CASH AND CASH EQUIVALENTS
+
+         Cash and cash equivalents are highly liquid investments with an
+original maturity of three months or less when purchased.
+
+ADVERTISING COSTS
+
+         The Company expenses all advertising costs as incurred. The Company
+incurred total advertising expenditures of approximately $102,000, $151,000 and
+$147,000 during the years ended June 30, 1997, 1996 and 1995, respectively.
+
+
+                                       31
+<PAGE>
+
+
+
+
+
+INVENTORIES
+
+         Inventories are stated at the lower of cost or market, with cost being
+determined under the first-in, first-out (FIFO) method. Inventories consists of
+the following at June 30:
+
+
+                                               1997               1996
+                                          ---------------    ----------------
+         Raw materials                    $  1,559,000       $  1,309,000
+         Work-in-progress                    1,374,000            948,000
+         Finished goods                      1,016,000            969,000
+                                          --------------     ---------------
+                                          $ 3,949,000        $  3,226,000
+                                         ===============    ================
+
+PROPERTY AND EQUIPMENT
+
+         Property and equipment are recorded at cost and depreciated on a
+straight-line basis over the estimated useful lives of the assets, which range
+from three to nine years. Leasehold improvements are amortized over the life of
+the related lease. Expenditures for repairs and maintenance are charged to
+expense as incurred. The costs of major renewals and betterments are capitalized
+and depreciated over their estimated useful lives. The cost and related
+accumulated depreciation of the assets are removed from the accounts upon
+disposition and any resulting gain or loss is reflected in operations.
+
+         During the first quarter of fiscal 1996, the Company changed its
+previous estimate on the useful lives of some of its manufacturing equipment
+from five to nine years. The change in estimate was based on the Company's
+experience with similar fixed assets. The net adjustment increased net income
+approximately $280,000 or $0.02 per share for fiscal 1996.
+
+PATENT AND LICENSE RIGHTS
+
+         Patent rights reflect costs incurred to enhance and maintain the
+Company's intellectual property position. License rights reflect costs incurred
+to use the intellectual property of others. Both are amortized on a straight
+line basis. During fiscal 1997, the Company changed its previous estimate of the
+useful lives of patents from 17 years beginning at the date of patent issue to
+20 years from the date of patent application to conform to a legislative
+amendment made to the U.S. patent laws which became effective in June 1995. This
+change in estimate had no material impact to net income or earnings per share,
+since the average period of time between patent application and issue is
+generally about three years. Total accumulated amortization for patents was
+approximately $460,000 and $424,000 at June 30, 1997 and 1996, respectively.
+
+GOODWILL
+
+         Goodwill represents the amount by which the costs to acquire the net
+assets of the Real Color Displays subsidiary exceeded their related fair value
+at acquisition. These costs are being amortized on a straight line basis over a
+life of five years. The carrying value of goodwill will be reviewed if the facts
+and circumstances suggests that it is impaired. If this review indicates that
+goodwill will not be recoverable as determined based on the undiscounted cash
+flows of the entity acquired over the remaining amortization period, the Company
+will adjust the carrying value of goodwill in accordance with FAS No. 121
+"Accounting for Impairment of Long Lived Assets." Accumulated amortization
+related to goodwill was approximately $120,000 and $79,000 at June 30, 1997 and
+1996, respectively.
+
+
+
+                                       32
+<PAGE>
+
+RESEARCH AND DEVELOPMENT POLICY
+
+         The Company partners with the federal government in many of its current
+research and development efforts. By entering into contracts, the Company has
+most of its research and product development costs funded by the U.S.
+government. The contract funding may be based on a cost-plus or a cost-share
+arrangement. Pursuant to each contract, the amount of funding is determined
+based on cost estimates that include direct costs, plus an allocation for
+research and development, general and administrative and the cost of capital
+expenses. Cost-plus funding is determined based on actual costs plus a set
+percentage margin. For the cost-share contracts, the actual costs are divided
+between the U.S. government and the Company based on the terms of the contract.
+The government's cost share is then funded to the Company. Activities performed
+under both of these arrangements include research regarding silicon carbide and
+gallium nitride materials. The contracts typically require the submission of a
+written report that documents the results of such research.
+
+         Effective January 1, 1997, the Company reclassified for accounting
+purposes some of the funds received from the U.S. government and associated
+direct costs. In previous periods, all funding was reported as contract revenue
+and all direct costs were reported as costs of revenue. Beginning in the third
+quarter of 1997, the classification is determined based on the nature of the
+contract. Contracts under which the Company anticipates that funding will exceed
+direct costs over the life of the contract are treated in a manner consistent
+with prior periods. For contracts under which the Company anticipates that
+direct costs will exceed amounts to be funded over the life of the contract,
+direct costs are shown as research and development expenses and related funding
+as an offset of those expenses. The following table details information about
+contracts for which direct expenses exceed funding by period as reflected in the
+statements of operations:
+
+                                                  Year ended June 30,
+                                                        in (000's)
+                                            1997          1996           1995
+- --------------------------------------------------------------------------------
+Net research and development costs       $    671       $    368        $   484
+Government funding                          2,186          1,918          2,154
+                                         --------------------------------------
+Total direct costs incurred               $ 2,857        $ 2,286        $ 2,638
+
+
+         During the life of these contracts, total direct expenditures and
+funding are estimated to be $8,985,000 and $6,857,000, respectively. As of June
+30, 1997, direct expenses and funding of $7,853,000 and $6,256,000,
+respectively, have been recognized under the contracts.
+
+ FAIR VALUES OF FINANCIAL INSTRUMENTS
+
+         The fair value of the Company's short-term investments are based on
+quoted market prices. At June 30, 1996, the cost approximated fair value for the
+short-term investments.
+
+CREDIT RISK, MAJOR CUSTOMERS AND MAJOR SUPPLIERS
+
+         Financial instruments which potentially subject the Company to a
+concentration of credit risk consist principally of cash equivalents and
+accounts receivable. The Company's cash equivalents consist of U.S. Treasury
+bills, government agency bonds and commercial paper. Certain bank deposits may
+at times be in excess of the FDIC insurance limit.
+
+
+
+                                       33
+<PAGE>
+
+         The Company sells its products to manufacturers and researchers
+worldwide and generally requires no collateral. The Company maintains reserves
+for potential credit losses, and such losses, in the aggregate, have generally
+been within management's expectations. The Company presently derives primarily
+all of its contract revenues from contracts with the U.S. Department of Defense.
+Approximately 33% and 30%, respectively, of the Company's accounts receivable
+balance at June 30, 1997 and 1996 was due from the Department of Defense. In
+addition, the Company had accounts receivable from Siemens totaling 19% and 23%,
+of accounts receivable at June 30, 1997 and 1996, respectively.
+
+         The Company has derived its product revenue from sales primarily in the
+United States, the Far East, and Europe as follows:
+
+                                YEAR ENDED
+                          1997     1996      1995
+                          ----     ----      ----
+         United States      21%     31%       50%
+         Far East           33%     27%       14%
+         Europe             44%     38%       31%
+         Other               2%      4%        5%
+
+
+         One customer accounted for 51% of product revenue in fiscal 1997 as
+compared to two customers accounting for 32% of product revenue in fiscal 1996.
+In addition, two customers accounted for 24% of product revenue in fiscal 1995.
+The Department of Defense accounted for 99%, 97% and 95% of contract revenues
+during fiscal 1997, 1996, and 1995, respectively.
+
+         The Company depends on single or limited source suppliers for a number
+of raw materials and components used in its SiC wafer products and LEDs. Any
+interruption in the supply of these key materials or components could have a
+significant adverse effect on the Company's operations.
+
+PER SHARE DATA
+
+         Net income (loss) per common share is computed using the weighted
+average number of common stock shares and common stock equivalents outstanding
+during each quarterly period.
+
+DIVIDENDS
+
+         The payment of dividends is limited by the laws of the State of North
+Carolina.
+
+ACCOUNTING FOR STOCK BASED COMPENSATION
+
+         In October, 1995, the Financial Accounting Standards Board ("FASB")
+issued Statement No. 123 ("FAS 123"), "Accounting for Stock Based Compensation."
+This Statement establishes fair value as the measurement basis for equity
+instruments issued in exchange for goods or services and stock-based
+compensation plans. Fair value may be measured using quoted market prices,
+option-pricing models or other reasonable estimation methods. FAS 123 permits
+the Company to choose between adoption of the fair value based method or
+disclosing pro forma net income information. The Statement is effective for
+transactions entered into after December 31, 1995. The Company will continue to
+account for stock-based compensation in accordance with
+
+
+                                       34
+<PAGE>
+
+Accounting Principals Board Opinion No. 25, as amended, and provide only the pro
+forma disclosures required by FAS 123.
+
+
+3.        ACCOUNTS RECEIVABLE
+
+         The following is a summary of accounts receivable as of June 30:
+
+                                                 1997          1996
+                                             ------------  ------------
+          Trade receivables                  $  5,210,000  $  3,663,000
+          Other short term receivables          2,700,000     2,780,000
+                                             ------------  ------------
+                                                7,910,000     6,443,000
+          Allowance for doubtful accounts         216,000        50,000
+                                             ------------  ------------
+          Current receivables                   7,694,000     6,393,000
+                                             ------------  ------------
+          Long term receivables                    54,000       464,000
+                                             ------------  ------------
+          Total accounts receivable          $  7,748,000  $  6,857,000  
+                                             ------------  ------------
+
+ 4.       PROPERTY AND EQUIPMENT
+
+         The following is a summary of property and equipment as of June 30:
+
+                                                 1997          1996
+                                             ------------  ------------
+          Office equipment and furnishings   $    909,000  $    848,000
+          Machinery and equipment              22,312,000    19,955,000
+          Construction in progress              2,669,000     1,199,000
+          Leasehold improvements                5,420,000     5,372,000
+                                             ------------  ------------
+                                               31,310,000    27,374,000
+          Accumulated depreciation              6,977,000     7,156,000
+                                             ------------  ------------
+                                             $ 24,333,000  $ 20,218,000 
+                                             ============  ============
+
+5.        SHAREHOLDERS' EQUITY
+
+         The Board of Directors is authorized to issue 1,250,000 and 1,500,000
+shares of Class A Voting and Class B Non-Voting preferred stock, respectively,
+each with a par value of $0.01 per share, at its discretion. This preferred
+stock may be issued in one or more series with the number of shares,
+designation, relative rights, preferences, and limitations to be determined by
+resolution of the Board of Directors.
+
+
+ 6.       STOCK OPTIONS AND STOCK WARRANTS
+
+         As permitted by FAS 123, "Accounting For Stock-Based Compensation", the
+Company has elected to follow Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees" and related interpretations and
+amendments in accounting for its employee stock option plans.
+
+
+
+                                       35
+<PAGE>
+
+         The Company's Amended and Restated Equity Compensation Plan has
+authorized the grant of options for up to 1,540,000 shares of the Company's
+common stock. All options granted have 10 year terms and vest and become fully
+exercisable within 5 years. The Company is also authorized to grant up to
+200,000 options for shares of the Company's common stock under the Stock Option
+Plan for Non-Employee Directors (Directors Formula Plan). These options have a
+10 year term and vest quarterly and become fully exercisable within 1 year of
+award. The Company's current stock plans provide for grants of options with
+exercise prices equal to or exceeding fair market value on the date of grant.
+
+         Pro forma information regarding net income and earnings per share is
+required by Statement 123, and has been determined as if the Company had
+accounted for its employee stock options under the fair value method of the
+Statement. The fair value of these options was estimated at the date of grant
+using a Black-Scholes option pricing model with the following weighted average
+assumptions for 1997 and 1996: risk-free interest rates ranging from 6.55% to
+6.89% using the end-of-month 10 year treasury rate for each grant date; dividend
+yields of 0% for each of the years presented; a volatility factor of the
+expected market price of the Company's common stock of .748; and a
+weighted-average expected life of the options of 7 years for executive and
+directors and 5 years for other employees.
+
+         For purposes of pro-forma disclosures, the estimated fair value of the
+options is amortized to expense over the options' vesting period. The Company's
+pro forma information is as follows:
+
+                                          1997             1996          1995
+
+Net income, as reported                $3,542,000      $   243,000     $(17,000)
+
+Pro forma net income, as adjusted
+  for FAS 123                           1,418,000          243,000      (17,000)
+
+Pro forma earning per share:
+               Primary                      $0.11            $0.02        $0.00
+               Fully Diluted                $0.11            $0.02        $0.00
+
+
+                                       36
+<PAGE>
+
+
+         The following table details the number of stock options outstanding and
+their related exercise prices as of June 30:
+
+
+                   NUMBER OF OPTIONS OUTSTANDING AS OF 6/30/97
+
+             EXERCISE                NUMBER OF          WEIGHTED-AVERAGE
+              PRICE                   OPTIONS           CONTRACTUAL LIFE
+             --------                ---------          ----------------
+              <$0.01                   4,666                  1 year
+                 .42                  27,696                  3 years
+                2.82                   7,094                  2 years
+                3.13                  20,000                  7 years
+                3.63                 219,400                  6 years
+                3.75                  14,397                  4 years
+                4.00                  43,200                  7 years
+                6.82                   9,420                  6 years
+                7.375                  6,000                  7 years
+                7.50                  30,000                  7 years
+                9.38                  41,000                 10 years
+               10.25                  15,500                 10 years
+               11.19                  19,000                  9 years
+               12.13                  50,000                  8 years
+               14.38                 191,300                  8 years
+                                    ---------
+                                     698,673
+
+         In addition to the options detailed above, the following table includes
+228,000 options, exercisable at prices ranging from $3.63 to $15.75 per share
+granted to current or former outside directors of the Company.
+
+<TABLE>
+<CAPTION>
+                                                  Total Option Activity Under Both Plans
+                                                  --------------------------------------
+                                           1997                     1996                     1995
+                                  Options Weighted-Average Options Weighted-Average  Options  Weighted-Average
+                                    (000's)  Exercise Price (000's) Exercise Price   (000's)  Exercise Price
+                                 -----------------------------------------------------------------------------
+
+<S>                                  <C>        <C>           <C>       <C>            <C>      <C>
+Outstanding-beginning of year        632        $4.39         769       $4.23          591      $3.36
+Granted                              381       $13.56           -           -          223      $6.26
+Exercised                             52        $3.08         122       $3.39           23      $1.17
+Forfeited                             33        $8.05          16       $4.36           21      $4.45
+Outstanding-end of year              927        $4.76         632       $4.39          769      $4.23
+Exercisable at end of year           702        $7.44         439       $3.78          320      $3.01
+</TABLE>
+
+                               Stock Price
+                                 Equal To
+                              Exercise Price
+
+Weighted-average fair value
+of options granted during the
+year                              $10.07
+
+
+                                       37
+<PAGE>
+
+         During fiscal year 1992, the Company issued stock warrants to
+purchasers of Class B non-voting preferred stock, Series C. The warrants entitle
+the holders to purchase 607,320 shares of common stock at $3.75 per share. In
+September 1992, the Company issued stock warrants to additional purchasers of
+Class B non-voting preferred stock, Series C. The warrants entitle the holders
+to purchase 363,644 shares of common stock at $4.13 per share. Warrants to
+purchase 202,996, 425,642 and 2,666 shares of common stock were exercised during
+the years ended June 30, 1997, 1996 and 1995, respectively. The remaining
+347,326 warrants are fully exercisable and expire on February 8, 1998.
+
+         In connection with the Company's September 1995 private placement, the
+Company issued an additional 300,000 warrants, which have an exercise price of
+$27.23 and expire September 2000. As of June 30, 1997, none of these warrants
+had been exercised.
+
+7.       COMMITMENTS
+
+         The Company currently leases three facilities under five separate lease
+agreements. These facilities are comprised of both office and manufacturing
+space. The first facility has a remaining lease period of approximately four
+years. Also associated with this facility is a sublease agreement entered into
+in fiscal 1996 to acquire an adjacent 1,900 square feet. The sublease expires in
+October 1998. Another sublease was also entered into in fiscal 1997 to acquire
+an additional 15,300 square feet in the same facility. This lease expires in
+January 1998. The second facility is currently being subleased by a third party.
+This lease was renewed and currently expires in January 1998. The lease term for
+the third facility began in September 1995. The lease has an initial term of
+five years with two options of two years each. Each lease and sublease agreement
+provides for rental adjustments for increases in property taxes, the consumer
+price index and general property maintenance.
+
+         Rent expense associated with these leases totaled $549,000, $388,000
+and $257,000 for the years ended June 30, 1997, 1996 and 1995, respectively.
+Future minimum rentals as of June 30, 1997 under these leases are as follows:
+
+                          June 30,
+
+                            1998   $   427,000
+                            1999       335,000
+                            2000       335,000
+                            2001       285,000
+                            2002       138,000
+                                   -----------
+                           Total   $ 1,521,000
+                                   ===========
+8. INCOME TAXES
+
+         The Company accounts for its income taxes under the provisions of
+Statement of Financial Accounting Standards No. 109 ("FAS 109"), "Accounting for
+Income Taxes." Under the asset and liability method of FAS 109, deferred tax
+assets and liabilities are recognized for the estimated future tax consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases. Deferred tax
+assets and liabilities are measured using enacted tax rates in effect for the
+year in which those temporary differences are expected to be recovered or
+settled. Under FAS 109, the effect on deferred tax
+
+
+
+                                       38
+<PAGE>
+
+assets and liabilities of a change in tax rates is recognized in income in the
+period that includes the enactment date.
+
+
+         The Company had a tax provision of $177,000 for the year ended June 30,
+1997 and no provision for income tax for the years ended June 30, 1996 and 1995,
+due to the reversal in 1996 of valuation allowances recorded in prior years and
+the establishment of valuation allowances in 1995. The actual income tax expense
+attributable to earnings for the years ended June 30, 1997, 1996 and 1995
+differed from the amounts computed by applying the U.S. federal tax rate of 34
+percent to pretax earnings as a result of the following:
+
+
+<TABLE>
+<CAPTION>
+                                                          1997               1996             1995
+                                                   ------------------  ---------------  ---------------
+<S>                                                <C>                 <C>               <C>
+Expected income tax provision (benefit)
+  at statutory rate (34%)                          $       1,265,000   $       83,000   $       (6,000)
+State tax provision (benefit)                                193,000           36,000         (106,000)
+Increase (decrease) in income tax expense
+  resulting from:
+     Increase (decrease) in valuation allowance           (1,279,000)        (106,000)         129,000
+     Other                                                    (2,000)         (13,000)         (17,000)
+                                                   ------------------  ---------------  ---------------
+Income tax expense                                 $         177,000   $        -       $        -
+                                                   ==================  ===============  ===============
+</TABLE>
+
+
+The following are the components of the provision for income taxes for the year
+ended June 30, 1997:
+
+
+ Current:
+   Federal                   $    54,000
+   Foreign Tax Withholding       220,000
+   State                          95,000
+                             -----------
+                                 369,000
+Deferred (Prepaid):
+   Federal                      (442,000)
+   State                         250,000
+                             -----------
+                                (192,000)
+
+  Net Provision (Benefit)       $177,000
+
+
+There is no tax provision for fiscal 1996 or 1995.
+
+
+
+                                       39
+<PAGE>
+
+
+
+The tax effects of temporary differences that give rise to significant portions
+of the deferred tax assets and deferred tax liabilities at June 30 are as
+follows:
+
+
+                                       1997         1996
+- ------------------------------------------------------------
+Deferred tax assets:
+Net operating loss carryforwards    $2,413,000    $3,290,000
+Research tax credits                   157,000       157,000
+Compensation                           115,000       114,000
+Inventory                              199,000        53,000
+Bad debt                                84,000        19,000
+Goodwill                                31,000        20,000
+Alternative minimum tax                 64,000             -
+Foreign tax credit                     220,000             -
+Other                                   10,000        23,000
+- ------------------------------------------------------------
+Total gross deferred tax assets     $3,293,000    $3,676,000
+Less valuation allowance            (1,463,000)   (2,664,000)
+- ------------------------------------------------------------
+Net deferred tax asset              $1,830,000    $1,012,000
+
+Deferred tax liabilities:
+Property and equipment,
+  due to depreciation               $1,638,000    $1,012,000
+- ------------------------------------------------------------
+Gross deferred tax liabilities      $1,638,000    $1,012,000
+
+Net deferred tax asset                $192,000             -
+- ------------------------------------------------------------
+
+         The net change in the total valuation allowance for the years ended
+June 30, 1997 and 1996 was a decrease of $1,201,000 and $106,000, respectively.
+Included in the valuation allowance is $815,000 and $737,000, respectively, for
+1997 and 1996 to offset net operating losses generated by the exercise of stock
+options. When such net operating losses are utilized, the reduction of these
+valuation allowances will be a credit to additional paid in capital. The primary
+reason for the reduction in the valuation allowance in 1997 and 1996 was the
+greater likelihood of the utilization of future tax benefits from net operating
+loss carryforwards. Realization of deferred tax assets associated with the NOL
+carryforwards is dependent upon the Company generating sufficient taxable income
+prior to their expiration. Management believes that there is a risk that certain
+of these NOL carryforwards may expire unused and, accordingly, has established a
+valuation allowance against them. Although realization is not assured for the
+remaining deferred tax assets, management believes it is more likely than not
+that they will be realized through future taxable earnings. However, the net
+deferred tax assets could be reduced in the future if management's estimates of
+taxable income during the carryforward period are significantly reduced.
+
+         As of June 30, 1997, the Company has net operating loss carryforwards
+for federal purposes of $6,644,000 and $2,991,000 for state purposes. The
+carryforward expiration period is from 2005 to 2011 for federal tax purposes and
+from 2000 to 2001 for state purposes.
+
+ 9.      RELATED PARTY TRANSACTIONS
+
+         The Company has entered into a Development Agreement and an Exclusive
+Supply Agreement with C3, Inc. ("C3"). The President and the founder of C3 are
+the brothers of the Chief Executive Officer of the Company, and the Company, and
+certain of its officers and
+
+
+
+                                       40
+<PAGE>
+
+directors own approximately 6% of the outstanding common stock of C3. Pursuant
+to the agreements, the Company will work to develop and supply C3 near-colorless
+SiC crystals. C3 will use this product to fabricate and market gemstones as a
+substitute for diamonds in jewelry applications. C3 will pay the Company for
+development activities under the Development Agreement an amount based on the
+Company's cost plus a profit margin. The five year agreement commits C3 to fund
+program charges of up to $12 million, provided Cree achieves certain development
+milestones. During 1997 and 1996, sales to C3 totaled $517,000 and $55,000,
+respectively. There were no sales to C3 in fiscal 1995. At June 30, 1997 and
+1996, accounts receivable includes $110,000 and $6,000, respectively, related to
+these product revenues.
+
+10.      ACQUISITION
+
+         In August 1994, the Company formed a North Carolina wholly-owned
+subsidiary, RCD, to develop and market full color LED displays. Subsequently,
+RCD acquired the net assets of Color Cells International, Ltd., a Hong-Kong
+based company in this line of business, for cash consideration of $214,523 and
+assumption of $151,932 of liabilities. The terms of the acquisition call for an
+"Earn-Out Payment" based on calculated net profits, payable half in cash and
+half in Cree common stock. Earn-Out Payments are subject to certain limitations
+concerning the timing (calculation based on certain eligible shipments through
+September 1997) and amount (maximum payments of $1.8 million) of any such
+payments. To date, no amounts have been earned or paid under this agreement.
+
+         The above acquisition was accounted for as a purchase transaction and
+accordingly, the various assets acquired and liabilities assumed have been
+recorded at their respective fair market value as of the date of acquisition,
+with the excess of the purchase price of $206,675 being recorded as goodwill.
+This goodwill is being amortized over a five year period. The Company intends to
+record amounts paid, if any, under the earn out provisions described above as
+additional purchase consideration in the period the amount is determinable. The
+results of operations of the acquired business have been included in the
+consolidated statements of operations since the purchase date.
+
+11.      RETIREMENT PLAN
+
+         The Company maintains an employee benefit plan (the "Plan") pursuant to
+Section 401(k) of the Internal Revenue Code. Under the Plan, there is no fixed
+dollar amount of retirement benefits, and actual benefits received by employees
+will depend on the amount of each employee's account balance at the time of
+retirement. All employees are eligible to participate under the Plan on the
+first day of a new fiscal quarter after date of hire. The Plan is not insured by
+the Pension Benefit Guaranty Corporation.
+
+         The Company may, at its discretion, make contributions to the Plan.
+However, the Company did not make any contributions to the Plan during the years
+ended June 30, 1997, 1996 or 1995.
+
+12.   CONTINGENCIES
+
+         On October 25,1996, a putative class action lawsuit alleging violations
+of the federal securities laws was filed against the Company and certain of its
+officers and directors in federal district court, Middle District of North
+Carolina. A substantially similar action was filed in the same court on December
+20, 1996. The two actions were consolidated and lead plaintiffs were
+
+
+                                       41
+<PAGE>
+
+
+appointed by order of the Court as of February 5, 1997. Plaintiffs filed a
+consolidated amended complaint on March 17, 1997. In the amended complaint,
+plaintiffs seek to represent a class of all persons who purchased the Company's
+common stock between February 1, 1996, and July 2, 1996 (the "Class Period").
+They assert claims under Sections 10(b) and 20(a) of the Securities Exchange Act
+of 1934, as well as claims of negligent misrepresentations and common law fraud,
+based upon alleged material misrepresentations and omissions during the Class
+Period. The amended complaint does not specify the damages sought.
+
+         On May 2, 1997, the defendants moved that the amended complaint be
+dismissed for failure to state a claim upon which relief can be granted and
+other grounds. As of August 8, 1997, the motions to dismiss remain pending
+before the court, and the court has not certified the action as a class action.
+Management believes that the action is without merit and intends to contest it
+vigorously. An adverse resolution of the action may have a material adverse
+effect on the Company's results of operations and financial condition.
+
+13.   EARNINGS PER SHARE
+
+         The Company will adopt Statement of Financial Accounting Standards
+(SFAS) No. 128, "Earnings Per Share", on December 31, 1997. SFAS No. 128
+requires the Company to change its method of computing, presenting and
+disclosing earnings per share information. Upon adoption, all prior periods data
+presented will be restated to conform to the provisions of SFAS No. 128.
+
+         If the Company had adopted SFAS No. 128 for the periods ended June 30,
+the following computation would have been used to arrive at basic income per
+share and diluted income per common share that would have been presented on the
+consolidated statements of operations:
+
+<TABLE>
+<CAPTION>
+                                                  1997          1996              1995
+- ------------------------------------------------------------------------------------------
+<S>                                            <C>             <C>                <C>      
+Net income (loss)                              $3,542,000      $243,000           $(17,000)
+
+Weighted average common shares                 12,455,494    11,825,857         10,367,290
+                                               -------------------------------------------
+Basic income per common share                       $0.28         $0.02              $0.00
+
+Net income                                     $3,542,000      $243,000           $(17,000)
+
+Weighted average shares:
+Common shares outstanding                      12,455,494    11,825,857         10,367,290
+
+Dilutive effect of stock options & warrants       670,048       789,107                  0
+                                               -------------------------------------------
+Total shares                                   13,125,542    12,614,964          10,367,290
+
+Diluted income per share                      $      0.27   $      0.02        $       0.00
+</TABLE>
+
+14.   NEW ACCOUNTING PRONOUNCEMENTS
+
+         The Company will adopt Statement of Financial Accounting Standards No.
+131 "Disclosures about Segments of an Enterprise and Related Information" ("SFAS
+No. 131") on
+
+
+                                       42
+<PAGE>
+
+
+December 31, 1997. SFAS No. 131 requires the Company to report selected
+information about operating segments in interim financial reports issued to
+shareholders. It also establishes standards for related disclosures about
+products and services, geographic areas, and major customers. The Company has
+yet to determine the impact, if any, of adoption of the new pronouncement.
+
+         The Company will adopt Statement of Financial Accounting Standards No.
+130 "Reporting Comprehensive Income" ("SFAS No. 130") on December 31, 1997. SFAS
+No. 130 requires the Company to display an amount representing total
+comprehensive income for the period in a financial statement which is displayed
+with the same prominence as other financial statements. Upon adoption, all prior
+period data presented will be restated to conform to the provisions of SFAS
+No.130. The Company has yet to determine the impact, if any, of adoption of the
+new pronouncement.
+
+
+                                       43
+<PAGE>
+
+
+
+ITEM 9.     CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+            FINANCIAL DISCLOSURE
+
+            None.
+
+                                    PART III
+
+
+ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS
+
+ITEM 11.   EXECUTIVE COMPENSATION
+
+ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+
+The information called for in items 10 through 13 is incorporated by reference
+to the Company's definitive proxy statement relating to its annual meeting of
+stockholders, which will be filed with the Securities and Exchange Commission
+within 120 days of the end of fiscal 1997.
+
+
+
+                                       44
+<PAGE>
+
+                                     PART IV
+
+ITEM 14.   EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+          (a) (1) and (2) Financial statements and financial statement schedule
+          - the financial statements, financial statements schedule, and report
+          of independent accountants are filed as part of this report (see index
+          to Consolidated Financial Statements at Part II Item 8 on page 23 of
+          this Form 10-K).
+
+          (a) (3) The following exhibits have been or are being filed herewith
+          and are numbered in accordance with Item 601 of Regulation S-K:
+
+Exhibit No.         Description
+
+3.1                 Articles of Incorporation, as amended to date(1)
+
+3.2                 Bylaws, as amended to date(1)
+
+10.1                Employee Stock Option Plan adopted by the Company on
+                    August 2, 1989(1)
+
+10.2                Amendment to the Employee Stock Option Plan by resolution
+                    dated December 17, 1992(1)
+
+10.12               Employment Agreement with Alan J. Robertson dated December
+                    11, 1992(1)
+
+10.19               Lease Agreements for Meridian Parkway facility dated
+                    February 10, 1988, as amended from time to time through
+                    August 25, 1992(1)
+
+10.20               Amendments to Lease Agreements for the Meridian Parkway
+                    facility dated April 12, 1993 and June 15, 1993(2)
+
+10.24               License Agreement between the Company and North Carolina
+                    State University dated December 3, 1987(1)
+
+10.25               Amendment to License Agreement between the Company and
+                    North Carolina State University dated September 11, 1989(1)
+
+                                       45
+<PAGE>
+
+10.30               Agreement between General Instrument Corporation and the
+                    Company dated June 24, 1988(1)
+
+10.31               Letter Agreement with General Instrument Corporation dated
+                    February 21, 1992, superseding agreement dated June 24,
+                    1988(1)
+
+10.50               Development, License and Supply Agreement between the
+                    Company and Siemens A.G. dated October 24, 1995(4)
+
+10.53               Purchase Agreement between the Company and Siemens A.G.
+                    dated September 11, 1996 (5)
+
+10.54               License and Technology Transfer Agreement between the
+                    Company and Shin- Etsu Handotai Co. Ltd dated September 30,
+                    1996 (6)
+
+10.55               Supply Agreement between the Company and Shin-Etsu Handotai
+                    Co. Ltd, dated September 30, 1996 (6)
+
+10.56               First Amendment to Purchase Agreement between the Company
+                    and Siemens A.G. dated April 22, 1997 (7)
+
+11.00               Computation of Per Share Earnings
+
+21.00               Subsidiaries of Registrant (3)
+
+23.00               Consent of Independent Accountants
+
+27.00               Financial Data Schedule (for SEC use only)
+
+(1) Incorporated by reference herein. Filed as an exhibit to the Company's
+Registration Statement filed on Form SB-2 and declared effective by the
+Securities and Exchange Commission on February 8, 1993 and bearing Registration
+#33-55998.
+
+(2) Incorporated by reference herein. Filed as an exhibit to the Company's
+annual report filed on Form 10-KSB with the Securities and Exchange Commission
+on August 1, 1993.
+
+(3) Incorporated by reference herein. Filed as an exhibit to the Company's
+annual report filed on Form 10-KSB with the Securities and Exchange Commission
+on August 10, 1995.
+
+(4) Incorporated by reference herein. Filed as an exhibit to the Company's
+Registration Statement filed on Form S-3 (No. 33-98728) declared effective by
+the Securities and Exchange Commission on December 27, 1995. Confidential
+treatment of portions of this document was granted by the Securities and
+Exchange Commission pursuant to Rule 24b-2 by order dated December 29, 1995.
+
+(5) Incorporated by reference herein. Filed as an exhibit to the Company's
+quarterly report filed on Form 10K with the Securities and Exchange Commission
+on September 30, 1996. Confidential treatment of portions of this document was
+granted by the Securities and Exchange Commission pursuant to Rule 24b-2 by
+order dated November 21, 1996.
+
+                                       46
+<PAGE>
+
+(6) Incorporated by reference herein. Filed as an exhibit to the Company's
+quarterly report filed on Form 10Q with the Securities and Exchange Commission
+on November 14, 1996. Confidential treatment of portions of this document was
+granted by the Securities and Exchange Commission pursuant to Rule 24b-2 by
+order dated February 3, 1997.
+
+(7) Incorporated by reference herein. Filed as an exhibit to the Company's
+quarterly report filed on Form 10Q with the Securities and Exchange Commission
+on May 2, 1997. Confidential treatment of portions of this document was
+granted by the Securities and Exchange Commission pursuant to Rule 24b-2 by
+order dated June 26, 1997.
+
+(b) Reports on Form 8-K filed during the last quarter of the period covered by
+this report. None.
+
+
+                                       47
+<PAGE>
+
+
+           REPORT OF INDEPENDENT ACCOUNTANTS ON SUPPLEMENTAL SCHEDULE
+
+Board of Directors and Shareholders
+Cree Research, Inc.
+
+In connection with our audits of the consolidated financial statements of Cree
+Research, Inc. and subsidiary as of June 30, 1997 and 1996, and for each of the
+three years in the period ended June 30, 1997, which financial statements are
+included in this Form 10-K, we have also audited the financial statement
+schedule listed in Item 14(a) herein.
+
+In our opinion, this financial statement schedule, when considered in relation
+to the basic financial statements taken as a whole, presents fairly, in all
+material respects, the information required to be included therein.
+
+
+
+Raleigh, North Carolina
+July 24, 1997
+
+
+
+
+                                       48
+<PAGE>
+
+                                                                     SCHEDULE II
+
+                               CREE RESEARCH, INC.
+
+                        VALUATION AND QUALIFYING ACCOUNTS
+                             (dollars in thousands)
+
+
+                         Allowance for Doubtful Accounts
+
+<TABLE>
+<CAPTION>
+
+                        Balance at        Charged to              Deductions
+       Years            Beginning          Costs and             (Write-Offs           Balance at End
+   Ended June 30,       of Period          Expenses          Charged to Reserve)          of Period
+- ---------------------------------------------------------------------------------------------------------
+<S>                    <C>                <C>               <C>                        <C>
+        1997               $50               $190                   $(24)                  $  216
+        1996               $22               $203                  $(175)                  $   50
+        1995               $27               $ 20                  $ (25)                  $   22
+- ---------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       49
+<PAGE>
+
+
+
+                                  SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+and Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                  CREE RESEARCH, INC.
+
+
+                                  By:   s/ F. Neal Hunter
+                                        F. Neal Hunter
+Date:  August 15, 1997                  President and Chief Executive Officer
+
+
+
+         Pursuant to the requirements of the Securities and Exchange Act of
+1934, this report has been signed below by the following persons on behalf of
+the registrant and in the capacities and on the dates indicated.
+
+
+<TABLE>
+<CAPTION>
+
+      Signature                                       Title                                  Date
+
+
+<S>                                          <C>                                         <C> 
+s/F. Neal Hunter                             Chairman of the Board                       August 15, 1997
+F. Neal Hunter
+
+
+s/Alan J. Robertson                          Chief Financial Officer                     August 15, 1997
+Alan J. Robertson
+
+
+s/Calvin H. Carter, Jr., Ph. D.              Director                                    August 15, 1997
+Calvin H. Carter, Jr., Ph.D.
+
+
+s/James E. Dykes                             Director                                    August 15, 1997
+James E. Dykes
+
+
+s/Michael W. Haley                           Director                                    August 15, 1997
+Michael W. Haley
+
+
+s/Walter L. Robb, Ph.D.                      Director                                    August 15, 1997
+Walter L. Robb, Ph.D.
+
+                                       50
+<PAGE>
+
+
+s/Dolph W. von Arx                           Director                                    August 15, 1997
+Dolph W. von Arx
+
+
+s/John W. Palmour, Ph.D.                     Director                                    August 15, 1997
+John W. Palmour, Ph.D.
+</TABLE>
+
+
+                                       51
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 11
+<TEXT>
+
+                                                           CREE RESEARCH, INC.
+                                   EXHIBIT 11
+                 STATEMENT RE: COMPUTATION OF EARNINGS PER SHARE
+
+
+<TABLE>
+<CAPTION>
+                                                                       YEARS ENDED JUNE 30,
+                                                  1997         1996          1995           1994            1993
+                                              -----------   -----------   -----------    -----------    -----------
+<S>                                            <C>           <C>           <C>            <C>             <C>      
+
+PRIMARY:
+Weighted average common shares outstanding     12,455,494    11,825,857    10,367,290     10,336,646      8,073,174
+
+Net effect of dilutive stock options and
+   warrants- based on treasury stock method       670,048       789,107          --             --             --
+                                              -----------   -----------   -----------    -----------    -----------
+Total                                          13,125,542    12,614,964    10,367,290     10,336,646      8,073,174
+                                              ===========   ===========   ===========    ===========    ===========
+Net income (loss)                               3,542,275       242,855       (17,074)      (430,883)       593,535
+                                              ===========   ===========   ===========    ===========    ===========
+Net income (loss) per common share            $      0.27   $      0.02   ($     0.00)   ($     0.04)   $      0.07
+                                              ===========   ===========   ===========    ===========    ===========
+
+FULLY DILUTED:
+Weighted average common shares outstanding     12,455,494    11,825,857    10,367,290     10,336,646      8,073,174
+
+Net effect of dilutive stock options and
+   warrants- based on treasury stock method       685,648       821,582          --             --          647,940
+                                              -----------   -----------   -----------    -----------    -----------
+Total                                          13,141,142    12,647,439    10,367,290     10,336,646      8,721,114
+                                              ===========   ===========   ===========    ===========    ===========
+Net income (loss)                               3,542,275       242,855       (17,074)      (430,883)       593,535
+                                              ===========   ===========   ===========    ===========    ===========
+Net income (loss) per common share            $      0.27   $      0.02   ($     0.00)   ($     0.04)   $      0.07
+                                              ===========   ===========   ===========    ===========    ===========
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+
+
+CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We consent to the incorporation by reference in this registration statements of
+Cree Research, Inc. on Form S-8 (Numbers 33-98956 and 33-98958) and Form S-3
+(Number 33-98728) of our reports dated July 24, 1997, on our audits of the
+consolidated financial statements and Schedule II- Valuation and Qualifying
+Accounts of Cree Research, Inc. as of June 30, 1997 and 1996 and for each of the
+three years in the period ended June 30, 1997 which reports are included in this
+Annual Report on Form 10-K.
+
+
+
+Raleigh, North Carolina
+August 13, 1997
+
+
+                                       52
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FDS -- CREE RESEARCH INC.
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                                      5
+<CIK>                                          0000895419              
+<NAME>                                         CREE RESEARCH, INC.
+<MULTIPLIER>                                   1,000
+       
+<S>                                            <C>
+<PERIOD-TYPE>                                  12-MOS
+<FISCAL-YEAR-END>                              JUN-30-1997
+<PERIOD-START>                                 JUL-01-1996
+<PERIOD-END>                                   JUN-30-1997
+<CASH>                                          10,448
+<SECURITIES>                                         0
+<RECEIVABLES>                                    7,910
+<ALLOWANCES>                                       216
+<INVENTORY>                                      3,949
+<CURRENT-ASSETS>                                24,387
+<PP&E>                                          31,310
+<DEPRECIATION>                                   6,977
+<TOTAL-ASSETS>                                  50,137
+<CURRENT-LIABILITIES>                            3,374
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        46,276
+<OTHER-SE>                                      (1,151)
+<TOTAL-LIABILITY-AND-EQUITY>                    50,137
+<SALES>                                         28,973
+<TOTAL-REVENUES>                                28,973
+<CGS>                                           19,094
+<TOTAL-COSTS>                                   25,860
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                (607)
+<INCOME-PRETAX>                                  3,720
+<INCOME-TAX>                                       177
+<INCOME-CONTINUING>                              3,542
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     3,542
+<EPS-PRIMARY>                                     0.27
+<EPS-DILUTED>                                     0.27
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3087 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V3K6FjziIC54aSl7nKSp+8OUh5dOrUyXkJe+orhzqhWbWZ7qEdUB2pnjCJ8zOiZb
+ XrxlJyKJBB5rW7oAaRlYvg==
+
+<SEC-DOCUMENT>0000927016-96-002078.txt : 19961231
+<SEC-HEADER>0000927016-96-002078.hdr.sgml : 19961231
+ACCESSION NUMBER:		0000927016-96-002078
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19960930
+FILED AS OF DATE:		19961230
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SATCON TECHNOLOGY CORP
+		CENTRAL INDEX KEY:			0000889423
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				042857552
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11512
+		FILM NUMBER:		96687881
+
+	BUSINESS ADDRESS:	
+		STREET 1:		161 FIRST STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+		BUSINESS PHONE:		6176610540
+
+	MAIL ADDRESS:	
+		STREET 1:		161 FIRST STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>
+ 
+================================================================================
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                             ____________________
+
+                                   FORM 10-K
+                 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D)
+                    OF THE SECURITIES EXCHANGE ACT OF 1934
+                 FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 1996
+                        COMMISSION FILE NUMBER 1-11512
+                             
+                             ____________________
+
+                         SATCON TECHNOLOGY CORPORATION
+            (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+                              __________________
+
+               DELAWARE                             04-2857552
+    (STATE OR OTHER JURISDICTION OF              (I.R.S. EMPLOYER
+     INCORPORATION OR ORGANIZATION)            IDENTIFICATION NUMBER)
+
+                                           
+      161 FIRST STREET, CAMBRIDGE, MASSACHUSETTS       02142         
+            
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)             (ZIP CODE) 
+                              __________________
+
+                                (617) 661-0540
+             (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                              __________________
+
+      SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:   NONE.
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT
+
+                                TITLE OF CLASS
+                                --------------
+
+                         COMMON STOCK, $.01 PAR VALUE
+                         ----------------------------
+
+          INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL
+REPORTS REQUIRED TO BE FILED BY SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+ACT OF 1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH
+FILING REQUIREMENTS FOR THE PAST 90 DAYS.
+                               YES  X     NO
+                                  -----    ------
+
+          INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO
+ITEM 405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED,
+TO THE BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION
+STATEMENTS INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY
+AMENDMENT TO THIS FORM 10-K. [_]
+
+          As of December 2, 1996, 7,379,817 shares of the registrant's Common
+Stock, $.01 par value, were issued and outstanding. The aggregate market value
+of the registrant's voting stock held by non-affiliates of the registrant as of
+December 2, 1996, based upon the closing price of such stock on the Nasdaq
+National Market on that date ($7.328) was $31,944,474.
+
+DOCUMENTS INCORPORATED BY REFERENCE: Portions of the Registrant's Proxy
+                                     Statement for its 1997 Annual Meeting of
+                                     Stockholders are incorporated by reference 
+                                     into Part III of this Form 10-K
+
+================================================================================
+
+                                       1
+<PAGE>
+ 
+                                    PART I
+
+  ITEM 1.  BUSINESS
+
+  GENERAL
+
+  SatCon Technology Corporation (the "Company" or "SatCon") was organized as a
+  Massachusetts corporation in February 1985 and reincorporated in Delaware in
+  1992. SatCon designs, develops and manufactures intelligent, electro-
+  mechanical products for aerospace, transportation, industrial, and utility
+  applications. SatCon's electro-mechanical products are being developed for a
+  wide variety of U.S. government and commercial markets. For the government,
+  SatCon's electro-mechanical systems provide low vibration and high power for
+  applications ranging from satellite attitude control to high speed drives for
+  shipboard systems. In the transportation segment SatCon is developing electric
+  and hybrid electric drive components, auxiliary power units, and advanced
+  steering, suspension, and braking systems. SatCon is working with major
+  equipment producers to develop process equipment drives, high speed and
+  precision machine tools, manipulators, and machinery isolation equipment.
+  SatCon's electro-mechanical systems may offer to the utility industry
+  advantages in power generation, energy storage, and power quality. In the
+  consumer market SatCon is developing freon-free compressors for refrigerators,
+  variable speed motors, and other long-life, high-efficiency machinery.
+
+  STRATEGY
+
+  The transition to a new generation of products being developed by SatCon is
+  being fueled by a combination of market demand for higher performance and
+  improved efficiency, and by the potential to satisfy these needs made possible
+  by advances in materials and electronics technologies. It is the Company's
+  strategy to accelerate leading edge developments by continuing to expand its
+  externally funded contract research and development from both government and
+  commercial sources. The Company believes that this funding can be used to
+  develop products which can be sold to government agencies and possibly
+  transition into viable commercial products. In most instances individual
+  components have multiple applications across these markets.
+
+  These product developments typically progress through a technology and concept
+  development phase and, if appropriate, into a prototype build phase. Once
+  demonstrated, the Company intends to leverage these prototype developments
+  into 'beta site' units that can be purchased by, or jointly developed with,
+  commercial customers for evaluation. Upon completion of beta site testing,
+  decisions by potential customers will determine the viability of continuing
+  into pre-production manufacturing and further testing and evaluation. In the
+  past two years, SatCon has been successful in developing relationships with
+  potential commercial customers for its technology and prototype demonstration
+  units. These relationships can provide a foundation for the Company's
+  continuing product development efforts while building a potential market base
+  for those products in production quantities.
+
+  To date, the Company has entered into discussions with such companies as 
+  Delco-Remy, General Motors, TRW, Applied Materials, Westinghouse and Allied
+  Signal and intends to seek to form relationships that can utilize the sales,
+  marketing and distribution channels as well as manufacturing capabilities of
+  these organizations to further the commercialization of SatCon's technologies.
+
+  DEVELOPMENTS DURING 1996
+
+  General
+
+  During Fiscal 1996, the Company was involved in a number of activities
+  including the following:
+
+  The Company delivered five "beta-site" units of an integrated suspension and
+  motor system to Applied Materials, a manufacturer of semiconductor wafer
+  fabrication equipment, for evaluation.  If this evaluation is successful, the
+  components could be used in a next-generation wafer processing system.
+
+  The Company also developed an  alpha demonstration unit of it's flywheel
+  "Inertial Battery" intended for use as a replacement for lead-acid batteries
+  in uninterruptible power supply systems.  Potential customers include
+  telecommunications companies such as cable television and telephony service
+  suppliers.
+
+                                      2  
+<PAGE>
+ 
+  The Company also participated in several efforts with various commercial
+  customers to develop new products and product improvements including an
+  improved performance alternator for commercial vehicles;  control electronics
+  for a commercial manufacturer of turbines that will provide power regulation
+  for a turbine being developed for potential applications in alternative fuel
+  vehicles; and flywheel integrated power and attitude control systems for
+  commercial satellite applications.
+
+  Organizational Developments
+
+  In September 1996, the Company further refined its organizational structure.
+  The Technology Division and Energy Systems Division remained relatively
+  unchanged with a new division, Tucson Space and Electro-Optics Division being
+  created.  The Company also opened a sales office in the Detroit, Michigan area
+  to better service its automotive customers.
+
+  The TECHNOLOGY DIVISION, located in Cambridge, continues the research and
+  development work that has historically been conducted at SatCon.  It will
+  concentrate on developing advanced technologies through "integrated product
+  teams" in motors and high speed drives, power electronics, magnetic bearings
+  and suspension systems, and propulsion systems.  As technology developments
+  mature into potential products, product divisions may be created to further
+  advance the applications and marketing efforts.  At the end of fiscal 1996,
+  SatCon had two such divisions.
+
+  The ENERGY SYSTEMS DIVISION, located in SatCon's Cambridge offices, is focused
+  on the product development and marketing of flywheel "Inertial Battery"
+  systems for such markets as utilities, cable television and
+  telecommunications, where uninterruptible power supplies (UPS) are critical to
+  maintaining service.  Although these markets represent a major opportunity
+  base, other industrial users will be pursued as well.  Power outages can be
+  costly to many major industries which experience downtime and lost throughput
+  whenever outages cause production line shut-down. SatCon's flywheel systems
+  may provide a cost effective alternative to battery systems which have limited
+  life and whose disposal is potentially hazardous to the environment.
+
+  The TUCSON SPACE AND ELECTRO-OPTICS DIVISION is located in Tucson, AZ and is
+  focused on two major product areas.  The first is a flywheel energy storage
+  system to be used as a new integrated power and attitude control system for
+  satellites that eliminates chemical batteries and combines their function with
+  that of satellite steering.  The second is electro-optic sensing systems for
+  applications such as earth mapping, mine hunting, commercial fishing and food
+  inspection devices.
+
+  FUNDED RESEARCH AND DEVELOPMENT
+
+  The Company continued its funded research and development with various U.S.
+  Government agencies during Fiscal 1996.  Projects included a flywheel energy
+  storage system for NASA for use in future satellite applications; a
+  terrestrial based flywheel energy storage system for the Marine Corps;
+  potentially cost effective permanent magnet variable speed drives for
+  auxiliary applications on U.S. Navy Ships that can integrate high density
+  drive electronics with innovative permanent magnet motors for hydraulic pump
+  motors, circulating pumps and compressors; a lightweight, low volume
+  alternator and a high efficiency power electronics drive for the Army, and
+  several reaction mass actuator application programs for helicopters.  SatCon
+  is also working with the Air Force to investigate the use of new specialty
+  shape memory alloys in air foil controls for greater fuel efficiency and with
+  several other agencies on the development of high power density electronics
+  modules called Power Electronic Building Blocks or PEBB's.
+
+  COMMERCIALIZATION
+
+  The Company intends to continue directing its commercialization efforts in the
+  following product areas:
+
+  Flywheel Energy Storage Systems
+
+  By integrating energy-storing flywheels made of high-strength materials with
+  high-power, permanent magnet motor/generators, SatCon has developed electro-
+  mechanical storage systems that management believes have the potential to
+  offer practical solutions for mobile and stationary applications.  SatCon
+  flywheel systems are anticipated to provide extremely high power output and
+  energy storage in compact packages.  They may be a long-lasting, light-weight,
+  and environmentally sound alternative to conventional batteries.
+
+                                      3  
+<PAGE>
+ 
+  SatCon's Flywheel Energy Storage (FES) systems offer an alternative to lead-
+  acid batteries as uninterruptible power supplies for the telecommunications
+  industry, including cable television and telephone service providers, which
+  are required to maintain service during power outages.  In addition these
+  systems can be used to provide backup for critical industrial processes and
+  machines, as power supplies for satellites and as energy recovery systems for
+  electric and hybrid electric vehicle drive trains.
+
+  While flywheels have been used for centuries, practical, compact systems are a
+  recent development. Their arrival coincides with the commercial availability
+  of high-strength-to-weight composite materials, high energy permanent magnets,
+  extremely efficient switching power supplies, and active electromagnetic
+  bearings.
+
+  During 1996, the Company made internal research and development investments in
+  this technology by designing and building an alpha demonstration unit of its
+  Inertial Battery 20C1000 series flywheel energy storage system for
+  uninterruptible power supply applications for the telecommunications market.
+
+  Motors and High Speed Drives
+
+  SatCon designs and builds high-performance motors and drives that capitalize
+  on advances in materials and semiconductor technology to achieve high power
+  density. SatCon designs are characterized by power densities as high as 7
+  hp/lb for the motors and 25 hp/lb for the drive electronics. Through the use
+  of high-performance materials and careful design of the magnetic circuits,
+  SatCon has demonstrated electric motor prototypes that are light weight and
+  have provided efficiencies in excess of 97 percent.  SatCon's motor designs
+  are being evaluated for a wide variety of applications including electric
+  vehicles, shipboard motors and general industrial applications.
+
+  During 1996, the Company made internal research and development investments in
+  this product area by developing and demonstrating an advanced automotive
+  alternator that can provide more power at lower speeds.  The issue with
+  current automotive alternators is the ability to match power requirements at
+  idle speeds.  By addressing key limitations of current alternators, SatCon is
+  attempting to enter the automotive alternator market.
+
+  Power Electronics
+
+  SatCon has developed proprietary, custom-built high-voltage hybrid modules
+  based on advanced power semiconductor technology at a fraction of the weight
+  of conventional packages.  The high-density topology and innovative cooling
+  schemes utilized allow for higher throughput in smaller, lighter weight
+  packages.  These electronics support SatCon's high-speed drive and flywheel
+  product development.  This high-density topology and innovative cooling scheme
+  has created power throughput in excess of 1 Megawatt in a 65-pound package.
+
+  Magnetic Bearings and Suspension Systems
+
+  Improvements in magnetic materials and electronic control systems have led the
+  way to advances in electromagnetic bearings and suspension systems. SatCon has
+  participated in the development of such systems for spacecraft and ground-
+  based systems. SatCon's magnetic bearing systems feature innovative
+  electromagnetic and permanent magnet actuators and advance digital control
+  systems. These systems have been developed for both commercial and military
+  applications.
+
+  By injecting electromagnetic forces along a selected bearing axis in concert
+  with shaft rotation, the magnetic bearings can balance a dynamic machine,
+  resulting in smooth and quiet operation. Similar principles guide the
+  application of electromagnetic suspension systems. These automated systems
+  provide a significant reduction of structure-borne vibration transmittal,
+  providing either low-vibration machinery operation, low detection, or
+  vibration isolation.  In addition, these systems provide lubrication-free
+  support for rotating, reciprocating, and stationary systems.  Also, through
+  active electronic control, these systems provide quiet, smooth, and non-
+  contaminating machinery operation and isolation.
+
+  During 1996, the Company made internal investments in this product area by
+  building several beta site units of its magnetic actuation system for
+  semiconductor processing that can eliminate unwanted debris, provide higher
+  throughput potential, and is more easily maintained than existing mechanical
+  systems.  This entry into the semiconductor processing equipment market may
+  represent SatCon's first step toward realizing the market potential for
+  electro-mechanical actuation systems.
+
+  Propulsion Systems
+
+                                       4
+<PAGE>
+ 
+  SatCon is developing commercial prototype prime propulsion and auxiliary power
+  units that combine advanced gas turbine drives with high-speed electrical
+  alternators. The result is compact, lightweight electrical power generation
+  that can operate on a variety of fuels. This system, called the Turbine
+  Alternator Unit ("TAU"), integrates a high-speed gas turbine and a highly
+  efficient, high-frequency AC induction alternator on the same shaft. With
+  innovative electrical, structural and thermal design, a TAU can operate at
+  high speeds, resulting in high power output with reduced system size.
+
+  These Turbine-Alternators, which are appropriate for a wide variety of primary
+  or auxiliary power applications, are expected to operate on a variety of fuels
+  and to offer attractive power-to-weight benefits compared to conventional
+  power generation options.
+
+  MARKETING/MARKETS
+
+  SatCon's objective is to capitalize on the technology developments from its
+  internal and contract research and development to be a leading supplier of a
+  new generation of intelligent, electro-mechanical products for aerospace,
+  transportation, industrial, and utility applications. These products, spawned
+  by a revolution in the size, weight and efficiency of machines, provide
+  competitive advantages in performance. Management believes the following list
+  to be representative of market opportunities as they exist today for the
+  Company's products.
+
+  Flywheel Energy Storage ("FES") Systems:  Electromechanical storage in
+  SatCon's flywheel energy storage systems may replace batteries in a variety of
+  industries including uninterruptible power supplies for telecommunications
+  providers and industrial systems, power quality for utilities, and integrated
+  power and attitude control for satellites.
+
+  Motors and High Speed Drives:  Management believes that SatCon's electric
+  motors, generators, and drives may offer advantages to a variety of industries
+  including automotive components, vehicle propulsion systems, industrial
+  drives, machine tools, satellites and consumer products.
+
+  Power Electronics:  Lightweight, high power density electronics may offer
+  advantages to several markets and are key components in SatCon's system
+  products including  motor and drive systems, electric and hybrid vehicles,
+  aerospace, industrial controls and power management, and a variety of military
+  subsystems.
+
+  Magnetic Bearings and Suspension Systems:  SatCon's magnetic bearing and
+  suspension systems have the potential to be applied to a variety of
+  applications such as aircraft gas turbine engines, flywheel systems,
+  compressors, high speed machine tools, vibration isolators and computer chip
+  manufacturing processing equipment.
+
+  Propulsion Systems:  Lightweight, low-cost, long-life turbine alternators may
+  offer advantages for a variety of applications including hybrid vehicle
+  primary propulsion, auxiliary power and portable power systems, and military
+  vehicle propulsion and remote power supplies.
+
+  COMPETITION
+
+  The Company is aware of direct and indirect competitors which employ magnetics
+  technology and have extensive research and development facilities in both
+  government and commercial markets. The Company believes its principal
+  competitors in government sponsored research and development include Aura
+  Systems, Inc., American Flywheel, U.S. Flywheel, and Unique Mobility, Inc. The
+  Company is aware of large companies, as well as smaller companies, entering
+  this market and expects competition to intensify either through direct
+  competition or via alternative technologies.
+
+  Although the Company is not as well capitalized as some of its competitors and
+  is more limited in terms of its facilities and number of personnel, its
+  strategy is to compete with larger companies on the basis of its technical
+  skills, proprietary know-how, access to university researchers in the greater
+  Boston area conducting ongoing research, and key personnel, many of whom are
+  experts in the field of magnetics technology.
+
+  The industries served by the Company are highly competitive and a number of
+  companies are involved in extensive research and development programs designed
+  to address the technological challenges which the Company is seeking to
+  address through its development programs. Many of these companies are larger
+  and better financed than the Company. As a result, there can be no assurance
+  that customers will not select technologies developed by or under development
+  by other companies or that potential customers will select the 
+
+                                       5
+<PAGE>
+ 
+  Company's technologies to address both existing and potential markets.
+  Virtually all of the Company's revenues to date from commercial contracts have
+  been derived in connection with prototype development contracts. As a result,
+  the Company will need to develop technologies which address customers' needs
+  in a cost-effective and timely manner. There can be no assurance that the
+  Company will be successful in these efforts, that technologies developed by
+  other companies will not be selected, or that potential customers for the
+  Company's technologies will adopt the Company's technologies in a timely
+  manner, if at all.
+
+  PATENTS AND PROPRIETARY INFORMATION
+
+  The Company currently owns nine United States patents which expire between
+  2007 and 2013.  The Company has twelve patent applications pending with the
+  U.S. Patent and Trademark Office.
+
+  As a qualifying small business, the Company has retained commercial ownership
+  rights to proprietary technology developed under various U.S. Government
+  contracts and grants, including Small Business Innovation Research ("SBIR")
+  contracts.
+
+  In addition to its patent rights, the Company also relies upon treatment of
+  its technology as trade secrets and upon confidentiality agreements, which all
+  of its employees are required to execute, assigning to the Company all patent
+  rights and technical or other information developed by the employees during
+  their employment with the Company. The Company's employees have also agreed
+  not to disclose any trade secret or confidential information without the prior
+  written consent of the Company. Notwithstanding these confidentiality
+  agreements, there can be no assurances that other companies will not acquire
+  information which the Company considers to be proprietary. Moreover, while the
+  Company intends to defend vigorously its patents against infringement by third
+  parties, there can be no assurance that the Company's patents will be
+  enforceable or provide the Company with meaningful protection from competitors
+  or that patent applications will be allowed. No assurance can be given as to
+  the issuance of additional patents or, if so issued, as to their scope.
+  Patents granted may not provide meaningful protection from competitors. Even
+  if a competitor's products were to infringe patents owned by the Company, it
+  would be very costly for the Company to pursue its rights in an enforcement
+  action, which would also divert funds and resources which otherwise could be
+  used in the Company's operations. Furthermore, there can be no assurance that
+  the Company would be successful in enforcing intellectual property rights or
+  that the Company may not infringe patent or intellectual property rights of
+  third parties, although the Company, to date, has not been required to defend
+  its patents or proprietary information against claims by third parties.
+
+  RESEARCH AND DEVELOPMENT
+
+  All of the Company's revenues during Fiscal year 1996 are attributable to
+  research and development activities funded by commercial customers and U.S.
+  Government agency sponsors.  Under the agreements funded by the U.S.
+  Government, the government retains a royalty-free license to use the
+  technology developed for government purposes and the Company retains exclusive
+  rights to the technology for commercial and industrial applications.  In
+  addition to the research and development conducted under contract, the Company
+  expended $893,628 on internally funded research and development in 1996.  This
+  is primarily related to continued development of drive train components for
+  hybrid electric vehicles in the automotive industry as well as further
+  development of flywheel energy storage systems for the cable industry.
+
+  GOVERNMENT REGULATION
+
+  The Company has entered into certain U.S. Government contracts which require
+  compliance with applicable U.S. Government regulations. The Company's
+  contracts with the U.S. Government consist primarily of research and
+  development contracts, many of which are awarded under the SBIR Program. The
+  research and development contracts are generally subject to competitive
+  bidding and extensive regulation and are generally subject to cancellation at
+  the U.S. Government's sole discretion. In addition, the Company has been
+  awarded certain classified U.S. Government contracts. Certain of the Company's
+  employees and directors have been required to obtain security clearance from
+  the federal government.
+
+  As a party to a number of contracts with the U.S. Government and its agencies,
+  the Company must comply with extensive regulations, including regulations with
+  respect to bid proposals and billing practices. As research and development
+  contracts are generally subject to cancellation at the U.S. Government's sole
+  discretion, should the 
+
+                                       6
+<PAGE>
+ 
+  U.S. Government or its agencies conclude that the Company has not adhered to
+  federal regulations, any contracts to which the Company is a party could be
+  canceled and/or could prohibit the Company from bidding on future contracts,
+  which would have a material adverse effect on the Company. All payments to the
+  Company for work performed on contracts with agencies of the U.S. government
+  are subject to adjustment upon audit by the U.S. Government Defense Contract
+  Audit Agency, the General Accounting Office, and other agencies. The Company
+  could be required to disgorge any payments received from U.S. Government
+  agencies if it is found to have violated federal regulations.
+
+  The commercialization of the Company's technologies for use in various
+  industries may also be affected by federal and state legislative and
+  regulatory changes affecting such industries.
+
+  MANUFACTURING AND SUPPLIERS
+
+  To date, the Company has manufactured all of its prototype products at its
+  facility in Cambridge, Massachusetts. The Company anticipates investing in
+  manufacturing equipment to further develop the manufacturing capabilities at
+  this facility. If the Company is successful in obtaining market penetration of
+  its products, the Company will be required to deliver large volumes of quality
+  products or components to its customers on a timely basis at reasonable costs
+  to the Company. The Company intends to seek to supplement its manufacturing
+  capabilities by establishing relationships with manufacturing organizations to
+  deliver large volumes of its products until such time as the Company can
+  develop its own manufacturing expertise and capacity.  No assurance can be
+  given that the Company will be able to successfully establish relationships
+  with third party manufacturing organizations, or if such relationships are
+  established, that they will be successful.
+
+  The principal materials and supplies used by the Company are available from
+  several commercial sources, and the Company does not depend on any single
+  source for a significant portion of its materials or supplies. Component parts
+  of the Company's active control systems are readily available.
+
+  BACKLOG
+
+  The Company's backlog consists primarily of research and development
+  contracts.  At September 30, 1996, the backlog was approximately $7,400,000
+  for work to be performed in the Fiscal year ending September 30, 1997.  Many
+  of the Company's contracts may be canceled at any time with limited or no
+  penalty.  Also, contract awards may be subject to funding approval from the
+  U.S. Government and commercial entities, which  involves political, budgetary,
+  and other considerations over which the Company has no control. The Company's
+  backlog at September 30, 1995 was approximately $10,000,000.  At September 30,
+  1996, the Company also had $10,000,000 in conditional purchase orders and
+  letters of intent for flywheel energy storage systems.
+
+  SIGNIFICANT CUSTOMERS
+
+  Chrysler accounted for approximately 38% of the Company's Fiscal 1996 sales.
+  See "Footnote L" of Notes to Financial Statements.  The Company's revenues
+  from Chrysler decreased by approximately $3.9 million from 1995 to 1996.  See
+  "Management's Discussion and Analysis of Financial Condition and Results of
+  Operations."
+
+  EMPLOYEES
+
+  At September 30, 1996, the Company employed a total of 102 people; 98 on a
+  regular full-time basis, one on a regular part-time basis, and three student
+  interns.  Many of the Company's employees are affiliated with large
+  universities located in the greater Boston area.  Seventy-eight persons are
+  employed in engineering, 23 in administration and 7 in marketing
+  and sales.  None of these employees are represented by a union.  The Company
+  believes that its relations with its employees are satisfactory.
+
+
+  ITEM 2.   DESCRIPTION OF PROPERTIES
+
+  The Company's office and laboratory space is 45,820 square feet located at 161
+  First Street, Cambridge, Massachusetts, under a primary lease expiring on
+  October 31, 1998.  The Company leases an additional 8,343 square feet located
+  at 6245 East Broadway Boulevard, Suite 350, Tucson, Arizona, under a primary
+  lease expiring on March 31, 2001. The Company believes its facilities are
+  adequate for its current needs and that 
+
+                                       7
+<PAGE>
+ 
+  adequate facilities for expansion, if required, are available in the immediate
+  areas. See "Footnote F" on Notes to Financial Statements.
+
+
+  ITEM 3.   LEGAL PROCEEDINGS
+
+  The Company is not involved in any material legal proceedings.
+
+
+  ITEM 4.   SUBMISSION OF MATTERS TO VOTE OF SECURITY HOLDERS
+
+  No matter was submitted to a vote of security holders during the fourth
+  quarter of the Fiscal year covered by this report through the solicitation of
+  proxies or otherwise.
+
+                                       8
+<PAGE>
+ 
+                                    PART II
+
+
+  ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER  
+          MATTERS.
+
+  The Company's Common Stock is traded on the Nasdaq National Market ("NNM") 
+  under the trading symbol "SATC." As of December 2, 1996 there were
+  approximately 190 shareholders of record.
+
+  For the periods reported below, the following table sets forth the range of
+  high and low bid quotations for the Common Stock as reported by NNM.  Such
+  quotations represent interdealer quotations without adjustment for retail
+  markups, markdowns or commissions and may not represent actual transactions.
+  As of December 2, 1996 the closing price for the Company's Common Stock, as
+  quoted in the Wall Street Journal, was $7.328.
+
+<TABLE>
+<CAPTION>
+                          FISCAL YEAR 1996            FISCAL YEAR 1995
+                      ------------------------    ------------------------
+                                 BID                         BID
+                      ------------------------    ------------------------
+                            HIGH      LOW               HIGH      LOW
+                      ------------  ----------    ------------  ----------
+     <S>              <C>           <C>           <C>           <C>
+     First Quarter...    $11.375       $7.750        $13.000      $ 8.250
+     Second Quarter..    $12.750       $6.250        $11.000      $ 8.625
+     Third Quarter...    $12.750       $8.625        $15.125      $ 8.875
+     Fourth Quarter..    $ 9.250       $7.000        $15.125      $10.375
+</TABLE>
+
+
+  DIVIDEND POLICY
+
+  The Company has not paid cash dividends on its Common Stock since its
+  inception and has no intention of paying any cash dividends to its
+  stockholders in the foreseeable future.  The Company intends to reinvest
+  earnings, if any, in the development and expansion of its business.  Any
+  declaration of dividends in the future will be at the election of the Board of
+  Directors and will depend upon the earnings, capital requirements and
+  financial position of the Company, general economic conditions, requirements
+  of any bank lending arrangements which may then be in place and other
+  pertinent factors.
+
+                                       9
+<PAGE>
+ 
+  ITEM 6. SELECTED FINANCIAL DATA
+
+  The selected financial data set forth below for the years ended September 30,
+  1996, 1995, 1994, 1993, and 1992 has been derived from the financial
+  statements of the Company which have been audited by Coopers & Lybrand L.L.P.,
+  independent accountants.  This information should be read in conjunction with
+  the financial statements and notes thereto set forth elsewhere in this Report.
+
+
+  STATEMENT OF OPERATIONS DATA:
+
+<TABLE>
+<CAPTION>
+ 
+                                                              YEARS ENDED SEPTEMBER 30,
+                                        -------------------------------------------------------------------
+                                              1996           1995          1994         1993         1992
+                                        -------------    -----------   -----------  ----------   -----------
+<S>                                     <C>              <C>           <C>          <C>          <C>
+Revenue.................................  $ 9,384,588    $11,475,427   $18,016,987  $5,306,680    $2,465,767
+                                        -------------    -----------   -----------  ----------  ------------
+Cost of Sales...........................    3,940,674      6,522,768    11,281,239   2,652,533       897,099
+Selling, General and Administrative                                      
+     Expenses...........................    8,023,441      5,483,194     4,655,769   2,363,370     1,510,612
+Research and Development................      893,628      1,937,241       461,068     119,663         9,472
+                                        -------------    -----------   -----------  ----------  ------------
+     Total Operating Expenses...........   12,857,743     13,943,203    16,398,076   5,135,566     2,417,183
+Interest Income/(Expense), Net..........      463,840        451,034       409,337     119,100       (47,324)
+                                        -------------    -----------   -----------  ----------  ------------
+Income/(loss) Before Income Taxes.......   (3,009,315)    (2,016,742)    2,028,248     290,214         1,260
+Provision/(benefit) for Income Taxes....     (144,479)      (806,697)      803,356     101,288           290
+                                        -------------    -----------   -----------  ----------  ------------
+Net Income/(loss).......................  $(2,864,836)   $(1,210,045)  $ 1,224,892  $  188,926    $      970
+                                        =============    ===========   ===========  ==========  ============
+Earnings/(loss)  per Common and Common     
+ Equivalent Share.......................        $(.39)         $(.17)         $.17        $.03             - 
+                                        =============    ===========   ===========  ==========  ============
+Weighted Average Shares Outstanding.....    7,285,756      7,079,855     7,347,098   5,628,641     3,892,132
+</TABLE>
+
+BALANCE SHEET DATA:
+
+<TABLE>
+<CAPTION>
+
+                                                          AT SEPTEMBER 30,
+                                ---------------------------------------------------------------------
+                                     1996         1995          1994            1993        1992
+                                -----------    -----------    -----------    ----------    ----------
+<S>                             <C>            <C>            <C>            <C>           <C>
+Total Assets.................   $17,182,455    $19,792,966    $22,274,534    $8,430,630    $1,320,501
+Total Long Term Obligations..   $         0    $         0    $         0    $   11,229    $   45,929
+Total Liabilities............   $ 1,083,287    $ 1,040,251    $ 2,768,493    $1,241,426    $  997,570
+Working Capital..............   $11,011,170    $15,615,645    $18,172,529    $6,715,989    $   33,350
+Stockholders' Equity.........   $16,099,168    $18,752,715    $19,506,041    $7,189,204    $  322,931
+</TABLE>
+
+                                      10
+<PAGE>
+ 
+  ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+           RESULTS OF OPERATIONS
+
+  INTRODUCTION
+
+  SatCon Technology Corporation (the "Company" or "SatCon") was organized as a
+  Massachusetts corporation in February 1985 and reincorporated in Delaware in
+  1992. SatCon designs, develops, and manufactures intelligent, electro-
+  mechanical products for aerospace, transportation, industrial, and utility
+  applications. SatCon's electro-mechanical products are being developed for a
+  wide variety of U.S. government and commercial markets. For the government,
+  SatCon's electro-mechanical systems provide low vibration and high power for
+  applications ranging from satellite attitude control to high speed drives for
+  shipboard systems. In the transportation segment, SatCon is developing
+  electric and hybrid electric drive components, auxiliary power units, and
+  advanced steering, suspension, and braking systems. SatCon is working with
+  major equipment producers to develop process equipment drives, high speed and
+  precision machine tools, manipulators, and machinery isolation equipment.
+  SatCon's electro-mechanical systems may offer to the utility industry
+  advantages in power generation, energy storage, and power quality. In the
+  consumer market, SatCon is developing freon-free compressors for
+  refrigerators, variable speed motors, and other long-life, high-efficiency
+  machinery.
+
+  It is the Company's strategy to accelerate leading edge developments by
+  continuing to expand its externally funded contract research and development
+  from both government and commercial sources. The Company can then leverage
+  this funding to develop products which the Company believes can both be sold
+  to government agencies and transition into high volume commercial products.
+  Recent changes in the Small Business Innovative Research program provide a new
+  mechanism to pursue government Phase III pre-production programs on a sole
+  source non-competitive basis. In most instances, individual components have
+  multiple applications across these markets.
+
+  This Annual Report on Form 10-K contains forward-looking statements. For this
+  purpose, any statements contained herein that are not statements of historical
+  fact may be deemed to be forward-looking statements. Without limiting the
+  foregoing, the words "believes," "anticipates," "plans," "expects" and
+  similar expressions are intended to identify forward-looking statements. There
+  are a number of important factors that could cause the Company's actual
+  results to differ materially from those indicated by such forward-looking
+  statements. These factors include, without limitation, those set forth below
+  under the caption "Factors Affecting Future Results."
+
+  RESULTS OF OPERATIONS
+
+  The following table sets forth, for the periods indicated, the Percentage of
+  Revenues for certain items in the Company's Statement of Operations for each
+  period:
+
+<TABLE>
+<CAPTION>
+                                                 YEAR ENDED SEPTEMBER 30,
+                                              ------------------------------
+                                                 1996     1995     1994
+                                              --------- -------- -----------
+     <S>                                      <C>       <C>      <C>
+     Revenues................................   100.0%   100.0%     100.0%
+     Cost of sales...........................    42.0     56.8       62.6
+     Selling, general and administrative
+      expenses...............................    85.5     47.8       25.8
+     Research and development expenses.......     9.5     16.9        2.6
+     Total operating expenses (excluding
+      cost of sales).........................    95.0     64.7       28.4
+     Operating income/(loss).................   (37.0)   (21.5)       9.0
+     Interest income/(expense) net...........     4.9      3.9        2.3
+     Income /(loss) before income taxes......   (32.1)   (17.6)      11.3
+     Provision/(benefit) for income taxes....    (1.5)    (7.0)       4.5
+     Net income/(loss).......................   (30.6)   (10.6)       6.8
+</TABLE>
+
+                                      11
+<PAGE>
+ 
+ 
+  YEAR ENDED SEPTEMBER 30, 1996 COMPARED TO THE YEAR ENDED SEPTEMBER 30, 1995
+
+ 
+  Revenues.  The Company's revenues decreased $2,090,839, or 18.2%, from 1995 to
+  1996. The decrease is primarily due to a decrease in revenue of approximately
+  $3,945,253 from contracts with Chrysler Corporation for the development of
+  drive train components as part of the Patriot Hybrid Vehicle Program.  During
+  the year, Chrysler Corporation announced the cancellation of the Patriot
+  Hybrid Vehicle Program. Chrysler has announced that it intends to transition
+  technologies utilized in the Patriot Program to their Hybrid Electric Vehicle
+  (HEV) program being sponsored by the U.S. Government's Super Car Initiative.
+  The Company expects involvement with Chrysler in this effort; however as of
+  December 20, 1996, no contractual agreement has been entered between SatCon
+  and Chrysler Corporation relating to the HEV program.  The Company can give no
+  assurance that it will receive additional work related to the HEV program.
+  The Company has not to date recorded any revenues associated with the Chrysler
+  HEV Program. This decrease in revenue was partially offset by increased
+  revenues of approximately $2,355,000 related to work on various government
+  development contracts.
+
+  Cost of Sales.  Cost of sales decreased $2,582,094, or 39.5%, from 1995 to
+  1996.  The decrease is primarily due to a decrease in work during 1996 on
+  contracts with Chrysler Corporation for the development of drive train
+  components as part of the Patriot Hybrid Vehicle Program.  As a percentage of
+  revenue, cost of sales decreased from 56.8% for 1995 to 42.0.% for 1996. The
+  decrease in cost of sales, as a percent of revenue, was primarily due to a
+  decrease in direct material and subcontract costs and an increase in direct
+  labor costs directly related to the shift from work on the Chrysler Patriot
+  Program, which had high material costs, as a percentage of revenue, to work on
+  several labor intensive research and development contracts funded by the U.S
+  Government which typically have higher margins.
+
+  Selling, General and Administrative. Selling, general and administrative
+  expenses increased $2,540,247, or 46.3%, from 1995 to 1996, a change as a
+  percentage of revenue from 47.8% in 1995 to 85.5% in 1996. Approximately
+  $500,000 is attributable to the establishment of the Company's Space Division
+  in Tucson, Arizona. Approximately $600,000 was expensed in establishing the
+  Company's Flywheel Energy Storage Division. Cambridge facilities expense
+  increased approximately $277,000 due to the exercise of an option in the
+  Company's lease for additional space. The Company now occupies the entire
+  building at 161 First Street, Cambridge, Massachusetts. Depreciation expense
+  increased approximately $373,000 due to purchases of computer, laboratory,
+  inspection, test, and manufacturing equipment during fiscal 1995 and 1996.
+  Marketing expenses increased approximately $500,000 in efforts to broaden the
+  customer base in anticipation of the cancellation of the Patriot Program.
+
+  Research and Development.  Research and development expenses decreased
+  $1,043,613, or 53.9% from 1995 to 1996.  As a percentage of revenue, internal
+  research and development decreased from 16.9% in 1995 to 9.5% in 1996.  The
+  decrease in research and development spending is primarily the result of a
+  reallocation of engineering resources from internally funded research and
+  development to construction of a pre-production flywheel, additional marketing
+  efforts and development efforts on contracts from the U.S. Government and
+  commercial contracts.  Virtually all of 1996 revenues were for sponsored
+  research and development.  As a small business under government contracts,
+  SatCon retains commercial rights to work developed.  For commercial contracts,
+  intellectual property is negotiated on a case-by-case basis.
+
+  Net Income/(Loss).  As a result of decreased revenues and increased investment
+  in marketing, facilities, and associated fringe costs,  the Company realized a
+  net loss of $2,864,836 in 1996 versus a net loss of $1,210,045 in 1995.
+
+
+  YEAR ENDED SEPTEMBER 30, 1995 COMPARED TO THE YEAR ENDED SEPTEMBER 30, 1994
+
+  Revenues.  The Company's revenues decreased $6,541,560, or 36.3%, from 1994 to
+  1995. The decrease is primarily due to a decrease in revenue of approximately
+  $5,700,000 from contracts with Chrysler Corporation for the development of
+  drive train components as part of the Patriot Hybrid Vehicle Program.  During
+  the year, performance testing began of first generation drive train components
+  to identify possible design improvements to be incorporated in subsequent
+  units.  This testing resulted in a delay in revenue from 
+
+                                      12
+
+<PAGE>
+ 
+  the Patriot Program. At the close of the fiscal year the Company continued to
+  support Chrysler in these test and design improvement efforts on a time and
+  materials basis. In addition, the company realized a decrease in revenue of
+  approximately $2,700,000, due to the completion of a contract with Itek
+  Optical Systems for design work for a U.S. Government program. These decreases
+  in revenue were partially offset by increased revenues of approximately
+  $1,800,000 related to work on various commercial and government development
+  contracts.
+
+  Cost of Sales.  Cost of sales decreased $4,758,471, or 42.2%, from 1994 to
+  1995.  The decrease is primarily due to a decrease in work during 1995 on
+  contracts with Chrysler Corporation for the development of drive train
+  components as part of the Patriot Hybrid Vehicle Program.  As a percentage of
+  revenue, cost of sales decreased from 62.6% for 1994 to 56.8% for 1995. The
+  decrease in cost of sales as a percent of revenue was primarily due to a
+  decrease in direct material and subcontract costs as a percentage of cost of
+  sales related to a shift in efforts on the Patriot Program from material
+  procurement and subcontract production to assembly and test of first
+  generation drive train components.  This decrease is partially offset by an
+  increase in material procurement and subcontract production cost for long lead
+  time parts for second generation drive train components for the Patriot
+  Program.
+
+  Selling, General and Administrative.  Selling, general and administrative
+  expenses increased $827,425, or 17.8%, from 1994 to 1995, a change as a
+  percentage of revenue from 25.8% in 1994 to 47.8% in 1995.  This increase is
+  primarily the result of the addition of business support personnel (marketing,
+  engineering, and administrative) added to support the Company's transition to
+  a supplier of products to commercial markets.  This increase was partially
+  offset by a decrease in costs related to contract employees and consultants
+  replaced by permanent employees.  In addition, depreciation expense increased
+  primarily due to the purchases of computer, laboratory, inspection and test,
+  and manufacturing equipment during fiscal year 1994 and 1995.
+
+  Research and Development.  Research and development expenses increased
+  $1,476,173, or 320.2% from 1994 to 1995.  As a percentage of revenue, internal
+  research and development increased from 2.6% in 1994 to 16.9% in 1995.  The
+  increase in expenditures is primarily associated with projects to develop
+  technology for products for the automotive and other commercial markets. The
+  majority of the increase is associated with projects related to the develop of
+  three pre-production prototype systems.  The systems developed and built
+  include a flywheel energy storage system aimed at stationary uninterruptable
+  power supply markets, an advanced replacement alternator for automotive
+  applications, and an advanced actuation system for semiconductor processing
+  equipment. The Company continues to increase efforts in the pursuit of
+  commercial product opportunities capitalizing on the Company's Active Motion
+  Control technology base.
+
+  Net Income/(Loss).  As a result of decreased revenues and increased selling,
+  general and administrative and research and development expenses, the Company
+  realized a net loss of $1,210,045 in 1995 versus a net income of $1,224,892 in
+  1994.
+
+  LIQUIDITY AND CAPITAL RESOURCES
+
+  The Company's cash and cash equivalents was $3,770,925 as of September 30,
+  1996, an increase of $1,582,938 from September 30, 1995.  Cash used in
+  operating activities was $3,072,434 during 1996, as compared to cash provided
+  by operating activities of $5,751,991 during 1995. The cash used in operations
+  was primarily the result of a net increase of approximately $972,675 in
+  accounts receivable and unbilled contract costs due primarily to extended
+  billing and payment terms with two commercial customers.  The remainder of the
+  cash used by operating activities is primarily a result of an increase in
+  other assets, a decrease in prepaid expenses, an increase in accrued expenses
+  and payroll, and the net loss net of income tax benefit for the period.
+
+  Cash provided by investing activities as of September 30, 1996, was
+  $4,450,724. The cash provided relates primarily to the sale and maturity of
+  approximately $8,407,185 of marketable securities to fund operations prior to
+  collection of outstanding invoices.  The cash provided was partially offset by
+  purchases of marketable securities of approximately $1,450,000  and capital
+  expenditures of approximately $2,293,305.  The capital expenditures primarily
+  relate to the purchase of inspection equipment, furniture and fixtures,
+  leasehold improvements, computer equipment, and sales and demonstration
+  equipment.   
+
+                                      13
+
+<PAGE>
+ 
+  The Company has a $3,000,000 bank line of credit. Borrowings under the line
+  will be unsecured and charged interest at prime rate.  The line of credit
+  expires January 31, 1997.  The Company has entered into negotiations to
+  replace this line of credit.  No funds have as yet been advanced under this
+  facility.  The Company is required to maintain certain covenants including
+  certain financial ratios as described in the line of credit agreement.
+
+  The Company anticipates that its existing cash resources, cash flow from
+  operations and the continued availability of its bank line of credit will be
+  sufficient to fund its operations through September 30, 1997, provided it
+  meets its operating plan and remains in compliance with its credit agreement,
+  although no funds have as yet been advanced.  The Company is currently in
+  default of its line of credit facility with the bank. However, the Company has
+  received a written waiver of this default for the year ended September 30,
+  1996. The Company's ability to finance its operations will be dependent on its
+  ability to renegotiate its bank line of credit for a continued availability of
+  borrowing thereunder. There can be no assurance that the Company will be
+  successful in renegotiating its line of credit. To the extent cash flow from
+  operations is insufficient to fund the Company's activities, it may be
+  necessary to raise additional funds through equity or debt financing. The
+  Company's ability to generate cash from operations depends upon, among other
+  things, revenue growth, its credit and payments terms with vendors, and
+  collections of accounts receivable. The Company's ability to borrow under this
+  facility is dependent upon satisfying certain financial covenants, among other
+  things, and there can be no assurances that the Company will remain in
+  compliance. If such sources of cash prove insufficient, the Company will be
+  required to make changes in its operations or to seek additional debt or
+  equity financing. There can be no assurances that cash generated from
+  operations and borrowings under its credit facility will be sufficient to meet
+  its operating requirements, or if required, that additional debt or equity
+  financing will be available on terms acceptable to the Company.
+
+  FACTORS AFFECTING FUTURE RESULTS
+
+  The Company's future results remain difficult to predict and may be affected
+  by a number of factors which could cause actual results to differ materially
+  from the forward-looking statements contained in this Annual Report on Form
+  10-K and presented elsewhere by management from time to time. These factors
+  include business conditions within the automotive, telecommunications,
+  industrial machinery and semiconductor industries and the world economies as a
+  whole, and competitive pressures that may impact research and development
+  spending. The Company's revenue growth is dependent on technology developments
+  and contract research and development for both the government and commercial
+  sectors and no assurance can be given that such investments will continue or
+  that the Company can successfully obtain such funds. In addition, the
+  Company's future growth opportunities are dependent on the introduction on new
+  products that must penetrate automotive, telecommunications, industrial, and
+  computer market segments. No assurance can be given that new products can be
+  developed, or if developed, will be successful; that competitors will not
+  force prices to an unacceptably low level or take market share from the
+  Company; or that the Company can achieve or maintain profits in these markets.
+  Because of these and other factors, past financial performances should not be
+  considered an indicator of future performance. Investors should not use
+  historical trends to anticipate future results and should be aware that the
+  Company's stock price frequently experiences significant volatility.
+
+
+                                      14
+
+<PAGE>
+ 
+  EFFECT OF RECENT ACCOUNTING PRONOUNCEMENTS
+
+  In October 1995, the Financial Accounting Standards Board issued SFAS No. 123,
+  "Accounting for Stock-Based Compensation," which encourages companies to
+  recognize compensation expense in the income statement based on the fair value
+  of the underlying common stock at the date the awards are granted .  However,
+  it will permit continued accounting under APB Opinion 25, "Accounting for
+  Stock Issued to Employees," accompanied by a disclosure of the pro forma
+  effects on net income and earnings per share had the new accounting rules been
+  applied. The statement is effective for Fiscal 1997. The Company plans to
+  account for stock based compensation in accordance with APB Opinion 25.
+
+
+  EFFECTS OF INFLATION
+
+  The Company believes that inflation over the past three years has not had a
+  significant impact on the Company's sales or operating results.
+
+
+                                      15
+<PAGE>
+ 
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                           PAGE
+                                                                           ----
+<S>                                                                        <C>
+Report of Independent Accountants.........................................   17
+
+Financial Statements:
+
+  Balance Sheets as of September 30, 1996 and 1995........................   18
+
+  Statements of Operations for the Years Ended September 30, 1996,
+     1995, and 1994.......................................................   19
+
+  Statements of Changes in Stockholders' Equity for the Years Ended
+     September 30, 1996, 1995, and 1994...................................   20
+
+  Statements of Cash Flows for the Years Ended September 30, 1996,
+     1995, and 1994.......................................................   21
+
+  Notes to Financial Statements...........................................   22
+
+  Schedule II; Valuation and Qualifying Accounts for the Years Ended
+     September 30, 1996, 1995, and 1994...................................   32
+
+  Index to Exhibits.......................................................   38
+</TABLE>
+
+                                       16
+<PAGE>
+ 
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+     We have audited the accompanying balance sheets and financial statement
+schedule of SatCon Technology Corporation as of September 30, 1996 and 1995, and
+the related statements of operations, changes in stockholder's equity, and cash
+flows for each of the three years in the period ended September 30, 1996. These
+financial statements and financial statement schedule are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements and financial statement schedule based on our audits.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of SatCon Technology
+Corporation as of September 30, 1996 and 1995, and the results of its operations
+and its cash flows for each of the three years in the period ended September 30,
+1996 in conformity with generally accepted accounting principles. In addition,
+in our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+present fairly, in all material respects, the information required to be
+included therein.
+
+
+                                            Coopers & Lybrand L.L.P.
+
+
+Boston, Massachusetts
+December 3, 1996
+
+                                       17
+<PAGE>
+ 
+                         SATCON TECHNOLOGY CORPORATION
+
+                                BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                                  SEPTEMBER 30,     SEPTEMBER 30,
+                                                                                       1996             1995
+                                                                                ----------------  ----------------
+                                           ASSETS
+<S>                                                                             <C>               <C>
+Current assets:
+     Cash and cash equivalents................................................     $ 3,770,925       $ 2,187,987
+     Marketable securities (Note B)...........................................       3,435,743        10,386,288
+     Accounts receivable, net of allowance of $130,900 in 1996 and 1995.......       2,881,790         2,076,002
+     Unbilled contract costs, net of allowance of $432,500 in 1996 and
+          $66,500 in 1995 (Note C)............................................       1,563,254         1,396,367
+     Prepaid expenses and other assets........................................         442,745           609,252
+                                                                                ----------------  ----------------
+          Total current assets................................................      12,094,457        16,655,896
+Property and equipment, net (Note D)..........................................       4,347,784         2,772,018
+Other assets..................................................................         740,214           365,052
+                                                                                ----------------  ----------------
+          Total assets........................................................     $17,182,455       $19,792,966
+                                                                                ================  ================
+
+                               LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+     Accounts payable.........................................................     $   605,048       $   624,955
+     Accrued payroll and payroll related expenses.............................         183,747           153,989
+     Other accrued expenses...................................................         294,492            88,025
+     Deferred income taxes (Note H)...........................................            -              173,282
+                                                                                ----------------  ----------------
+          Total current liabilities...........................................       1,083,287         1,040,251
+Commitments (Note F)..........................................................            -                 -   
+
+                                       STOCKHOLDERS' EQUITY
+Preferred stock; $.01 par value, 1,000,000 shares authorized; none issued
+   (Note J)...................................................................            -                 -   
+Common stock, $.01 par value, 10,000,000 shares authorized; 7,359,074 and
+   7,166,601 shares at September 30, 1996 and 1995, respectively, issued
+   and outstanding (Note I)...................................................          73,591            71,666
+Additional paid-in capital....................................................      18,487,209        18,284,486
+Retained earnings/(loss)......................................................      (2,421,697)          443,139
+Unrealized losses on marketable securities, net of tax effect (Note B)........         (39,935)          (46,576)
+                                                                                ----------------  ----------------
+          Total stockholders' equity..........................................      16,099,168        18,752,715
+                                                                                ----------------  ----------------
+               Total liabilities and stockholders' equity.....................     $17,182,455       $19,792,966
+                                                                                ================  ================
+</TABLE>
+
+   The accompanying notes are an integral part of the financial statements.
+
+                                       18
+<PAGE>
+ 
+                         SATCON TECHNOLOGY CORPORATION
+
+                           STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+ 
+                                                   YEARS ENDED SEPTEMBER 30,
+                                          ------------------------------------------
+                                              1996           1995           1994        
+                                          ------------   ------------   ------------    
+<S>                                       <C>            <C>            <C>            
+Revenue.................................  $ 9,384,588    $11,475,427    $18,016,987    
+                                          ------------   ------------   ------------   
+Cost of sales...........................    3,940,674      6,522,768     11,281,239    
+Selling, general and administrative         
+ expenses...............................    8,023,441      5,483,194      4,655,769                                                
+Research and development expenses.......      893,628      1,937,241        461,068    
+                                          ------------   ------------   ------------   
+Total operating expenses................   12,857,743     13,943,203     16,398,076    
+                                          ------------   ------------   ------------   
+Operating income/(loss).................   (3,473,155)    (2,467,776)     1,618,911    
+Interest income, net....................      463,840        451,034        409,337    
+                                          ------------   ------------   ------------   
+Income/(loss) before income taxes.......   (3,009,315)    (2,016,742)     2,028,248    
+Provision/(benefit) for income taxes....     (144,479)      (806,697)       803,356    
+                                          ------------   ------------   ------------   
+Net income/(loss).......................   (2,864,836)    (1,210,045)     1,224,892    
+                                          ============   ============   ============   
+Earnings/(loss) per common and common                                                  
+ equivalent share.......................  $      (.39)   $      (.17)    $      .17    
+                                          ============   ============   ============   
+Weighted average shares outstanding.....    7,285,756      7,079,855      7,347,098     
+</TABLE>
+
+   The accompanying notes are an integral part of the financial statements.
+
+                                       19
+<PAGE>
+ 
+                         SATCON TECHNOLOGY CORPORATION
+
+                 STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+
+             FOR THE YEARS ENDED SEPTEMBER 30, 1996, 1995 AND 1994
+
+<TABLE>
+<CAPTION>
+                                                                                                     UNREALIZED
+                                                                                                      LOSS ON             TOTAL
+                                    COMMON     COMMON    ADDITIONAL PAID-IN    RETAINED EARNINGS    MARKETABLE       STOCKHOLDERS'
+                                    SHARES      STOCK         CAPITAL               (LOSS)          SECURITIES (1)       EQUITY
+                                  ---------   --------   ------------------    -----------------    --------------    -------------
+<S>                               <C>         <C>        <C>                   <C>                  <C>               <C>
+Balance, September 30, 1993....   5,153,633   $51,536         $ 6,709,376          $   428,292        $      -         $ 7,189,204
+Net income.....................       -         -                   -                1,224,892               -           1,224,892
+Sale of common stock...........   1,715,505    17,155          11,050,723                -                   -          11,067,878
+Exercise of stock options......     144,588     1,446             158,488                -                   -             159,934
+Change in unrealized losses                            
+on marketable securities(1)....       -         -                   -                    -               (135,867)        (135,867)
+                                  ---------   -------     -----------------        ------------     --------------    -------------
+Balance, September 30, 1994....   7,013,726    70,137          17,918,587            1,653,184           (135,867)      19,506,041
+Net loss.......................       -         -                   -               (1,210,045)              -          (1,210,045)
+Exercise of stock options......     152,875     1,529             365,899                -                   -             367,428
+Change in unrealized losses                            
+  on marketable securities(1)..       -         -                   -                    -                 89,291           89,291
+                                  ---------   -------     -----------------        ------------     --------------    -------------
+Balance, September 30, 1995....   7,166,601    71,666          18,284,486              443,139            (46,576)      18,752,715
+Net Loss.......................       -         -                   -               (2,864,836)              -          (2,864,836)
+Exercise of stock options......     192,473     1,925             202,723                -                   -             204,648
+Change in unrealized losses                            
+  on marketable securities(1)..       -         -                   -                    -                  6,641            6,641
+                                  ---------   -------     -----------------        ------------     --------------    -------------
+Balance, September 30, 1996....   7,359,074   $73,591         $18,487,209          $(2,421,697)       $   (39,935)     $16,099,168
+                                  =========   =======     =================        ============     ==============    =============
+</TABLE>
+
+________
+
+(1) Net of tax effect
+
+   The accompanying notes are an integral part of the financial statements.
+
+                                       20
+<PAGE>
+ 
+                         SATCON TECHNOLOGY CORPORATION
+
+                           STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                                     YEARS ENDED SEPTEMBER 30,
+                                                                     -------------------------------------------------------
+                                                                           1996                1995                  1994
+                                                                     -------------         ------------         ------------   
+<S>                                                                  <C>                   <C>                  <C>    
+Cash flows from operating activities:
+     Net income/(loss)..............................................   $(2,864,836)        $(1,210,0 45)        $  1,224,892
+     Adjustments to reconcile net income/(loss) to net
+       cash provided by/(used in) operating activities:
+        Depreciation and amortization...............................       820,991              352,143              306,935
+        Reserve for unbilled........................................       390,500              -                    100,000
+        Changes in operating assets and liabilities:
+            Accounts receivable.....................................      (905,787)           3,020,582           (4,089,438)
+            Prepaid expenses and other assets.......................       222,821              (61,958)            (149,388)
+            Unbilled contract costs.................................      (557,386)           5,290,655           (6,146,396)
+            Other assets............................................      (221,772)              88,856                4,328
+            Accounts payable........................................       (19,907)            (754,935)             701,238
+            Accrued expenses and payroll............................       236,225             (166,610)              76,399
+            Income taxes payable....................................       -                    -                    (12,997)
+            Deferred income taxes...................................      (173,283)            (806,697)             803,356
+                                                                     -------------         ------------         ------------
+Total adjustments...................................................      (207,598)           6,962,036           (8,405,963)
+                                                                     -------------         ------------         ------------
+Net cash provided by/(used in) operating activities.................    (3,072,434)           5,751,991           (7,181,071)
+                                                                     -------------         ------------         ------------
+Cash flows from investing activities:
+     Purchases of marketable securities.............................    (1,450,000)          (9,465,938)         (34,466,181)
+     Sales and maturities of marketable securities..................     8,407,185            6,148,814           30,396,663
+     Patent & trademark expenditures................................      (156,843)            (245,140)             (32,386)
+     Deferred financing fees........................................       (56,313)            (277,764)                   -
+     Capital expenditures...........................................    (2,293,305)            (999,415)          (1,127,947)
+                                                                     -------------         ------------         ------------
+Net cash provided by/(used in) investing activities.................     4,450,724           (4,839,443)          (5,229,851)
+                                                                     -------------         ------------         ------------
+Cash flows from financing activities:
+     Repayment of short-term borrowings.............................             -                    -               (5,000)
+     Proceeds from exercise of stock options........................       204,648              367,428              159,934
+     Payments under capital lease obligations.......................             -                    -              (35,929)
+     Proceeds from issuance of common stock.........................             -                    -           11,067,878
+                                                                     -------------         ------------         ------------
+Net cash provided by financing activities...........................       204,648              367,428           11,186,883
+                                                                     -------------         ------------         ------------
+Net increase/(decrease) in cash.....................................     1,582,938            1,279,976           (1,224,039)
+                                                                     -------------         ------------         ------------
+Cash at beginning of period.........................................     2,187,987              908,011            2,132,050
+                                                                     -------------         ------------         ------------
+Cash and cash equivalents at end of period..........................   $ 3,770,925          $ 2,187,987          $   908,011
+                                                                     =============         ============         ============
+</TABLE>
+
+   The accompanying notes are an integral part of the financial statements.
+
+                                       21
+<PAGE>
+ 
+                         SATCON TECHNOLOGY CORPORATION
+
+                         Notes to Financial Statements
+  
+
+  A. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES  
+
+  Organization
+
+  SatCon Technology Corporation (the "Company" or "SatCon") was organized as a
+  Massachusetts corporation in February 1985 and reincorporated in Delaware in
+  1992. SatCon designs, develops and manufactures intelligent, electro-
+  mechanical products for aerospace, transportation, industrial, and utility
+  applications. SatCon's electro-mechanical products are being developed for a
+  wide variety of U.S. government and commercial markets. For the government,
+  SatCon's electro-mechanical systems provide low vibration and high power for
+  applications ranging from satellite attitude control to high speed drives for
+  shipboard systems. In the transportation segment SatCon is developing electric
+  and hybrid electric drive components, auxiliary power units, and advanced
+  steering, suspension, and braking systems. SatCon is working with major
+  equipment producers to develop process equipment drives, high speed and
+  precision machine tools, manipulators, and machinery isolation equipment.
+  SatCon's electro-mechanical systems may offer to the utility industry
+  advantages in power generation, energy storage, and power quality. In the
+  consumer market SatCon is developing freon-free compressors for refrigerators,
+  variable speed motors, and other long-life, high-efficiency machinery.
+
+
+  It is the Company's strategy to accelerate leading edge developments by
+  continuing to expand its externally funded contract research and development
+  from both government and commercial sources. The Company can then leverage
+  this funding to develop products which the Company believes can both be sold
+  to government agencies transition into high volume commercial products. Recent
+  changes in the Small Business Innovative Research program provide a new
+  mechanism to pursue government Phase III preproduction programs on a sole
+  source non-competitive basis. In most instances, individual components have
+  multiple applications across these markets.
+
+  Revenue Recognition
+
+  The Company performs research under cost type, fixed price, and time and
+  material contracts and sells product prototypes.  Revenue is recognized on the
+  percentage-of-completion method based on the proportion of costs incurred to
+  total estimated costs for each contract.  Revenues recognized in excess of
+  amounts billed are classified in current assets as unbilled contract costs.
+  Certain contracts contain provisions for performance incentives.  Such
+  incentives are included in revenues when realization is assured.  If a current
+  contract estimate indicates a loss, a provision is made for the total
+  anticipated loss.
+
+  All payments to the Company for work performed on contracts with agencies of
+  the U.S. Government are subject to audit and adjustment by the Defense
+  Contract Audit Agency.  Adjustments are recognized in the period made.
+
+                                      22
+
+<PAGE>
+ 
+  Cash and Cash Equivalents
+
+  Cash and cash equivalents include cash on hand, demand deposits and highly
+  liquid investments with a maturity of three months or less when acquired.  At
+  September 30, 1996, $67,632 of cash and cash equivalents is reserved as
+  collateral for a letter of credit drawn for the deposit on a facility lease.
+
+  Marketable Securities
+
+  The Company accounts for marketable securities in accordance with the
+  Statement of Financial Accounting Standards No. 115 (SFAS 115), "Accounting
+  for Certain Investments in Debt and Equity Securities."
+
+  Management determines the appropriate classification of its investments in
+  debt securities at the time of purchase and re-evaluates such determination at
+  each balance sheet date.  Debt securities for which the Company does not have
+  the intent or ability to hold to maturity are classified as available for
+  sale.  Securities available for sale are carried at fair value, based on
+  quoted market prices, with the unrealized gains and losses, net of tax,
+  reported in a separate component of shareholders' equity except for unrealized
+  losses determined to be permanent in nature.  Such unrealized losses are
+  included in the determination of net income in the period in which management
+  determines the decline to be permanent.  The Company is not actively involved
+  in the purchase and sale of investments classified as trading.  At September
+  30, 1996, the Company had no investments that qualified as trading or held to
+  maturity.
+
+     The amortized cost of debt securities classified as available for sale is
+  adjusted for amortization of premiums and accretion of discounts to maturity
+  or, in the case of mortgage-backed securities, over the estimated life of the
+  security.  Such amortization and interest are included in interest income.
+  Realized gains and losses are included in other income or expense.  The cost
+  of securities sold is based on the specific identification method.
+
+  Property and Equipment
+
+  Property and equipment are stated at cost.  Depreciation is computed using the
+  straight-line method over the asset's estimated useful life.  Effective
+  October 1, 1994 the estimated useful lives of property and equipment are as
+  follows:
+
+<TABLE>
+<CAPTION>
+                                                             ESTIMATED LIVES
+                                                            -------------------
+          <S>                                                <C>
+          Computer equipment and software..................       3 Years
+          Electronic laboratory and shop equipment.........       5 Years
+          Mechanical laboratory and shop equipment.........      10 Years
+          Sales and demonstration equipment................    3 - 10 Years
+          Furniture and fixtures...........................      10 Years  
+          Leasehold improvements...........................  Lesser of the life
+                                                             of the lease or the
+                                                             useful life of the
+                                                             improvement
+</TABLE>
+
+  Previously, the estimated useful lives of property and equipment were three
+  years.  These changes were made to better reflect the estimated periods during
+  which such assets will remain in service.
+
+  When assets are retired or otherwise disposed of, the cost and related
+  depreciation and amortization are eliminated from the accounts and any
+  resulting gain or loss is reflected in other income.
+
+  Intangibles
+
+  The Company periodically reviews the propriety of carrying amounts of its
+  intangible assets as well as the amortization periods to determine whether
+  current events and circumstances warrant adjustment to the carrying value or
+  estimated useful lives.  At each balance sheet date, management evaluates
+  whether there has been a permanent impairment in the value of intangibles by
+  assessing the carrying value of intangibles 
+
+                                       23
+<PAGE>
+ 
+  against anticipated future cash flows from related operating activities.
+  Factors which management considers in performing this assessment include
+  current operating results, trends and prospects and, in addition, demand,
+  competetion and other economic factors.
+
+  Other intangibles, which consist of patents and trademarks are being amortized
+  on a straight-line basis over 7 years.
+
+  Use of estimates
+
+  The preparation of financial statements in conformity with generally accepted
+  accounting principles requires management to make estimates and assumptions
+  and disclosure of contingencies at the date of the financial statements.
+  Actual results could differ from these estimates.
+
+  Income Taxes
+
+  The Company accounts for income taxes in accordance with  Financial Accounting
+  Standards No. 109, "Accounting for Income Taxes" (SFAS 109), which requires a
+  balance sheet approach for accounting for income taxes.  Under SFAS 109,
+  deferred tax assets and deferred tax liabilities are recognized based on
+  temporary differences between the basis of assets and liabilities using
+  statutory rates.  The Company has, as required under the Internal Revenue
+  Code, switched from the cash to accrual method for tax reporting purposes.
+
+  Earnings/(loss) Per Common and Common Equivalent Share
+
+  Earnings/(loss) per common and common equivalent share is based upon the
+  weighted average number of common shares outstanding during each year,
+  adjusted to include the dilutive effects of stock options and warrants.  For
+  the current year ended September 30, 1996 common share equivalents have not
+  been included because their effect would have been antidilutive.  For all
+  periods presented, fully diluted earnings per share is not materially
+  different from primary earnings per share.
+
+  Concentration of Credit Risk
+
+  Financial instruments which subject the Company to concentrations of credit
+  risk consist principally of cash equivalents, investments in marketable
+  securities, trade accounts receivable, and unbilled contract costs.
+
+  The Company's trade accounts receivable and unbilled contract costs are
+  primarily from sales to U.S. Government agencies and two commercial customers.
+  The Company does not require collateral and has not historically experienced
+  significant credit losses related to receivables or unbilled contract costs
+  from individual customers or groups of customers in any particular industry or
+  geographic area.
+
+  The Company deposits its cash and invests in short-term investments and
+  marketable securities primarily through one regional commercial bank and one
+  investment company.  Credit exposure to any one entity is limited by Company
+  policy.
+
+  Reclassifications
+
+  Certain prior year balances have been reclassified to conform to current year
+  presentations.
+
+
+  B.    MARKETABLE SECURITIES
+
+  At September 30, 1996, debt securities have been categorized as available for
+  sale and as a result are stated at fair value.
+
+
+                                       24
+
+<PAGE>
+ 
+  As of September 30, 1996 marketable securities consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                         GROSS   
+                SECURITY                    AMORTIZED     AGGREGATE    BALANCE SHEET   UNREALIZED 
+                CATEGORY                   COST BASIS     FAIR VALUE   CARRYING VALUE  GAIN/(LOSS) 
+                --------                  ------------- ------------- ---------------  ----------
+<S>                                       <C>           <C>           <C>              <C> 
+Corporate debt securities...............  $  693,867     $  648,874      $  648,874    $(44,993)
+Debt securities issued by U.S.
+ Government and its agencies............     700,000        681,038         681,038     (18,962)
+ 
+Debt securities issued by states of the
+ U.S. and political subdivisions of the    
+ states.................................   1,950,825      1,951,198       1,951,198         373 
+ 
+Mortgage-backed securities..............     157,609        154,633         154,633      (2,976)
+                                                                       ------------- -----------
+                                                                         $3,435,743    $(66,558)
+                                                                       ============= ===========
+</TABLE> 
+
+  The contractual maturities of debt securities available for sale at September
+  30, 199 are as follows:
+ 
+<TABLE> 
+<CAPTION> 
+                                                         AGGREGATE      AMORTIZED 
+                                                        FAIR VALUE      COST BASIS 
+                                                       ------------    ------------ 
+          <S>                                          <C>             <C> 
+          Due within one year.....................     $  1,951,197    $  1,950,824
+          Due after one year through five years...          681,038         700,000
+          Due after five years through 10 years...          326,875         347,124
+          Due after 10 years......................          476,633         504,353
+                                                       ------------    ------------ 
+                                                       $  3,435,743    $  3,502,301
+                                                       ============    ============
+</TABLE>
+
+  Gross unrealized holding losses at September 30, 1996 were $66,558 and are
+  included on the balance sheet as a separate component of stockholder equity
+  net of tax effect. Proceeds from sales and maturities of marketable securities
+  during Fiscal 1996 were $8,407,185. Gross realized losses from the sale of
+  securities classified as available for sale during Fiscal 1996 and 1995 were
+  $1,461 and $58,360, respectively. For the purpose of determining gross
+  realized gains and losses, the cost of securities sold is based upon specific
+  identification.
+
+
+  C.    UNBILLED CONTRACT COSTS
+
+  Unbilled contract costs include retention arising from contractual provisions
+  of $111,745 and $153,617 at September 30, 1996 and 1995, respectively. It is
+  anticipated that substantially all of these unbilled retention amounts will be
+  collected during the Fiscal year ending September 30, 1997. Unbilled contract
+  costs are net of advance billings of $95,062 and $85,361 at September 30, 1996
+  and 1995, respectively.
+
+                                      25
+
+<PAGE>
+ 
+  D.    PROPERTY AND EQUIPMENT
+
+        Property and equipment consist of the following:
+
+<TABLE> 
+<CAPTION> 
+                                                          SEPTEMBER 30,      
+                                                    ------------------------ 
+                                                         1996        1995    
+                                                    ------------ ----------- 
+            <S>                                       <C>         <C>        
+            Machinery and equipment.................  $3,118,538  $2,534,511 
+            Sales and demonstration Units...........   1,885,274     292,500
+            Furniture and fixtures..................     219,204     188,559 
+            Computer software.......................     385,987     259,045 
+            Leasehold improvements..................     315,327     256,410 
+                                                    ------------ -----------   
+                                                       5,924,330   3,531,025 
+            Less accumulated depreciation and          
+             amortization                              1,576,546     759,007
+                                                    ------------ -----------   
+                                                      $4,347,784  $2,772,018 
+                                                    ============ =========== 
+</TABLE>
+
+  Depreciation expense for the years ended September 30, 1996, 1995, and 1994
+  was $817,539, $343,775, and $301,724, respectively.
+
+  For Fiscal 1996 and 1995 there was no equipment under capital lease.
+
+  E.    NOTES PAYABLE
+
+  In January 1995 the Company established a $3,000,000 line of credit with
+  Citizen's Bank replacing the existing $1,500,000 line established on December
+  8, 1993. Borrowings under the line will be unsecured and charged interest at
+  the bank's prime rate. The line of credit expires January 31, 1997. The
+  Company has entered into negotiations to replace this line of credit. No funds
+  have been as yet advanced under this facility. The Company is required to
+  maintain certain covenants including certain financial ratios as described in
+  the line of credit agreement. The Company received a waiver in December 1996
+  of certain financial covenants for the period ended September 30, 1996.
+
+  F.    COMMITMENTS AND CONTINGENCIES
+
+  The Company's office and laboratory space is 45,820 square feet located at 161
+  First Street, Cambridge, Massachusetts, under a primary lease expiring on
+  October 31, 1998. The monthly payment is $42,002 plus its pro rata share of
+  operating expenses and real estate taxes. Effective April 1996, the Company
+  occupies 8,343 square feet located at 6245 East Broadway Boulevard, Suite 350,
+  Tucson, Arizona, under a primary lease expiring June 30, 2001. The monthly
+  payment is $10,430 including its pro rata share of operating expenses. The
+  Company believes its facilities are adequate for its current needs and that
+  adequate facilities for expansion, if required, are available in the immediate
+  areas.
+
+     Future minimum annual rentals under all lease agreements at September 30,
+  1996 are as follows:
+
+<TABLE> 
+<CAPTION> 
+            FISCAL                           OPERATING
+             YEAR                             LEASES
+             ----                          -----------
+            <S>                            <C>
+            1997.......................... $1,090,624
+            1998..........................  1,062,210
+            1999..........................  1,062,740
+            2000..........................  1,060,221
+            2001..........................  1,063,085
+                                           ----------
+                                           $5,388,880
+                                           ==========
+</TABLE>
+
+
+  Total rental expense including operating expenses and real estate taxes for
+  operating leases amounted to $1,000,802, $725,750, and $507,816
+  respectively, for the years ended September 30, 1996, 1995 and 1994.
+
+                                      26
+
+<PAGE>
+ 
+  In fiscal year 1996 the Company had a dispute of contractual terms in the
+  amount of $344,000. Management believes that the financial statements properly
+  reflect the ultimate impact of this matter.
+
+  G.    EMPLOYEE BENEFIT PLAN
+
+  The Company offers a 401(k) Employee Benefit Plan (the "401(k) Plan"). Under
+  the 401(k) Plan, any employee who has completed one year of service and has
+  attained the age of 21 years is eligible to participate. Under the terms of
+  the 401(k) Plan, an employee may defer up to 15% of his or her compensation
+  through contributions to the 401(k) Plan. Prior to October 1, 1995 the Company
+  made discretionary contributions on behalf of the participating employees. The
+  Company made a matching contribution to the 401(k) during fiscal year 1996 in
+  the amount of $128,458. The Company did not make a voluntary contribution to
+  the Plan during Fiscal 1995, however, a profit-sharing contribution was made
+  during Fiscal 1994 of $102,529. Amounts contributed to the 401(k) Plan are
+  subject to a six year vesting schedule.
+
+  H.    INCOME TAXES
+
+      The provision for income taxes consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                       YEARS ENDED SEPTEMBER 30,
+                                                  --------------------------------- 
+                                                     1996        1995       1994    
+                                                  ---------- ----------- ---------- 
+          <S>                                     <C>        <C>         <C>       
+          Current Payable:                                                          
+               Federal........................... $   9,775   $   4,000       -     
+               State.............................      -           -          -     
+                                                  ---------- ----------- ---------- 
+                                                      9,775       4,000       -     
+          Deferred tax expenses/(benefit):                                          
+               Federal........................... $(116,485)  $(603,233)  $600,673  
+               State.............................   (37,769)   (207,464)   202,683  
+                                                  ---------- ----------- ----------  
+                                                   (154,254)   (810,697)   803,356  
+                                                  ---------- ----------- ----------  
+                                                  $(144,479)  $(806,697)  $803,356  
+                                                  ========== =========== ========== 
+</TABLE>
+
+  Deferred income taxes reflect the net tax effects of temporary differences
+  between the carrying amounts of assets and liabilities for financial reporting
+  purposes and the amounts used for income tax purposes. As of September 30, the
+  components of the net deferred tax asset is as follows:
+
+<TABLE>
+<CAPTION>
+                                                       1996          1995
+                                                  ------------- -------------
+          <S>                                     <C>           <C>
+          Accrual to cash adjustment.............. $(2,351,252)  $(3,526,878)
+          Federal Net Operating Loss..............   3,180,017     2,853,791
+          State Net Operating Loss, net of                                   
+          federal benefit.........................     539,304       500,457 
+          Tax effect of unrealized losses on                                 
+          marketable securities...................      26,632        31,051 
+          Credits.................................     268,143       235,141
+          Other...................................      (1,515)     (235,793)
+          Valuation Allowance.....................  (1,661,329)         -   
+                                                  ------------- ------------- 
+          Net Deferred Income Taxes...............        -      $  (142,231)
+                                                  ============= =============
+</TABLE> 
+
+  A deferred tax asset of $31,051 is included in other assets as of September
+  30, 1995.
+
+                                       27
+<PAGE>
+ 
+  The provision for income taxes differs from the Federal statutory rate due to
+  the following:
+
+<TABLE>
+<CAPTION>
+                                                    YEARS ENDED SEPTEMBER 30,
+                                                ---------------------------------- 
+                                                  1996         1995         1994  
+                                                --------     --------     --------  
+          <S>                                    <C>         <C>          <C>     
+          Tax at statutory rate................. (34.0)%      (34.0)%       34.0 %
+          State taxes - net of federal benefit..  (0.8)%       (6.8)%        6.6 %
+          Other.................................   2.1 %        0.8 %       (1.0)%
+          Change in valuation allowance.........  27.9 %          -            -
+                                                --------     --------     ---------   
+          Effective tax rate....................  (4.8)%      (40.0)%       39.6 %
+                                                ========     ========     =========
+</TABLE>
+
+     At September 30, 1996 the Company had Net Operating Loss Carryforwards of
+  $9,352,991 and $8,601,334 for federal and state income tax purposes,
+  respectively, of which $949,568 relates to deductions attributable to the
+  exercise of non-qualified stock options and employees early disposition of
+  stock acquired through incentive stock options. The federal net operating
+  losses expire beginning September 30, 2006 through 2011. The state net
+  operating losses expire beginning September 30, 1996 through 2001. The use of
+  these losses may be limited due to ownership change limitations under Section
+  382 of the Internal Revenue Code of 1986.
+
+  Research and experimental credit carryforward at September 30, 1996 was
+  $169,837 for federal income tax purposes.
+
+
+  I.    STOCK OPTIONS
+
+  Under the Company's 1986 Stock Option Plan, both qualified and nonqualified
+  stock options may be granted to certain officers and key employees. Options
+  under the 1986 Plan become exercisable as vested over four years, and expire
+  December 31, 1996.  At September 30, 1996 and 1995, all of the 553,196 stock
+  options available for grant under the Company's 1986 Stock Option Plan had
+  been granted.
+
+  In June 1992, the Company adopted its 1992 Stock Option Plan which provides
+  for the grant to employees, officers, directors and consultants of qualified
+  and nonqualified stock options to purchase up to 450,000 shares of the
+  Company's Common Stock.  At September 30, 1996 and 1995, 440,866 and 447,196,
+  respectively, of the 450,000 stock options available for grant under the
+  Company's 1992 Stock Option Plan had been granted.
+
+  In February 1994, the Company adopted its 1994 Stock Option Plan which was
+  subsequently adopted by the Company's stockholders in June 1994. The Plan
+  provides for the grant to employees, officers, directors, and consultants of
+  qualified and nonqualified stock options to purchase up to 300,000 shares of
+  the Company's Common Stock. At September 30, 1996 and 1995, 277,092 and
+  276,100, respectively, of the 300,000 stock options available for grant under
+  the Company's 1994 Stock Option Plan had been granted.
+
+  During fiscal year 1996, the Company adopted its 1996 Stock Option Plan which
+  provides for the grant to employees, officers, directors, and consultants of
+  qualified and non qualified stock options to purchase up to 300,000 shares of
+  the Company's Common Stock. At September 30, 1996, none of the 300,000 stock
+  options available for grant under the Company's 1996 Stock Option Plan had
+  been granted.
+
+  The 1986, 1992, 1994, and 1996 Stock Option Plans (collectively the "Plans")
+  are subject to the following provisions:
+
+  The aggregate fair market value (determined as of the date the option is
+  granted) of the Common Stock that any employee may purchase in any calendar
+  year pursuant to the exercise of incentive stock options may not exceed
+  $100,000. No person who owns, directly or indirectly, at the time of the
+  granting of an incentive stock option to him or her, more than 10% of the
+  total combined voting power of all classes of stock of the Company shall be
+  eligible to receive any incentive stock options under the Plans unless the
+
+                                      28
+
+<PAGE>
+ 
+  option price is at least 110% of the fair market value of the Common Stock
+  subject to the option, determined on the date of grant. Nonqualified options
+  are not subject to this limitation.
+
+  Incentive stock options are issuable only to employees of the Company, while
+  nonqualified options may be issued to nonemployee directors, consultants, and
+  others, as well as to employees of the Company. Options granted under the
+  Stock Option Plans may not be granted with an exercise price less than 100% of
+  fair value of the Company's Common Stock, as determined by the Board of
+  Directors on the grant date.
+
+  Options under the Plans must be granted within 10 years from the effective
+  date of the Plan. Incentive stock options granted under the Plans cannot be
+  exercised more than 10 years from the date of grant except that incentive
+  stock options issued to 10% or greater stockholders are limited to five year
+  terms. All options granted under the Plans provide for the payment of the
+  Company's exercise price in cash, or by delivery to the Company of shares of
+  Common Stock already owned by the optionee having fair market value equal to
+  the exercise price of the options being exercised, or by a combination of such
+  methods of payment. Therefore, an optionee may be able to tender shares of
+  Common Stock to purchase additional shares of Common Stock and may
+  theoretically exercise all of his stock options with no additional investment
+  other than his original shares.
+
+  The Plans contain antidilution provisions authorizing appropriate adjustments
+  in certain circumstances. Shares of Common Stock subject to options which
+  expire without being exercised or which are canceled as a result of the
+  cessation of employment are available for further grants.
+
+
+  The following is a summary of stock option activity:
+
+<TABLE>
+<CAPTION>
+                                                         NUMBER OF OPTIONS                   
+                                                      -----------------------                 
+                                                                               EXERCISE PRICE   
+                                                          NON                      RANGE        
+                                                       QUALIFIED   QUALIFIED     PER OPTION     
+                                                     ------------ ----------- ---------------   
+          <S>                                        <C>          <C>         <C>              
+          Outstanding at September 30, 1993........      225,034     654,493    $ 0.25-$ 9.25
+               Granted.............................       51,000     102,500    $ 9.50-$12.88
+               Exercised...........................            -    (131,183)   $ 0.25-$ 5.00
+               Canceled............................            -           -                -
+                                                     ------------ ----------- ---------------
+          Outstanding at September 30, 1994........      276,034     625,810    $0.25-$ 12.88
+               Granted.............................       10,200     146,000    $ 9.25-$13.38
+               Exercised...........................      (25,500)   (127,375)   $0.25-$ 10.50
+               Canceled............................            -        (666)   $       10.50
+                                                     ------------ ----------- ---------------
+          Outstanding at September 30, 1995........      260,734     643,769    $ 0.25-$13.38
+               Granted.............................            -      20,000    $ 7.75-$10.50
+               Exercised...........................     (121,677)    (64,096)   $ 0.25-$10.50
+               Canceled............................            -     (25,338)   $ 9.25-$13.25
+                                                     ------------ ----------- ---------------
+          Outstanding at September 30, 1996........      139,057     574,335    $ 0.25-$13.38
+                                                     ============ ===========                   
+                                                         
+</TABLE>                                                                       
+
+  All outstanding option vest at various rates over periods up to four years and
+  expire at various dates from December 31, 1996 to December 26, 2005.
+
+  In addition to options granted pursuant to the Plans, the Company in March
+  1992 issued non-qualified options to purchase up to 33,500 shares of Common
+  Stock to certain of its professional advisors. These options are exercisable
+  at a price of $5.25 per share and expire in March 1997. At September 30, 1996,
+  21,110 options had been exercised.
+  
+  In connection with its initial public offering in November 1992, the Company
+  also issued to the underwriter warrants to purchase up to (i) 150,000 shares
+  of Common Stock at an exercise price of $8.25 per share and (ii) 150,000
+  shares of Common Stock at an exercise price of $11.55 per share. At September
+  30, 1996, none of these warrants had been exercised.                 
+                                                                       
+                                      29
+
+<PAGE>
+ 
+  J.    PREFERRED STOCK                                                
+                                                                       
+  The Company is authorized to issue up to 1,000,000 shares of Preferred Stock,
+  $.01 par value. The Preferred Stock may be issued in one or more series, the
+  terms of which may be determined at the time of issuance by the Board of
+  Directors, without further action by stockholders, and may include voting
+  rights (including the right to vote as a series on particular matters),
+  preferences as to dividends and liquidation, conversion and redemption rights
+  and sinking fund provisions. No Preferred Stock is currently outstanding and
+  the Company has no present plans for the issuance thereof. However, the
+  issuance of any such preferred Stock could affect the rights of the holders of
+  Common Stock, and therefore, reduce the value of the Common Stock. In
+  particular, specific rights granted to future holders of Preferred Stock could
+  be used to restrict the Company's ability to merge with or sell its assets to
+  a third party, thereby preserving control of the Company by present owners.
+
+
+  K.    RECENT PRONOUNCEMENTS
+
+  In October 1995, the Financial Accounting Standards Board issued SFAS No. 123,
+  "Accounting for Stock-Based Compensation," which encourages companies to
+  recognize compensation expense in the income statement based on the fair value
+  of the underlying common stock at the date the awards are granted . However,
+  it will permit continued accounting under APB Opinion 25, "Accounting for
+  Stock Issued to Employees," accompanied by a disclosure of the pro forma
+  effects on net income and earnings per share had the new accounting rules been
+  applied. The statement is effective for fiscal year 1997. The Company plans to
+  account for stock based compensation in accordance with APB Opinion 25.
+
+
+  L.    SIGNIFICANT CUSTOMERS
+
+  Significant customers, defined as those customers whose gross sales account
+  for 10% or more of total gross sales in a Fiscal year, were as follows:
+
+<TABLE>
+<CAPTION>
+                                                 YEARS ENDED SEPTEMBER 30,  
+                                                --------------------------  
+                                                  1996      1995     1994   
+                                                --------   ------   ------  
+           <S>                                  <C>        <C>      <C>     
+           U.S. Government:
+              Classified Defense Contract.....        --       --    14.98%
+              N.A.S.A.........................     18.16%   13.30%    4.66
+              U.S. Department of Defense......     33.62     6.97     4.13
+                                                --------   ------   ------
+                                                   51.78    20.27    23.77
+           Commercial:
+              Automotive......................     38.17    72.90    75.76
+                                                --------   ------   ------ 
+           Other..............................     10.05     6.83     0.47
+                                                --------   ------   ------ 
+                                                  100.00%  100.00%  100.00%
+                                                ========   ======   ======
+</TABLE>
+
+                                       30
+<PAGE>
+ 
+  M.  SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+
+   Interest and Income Taxes Paid
+
+  Cash paid for interest and income taxes were as follows:
+
+<TABLE>
+<CAPTION>
+                                      YEARS ENDED SEPTEMBER 30,
+                                    ----------------------------  
+                                      1996      1995      1994          
+                                    --------  --------  --------        
+          <S>                       <C>       <C>       <C>             
+          Interest...............    $   330   $1,277    $ 2,499          
+                                    ========  ========  ========            
+          Income taxes...........    $36,900   $8,620    $32,140          
+                                    ========  ========  ========            
+</TABLE>
+
+  Non-Cash Transaction
+
+  During Fiscal year 1996 plant equipment with the fair market value of 
+  $100,000 was received in exchange for the relief of $100,000 of accounts
+  receivable.
+
+
+                                      31
+
+<PAGE>
+ 
+                SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS
+
+<TABLE>
+<CAPTION>
+                                                                  ADDITIONS  
+                                                                  CHARGED TO                    BALANCE              
+                                                   BALANCE AT     PROFIT AND    DEDUCTIONS      AT END               
+                                                   BEGINNING       LOSS OR         FROM           OF                 
+                                                   OF PERIOD        INCOME       RESERVES       PERIOD               
+                                                 -------------   ------------   -----------   ----------            
+<S>                                              <C>             <C>            <C>           <C> 
+Year Ended September 30, 1994:
+   Allowance for Doubtful Accounts...............   $ 80,000      $  100,000      ($49,100)   $  130,900
+   Reserve for Unbilled Contract Costs...........   $ 66,500           -              -       $   66,500
+Year Ended September 30, 1995:                    
+   Allowance for Doubtful Accounts...............   $130,900           -              -       $  130,900
+   Reserve for Unbilled Contract Costs...........   $ 66,500           -              -       $   66,500
+Year Ended September 30, 1996:                    
+   Allowance for Doubtful Accounts...............   $130,900            -             -       $  130,900
+   Reserve for Unbilled Contract Costs...........   $ 66,500      $  390,500      ($24,500)   $  432,500
+   Deferred tax valuation allowance..............       -         $1,661,329          -       $1,661,329
+</TABLE>
+
+
+                                      32
+
+<PAGE>
+ 
+  ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+  FINANCIAL DISCLOSURE
+
+  Not Applicable.
+
+                                      33
+
+<PAGE>
+ 
+                                   PART III
+
+
+  ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS
+
+  The information with respect to directors required under this item is
+  incorporated herein by reference to the information set forth under the
+  section entitled "Election of Directors" in the Company's Proxy Statement for
+  the 1997 Annual Meeting of Stockholders to be held February 26, 1997, (the
+  "1997 Proxy Statement"). Information relating to certain filings of Forms 3,
+  4, and 5 of the Company is contained in the 1997 Proxy Statement under the
+  caption "Compliance with Section 16 Reporting Requirements."
+
+  ITEM 11.  EXECUTIVE COMPENSATION
+
+  The information required under this item is incorporated by reference to the
+  section entitled "Compensation of Executive Officers" in the 1997 Proxy
+  Statement.
+
+  The sections entitled "Compensation Committee Report on Executive
+  Compensation" and "Comparative Stock Performance Graph" in the 1997 Proxy
+  Statement are not incorporated herein by reference.
+
+  ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+  The information required under this item is incorporated by reference to the
+  section entitled "Security Ownership of Certain Beneficial Owners and
+  Management" in the 1997 Proxy Statement.
+
+
+  ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+  The information required under this item is incorporated by reference to the
+  section entitled "Certain Relationships and Related Transactions" in the
+  1997 Proxy Statement.
+
+                                      34
+
+<PAGE>
+ 
+                                    PART IV
+
+
+  ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+     (a)  The following documents are filed as part of this Report:
+
+     1.  Financial Statements:
+
+     Balance Sheets as of September 30, 1996 and 1995
+
+     Statements of Operations for the Years Ended September 30, 1996, 1995, and
+     1994
+
+     Statements of Changes in Stockholders' Equity for the Years Ended September
+     30, 1996, 1995, and 1994
+
+     Statements of Cash Flows for the Years Ended September 30, 1996, 1995, and
+     1994
+
+     Notes to Financial Statements.
+
+     2.  Financial Statement Schedule:
+
+     Schedule II; Valuation and Qualifying Accounts
+
+     All other financial statement schedules not listed have been omitted
+     because they are either not required, not applicable, or the information
+     has been included elsewhere in the financial statements or notes thereto.
+
+     3.  Exhibits.
+
+
+
+                                      35
+
+<PAGE>
+ 
+     EXHIBIT                                                           
+     NUMBER                             DESCRIPTION OF EXHIBIT         
+   ----------                           ----------------------         
+      3.1 (1)    -     Certificate of Incorporation
+      3.2 (1)    -     Bylaws                                          
+      4.1 (1)    -     Specimen certificate for Common Stock $.01 par value
+      4.2 (1)    -     Warrant Agreement between the Company and Continental
+                       Stock Transfer and Trust Company (including specimen
+                       warrant certificate)
+     10.1 (1)    -     Employment Agreement dated July 1, 1992 between the
+                       Company and Mr. Eisenhaure
+     10.2 (1)    -     Employment Agreement dated July 1, 1992 between the
+                       Company and Mr. Turmelle
+     10.3 (1)    -     Employment Agreement dated July 1, 1992 between the
+                       Company and Mr. Stanton
+   10.4(1)(*)    -     1986 Stock Option Plan                              
+   10.5(1)(*)    -     1992 Stock Option Plan                              
+   10.6(2)(*)    -     1994 Stock Option Plan                              
+      10.7(1)    -     Lease dated October 1993 between the Company and    
+                       Gunwyn/First Street Limited Partnership             
+      10.8(3)    -     Line of Credit Agreement dated January 13, 1995 between
+                       the Company and First NH Bank
+      10.9(1)    -     Subcontract No. 9770-A-0012 dated October 5, 1992 between
+                       the Company and Itek Optical Systems, as amended
+     10.10(*)    -     1996 Stock Option Plan                            
+        10.11    -     Amendment to Credit Agreement between the Company and
+                       First NH Bank, dated March 13, 1996
+           11    -     Statement re Computation of Earnings Per Share 
+           23    -     Consent of Coopers & Lybrand L.L.P.            
+           27    -     Financial Data Schedule 
+
+   ________________
+
+   (*)  Management contract or compensatory plan or arrangement filed as an
+        exhibit to this Annual Report pursuant to Items 14 (a) and 14 (c) of
+        Form 10-K.
+
+   (1)  Incorporated by reference from the Company's Registration Statement on
+        Form S-1 Filed on July 7, 1992.
+
+   (2)  Incorporated by reference from the Company's Annual Report on Form 10-K
+        for the fiscal year ended September 30, 1994.
+
+   (3)  Incorporated by reference from the Company's Annual Report on Form 10-K
+        for the fiscal year ended September 30, 1995
+
+(b) Reports on Form 8-K
+
+No reports on Form 8-K were filed for the period covered by this report.
+
+                                      36
+<PAGE>
+ 
+                               INDEX TO EXHIBITS
+
+     EXHIBIT                                                           
+     NUMBER                             DESCRIPTION OF EXHIBIT         
+   ----------                           ----------------------         
+      3.1 (1)    -     Certificate of Incorporation
+      3.2 (1)    -     Bylaws                                          
+      4.1 (1)    -     Specimen certificate for Common Stock $.01 par value
+      4.2 (1)    -     Warrant Agreement between the Company and Continental
+                       Stock Transfer and Trust Company (including specimen
+                       warrant certificate)
+     10.1 (1)    -     Employment Agreement dated July 1, 1992 between the
+                       Company and Mr. Eisenhaure
+     10.2 (1)    -     Employment Agreement dated July 1, 1992 between the
+                       Company and Mr. Turmelle
+     10.3 (1)    -     Employment Agreement dated July 1, 1992 between the
+                       Company and Mr. Stanton
+   10.4(1)(*)    -     1986 Stock Option Plan                              
+   10.5(1)(*)    -     1992 Stock Option Plan                              
+   10.6(2)(*)    -     1994 Stock Option Plan                              
+      10.7(1)    -     Lease dated October 1993 between the Company and    
+                       Gunwyn/First Street Limited Partnership             
+      10.8(3)    -     Line of Credit Agreement dated January 13, 1995 between
+                       the Company and First NH Bank
+      10.9(1)    -     Subcontract No. 9770-A-0012 dated October 5, 1992 between
+                       the Company and Itek Optical Systems, as amended
+     10.10(*)    -     1996 Stock Option Plan                            
+        10.11    -     Amendment to Credit Agreement between the Company and
+                       First NH Bank, dated March 13, 1996
+           11    -     Statement re Computation of Earnings Per Share 
+           23    -     Consent of Coopers & Lybrand L.L.P.            
+           27    -     Financial Data Schedule
+
+   ________________
+
+   (*)  Management contract or compensatory plan or arrangement filed as an
+        exhibit to this Annual Report pursuant to Items 14 (a) and 14 (c) of
+        Form 10-K.
+
+   (1)  Incorporated by reference from the Company's Registration Statement on
+        Form S-1 Filed on July 7, 1992.
+
+   (2)  Incorporated by reference from the Company's Annual Report on Form 10-K
+        for the fiscal year ended September 30, 1994.
+
+   (3)  Incorporated by reference from the Company's Annual Report on Form 10-K
+        for the fiscal year ended September 30, 1995
+
+(b) Reports on Form 8-K
+
+No reports on Form 8-K were filed for the period covered by this report.
+
+                                      38
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>2
+<DESCRIPTION>1996 STOCK OPTION PLAN
+<TEXT>
+
+<PAGE>
+ 
+                                                                   EXHIBIT 10.10
+
+                         SATCON TECHNOLOGY CORPORATION
+
+                            1996 STOCK OPTION PLAN
+
+                                April 29, 1996
+
+
+1.   Purpose. 
+     -------
+
+     The purpose of this plan (the "Plan") is to secure for SatCon Technology
+Corporation (the "Company") and its shareholders the benefits arising from
+capital stock ownership by employees, officers and directors of, and consultants
+or advisors to, the Company and its parent and subsidiary corporations who are
+expected to contribute to the Company's future growth and success. Except where
+the context otherwise requires, the term "Company" shall include the parent and
+all present and future subsidiaries of the Company as defined in Sections 424(e)
+and 424(f) of the Internal Revenue Code of 1986, as amended or replaced from
+time to time (the "Code"). Those provisions of the Plan which make express
+reference to Section 422 shall apply only to Incentive Stock Options (as that
+term is defined in the Plan).
+
+2.   Type of Options and Administration. 
+     ----------------------------------
+
+     (a)  Types of Options.  Options granted pursuant to the Plan may be either
+          ----------------
+incentive stock options ("Incentive Stock Options") meeting the requirements of
+Section 422 of the Code or Non-Statutory Options which are not intended to meet
+the requirements of Section 422 of the Code ("Non-Statutory Options").
+
+     (b)  Administration.  
+          --------------
+
+          (i)  The Plan will be administered by the Board of Directors of the
+Company, whose construction and interpretation of the terms and provisions of
+the Plan shall be final and conclusive. The Board of Directors may in its sole
+discretion grant options to purchase shares of the Company's Common Stock
+("Common Stock") and issue shares upon exercise of such options as provided in
+the Plan. The Board shall have authority, subject to the express provisions of
+the Plan, to construe the respective option agreements and the Plan, to
+prescribe, amend and rescind rules and regulations relating to the Plan, to
+determine the terms and provisions of the respective option agreements, which
+need not be identical, and to make all other determinations which are, in the
+judgment of the Board of Directors, necessary or desirable for the
+administration of the Plan. The Board of Directors may correct any defect,
+supply any omission or reconcile any inconsistency in the Plan or in any option
+agreement in the manner and to the extent it shall deem expedient to carry the
+Plan into effect and it shall be the sole and final judge of such expediency. No
+director or person acting pursuant to authority
+<PAGE>
+ 
+delegated by the Board of Directors shall be liable for any action or
+determination under the Plan made in good faith.
+
+          (ii) The Board of Directors may, to the full extent permitted by or
+consistent with applicable laws or regulations and Section 3(b) of this Plan
+delegate any or all of its powers under the Plan to a committee (the
+"Committee") appointed by the Board of Directors, and if the Committee is so
+appointed all references to the Board of Directors in the Plan shall mean and
+relate to such Committee.
+
+     (c)  Applicability of Rule 16b-3.  Those provisions of the Plan which make
+          ---------------------------
+express reference to Rule 16b-3 promulgated under the Securities Exchange Act of
+1934 (the "Exchange Act"), or any successor rule ("Rule 16b-3"), or which are
+required in order for certain option transactions to qualify for exemption under
+Rule 16b-3, shall apply only to such persons as are required to file reports
+under Section 16(a) of the Exchange Act (a "Reporting Person").
+
+3.   Eligibility. 
+     -----------
+
+     (a)  General.  Options may be granted to persons who are, at the time of
+          -------
+grant, employees, officers or directors of, or consultants or advisors to, the
+Company; provided, that the class of employees to whom Incentive Stock Options
+         --------
+may be granted shall be limited to all employees of the Company. A person who
+has been granted an option may, if he or she is otherwise eligible, be granted
+additional options if the Board of Directors shall so determine. Subject to
+adjustment as provided in Section 15 below, the maximum number of shares with
+respect to which options may be granted to any employee under the Plan shall not
+exceed 100,000 shares of common stock during any calendar year. For the purpose
+of calculating such maximum number, (a) an option shall continue to be treated
+as outstanding notwithstanding its repricing, cancellation or expiration and (b)
+the repricing of an outstanding option or the issuance of a new option in
+substitution for a cancelled option shall be deemed to constitute the grant of a
+new additional option separate from the original grant of the option that is
+repriced or cancelled.
+
+     (b)  Grant of Options to Directors and Officers.  From and after the
+          ------------------------------------------
+registration of the Common Stock of the Company under the Exchange Act, the
+selection of a director or an officer (as the terms "director" and "officer" are
+defined for purposes of Rule 16b-3) as a recipient of an option, the timing of
+the option grant, the exercise price of the option and the number of shares
+subject to the option shall be determined either (i) by the Board of Directors,
+of which all members shall be "disinterested persons" (as hereinafter defined),
+or (ii) by two or more directors having full authority to act in the matter,
+each of whom shall be a "disinterested person." For the purposes of the Plan,
+<PAGE>
+ 
+a director shall be deemed to be a "disinterested person" only if such person
+qualifies as a "disinterested person" within the meaning of Rule 16b-3, as such
+term is interpreted from time to time.
+
+4.   Stock Subject to Plan. 
+     ---------------------
+
+     Subject to adjustment as provided in Section 15 below, the maximum number
+of shares of Common Stock which may be issued and sold under the Plan is 300,000
+shares. If an option granted under the Plan shall expire or terminate for any
+reason without having been exercised in full, the unpurchased shares subject to
+such option shall again be available for subsequent option grants under the
+Plan. If shares issued upon exercise of an option under the Plan are tendered to
+the Company in payment of the exercise price of an option granted under the
+Plan, such tendered shares shall again be available for subsequent option grants
+under the Plan; provided, that in no event shall such shares be made available
+for issuance to Reporting Persons or pursuant to exercise of Incentive Stock
+Options.
+
+5.   Forms of Option Agreements.  
+     --------------------------
+
+     As a condition to the grant of an option under the Plan, each recipient of
+an option shall execute an option agreement in such form not inconsistent with
+the Plan as may be approved by the Board of Directors. Such option agreements
+may differ among recipients.
+
+6.   Purchase Price. 
+     --------------
+
+     (a)  General.  Subject to Section 3(b), the purchase price per share of
+          -------
+stock deliverable upon the exercise of an option shall be determined by the
+Board of Directors, provided, however, that in the case of an Incentive Stock
+                    --------  -------
+Option, the exercise price shall not be less than 100% of the fair market value
+of such stock, as determined by the Board of Directors, at the time of grant of
+such option, or less than 110% of such fair market value in the case of options
+described in Section 11(b).
+
+     (b)  Payment of Purchase Price.  Options granted under the Plan may provide
+          -------------------------
+for the payment of the exercise price by delivery of cash or a check to the
+order of the Company in an amount equal to the exercise price of such options,
+or, to the extent provided in the applicable option agreement, (i) by delivery
+to the Company of shares of Common Stock of the Company already owned by the
+optionee having a fair market value equal in amount to the exercise price of the
+options being exercised or (ii) by any other means (including, without
+limitation, by delivery of a promissory note of the optionee payable on such
+terms as are specified by the Board of Directors) which the Board of Directors
+determines are consistent with the purpose of the Plan and with applicable laws
+<PAGE>
+ 
+and regulations (including, without limitation, the provisions of Regulation T
+promulgated by the Federal Reserve Board). The fair market value of any shares
+of the Company's Common Stock or other non-cash consideration which may be
+delivered upon exercise of an option shall be determined by the Board of
+Directors.
+
+7.   Option Period. 
+     -------------
+
+     Each option and all rights thereunder shall expire on such date as shall be
+set forth in the applicable option agreement, except that, in the case of an
+Incentive Stock Option, such date shall not be later than ten years after the
+date on which the option is granted and, in all cases, options shall be subject
+to earlier termination as provided in the Plan.
+
+8.   Exercise of Options. 
+     -------------------
+
+     Each option granted under the Plan shall be exercisable either in full or
+in installments at such time or times and during such period as shall be set
+forth in the agreement evidencing such option, subject to the provisions of the
+Plan.
+
+9.   Nontransferability of Options. 
+     -----------------------------
+
+     Options shall not be assignable or transferable by the person to whom they
+are granted, either voluntarily or by operation of law, except by will or the
+laws of descent and distribution, and, during the life of the optionee, shall be
+exercisable only by the optionee; provided, however, that Non-Statutory Options
+may be transferred pursuant to a qualified domestic relations order (as defined
+in Rule 16b-3).
+
+10.  Effect of Termination of Employment or Other Relationship.
+     ---------------------------------------------------------
+
+     Except as provided in Section 11(d) with respect to Incentive Stock
+Options, and subject to the provisions of the Plan, the Board of Directors shall
+determine the period of time during which an optionee may exercise an option
+following (i) the termination of the optionee's employment or other relationship
+with the Company or (ii) the death or disability of the optionee. Such periods
+shall be set forth in the agreement evidencing such option.
+
+11.  Incentive Stock Options.
+     -----------------------
+
+     Options granted under the Plan which are intended to be Incentive Stock
+Options shall be subject to the following additional terms and conditions:
+<PAGE>
+ 
+     (a)  Express Designation.  All Incentive Stock Options granted under the
+          -------------------
+Plan shall, at the time of grant, be specifically designated as such in the
+option agreement covering such Incentive Stock Options.
+
+     (b)  10% Shareholder.  If any employee to whom an Incentive Stock Option is
+          ---------------
+to be granted under the Plan is, at the time of the grant of such option, the
+owner of stock possessing more than 10% of the total combined voting power of
+all classes of stock of the Company (after taking into account the attribution
+of stock ownership rules of Section 424(d) of the Code), then the following
+special provisions shall be applicable to the Incentive Stock Option granted to
+such individual:
+
+          (i)    The purchase price per share of the Common Stock subject to
+     such Incentive Stock Option shall not be less than 110% of the fair market
+     value of one share of Common Stock at the time of grant; and
+
+          (ii)   the option exercise period shall not exceed five years from the
+     date of grant.
+
+     (c)  Dollar Limitation.  For so long as the Code shall so provide, options
+          -----------------
+granted to any employee under the Plan (and any other incentive stock option
+plans of the Company) which are intended to constitute Incentive Stock Options
+shall not constitute Incentive Stock Options to the extent that such options, in
+the aggregate, become exercisable for the first time in any one calendar year
+for shares of Common Stock with an aggregate fair market value (determined as of
+the respective date or dates of grant) of more than $100,000.
+
+     (d)  Termination of Employment, Death or Disability.  No Incentive Stock
+          ----------------------------------------------
+Option may be exercised unless, at the time of such exercise, the optionee is,
+and has been continuously since the date of grant of his or her option, employed
+by the Company, except that:
+
+          (i)    an Incentive Stock Option may be exercised within the period of
+     three months after the date the optionee ceases to be an employee of the
+     Company (or within such lesser period as may be specified in the applicable
+     option agreement), provided, that the agreement with respect to such option
+                        -------- 
+     may designate a longer exercise period and that the exercise after such
+     three-month period shall be treated as the exercise of a non-statutory
+     option under the Plan;
+
+          (ii)   if the optionee dies while in the employ of the Company, or
+     within three months after the optionee ceases to be such an employee, the
+     Incentive Stock Option may be exercised by the person to whom it is
+     transferred by will or
+<PAGE>
+ 
+     the laws of descent and distribution within the period of one year after
+     the date of death (or within such lesser period as may be specified in the
+     applicable option agreement); and
+
+          (iii)  if the optionee becomes disabled (within the meaning of Section
+     22(e)(3) of the Code or any successor provision thereto) while in the
+     employ of the Company, the Incentive Stock Option may be exercised within
+     the period of one year after the date the optionee ceases to be such an
+     employee because of such disability (or within such lesser period as may be
+     specified in the applicable option agreement).
+
+For all purposes of the Plan and any option granted hereunder, "employment"
+shall be defined in accordance with the provisions of Section 1.421-7(h) of the
+Income Tax Regulations (or any successor regulations). Notwithstanding the
+foregoing provisions, no Incentive Stock Option may be exercised after its
+expiration date.
+
+12.  Additional Provisions.
+     ---------------------
+
+     (a)  Additional Option Provisions.  The Board of Directors may, in its sole
+          ----------------------------
+discretion, include additional provisions in option agreements covering options
+granted under the Plan, including without limitation restrictions on transfer,
+repurchase rights, commitments to pay cash bonuses, to make, arrange for or
+guaranty loans or to transfer other property to optionees upon exercise of
+options, or such other provisions as shall be determined by the Board of
+Directors; provided that such additional provisions shall not be inconsistent
+           -------- ----
+with any other term or condition of the Plan and such additional provisions
+shall not cause any Incentive Stock Option granted under the Plan to fail to
+qualify as an Incentive Stock Option within the meaning of Section 422 of the
+Code.
+
+     (b)  Acceleration, Extension, Etc.  The Board of Directors may, in its sole
+          ----------------------------
+discretion, (i) accelerate the date or dates on which all or any particular
+option or options granted under the Plan may be exercised or (ii) extend the
+dates during which all, or any particular, option or options granted under the
+Plan may be exercised.
+
+13.  General Restrictions.
+     --------------------
+
+     (a)  Investment Representations.  The Company may require any person to
+          --------------------------
+whom an option is granted, as a condition of exercising such option, to give
+written assurances in substance and form satisfactory to the Company to the
+effect that such person is acquiring the Common Stock subject to the option for
+his or her own account for investment and not with any present intention of
+selling or otherwise distributing the same, and to such other effects as the
+Company deems necessary or appropriate in order to
+<PAGE>
+ 
+comply with federal and applicable state securities laws, or with covenants or
+representations made by the Company in connection with any public offering of
+its Common Stock.
+
+     (b)  Compliance With Securities Laws.  Each option shall be subject to the
+          -------------------------------
+requirement that if, at any time, counsel to the Company shall determine that
+the listing, registration or qualification of the shares subject to such option
+upon any securities exchange or under any state or federal law, or the consent
+or approval of any governmental or regulatory body, or that the disclosure of
+non-public information or the satisfaction of any other condition is necessary
+as a condition of, or in connection with, the issuance or purchase of shares
+thereunder, such option may not be exercised, in whole or in part, unless such
+listing, registration, qualification, consent or approval, or satisfaction of
+such condition shall have been effected or obtained on conditions acceptable to
+the Board of Directors. Nothing herein shall be deemed to require the Company to
+apply for or to obtain such listing, registration or qualification, or to
+satisfy such condition.
+
+14.  Rights as a Shareholder.
+     -----------------------
+
+     The holder of an option shall have no rights as a shareholder with respect
+to any shares covered by the option (including, without limitation, any rights
+to receive dividends or non-cash distributions with respect to such shares)
+until the date of issue of a stock certificate to him or her for such shares. No
+adjustment shall be made for dividends or other rights for which the record date
+is prior to the date such stock certificate is issued.
+
+15.  Adjustment Provisions for Recapitalizations and Related Transactions.
+     --------------------------------------------------------------------
+
+     (a)  General.  If, through or as a result of any merger, consolidation,
+          -------
+sale of all or substantially all of the assets of the Company, reorganization,
+recapitalization, reclassification, stock dividend, stock split, reverse stock
+split or other similar transaction, (i) the outstanding shares of Common Stock
+are increased, decreased or exchanged for a different number or kind of shares
+or other securities of the Company, or (ii) additional shares or new or
+different shares or other securities of the Company or other non-cash assets are
+distributed with respect to such shares of Common Stock or other securities, an
+appropriate and proportionate adjustment may be made in (x) the maximum number
+and kind of shares reserved for issuance under the Plan, (y) the number and kind
+of shares or other securities subject to any then outstanding options under the
+Plan, and (z) the price for each share subject to any then outstanding options
+under the Plan, without changing the aggregate purchase price as to which such
+options remain exercisable. Notwithstanding the foregoing, no
+<PAGE>
+ 
+adjustment shall be made pursuant to this Section 15 if such adjustment would
+cause the Plan to fail to comply with Section 422 of the Code.
+
+     (b)  Board Authority to Make Adjustments.  Any adjustments under this
+          -----------------------------------
+Section 15 will be made by the Board of Directors, whose determination as to
+what adjustments, if any, will be made and the extent thereof will be final,
+binding and conclusive. No fractional shares will be issued under the Plan on
+account of any such adjustments.
+
+16.  Merger, Consolidation, Asset Sale, Liquidation, etc.
+     ---------------------------------------------------
+
+     (a)  General.  In the event of a consolidation or merger or sale of all or
+          -------
+substantially all of the assets of the Company in which outstanding shares of
+Common Stock are exchanged for securities, cash or other property of any other
+corporation or business entity or in the event of a liquidation of the Company,
+the Board of Directors of the Company, or the board of directors of any
+corporation assuming the obligations of the Company, may, in its discretion,
+take any one or more of the following actions, as to outstanding options: (i)
+provide that such options shall be assumed, or equivalent options shall be
+substituted, by the acquiring or succeeding corporation (or an affiliate
+thereof), provided that any such options substituted for Incentive Stock Options
+          --------
+shall meet the requirements of Section 424(a) of the Code, (ii) upon written
+notice to the optionees, provide that all unexercised options will terminate
+immediately prior to the consummation of such transaction unless exercised by
+the optionee within a specified period following the date of such notice, (iii)
+in the event of a merger under the terms of which holders of the Common Stock of
+the Company will receive upon consummation thereof a cash payment for each share
+surrendered in the merger (the "Merger Price"), make or provide for a cash
+payment to the optionees equal to the difference between (A) the Merger Price
+times the number of shares of Common Stock subject to such outstanding options
+(to the extent then exercisable at prices not in excess of the Merger Price) and
+(B) the aggregate exercise price of all such outstanding options in exchange for
+the termination of such options, and (iv) provide that all or any outstanding
+options shall become exercisable in full immediately prior to such event.
+
+     (b)  Substitute Options.  The Company may grant options under the Plan in
+          ------------------
+substitution for options held by employees of another corporation who become
+employees of the Company, or a subsidiary of the Company, as the result of a
+merger or consolidation of the employing corporation with the Company or a
+subsidiary of the Company, or as a result of the acquisition by the Company, or
+one of its subsidiaries, of property or stock of the employing corporation. The
+Company may direct that substitute options be
+<PAGE>
+ 
+granted on such terms and conditions as the Board of Directors considers
+appropriate in the circumstances.
+
+17.  No Special Employment Rights.
+     ----------------------------
+
+     Nothing contained in the Plan or in any option shall confer upon any
+optionee any right with respect to the continuation of his or her employment by
+the Company or interfere in any way with the right of the Company at any time to
+terminate such employment or to increase or decrease the compensation of the
+optionee.
+
+18.  Other Employee Benefits.  
+     -----------------------
+
+     Except as to plans which by their terms include such amounts as
+compensation, the amount of any compensation deemed to be received by an
+employee as a result of the exercise of an option or the sale of shares received
+upon such exercise will not constitute compensation with respect to which any
+other employee benefits of such employee are determined, including, without
+limitation, benefits under any bonus, pension, profit-sharing, life insurance or
+salary continuation plan, except as otherwise specifically determined by the
+Board of Directors.
+
+19.  Amendment of the Plan.
+     ---------------------
+
+     (a)  The Board of Directors may at any time, and from time to time, modify
+or amend the Plan in any respect, except that if at any time the approval of the
+shareholders of the Company is required under Section 422 of the Code or any
+successor provision with respect to Incentive Stock Options, or under Rule 16b-
+3, the Board of Directors may not effect such modification or amendment without
+such approval.
+
+     (b)  The termination or any modification or amendment of the Plan shall
+not, without the consent of an optionee, affect his or her rights under an
+option previously granted to him or her. With the consent of the optionee
+affected, the Board of Directors may amend outstanding option agreements in a
+manner not inconsistent with the Plan. The Board of Directors shall have the
+right to amend or modify (i) the terms and provisions of the Plan and of any
+outstanding Incentive Stock Options granted under the Plan to the extent
+necessary to qualify any or all such options for such favorable federal income
+tax treatment (including deferral of taxation upon exercise) as may be afforded
+incentive stock options under Section 422 of the Code and (ii) the terms and
+provisions of the Plan and of any outstanding option to the extent necessary to
+ensure the qualification of the Plan under Rule 16b-3.
+
+20.  Withholding.
+     -----------
+
+     (a)  The Company shall have the right to deduct from payments of any kind
+otherwise due to the optionee any federal, state or
+<PAGE>
+ 
+local taxes of any kind required by law to be withheld with respect to any
+shares issued upon exercise of options under the Plan. Subject to the prior
+approval of the Company, which may be withheld by the Company in its sole
+discretion, the optionee may elect to satisfy such obligations, in whole or in
+part, (i) by causing the Company to withhold shares of Common Stock otherwise
+issuable pursuant to the exercise of an option or (ii) by delivering to the
+Company shares of Common Stock already owned by the optionee. The shares so
+delivered or withheld shall have a fair market value equal to such withholding
+obligation. The fair market value of the shares used to satisfy such withholding
+obligation shall be determined by the Company as of the date that the amount of
+tax to be withheld is to be determined. An optionee who has made an election
+pursuant to this Section 20(a) may only satisfy his or her withholding
+obligation with shares of Common Stock which are not subject to any repurchase,
+forfeiture, unfulfilled vesting or other similar requirements.
+
+     (b)  Notwithstanding the foregoing, in the case of a Reporting Person, no
+election to use shares for the payment of withholding taxes shall be effective
+unless made in compliance with any applicable requirements of Rule 16b-3 (unless
+it is intended that the transaction not qualify for exemption under Rule 16b-3).
+
+21.  Cancellation and New Grant of Options, Etc.
+     ------------------------------------------
+
+     The Board of Directors shall have the authority to effect, at any time and
+from time to time, with the consent of the affected optionees, (i) the
+cancellation of any or all outstanding options under the Plan and the grant in
+substitution therefor of new options under the Plan covering the same or
+different numbers of shares of Common Stock and having an option exercise price
+per share which may be lower or higher than the exercise price per share of the
+cancelled options or (ii) the amendment of the terms of any and all outstanding
+options under the Plan to provide an option exercise price per share which is
+higher or lower than the then-current exercise price per share of such
+outstanding options.
+
+22.  Effective Date and Duration of the Plan.
+     ---------------------------------------
+
+     (a)  Effective Date.  The Plan shall become effective when adopted by the
+          --------------
+Board of Directors, but no option granted under the Plan shall become
+exercisable unless and until the Plan shall have been approved by the Company's
+shareholders. If such shareholder approval is not obtained within twelve months
+after the date of the Board's adoption of the Plan, options previously granted
+under the Plan shall not vest and shall terminate and no options shall be
+granted thereafter. Amendments to the Plan not requiring shareholder approval
+shall become effective when adopted by the Board of Directors; amendments
+requiring shareholder approval (as provided in Section 19) shall become
+effective when adopted by the
+<PAGE>
+ 
+Board of Directors, but no option granted after the date of such amendment shall
+become exercisable (to the extent that such amendment to the Plan was required
+to enable the Company to grant such option to a particular person) unless and
+until such amendment shall have been approved by the Company's shareholders. If
+such shareholder approval is not obtained within twelve months of the Board's
+adoption of such amendment, any options granted on or after the date of such
+amendment shall terminate to the extent that such amendment was required to
+enable the Company to grant such option to a particular optionee. Subject to
+this limitation, options may be granted under the Plan at any time after the
+effective date and before the date fixed for termination of the Plan.
+
+     (b)  Termination.  Unless sooner terminated in accordance with Section 16,
+          -----------
+the Plan shall terminate upon the close of business on the day next preceding
+the tenth anniversary of the date of its adoption by the Board of Directors.
+Options outstanding on such date shall continue to have force and effect in
+accordance with the provisions of the instruments evidencing such options.
+
+23.  Provision for Foreign Participants.
+     ----------------------------------
+
+     The Board of Directors may, without amending the Plan, modify awards or
+options granted to participants who are foreign nationals or employed outside
+the United States to recognize differences in laws, rules, regulations or
+customs of such foreign jurisdictions with respect to tax, securities, currency,
+employee benefit or other matters.
+
+                                       Adopted by the Board of Directors on
+                                       April 29, 1996.
+
+
+
+                                       Approved by Stockholders on 
+                                       _____________, 1996.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.11
+<SEQUENCE>3
+<DESCRIPTION>AMENDMENT TO CREDIT AGREEMENT
+<TEXT>
+
+<PAGE>
+ 
+                                                                   EXHIBIT 10.11
+FIRST NH BANK
+                                                 PLEASANT STREET OFFICE
+                                                 134 Pleasant Street
+                                                 Portsmouth, New Hampshire 03801
+                                                 Telephone (603) 436-1006
+March 13, 1996
+
+Mr. Michael Turmelle, CFO
+SatCon Technology Corporation
+161 First Street
+Cambridge, MA 02142-1221
+
+Dear Mike:
+
+First NH Bank ("Lender") is pleased to announce the renewal of the company's
+$3,000,000 Revolving Line of Credit and renewal of the company's $67,632 Letter
+of credit which is due to expire on May 25, 1996.  These commitments are subject
+to the following terms and conditions:
+
+LOAN I              REVOLVING  LINE OF CREDIT RENEWAL
+- ------              ---------------------------------
+
+BORROWER:           SatCon Technology Corporation
+
+AMOUNT:             $3,000,000 (Three Million Dollars)
+
+PURPOSE:            Finance accounts receivable
+
+INTEREST RATE:      New York/Wall Street Journal Prime, floating
+
+TERM:               On Demand.  The account will be reviewed annually as to
+                    payment history, financial Condition, collateral'
+                    requirements, conformance to loan covenants, profitability
+                    to the Bank, and changes which would effect this
+                    relationship.
+
+REPAYMENT:          Interest shall be payable monthly in arrears under the terms
+                    of this loan. Payments may be reborrowed so long as the
+                    outstanding balance does not exceed $3,000,000.
+
+FEES:               Three-quarters of one percent (.75%)on the unused portion,
+                    payable quarterly in arrears
+
+COLLATERAL:         Unsecured with a negative pledge on all business assets..
+
+
+GUARANTORS:         None
+
+
+ADVANCE FORMULA:    85% of accounts receivable less than 90 days plus 85% of
+                    cash and deposit accounts maintained at First NH Bank (with
+                    a hold to be placed upon these accounts if advances become
+                    reliant on these funds)
+<PAGE>
+ 
+Commitment Letter
+SatCon Technology Corporation
+March 13, 1996
+
+
+
+FINANCIAL
+  REPORTING:        Borrower to provide the following in form and content
+                    acceptable to the Bank:
+
+                    .    Annual audited financial statements within 120 days of
+                         year end
+                    .    Quarterly company prepared interim statements including
+                         an income statement and balance sheet within 45 days of
+                         quarter end
+                    .    Monthly A/R aging within 30 days of month end
+                         (initiated upon first advance)
+                    .    FYE 9/30/96 projected plan with pro-forma cash flow and
+                         income statement
+                    .    Monthly backlog summary (initiated upon first advance)
+
+FINANCIAL
+  COVENANTS:
+
+                    .    Debt to worth not to exceed 0.5:1 quarterly and
+                         annually
+                    .    Minimum net worth of $18.3 Million quarterly and $19.0
+                         Million at FYE 9/96
+                    .    Thirty day debt clearance period annually
+                    .    No merger and acquisition activities without prior bank
+                         Approval
+
+                    The loan covenants have been amended to include a change in
+                    the minimum net worth requirement, the elimination of the
+                    cash flow coverage covenant and the no two consecutive
+                    quarterly losses covenant, and a change in the testing
+                    period to quarterly and annually on the debt to worth
+                    covenant.
+
+INSURANCE:          Borrower shall maintain satisfactory insurance coverage for
+                    fire and all-risk coverage, and the Bank shall be named as
+                    the "loss payee" on all such policies.
+
+SPECIAL CONDITIONS: Borrower shall not without written consent of the Bank,
+                    sell, transfer, assign, pledge or lease any security
+                    interest in or encumber any of the Borrower's assets.
+
+OTHER:              Our records indicate that the annual commitment fee for FYE
+                    '95, which is one-half of one percent (0.5%) has not yet
+                    been paid. Please send the commitment fee due for FYE '95
+                    with the original signed copy of this letter.
+
+LOAN II             LETTER OF CREDIT RENEWAL
+- -------             ------------------------
+
+TERM:               May 25, 1997
+
+OTHER:              All other terms and conditions of the original Letter of
+                    Credit shall remain unchanged and in full force.
+<PAGE>
+ 
+Commitment Letter
+SatCon Technology Corporation
+March 13, 1996
+
+
+The only changes to the LOAN AGREEMENT DATED DECEMBER 29, 1994 are in the
+commitment fee and the loan covenants as outlined above.  All other terms and
+conditions of the original Loan Agreement remain the same.  If the foregoing
+commitment is acceptable, kindly so indicate by returning one signed copy of
+this letter by March 20, 1996.
+
+We look forward to our continued association with SatCon Technology and welcome
+the opportunity to
+expand our relationship.
+
+
+
+Should you have any questions, please do not hesitate to call me.
+
+Sincerely,
+
+/s/   PATRICIA C. DUFFY
+- -----------------------
+Patricia C. Duffey
+Vice President
+
+
+
+I understand and accept all terms and conditions outlined above.
+
+Accepted by:
+
+/s/   MICHAEL TURMELLE
+- ----------------------
+Michael Turmelle
+CFO
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>4
+<DESCRIPTION>COMPUTATION OF PER SHARE EARNINGS
+<TEXT>
+
+<PAGE>
+ 
+                                                                      EXHIBIT 11
+
+
+                         SATCON TECHNOLOGY CORPORATION
+
+                       COMPUTATION OF EARNINGS PER SHARE
+
+<TABLE> 
+<CAPTION>
+                                                                  FISCAL YEAR ENDED SEPTEMBER 30,
+                                                            ------------------------------------------
+                                                                1996           1995           1994
+                                                            ------------   ------------   ------------
+<S>                                                         <C>            <C>            <C>
+Calculation of Shares:
+     Weighted Average Shares Outstanding..................    7,285,756      7,079,855      6,601,282
+     Net Shares Outstanding from Assumed Exercise
+          of stock options................................         -              -           619,681
+     Net Warrants Outstanding from Assumed Exercise
+          of Warrants.....................................         -              -           126,135
+                                                            ------------   ------------   ------------
+     Net Common Stock Equivalents Outstanding.............         -              -           745,816
+                                                            ------------   ------------   ------------
+     Weighted Average Shares - Primary....................    7,285,756      7,079,855      7,347,098
+                                                            ------------   ------------   ------------
+     Additional Shares Assumed Exercised with Full
+          Dilution - Options..............................         -              -              -
+     Additional Shares Assumes Exercised with Full
+          Dilution - Warrants.............................         -              -            20,383
+                                                            ------------   ------------   ------------
+     Weighted Average Shares - Fully Diluted..............    7,285,756      7,079,855      7,367,481
+                                                            ============   ============   ============
+
+Calculation of Earnings per Share:
+     Net Income...........................................  $(2,864,836)   $(1,210,045)    $1,244,892
+     Primary Earnings per Share...........................  $     (0.39)   $     (0.17)    $     0.17
+     Fully Diluted Earnings per Share.....................  $     (0.39)   $     (0.17)    $     0.17
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>CONSENT OF COOPERS & LYBRAND LLP
+<TEXT>
+
+<PAGE>
+ 
+                                                                      EXHIBIT 23
+
+
+                      CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+We consent to the incorporation by reference in the registration statements of 
+SatCon Technology Corporation on Form S-8 (File Nos. 33-75934, 33-4280, and 
+333-08047) and Form S-3 (File No. 333-05939) of our report dated December 1, 
+1996, on our audits of the consolidated financial statements and financial 
+statement schedule of SatCon Technology Corporation as of September 30, 1996 and
+1995 and for the three years in the  period ended September 30, 1996, which 
+report is included in the Annual Report on Form 10-K.
+
+
+
+                                                      Coopers & Lybrand, L.L.P.
+
+Boston, Massachusetts
+December 24, 1996
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+ 
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          SEP-30-1996
+<PERIOD-END>                               SEP-30-1996
+<CASH>                                      $3,770,925
+<SECURITIES>                                $3,435,743
+<RECEIVABLES>                               $2,881,790
+<ALLOWANCES>                                  $563,419
+<INVENTORY>                                         $0
+<CURRENT-ASSETS>                           $12,094,457
+<PP&E>                                      $4,347,784<F1>
+<DEPRECIATION>                                      $0
+<TOTAL-ASSETS>                             $17,182,455
+<CURRENT-LIABILITIES>                       $1,083,287
+<BONDS>                                             $0
+<PREFERRED-MANDATORY>                               $0
+<PREFERRED>                                         $0
+<COMMON>                                       $73,591
+<OTHER-SE>                                 $16,025,577
+<TOTAL-LIABILITY-AND-EQUITY>               $17,182,455
+<SALES>                                             $0
+<TOTAL-REVENUES>                            $9,384,588
+<CGS>                                               $0
+<TOTAL-COSTS>                               $3,940,674
+<OTHER-EXPENSES>                            $8,917,069
+<LOSS-PROVISION>                                    $0
+<INTEREST-EXPENSE>                                  $0
+<INCOME-PRETAX>                           ($3,009,315)
+<INCOME-TAX>                                        $0
+<INCOME-CONTINUING>                       ($2,864,836)
+<DISCONTINUED>                                      $0
+<EXTRAORDINARY>                                     $0
+<CHANGES>                                           $0
+<NET-INCOME>                              ($2,864,836)
+<EPS-PRIMARY>                                  ($0.39)
+<EPS-DILUTED>                                  ($0.39)
+<FN>
+<F1>(1) PP&E is shown net of accumulated depreciation as reported within the
+Form 10-K on the Balance Sheet
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

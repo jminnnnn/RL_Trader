@@ -5,8 +5,10 @@ import re
 import string
 import os
 import pandas as pd
+import numpy as np
 from keybert import KeyBERT
 from pytrends.request import TrendReq
+from mysql_config import MY_SQL
 
 class Extract:
     def __init__(self):
@@ -15,13 +17,17 @@ class Extract:
         self.cik_ticker_dict ={}
         self.ticker_list = []
         self.keywords_list = []
+        self.trends_df = None
+        self.keywords_col_list = []
+        self.MYSQL_GOOGLE_TRENDS = 'keywords_google_trend_data'
+        self.my_sql = MY_SQL
 
     ########################################### M A I N ########################################################
     def keyword_extraction(self):
         #read and extract mdna sections
         self._read_snp_500_list()
         self._read_cik_list()
-        # self._save_mdna_section()
+        self._save_mdna_section()
         self._extract_using_keybert()
         self._get_google_trends_results()
         self._add_google_trend_results_to_db()
@@ -284,11 +290,13 @@ class Extract:
 
     def _get_google_trends_results(self):
         data_df = pd.DataFrame()
-        pytrends = TrendReq(hl='en', tz=540)
+        pytrends = TrendReq(hl='en-US', tz=360)
         for word in self.keywords_list:
-            keyword = [word]
-
-            pytrends.build_payload(kw_list=keyword, cat=0, timeframe='2004-01-01 2022-07-01', geo='US')
+            _keyword = [word]
+            #cat은 카테고리를 의미
+            #geo는 지역
+            #한달단위로 줄것임
+            pytrends.build_payload(kw_list=_keyword, cat=0, timeframe='2017-01-01 2022-07-01', geo='US')
             tmp = pytrends.interest_over_time()
 
             if 'isPartial' in tmp.columns:
@@ -296,12 +304,26 @@ class Extract:
 
             data_df = pd.concat([data_df, tmp], axis=1)
             time.sleep(15)
-        print(data_df)
+
+        self.trends_df = data_df
+
+    def _make_columns_list_by_keywords(self):
+        base = ['date']
+        for key in self.keywords_list:
+            name = key + '_ratio'
+            self.keywords_col_list.append(name)
+
+    def _make_change_ratios_to_trends_df(self):
+        tmp_df = pd.DataFrame(columns=self.keywords_col_list)
+        for key in self.keywords_col_list:
+            target_col = key+'_ratio'
+            tmp_df[target_col] = np.zeros(len(self.trends_df))
+            tmp_df.loc[1:, target_col] = (self.trends_df[key][1:].values -
+                                          self.trends_df[key][:-1].values) / self.trends_df[key][:-1].values
+        return tmp_df
 
     def _add_google_trend_results_to_db(self):
-        pass
+        df = self._make_change_ratios_to_trends_df()
+        df.to_sql(self.MYSQL_GOOGLE_TRENDS, self.my_sql, if_exists='append', index=False)
+        #수치 그대로도 넣되, 상대적 변화율을 넣는것이 핵심
 
-
-
-d = Extract()
-d.keyword_extraction()

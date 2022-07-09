@@ -1,0 +1,3614 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A8bncSJG4djz2auaGbuZVpftHUSBDcx8Z23RSpEdHlWyjxNznZ17ca0RK1G8vSVf
+ VqKsOLQcTaZ4tiUES2W1NA==
+
+<SEC-DOCUMENT>0000950135-97-003979.txt : 19970930
+<SEC-HEADER>0000950135-97-003979.hdr.sgml : 19970930
+ACCESSION NUMBER:		0000950135-97-003979
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	19970630
+FILED AS OF DATE:		19970929
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MATHSOFT INC
+		CENTRAL INDEX KEY:			0000895095
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				042842217
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-20992
+		FILM NUMBER:		97687019
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 MAIN ST
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142-1017
+		BUSINESS PHONE:		6175771017
+
+	MAIL ADDRESS:	
+		STREET 1:		101 MAIN STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142-1521
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>MATHSOFT, INC. FORM 10-K
+<TEXT>
+
+<PAGE>   1
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                  ------------
+
+                                    FORM 10-K
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE 
+     ACT OF 1934
+
+For the fiscal year ended JUNE 30, 1997
+
+Commission file number 0-020992
+
+
+
+                                 MATHSOFT, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+           MASSACHUSETTS                                      04-2842217
+- ----------------------------------                         ----------------
+   (State or other jurisdiction                            (I.R.S. employer
+ of incorporation or organization)                          identification)
+
+101 MAIN STREET, CAMBRIDGE, MASSACHUSETTS                       02142
+- --------------------------------------------               ----------------
+(Address of principal executive offices)                       (Zip code)
+
+
+Registrant's telephone number, including area code (617) 577-1017
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                          COMMON STOCK, $.01 PAR VALUE
+                          ----------------------------
+                                (Title of class)
+
+       Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X]  No [ ]
+
+       Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.____
+
+       The aggregate market value of the voting stock held by non-affiliates of
+the registrant was approximately $20,493,478 as of September 3, 1997 (computed
+by reference to the closing price of such stock on the Nasdaq Small Cap 
+Market). The number of shares of common stock, $.01 par value, outstanding as
+of September 3, 1997 was 9,019,745.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+       Specified portions of the 1997 Annual Report to Stockholders for the
+fiscal year ended June 30, 1997 are incorporated by reference into Parts II and
+IV hereof.
+
+       The information required in response to Part III hereof is incorporated
+by reference to the specified portions of the registrant's Proxy Statement for
+the 1997 Annual Meeting of Stockholders to be held on December 12, 1997.
+
+
+
+<PAGE>   2
+
+ITEM 1. BUSINESS.
+
+                                     General
+
+       MathSoft, Inc. ("MathSoft" or the "Company") develops, markets and
+       supports software productivity tools for the technical calculation and
+       data analysis markets comprised of professionals, researchers, students
+       and educators.
+
+       Mathcad(R), the Company's principal technical calculation product, was
+       first released in fiscal 1987 and can be used by desktop and laptop
+       computer users to perform calculations from the simple to the elaborate,
+       and then document the results. Mathcad offers technical professionals,
+       educators, and students an interactive, intuitive, easy-to-modify
+       alternative to their traditional calculation methods such as pencil and
+       paper, scratchpads and calculators.
+
+       The market for technical calculation software includes technical
+       professionals, such as electrical, mechanical and civil engineers,
+       scientists, mathematicians, researchers, technicians and analysts, as
+       well as educators and students who regularly are required to perform
+       technical calculations. These users often refer to a wide range of
+       published materials containing formulas or data which can be used in
+       solving technical problems.
+
+       In 1992, the Company expanded its technical calculation software product
+       line by introducing Electronic Books as add-on products to Mathcad. These
+       books deliver extensive off-the-shelf technical information, such as
+       formulas and data, which is critical to technical problem solving.
+       Through the use of MathSoft's proprietary "live document interface(TM)"
+       these books provide the Mathcad user with on-screen access to interactive
+       technical information. This enables a Mathcad user to either perform
+       calculations in the book itself or transfer formulas, data and results to
+       Mathcad for instant calculation and analysis. The Company is delivering
+       electronic versions of industry-leading reference works from nationally
+       and internationally recognized publishers, in addition to internally
+       authored works. In addition, the Company licenses its Mathcad and
+       Electronic Book authoring technology to third party publishers for use in
+       creating interactive Electronic Books which are marketed and distributed
+       by such third party publishers as stand-alone products.
+
+       In May 1993, the Company opened an International office located in the
+       United Kingdom to broaden distribution of its products. In fiscal 1997,
+       international sales of all technical calculation and data analysis
+       software products and services represented 34.0% of total revenues.
+
+       In June 1993, the Company introduced a new product line through its
+       wholly-owned subsidiary, Statistical Sciences, Inc., now referred to as
+       MathSoft's Data Analysis Products Division ("DAPD"). DAPD develops and
+       markets advanced data analysis software products and services based on
+       "S", a computer language designed for statistics applications. DAPD's
+       principal product is S-PLUS(R), an interactive computing environment
+       which provides both a full-featured graphical data analysis system and an
+       object-oriented language. The Company acquired this business on June 30,
+       1993, through the acquisition of substantially all of the assets and
+       business of Statistical Sciences, Inc., a Washington corporation. In
+       fiscal 1997, worldwide sales of data analysis products and services
+       represented 30.9% of total revenues.
+
+       The market for data analysis software consists principally of
+       professional and academic scientists, engineers, statisticians and
+       business analysts. Data analysis products are used in such fields as
+       biomedical technology, quantitative financial analysis and risk
+       assessment, environmental science and engineering, industrial and market
+       research, and process control.
+
+       In November 1995, the Company acquired 100% of the outstanding stock of
+       TriMetrix(R), Inc. ("TriMetrix"), a Washington corporation, in a business
+       combination accounted for as a pooling of interests. As a result of the
+       business combination, TriMetrix became a wholly owned subsidiary of the
+       Company. MathSoft complemented its technical calculation product line
+       with the addition of Axum(R), a Windows-based technical charting and data
+
+
+
+                                       2
+<PAGE>   3
+       analysis product acquired with TriMetrix, which transforms, manipulates
+       and sorts data sets to perform both simple and advanced analysis. Axum
+       has been redesigned to link seamlessly with Mathcad and is the
+       technological foundation for the most recent release of S-PLUS, S-PLUS
+       4.0, announced in June 1997.
+
+       In June 1996, the Company released StudyWorks!(TM) for Math and
+       StudyWorks!(TM) for Science targeted specifically toward high school and
+       non-engineering college students and educators. Both StudyWorks products
+       offer an interactive learning environment and assist students in both
+       mastering math and science concepts and creating professional looking
+       homework and lab reports in addition to allowing both educators and
+       students the ability to collaborate on projects. In September 1996, the
+       Company announced the release of StudyWorks!(TM) Schools, an
+       instructional edition of the StudyWorks for Math and StudyWorks for
+       Science software, which offers teachers a tools-based, interactive
+       teaching and learning environment.
+
+       In November 1996, the Company acquired 100% of the outstanding stock of
+       acroScience Corporation ("acroScience"), a Washington corporation, in a
+       business combination accounted for as a pooling of interests. As a result
+       of the business combination, acroScience became a wholly owned subsidiary
+       of the Company. MathSoft integrated visual modeling and programming
+       technology acquired with acroScience into its technical calculation
+       product line's latest release of Mathcad, Mathcad 7 for Windows, released
+       in June 1997.
+
+       In April 1997, the Company expanded its data analysis product line by
+       introducing MathSoft StatServer(TM), a warehouse-independent platform for
+       distributing statistical analysis and graphics to business professionals
+       and analysts over company Intranets. StatServer uses the S-PLUS
+       technology to create deployable intelligent analytics for an organization
+       and integrates with existing data storage and desktop applications.
+
+       The Company's goals are to continue to meet the expanding calculation and
+       data analysis needs of technical professionals, to provide students and
+       educators with software tools that can be used for learning and for
+       solving real-world problems and to develop new products for the growing
+       needs of businesses. The Company will continue to broaden the appeal for
+       all of its products to existing and new markets through technological
+       innovation, in such areas as ease-of-use, mathematical power, graphics
+       and deployability, and to continue to expand its distribution as new
+       products for new markets are introduced.
+
+       The Company was incorporated in Massachusetts in October, 1984 under the
+       name Engineering Specific Products Corp. and changed its name to
+       MathSoft, Inc. in January 1986. The Company's principal executive offices
+       are located at 101 Main Street, Cambridge, Massachusetts 02142, and its
+       telephone number is (617) 577-1017.
+
+
+
+
+                                       3
+<PAGE>   4
+
+                                    Products
+
+Technical Calculation Software Products
+
+       MathSoft publishes a range of technical calculation and software products
+       which allow users to perform calculations and create publication-quality
+       documents on personal computers. Its principal product in this category,
+       Mathcad, is to technical professionals what spreadsheets have proven to
+       be for business professionals. Mathcad can be used by desktop computer
+       users to perform technical calculations, from the simple to the
+       elaborate. An innovative feature of Mathcad is its ability to allow the
+       user to electronically access and manipulate formulas and data available
+       in the Company's Electronic Books and Function Packs. Electronic Books
+       provide on-screen libraries of industry-leading reference works, user
+       guides, solution templates, and educational materials while Function
+       Packs provide additional functionality for advanced users. StudyWorks,
+       the most recent addition to the Mathcad product line, was designed as an
+       integrated learning tool combining math, text, graphs and graphics for
+       the high school and college market. StudyWorks helps students master math
+       and science concepts, get better grades and create professional-looking
+       homework and lab reports.
+
+       Mathcad
+
+       Mathcad's broad appeal lies in its use of MathSoft's proprietary "live
+       document interface" technology. This permits users to calculate on a
+       computer in much the same way that they would on a scratchpad where
+       equations can be written anywhere, using real math notation, and erased,
+       changed and moved. A scratchpad can show a variety of expressions such as
+       formulas, words, graphs, data, equations and pictures. Mathcad works in a
+       similar free-form manner by literally turning a computer screen into a
+       live worksheet and therefore provides a very intuitive interface to
+       perform a wide range of numeric or symbolic calculations, but Mathcad has
+       one distinct advantage over a real scratchpad -- it calculates.
+
+       When using Mathcad, the computer screen initially appears blank like a
+       scratchpad. Using the keyboard and the mouse, the user begins by placing
+       the cursor anywhere on the screen and starts typing. To create a formula,
+       the user types keystrokes (+, /, *, etc.) or uses a mouse to click on a
+       symbol palette. As the user types, Mathcad automatically formats the
+       formulas in standard mathematical notation and instantly calculates the
+       results. To create a graph, the user selects the graph symbol from the
+       palette and defines the parameters of the graph. As with an electronic
+       spreadsheet, Mathcad instantly updates results as changes to variables or
+       formulas are made. Text may be added anywhere. Multi-page presentation
+       quality documents can be printed, complete with text, graphics, tables
+       and equations. It's free-form interactive environment makes Mathcad ideal
+       for formulating ideas, setting up problems and evolving solutions and
+       sharing both the process and the results through printed documents,
+       e-mail, and the World Wide Web.
+
+       Mathcad is used as a calculator for simple formulas, as a more elaborate
+       solver for equations formally linked within a "live document", as a
+       technical report generator, as a live charting facility, and as a
+       mathematical teaching environment. Mathcad also provides an interface to
+       on-line technical reference works. Mathcad performs numeric and symbolic
+       calculations in the real and complex domain, solves systems of linear and
+       non-linear equations, and performs iterative calculations.
+
+       Electronic Books
+
+       An extension of the Mathcad product line, Electronic Books deliver
+       information and solutions in an interactive form to Mathcad users.
+       Electronic Books provide the user with on-screen libraries of technical
+       data combined with Mathcad's capacity to utilize and manipulate the raw
+       data through its "live document interface". This enables the user to
+       search the book for material, use hyperlinks to jump to related sections
+       within the work, and calculate problems and manipulate data using
+       formulas and data contained in the work. A key feature of MathSoft's
+       Electronic Books is that the material is live and interactive, enabling a
+       Mathcad user to apply the formulas or data
+
+
+
+                                       4
+<PAGE>   5
+
+
+       from the book either by performing calculations in the book itself or by
+       transferring the formulas or data, or results, to Mathcad for calculation
+       and analysis. Without the Electronic Book, the user must manually key in
+       entire formulas from published sources before using the software to solve
+       equations. The book may contain reference information (e.g., the
+       properties of various materials and standard formulas), solutions for
+       standard engineering problems, tutorials on selected topics, or
+       educational courseware. Additionally, Mathcad's "live document interface"
+       supports the inclusion of sound and video components.
+
+       In addition to internally authored works, the Company delivers electronic
+       versions of industry-leading reference works from nationally and
+       internationally recognized publishers. The agreements by which the
+       Company licenses content for Electronic Books from publishers typically
+       provide for a non-exclusive license at an agreed upon royalty rate, and
+       continue for a term of five to seven years unless extended by mutual
+       agreement.
+
+       The Company also licenses its Mathcad and Electronic Book authoring
+       technology to third party publishers for use in creating interactive
+       Electronic Books which are marketed and distributed by such third party
+       publishers as stand-alone products. Users are not required to use Mathcad
+       to access these interactive Electronic Books.
+
+       Function Packs
+
+       Function Packs provide additional functionality to Mathcad in the areas
+       of signal processing, data analysis, statistics and graphics. Once
+       installed, the functions are seamlessly integrated with the Mathcad
+       function set allowing the user to see results immediately and explore the
+       effects of changing parameters in mathematical routines.
+
+       Axum
+
+       In November 1995, the Company acquired 100% of the outstanding stock of
+       TriMetrix, Inc., a software company located in Seattle, Washington and
+       the developer of Axum software. Axum is a Windows-based advanced
+       technical graphing and data analysis software which offers scientists and
+       engineers in the technical professional market, including Mathcad users,
+       the advanced charting tools needed for creating compelling, highly visual
+       presentations and publication-quality documents. Users can transform,
+       manipulate and sort data sets to perform both simple and advanced
+       analysis. Axum has also been redesigned to link seamlessly with Mathcad.
+
+       StudyWorks
+
+       StudyWorks!(TM) for Math and StudyWorks!(TM) for Science, productivity
+       software for high school and college students and their teachers, was
+       designed as a rich learning environment that helps students understand
+       math and science problems, complete and check a variety of solutions, and
+       print out great looking lab reports and homework papers. It also contains
+       a section to help users prepare for the SAT II tests. Each product is a
+       three-in-one combination of an application, rich interactive content and
+       a unique two-way internet access. StudyWorks is based on a powerful
+       graphical calculation and document preparation tool and includes rich
+       multimedia encyclopedias of math and science formulas and key concepts in
+       algebra, geometry, earth science, chemistry, pre-calculus, physics,
+       calculus and statistics. Users also receive built-in links to the
+       Company's StudyWorks home page which allows high school students, college
+       students and teachers to participate in virtual study groups and
+       discussion forums, pick up Homework Hints and link to related sites on
+       the World Wide Web.
+
+       StudyWorks!(TM) for Schools, released in September 1996, was designed as
+       the instructional edition complement to the Company's StudyWorks for Math
+       and StudyWorks for Science software products. StudyWorks for Schools
+       allows teachers to integrate software and distance learning approaches
+       into their current math and science curriculum and provide students with
+       an "active-learning", content-rich learning tool. StudyWorks for Schools
+       integrates seamlessly with existing curricula, works with graphing
+       calculators, includes a content-rich math and science reference library,
+       and comes with a Teachers Resource Guide featuring sample lesson plans,
+       classroom presentations, lab and homework exercises and tips for
+       maximizing the use of the technology. It also connects 
+
+
+
+                                       5
+<PAGE>   6
+
+
+       teachers and students to each other via the Web-based Collaboratory(TM)
+       for a variety of distance learning applications, including virtual study
+       groups, on-line tutoring, and the dissemination of class or lab notes,
+       problem sets, exams and solutions.
+
+Data Analysis Software Products
+
+       S-PLUS
+
+       On June 30, 1993, the Company acquired substantially all of the assets of
+       Statistical Sciences, Inc., a software company located in Seattle,
+       Washington. The Company's principal product in this category, S-PLUS, is
+       an advanced, exploratory data analysis and statistical data mining
+       solution for technical and business professionals who need sophisticated
+       analysis and visualization capabilities. Based on the object-oriented "S"
+       programming language licensed from Lucent Technologies Inc., S-PLUS
+       enables users to perform exploratory data analysis, graphics, statistics,
+       visualization and mathematical computing in the Windows and UNIX
+       environments. The primary advantage of S-PLUS lies within the "S"
+       Language. The "S" language is the only modern object-oriented language
+       created specifically for data visualization and exploration, statistical
+       modeling and programming with data. This interactive language environment
+       gives users immediate feedback at every stage of their analysis.
+
+       Modules
+
+       To complement S-PLUS, the Company offers add-on modules that work with
+       S-PLUS and provide additional "S" language functions for specialized data
+       analysis purposes.
+
+       StatServer
+
+       In April 1997, the Company expanded its data analysis product line by
+       introducing MathSoft StatServer(TM). StatServer enables corporations to
+       leverage existing client/server and Internet/Intranet technologies and
+       deploy statistical expertise throughout an organization. StatServer is
+       data warehouse-independent and integrates seamlessly with all standard
+       database and data warehouse formats. The robust database support provides
+       the tools for advanced analysis and data visualization of the most
+       popular relational databases. With StatServer, basic statistical models
+       and data visualization capabilities are built and stored in a central
+       server for access by non-technical users, who can apply these analytical
+       techniques from a single and familiar client to understand or interpret
+       key data sets. Using StatServer, professionals in diverse fields such as
+       finance, biomedicine and manufacturing can use familiar tools such as
+       Excel, Netscape or Powerbuilder to access corporate data resources and
+       perform data analysis without becoming experts in statistics or users of
+       statistical tools. StatServer moves beyond the capabilities of report
+       writers, spreadsheet applications and stand-alone data analysis software,
+       representing a significant advancement in decision support and data
+       mining technology.
+
+Marketing and Sales
+
+       Technical Calculation Software Products
+
+       The Company's market for technical calculation software products consists
+       of two significant groups of end users: technical professionals and
+       educators and students. End users within the technical professionals
+       group span numerous fields and include electrical, mechanical and civil
+       engineers, scientists, mathematicians, researchers, technicians and
+       analysts. The education market consists of secondary, undergraduate and
+       graduate educators and students in many technical disciplines. The
+       Company's products are currently used as tools for diverse purposes from
+       back-of-the envelope calculations to bridge design and genetic
+       engineering.
+
+       MathSoft reaches domestic customers of Mathcad primarily through a
+       network of educational and commercial third party resellers and
+       distributors. To complement this network, the Company has a domestic
+       telesales organization focused on sales to the registered installed base
+       as well as lead generation, prospect qualification and
+
+
+
+                                       6
+<PAGE>   7
+
+       sales of site license agreements and network licenses. In addition,
+       Mathcad upgrades are primarily marketed to the Company's registered
+       installed base via direct mail. In fiscal 1997, domestic sales through
+       distributor and reseller channels accounted for 57.9% of total domestic
+       sales of technical calculation software products, with the balance of
+       such sales through either installed base direct mail or the Company's
+       telesales operations.
+
+       Internationally, all technical calculation software products are marketed
+       primarily through a network of resellers and distributors. Mathcad
+       upgrades are marketed through distributors as well as to the registered
+       installed base via direct mail. In fiscal 1997, international sales
+       through resellers and distributors accounted for 99.3% of total
+       international sales of technical calculation software products.
+
+       Data Analysis Software Products
+
+       The Company's market for data analysis products consists principally of
+       professional and academic scientists, engineers and statisticians. The
+       product is used in such fields as biomedical technology, quantitative
+       financial analysis and risk assessment, environmental science and
+       engineering, industrial and market research, and process control.
+
+       The Company reaches domestic customers of its data analysis products both
+       through its domestic telesales organization and a new outside sales team.
+       Leads are generated from advertising, vertical market list rentals and
+       tradeshows, which are then pursued by the telesales organization.
+
+       Internationally, the Company reaches customers of its data analysis
+       products entirely through a network of resellers and distributors.
+
+Customer Technical Support
+
+       Technical Calculation Software Products
+
+       MathSoft subcontracts customer technical support to its domestic
+       customers by phone, fax and mail through a third party vendor located in
+       Greely, Colorado. A technical support staff of engineers located in
+       Cambridge is available to support the vendor in Colorado as well as to
+       resolve the most difficult technical support issues. The Company provides
+       this support free of charge to individual end-users. For corporate and
+       academic network users, the Company provides this support free of charge
+       for 30 days beginning with the first customer placed technical support
+       request. Subsequent to this free support period, the Company offers a
+       Premium Support Plan. The Company currently provides technical support
+       for its StudyWorks products free of charge and additionally supports this
+       product via the Company's home page on the World Wide Web.
+
+       International customers who purchase product from distributors receive
+       first line technical support from their respective local distributor. A
+       technical support staff of engineers, located in the Company's United
+       Kingdom sales and marketing office, is available to support the
+       distributors.
+
+       Data Analysis Software Products
+
+       Technical support for the S-PLUS product line is provided to domestic
+       customers by a staff of engineers located in Seattle. Support is only
+       available to customers who purchase an annual maintenance and technical
+       support plan.
+
+       International customers who purchase products from distributors receive
+       first line technical support from their respective local distributor. A
+       technical support staff of engineers, located in the Company's United
+       Kingdom sales and marketing office, is available to support the
+       distributors.
+
+
+
+
+                                       7
+<PAGE>   8
+
+Manufacturing and Distribution
+
+       The Company utilizes several third party vendors to manufacture and
+       distribute its products. This permits the Company to manage peak volumes
+       customary in the software industry and to avoid having to maintain high
+       fixed costs while experiencing daily fluctuations in order and customer
+       contacts.
+
+       The Company's practice is to ship its products promptly upon receipt of
+       orders from its customers and, as a result, product backlog is not
+       significant.
+
+       Technical Calculation Software Products
+
+       The Company subcontracts with a single independent third party vendor,
+       located in Plymouth, Massachusetts, to manufacture all of its technical
+       calculation software products and fulfill all of its domestic orders.
+
+       With the exception of Mathcad upgrade orders generated by direct mail,
+       the Company processes all domestic orders from its leased facilities
+       located in Cambridge, Massachusetts. MathSoft subcontracts the processing
+       of all Mathcad upgrade direct mail orders with an independent service
+       company located in Chicago, Illinois.
+
+       All international orders are processed by a third party vendor located in
+       the United Kingdom that also provides warehousing and fulfillment
+       services.
+
+       Data Analysis Software Products
+
+       The Company subcontracts with a third party vendor, located in Monroe,
+       Washington, to manufacture all of its S-PLUS product line products. The
+       Company warehouses inventory and processes and fulfills domestic orders
+       internally out of its Seattle office. All international orders are
+       processed and fulfilled by third party vendors located in the United
+       Kingdom that also provide warehousing and fulfillment services.
+
+Product Development
+
+       MathSoft's research and development organization, divided between the
+       Company's Cambridge, Massachusetts and Seattle, Washington locations, is
+       responsible for software development, product documentation, and quality
+       assurance. Its priorities are to continue technical innovation for power
+       and performance and to respond to market feedback by continuing to design
+       products for ease-of-use.
+
+       MathSoft's development team consists of experts in software engineering,
+       quality assurance, mathematics, statistics, engineering and
+       documentation. In software engineering, MathSoft's professional staff has
+       expertise in computer graphics, compiler design, user interface design
+       and advanced Windows and Internet technologies.
+
+       During the fiscal years ended June 30, 1997, 1996 and 1995, research and
+       development costs charged to operations were $5,143,000, $3,659,000, and
+       $3,059,000, respectively. The Company does not capitalize internal
+       software development costs.
+
+Competition
+
+       The markets for technical calculation and data analysis software products
+       are highly competitive. In the technical calculation software market,
+       MathSoft considers its principal competition to include technical
+       calculation software from companies providing specialized tools, such as
+       The MathWorks, Waterloo Maple Software and Wolfram Research. In the data
+       analysis market, the Company considers its principal competition to
+       include statistical software products from such companies as SAS, SPSS
+       and Visual Numerics. In both markets, the Company faces competition from
+       companies providing competing software solutions, such as spreadsheets.
+       The Company may also face new competition from potential entrants into
+       the technical calculation and data analysis software markets and more
+       focused competition from companies in related markets, such as providers
+       of spreadsheet programs, which could add to or improve the technical
+       calculation and data analysis functionality of their existing products.
+
+
+
+                                       8
+<PAGE>   9
+
+       Some of these companies may have significant name recognition, as well as
+       substantially greater capital resources, marketing experience, research
+       and development staffs and production facilities than the Company.
+       Although the Company believes it has a technological advantage over
+       existing competitors in the technical calculation and the data analysis
+       software markets, maintaining that advantage will require continued
+       investment by the Company in research and development. There can be no
+       assurance that the Company will have sufficient resources to make such
+       investment or that the Company will be able to make the technological
+       advances necessary to maintain such competitive advantage.
+
+Intellectual Property Rights and Licenses
+
+       MathSoft's software is proprietary and the Company attempts to protect it
+       with copyrights, trade secret laws and internal nondisclosure safeguards,
+       as well as restrictions on copying, disclosure and transferability that
+       are incorporated into its software license agreements. Generally, the
+       Company's products are not physically copy-protected. In order to retain
+       exclusive ownership rights to all software developed by MathSoft, the
+       Company licenses all software and provides it in executable code only,
+       with contractual restrictions on copying, disclosure and transferability.
+       As is customary in the industry, MathSoft licenses its products to end
+       users by use of a `shrink-wrap' license. The source code for all of the
+       Company's products is protected as a trade secret and as unpublished
+       copyrighted work. In addition, the Company has entered into nondisclosure
+       and inventions agreements with each of its key employees. The Company has
+       been granted two patents and is aggressively pursuing patent protection.
+       However, in those areas where the Company has no patent protection,
+       judicial enforcement of copyright laws may be uncertain.
+
+       Prior to fiscal 1994, the Company licensed, on a worldwide basis, MAPLE V
+       Symbolic Algebra Software jointly from the University of Waterloo,
+       Waterloo Maple Software, Inc. and two authors in exchange for ongoing
+       royalty payments. In fiscal 1994, the Company was granted a non-exclusive
+       worldwide perpetual license for this technology for inclusion in Mathcad
+       and other products in exchange for a fixed royalty payment.
+
+       The Company is the exclusive, worldwide licensee (subject to certain
+       prior license grants) until February 18, 2002 of Lucent Technologies Inc.
+       for the "S" programming language. Under the license, the Company has the
+       exclusive right to use, sublicense and support the "S" programming
+       language from Lucent Technologies in exchange for royalties. Any
+       modifications, enhancements, adaptations or derivations of the "S"
+       programming language are the property of the Company. After February 18,
+       2002, the Company, at its election, may extend this exclusive license for
+       five year terms in perpetuity, provided that the Company continues to
+       comply with its obligations under the license. Although termination of
+       this license could have a material adverse effect on the Company's
+       operations as Lucent Technologies is the sole licensor of the "S"
+       programming language, the Company is not presently aware of any
+       circumstances which would prevent it from fulfilling its obligations
+       under the license.
+
+       Due to the rapid pace of technological change in the software industry,
+       the Company believes that patent, trade secret and copyright protection
+       are less significant to its competitive position than factors such as the
+       knowledge, ability and experience of the Company's personnel, new product
+       development, frequent product enhancements, name recognition, and ongoing
+       reliable product maintenance and support.
+
+       The Company believes that its products and other proprietary rights do
+       not infringe the proprietary rights of third parties. There can be no
+       assurance, however, that third parties will not assert infringement
+       claims in the future.
+
+Employees
+
+       As of June 30, 1997, the Company employed approximately 160 regular
+       full-time and part-time employees, of which 15 were outside the United
+       States. As necessary, the Company supplements its regular employees with
+       temporary and contract personnel. As of June 30, 1997, the Company
+       employed 8 temporary and contract personnel, of which 1 was outside the
+       United States. None of the Company's regular employees are represented by
+
+
+                                       9
+
+<PAGE>   10
+
+
+
+       a labor union or are subject to a collective bargaining agreement. The
+       Company has never experienced a work stoppage and believes that its
+       employee relations are good.
+
+Cautionary Statements
+
+       In addition to the other information in this report, the following
+       cautionary statements should be considered carefully in evaluating the
+       Company and its business. Information provided by the Company from time
+       to time may contain certain "forward-looking" information, as that term
+       is defined by (i) the Private Securities Litigation Reform Act of 1995
+       (the "Act") and (ii) in releases made by the Securities and Exchange
+       Commission (the "SEC"). These cautionary statements are being made
+       pursuant to the provisions of the Act and with the intention of obtaining
+       the benefits of the "safe harbor" provisions of the Act.
+
+       Variability of Quarterly Operating Results. The Company's quarterly
+       operating results may vary significantly from quarter to quarter,
+       depending upon factors such as the introduction and market acceptance of
+       new products and new versions of existing products, the ability to reduce
+       expenses, and the activities of competitors. Because a high percentage of
+       the Company's expenses are relatively fixed in the near term, minor
+       variations in the timing of orders and shipments can cause significant
+       variations in quarterly operating results. The Company operates with
+       little or no backlog and has no long-term contracts, and substantially
+       all of its product revenues in each quarter result from software licenses
+       issued in that quarter, and the Company's ability to accurately forecast
+       future revenues and income for any period is necessarily limited. Any
+       forward-looking information provided from time to time by the Company
+       represents only management's then-best current estimate of future results
+       or trends, and actual results may differ materially from those contained
+       in the Company's estimates.
+
+       Potential Volatility of Stock Price. There has been significant
+       volatility in the market price of securities of technology companies. The
+       Company believes factors such as announcements of new products by the
+       Company or its competitors, quarterly fluctuations in the Company's
+       financial results or other software companies' financial results,
+       shortfalls in the Company's actual financial results compared to results
+       previously forecasted by stock market analysts, and general conditions in
+       the software industry and conditions in the financial markets could cause
+       the market price of the Common Stock to fluctuate substantially. These
+       market fluctuations may adversely affect the price of the Company's
+       Common Stock.
+
+       Risks Associated with Acquisitions. The Company has made a number of
+       acquisitions and will continue to review future acquisition
+       opportunities. No assurances can be given that acquisition candidates
+       will continue to be available on terms and conditions acceptable to the
+       Company. Acquisitions involve numerous risks, including, among other
+       things, possible dilution to existing shareholders, difficulties and
+       expenses incurred in connection with the acquisitions and the subsequent
+       assimilation of the operations and services or products of the acquired
+       companies, the difficulty of operating new (albeit related) businesses,
+       the diversion of management's attention from other business concerns and
+       the potential loss of key employees of the acquired company. In the event
+       that the operations of an acquired business do not live up to
+       expectations, the Company may be required to restructure the acquired
+       business or write-off the value of some or all of the assets of the
+       acquired business. There can be no assurance that any acquisition will be
+       successfully integrated into the Company's operations.
+
+       Risks Associated with Divestitures. The Company's product offerings 
+       presently may be divided between two principal product families - those
+       related to its Mathcad line addressing the calculation needs of the
+       technical, professional and education markets, and its S-PLUS offerings,
+       marketed primarily to professionals needing statistical data analysis
+       tools.
+
+       In setting strategic goals to maximize shareholder value, the Company
+       from time to time considers the options of divesting itself of one
+       product family or the other, or product lines within a given family,
+
+
+
+
+                                       10
+<PAGE>   11
+
+       to concentrate its focus on the business opportunity associated with the
+       remaining product family or product lines.
+
+       At the present time, the Company is not party to any agreement relating
+       to the sale of either of its product families or product lines within 
+       such families, but it may elect to pursue such options at any time. If
+       the Company were to consummate such a sale, there can be no assurance
+       that it would receive returns from such sale that investors in the 
+       Company would consider attractive.
+
+       Risks Associated with Distribution Channels. The Company markets and
+       distributes its S-PLUS products in the U.S. through the Company's
+       telesales and outside sales force and internationally through third party
+       resellers and distributors. Mathcad products are currently marketed and
+       distributed in the U.S. through third party resellers and distributors,
+       telesales and direct mail (for upgrades to the Company's installed base).
+       Internationally, the Company's Mathcad products are marketed and
+       distributed through third party resellers and distributors. There can be
+       no assurance that the Company will be able to retain its current
+       resellers and distributors, or expand its distribution channels by
+       entering into arrangements with new resellers and distributors in the
+       Company's current markets or in new markets.
+
+       Risks Associated with International Operations. Sales outside North
+       America accounted for approximately 36.1% of the Company's total revenues
+       in fiscal 1995, approximately 32.5% of the Company's total revenues in
+       fiscal 1996 and approximately 34.0% of the Company's total revenues in
+       fiscal 1997, and may continue to represent a significant portion of the
+       Company's product revenues. Any decrease in sales outside North America
+       may have a materially adverse effect on the Company's operating results.
+       The Company's international business and financial performance may be
+       affected by fluctuations in exchange rates and by trade regulations.
+
+       Reliance on Third Party Licensors. Maple V, a software product licensed
+       as a part of the most recent version of Mathcad, contains certain
+       copyrighted texts licensed from third party publishers incorporated in
+       the Company's Electronic Books, and the S programming language, the
+       language on which all of StatSci's products are based, are currently
+       licensed from a single source or limited source suppliers. If such
+       licenses are discontinued, there can be no assurance that the Company
+       will be able to independently develop substitutes or to obtain
+       alternative sources or, if able to be developed or obtained as needed in
+       the future, that such efforts would not result in delays or reductions in
+       product shipments or cost increases that could have a material adverse
+       effect on the Company's consolidated business operations.
+
+       Rapid Technological Change; Competition. The technical calculation
+       software market is subject to rapid and substantial technological change,
+       similar to that affecting the software industry generally. The Company,
+       to remain successful, must be responsive to new developments in hardware
+       and chip technology, operating systems, programming technology, Internet
+       technology and multimedia capabilities. In addition, the Company competes
+       against numerous other companies, some of which have significant name
+       recognition, as well as substantially greater capital resources,
+       marketing experience, research and development staffs and production
+       facilities than the Company. The Company's financial results may be
+       negatively impacted by the failure of new or existing products to be
+       favorably received by retailers and consumers due to price, availability,
+       features, other product choices or the necessity of promotions to
+       increase sales of the Company's products.
+
+       Uncertainties Regarding Protection of Proprietary Technology;
+       Uncertainties Regarding Patents. The Company believes that while the
+       mathematical calculations performed by the Company's software are not
+       proprietary, the speed and quality of displaying the computation and the
+       ease of use are unique to MathSoft's products. The Company's success will
+       depend, in part, on its ability to protect the proprietary aspects of its
+       products. The Company seeks to protect these proprietary aspects of its
+       products principally through a combination of contract provisions and
+       copyright, patent, trademark and trade secret laws. There can be no
+       assurance that the steps taken by the Company to protect its proprietary
+       rights will be adequate to prevent misappropriation of its technology.
+       Although the Company believes that its products and technology do not
+       infringe any existing proprietary rights of others, the use of patents to
+       protect software has increased and there may be pending or issued patents
+       of which the Company is not aware that the Company may need to license or
+       challenge at significant expense. There can be no 
+
+
+
+                                       11
+<PAGE>   12
+
+       assurance that any such license would be available on acceptable terms,
+       if at all, or that the Company would prevail in any such challenge.
+
+       Reliance on Attracting and Retaining Key Employees. The Company's
+       continued success will depend in large part on its ability to attract and
+       retain highly-qualified technical, managerial, sales and marketing and
+       other personnel. Competition for such personnel is intense. None of the
+       senior management of the Company is subject to an employment contract,
+       although the Company does have non-competition agreements with its key
+       management and technical personnel. There can be no assurance that the
+       Company will be able to continue to attract or retain such personnel.
+
+
+ITEM 2. PROPERTIES.
+
+       The Company leases 34,562 square feet of office space at 101 Main Street,
+       Cambridge, Massachusetts of which 23,350 square feet is occupied by the
+       Company and 11,212 square feet is sublet to a third party. The terms of
+       both the lease and sublease for office space are scheduled to terminate
+       in October, 1999. A third party vendor provides warehousing services to
+       meet the Company's needs. The Company also leases 13,848 square feet of
+       office space and subleases 4,423 square feet of office space at 1700
+       Westlake Avenue North, Seattle, Washington. This lease expires in
+       September, 1999 and the sublease expires in March, 2000. In connection
+       with the acquisition of acroScience, the Company assumed a lease on 1,740
+       square feet of office space in Boulder, Colorado which is scheduled to
+       terminate in January 2000. The Company currently sublets this space to a
+       third party, the term of which is scheduled to terminate in May 1998. The
+       Company also leases 2,931 square feet of office space in the United
+       Kingdom. The term of the lease for this office space is scheduled to
+       expire in March, 2000.
+
+       The Company believes that its facilities are adequate for its needs. The
+       Company does not consider the specific location of its offices to be
+       material to its business.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+       The Company is not involved in any legal proceedings which could have a
+       material adverse effect on the Company.
+
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY-HOLDERS.
+
+       Not applicable.
+
+
+
+
+
+                                       12
+<PAGE>   13
+
+                                     PART II
+
+
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+       The information set forth under the caption "Market Price of Common
+       Stock" appearing in the Company's 1997 Annual Report to Stockholders,
+       which appears as Exhibit 13.01, is incorporated herein by reference.
+
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+       The information set forth under the caption "Five Year Summary of
+       Selected Consolidated Financial Data" appearing in the Company's 1997
+       Annual Report to Stockholders, which appears as Exhibit 13.01, is
+       incorporated herein by reference.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS.
+
+       The information set forth under the caption "Management's Discussion and
+       Analysis of Financial Condition and Results of Operations" appearing in
+       the Company's 1997 Annual Report to Stockholders, which appears as
+       Exhibit 13.01, is incorporated herein by reference.
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+       The consolidated financial statements for the Company appearing in the
+       Company's 1997 Annual Report to Stockholders, which appears as 
+       Exhibit 13.01, are incorporated herein by reference.
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE.
+
+       Not applicable.
+
+
+
+
+
+                                       13
+<PAGE>   14
+
+                                    PART III
+
+
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+       The information set forth under the captions "Occupations of Directors
+       and Executive Officers" and "Section 16(a) Beneficial Ownership 
+       Reporting Compliance" appearing in the Company's Proxy Statement for the
+       1997 Annual Meeting of Stockholders is incorporated herein by reference.
+
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+       The information set forth under the caption "Compensation and Other
+       Information Concerning Directors and Officers" appearing in the Company's
+       Proxy Statement for the 1997 Annual Meeting of Stockholders is
+       incorporated herein by reference.
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+       The information set forth under the caption "Management and Principal
+       Holders of Voting Securities" appearing in the Company's Proxy Statement
+       for the 1997 Annual Meeting of Stockholders is incorporated herein by
+       reference.
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+       The information set forth under the caption "Certain Relationships and
+       Related Transactions" appearing in the Company's Proxy Statement for the
+       1997 Annual Meeting of Stockholders is incorporated herein by reference.
+
+
+
+
+
+                                       14
+<PAGE>   15
+
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+       (a)    The following documents are filed as a part of this report:
+
+              1.     FINANCIAL STATEMENTS. The following consolidated financial
+              statements of the Company and Independent Auditors Report are
+              incorporated in Item 8 of this report by reference to the
+              Company's 1997 Annual Report to Stockholders.
+
+              Report of Independent Public Accountants.
+
+              Consolidated Balance Sheets as of June 30, 1997 and 1996.
+
+              Consolidated Statements of Operations for the Years Ended June 30,
+              1997, 1996 and 1995.
+
+              Consolidated Statements of Stockholders' Equity for the Years
+              Ended June 30, 1997, 1996 and 1995.
+
+              Consolidated Statements of Cash Flows for the Years Ended June 30,
+              1997, 1996 and 1995.
+
+              Notes to Consolidated Financial Statements.
+
+
+              2.     FINANCIAL STATEMENT SCHEDULES. The following financial
+              statement schedule is filed as part of this report and should be
+              read in conjunction with the consolidated financial statements of
+              the Company.
+
+              Schedule II Valuation and Qualifying Accounts
+
+              All other schedules are omitted because they are not applicable or
+              the required information is shown in the consolidated financial
+              statements or notes thereto.
+
+
+              3.     EXHIBITS.
+
+
+              2.1    Asset Purchase Agreement, dated as of June 30, 1993 among
+                     the Registrant, Statistical Sciences, Inc., a Washington
+                     corporation, and the Stockholders listed on Schedule I
+                     thereto (filed as Exhibit 2.1 to the Registrant's Current
+                     Report on Form 8-K dated June 30, 1993 and incorporated
+                     herein by reference).
+
+              3.1    Third Restated Articles of Organization of the Company
+                     (filed as Exhibit 3.2 to Registration Statement number
+                     33-55658 on Form S-1 and incorporated herein by reference).
+
+              3.2    Amended and Restated By-laws of the Company (filed as
+                     Exhibit 3.2 to Annual Report on Form 10-K for the fiscal
+                     year ended June 30, 1994, file number 0-020992, and
+                     incorporated herein by reference).
+
+              4.1    Specimen certificate representing the Common Stock (filed
+                     as Exhibit 4.1 to Registration Statement number 33-55658 on
+                     Form S-1 and incorporated herein by reference).
+
+              4.2    Please refer to Article VI of Exhibit 3.1.
+
+              10.1   Amended and Restated 1992 Stock Plan (filed as Exhibit 10.1
+                     to Registration Statement number 33-55658 on Form S-1 and
+                     incorporated herein by reference).
+
+              10.2   1987 Combination Stock Plan, as amended (filed as Exhibit
+                     10.2 to Registration Statement number 33-55658 on Form S-1
+                     and incorporated herein by reference).
+
+              10.3   Form of Key Officer Stock Option Agreement (filed as
+                     Exhibit 10.3 to Registration Statement number 33-55658 on
+                     Form S-1 and incorporated herein by reference).
+
+
+
+                                       15
+<PAGE>   16
+              10.4   1992 Employee Stock Purchase Plan (filed as Exhibit 10.4 to
+                     Registration Statement number 33-55658 on Form S-1 and
+                     incorporated herein by reference).
+
+              10.5   1992 Non-Employee Director Stock Option Plan (filed as
+                     Exhibit 10.5 to Registration Statement number 33-55658 on
+                     Form S-1 and incorporated herein by reference).
+
+              10.6   Lease dated August 12, 1988, as amended to date, between
+                     Registrant and Jonathan G. Davis, Trustee of the
+                     Broadway/Hampshire Development Trust (filed as Exhibit 10.6
+                     to Registration Statement number 33-55658 on Form S-1 and
+                     incorporated herein by reference).
+
+              10.7   Third Party Software Distribution Agreement, dated January
+                     30, 1989, as amended, between the Company, University of
+                     Waterloo, Waterloo Maple Software, Inc. et al. (filed as
+                     Exhibit 10.7 to Registration Statement number 33-55658 on
+                     Form S-1 and incorporated herein by reference).
+
+              10.8   Commitment Letter, dated August 28, 1992, between the
+                     Company and Silicon Valley Bank (filed as Exhibit 10.8 to
+                     Registration Statement number 33-55658 on Form S-1 and
+                     incorporated herein by reference).
+
+              10.9   Third Schedule to the Series C Preferred Stock Purchase
+                     Agreement, dated as of June 29, 1989, among the Company and
+                     the Investors named in the First Schedule Annexed Thereto,
+                     regarding certain registration rights and related matters
+                     (filed as Exhibit 10.9 to Registration Statement number
+                     33-55658 on Form S-1 and incorporated herein by reference).
+
+              10.10  Distribution Agreement, dated as of June 18, 1987, between
+                     the Company and Micro D, Inc., a predecessor to Ingram
+                     Micro, Inc. (filed as Exhibit 10.10 to Registration
+                     Statement number 33-55658 on Form S-1 and incorporated
+                     herein by reference).
+
+              10.11  Lease Between Riverfront Office Park Joint Venture and
+                     MathSoft, Inc., dated as of August 17, 1993 (filed as
+                     Exhibit 10.11 to Annual Report on Form 10-K for the fiscal
+                     year ended June 30, 1993, file number 0-020992, and
+                     incorporated herein by reference).
+
+              10.12  Lease Agreement with the Bartell Drug Co. (Landlord), dated
+                     as of June 22, 1990, together with Addendum Nos. A, B, C &
+                     D of even date and as amended by Addendum No. E dated
+                     December 9, 1992 (filed as Exhibit 10.12 to Annual Report
+                     on Form 10-K for the fiscal year ended June 30, 1993, file
+                     number 0-020992, and incorporated herein by reference).
+
+              10.13  Software License Agreement with American Telephone &
+                     Telegraph Company, effective as of April 1, 1991, as
+                     amended February 18, 1993 (filed as Exhibit 10.13 to Annual
+                     Report on Form 10-K for the fiscal year ended June 30,
+                     1993, file number 0-020992, and incorporated herein by
+                     reference).*
+
+              10.14  Distributor Agreement with Mathematical Systems Institute,
+                     Inc., dated August 24, 1990 (filed as Exhibit 10.14 to
+                     Annual Report of Form 10-K for the fiscal year ended June
+                     30, 1993, file number 0-020992, and incorporated herein by
+                     reference).
+
+              10.15  Distributorship Agreement dated as of March 1, 1994 between
+                     the Company and 766884 Ontario Inc., carrying on business
+                     as Waterloo Maple Software (filed as Exhibit 10.15 to
+                     Quarterly Report on Form 10-Q for the fiscal quarter ended
+                     March 31, 1994, file number 0-020992, and incorporated
+                     herein by reference).*
+
+              10.16  Perpetual Technology License dated as of March 1, 1994, as
+                     amended by Addendum No. 1 thereto dated as of March 25,
+                     1994, between the Company and 766884 Ontario Inc., carrying
+                     on business as Waterloo Maple Software (filed as Exhibit
+                     10.16 to Quarterly Report on Form 10-Q for the fiscal
+                     quarter ended March 31, 1994, file number 0-020992, and
+                     incorporated herein by reference).*
+
+              10.17  Line of Credit Agreement, dated January 11, 1996, between
+                     the Company and Fleet Bank of Massachusetts (filed as
+                     Exhibit 10.1 to Quarterly Report on Form 10-Q for the
+                     fiscal quarter ended March 31, 1996, file number 0-020992,
+                     and incorporated herein by reference).
+
+              10.18  Consulting Agreement dated March 26, 1996 between the
+                     Company and Allen M. Razdow (filed as Exhibit 10.18 to
+                     Annual Report on Form 10-K for the fiscal year ended June
+                     30, 1996, file number 0-020992, and incorporated herein by
+                     reference).
+
+
+
+                                       16
+<PAGE>   17
+             10.19  Software License Agreement, dated February 18, 1996,
+                    between the Company and Lucent Technologies Inc. (filed as
+                    Exhibit 10.1 to Quarterly Report on Form 10-Q for the
+                    fiscal quarter ended December 31, 1996, file number
+                    0-020992, and incorporated herein by reference).*
+
+             10.20  Amendment to Software License Agreement, dated September 25,
+                    1997, between the Company and Lucent Technologies Inc.+
+
+             11.1   Statement Regarding Computation of Per Share Earnings.
+
+             13.01  1997 Annual Report to Stockholders.
+
+             21.1   Subsidiaries of the Registrant.
+
+             23.1   Consent of Arthur Andersen LLP.
+
+             27.1   Financial Data Schedule.
+
+             * Confidential treatment as to portions of the filed exhibit was
+               previously granted.
+
+             + Confidential treatment requested as to certain portions.
+
+(b)    Reports on Form 8-K.
+
+             The Company filed a Current Report on Form 8-K dated April 24, 
+             1997 reporting fiscal 1997 third quarter results.
+
+
+
+
+
+
+                                       17
+<PAGE>   18
+
+                                   SIGNATURES
+
+       Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                           MATHSOFT, INC.
+
+
+September 29, 1997         By: /S/ CHARLES J. DIGATE
+                               ------------------------------------------------
+                                Charles J. Digate
+                                Chairman, President and Chief Executive Officer
+
+       Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+September 29, 1997                    /S/ RICHARD A. D'AMORE
+                                      ------------------------------------------
+                                      Richard A. D'Amore
+                                      Director
+
+
+September 29, 1997                    /S/ CHARLES H. FEDERMAN
+                                      -----------------------------------------
+                                      Charles H. Federman
+                                      Director
+
+
+September 29, 1997                    /S/ ROBERT P. ORLANDO
+                                      ------------------------------------------
+                                      Robert P. Orlando
+                                      Vice President Finance and Administration,
+                                      Chief Financial Officer, Treasurer 
+                                      and Clerk
+
+
+September 29, 1997                    /S/ JUNE L. ROKOFF
+                                      ------------------------------------------
+                                      June L. Rokoff
+                                      Director
+
+September 29, 1997                    /S/ STEVEN R. VANA-PAXHIA
+                                      ---------------------------------------
+                                      Steven R. Vana-Paxhia
+                                      Director
+
+
+
+
+
+
+
+
+
+                                       18
+<PAGE>   19
+
+
+
+                                  EXHIBIT INDEX
+
+
+
+
+EXHIBIT NO.   DESCRIPTION
+
+2.1           Asset Purchase Agreement, dated as of June 30, 1993
+              among the Registrant, Statistical Sciences, Inc., a
+              Washington corporation, and the Stockholders listed on
+              Schedule I thereto (filed as Exhibit 2.1 to the
+              Registrant's Current Report on Form 8-K dated June 30,
+              1993 and incorporated herein by reference).
+
+3.1           Third Restated Articles of Organization of the Company
+              (filed as Exhibit 3.2 to Registration Statement number
+              33-55658 on Form S-1 and incorporated herein by
+              reference).
+
+3.2           Amended and Restated By-laws of the Company (filed as
+              Exhibit 3.2 to Annual Report on Form 10-K for the fiscal
+              year ended June 30, 1994, file number 0-020992, and
+              incorporated herein by reference).
+
+4.1           Specimen certificate representing the Common Stock
+              (filed as Exhibit 4.1 to Registration Statement number
+              33-55658 on Form S-1 and incorporated herein by
+              reference).
+
+4.2           Please refer to Article VI of Exhibit 3.1.
+
+10.1          Amended and Restated 1992 Stock Plan (filed as Exhibit
+              10.1 to Registration Statement number 33-55658 on Form
+              S-1 and incorporated herein by reference).
+
+10.2          1987 Combination Stock Plan, as amended (filed as
+              Exhibit 10.2 to Registration Statement number 33-55658
+              on Form S-1 and incorporated herein by reference).
+
+10.3          Form of Key Officer Stock Option Agreement (filed as
+              Exhibit 10.3 to Registration Statement number 33-55658
+              on Form S-1 and incorporated herein by reference).
+
+10.4          1992 Employee Stock Purchase Plan (filed as Exhibit 10.4
+              to Registration Statement number 33-55658 on Form S-1
+              and incorporated herein by reference).
+
+10.5          1992 Non-Employee Director Stock Option Plan (filed as
+              Exhibit 10.5 to Registration Statement number 33-55658
+              on Form S-1 and incorporated herein by reference).
+
+10.6          Lease dated August 12, 1988, as amended to date, between
+              Registrant and Jonathan G. Davis, Trustee of the
+              Broadway/Hampshire Development Trust (filed as Exhibit
+              10.6 to Registration Statement number 33-55658 on Form
+              S-1 and incorporated herein by reference).
+
+10.7          Third Party Software Distribution Agreement, dated
+              January 30, 1989, as amended, between the Company,
+              University of Waterloo, Waterloo Maple Software, Inc. et
+              al. (filed as Exhibit 10.7 to Registration Statement
+              number 33-55658 on Form S-1 and incorporated herein by
+              reference).
+
+10.8          Commitment Letter, dated August 28, 1992, between the
+              Company and Silicon Valley Bank (filed as Exhibit 10.8
+              to Registration Statement number 33-55658 on Form S-1
+              and incorporated herein by reference).
+
+10.9          Third Schedule to the Series C Preferred Stock Purchase
+              Agreement, dated as of June 29, 1989, among the Company
+              and the Investors named in the First Schedule Annexed
+              Thereto, regarding certain registration rights and
+              related matters (filed as Exhibit 10.9 to Registration
+              Statement number 33-55658 on Form S-1 and incorporated
+              herein by reference).
+
+10.10         Distribution Agreement, dated as of June 18, 1987,
+              between the Company and Micro D, Inc., a predecessor to
+              Ingram Micro, Inc. (filed as Exhibit 10.10 to
+              Registration Statement number 33-55658 on Form S-1 and
+              incorporated herein by reference).
+
+
+
+
+
+                                       19
+<PAGE>   20
+
+EXHIBIT NO.   DESCRIPTION
+
+10.11         Lease Between Riverfront Office Park Joint Venture and
+              MathSoft, Inc., dated as of August 17, 1993 (filed as
+              Exhibit 10.11 to Annual Report on Form 10-K for the
+              fiscal year ended June 30, 1993, file number 0-020992,
+              and incorporated herein by reference).
+
+10.12         Lease Agreement with the Bartell Drug Co. (Landlord),
+              dated as of June 22, 1990, together with Addendum Nos.
+              A, B, C & D of even date and as amended by Addendum No.
+              E dated December 9, 1992 (filed as Exhibit 10.12 to
+              Annual Report on Form 10-K for the fiscal year ended
+              June 30, 1993, file number 0-020992, and incorporated
+              herein by reference).
+
+10.13         Software License Agreement with American Telephone &
+              Telegraph Company, effective as of April 1, 1991, as
+              amended February 18, 1993 (filed as Exhibit 10.13 to
+              Annual Report on Form 10-K for the fiscal year ended
+              June 30, 1993, file number 0-020992, and incorporated
+              herein by reference).*
+
+10.14         Distributor Agreement with Mathematical Systems
+              Institute, Inc., dated August 24, 1990 (filed as Exhibit
+              10.14 to Annual Report on Form 10-K for the fiscal year
+              ended June 30, 1993, file number 0-020992, and
+              incorporated herein by reference).
+
+10.15         Distributorship Agreement dated as of March 1, 1994
+              between the Company and 766884 Ontario Inc., carrying on
+              business as Waterloo Maple Software (filed as Exhibit
+              10.15 to Quarterly Report on Form 10-Q for the fiscal
+              quarter ended March 31, 1994, file number 0-020992, and
+              incorporated herein by reference).*
+
+10.16         Perpetual Technology License dated as of March 1, 1994,
+              as amended by Addendum No. 1 thereto dated as of March
+              25, 1994, between the Company and 766884 Ontario Inc.,
+              carrying on business as Waterloo Maple Software (filed
+              as Exhibit 10.16 to Quarterly Report on Form 10-Q for
+              the fiscal quarter ended March 31, 1994, file number
+              0-020992, and incorporated herein by reference).*
+
+10.17         Line of Credit Agreement, dated January 11, 1996,
+              between the Company and Fleet Bank of Massachusetts
+              (filed as Exhibit 10.1 to Quarterly Report on Form 10-Q
+              for the fiscal quarter ended March 31, 1996, file number
+              0-020992, and incorporated herein by reference).
+
+10.18         Consulting Agreement dated March 26, 1996 between the
+              Company and Allen M. Razdow (filed as Exhibit 10.18 to
+              Annual Report on Form 10-K for the fiscal year ended
+              June 30, 1996, file number 0-020992, and incorporated
+              herein by reference).
+
+10.19         Software License Agreement, dated February 18, 1996,
+              between the Company and Lucent Technologies Inc. (filed
+              as Exhibit 10.1 to Quarterly Report on Form 10-Q for the
+              fiscal quarter ended December 31, 1996, file number
+              0-020992, and incorporated herein by reference).*
+
+10.20         Amendment to Software License Agreement, dated September 25, 1997,
+              between the Company and Lucent Technologies Inc.+
+
+11.1          Statement Regarding Computation of Per Share Earnings.
+
+13.01         1997 Annual Report to Stockholders.
+
+21.1          Subsidiaries of the Registrant.
+
+23.1          Consent of Arthur Andersen LLP.
+
+27.1          Financial Data Schedule.
+
+
+* Confidential treatment as to portions of the filed exhibit was previously
+  granted.
+
++ Confidential treatment requested as to certain portions.
+
+
+
+                                       20
+<PAGE>   21
+
+
+
+
+
+
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To MathSoft, Inc.:
+
+We have audited, in accordance with generally accepted auditing standards, the
+financial statements included in MathSoft, Inc. and subsidiaries' annual report
+to stockholders incorporated by reference in this Form 10-K, and have issued our
+report thereon dated August 1, 1997. Our audit was made for the purpose of
+forming an opinion on those statements taken as a whole. The schedule listed in
+Item 14(a)(2) of the index is the responsibility of the Company's management and
+is presented for purposes of complying with the Securities and Exchange
+Commission's rules and is not part of the basic financial statements. This
+schedule has been subjected to the auditing procedures applied in the audit of
+the basic financial statements and, in our opinion, fairly states, in all
+material respects, the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+
+                                                  /S/ ARTHUR ANDERSEN LLP
+
+
+
+
+Boston, Massachusetts
+August 1, 1997
+
+<PAGE>   22
+
+                                                                     SCHEDULE II
+
+
+                    MATHSOFT, INC. AND SUBSIDIARIES
+
+                   VALUATION AND QUALIFYING ACCOUNTS
+
+
+<TABLE>
+<CAPTION>
+                                                       BALANCE,       CHARGED TO    DEDUCTION       BALANCE,
+                                                    BEGINNING OF      COSTS AND                      END OF
+                                                       PERIOD         EXPENSES                       PERIOD
+
+<S>                                                  <C>              <C>            <C>           <C>       
+
+YEAR ENDED JUNE 30 1995:
+    Allowance for doubtful accounts                  $  892,781       $  108,206     $490,665      $  510,322
+    Allowance for sales returns                         300,106          519,091      282,555         536,642
+                                                     ----------       ----------     --------      ----------
+
+         Total reserve for accounts receivable       $1,192,887       $  627,297     $773,220      $1,046,964
+                                                     ==========       ==========     ========      ==========
+
+YEAR ENDED JUNE 30, 1996:
+    Allowance for doubtful accounts                  $  510,322       $   73,573     $207,161      $  376,734
+    Allowance for sales returns                         536,642          348,549      486,247         398,944
+                                                     ----------       ----------     --------      ----------
+
+         Total reserve for accounts receivable       $1,046,964       $  422,122     $693,408      $  775,678
+                                                     ==========       ==========     ========      ==========
+
+YEAR ENDED JUNE 30, 1997:
+    Allowance for doubtful accounts                  $  376,734       $   83,297     $ 49,206      $  410,825
+    Allowance for sales returns                         398,944        1,306,858      396,771       1,309,031
+                                                     ----------       ----------     --------      ----------
+
+         Total reserve for accounts receivable       $  775,678       $1,390,155     $445,977      $1,719,856
+                                                     ==========       ==========     ========      ==========
+
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.20
+<SEQUENCE>2
+<DESCRIPTION>AMENDMENT TO SOFTWARE LICENSE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+
+                                                                  EXHIBIT 10.20
+
+[ ] indicates material that has been omitted and for which confidential
+treatment has been requested. All such omitted material has been filed with the
+Commission pursuant to Rule 24b-2
+
+
+                                    AMENDMENT
+
+THIS AMENDMENT is between the following Parties: LUCENT TECHNOLOGIES INC., a
+Delaware corporation ("LUCENT"), having an office at 600 Mountain Avenue, Murray
+Hill, New Jersey 07974, and STATISTICAL SCIENCES, INC., a Massachusetts
+corporation ("LICENSEE"). Having an office at 1700 Westlake Avenue North, Suite
+500, Seattle, Washington 98107. This Amendment is effective upon the date the
+last of the Parties executes this Amendment.
+
+WHEREAS the Parties entered into a Software License Agreement ("Agreement")
+relating to LUCENT's S Software, and
+
+WHEREAS the Parties wish to amend the Agreement.
+
+THEREFORE, the Parties agree as follows:
+
+1.   The following new provisions are added:
+
+     3.02(i)   LUCENT agrees that LICENSEE may furnish CUSTOMER
+               SOFTWARE to a customer for operation in a time-sharing or service
+               bureau environment provided that such customer agrees to the
+               provisions of Section 3.01(a)(i)(2-8).
+
+     7.13      LUCENT Purchases
+
+               LUCENT may, at its discretion and from time to time, desire to
+               acquire CUSTOMER SOFTWARE. LICENSEE agrees that LUCENT may
+               acquire CUSTOMER SOFTWARE from LICENSEE at a price structure that
+               is at least as favorable as the price structure LICENSEE offers
+               to any of its other customers, including the United States
+               government, for such CUSTOMER SOFTWARE.
+
+2.   Appendix A (Definitions) is modified to add the following definition:
+
+     TYPE means a product, comprising CUSTOMER SOFTWARE, which is furnished by
+     LICENSEE and which is identified by a name, symbol and/or other device so
+     as to distinguish the product from other products furnished by LICENSEE.
+
+3.   The provisions of Section 4.02 are deleted in their entirety and are
+replaced with the following provisions:
+
+- ----------
+*Terms in capital letters shall have the meanings specified in the Definitions
+Appendix of the Agreement or as defined in this Amendment.
+
+<PAGE>   2
+
+                        Confidential Treatment Requested
+
+                                      -2-
+
+     The Parties agree that if LICENSEE fails to fulfill its obligations under
+     Section 4.01 that: (i) the agreement by LUCENT in Sections 2.01(a) and
+     3.01(c) not to grant licenses and rights to third parties, with respect to
+     the NEW SOFTWARE PRODUCT portion of SOFTWARE PRODUCT, is, at the sole
+     discretion of LUCENT, revocable any time on or after [
+                     ], but that all other rights, licenses and obligations
+     shall continue, and (ii) the yearly fee due pursuant to Section 5.01 and
+     specified in APPENDIX C - YEARLY FEE SCHEDULE (as amended below), shall be
+     changed to [                                                             
+         ] for the year [     ] and each year thereafter, and the sublicensing
+     fee due pursuant to Section 5.02 and specified in APPENDIX D - SUBLICENSING
+     FEE SCHEDULE, shall be reduced to [       ] for the years [    ] and
+     thereafter.
+
+4.   The provisions of Section 5.05(a) are amended as of the effective date of
+this Amendment as follows:
+
+     Within ninety (90) days after the end of each semiannual period ending on
+     June 30th or December 31st, commencing with the semiannual period ending
+     December 31, 1997, LICENSEE shall furnish to LUCENT a statement, in form
+     acceptable to LUCENT and certified by an authorized representative of
+     LICENSEE, identifying SUBLICENSING REVENUE and remitting fees due pursuant
+     to Section 5.02.
+
+     LICENSEE agrees to identify for each TYPE the SUBLICENSING REVENUE due to
+     LUCENT and to identify whether such SUBLICENSING REVENUE is reported
+     pursuant to Section (a), (b) or (c) of the definition of SUBLICENSING
+     REVENUE.
+
+     LICENSEE further agrees that such statement will include, for each TYPE:
+     (i) the number of copies and price of each TYPE that were furnished by
+     LICENSEE, its SUBSIDIARIES and DISTRIBUTORS to customers, (ii) the [ ] of
+     MAINTENANCE AGREEMENTS for each TYPE during such semiannual period.
+
+     In the case where a MAINTENANCE AGREEMENT covers more than one TYPE, the 
+     [                 ] of such a MAINTENANCE AGREEMENT shall be prorated among
+     the TYPES covered based upon the [                  ] of the TYPES covered.
+
+5.   The provisions of Section 6.01 are deleted and replaced with the following
+     provisions:
+
+     (a) Unless otherwise terminated, this Agreement shall be in effect for a
+     term commencing on February 18, 1996 and continuing for a six (6) year
+     period thereafter.
+
+<PAGE>   3
+
+                         Confidential Treatment Required
+
+                                      -3-
+
+     (b) If this Agreement is not otherwise terminated, at the end of such six
+     (6) year period, this Agreement will be automatically extended for an
+     additional five (5) year period unless LICENSEE notifies LUCENT more than
+     thirty (30) days prior to the expiration of such six (6) year period that
+     LICENSEE does not wish to extend this Agreement.
+
+     (c) Thereafter, this Agreement will be automatically extended for
+     subsequent five (5) year periods unless this Agreement is otherwise
+     terminated or unless LICENSEE notifies LUCENT more than thirty (30) days
+     prior to the expiration of this Agreement that LICENSEE does not wish to
+     extend this Agreement.
+
+6.   The provisions of Appendix C (Yearly Fee Schedule) of the Agreement are
+     deleted and replaced with the following provisions:
+
+      PAYMENT                       DUE DATE                      YEARLY FEE
+
+        [
+
+
+
+
+
+
+
+
+
+
+
+                                                                       ]
+
+
+
+<PAGE>   4
+
+                         Confidential Treatment Required
+
+                                      -4-
+
+
+7.   The provisions of Appendix D (Sublicensing Fee Schedule) of the Agreement
+     are deleted and replaced with the following provisions:
+
+YEAR (BEGINNING FEBRUARY 18)                             FEES
+
+          [ ]                               [ ] of SUBLICENSING REVENUE
+          [ ]                            [    ] of SUBLICENSING REVENUE
+          [ ]                               [ ] of SUBLICENSING REVENUE
+          [ ]                               [ ] of SUBLICENSING REVENUE
+          [ ]                               [ ] of SUBLICENSING REVENUE
+          [ ]                               [ ] of SUBLICENSING REVENUE
+    [            ]                          [ ] of SUBLICENSING REVENUE
+
+
+
+IN WITNESS WHEREOF, each of the Parties has caused this Amendment to be executed
+in duplicate originals by its duly authorized representatives on the respective
+dates entered below.
+
+LUCENT TECHNOLOGIES INC.
+
+
+    By: /s/ M.R. Greene
+       ---------------------------------------
+        M.R. Greene
+        Vice President - Intellectual Property
+
+    Date: 9/17/97
+         -------------------------------------
+
+STATISTICAL SCIENCES, INC.
+
+
+    By: /s/ Charles J. Digate
+       ---------------------------------------
+
+    Title: President and CEO
+          ------------------------------------
+
+    Date:    9/25/97
+         -------------------------------------
+
+            THIS AMENDMENT DOES NOT BIND OR OBLIGATE EITHER PARTY IN
+                 ANY MANNER UNLESS DULLY EXECUTED BY AUTHORIZED
+                        REPRESENTATIVES OF BOTH PARTIES
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>3
+<DESCRIPTION>STATEMENT RE: COMPUTATION OF PER SHARE EARNINGS
+<TEXT>
+
+<PAGE>   1
+
+                                                                    EXHIBIT 11.1
+
+
+
+
+
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                   SUPPLEMENTAL CALCULATION OF SHARES USED IN
+                     DETERMINING NET INCOME (LOSS) PER SHARE
+
+
+
+<TABLE>
+<CAPTION>
+                                                        FOR THE YEAR ENDED JUNE 30,
+                                                      1997          1996          1995
+
+<S>                                                <C>            <C>           <C>      
+WEIGHTED AVERAGE COMMON STOCK OUTSTANDING          8,841,170      8,247,036     7,169,593
+
+WEIGHTED AVERAGE COMMON STOCK EQUIVALENTS                 --      1,294,544            --
+                                                   ---------      ---------     ---------
+
+WEIGHTED NUMBER OF COMMON AND COMMON 
+EQUIVALENT SHARES OUTSTANDING                      8,841,170      9,541,580     7,169,593
+                                                   =========      =========     =========
+</TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.01
+<SEQUENCE>4
+<DESCRIPTION>1997 ANNUAL REPORT TO STOCKHOLDERS
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 13.01
+
+
+                          MARKET PRICE OF COMMON STOCK
+
+
+
+The Common Stock (Nasdaq: MATH) began trading publicly in the over-the-counter
+market through the Nasdaq National Market on February 3, 1993. Prior to that
+date, there was no public market for the Common Stock. On July 15, 1997, the
+Company transferred the listing of its Common Stock to the Nasdaq Small Cap
+Market. The following table presents quarterly information on the price range of
+the Common Stock. This information indicates the high and low bid prices for the
+Common Stock as reported by the Nasdaq National Market for the periods
+indicated. These prices do not include retail markups, markdowns or commissions.
+
+<TABLE>
+<CAPTION>
+
+
+                                                     HIGH              LOW
+                                                     ----              ---
+       <S>                                          <C>               <C>
+
+       FISCAL 1996:
+       First Quarter                                 6 7/8             4 5/8
+       Second Quarter                                6 7/8             4 7/8
+       Third Quarter                                 6 7/8             4 7/8
+       Fourth Quarter                                8 7/8             5 1/4
+
+       FISCAL 1997:
+       First Quarter                                 7 5/8             4 7/8
+       Second Quarter                                5 3/8             3 1/4
+       Third Quarter                                 5 1/8             2 3/4
+       Fourth Quarter                                3 5/8             2 3/16
+
+</TABLE>
+
+
+
+As of September 3, 1997, the approximate number of stockholders of record of
+Common Stock was approximately 214.
+
+The Company has never paid any cash dividends on its Common Stock and does not
+anticipate paying any cash dividends in the foreseeable future. The Company
+currently intends to retain future earnings to fund the development and growth
+of its business.
+
+
+
+
+<PAGE>   2
+FIVE YEAR SUMMARY OF SELECTED CONSOLIDATED FINANCIAL DATA
+
+
+<TABLE>
+<CAPTION>
+
+(in thousands, except per share data)                 1997           1996        1995          1994          1993(4)
+- -------------------------------------------------------------------------------------------------------------------
+
+<S>                                                  <C>           <C>          <C>           <C>           <C>    
+Total revenues                                       $17,678       $20,767      $15,883       $26,610       $25,649
+
+
+Gross profit                                          13,732        16,766       11,819        20,113        20,933
+
+Income (loss) from operations (1) (2) (3)             (4,394)          933       (3,635)       (7,296)       (6,330)
+
+Net income (loss)                                     (4,300)        1,076       (3,553)       (7,146)       (6,260)
+
+Net income (loss) per common and common
+  equivalent share in 1997, 1996, 1995 and 1994;
+  proforma net loss per common and common
+  equivalent share in 1993                             (0.49)         0.11        (0.50)        (1.02)        (1.10)
+
+Working capital                                          457         4,688          617         1,618        10,190
+
+Total assets                                           8,786        11,899        8,103        13,378        20,162
+
+Long-term obligations, less current portion              183             3           13            79           183
+
+Redeemable convertible preferred stock                    --            --           --            --            --
+
+Stockholders equity                                    2,168         6,759        2,624         5,800        12,611
+
+</TABLE>
+
+
+(1)  1995 amount includes a write-down of intangible assets of $1.662 million.
+     See Note 1(xx) of Notes to Consolidated Financial Statements.
+
+(2)  1994 amount includes a restructuring charge of $2.38 million. See Note 2 of
+     Notes to Consolidated Financial Statements.
+
+(3)  1993 amount reflects a charge to operations of $6.57 million for purchased
+     research and development related to the StatSci acquisition. See note 4
+     below.
+
+(4)  On June 30, 1993, the Company acquired substantially all of the assets and
+     business of a software company, Statistical Sciences, Inc., a Washington
+     corporation located in Seattle, Washington. The Company currently carries
+     on this business through its wholly-owned subsidiary, Statistical Sciences,
+     Inc., a Massachusetts corporation. The acquisition was accounted for as a
+     purchase. The selected consolidated financial data disclosed herein include
+     the effects of this purchase.
+
+
+<PAGE>   3
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                           AND RESULTS OF OPERATIONS.
+
+
+As an aid to understanding the Company's operating results, the table below
+indicates the percentage relationships of income and expense items included in
+the Consolidated Statements of Operations for the three years ended June 30,
+1997 and the percentage changes in those items for the two years ended June 30,
+1997.
+
+
+<TABLE>
+<CAPTION>
+
+                                         Percentage of Total Revenues              Percentage Change
+                                       ----------------------------------------------------------------
+                                          1997          1996         1995        1997-96        1996-95
+                                       ----------------------------------------------------------------  
+<S>                                       <C>           <C>          <C>           <C>            <C>  
+
+Revenues:
+  Software licenses                       85.9%         87.4%        86.6%        -16.4%          32.0%
+  Services and other                      14.1%         12.6%        13.4%         -4.3%          22.5%
+                                       ----------------------------------------------------------------  
+      Total revenues                     100.0%        100.0%       100.0%        -14.9%          30.7%
+
+
+Cost of Revenues:
+  Software licenses                       17.7%         14.7%        20.7%          2.0%          -6.8%
+  Services and other                       4.6%          4.5%         4.9%        -12.4%          20.7%
+                                       ----------------------------------------------------------------  
+     Total cost of revenues               22.3%         19.3%        25.6%         -1.4%          -1.6%
+
+     Gross profit                         77.7%         80.7%        74.4%        -18.1%          41.9%
+
+Operating Expenses:
+  Sales and marketing                     58.0%         46.8%        54.8%          5.5%          11.7%
+  Research and development                29.1%         17.6%        19.3%         40.5%          19.6%
+  General and administrative              15.5%         11.8%        12.8%         11.3%          20.9%
+  Write-down of intangible assets          0.0%          0.0%        10.5%            *              *
+                                       ----------------------------------------------------------------  
+
+     Total operating expenses            102.5%         76.2%        97.3%         14.5%           2.5%
+
+     Loss from operations                -24.9%          4.5%       -22.9%       -570.9%        -125.7%
+
+Interest income (expense), net             0.8%          0.9%         0.5%        -27.7%         134.1%
+                                       ----------------------------------------------------------------  
+
+Loss before provision
+  for income taxes                       -24.1%          5.4%       -22.4%       -478.2%        -131.7%
+
+Provision for income taxes                 0.3%          0.2%         0.0%         -9.7%             *
+                                       ----------------------------------------------------------------  
+
+Net loss                                 -24.4%          5.2%       -22.5%       -499.7%        -130.3%
+                                       ================================================================ 
+
+</TABLE>
+
+
+* Not meaningful.
+
+
+Fiscal 1997 Compared to Fiscal 1996
+
+     Total revenues decreased 14.9% from $20,767,000 in fiscal 1996 to
+     $17,678,000 in fiscal 1997. The decrease in total revenues was primarily
+     attributable to a worldwide decrease in both new license revenue and
+     upgrade revenue generated by the Company's core product, Mathcad for
+     Windows, and to a lesser extent, a decrease in sales of Electronic Books,
+     which work with Mathcad, and a decrease in S-PLUS product line and services
+     revenue. The decrease in total revenues was partially offset by revenue
+     generated by the release of Mathcad 6.0 for Macintosh in November 1996,
+     revenue generated by the StudyWorks! product line released in June 1996 and
+     revenue generated from the Axum product line acquired in the second quarter
+     of fiscal 1996.
+
+<PAGE>   4
+     Mathcad for Windows generated upgrade revenue of $4,287,000 in fiscal 1996
+     compared to upgrade revenue of $1,388,000 in fiscal 1997, a decrease as a
+     percentage of total revenues from 20.6% to 7.9%, respectively. Prior to the
+     release of Mathcad 7 for Windows in June 1997, the Company's last
+     significant upgrade, Mathcad 6.0 for Windows, was released approximately
+     twenty-three months earlier in fiscal 1995, and its upgrade cycle therefore
+     came to a close in fiscal 1997. Worldwide Mathcad for Windows non-upgrade
+     revenue decreased 13.8% from $7,377,000 in fiscal 1996 to $6,359,000 in
+     fiscal 1997 due primarily to the Company's distribution channel's
+     anticipation of the delivery of the next major release of Mathcad for
+     Windows, Mathcad 7 for Windows, and decreasing sell-through of the older
+     Mathcad 6.0 for Windows release. Worldwide S-PLUS product line and services
+     revenue decreased 8.7% from $5,904,000 in fiscal 1996 to $5,389,000 in
+     fiscal 1997, and increased as a percentage of total revenues from 28.4% to
+     30.5%, respectively. The decrease in S-PLUS product line and services
+     revenue was attributable to a reduction in license revenue, due to a
+     material shift from UNIX license sales to lower priced Windows license
+     sales, and to the discontinuance of unprofitable S-PLUS services revenue.
+     Moreover, the product line reached its fourth year of life without a major
+     new release resulting in sluggish new license sales prior to the delivery
+     of S-PLUS 4.0 in early fiscal 1998. Revenues attributable to the Axum
+     product line acquired in the TriMetrix, Inc. acquisition accounted for
+     $676,000, or 3.3% of total revenues, in fiscal 1996 compared to $1,023,000,
+     or 5.8% of total revenues, in fiscal 1997. Total international revenues
+     attributable to sales of all Company product lines decreased 10.9% from
+     $6,756,000 in fiscal 1996 to $6,018,000 in fiscal 1997, and increased as a
+     percentage of total revenues from 32.5% to 34.0%, respectively.
+
+     Total cost of revenues decreased 1.4% from $4,000,000 in fiscal 1996 to
+     $3,946,000 in fiscal 1997, and increased as a percentage of total revenues
+     from 19.3% to 22.3%, respectively. The increase in total cost of revenues
+     as a percentage of total revenues was primarily attributable to a reduction
+     of inventory reserves in fiscal 1996 based on an evaluation of actual
+     inventory exposure and reserve requirements. In contrast, the Company
+     increased inventory reserves in fiscal 1997 to adequately cover inventory
+     exposure in the sales distribution channel as the Company prepared to
+     release its next major upgrade of Mathcad, Mathcad 7 for Windows. In
+     addition, fixed licensing costs for the "S" language used in the S-PLUS 
+     product line increased in fiscal 1997 per terms of the license agreement 
+     and other fixed costs, such as the amortization of purchased technology, 
+     increased as a percentage of total revenues by approximately 1.51% due to 
+     an overall lower revenue base in fiscal 1997.
+
+
+
+<PAGE>   5
+     Sales and marketing expenses increased 5.5% from $9,719,000 in fiscal 1996
+     to $10,251,000 in fiscal 1997, and increased as a percentage of total
+     revenues from 46.8% to 58.0%, respectively. The increase in overall sales
+     and marketing expenses was attributable to marketing expenses incurred
+     related to the fiscal 1997 launch of the StudyWorks! product line, Mathcad
+     6.0 for Macintosh and, most recently, Mathcad 7 for Windows, as well as to
+     an increase in S-PLUS domestic sales expenses as the Company reorganized
+     its sales infrastructure to support direct sales into this expanding
+     product line. International sales and marketing expenses increased 3.8%
+     from $2,285,000 in fiscal 1996 to $2,372,000 in fiscal 1997.
+
+     Research and development expenses increased 40.6% from $3,659,000 in fiscal
+     1996 to $5,143,000 in fiscal 1997, and increased as a percentage of total
+     revenues from 17.6% to 29.1%. The increase in overall research and
+     development expenses was primarily attributable to increased personnel and
+     consulting costs associated with the continued expansion and development of
+     the S-PLUS product line, specifically related to the first release of
+     StatServer in April, 1997 and the impending release of S-PLUS 4.0 in early
+     fiscal 1998.
+
+     General and administrative expenses increased 11.3% from $2,455,000 in
+     fiscal 1996 to $2,732,000 in fiscal 1997 and increased as a percentage of
+     total revenues from 11.8% to 15.5%, respectively. The increase in overall
+     general and administrative expenses was primarily attributable to
+     fluctuations in international exchange rate transactions. The Company
+     recorded exchange rate losses of $12,000 in fiscal 1996 compared to
+     exchange rate losses of $257,000 in fiscal 1997.
+
+     Net loss for fiscal 1997 was $4,300,000 compared to net income of
+     $1,076,000 in fiscal 1996. Fiscal 1997 reflected a year of investment for
+     the Company as evidenced by its commitment to strategic development
+     initiatives, most notably in the Company's Data Analysis Products Division.
+     The release of new products with new product cycles will support renewed
+     growth in both the Mathcad and S-PLUS product lines.
+
+
+Fiscal 1996 Compared to Fiscal 1995
+
+     Total revenues increased 30.7% from $15,883,000 in fiscal 1995 to
+     $20,767,000 in fiscal 1996. The increase in total revenues was primarily
+     attributable to an increase in worldwide Mathcad product line licenses, an
+     increase in worldwide S-PLUS product line and services revenue and revenue
+     generated from the Axum product line acquired in the second quarter of
+     fiscal 1996. The release of Mathcad 6.0 in July 1995 supported a 129%
+     worldwide increase in Mathcad upgrade revenue from $1,873,000 in fiscal
+     1995 to $4,287,000 in fiscal 1996. Mathcad upgrade revenue also increased
+     as a percentage of total revenues from 11.8% in fiscal 1995 to 20.6% in
+     fiscal 1996. The Company's last significant upgrade, Mathcad 5.0, was
+     released approximately eighteen months earlier in fiscal 1994, and its
+     upgrade cycle therefore came to a close in fiscal 1995. Worldwide Mathcad
+     non-upgrade product line sales increased 18.3% from $6,236,000 in fiscal
+     1995 to $7,377,000 in fiscal 1996 and worldwide S-PLUS product line and
+     services revenue 
+
+
+
+<PAGE>   6
+
+     increased 10.9% from $5,324,000 in fiscal 1995 to $5,904,000 in fiscal
+     1996. The increase in worldwide non-upgrade Mathcad revenue was due
+     primarily to the Company's focus throughout fiscal 1996 on a generating new
+     license Mathcad sales by an increased penetration into the education market
+     and renewed growth in the commercial markets. Total international revenues
+     increased 17.7% from $5,739,000 in fiscal 1995 to $6,756,000 in fiscal
+     1996, and decreased as a percentage of total revenues from 36.1% to 32.5%,
+     respectively. The increase in total international revenues was due to
+     Mathcad upgrade revenues generated by the release of Mathcad 6.0, in
+     addition to global distribution expansion efforts in both the commercial
+     and education markets. Revenues attributable to the Axum product line
+     acquired in the TriMetrix, Inc. acquisition accounted for $676,000, or 3.3%
+     of total revenues, in fiscal 1996. Gains and losses from foreign currency
+     transactions in fiscal 1996 were not significant.
+
+     Total cost of revenues decreased 1.6 % from $4,064,000 in fiscal 1995 to
+     $4,000,000 in fiscal 1996, and decreased as a percentage of total revenues
+     from 25.6% to 19.3%, respectively. The decrease in total cost of revenues
+     as a percentage of total revenues was primarily attributable to the
+     allocation of fixed costs, such as royalties and the amortization of
+     purchased technology, over a higher revenue base for the year. In addition,
+     amortization of product development costs accounted for $489,000 of total
+     cost of revenues, or 3.1% of total revenues, in fiscal 1995. There was no
+     amortization of product development costs in fiscal 1996 as amounts were
+     fully amortized.
+
+     Sales and marketing expenses increased 11.7% from $8,703,000 in fiscal 1995
+     to $9,719,000 in fiscal 1996, and decreased as a percentage of total
+     revenues from 54.8% to 46.8%, respectively. The increase in overall sales
+     and marketing expenses was primarily attributable to more aggressive
+     advertising and channel promotional activities and additional headcount and
+     related costs in both the domestic sales and marketing functions. These
+     increases were partially offset by a reduction in direct mail marketing
+     activities to prospective customers. International marketing expenses
+     decreased from $2,168,000 in fiscal 1995 to $1,661,000 in fiscal 1996 due
+     primarily to a discontinuance of direct mail marketing activity to
+     prospective customers and reduced installed base direct mail marketing
+     activity.
+
+     Research and development expenses increased 19.6% from $3,059,000 in fiscal
+     1995 to $3,659,000 in fiscal 1996, and decreased as a percentage of total
+     revenues from 19.2% to 17.6%. The increase in overall research and
+     development expenses was primarily due to the addition of personnel from
+     the TriMetrix, Inc. acquisition as well as expenses incurred related to
+     product localization for international markets and S-PLUS development
+     efforts.
+
+     General and administrative expenses increased 20.9% from $2,030,000 in
+     fiscal 1995 to $2,455,000 in fiscal 1996 and decreased as a percentage of
+     total revenues from 12.8% to 11.8%, respectively. The increase in overall
+     general and administrative expenses was primarily attributable to costs
+     incurred to attract and retain key management personnel in both the
+     Company's Cambridge headquarters and Seattle operation including the
+     addition of a new General Manager for the Company's Data Analysis Products
+     Division in the third quarter of fiscal 1996.
+
+     Net income for fiscal 1996 was $1,076,000 compared to a net loss of
+     $1,891,000 in fiscal 1995, excluding the $1,662,000 non-cash charge for the
+     revaluation of certain intangible assets. The release of Mathcad 6.0 in
+     July 1995 and expansion of global distribution channels supported worldwide
+     growth in both the Mathcad and S-PLUS product lines. In addition, the
+     Company's renewed commitment to the education market in fiscal 1996
+     resulted in increased penetration for both existing product lines and new
+     product lines, such as StudyWorks released in June 1996.
+
+
+<PAGE>   7
+
+Liquidity and Capital Resources
+
+     Cash and cash equivalents totaling $2,802,000 at June 30, 1997, decreased
+     $2,152,000 during fiscal 1997 from 4,954,000 at June 30, 1996. The negative
+     cash flow resulted primarily from cash used in operating activities and
+     purchases of property and equipment, offset by proceeds generated from
+     capital lease equipment financing and the exercise of stock options.
+
+     The Company used $2,038,000 in operating activities in fiscal 1997 compared
+     to cash used in operations of $1,296,000 in fiscal 1996, an increase of
+     $742,000. The use of cash in operating activities was primarily
+     attributable to a net loss of approximately $4,300,000 and, to a lesser
+     extent, to an increase in prepaid expenses and a decrease in accrued
+     expenses. Prepaid expenses increased proportionally with increases in
+     licensing royalties payable for the "S" language used in the S-PLUS product
+     line and increases in Directors and Officers insurance coverage purchased
+     by the Company in fiscal 1997, the expenses of which are recognized ratably
+     over the period covered by the related agreements. Accrued expenses
+     decreased from fiscal 1996 levels due to the settlement of liabilities
+     associated with the acquisition of acroScience Corporation. These uses of
+     cash were partially offset by non-cash depreciation and amortization
+     charges, decreases in accounts receivable and inventory costs and increases
+     in accounts payable. Accounts receivable decreased due to an overall
+     decline in Mathcad product sold into the Company's distribution channel and
+     timing of new product releases, such as StudyWorks! in late June 1996,
+     which accelerated both receivables and inventory levels in fiscal 1996
+     relative to fiscal 1997. Inventory levels in the Company's Data Analysis
+     Products Division also decreased throughout fiscal 1997 as the Company
+     minimized stocking levels of S-PLUS in anticipation of the release of
+     S-PLUS 4.0 in the first quarter of fiscal 1998. Accounts payable increased
+     due to timing of liabilities and management's cash planning and forecasting
+     efforts. During fiscal 1997, the Company purchased $780,000 of property and
+     equipment, compared to $1,059,000 in fiscal 1996. Proceeds generated from
+     capital lease equipment financing totaled $565,000 in fiscal 1997. The
+     Company did not enter into any capital lease equipment financing
+     transactions in fiscal 1996. In addition, proceeds from the exercise of
+     stock options and warrants totaled approximately $377,000 in fiscal 1997
+     compared to $587,000 in fiscal 1996.
+
+     The Company's financial reserves are represented by cash and cash
+     equivalents as of June 30, 1997. The Company has a line of credit agreement
+     with a commercial bank. Borrowings under the line are limited to the lesser
+     of 65% of eligible domestic accounts or $500,000 to $1,000,000 based on
+     certain profitability covenants. Borrowings are secured by a first security
+     interest on substantially all of the Company's assets and bear interest at
+     the bank's prime rate plus 1%. The line of credit contains certain
+     restrictive covenants, including minimum amounts of profitability, equity,
+     leverage and liquidity, all as defined in the agreement, and expires on
+     December 31,1998. There were no amounts outstanding under this line at June
+     30, 1997.
+
+     The Company believes its financial reserves and cash flows from future
+     operations will be sufficient to meet its liquidity requirements for at
+     least the next twelve months. The foregoing statement is forward-looking
+     and involves risks and uncertainties, many of which are outside the
+     Company's control. The Company's actual experience may differ materially
+
+
+<PAGE>   8
+
+     from that discussed above. Factors that might cause such a difference
+     include, but are not limited to, those discussed in "Cautionary Statements"
+     of the Company's Form 10-K for the fiscal year ended June 30, 1997 as well
+     as future events that have the effect of reducing the Company's available
+     cash balances, such as unanticipated operating losses or capital
+     expenditures or cash expenditures related to possible future acquisitions.
+     The Company may be presented from time to time with acquisition
+     opportunities which require additional external financing, and the Company
+     may from time to time seek to obtain additional funds from public or
+     private issuances of equity or debt securities. There can be no assurance
+     that any such financing will be available at all or on terms favorable to
+     the Company.
+
+     In addition to the other information in this report, the cautionary
+     statements discussed in the Company's Form 10-K for the fiscal year ended
+     June 30, 1997 should be considered carefully in evaluating the Company and
+     its business. Information provided by the Company from time to time may
+     contain certain "forward-looking" information, as that term is defined by
+     (i) the Private Securities Litigation Reform Act of 1995 (the "Act") and
+     (ii) in releases made by the Securities and Exchange Commission (the
+     "SEC"). These cautionary statements are being made pursuant to the
+     provisions of the Act and with the intention of obtaining the benefits of
+     the "safe harbor" provisions of the Act.
+
+
+
+
+<PAGE>   9
+
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To MathSoft, Inc.:
+
+We have audited the accompanying consolidated balance sheets of MathSoft, Inc.
+(a Massachusetts corporation) and subsidiaries as of June 30, 1997 and 1996, and
+the related consolidated statements of operations, stockholders' equity and cash
+flows for each of the three years in the period ended June 30, 1997. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of MathSoft, Inc. and subsidiaries
+as of June 30, 1997 and 1996, and the results of their operations and their cash
+flows for each of the three years in the period ended June 30, 1997, in
+conformity with generally accepted accounting principles.
+
+
+
+                                                   /s/ ARTHUR ANDERSEN LLP
+
+
+
+
+Boston, Massachusetts
+August  1, 1997
+
+
+
+<PAGE>   10
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+
+
+
+<TABLE>
+<CAPTION>
+                                     ASSETS
+                                                                          JUNE 30,
+                                                                 --------------------------
+                                                                     1997          1996
+<S>                                                              <C>            <C>        
+
+CURRENT ASSETS:
+    Cash and cash equivalents                                    $2,802,389     $ 4,954,416
+    Accounts and other receivables, less reserves 
+       of approximately $1,720,000 and $776,000 at 
+       June 30, 1997 and 1996, respectively                       3,237,812       3,881,568
+    Inventories                                                     343,785         547,892
+    Prepaid expenses                                                475,525         381,638
+                                                                 ----------     -----------
+
+               Total current assets                               6,859,511       9,765,514
+                                                                 ----------     -----------
+
+PROPERTY AND EQUIPMENT, AT COST:
+    Computer equipment and software                               4,396,927       4,052,662
+    Property and equipment under capital lease                      427,898              --
+    Furniture and fixtures                                          989,520         968,644
+    Leasehold improvements                                          626,889         621,354
+                                                                 ----------     -----------
+                                                                  6,441,234       5,642,660
+
+    Less--Accumulated depreciation and amortization               4,888,216       4,044,072
+                                                                 ----------     -----------
+                                                                  1,553,018       1,598,588
+                                                                 ----------     -----------
+OTHER ASSETS:
+    Purchased technology, net of accumulated 
+       amortization of approximately $2,722,000 and 
+       $2,505,000 at June 30, 1997 and 1996,                        
+       respectively                                                 287,253         504,006 
+    Other assets                                                     86,661          31,044
+                                                                 ----------     -----------
+                                                                    373,914         535,050
+                                                                 ----------     -----------
+
+                                                                 $8,786,443     $11,899,152
+                                                                 ==========     ===========
+</TABLE>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+
+<PAGE>   11
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+
+                                   (Continued)
+<TABLE>
+<CAPTION>
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+                                                                          JUNE 30,
+                                                              -----------------------------
+                                                                   1997            1996
+<S>                                                           <C>              <C>         
+
+CURRENT LIABILITIES:
+    Current portion of capital lease obligations              $    319,690     $     16,753
+    Accounts payable                                             2,036,745        1,699,414
+    Accrued expenses                                             2,592,532        2,255,214
+    Accrued restructuring, current portion                          10,539           13,316
+    Deferred revenue                                             1,443,244        1,092,541
+                                                              ------------     ------------
+
+          Total current liabilities                              6,402,750        5,077,238
+                                                              ------------     ------------
+
+ACCRUED RESTRUCTURING, LESS CURRENT PORTION                         13,613           24,152
+                                                              ------------     ------------
+
+CAPITAL LEASE OBLIGATIONS, LESS CURRENT PORTION                    182,619            2,694
+                                                              ------------     ------------
+
+ACCRUED RENT, LESS CURRENT PORTION                                  19,335           36,372
+                                                              ------------     ------------
+
+COMMITMENTS (Note 4)
+
+STOCKHOLDERS' EQUITY:
+    Preferred stock, $.01 par value-
+        Authorized--1,000,000 shares
+        Issued and outstanding--none                                    --               --
+    Common stock, $.01 par value-
+        Authorized--20,000,000 shares
+        Issued and outstanding--9,006,376 shares and 
+          8,579,262 shares at June 30, 1997 and 1996, 
+          respectively                                              90,064           85,793
+    Additional paid-in capital                                  29,161,835       28,158,558
+    Accumulated deficit                                        (26,992,109)     (21,474,509)
+    Cumulative translation adjustment                              (91,664)         (11,146)
+                                                              ------------     ------------
+
+          Total stockholders' equity                             2,168,126        6,758,696
+                                                              ------------     ------------
+
+                                                              $  8,786,443     $ 11,899,152
+                                                              ============     ============
+</TABLE>
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+
+<PAGE>   12
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+
+<TABLE>
+<CAPTION>
+                                                              YEARS ENDED JUNE 30,
+                                                 ------------------------------------------- 
+                                                     1997            1996           1995
+
+<S>                                              <C>             <C>             <C>        
+
+REVENUES:
+    Software licenses                            $15,179,191     $18,155,650     $13,751,456
+    Services and other                             2,498,536       2,611,048       2,131,770
+                                                 -----------     -----------     -----------
+
+        Total revenues                            17,677,727      20,766,698      15,883,226
+                                                 -----------     -----------     -----------
+
+COST OF REVENUES:
+    Software licenses                              3,124,158       3,061,762       3,286,577
+    Services and other                               821,781         938,596         777,664
+                                                 -----------     -----------     -----------
+
+        Total cost of revenues                     3,945,939       4,000,358       4,064,241
+                                                 -----------     -----------     -----------
+
+        Gross profit                              13,731,788      16,766,340      11,818,985
+                                                 -----------     -----------     -----------
+
+OPERATING EXPENSES:
+    Sales and marketing                           10,251,376       9,719,346       8,703,130
+    Research and development                       5,142,751       3,659,171       3,058,788
+    General and administrative                     2,731,858       2,454,838       2,030,296
+    Write-down of intangible assets                       --              --       1,662,000
+                                                 -----------     -----------     -----------
+
+        Total operating expenses                  18,125,985      15,833,355      15,454,214
+                                                 -----------     -----------     -----------
+
+        Income (loss) from operations             (4,394,197)        932,985      (3,635,229)
+
+INTEREST INCOME                                      153,111         199,049         108,372
+
+INTEREST EXPENSE                                     (14,440)         (7,196)        (26,427)
+                                                 -----------     -----------     -----------
+
+        Income (loss) before provision 
+          for income taxes                        (4,255,526)      1,124,838      (3,553,284)
+
+PROVISION FOR INCOME TAXES                            44,452          49,000              --
+                                                 -----------     -----------     -----------
+
+        Net income (loss)                        $(4,299,978)    $ 1,075,838     $(3,553,284)
+                                                 ===========     ===========     ===========
+
+NET INCOME (LOSS) PER COMMON AND 
+  COMMON EQUIVALENT SHARE                        $      (.49)    $       .11     $      (.50)
+                                                 ===========     ===========     ===========
+
+WEIGHTED AVERAGE NUMBER OF COMMON AND 
+  COMMON EQUIVALENT SHARES OUTSTANDING             8,841,170       9,541,580       7,169,593
+                                                 ===========     ===========     ===========
+
+</TABLE>
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+
+
+
+
+<PAGE>   13
+
+
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+
+                                                                               
+                                                                                             
+                                                                COMMON STOCK    ADDITIONAL   ACCUMULATED  CUMULATIVE       TOTAL  
+                                                          NUMBER OF   $.01 PAR   PAID-IN       DEFICIT    TRANSLATION  STOCKHOLDERS'
+                                                           SHARES       VALUE    CAPITAL                  ADJUSTMENT      EQUITY
+                                                                                                          
+<S>                                                       <C>         <C>      <C>          <C>            <C>         <C>        
+BALANCE, JUNE 30, 1994                                    7,091,389   $70,914  $24,217,450  $(18,510,247)  $ 21,787    $ 5,799,904
+ Exercise of stock options, warrants and Employee Stock                                                   
+  Purchase Plan                                             181,759     1,817      210,832            --         --        212,649
+ Compensation associated with issuance of stock options          --        --      150,000            --         --        150,000
+ Net loss                                                        --        --           --    (3,553,284)        --     (3,553,284)
+ Translation adjustment                                          --        --           --            --     14,332         14,332
+                                                          ---------   -------  -----------  ------------   --------    -----------
+                                                                                                          
+BALANCE, JUNE 30, 1995                                    7,273,148    72,731   24,578,282   (22,063,531)    36,119      2,623,601
+ Acquisition of TriMetrix, Inc.                             219,997     2,200       63,700      (486,816)        --       (420,916)
+ Sale of common stock                                       750,000     7,500    2,932,963            --         --      2,940,463
+ Exercise of stock options, warrants and Employee Stock                                                   
+  Purchase Plan                                             336,117     3,362      583,613            --         --        586,975
+ Net income                                                      --        --           --     1,075,838         --      1,075,838
+ Translation adjustment                                          --        --           --            --    (47,265)       (47,265)
+                                                          ---------   -------  -----------  ------------   --------    -----------
+                                                                                                          
+BALANCE, JUNE 30, 1996                                    8,579,262    85,793   28,158,558   (21,474,509)   (11,146)     6,758,696
+ Acquisition of acroScience Corporation                     250,000     2,500      618,500    (1,217,622)        --       (596,622)
+ Exercise of stock options and Employee Stock Purchase                                                    
+  Plan                                                      177,114     1,771      374,777            --         --        376,548
+ Compensation associated with issuance of stock options          --        --       10,000            --         --         10,000
+ Net loss                                                        --        --           --    (4,299,978)        --     (4,299,978)
+ Translation adjustment                                          --        --           --            --    (80,518)       (80,518)
+                                                          ---------   -------  -----------  ------------   --------    -----------
+                                                                                                          
+BALANCE, JUNE 30, 1997                                    9,006,376   $90,064  $29,161,835  $(26,992,109)  $(91,664)   $ 2,168,126
+                                                          =========   =======  ===========  ============   ========    ===========
+                                                                                                         
+</TABLE>
+
+                                                                             
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+
+
+<PAGE>   14
+
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                                        YEARS ENDED JUNE 30,
+                                                                         -----------------------------------------------
+                                                                              1997             1996              1995
+CASH FLOWS FROM OPERATING ACTIVITIES:
+<S>                                                                      <C>               <C>               <C>         
+ Net income (loss)                                                       $(4,299,978)      $ 1,075,838       $(3,553,284)
+ Adjustments to reconcile net income (loss) to net cash provided by
+ (used in) operating activities, net of acquisitions-
+   Depreciation and amortization                                           1,063,503         1,043,052         1,624,761
+   Compensation associated with issuance of options                           10,000                --           150,000
+   Write-down of intangible assets                                                --                --         1,662,000
+   Changes in assets and liabilities-
+    Accounts and other receivables                                           643,756        (2,301,420)        1,790,517
+    Inventories                                                              210,946          (247,446)          500,760
+    Prepaid expenses                                                         (93,886)         (172,936)          711,831
+    Accounts payable                                                         329,822           136,252          (260,135)
+    Accrued expenses                                                        (252,499)         (754,768)       (2,043,772)
+    Deferred revenue                                                         350,702           (74,285)          161,112
+                                                                         -----------       -----------       -----------
+
+      Net cash provided by (used in) operating activities                 (2,037,634)       (1,295,713)          743,790
+                                                                         -----------       -----------       -----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Decrease in short-term investments                                               --           448,618           629,888
+ Purchases of property and equipment                                        (780,171)       (1,059,263)         (285,572)
+ Decrease (increase) in other assets                                         (56,374)           15,688            17,355
+ Cash acquired from the acroScience and TriMetrix acquisitions                 9,691            27,849                --
+                                                                         -----------       -----------       -----------
+
+      Net cash provided by (used in) investing activities                   (826,854)         (567,108)          361,671
+                                                                         -----------       -----------       -----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Payments on long-term debt                                                  (16,000)          (73,188)          (94,066)
+ Payments on capital lease obligations                                      (132,975)          (76,077)         (161,698)
+ Borrowings on capital lease obligations                                     565,406                --                --
+ Proceeds from exercise of stock options, warrants and Employee
+  Stock Purchase Plan                                                        376,548           586,975           212,649
+ Net proceeds from sale of common stock                                           --         2,940,463                --
+                                                                         -----------       -----------       -----------
+
+      Net cash provided by (used in) financing activities                    792,979         3,378,173           (43,115)
+                                                                         -----------       -----------       -----------
+
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS                 (80,518)          (47,265)           14,332
+                                                                         -----------       -----------       -----------
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                       2,152,027)        1,468,087         1,076,678
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR                               4,954,416         3,486,329         2,409,651
+                                                                         -----------       -----------       -----------
+
+CASH AND CASH EQUIVALENTS, END OF YEAR                                   $ 2,802,389       $ 4,954,416       $ 3,486,329
+                                                                         ===========       ===========       ===========
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+ Cash paid during the year for-
+   Interest                                                              $    14,439       $     5,519       $    26,426
+                                                                         ===========       ===========       ===========
+   Income taxes                                                          $     7,530       $    49,220       $    34,069
+                                                                         ===========       ===========       ===========
+
+</TABLE>
+
+
+
+
+SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING ACTIVITIES: The
+ Company financed $63,333 of equipment through long-term debt and capital leases
+ in fiscal 1997.
+
+ In November 1995, the Company acquired 100% of the outstanding stock of
+ TriMetrix, Inc. in exchange for 219,997 shares of common stock of the Company.
+ This acquisition was accounted for as a pooling of interests.
+
+ In November 1996, the Company acquired 100% of the outstanding stock of
+ acroScience Corporation in exchange for 250,000 shares of common stock of the
+ Company. This acquisition was accounted for as a pooling of interests.
+
+
+  The accompanying notes are an integral part of these consolidated financial
+  statements.
+
+
+<PAGE>   15
+
+
+
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+
+(1)  OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+
+     MathSoft, Inc. (MathSoft) was incorporated on October 12, 1984. MathSoft
+     develops, markets and supports software productivity tools for the
+     technical calculation and data analysis markets comprised of professionals,
+     students and educators (see Note 10).
+
+     The accompanying consolidated financial statements reflect the application
+     of certain accounting policies as described in this note and elsewhere in
+     the consolidated financial statements and notes.
+
+     (a)  Basis of Presentation
+
+          The accompanying consolidated financial statements comprise those of
+          MathSoft and its wholly owned subsidiaries Statistical Sciences, Inc.
+          (StatSci), TriMetrix, Inc. and acroScience Corporation (collectively
+          referred to as the Company). All material intercompany accounts and
+          transactions have been eliminated.
+
+     (b)  Revenue Recognition
+
+          The Company derives substantially all of its revenue from technical
+          calculation and data analysis software products for use on desktop
+          computers. Revenue from the licensing of software products is
+          recognized when the products are shipped, as there are no significant
+          post-delivery obligations, and the Company provides for estimated
+          returns and warranty costs at the time of sale. The Company offers
+          maintenance contracts and training on its data analysis software
+          products. Maintenance and training revenues are recognized ratably
+          over the term of the related contracts. Amounts received in advance
+          for maintenance agreements are recorded as deferred revenue on the
+          accompanying consolidated balance sheets.
+
+     (c)  Cash and Cash Equivalents
+
+          Cash and cash equivalents are stated at cost, which approximates
+          market, and consist of short-term, highly liquid investments with
+          original maturities of less than three months.
+
+     (d)  Inventories
+
+          Inventories are stated at the lower of cost (first-in, first-out) or
+          market and consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                  JUNE 30,
+                                           ----------------------
+                                             1997          1996
+          <S>                              <C>           <C>         
+          Materials and supplies           $ 41,648      $162,627
+          Finished goods                    302,137       385,265
+                                           --------      --------
+                                           $343,785      $547,892
+                                           ========      ========
+</TABLE>   
+
+<PAGE>   16
+
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+     (e)  Depreciation and Amortization
+
+          The Company provides for depreciation and amortization by charges to
+          operations on a straight-line basis, in amounts estimated to recover
+          the cost of the assets over their estimated useful lives as follows:
+<TABLE>
+<CAPTION>
+
+                             ASSET CLASSIFICATION              USEFUL LIVES 
+
+                       <S>                                    <C>    
+                       Computer equipment and software           3 years
+                       Furniture and fixtures                   3-5 years
+                       Leasehold improvements                 Life of lease
+</TABLE>
+
+          Property and equipment under capital leases are amortized over the
+          shorter of the estimated useful life of three to five years or the
+          term of the lease.
+
+     (f)  Product Development Costs
+
+          The Company capitalizes product development costs subsequent to the
+          establishment of technological and commercial feasibility, until the
+          product is available for general release. Costs incurred prior to the
+          establishment of technological feasibility are charged to research and
+          development expense. Development costs associated with product
+          enhancements that extend the original product's life or significantly
+          improve the original product's marketability are also capitalized upon
+          technological feasibility. Amortization of product development costs
+          begins the month after the general release over the shorter of the
+          estimated useful life of the product or fifteen months.
+
+          No costs were capitalized for the years ended June 30, 1997 or 1996,
+          as costs incurred from technological feasibility to general release
+          were immaterial. Amortization of product development costs of $488,964
+          for the year ended June 30, 1995, has been included in cost of
+          revenues in the accompanying consolidated statements of operations.
+
+     (g)  Net Income (Loss) per Common and Common Equivalent Share
+
+          For the years ended June 30, 1997 and 1995, net loss per share was
+          computed using the weighted average number of shares of common stock
+          outstanding during the respective years. Common stock equivalents have
+          not been included, as their effect would have been antidilutive.
+
+
+
+<PAGE>   17
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+          For the year ended June 30, 1996, net income per common and common
+          equivalent share is based on the weighted average number of shares of
+          common stock and common stock equivalents outstanding during the year,
+          computed in accordance with the treasury stock method. Fully diluted
+          earnings per share have not been presented, as the amounts would not
+          differ significantly from primary earnings per share.
+
+     (h)  Postretirement Benefits
+
+          The Company has no obligations for postretirement benefits.
+
+     (i)  Foreign Currency Translation
+
+          Assets and liabilities of the Company's foreign branch are translated
+          to U.S. dollars using the exchange rate at each balance sheet date.
+          Income and expense accounts are translated using an average rate of
+          exchange during the period. Foreign currency translation adjustments
+          are accumulated as a separate component of stockholders' equity. The
+          effect of aggregate transaction gains and losses were approximately
+          $(257,000), $(12,000) and $38,000 in 1997, 1996 and 1995,
+          respectively.
+
+     (j)  Other Assets
+
+          In fiscal 1997, the Company implemented Statement of Financial
+          Accounts Standards (SFAS) No. 121, Accounting for Impairment of
+          Long-Lived Assets and for Long-Lived Assets To Be Disposed Of. This
+          standard establishes accounting standards for long-lived assets and
+          certain identifiable intangibles to be disposed of. The effect of
+          adopting SFAS No 121 was immaterial.
+
+     (k)  Concentration of Credit Risk
+
+          SFAS No. 105, Disclosure of Information About Financial Instruments
+          with Off-Balance-Sheet Risk and Financial Instruments with
+          Concentrations of Credit Risk, requires disclosure of any significant
+          off-balance-sheet and credit risk concentrations. The Company's
+          financial instruments that subject the Company to credit risk consist
+          primarily of cash and cash equivalents and accounts receivable. The
+          Company maintains the majority of its cash balances with one financial
+          institution. The Company's accounts receivable are not concentrated
+          within a specific geographic area; however, one single customer
+          represents a credit risk to the Company (see Note 8).
+
+
+
+
+<PAGE>   18
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+     (l)  New Accounting Standards
+
+          In March 1997, the Financial Accounting Standards Board (FASB) issued
+          SFAS No. 128, Earnings per Share. SFAS No. 128 establishes standards
+          for computing and presenting earnings per share and applies to
+          entities with publicly held common stock or potential common stock.
+          This statement is effective for fiscal years ending after December 15,
+          1997 and early adoption is not permitted. When adopted, the statement
+          will require restatement of prior years' reported per share amounts.
+          The Company will adopt this statement for its fiscal year ending June
+          30, 1998 and does not believe that the effect of the adoption of this
+          standard would be materially different from the amounts presented in
+          the accompanying consolidated statements of income.
+
+          In July 1997, the FASB issued SFAS No. 130, Reporting Comprehensive
+          Income. SFAS No. 130 establishes standards for reporting and display
+          of comprehensive income and its components in a full set of general
+          purpose financial statements, in order to measure all changes in
+          equity of an enterprise that result from transactions and other
+          economic events of the period other than transactions with owners.
+          Comprehensive income, as defined by SFAS No. 130, is the total of net
+          income and all other nonowner changes in equity. Under SFAS No. 130,
+          companies would include the cumulative total of comprehensive income
+          as a separate component of its stockholders' equity statement. This
+          statement is effective for fiscal years beginning after December 15,
+          1997, and is applicable on both an interim and annual basis.
+
+          In July 1997, the FASB issued SFAS No. 131, Disclosures About Segments
+          of an Enterprise and Related Information. SFAS No. 131 requires
+          certain financial and supplementary information to be disclosed on an
+          annual and interim basis for each reportable segment of an enterprise.
+          Reportable segments, as defined by this statement, correspond to the
+          way management organizes units and evaluates performance internally,
+          and may be based upon products, geography, legal entity, management
+          structure or a combination of these methods. SFAS No. 131 is
+          applicable only to public, for-profit entities and is effective for
+          fiscal years beginning after December 15, 1997. Unless impracticable,
+          companies would be required to restate prior period information upon
+          adoption.
+
+     (m)  Use of Estimates
+
+          The preparation of these consolidated financial statements in
+          conformity with generally accepted accounting principles requires
+          management to make estimates and assumptions that affect the reported
+          amounts of assets and liabilities and disclosure of contingent assets
+          and liabilities at the date of the financial statements and the
+          reported amounts of revenues and expenses during the reported period.
+          Actual results could differ from those estimates.
+
+
+
+<PAGE>   19
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+     (n)  Financial Instruments
+
+          SFAS No. 107, Disclosures About Fair Value of Financial Instruments,
+          requires disclosure about fair value of financial instruments
+          consisting of cash, accounts receivable and capital leases. The
+          estimated fair value of these financial instruments approximates their
+          carrying value.
+
+(2)  INCOME TAXES
+
+     At June 30, 1997, the Company had available net operating loss
+     carryforwards of approximately $13,889,000 and tax credit carryforwards of
+     approximately $576,000. The net operating loss and tax credit carryforwards
+     may be used to offset future federal taxable income and federal income
+     taxes, respectively, through the fiscal year ending June 30, 2012. The
+     Internal Revenue Code contains provisions that limit the net operating loss
+     and credit carryforwards available to be used in any given year upon the
+     occurrence of certain events, including significant changes in ownership
+     interests.
+
+     The Company accounts for income taxes in accordance with SFAS No. 109,
+     Accounting for Income Taxes. Under this method, deferred tax assets and
+     liabilities are determined based on the difference between the financial
+     statement and tax bases of assets and liabilities using currently enacted
+     tax rates.
+
+     The provisions for income taxes for the years ended June 30, 1997 and 1996
+     consist of the following:
+
+<TABLE>
+<CAPTION>
+
+
+
+                                                 JUNE 30,
+                                            1997          1996
+               <S>                        <C>          <C>      
+               Current tax expense-
+                   Federal                $  --        $ 340,000
+                   State                     --           63,000
+                   Foreign                 44,452         49,000
+
+               Deferred tax expense-
+                   Federal                   --         (340,000)
+                   State                     --          (63,000)
+                   Foreign                   --             --
+                                          -------      ---------
+
+                                          $44,452      $  49,000
+                                          =======      =========
+</TABLE>
+
+     The income tax provision is due to international income taxes.
+
+
+
+
+<PAGE>   20
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+The significant components of the deferred tax assets and liabilities at June
+30, 1997 and 1996 are as follows:
+<TABLE>
+<CAPTION>
+
+                                                      JUNE 30,
+                                               1997              1996
+
+      <S>                                  <C>               <C>        
+      Net operating loss carryforward      $ 4,722,000       $ 3,667,000
+      Research and development credit
+       carryforwards                           576,000           552,000
+      Temporary differences                 (1,308,000)         (159,000)
+                                           -----------       -----------
+                                             3,990,000         4,060,000
+
+      Valuation allowance                   (3,990,000)       (4,060,000)
+                                           -----------       -----------
+
+         Net deferred tax asset            $      --         $      --
+                                           ===========       ===========
+</TABLE>
+
+Due to the uncertainty surrounding the realization of its deferred tax assets,
+the Company has recorded a full valuation allowance against its deferred tax
+assets.
+
+The components of domestic and foreign income (loss) before the provision for
+income taxes are as follows:
+
+<TABLE>
+<CAPTION>
+
+                       ------------------- JUNE 30, -------------------
+                           1997              1996              1995
+
+         <S>           <C>               <C>               <C>         
+         Domestic      $(4,011,290)      $   325,215       $(2,813,334)
+         Foreign          (244,236)          799,623          (739,950)
+                       -----------       -----------       -----------
+
+                       $(4,255,526)      $ 1,124,838       $(3,553,284)
+                       ===========       ===========       ===========
+</TABLE>
+
+
+
+<PAGE>   21
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+(3)  CAPITAL LEASES
+
+     The Company leases certain equipment under noncancelable leases expiring
+     through fiscal 2002. Future minimum lease payments as of June 30, 1997
+     under these arrangements are as follows:
+<TABLE>
+<CAPTION>
+
+     Year ending June 30,
+      <S>                                             <C>     
+       1998                                           $353,001
+       1999                                            181,583
+       2000                                              9,580
+       2001                                              9,580
+       2002                                              9,580
+                                                      --------
+
+          Total minimum lease payments                 563,324
+     Less--Amount representing interest                 61,015
+                                                      --------
+          Present value of minimum lease payments      502,309
+
+     Less--Current portion of capital leases           319,690
+                                                      --------
+                                                      $182,619
+                                                      ========
+</TABLE>
+(4)  COMMITMENTS
+
+     In August 1993, the Company entered into a six-year operating lease for its
+     facility in Cambridge, Massachusetts. The lease provides for uneven
+     payments during the six-year period. However, rent expense is charged to
+     operations evenly over the leased period. The Company also has operating
+     leases for its Seattle and International office spaces and certain office
+     equipment.
+
+     Future lease payments under the Company's operating lease arrangements,
+     exclusive of operating costs and net of sublease revenue through October
+     2000, are as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                 GROSS         SUBLEASE           NET
+                                               OPERATING        RENTAL         OPERATING   
+                                                LEASES         RECEIPTS         LEASES
+     Year ending June 30,
+      <S>                                     <C>             <C>             <C>       
+      1998                                    $  976,000      $(204,000)      $  772,000
+      1999                                       970,000       (204,000)         766,000
+      2000                                       265,000        (84,000)         181,000
+      2001                                         9,000           --              9,000
+      2002                                         1,000           --              1,000
+                                              ----------      ---------       ----------
+          Total future lease payments         $2,221,000      $(492,000)      $1,729,000
+                                              ==========      =========       ==========
+</TABLE>
+
+
+
+<PAGE>   22
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+     Rental expense under the Company's operating leases was approximately
+     $723,000, $707,000 and $576,000 in fiscal 1997, 1996 and 1995,
+     respectively. The fiscal 1997 and 1996 amounts are net of sublease income
+     of approximately $171,000 and $169,000, respectively.
+
+(5)  STOCKHOLDERS' EQUITY
+
+     (a)  Stock Option Plans
+
+     The Company adopted two stock option plans in 1987 and 1992 (the Plans)
+     whereby the Board of Directors may grant incentive stock options (ISOs),
+     nonqualified stock options, awards of common stock and authorizations to
+     make direct purchases of common stock to eligible employees and others, as
+     defined. ISOs are granted at a price not less than fair market value at the
+     date of grant. The options typically vest over a five-year period.
+
+     The Company has adopted the 1992 Nonemployee Director Stock Option Plan
+     (the 1992 Director's Plan) pursuant to which directors who are not officers
+     or employees of the Company annually receive options to purchase shares of
+     the Company's common stock. A total of 160,000 shares of common stock may
+     be issued under the 1992 Director's Plan. The exercise price of each option
+     equals the fair market value of the stock on the date of grant. The options
+     are exercisable upon the earlier of one year from the date of grant or the
+     first annual meeting of stockholders, following the date of grant at which
+     members of the Board are elected.
+
+     The Board of Directors granted Key Officer Stock Options to members of
+     senior management of the Company in 1992. The Key Officer Stock Options are
+     nonqualified, nonplan stock options exercisable for an aggregate of 907,556
+     shares of common stock at an exercise price of $1.08 per share, the fair
+     market value of the common stock on the date of grant. Each such option
+     expires 11 years from the date of grant, subject to earlier termination if
+     the optionee ceases to serve the Company other than by reason of death or
+     disability. Each Key Officer Stock Option became exercisable upon the
+     closing of the Company's initial public offering.
+
+     As of June 30, 1997, a total of 3,898,508 shares of common stock were
+     reserved for issuance under the Plans, the 1992 Director's Plan and the Key
+     Officer Stock Options.
+
+     The Company accounts for its stock-based compensation plans under APB
+     Opinion No. 25, Accounting for Stock Issued to Employees. In October 1995,
+     the FASB issued SFAS No. 123, Accounting for Stock-Based Compensation. SFAS
+     No. 123 establishes a fair-value-based method of accounting for stock-based
+     compensation plans. The Company has adopted the disclosure-only alternative
+     under SFAS No. 123 for employees, which requires disclosure of the pro
+     forma effects on earnings and earnings per share as if SFAS No. 123 had
+     been adopted, as well as certain other information. The Company has
+     computed the pro forma disclosures required under SFAS No. 123 for all
+     stock options granted during fiscal years 1996 and 1997, including the
+     Employee Stock
+
+
+
+
+<PAGE>   23
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+
+     Purchase Plan using the Black-Scholes option pricing model prescribed by
+     SFAS No. 123. For nonemployees, SFAS No. 123 requires that the compensation
+     expense calculated using the Black-Scholes option pricing model be charged
+     to the statement of operations. The value of options awarded to
+     nonemployees as determined under SFAS No. 123 is not material to the
+     results of operations for both fiscal years 1997 and 1996.
+
+     The assumptions used and the weighted average information for the fiscal
+     years ended June 30, 1997 and 1996 are as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                            ---- FISCAL YEARS ENDED ----
+                                                              JUNE 30,         JUNE 30, 
+                                                                1997            1996
+        <S>                                                 <C>              <C>        
+        Risk-free interest rates                            6.00%-6.74%      5.61%-6.74%
+        Expected dividend yield                                 None            None
+        Expected lives                                        5 years         5 years
+        Expected volatility                                      70%            70%
+        Weighted average grant-date fair value of
+         options granted during the period                     $1.62           $2.35
+        Weighted average remaining contractual life of
+         options outstanding                                5.10 years       5.53 years
+        Weighted average exercise price of 422,536
+         and 139,715 vested options exercisable at          
+         June 30, 1997 and 1996, respectively                  $1.42           $2.50
+</TABLE>
+
+     The effect of applying SFAS No. 123 would be as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                            ---- FISCAL YEARS ENDED ----
+                                                              JUNE 30,         JUNE 30,
+                                                                1997             1996
+
+        <S>                                                 <C>              <C>        
+        Net (loss) income as reported                       $(4,299,978)     $ 1,075,838
+        Net (loss) income per share as reported                    (.49)             .11
+
+        Pro forma net (loss) income                          (4,880,616)         622,956
+        Pro forma net (loss) income per share                      (.55)             .07
+</TABLE>
+
+     Because the method prescribed by SFAS No. 123 has not been applied to
+     options granted prior to June 30, 1995, the resulting pro forma
+     compensation cost may not be representative of that to be expected in the
+     future years.
+
+
+
+
+<PAGE>   24
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+     The Company's stock option activity for all plans is as follows:
+
+<TABLE>
+<CAPTION>
+
+                                        NUMBER       OPTION PRICE   WEIGHTED
+                                      OF SHARES         RANGE       AVERAGE
+                                                                  OPTION PRICE
+<S>                                   <C>          <C>               <C>  
+   Outstanding at June 30, 1994       1,457,671              --      $2.84
+       Granted                        1,155,000              --       2.13
+       Exercised                       (145,304)             --       1.05
+       Canceled                        (544,741)             --       6.01
+                                      ---------                      -----
+
+   Outstanding at June 30, 1995       1,922,626              --       1.86
+       Granted                          961,434              --       5.52
+       Exercised                       (320,452)             --       1.65
+       Canceled                        (195,240)             --       5.53
+                                      ---------                      -----
+
+   Outstanding at June 30, 1996       2,368,368              --       3.03
+       Granted                        1,289,514              --       2.74
+       Exercised                       (148,651)             --       1.64
+       Canceled                        (507,669)             --       4.28
+                                      ---------                      -----
+
+   Outstanding at June 30, 1997       3,001,562    $.50- $13.00      $2.33
+                                      =========    ============      =====
+
+   Exercisable at June 30, 1997       1,378,182    $.50- $13.00      $2.04
+                                      =========    ============      =====
+</TABLE>
+
+
+
+<PAGE>   25
+
+
+                       MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                JUNE 30, 1997
+
+                                 (Continued)
+
+
+
+     The following table summarizes information about stock options outstanding
+     at June 30, 1997:
+
+
+<TABLE>
+<CAPTION>
+
+
+                 ----------- OPTIONS OUTSTANDING -----------    --------- OPTIONS EXERCISABLE --------
+  RANGE OF       NUMBER OF       WEIGHTED           WEIGHTED    NUMBER OF      WEIGHTED       WEIGHTED
+OPTION PRICES    OUTSTANDING     AVERAGE            AVERAGE     OPTIONS        AVERAGE        AVERAGE 
+                 OPTIONS         REMAINING          OPTION      EXERCISABLE    REMAINING      OPTION 
+                                 CONTRACTUAL        PRICE                      CONTRACTUAL    PRICE
+                                 LIFE                                          LIFE
+<C>               <C>             <C>                 <C>          <C>          <C>             <C> 
+$ .50- $2.00      1,011,910       2.31 years          1.54         846,768      2.15 years      1.45
+ 2.25-  4.00      1,816,366       4.99                2.44         446,128      4.62            2.36
+ 4.25-  6.00        150,000       4.98                5.53          62,000      5.06            5.64
+ 6.13- 13.00         23,286       3.66                7.65          23,286      3.66            7.65
+                  ---------                                      ---------                   
+                                                                                             
+  .50-13.00       3,001,562       4.08                2.33       1,378,182      3.11            2.04
+                  =========                                      =========                   
+</TABLE>
+
+
+     (b) Employee Stock Purchase Plan
+
+          The Company has an employee stock purchase plan pursuant to which the
+          Company has reserved and may issue up to 200,000 shares of common
+          stock in semiannual offerings over a 10-year period. Shares of common
+          stock are sold at 85% of fair market value, as defined. During fiscal
+          1997, 1996 and 1995, the Company issued 28,463, 13,065, and 14,565
+          shares, respectively, under the Plan.
+
+(6)  GEOGRAPHIC DATA
+
+
+
+     Revenues by geographic area as a percentage of total revenues were as
+     follows:
+
+<TABLE>
+<CAPTION>
+
+
+                           YEAR ENDED JUNE 30,
+     GEOGRAPHIC AREA    1997      1996      1995
+
+     <S>                 <C>       <C>       <C>
+     North America       68%       67%       64%
+     Europe              23        24        26
+     Other                9         9        10
+                        ---       ---       ---
+
+                        100%      100%      100%
+                        ===       ===       ===
+</TABLE>
+
+
+
+
+<PAGE>   26
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+     Revenues, operating income (loss) and identifiable assets for the Company's
+     U.S. and international operations for the three years ended June 30, 1997
+     are summarized as follows:
+<TABLE>
+<CAPTION>
+
+                                              U.S.       INTERNATIONAL   ELIMINATIONS   CONSOLIDATED
+
+     <S>                                   <C>             <C>            <C>            <C>        
+     Year ended June 30, 1995-
+      Revenues from unaffiliated
+       locations                          $10,144,936     $5,738,290     $        --    $15,883,226
+      Operating loss                       (2,869,452)      (765,777)             --     (3,635,229)
+      Identifiable assets                   6,804,596      1,218,927          79,118      8,102,641
+
+     Year ended June 30, 1996-
+      Revenues from unaffiliated
+       locations                          $14,010,567     $6,756,131     $        --    $20,766,698
+      Operating income                        161,909        771,076              --        932,985
+      Identifiable assets                  11,467,596      2,349,923      (1,918,367)    11,899,152
+
+     Year ended June 30, 1997-
+      Revenues from unaffiliated 
+       locations                          $11,659,991     $6,017,736     $        --    $17,677,727
+      Operating loss                       (3,994,060)      (400,137)             --     (4,394,197)
+      Identifiable assets                  12,179,468      1,987,444      (5,380,469)     8,786,443
+</TABLE>
+
+(7)  ACCRUED EXPENSES
+
+     Accrued expenses consist of the following:
+<TABLE>
+<CAPTION>
+
+                                                             JUNE 30,
+                                                        1997           1996
+
+       <S>                                          <C>            <C>       
+       Accrued payroll and payroll-related items    $  402,715     $  827,950
+       Accrued bonuses                                 425,000        466,939
+       Accrued vacation                                375,368        316,582
+       Accrued royalties                               146,962        281,288
+       Other accrued expenses                        1,242,487        362,455
+                                                    ----------     ----------
+
+                                                    $2,592,532     $2,255,214
+                                                    ==========     ==========
+</TABLE>
+
+
+
+<PAGE>   27
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  JUNE 30, 1997
+
+                                   (Continued)
+
+
+(8)  SIGNIFICANT CUSTOMER
+
+     There were no significant customers in fiscal 1995. One customer accounted
+     for 12% and 14% of net sales in fiscal 1996 and 1997, respectively.
+
+(9)  LINE OF CREDIT
+
+     The Company has a line of credit with a bank, collateralized by
+     substantially all of the Company's assets. Borrowings are limited to the
+     lesser of 65% of eligible domestic accounts or $500,000. Interest on
+     outstanding borrowings under this line is based on the bank's prime rate
+     (8.5% at June 30, 1997) plus 1%. The Company had no outstanding borrowings
+     under this line as of June 30, 1997. The agreement contains covenants that,
+     among other things, require the Company to meet certain profitability and
+     maximum leverage ratios, and to maintain a minimum level of tangible net
+     worth. Through June 30, 1997, the Company has complied with all such
+     covenants. The line of credit expires in December 1997.
+
+(10) ACQUISITIONS
+
+     In November, 1996 and 1995, the Company acquired 100% of the outstanding
+     capital stock of acroScience Corporation and TriMetrix, Inc., respectively,
+     in business combinations accounted for as poolings of interests. As a
+     result of the business combinations, acroScience Corporation and TriMetrix,
+     Inc. became wholly owned subsidiaries of the Company. acroScience
+     Corporation develops visual modeling and programming tools. In
+     consideration of this acquisition, former stockholders of acroScience
+     Corporation received a total of 250,000 shares of the Company's common
+     stock. TriMetrix, Inc. develops and manufactures advanced charting and data
+     analysis software. In consideration of this acquisition, former
+     stockholders of TriMetrix, Inc. received a total of 219,997 shares of the
+     Company's common stock. For financial reporting purposes, the periods
+     preceding the acquisitions have not been restated, as the acquisitions were
+     not material. The results of operations of acroScience Corporation and
+     TriMetrix, Inc. have been included in the consolidated operating results
+     since the dates of the respective acquisitions.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>5
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+<PAGE>   1
+                                                                  EXHIBIT 21.1
+
+
+
+
+                         MATHSOFT, INC. AND SUBSIDIARIES
+
+                                  SUBSIDIARIES
+
+
+
+
+STATISTICAL SCIENCES. INC.
+(A MASSACHUSETTS CORPORATION)
+
+
+TRIMETRIX, INC.
+(A WASHINGTON CORPORATION)
+
+
+ACROSCIENCE CORPORATION
+(A WASHINGTON CORPORATION)
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>6
+<DESCRIPTION>CONSENT OF ARTHUR ANDERSEN LLP
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 23.1
+
+
+
+                   CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+As independent public accountants, we hereby consent to the incorporation of our
+reports included in this Form 10-K, into the Company's previously filed
+Registration Statement File Nos. 33-58560, 33-74848, 33-72162, 33-94466,
+33-87542, 33-99618, 33-99620, 333-16005, 333-18245 and 333-19513.
+
+
+
+
+                                                         /S/ ARTHUR ANDERSEN LLP
+
+
+Boston, Massachusetts
+September 29, 1997
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>7
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1
+<CURRENCY> U.S. DOLLARS
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1997
+<PERIOD-START>                             JUL-01-1996
+<PERIOD-END>                               JUN-30-1997
+<EXCHANGE-RATE>                                      1
+<CASH>                                       2,802,389
+<SECURITIES>                                         0
+<RECEIVABLES>                                3,237,812
+<ALLOWANCES>                                         0
+<INVENTORY>                                    343,785
+<CURRENT-ASSETS>                             6,859,511
+<PP&E>                                       6,441,234
+<DEPRECIATION>                               4,888,216
+<TOTAL-ASSETS>                               8,786,443
+<CURRENT-LIABILITIES>                        6,402,750
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        90,064
+<OTHER-SE>                                   2,078,062
+<TOTAL-LIABILITY-AND-EQUITY>                 8,786,443
+<SALES>                                     15,179,191
+<TOTAL-REVENUES>                            17,677,727
+<CGS>                                        3,124,158
+<TOTAL-COSTS>                                3,945,939
+<OTHER-EXPENSES>                            18,125,985
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              14,440
+<INCOME-PRETAX>                            (4,225,526)
+<INCOME-TAX>                                    44,452
+<INCOME-CONTINUING>                        (4,299,978)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                               (4,299,978)
+<EPS-PRIMARY>                                    (.49)
+<EPS-DILUTED>                                    (.49)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

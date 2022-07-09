@@ -1,0 +1,3487 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ByyZzMhsbWR0qjaeEZTxK4Upp56aPirx1q73HAqge5exKrmfdMxEeRPFgBAmxrr2
+ OvAfvEl8et60ObHBD4nJQg==
+
+<SEC-DOCUMENT>0000950144-98-002150.txt : 19980302
+<SEC-HEADER>0000950144-98-002150.hdr.sgml : 19980302
+ACCESSION NUMBER:		0000950144-98-002150
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19971231
+FILED AS OF DATE:		19980227
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LANDAIR SERVICES INC
+		CENTRAL INDEX KEY:			0000912728
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCKING (NO LOCAL) [4213]
+		IRS NUMBER:				621120025
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22490
+		FILM NUMBER:		98552920
+
+	BUSINESS ADDRESS:	
+		STREET 1:		430 AIRPORT RD
+		CITY:			GREENEVILLE
+		STATE:			TN
+		ZIP:			37745
+		BUSINESS PHONE:		6156397196
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 1058
+		CITY:			GREENEVILLE
+		STATE:			TN
+		ZIP:			37744
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>LANDAIR SERVICES, INC.
+<TEXT>
+
+<PAGE>   1
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+                     For fiscal year ended December 31, 1997
+
+                          Commission File No. 000-22490
+
+                             LANDAIR SERVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+           TENNESSEE                                    62-1120025
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+
+        430 AIRPORT ROAD
+      GREENEVILLE, TENNESSEE                                     37745
+(Address of principal executive offices)                       (Zip Code)
+
+       Registrant's telephone number, including area code: (423) 636-7000
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          COMMON STOCK, $.01 PAR VALUE
+                                (Title of class)
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant as of January 30, 1998 was approximately $76,100,351 based on the
+closing price of such stock on such date of $27.75.
+
+The number of shares outstanding of the registrant's common stock, $.01 par 
+value, as of January 30, 1998 was 6,024,388.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+                                      None
+
+
+
+<PAGE>   2
+
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+
+                                                                           Page Number
+                                                                           -----------
+<S>          <C>                                                           <C>
+                                     Part I
+Item 1.       Business                                                          3
+Item 2.       Properties                                                        8
+Item 3.       Legal Proceedings                                                 9
+Item 4.       Submission of Matters to a Vote of Security Holders               9
+
+                                     Part II
+Item 5.       Market for Registrant's Common Stock and                         10
+              Related Shareholder Matters
+Item 6.       Selected Financial Data                                          11
+Item 7.       Management's Discussion and Analysis of Financial                12
+              Condition and Results of Operations
+Item 8.       Financial Statements and Supplementary Data                      17
+Item 9.       Changes in and Disagreements with Accountants on                 17
+              Accounting and Financial Disclosure
+
+                                     Part III
+Item 10.      Directors and Executive Officers of the Registrant               18
+Item 11.      Executive Compensation                                           21
+Item 12.      Security Ownership of Certain Beneficial                         25
+              Owners and Management
+Item 13.      Certain Relationships and Related Transactions                   27
+
+                                     Part IV
+Item 14.      Exhibits, Financial Statement Schedules and                      28
+              Reports on Form 8-K
+Signatures                                                                     29
+Index to Financial Statements and Financial Statement Schedule                F-1
+</TABLE>
+
+
+
+
+                                       2
+<PAGE>   3
+
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+         Landair Services, Inc. (the "Company") is a high-service level 
+truckload carrier and contractor to the air cargo industry providing
+time-definite service in the United States and Canada. The Company was
+incorporated in Tennessee in 1981.
+
+         The Company provides scheduled trucking services to air freight
+forwarders, fully integrated air cargo carriers and domestic and international
+airlines through its Forward Air operations. The Company services its air
+freight forwarder, air cargo and airline customers primarily through a hub and
+spoke network of 62 terminals, located at or near major airports in the United
+States and Canada, and linked through a central sorting facility in Columbus,
+Ohio.
+
+         Through its Truckload operations, the Company provides short- to
+medium-haul delivery to the high-service segment of the general commodities
+truckload market. The Truckload operations include a common carrier operation
+that serves customers on an "on demand" basis and a dedicated fleet operation in
+which trucks and drivers are dedicated to shippers with specific, high-service
+requirements.
+
+         The Truckload and Forward Air operations constitute the business
+segments of the Company. An analysis by business segment of operating revenue,
+income from operations, assets, expenditures for long-lived assets and other
+information as of and for the years ended December 31, 1997, 1996 and 1995 is
+presented in Note 7 of the Notes to Consolidated Financial Statements beginning
+on page F-20.
+
+RECENT DEVELOPMENTS
+
+         On February 10, 1998, the Company's Board announced it had authorized
+the creation of a special committee of independent directors to consider a plan
+to separate the Company into two publicly-traded companies, one comprised of the
+Truckload operations, and the other the Forward Air operations. There can be no
+assurance as to whether any such transaction will occur or as to the timing or
+terms of any such transaction. Under the plan currently being considered, the
+transaction would be structured as a tax-free spin-off, subject, among other
+things, to the receipt of a ruling as to tax-free status from the Internal
+Revenue Service.
+
+FORWARD AIR OPERATIONS
+
+         The Company's Forward Air operations serve the unique and growing
+deferred air freight market. Unlike typical overnight letters and packages,
+deferred air freight is comprised of freight and packages that will have
+time-definite delivery in two to four days. Forward Air receives air
+
+
+
+                                       3
+<PAGE>   4
+
+freight from air freight forwarder, air cargo and airline customers at 62
+terminal facilities and provides airport-to-airport transportation of the
+freight to the terminal nearest to the freight's destination. The transportation
+requirements of Forward Air are met through direct shuttles, some of which offer
+overnight service, and through the Columbus central sorting facility.
+
+         The Company's freight forwarder customers vary in size from small
+independent, single facility air freight forwarders to large, international
+logistics companies. Since operations were commenced in November 1990, the
+average weekly volume of freight carried through the Forward Air network has
+grown from approximately 1.2 million pounds to approximately 13.3 million pounds
+in 1997. Forward Air operations accounted for approximately 55% of the Company's
+1997 operating revenue. The Company's strategy in its Forward Air operations is
+to capitalize on the growing market for deferred air freight from both domestic
+and international air cargo customers through its unique hub-and-spoke network.
+
+TRUCKLOAD OPERATIONS
+
+         Common Carrier Services. The Company's common carrier operations
+primarily consist of short- to medium-haul shipments, typically between 250 and
+700 miles. Although serving the contiguous 48 states, the Company's Truckload
+operations are primarily concentrated in the eastern half of the United States,
+allowing the Company to focus on selected operating lanes. The Company's ability
+to stay within these lanes allows it to maximize service for its customers while
+minimizing such operating costs as empty miles and driver layovers. The common
+carrier operations concentrate on providing a high level of consistent service
+at market competitive prices with an emphasis on certain niche markets. For
+example, these operations provide common carrier services to certain of the
+integrated air carriers and for just-in-time manufacturers with narrow delivery
+windows. The customers of the common carrier operations normally demand
+scheduled pick-up and delivery and often give short notice for equipment needs.
+The common carrier operations have been successful in meeting customer needs
+with on-time performance in excess of 98% in its primary service area. The trend
+of shippers over the past several years has been toward the use of a relatively
+small number of financially stable "core carriers". The Company's strategy in
+its common carrier operations is to take advantage of growth opportunities that
+exist as a result of this trend. In addition, an important element in the
+Company's strategy for expanding its core carrier operations lies in the
+cross-utilization of its revenue equipment to satisfy peak demands in the
+deferred air freight market.
+
+         Dedicated Contract Carriage Services. The Company's dedicated contract
+carriage services involve management for all or a significant part of a
+customer's transportation operations. Under a dedicated carriage service
+agreement, the Company typically provides drivers, equipment and maintenance,
+and, in some instances, transportation management that supplements the
+customer's in-house transportation department. This service allows a customer to
+reduce overall transportation costs by minimizing both capital expenditures and
+personnel costs.
+
+         Management believes the dedicated contract carriage operations are well
+positioned to capitalize on the increasing trend of many shippers to outsource
+virtually all of their transportation 
+
+
+
+                                       4
+<PAGE>   5
+
+requirements. The Company's strategy in its dedicated contract carriage
+operations will be to continue to focus on expansion of services in this area,
+including business with existing common carrier customers, so that the Company's
+dedicated operations can ultimately manage most or all of a customer's
+transportation needs on a dedicated fleet basis.
+
+         Truckload operations accounted for approximately 45% of the Company's
+1997 operating revenue.
+
+REVENUE EQUIPMENT
+
+         The Company purchases high quality tractors to help attract and retain
+drivers, promote safe operations and minimize maintenance and repair costs. When
+purchasing new revenue equipment, the Company typically acquires standardized
+tractors and trailers manufactured to the Company's specifications.
+Standardization enables the Company to simplify driver training, control the
+cost of spare parts inventory and enhance its preventive maintenance program.
+
+         The Company has purchased most of its tractors from Freightliner
+Corporation and its trailers from Great Dane Corporation. The majority of the
+tractors purchased are equipped with Series 60 Detroit Diesel electronic engines
+which have contributed significantly to increased fuel efficiency. It is the
+Company's current practice to trade in its tractors after three or four years
+and its trailers after seven years. The Company's purchase and lease agreements
+for tractors generally provide for a repurchase option by the manufacturer at
+predetermined prices.
+
+         As of December 31, 1997, the Company owned or leased 670 tractors and
+contracted for 425 tractors from owner-operators. The average age of the
+Company-operated tractor fleet was approximately 2.7 years at December 31, 1997.
+As of December 31, 1997, the Company owned or leased 2,290 van trailers, of
+which substantially all are 53' long and 285 include specialized roller bed
+equipment required to serve air cargo industry customers. By having a majority
+of the Company's trailer fleet equipped with 53' trailers, the Company is able
+to provide its customers with more economy and convenience and increased driver
+productivity. The average age of the trailer fleet was approximately 3.2 years
+at December 31, 1997.
+
+         The Company has installed Qualcomm two-way satellite communication
+systems in the majority of its tractors. The Qualcomm system provides the
+Company with continuous communications capability in the event a driver
+experiences a service delay or disruption. The Qualcomm system also allows the
+Company to track the exact location and route of any particular shipment and
+communicate instantly with drivers to improve operating efficiencies.
+
+EMPLOYEES AND OWNER-OPERATOR DRIVERS
+
+         As of December 31, 1997, the Company employed approximately 2,000
+persons. None of the Company's employees are covered by a collective bargaining
+agreement. The Company considers its employee relations to be good.
+
+
+
+                                       5
+<PAGE>   6
+
+
+         The Company recognizes that its professional driver workforce is one of
+its most valuable assets. Drivers are selected by the Company in accordance with
+guidelines relating to safety records, driving experience and personal
+evaluations. Over the past several years, the Company has introduced several
+driver retention programs including the creation of a pay package that more
+fairly compensates drivers for the work associated with their job. The pay
+package includes extra pay items in addition to the drivers' mileage-based pay.
+The expense and cost of driver retention and recruitment has increased in recent
+years. Recruitment is difficult due to Company standards and an industry
+shortage of qualified drivers. See "Safety".
+
+         The Company also recognizes that the selection process for
+owner-operators is equally as important as for Company drivers. As of December
+31, 1997, approximately 41% of the tractors in service were contracted to the
+Company by owner-operators. Approximately half of the December 31, 1997
+owner-operators were utilized in each of the Forward Air and Truckload
+operations. The use of owner-operators provides the Company with marketing,
+operating, safety, driver recruiting, retention and financial advantages. The
+Company focuses on the special needs of owner-operators through programs
+designed to reduce their operating costs. The Company plans to continue its
+emphasis on recruiting owner-operators.
+
+SAFETY
+
+         The Company has an active safety and loss prevention program and has
+established a driver qualification policy. Drivers who exceed the maximum
+acceptable number of accidents or traffic citations within a specified time
+period are reviewed and monitored by the safety department. The driving and
+employment records of drivers are verified.
+
+         During the past three years, the Company enhanced its safety program
+with a series of safe driving campaigns, safety contests, quarterly driver
+terminal safety meetings, and communication of safety data to drivers and
+management personnel. The program is designed to heighten awareness of, and
+focus attention on, safety related issues.
+
+INSURANCE
+
+         Claims exposure in the transportation industry consists primarily of
+cargo loss and damage, vehicle liability, property damage and workers'
+compensation. The Company maintains a deductible for auto liability claims, for
+physical damage claims and for cargo claims. The Company also is responsible for
+a significant deductible for workers' compensation claims. The Company maintains
+insurance with independent insurance carriers that provide certain coverage for
+claims in excess of deductible amounts. Management believes that the Company's
+insurance coverage is reasonable.
+
+REGULATION
+
+         Prior to December 29, 1995, the Company's operations in interstate
+commerce were regulated by the Interstate Commerce Commission ("ICC"). Effective
+December 29, 1995, 
+
+
+
+                                       6
+<PAGE>   7
+
+President Clinton signed into law the Interstate Commerce Commission Termination
+Act of 1995 which closed the ICC and transferred its remaining responsibilities
+to a new Surface Transportation Board and the Federal Highway Administration. In
+addition, interstate motor carrier operations are subject to safety requirements
+prescribed by the Department of Transportation. Such matters as weight and
+dimension of equipment are also subject to federal and state regulations. The
+Company is subject to various federal, state and local environmental laws and
+regulations. Management believes that the Company is in substantial compliance
+with applicable regulatory requirements relating to its operations. Failure of
+the Company to comply with the applicable regulations could result in
+substantial fines or revocation of the Company's operating permits.
+
+         The Company has aboveground fuel storage tanks at its Atlanta, Georgia;
+Indianapolis, Indiana and Memphis, Tennessee facilities and underground fuel
+storage tanks at its Columbus, Ohio facility. Such storage tanks are subject to
+various federal and state environmental laws and regulations. Management
+believes that the Company is in substantial compliance with applicable
+environmental laws and regulations. No material increase for expenditures for
+compliance with federal, state and local environmental laws and regulations is
+anticipated in 1998.
+
+COMPETITION AND INDUSTRY TRENDS
+
+         The Company competes with regional, inter-regional and national
+truckload carriers and, to a lesser extent, with less-than-truckload carriers,
+railroads and overnight delivery companies. Many of the Company's competitors
+have greater financial resources, more equipment or larger freight capacity than
+the Company. Service and price are the principal means of competition in the
+transportation industry.
+
+         Management believes the market for its Forward Air operations will be
+less affected by competition than will most other segments of the transportation
+industry because of its unique network. The transportation of air freight
+requires significant capital assets, including a fleet of dependable equipment,
+a large centrally located sorting facility, an extensive communication system, a
+skilled workforce and a large sales operation. In order to effectively compete,
+any new entrant would have to be able to immediately develop a comparable
+network which would require it to dedicate a full complement of equipment and
+establish multiple terminals in order to demonstrate the ability to handle a
+large number of shipments destined for many geographically diverse locations and
+to meet critical delivery deadlines.
+
+         The Company's principal competitive strength is its ability to
+consistently provide reliable service at a competitive price. Many of the
+Company's customers are high volume shippers which require a flexible and
+dependable motor carrier service tailored to their specific needs, including
+pick-up and delivery within specified time frames.
+
+         During 1997, one customer of the Truckload operations, Federal Express
+Corporation, accounted for more than 10% (approximately $27.0 million) of the
+Company's consolidated 
+
+
+
+                                       7
+<PAGE>   8
+
+operating revenue. No single customer accounted for more than 10% of the
+Company's operating revenue in 1996 and 1995.
+
+SEASONALITY
+
+         In the trucking industry, revenue and operating results generally
+reflect a seasonal pattern as customers reduce shipments during and after the
+winter holiday season and during the summer months. Additionally, the volume of
+shipments is often affected by weather variations. The Company's operating
+expenses also have historically been higher in the winter months, due primarily
+to decreased fuel efficiency and increased maintenance costs of revenue
+equipment in colder weather.
+
+
+ITEM 2. PROPERTIES
+
+         The Company's headquarters, comprised of 37,500 square feet, are
+located in Greeneville, Tennessee and are leased from the Greeneville-Greene
+County Airport Authority under a lease expiring in 2006. The headquarters lease
+is at a rate management believes is favorable. The Company leases, under a
+capital lease agreement, a 100-door cross dock hub facility constructed in 1994
+in Columbus, Ohio from the Director of Development of the State of Ohio. A
+substantial portion of the cost of constructing the 83,800 square foot Columbus
+facility shared by the Forward Air and Truckload operations was funded by the
+State of Ohio through the sale of $6.3 million of revenue bonds. The Company is
+responsible for all taxes, assessments and other costs of ownership under the
+lease agreement. Certain terms of the lease include restrictions on the payment
+of dividends and the maintenance of certain levels of net worth and other
+financial ratios. After the bonds are paid in full, the Company will have an
+option to purchase the terminal for a nominal amount.
+
+         The Company owns a 46,000 square foot 68-door cross dock terminal
+facility in Atlanta, Georgia, which houses both the Atlanta Truckload and
+Forward Air operations. The Company also acquired 27.3 acres of land in Mosheim,
+Tennessee in 1997 on which it is constructing a facility for its Truckload
+operations.
+
+         The Company leases a 15,200 square foot facility for its Truckload and
+Forward Air operations in Indianapolis, Indiana and leases two separate
+facilities for its Memphis, Tennessee Forward Air and Truckload operations which
+total approximately 19,875 square feet.
+
+         The Company leases 49 additional terminal facilities for its Forward
+Air operations, which are typically leased on a short-term (three to five year)
+basis. Management believes that replacement space comparable to these terminal
+facilities is readily obtainable, if necessary. Management believes that its
+facilities are adequate to support its current operations. The balance of the
+Forward Air terminals are agent stations leased and operated by independent
+agents who generally handle the Company's freight on a commission basis.
+
+
+
+                                       8
+<PAGE>   9
+
+ITEM 3. LEGAL PROCEEDINGS
+
+LITIGATION
+
+         The Company is, from time to time, a party to litigation arising in the
+normal course of its business, most of which involve claims for personal injury
+and property damage incurred in connection with the transportation of freight.
+Management believes that none of these actions, individually or in the
+aggregate, will have a material adverse effect on the financial condition or
+results of operations of the Company.
+
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         During the fourth quarter of the fiscal year ended December 31, 1997,
+no matters were submitted to a vote of security holders through the solicitation
+of proxies or otherwise.
+
+
+
+
+
+
+                                       9
+<PAGE>   10
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED SHAREHOLDER MATTERS
+
+         The Company's common stock trades on The Nasdaq Stock Market under the
+symbol "LAND". The following table sets forth the high and low sales prices for
+the Company's common stock as reported by The Nasdaq Stock Market for each full
+quarterly period within the two most recent fiscal years.
+
+<TABLE>
+<CAPTION>
+
+           1997                                            High            Low
+           ----                                            ----            ---
+       <S>                                                <C>            <C>
+       First Quarter..................................    $12.00         $ 9.75
+       Second Quarter.................................    $14.75         $11.00
+       Third Quarter..................................    $22.00         $14.375
+       Fourth Quarter.................................    $30.00         $19.50
+
+          1996 .......................................     High            Low
+          ----                                             ----            ---
+       First Quarter..................................    $16.50         $12.50
+       Second Quarter.................................    $16.25         $13.25
+       Third Quarter..................................    $16.50         $10.00
+       Fourth Quarter.................................    $11.75         $ 6.50
+</TABLE>
+
+
+         There were approximately 1,200 shareholders of record (including
+brokerage firms and other nominees) of the Company's common stock as of January
+30, 1998.
+
+         The Company has not paid cash dividends on its common stock in the two
+preceding fiscal years, and it is the current intention of management to retain
+earnings to finance the growth of the Company's business. Future payment of
+dividends will depend upon the financial condition, results of operations,
+contractual restrictions and capital requirements of the Company, as well as
+other factors deemed relevant by the Board of Directors.
+
+
+
+                                       10
+
+<PAGE>   11
+
+
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The following table sets forth selected financial data of the Company.
+The selected financial data should be read in conjunction with the Company's
+financial statements and notes thereto, included elsewhere in this report.
+
+
+<TABLE>
+<CAPTION>
+                                                             YEAR ENDED DECEMBER 31
+                                          ------------------------------------------------------------
+                                            1997          1996        1995        1994          1993
+                                          --------     ---------    -------     --------      --------
+                                                        (In thousands, except per share data)
+<S>                                       <C>           <C>         <C>         <C>           <C>
+STATEMENTS OF INCOME DATA: (1) (2)
+Operating revenue                         $190,402      $157,098    $148,083    $135,032      $95,281
+Income from operations                      16,803         9,341      10,501       8,164        4,309
+Operating ratio (3)                           91.2%         94.1%       92.9%       94.0%        95.5%
+Net income                                   8,594         3,979       4,517       4,017        1,963
+Net income per share - basic (4)              1.44          0.67        0.77        0.70         0.49
+Net income per share - diluted (4)            1.39          0.66        0.75        0.66         0.46
+
+Cash dividends declared per
+   common share                                 --            --          --          --           --
+
+BALANCE SHEET DATA (AT END OF PERIOD):
+Total assets                              $118,331       $99,074    $ 98,279    $ 78,044      $49,027
+Long-term obligations, net of
+   current portion                          22,405        27,094      35,855      28,305       12,024
+Shareholders' equity                        50,460        41,264      36,644      31,778       27,295
+</TABLE>
+
+
+
+(1)  Results for 1994 and 1993 lack comparability to other periods because (i)
+     1994 included a charge relating to the sale and winding down of the
+     Company's refrigerated trucking operations of $805,000, and (ii) 1993
+     included special management bonuses of $1.7 million. In addition, 1994
+     results consist of 53 weeks of operations while 1997, 1996, 1995 and 1993
+     results consist of approximately 52 weeks of operations.
+
+(2)  Net income and net income per share for 1993 reflect pro forma income tax
+     provisions as if the Company, previously an S Corporation prior to its
+     initial public offering of common stock in November 1993, had been subject
+     to income taxes for all of 1993. Historical net income for 1993 was $2.2
+     million.
+
+(3)  Operating expenses as a percentage of operating revenue.
+
+(4)  The net income per share amounts prior to 1997 have been restated to comply
+     with Statement of Financial Accounting Standards No. 128, Earnings Per
+     Share. For further discussion of net income per share and the adoption of
+     Statement 128, see Notes 1 and 4 of the Notes to Consolidated Financial
+     Statements included elsewhere herein.
+
+
+
+                                       11
+<PAGE>   12
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+         The following table sets forth the percentage relationship of expense
+items to operating revenue for the periods indicated.
+
+<TABLE>
+<CAPTION>
+                                                     YEAR ENDED DECEMBER 31
+                                             -------------------------------------
+                                               1997           1996          1995                              
+                                             -------------------------------------
+<S>                                          <C>             <C>           <C>                                             
+Operating revenue                             100.0%         100.0%        100.0%
+Operating expenses:
+   Purchased transportation                    32.1           32.8          36.1
+   Salaries, wages and employee benefits       28.4           27.6          25.4
+   Fuel and fuel taxes                          6.1            6.9           6.0
+   Depreciation and amortization                5.9            6.7           5.9
+   Insurance and claims                         5.0            5.3           4.8
+   Operating leases                             3.4            3.8           4.0
+   Other operating expenses                    10.3           11.0          10.7
+                                             -------------------------------------
+Total operating expenses                       91.2           94.1          92.9
+                                             -------------------------------------
+Income from operations                          8.8            5.9           7.1
+Interest expense                               (1.4)          (1.8)         (2.0)
+Other income (expense), net                      --             --           0.2
+                                             -------------------------------------
+Income before income taxes                      7.4            4.1           5.3
+Income taxes                                    2.9            1.6           2.2
+                                             -------------------------------------
+Net income                                      4.5%           2.5%          3.1%
+                                             =====================================
+</TABLE>
+
+
+RESULTS OF OPERATIONS
+
+         Operating revenue for 1997 increased to a record $190.4 million
+compared to $157.1 million in 1996 and $148.1 million in 1995. The increases in
+operating revenue for 1997 and 1996 were 21.2% and 6.1%, respectively.
+
+         Purchased transportation was 32.1% of operating revenue in 1997
+compared to 32.8% in 1996 and 36.1% in 1995. The decrease in purchased
+transportation as a percentage of operating revenue between these years was
+primarily attributable to a reduction in the ratio of owner-operators to Company
+drivers during 1997 and 1996. During 1997, 1996 and 1995, approximately 41.0%,
+42.0% and 46.0% of the Company's average tractors in service were contracted
+through owner-operators.
+
+         Salaries, wages and benefits were 28.4% of operating revenue in 1997
+compared to 27.6% in 1996 and 25.4% in 1995. The increase as a percentage of
+operating revenue in 1997 and 1996 were due primarily to higher cargo handling
+wages and terminal managers' salaries required to operate additional terminals
+and greater operating volumes in the Company's Forward Air operations combined
+with an increase in the ratio of Company drivers to owner-operators.
+
+
+
+                                       12
+<PAGE>   13
+
+
+         Fuel and fuel taxes were 6.1% of operating revenue in 1997 compared to
+6.9% in 1996 and 6.0% in 1995. The decrease in fuel and fuel taxes as a
+percentage of operating revenue during 1997 resulted from a lower average fuel
+price per gallon coupled with improvements in the average miles per gallon and
+average revenue per loaded mile of the Company-operated tractor fleet. The
+increase in fuel and fuel taxes as a percentage of operating revenue during 1996
+was primarily attributed to an increase in fuel prices and an increase in the
+ratio of Company drivers to owner-operators. Approximately 60.0% of the increase
+in fuel prices during 1996 was passed on to customers in the form of a fuel
+surcharge.
+
+         Operating leases were 3.4%, 3.8% and 4.0% of operating revenue during
+1997, 1996 and 1995, respectively, while depreciation and amortization were
+5.9%, 6.7% and 5.9% during the same periods. The decrease in operating leases as
+a percentage of operating revenue during 1997 and 1996 resulted from increased
+ownership, rather than leasing, of revenue equipment. The decrease in
+depreciation and amortization as a percentage of operating revenue is
+attributable to substantial improvements in equipment utilization during 1997,
+partially offset by increased ownership of revenue equipment. The increase in
+depreciation and amortization as a percentage of operating revenue during 1996
+is attributable to an increase in the ratio of Company drivers to
+owner-operators and increased ownership of revenue equipment.
+
+         Insurance and claims were 5.0% of operating revenue in 1997 compared to
+5.3% in 1996 and 4.8% in 1995. The changes in insurance and claims expense
+during 1997 and 1996 resulted from fluctuations in the frequency and severity of
+accidents between years coupled with changes in claims development trends and
+lower premium costs.
+
+         Other operating expenses were 10.3% of operating revenue in 1997
+compared to 11.0% in 1996 and 10.7% in 1995. The decrease in 1997 as a
+percentage of operating revenue is attributed to both a reduced operating cost
+structure and improvements in utilization levels in the Company's Truckload
+operations. Gains (losses) on the sale of revenue equipment (which are netted
+against other operating expenses) were $(109,000), $413,000, and $503,000 during
+1997, 1996 and 1995, respectively.
+
+         Interest expense was $2.6 million in 1997 compared to $3.0 million in
+1996 and 1995. The decrease in interest expense during 1997 is due to lower
+average net borrowing during the period.
+
+         Other income (expense), net, includes a loss on the disposal of 
+non-operating equipment of $276,000, $0 and $0 during 1997, 1996 and 1995, 
+respectively.
+
+         The combined federal and state effective tax rates for 1997, 1996 and
+1995 were 39.0%, 38.2% and 42.0%, respectively. For information concerning the
+provision for income taxes, as well as information regarding differences between
+effective tax rates and statutory rates, see Note 5 of the Notes to Consolidated
+Financial Statements.
+
+
+
+                                       13
+<PAGE>   14
+
+
+         Forward Air Segment: Operating revenue in the Company's Forward Air
+operations increased by $24.4 and $17.2 million in 1997 and 1996, respectively,
+and represented approximately 55.0% and 51.0% of the Company's operating revenue
+for these periods. Operating revenue increases in the Forward Air operations
+resulted from increasing the number of operating terminals, enhancements to the
+Forward Air network and greater volume from domestic and international air cargo
+customers. The operating revenue increase in 1997 is also partially attributed
+to the acquisition on October 27, 1997 of the air cargo operating assets of
+Adams Air Cargo, Inc.
+
+         Forward Air income from operations increased by $4.5 and $2.1 million
+in 1997 and 1996, respectively. The increase in income from operations resulted
+from higher operating revenue, which was reduced in part by the incremental
+costs associated with such revenue. In addition, during the third quarter of
+1997, the Forward Air operations benefited from non-recurring revenue that
+resulted from the United Parcel Service strike. This additional revenue, net of
+variable costs, resulted in an estimated additional $1.2 million of income from
+operations.
+
+         Truckload Segment: Operating revenue in the Company's Truckload
+operations, including intersegment revenue, increased (decreased) by $9.6 and
+$(6.0) million in 1997 and 1996, respectively. Operating revenue increases
+(decreases) in the Truckload operations resulted primarily from fluctuations in
+equipment utilization and yield. During 1997, 1996 and 1995, the Truckload
+operations utilized average tractors of 699, 695 and 685, respectively.
+
+         Truckload income from operations increased (decreased) by $2.9 and
+$(3.3) million in 1997 and 1996, respectively. The increase in income from
+operations in 1997 was due mainly to a lower operating cost ratio resulting from
+an increase in equipment utilization and yield during the year. The decrease in
+income from operations in 1996 was due primarily to a higher operating ratio
+resulting from a decrease in equipment utilization and yield during the year. In
+addition, during the third quarter of 1997, the Truckload operations benefited
+from non-recurring revenue generated from the United Parcel Service strike. This
+additional revenue, net of variable costs, resulted in an estimated additional
+$200,000 of income from operations.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         The continued growth of the Company's business, and the nature of its
+operations, have required significant investment in new equipment. The Company
+has historically financed revenue equipment purchases with cash flows from
+operations, through borrowing under credit agreements with financial
+institutions and from proceeds of the initial public offering in November 1993.
+Working capital needs have generally been met with cash flows from operations
+and borrowing under the Company's line of credit. Net cash provided by operating
+activities totaled approximately $22.6, $12.5 and $15.8 million in 1997, 1996
+and 1995, respectively.
+
+         Net cash used in investment activities was approximately $19.0, $6.0
+and $21.5 million in 1997, 1996 and 1995, respectively. Investing activities
+consisted primarily of the acquisition of additional revenue equipment and
+enhanced management information systems during 1997, 
+
+
+
+                                       14
+<PAGE>   15
+
+1996 and 1995, the acquisition of a business in 1997 and the acquisition of a
+terminal facility in 1996.
+
+         Net cash provided by (used in) financing activities was approximately
+$(2.9), $(10.3) and $8.6 million in 1997, 1996 and 1995, respectively. These
+financing activities included the Company's continued financing of additional
+revenue equipment, based upon capital expenditure requirements, coupled with
+repayment of long-term debt and capital leases with cash generated from
+operations.
+
+         The Company expects net capital expenditures in 1998 for revenue
+equipment and management information systems, excluding acquisitions, to be less
+than $25 million. The Company expects to fund these expenditures through cash
+provided by operating activities. See Note 3 of the Notes to Consolidated
+Financial Statements for more information concerning credit arrangements. At
+December 31, 1997, the Company had a line of credit with a bank in the amount of
+$15.0 million, which expires in May 1999. At December 31, 1997, approximately
+$4.7 million was available for borrowing under the credit line. At December 31,
+1997, the Company also had equipment loan agreements which permit the Company to
+borrow up to $30.0 million for the purchase of revenue equipment. At December
+31, 1997, approximately $15.9 million was available for borrowing under the
+equipment loan agreements. Management believes that available borrowings under
+the line of credit agreement, equipment loan agreements, future borrowings under
+installment notes for revenue equipment, and cash generated by operations will
+be sufficient to fund its cash needs and anticipated capital expenditures
+through at least 1998.
+
+IMPACT OF INFLATION
+
+         Inflation has not had a material effect on the Company's results of
+operations or financial condition during the past three years. However,
+inflation higher than experienced during the past three years could have an
+adverse effect on the Company's future results.
+
+IMPACT OF YEAR 2000
+
+         Some of the Company's older computer programs and systems were written
+using two digits rather than four to define the applicable year. As a result,
+those computer programs have time-sensitive software that recognize a date using
+"00" as the year 1900 rather than the year 2000. This could cause a system
+failure or miscalculations causing disruptions of operations, including, among
+other things, a temporary inability to process transactions, send invoices, or
+engage in similar normal business activities.
+
+         The Company has been in the process of replacing the majority of its
+key financial and operational systems as a part of upgrading its legacy systems
+in the normal course of business. This replacement has been a planned approach
+for the last two years to enhance or better meet its functional business and
+operational requirements. Management believes that this program will
+substantially meet or address its Year 2000 issues. In addition to its
+replacement program, the Company will require modifying some of its software and
+hardware so that its computer systems 
+
+
+
+                                       15
+<PAGE>   16
+
+will function properly with respect to dates in the year 2000 and thereafter.
+The estimated cost of the remaining replacement and modification for the Year
+2000 issue is not considered material to the Company's earnings or financial
+position.
+
+         The Company also plans to initiate a formal communication process with
+all its significant suppliers and large customers to determine the extent to
+which the Company's interface systems are vulnerable to those third parties'
+failure to remediate their own Year 2000 issues. There is no guarantee that the
+systems of other companies on which the Company's systems rely will be timely
+converted and would not have an adverse effect on the Company's system.
+
+         The project is estimated to be completed not later than December 31,
+1998, which is prior to any anticipated impact on its operating systems. The
+Company believes that with modifications to existing software and hardware and
+conversions to new software, the Year 2000 issue will not pose significant
+operational problems for its computer systems. However, if such modifications
+and conversions are not made, or are not completed timely, the Year 2000 issue
+could have a material impact on the operations of the Company.
+
+IMPACT OF RECENT ACCOUNTING PRONOUNCEMENTS
+
+         In June 1997, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 130, Reporting Comprehensive Income. The
+Statement is effective for the Company beginning in 1998, and establishes
+standards for the reporting and display of comprehensive income and its
+components. The Statement requires that all items that are income be reported in
+a financial statement that is displayed with the same prominence as other
+financial statements. The Company does not expect the effect of adoption of
+Statement 130 to be material to the consolidated financial statements.
+
+FORWARD-LOOKING STATEMENTS
+
+         The Company, or its executive officers and directors on behalf of the
+Company, may from time to time make written or oral "forward-looking
+statements". Written forward-looking statements may appear in documents filed
+with the Securities and Exchange Commission ("SEC"), in press releases and in
+reports to shareholders. Oral forward-looking statements may be made by the
+Company's executive officers and directors on behalf of the Company to the
+press, potential investors, securities analysts and others. The Private
+Securities Litigation Reform Act of 1995 contains a safe harbor for
+forward-looking statements. The Company relies on this safe harbor in making
+such disclosures. In connection with this "safe harbor" provision, the Company
+is hereby identifying important factors that could cause actual results to
+differ materially from those contained in any forward-looking statement made by
+or on behalf of the Company. Without limitation, factors that might cause such a
+difference include economic factors such as recessions, downturns in customer
+business cycles, competition, surplus inventories, inflation, the loss of a
+major customer, fuel price increases, higher interest rates, the resale value of
+the Company's used equipment and the availability and compensation of qualified
+drivers. The Company disclaims any intent or obligation to update these
+forward-looking statements.
+
+
+                                       16
+
+<PAGE>   17
+
+
+
+
+
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The response to this item is submitted in a separate section of this
+report.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND 
+        FINANCIAL DISCLOSURE
+
+         None.
+
+
+
+
+
+
+                                       17
+<PAGE>   18
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         The following persons serve as directors and executive officers of the
+Company as of the date hereof. There are no family relationships between any
+director or executive officer.
+
+BRUCE A. CAMPBELL                           Director
+Greeneville, Tennessee                      Executive Vice President and
+                                            Chief Operating Officer
+                                            Age 46
+
+Mr. Campbell has been Executive Vice President and Chief Operating Officer of
+the Company since April 1990 and a director of the Company since April 1993.
+Prior to joining the Company in 1990, Mr. Campbell served as Vice President of
+Ryder-Temperature Controlled Carriage in Nashville, Tennessee from September
+1985 until December 1989.
+
+EDWARD W. COOK                              Director
+Greeneville, Tennessee                      Chief Financial Officer,
+                                            Senior Vice President and Treasurer
+                                            Age 39
+
+Mr. Cook joined the Company as Chief Financial Officer, Senior Vice President
+and director in September 1994. Since May 1995, he has also served as Treasurer.
+Prior to joining the Company, Mr. Cook was employed by Ernst & Young LLP for
+eleven years, most recently as a senior manager in the Nashville, Tennessee
+office. During the period March 1986 through February 1988, Mr. Cook served as
+Controller and Assistant Secretary of Ryder-Temperature Controlled Carriage in
+Nashville, Tennessee.
+
+JAMES A. CRONIN, III                        Director
+Aurora, Colorado                            Age 43
+
+Mr. Cronin has served as director of the Company since 1993. Since June 1996,
+Mr. Cronin has served as Chief Operating Officer, Executive Vice President,
+Finance and director of Ascent Entertainment Group, Inc., and director of On
+Command Corp., both multimedia entertainment companies. From June 1992 until
+June 1996, he was a private investor. Mr. Cronin was a partner in Alfred Checchi
+Associates, a private investment firm in Los Angeles, California from September
+1989 to June 1992. Mr. Cronin served as President and Chief Executive Officer of
+Tiger International, Inc. and The Flying Tiger Line from September 1987 to
+August 1989.
+
+
+
+
+                                       18
+<PAGE>   19
+
+
+
+THE HON. ROBERT K. GRAY                     Director
+Miami, Florida                              Age 72
+
+Mr. Gray has served as director of the Company since 1993. Mr. Gray is Chairman
+and Chief Executive Officer of Gray and Company II, a public relations company,
+a position he has held since November 1992. From 1981 to the present, Mr. Gray
+has also been Chairman of Gray Investment Companies and Powerhouse Leasing Corp.
+From 1991 to 1992, Mr. Gray was Chairman of Hill & Knowlton Public Affairs
+Worldwide/USA and was its Chief Executive Officer from 1986 to 1991. Mr. Gray
+has served as Appointment Secretary to the President and was a member of the
+Eisenhower Cabinet.
+
+SCOTT M. NISWONGER                          Director
+Greeneville, Tennessee                      Chairman, President and
+                                            Chief Executive Officer
+                                            Age 50
+
+Mr. Niswonger is a co-founder of the Company and has served as director and
+President of the Company since its founding in 1981, and as Chairman of the
+Board and Chief Executive Officer since February 1988. Mr. Niswonger also serves
+as a director of the Regional Advisory Board of First Tennessee Bank National
+Association.
+
+DAVID E. QUEEN                              Senior Vice President,
+Columbus, Ohio                              Forward Air Operations
+                                            Age 51
+
+Mr. Queen became Senior Vice President, Forward Air Operations in October 1997
+after serving as Vice President of Operations and General Manager of the Forward
+Air operations from November 1987. From 1984 to 1987, Mr. Queen was Manager of
+the Company's hub in Columbus, Ohio for the Flying Tigers operation.
+
+MICHAEL A. ROBERTS                          Senior Vice President,
+Greeneville, Tennessee                      Forward Air Sales and Marketing
+                                            Age 53
+
+Mr. Roberts has been Senior Vice President, Forward Air Sales and Marketing of
+the Company since April 1990 and was Vice President of Marketing from November
+1987. Mr. Roberts served as a consultant to the Company from 1982 to 1987.
+
+
+
+
+                                       19
+<PAGE>   20
+
+
+
+RICHARD H. ROBERTS                          Director
+Greeneville, Tennessee                      Senior Vice President,
+                                            General Counsel and Secretary
+                                            Age 43
+
+Mr. Roberts has served as Senior Vice President and General Counsel of the
+Company since July 1994, and as Secretary and director of the Company since May
+1995. Prior to joining the Company, Mr. Roberts was a partner with the Baker,
+Worthington, Crossley & Stansberry law firm from January 1991, and an associate
+of the firm from June 1985. Mr. Roberts has also served as a director of Miller
+Industries, Inc. since April 1994.
+
+JAMES R. WEILAND                            Senior Vice President,
+Charlotte, North Carolina                   Forward Air Sales
+                                            Age 53
+
+Mr. Weiland became Senior Vice President, Forward Air Sales in October 1997
+after serving as Vice President of Forward Air Sales from November 1990. From
+May 1984 to October 1990, Mr. Weiland served the Company in various capacities,
+including Regional Operations Manager and Director of Sales and Marketing.
+
+SECTION 16(a) BENEFICIAL OWNERSHIP COMPLIANCE
+
+         Section 16(a) of the Securities Exchange Act of 1934 (the "Exchange
+Act") and the disclosure requirements of Item 405 of Regulation S-K require the
+directors and executive officers of the Company, and any persons who
+beneficially own more than ten percent of any registered class of equity
+securities of the Company, to report their ownership of such equity securities
+and any subsequent changes in that ownership to the SEC, The Nasdaq Stock Market
+and the Company. Based solely on a review of the written statements and copies
+of such reports furnished to the Company by its executive officers and
+directors, the Company believes that during fiscal 1997 all Section 16(a) filing
+requirements applicable to its executive officers, directors and shareholders
+were timely satisfied, except that Bruce A. Campbell inadvertently filed a late
+Form 4 in connection with the sale of 2,600 shares in July 1997.
+
+
+
+                                       20
+
+<PAGE>   21
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         The following table sets forth the cash and non-cash compensation paid
+or to be paid by the Company to the Chief Executive Officer and the four other
+highest paid executive officers of the Company (the "Named Executive Officers")
+for the years shown in all capacities in which they served.
+
+<TABLE>
+<CAPTION>
+
+                                      SUMMARY COMPENSATION TABLE
+=========================================================================================================   
+                                                                                  Long-Term
+                                                                                 Compensation
+                                                  Annual Compensation               Awards
+                                             ----------------------------------- ------------
+                                                                        Other     Number of     
+                                                                        Annual    Securities   All Other
+                                 Fiscal                                 Compen-   Underlying   Compen-
+Name and Principal Position      Year         Salary        Bonus       sation      Options    sation(1)
+- ---------------------------      -----       --------      --------     -------   ----------   ---------
+<S>                              <C>         <C>           <C>          <C>       <C>           <C>  
+Scott M. Niswonger               1997        $269,377      $169,250     $  --          --       $10,600
+Chairman, President and          1996         268,781            --        --          --        16,061
+   Chief Executive Officer       1995         262,080            --        --          --        16,768
+
+Bruce A. Campbell                1997         147,100       117,075        --      15,000        10,561
+Executive Vice President and     1996         146,521            --        --      20,000         7,356
+   Chief Operating Officer       1995         142,315            --        --          --         5,302
+
+Edward W. Cook                   1997         104,300        84,975        --      10,000        10,133
+Chief Financial Officer,         1996         103,753            --        --      10,000         8,919
+   Senior Vice President and     1995         100,750            --        --          --         6,359
+   Treasurer
+
+Michael A. Roberts               1997         108,200        26,018        --       5,000        10,172
+Senior Vice President,           1996         107,831            --        --      10,000        10,004
+   Forward Air Sales             1995         105,000            --        --          --         6,496
+   and Marketing
+
+Richard H. Roberts               1997          90,000        89,250        --      10,000         9,952
+Senior Vice President,           1996          89,173            --        --      10,000        10,327
+   General Counsel and           1995          79,892            --        --          --        10,301
+   Secretary
+
+=========================================================================================================
+</TABLE>
+
+
+(1) Includes car allowance and employer matching portion of 401(k)
+    contributions.
+
+
+
+                                       21
+<PAGE>   22
+
+
+FISCAL 1997 OPTION GRANTS, AGGREGATED OPTION EXERCISES AND OPTION VALUES
+
+         Options granted during the last year to the Named Executive Officers
+are set forth in the following table.
+
+
+<TABLE>
+<CAPTION>
+                                      OPTION GRANTS IN LAST YEAR
+ =====================================================================================================
+                                                                      Potential Realizable Value at
+                                                                      Assumed Annual Rates of Stock
+                                                                      Price Appreciation for Option
+                          Individual Grants                                         Term
+- ------------------------------------------------------------------------------------------------------
+                                      Percent of
+                        Number of    Total Options
+                        Securities    Granted to
+                        Underlying    Employees    Exercise or
+                         Options       in Last     Base Price      Expiration
+        Name (1)         Granted        Year       ($/Share)          Date         5%         10%
+- ------------------------------------------------------------------------------------------------------
+  <S>                    <C>          <C>          <C>             <C>          <C>          <C>
+  Bruce A. Campbell        15,000       13.54%       $10.00         01/31/07    $ 94,334     $239,061
+  Edward W. Cook           10,000        9.03         10.00         01/31/07      62,889      159,374
+  Michael A. Roberts        5,000        4.51         10.00         01/31/07      31,445       79,687
+  Richard H. Roberts       10,000        9.03         10.00         01/31/07      62,889      159,374
+
+======================================================================================================
+</TABLE>
+
+(1) Mr. Niswonger has not been granted any options for the purchase of common
+    stock.
+
+         The following table sets forth the year-end aggregated option exercises
+by the Named Executive Officers and the fiscal year-end value of unexercised
+options held by the Named Executive Officers.
+
+<TABLE>
+<CAPTION>
+
+                                AGGREGATED OPTION EXERCISES IN LAST YEAR
+                                     AND YEAR-END OPTION VALUES
+======================================================================================================                         
+                        Option Exercises                Number of
+                          in Last Year            Securities Underlying        Value of Unexercised
+                      ---------------------        Unexercised Options         In-the-Money Options
+                        Shares                         at Year-End                at Year-End (2)
+                      Acquired       Value      --------------------------  --------------------------        
+   Name (1)          on Exercise    Realized    Exercisable  Unexercisable  Exercisable  Unexercisable
+- -----------------    -----------    --------    -----------  -------------  -----------  -------------
+<S>                  <C>            <C>         <C>          <C>            <C>          <C>
+Bruce A. Campbell       5,000       $67,500       48,400        36,300       $732,725     $483,150
+Edward W. Cook             --            --       25,000        25,000        165,313      263,438
+Michael A. Roberts         --            --       23,385        17,540        354,049      242,333
+Richard H. Roberts         --            --       25,000        25,000        154,063      259,688
+======================================================================================================
+</TABLE>
+
+(1)  Mr. Niswonger has not been granted any options for the purchase of common
+     stock.
+
+(2)  Represents the closing price for the common stock on December 31, 1997 of
+     $24.25 less the exercise price for all outstanding exercisable and
+     unexercisable options for which the exercise price is less than the
+     December 31, 1997 closing price. Exercisable options have been held at
+     least one year from the date of grant.
+
+
+                                       22
+
+<PAGE>   23
+
+
+COMPENSATION OF DIRECTORS
+
+         Employee directors of the Company do not receive additional
+compensation for Board or committee service. In lieu of an annual retainer,
+non-employee directors are paid a fee of $1,500 for each Board meeting and
+$1,500 for each committee meeting attended, together with reasonable traveling
+expenses. No additional fee is paid for committee meetings held on the same day
+as Board meetings.
+
+         Each of the non-employee directors of the Company was granted upon the
+effectiveness of the Company's initial public offering options to purchase
+15,000 shares of the common stock pursuant to a non-qualified option agreement
+at an exercise price equal to the then applicable fair market value ($14.00 per
+share). In May 1995, at the Chairman's request, the Board of Directors approved,
+subject to appropriate shareholder approval obtained at the May 1996 Annual
+Meeting, adoption of a Non-Employee Director Stock Option Plan which provided
+that the existing non-employee directors receive an option for the purchase of
+7,500 shares at an exercise price equal to the closing sales price of the common
+stock on May 16, 1995 ($13.625 per share). Thereafter, the Plan provides that on
+the first business day following each annual meeting of shareholders (beginning
+with the May 1996 Annual Meeting) each non-employee director be granted an
+option for the purchase of 7,500 shares of common stock at an exercise price
+equal to the closing sales price of the common stock on the date of grant.
+Accordingly, on May 22, 1996 and May 21, 1997, each non-employee director
+received an option to purchase 7,500 shares at an exercise price of $15.00 and
+$14.00 per share, respectively. Each individual who subsequently becomes a
+non-employee director shall automatically be granted an option to purchase 7,500
+shares of common stock on the first business day after becoming a director.
+
+EMPLOYMENT AGREEMENTS, TERMINATION OF EMPLOYMENT AND CHANGE IN CONTROL 
+ARRANGEMENTS
+
+         The Company's Employment Agreement with Edward W. Cook expired December
+31, 1997. Pursuant to the Employment Agreement, Mr. Cook's base salary was
+$100,000 per annum, subject to increases approved by the Company's Board of
+Directors, and Mr. Cook agreed not to engage in certain activities in
+competition with the Company for a period of one year following termination of
+his employment.
+
+         Upon the occurrence of a Change in Control or Potential Change in
+Control (as such terms are described below) under the Company's Stock Option and
+Incentive Plan, all outstanding options and any stock appreciation rights that
+have been outstanding for at least six months will become fully exercisable and
+vested, and the restrictions applicable to the benefits available under any
+other award under the Stock Option and Incentive Plan will lapse, unless
+otherwise determined by the Compensation Committee (the "Committee") of the
+Board of Directors. Unless otherwise determined by the Committee at or after
+grant but prior to the occurrence of any Change in Control, the value of all
+vested options and other awards granted under the Stock Option and Incentive
+Plan will be cashed out at the Change in Control Price upon the occurrence of a
+Change in Control or Potential Change in Control. Options and other awards
+granted to executive
+
+
+                                       23
+<PAGE>   24
+officers, directors and other persons who are subject to Section 16 of the
+Exchange Act will only be cashed out if they have been held for at least six
+months and, unless otherwise determined by the Committee, the Change in Control
+or Potential Change in Control was outside the control of the holder of the
+option or other award.
+
+         Under the Stock Option and Incentive Plan, a "Change in Control" is
+defined to include (i) any change in control that would be required to be
+reported in response to any form or report to the SEC, or any stock exchange on
+which the Company's shares are listed, (ii) the acquisition by any person (other
+than the Company, a subsidiary of the Company or any employee benefit plan of
+the Company or any of its subsidiaries) of beneficial ownership of securities of
+the Company representing twenty percent or more of the combined voting power of
+the Company or (iii) a change in the Board of Directors of the Company if, as a
+result of such change, the persons who were the members of the Board of
+Directors two years prior to such change cease to constitute at least a majority
+of the members of the Board of Directors. Persons who were elected by or on the
+recommendation or approval of at least three-quarters of the members of the
+Board of Directors who were in office at the beginning of such period are deemed
+to have been in office during such two year period for purposes of this
+provision. A Change in Control is also deemed to occur if a majority of the
+members of the Committee in office prior to the happening of any event
+determines in its sole discretion that as a result of such event there has been
+a change in control. A "Potential Change in Control" is deemed to occur upon (i)
+the approval by shareholders of any agreement which, if consummated, would
+result in a Change in Control, or (ii) the acquisition by any person (other than
+the Company, a subsidiary of the Company or any employee benefit plan of the
+Company or any of its subsidiaries) of beneficial ownership of securities of the
+Company representing five percent or more of the combined voting power of the
+Company's securities and the adoption by the Committee of a resolution to the
+effect that a Potential Change in Control of the Company has occurred. The
+"Change in Control Price" is defined as the highest price per share paid for the
+common stock in any transaction reported on The Nasdaq Stock Market or any other
+exchange or market that is the principal trading market for the common stock or
+any other bona fide transaction related to such Change in Control or Potential
+Change in Control at any time during the sixty day period prior to the Change in
+Control or Potential Change in Control. In the case of incentive stock options
+and stock appreciation rights related thereto, the Change in Control Price is
+determined based solely on transactions reported for the date on which the
+cash-out or the exercise of the stock appreciation right occurs.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+         During fiscal 1997, the Compensation Committee of the Company was 
+comprised of two non-employee directors, Messrs. Cronin and Gray, and Mr.
+Niswonger. There were no Compensation Committee interlocks. See Item 13,
+"Certain Relationships and Related Transactions".
+
+
+                                       24
+<PAGE>   25
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The following table sets forth, as of January 30, 1998, certain
+information with respect to the common stock "beneficially owned" (i) by each of
+the Named Executive Officers and (ii) by all directors and executive officers,
+both individually and as a group. Except as otherwise indicated, the
+shareholders listed in the table have sole voting and investment powers with
+respect to the common stock owned by them.
+
+
+<TABLE>
+<CAPTION>
+======================================================================================
+                                               Aggregate Number         Percentage of
+                                                  of Shares             Common Shares
+Name and Address of Beneficial Owner (1)    Beneficially Owned (2)     Outstanding (2)
+- ----------------------------------------    ----------------------     ---------------
+<S>                                         <C>                        <C>
+Bruce A. Campbell                                  68,450 (3)                  1%
+Edward W. Cook                                     33,428 (4)                  *
+James A. Cronin, III                               26,250 (5)                  *
+Hon. Robert K. Gray                                43,850 (5)                  *
+Scott M. Niswonger                              3,229,520 (6)                 54%
+David E. Queen                                     19,740 (7)                  *
+Michael A. Roberts                                 53,895 (8)                  *
+Richard H. Roberts                                 32,054 (9)                  *
+James R. Weiland                                   53,275(10)                  *
+All directors and executive officers
+   as a group (11 persons)                      3,636,248(11)                 60%
+========================================================================================
+</TABLE>
+
+*    Less than one percent
+
+(1)     The business address of each listed executive officer and director is 
+        c/o Landair Services, Inc., 430 Airport Road, Greeneville, Tennessee 
+        37745.
+
+(2)     For the purpose of determining "beneficial ownership", the rules of the
+        SEC require that every person who has or shares the power to vote or 
+        dispose of shares of stock be reported as a "beneficial owner" of all
+        shares as to which such power exists. As a consequence, many persons may
+        be deemed to be the "beneficial owners" of the same securities. The SEC
+        rules also require that certain shares of stock that a beneficial owner
+        has the right to acquire within  sixty days of the date set forth above
+        pursuant to the exercise of stock options are deemed to be outstanding 
+        for the purpose of calculating the percentage ownership of such owner, 
+        but are not deemed outstanding for the purpose of calculating the
+        percentage ownership of any other person.
+
+(3)     Includes 63,450 shares which are issuable pursuant to options which are
+        exercisable within sixty days of the date set forth above.
+
+(4)     Includes 1,000 shares held by Mr. Cook's spouse and 30,000 shares which
+        are issuable pursuant to options which are exercisable within sixty days
+        of the date set forth above.
+
+
+
+                                       25
+<PAGE>   26
+
+(5)     Includes 26,250 shares which are issuable pursuant to options which are
+        exercisable within sixty days of the date set forth above.
+
+(6)     Includes 300 shares held by Mr. Niswonger as custodian for his grandson
+        and 300 shares which are held by Mr. Niswonger's spouse as custodian for
+        one of her children.
+
+(7)     Includes 19,365 shares which are issuable pursuant to options which are
+        exercisable within sixty days of the date set forth above.
+
+(8)     Includes 1,185 shares held by Mr. Roberts' spouse and 32,175 shares
+        which are issuable pursuant to options which are exercisable within
+        sixty days of the date set forth above.
+
+(9)     Includes 30,000 shares which are issuable pursuant to options which are
+        exercisable within sixty days of the date set forth above.
+
+(10)    Includes 53,275 shares which are issuable pursuant to options which are
+        exercisable within sixty days of the date set forth above.
+
+(11)    Includes 354,215 shares which are issuable pursuant to options which are
+        exercisable within sixty days of the date set forth above.
+
+         Based on information provided to the Company, in addition to Mr.
+Niswonger, the Company believes the following table sets forth the beneficial
+owners of five percent or more of the outstanding common stock at December 31,
+1997.
+
+<TABLE>
+<CAPTION>
+
+=======================================================================================
+                                                                      Percentage of
+                                            Amount and Nature         Common Stock
+                                                  of                  Outstanding at
+Name and Address of Beneficial Owner       Beneficial Ownership      December 31, 1997
+- ------------------------------------       --------------------      -----------------
+<S>                                        <C>                       <C>
+Princeton Services, Inc. (1)                   527,500                     8.8%
+Wellington Management Company, LLP (2)         435,600                     7.3%
+
+=======================================================================================
+</TABLE>
+
+
+
+
+(1)    According to the Schedule 13G dated January 29, 1998 jointly filed with 
+       the SEC by Princeton Services, Inc. ("PSI"), Fund Asset Management,
+       L.P. (d/b/a Fund Asset Management) ("FAM") and Merrill Lynch Special
+       Value Fund, Inc. ("the Fund"), each located at 800 Scudders Mill Road,
+       Plainsboro, New Jersey 08536, neither entity had sole voting power
+       over the shares, each had shared voting power over the shares, neither
+       had sole dispositive power over the shares and each had shared
+       dispositive power over the shares. PSI disclaimed beneficial ownership
+       of the shares. PSI is a corporate managing general partner of FAM and
+       Merrill Lynch Asset Management, L.P. ("MLAM"). MLAM and FAM, both
+       investment advisers registered under Section 203 of the Investment
+       Advisers Act of 1940, may be deemed to be beneficial owners of certain
+       of the shares by virtue of acting
+
+
+
+                                       26
+<PAGE>   27
+
+       as investment advisers to one or more investment companies registered
+       under Section 8 of the Investment Company Act of 1940 and to private
+       accounts. The Fund, as a registered investment company advised by FAM,
+       was beneficial owner of more than five percent of the shares.
+
+(2)    According to the Schedule 13G dated January 14, 1998 filed with the SEC 
+       by Wellington Management Company, LLP ("WMC"), 75 State Street, Boston,
+       Massachusetts 02109, WMC, in its capacity as investment adviser under
+       Section 203 of the Investment Advisers Act of 1940, beneficially owned 
+       shares which were held of record by clients of WMC. As to such shares, 
+       WMC had, through its wholly owned subsidiary and bank as defined in
+       Section 3(a)(6) of the Exchange Act, Wellington Trust Company, NA, no
+       sole power to vote or direct any shares, shared power to vote or direct
+       261,000 shares, no power to dispose of or to direct disposition of any 
+       shares and shared power to dispose of or direct disposition of 435,600 
+       shares.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The Company incurred $280,000 in rent expense in 1997 for an aircraft
+leased from Sky Night, L.L.C., which is owned by Mr. Niswonger. The Company and
+its subsidiaries had no further transactions in which any director or executive
+officer, or any member of the immediate family of any director or executive
+officer, had a material direct interest reportable under applicable rules of the
+SEC.
+
+
+
+
+
+                                       27
+<PAGE>   28
+
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+       (a)(1) and (2)   List of Financial Statements and Financial Statement
+                        Schedules.
+
+                        The response to this portion of Item 14 is submitted as
+                        a separate section of this report.
+
+       (a)(3)           List of Exhibits.
+
+                        The response to this portion of Item 14 is submitted as
+                        a separate section of this report.
+
+       (b)              Reports on Form 8-K.
+
+                        There were no reports filed on Form 8-K during the 
+                        fourth quarter of the year ended December 31, 1997.
+
+       (c)              Exhibits.
+
+                        The response to this portion of Item 14 is submitted as
+                        a separate section of this report.
+
+       (d)              Financial Statement Schedules.
+
+                        The response to this portion of Item 14 is submitted as 
+                        a separate section of this report.
+
+
+
+
+
+                                       28
+<PAGE>   29
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Landair Services, Inc. has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                    LANDAIR SERVICES, INC.
+
+                                    By:  /s/ Scott M. Niswonger
+                                         ---------------------------------------
+                                         Scott M. Niswonger, Chairman, President
+                                         and Chief Executive Officer
+
+                                    Date:  February 26, 1998
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+<TABLE>
+<CAPTION>
+
+          Name                            Capacity                            Date
+<S>                                 <C>                                 <C>
+
+  /s/ Scott M. Niswonger            Chairman, President and             February 26, 1998
+- -------------------------------     Chief Executive Officer
+     Scott M. Niswonger             (Principal Executive Officer)              
+                                                  
+
+  /s/ Edward W. Cook                Chief Financial Officer,            February 26, 1998
+- -------------------------------     Senior Vice President, Treasurer
+     Edward W. Cook                 and Director (Principal Financial    
+                                    and Accounting Officer)             
+                                                  
+
+  /s/ Bruce A. Campbell             Executive Vice President,           February 26, 1998
+- -------------------------------     Chief Operating Officer
+     Bruce A. Campbell              and Director
+                                                  
+
+  /s/ Richard H. Roberts            Senior Vice President, General      February 26, 1998
+- -------------------------------     Counsel, Secretary and Director
+     Richard H. Roberts             
+
+
+ /s/ James A. Cronin, III           Director                            February 26, 1998
+- -------------------------------
+     James A. Cronin, III
+
+ /s/ Robert K. Gray                 Director                            February 26, 1998 
+- -------------------------------
+     Hon. Robert K. Gray
+
+</TABLE>
+
+
+
+
+                                       29
+
+
+
+
+
+
+<PAGE>   30
+
+
+
+
+
+
+
+                           Annual Report on Form 10-K
+
+                   Item 8, Item 14(a)(1) and (2), (c) and (d)
+
+          List of Financial Statements and Financial Statement Schedule
+
+                   Financial Statements and Supplementary Data
+
+                                Certain Exhibits
+
+                          Financial Statement Schedule
+
+                          Year Ended December 31, 1997
+
+                             Landair Services, Inc.
+
+                             Greeneville, Tennessee
+
+
+
+
+
+
+<PAGE>   31
+
+
+                             Landair Services, Inc.
+
+                  Form 10-K -- Item 8 and Item 14(a)(1) and (2)
+
+         Index to Financial Statements and Financial Statement Schedule
+
+
+The following consolidated financial statements of Landair Services, Inc. are
+included as a separate section of this report: 
+
+<TABLE>
+<CAPTION>
+                                                                            Page No.
+                                                                            --------
+<S>                                                                          <C>
+Report of Ernst & Young LLP, Independent Auditors............................F-3
+Consolidated Balance Sheets - December 31, 1997 and 1996.....................F-4
+Consolidated Statements of Income - Years Ended December 31, 1997,
+   1996 and 1995.............................................................F-6
+Consolidated Statements of Shareholders' Equity - Years Ended
+   December 31, 1997, 1996 and 1995..........................................F-7
+Consolidated Statements of Cash Flows - Years Ended December 31, 1997,
+   1996 and 1995.............................................................F-8
+Notes to Consolidated Financial Statements - December 31, 1997...............F-9
+
+The following financial statement schedule of Landair Services, Inc. is included
+as a separate section of this report.
+
+Schedule II - Valuation and Qualifying Accounts..............................S-1
+</TABLE>
+
+All other schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under the
+related instructions or are inapplicable and, therefore, have been omitted.
+
+
+
+
+
+
+
+
+
+                                      F-2
+<PAGE>   32
+
+
+
+
+
+                         Report of Independent Auditors
+
+
+The Board of Directors and Shareholders
+Landair Services, Inc.
+
+We have audited the accompanying consolidated balance sheets of Landair
+Services, Inc. as of December 31, 1997 and 1996, and the related consolidated
+statements of income, shareholders' equity, and cash flows for each of the three
+years in the period ended December 31, 1997. Our audits also included the
+financial statement schedule listed in the Index at Item 14(a). These financial
+statements and schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+schedule based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Landair Services,
+Inc. at December 31, 1997 and 1996, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 1997, in conformity with generally accepted accounting principles.
+Also, in our opinion, the related financial statement schedule, when considered
+in relation to the basic financial statements taken as a whole, presents fairly
+in all material respects the information set forth therein.
+
+
+                                            ERNST & YOUNG LLP
+
+
+Nashville, Tennessee
+January 30, 1998
+
+
+
+
+
+                                      F-3
+<PAGE>   33
+
+
+                             Landair Services, Inc.
+
+                           Consolidated Balance Sheets
+
+
+<TABLE>
+<CAPTION>
+                                                                December 31
+                                                            1997          1996
+                                                          ---------------------
+                                                              (In thousands)
+<S>                                                       <C>           <C>
+ASSETS
+Current assets:
+      Cash and cash equivalents                           $    686      $    28
+      Accounts receivable, less allowance of $928 in
+         1997 and $415 in 1996                              28,771       23,671
+      Inventories                                              721          552
+      Prepaid expenses                                       3,915        2,868
+      Deferred income taxes                                  1,736        1,085
+                                                          ---------------------
+Total current assets                                        35,829       28,204
+
+Property and equipment:
+      Land                                                   3,477        3,199
+      Buildings                                              7,167        6,298
+      Revenue equipment                                     88,600       75,578
+      Other equipment                                       15,073       11,480
+      Leasehold improvements                                   813          890
+                                                          ---------------------
+                                                           115,130       97,445
+
+      Accumulated depreciation and amortization             35,933       27,166
+                                                          ---------------------
+                                                            79,197       70,279
+
+Other assets                                                 3,305          591
+                                                          ---------------------
+
+
+
+
+
+Total assets                                              $118,331      $99,074
+                                                          =====================
+
+</TABLE>
+
+
+
+
+
+
+
+
+                                      F-4
+<PAGE>   34
+<TABLE>
+<CAPTION>
+                                                                December 31
+                                                            1997          1996
+                                                          ---------------------
+                                                              (In thousands)
+<S>                                                       <C>           <C>
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+      Accounts payable                                    $  5,126      $ 3,924
+      Accrued payroll and related items                      3,394        1,677
+      Insurance and claims accruals                          6,871        4,435
+      Income taxes payable                                     194          168
+      Other accrued expenses                                 3,271        2,712
+      Current portion of long-term debt                     11,120        7,701
+      Current portion of capital lease obligations           3,924        1,797
+                                                          ---------------------
+Total current liabilities                                   33,900       22,414
+
+Long-term debt, less current portion                        16,347       18,346
+Capital lease obligations, less current portion              6,058        8,748
+Deferred income taxes                                       11,566        8,302
+Commitments and contingencies                                   --           --
+
+Shareholders' equity:
+      Preferred stock, $.01 par value:
+         Authorized shares - 5,000,000
+         No shares issued                                       --           --
+      Common stock, $.01 par value:
+         Authorized shares - 20,000,000
+         Issued and outstanding shares - 6,024,388
+              in 1997 and 5,952,880 in 1996                     60           60
+      Additional paid-in capital                            26,804       26,202
+      Retained earnings                                     23,596       15,002
+                                                          ---------------------
+Total shareholders' equity                                  50,460       41,264
+                                                          ---------------------
+Total liabilities and shareholders' equity                $118,331      $99,074
+                                                          =====================
+</TABLE>
+
+See accompanying notes.
+
+
+
+
+                                      F-5
+<PAGE>   35
+
+
+                             Landair Services, Inc.
+
+                        Consolidated Statements of Income
+
+
+<TABLE>
+<CAPTION>
+                                                     Year ended December 31
+                                                1997         1996        1995
+                                             ------------------------------------
+                                             (In thousands, except per share data)       
+<S>                                           <C>          <C>         <C>
+Operating revenue                             $190,402     $157,098    $148,083          
+                                                                                         
+
+Operating expenses:
+  Purchased transportation                      61,118       51,393      53,488
+  Salaries, wages and employee benefits         53,951       43,355      37,774
+  Fuel and fuel taxes                           11,690       10,837       8,941 
+  Depreciation and amortization                 11,210       10,523       8,687  
+  Insurance and claims                           9,483        8,381       7,040 
+  Operating leases                               6,541        5,950       5,859 
+  Other operating expenses                      19,606       17,318      15,793
+                                              ---------------------------------           
+                                               173,599      147,757     137,582
+                                              ---------------------------------           
+Income from operations                          16,803        9,341      10,501
+    
+    
+Other income (expense):                   
+  Interest expense                              (2,622)      (2,964)     (3,020)
+  Other, net                                       (96)          61         309
+                                              ---------------------------------           
+                                                (2,718)      (2,903)     (2,711)  
+                                              ---------------------------------           
+Income before income taxes                      14,085        6,438       7,790 
+
+
+Income taxes                                     5,491        2,459       3,273           
+                                              ---------------------------------           
+Net income                                    $  8,594     $  3,979    $  4,517           
+                                              =================================           
+                                                                                          
+                                                                                          
+
+Net income per share:
+  Basic                                       $   1.44     $   0.67    $   0.77
+  Diluted                                     $   1.39     $   0.66    $   0.75           
+       
+                                                                                          
+Weighted average shares outstanding:
+  Basic                                          5,968        5,928       5,850           
+  Diluted                                        6,177        6,049       6,027
+</TABLE>
+
+
+See accompanying notes.
+
+      
+                                                                   
+
+                                      F-6
+<PAGE>   36
+                             Landair Services, Inc.
+
+                 Consolidated Statements of Shareholders' Equity
+
+<TABLE>
+<CAPTION>
+                                                   Common Stock               Additional                          Total
+                                             --------------------------         Paid-in           Retained     Shareholders'
+                                                 Shares         Amount          Capital           Earnings        Equity
+                                             ------------------------------------------------------------------------------
+                                                                               (In thousands)
+<S>                                          <C>                  <C>           <C>               <C>            <C>
+Balance at December 31, 1994                     5,811            $ 58          $ 25,214          $  6,506       $ 31,778
+    Net income for 1995                             --              --                --             4,517          4,517
+    Exercise of stock options                       53               1               348                --            349
+                                             ------------------------------------------------------------------------------
+Balance at December 31, 1995                     5,864              59            25,562            11,023         36,644
+    Net income for 1996                             --              --                --             3,979          3,979
+    Exercise of stock options                       83               1               580                --            581
+    Common stock issued under
+       employee stock purchase plan                  6              --                60                --             60
+                                             ------------------------------------------------------------------------------
+Balance at December 31, 1996                     5,953              60            26,202            15,002         41,264
+    Net income for 1997                             --              --                --             8,594          8,594
+    Exercise of stock options                       61              --               490                --            490
+    Common stock issued under
+       employee stock purchase plan                 10              --               112                --            112
+                                             ------------------------------------------------------------------------------
+Balance at December 31, 1997                     6,024            $ 60          $ 26,804          $ 23,596       $ 50,460
+                                             ==============================================================================
+</TABLE>
+
+
+See accompanying notes.
+
+
+
+
+                                      F-7
+
+<PAGE>   37
+                             Landair Services, Inc.
+
+                      Consolidated Statements of Cash Flows
+
+<TABLE>
+<CAPTION>
+                                                             Year ended December 31
+                                                          1997         1996        1995
+                                                       -----------------------------------
+                                                                  (In thousands)
+<S>                                                    <C>          <C>           <C>
+OPERATING ACTIVITIES
+Net income                                             $  8,594      $  3,979     $  4,517 
+Adjustments to reconcile net income to
+  net cash provided by operating activities:
+    Depreciation and amortization                        11,210        10,523        8,687
+    (Gain) loss on sale of property and
+      equipment                                             385          (413)        (503) 
+    Provision for losses on receivables                     603           540          445
+    Deferred income taxes                                 2,613         1,747        2,800
+    Changes in operating assets and liabilities,
+      net of effects from acquisition of business:
+        Accounts receivable                              (5,703)       (6,423)         (86) 
+        Inventories                                        (169)         (192)         (29) 
+        Prepaid expenses                                   (909)         (151)      (1,483) 
+        Income taxes                                         26           875         (425) 
+        Accounts payable and accrued
+          expenses                                        5,914         2,037        1,843
+                                                       -----------------------------------
+Net cash provided by operating activities                22,564        12,522       15,766 
+
+INVESTING ACTIVITIES
+Purchases of property and equipment                     (19,074)       (8,763)     (24,670)
+Acquisition of business                                  (1,209)           --           --
+Proceeds from disposal of property and equipment          1,259         2,913        3,062
+Other                                                       (11)         (192)          75
+                                                       -----------------------------------
+Net cash used in investing activities                   (19,035)       (6,042)     (21,533)
+
+FINANCING ACTIVITIES
+Proceeds from long-term debt                              6,782         2,734       16,940
+Payments of long-term debt                               (8,129)      (11,875)      (7,546)
+Payments of capital lease obligations                    (2,126)       (1,786)      (1,109) 
+Proceeds from exercise of stock options                     490           581          349
+Proceeds from common stock issued under
+  employee stock purchase plan                              112            60           --
+                                                       -----------------------------------
+Net cash provided by (used in) financing
+  activities                                             (2,871)      (10,286)       8,634
+                                                       -----------------------------------
+Net increase (decrease) in cash and cash
+  equivalents                                               658        (3,806)       2,867
+Cash and cash equivalents at beginning of year               28         3,834          967 
+                                                       -----------------------------------
+Cash and cash equivalents at end of year               $    686      $     28     $  3,834
+                                                       =================================== 
+</TABLE>                              
+
+See accompanying notes.
+
+
+                                       F-8
+
+<PAGE>   38
+
+
+                             Landair Services, Inc.
+
+                   Notes to Consolidated Financial Statements
+
+                                December 31, 1997
+
+1.  ACCOUNTING POLICIES
+
+PRINCIPLES OF CONSOLIDATION
+
+The consolidated financial statements include the accounts of the Company and
+its subsidiaries, all of which are wholly owned. Significant intercompany
+accounts and transactions have been eliminated in consolidation.
+
+BUSINESS SEGMENTS
+
+Effective December 31, 1997, the Company adopted Statement of Financial
+Accounting Standards No. 131, Disclosures about Segments of an Enterprise and
+Related Information. Statement 131 superseded Statement No. 14, Financial 
+Reporting for Segments of a Business Enterprise. Statement 131 establishes
+standards for the way that public business enterprises report information about
+operating segments in annual financial statements and requires that those
+enterprises report selected information about operating segments in interim
+financial reports. Statement 131 also establishes standards for related
+disclosures about products and services, geographic areas and major customers.
+The adoption of Statement 131 did not affect results of operations or financial
+position, but did affect the disclosure of segment information. Segment
+information for all periods has been presented to conform to Statement 131
+requirements. See Note 7.
+
+USE OF ESTIMATES
+
+The preparation of the financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reported in the financial statements and
+accompanying notes. Actual results could differ from those estimates.
+
+OWNERSHIP
+
+Scott M. Niswonger (Chairman, President and Chief Executive Officer) was the
+majority owner of the Company's common stock during all periods presented.
+
+OPERATING REVENUE
+
+Operating revenue and related costs are recognized as of the date shipments are
+completed.
+
+
+
+                                      F-9
+<PAGE>   39
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+
+1.  ACCOUNTING POLICIES (CONTINUED)
+
+CASH EQUIVALENTS
+
+The Company considers all highly liquid investments with a maturity of three
+months or less when purchased to be cash equivalents.
+
+INVENTORIES
+
+Inventories of tires, replacement parts, supplies and fuel for revenue equipment
+are stated at the lower of cost or market utilizing the FIFO (first-in, 
+first-out) method of determining cost.
+
+
+PROPERTY AND EQUIPMENT
+
+Property and equipment are stated at cost. Depreciation of property and
+equipment is calculated based upon the cost of the asset, reduced by its
+estimated salvage value, using the straight-line method over the estimated
+useful lives as follows:
+
+             Buildings                                30-40 years
+             Revenue equipment                         3-7  years
+             Other equipment                           3-10 years
+             Leasehold improvements                    1-15 years
+
+Interest payments during 1997, 1996 and 1995 were $2,631,000, $3,011,000 and
+$2,981,000, respectively. No interest was capitalized during the three years
+ended December 31, 1997. During 1997, 1996 and 1995, the Company added to
+revenue and other equipment $1,563,000, $2,417,000 and $2,682,000 of capital
+leases, respectively.
+
+INSURANCE AND CLAIMS ACCRUALS
+
+The primary claims in the Company's business are workers' compensation, property
+damage, auto liability and medical benefits. Most of the Company's insurance
+coverage provides for self-insurance levels with primary and excess coverage
+which management believes is sufficient to adequately protect the Company from
+catastrophic claims. In the opinion of management, adequate provision has been
+made for all incurred claims up to the self-insured limits.
+
+
+
+
+
+
+                                      F-10
+
+
+<PAGE>   40
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+1. ACCOUNTING POLICIES (CONTINUED)
+
+NET INCOME PER SHARE
+
+In 1997, the Financial Accounting Standards Board issued Statement No. 128,
+Earnings Per Share. Statement 128 replaced the calculation of primary and fully
+diluted earnings per share with basic and diluted earnings per share. Unlike
+primary earnings per share, basic earnings per share excludes any dilutive
+effects of options, warrants and convertible securities. Diluted earnings per
+share is very similar to the previously reported fully diluted earnings per
+share, and uses the treasury stock method in calculating dilution. All earnings
+per share amounts for all periods have been presented and restated to conform to
+Statement 128 requirements.
+
+STOCK OPTIONS
+
+The Company grants options for a fixed number of shares to employees and outside
+directors with an exercise price equal to the fair value of the shares at the
+grant date. The Company accounts for stock option grants in accordance with
+Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to
+Employees, and, accordingly, recognizes no compensation expense for the stock
+option grants.
+
+ACCOUNTING PRONOUNCEMENTS
+
+In June 1997, the Financial Accounting Standards Board issued Statement No. 130,
+Reporting Comprehensive Income. The Statement is effective for the Company
+beginning in 1998, and establishes standards for the reporting and display of
+comprehensive income and its components. The Statement requires that all items
+that are income be reported in a financial statement that is displayed with the
+same prominence as other financial statements. The Company does not expect the
+effect of adoption of Statement 130 to be material to the consolidated financial
+statements.
+
+RECLASSIFICATIONS
+
+Certain reclassifications have been made to the prior year financial statements
+to conform to the 1997 presentation. These reclassifications had no effect on
+net income.
+
+
+
+
+                                      F-11
+<PAGE>   41
+
+
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+2.  ACQUISITION OF BUSINESS
+
+On October 27, 1997, the Company acquired the air cargo operating assets of
+Adams Air Cargo, Inc., a surface transportation contractor to the air cargo
+industry based in Arbuckle, California. The Company paid approximately
+$1,209,000 in cash, issued a note payable of $1,800,000, and assumed debt and
+capital lease obligations of $967,000 and $1,563,000, respectively. The
+acquisition was accounted for as a purchase. Accordingly, the purchase price was
+allocated on the basis of the estimated fair value of the net assets acquired,
+resulting in goodwill of approximately $2,764,000. The goodwill is being
+amortized on a straight-line basis over a life of 20 years. Accumulated
+amortization of the goodwill totaled $23,000 at December 31, 1997. The results
+of operations for the acquired business were included in the consolidated
+statement of income from the acquisition date forward. Pro forma results of
+operations for 1997 and 1996 would not differ materially from the Company's
+historical results.
+
+3. LONG-TERM DEBT
+
+Long-term debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                                       December 31
+                                                                    1997         1996
+                                                                  --------------------
+                                                                     (In thousands)
+<S>                                                               <C>          <C>
+Line of credit                                                    $ 2,163      $ 1,508
+Installment Equipment Loan Agreements                              13,457       11,387
+Installment notes payable with a finance company
+      through 1999, including interest at the 30-day
+      commercial paper rate plus 1.8% (7.6% and 7.8% at
+      December 31, 1997 and 1996, respectively) and interest
+      ranging from 6.7% to 7.3%, collateralized by revenue
+      equipment                                                     7,823       12,025
+Other notes payable, including interest ranging from
+      6.9% to 7.9%                                                  4,024        1,127
+                                                                  --------------------
+                                                                   27,467       26,047
+Less current portion                                               11,120        7,701
+                                                                  --------------------
+                                                                  $16,347      $18,346
+                                                                  ====================
+</TABLE>
+
+
+
+                                      F-12
+
+
+<PAGE>   42
+
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+3. LONG-TERM DEBT (CONTINUED)
+
+The Company has a $15 million line of credit agreement with a Tennessee bank
+which expires in May 1999. Advances outstanding under the line bear interest at
+the bank's base rate less 1.0% (7.5% and 7.3% at December 31, 1997 and 1996,
+respectively) and are collateralized primarily by accounts receivable. The
+agreement contains, among other things, restrictions that do not allow the
+payment of dividends, and requires the maintenance of certain levels of net
+worth and other financial ratios. At December 31, 1997, the Company had
+$2,163,000 outstanding under the line and had utilized $8,104,000 of
+availability for outstanding letters of credit.
+
+The Company has equipment loan agreements (the "Equipment Loan Agreements") with
+two Tennessee banks which permit the Company to borrow up to $30 million for the
+purchase of revenue equipment. Advances outstanding under the Equipment Loan
+Agreements bear interest at the 30-day LIBOR rate plus 1.0% to 1.6% (6.7% to
+7.3% and 6.4% to 7.0% at December 31, 1997 and 1996, respectively). The advances
+are collateralized by revenue equipment purchased with the proceeds from the
+Equipment Loan Agreements, and contain restrictions and covenants similar to the
+line of credit agreement described above. At December 31, 1997, the Company had
+additional borrowing capacity available of $15,893,000 under the Equipment Loan
+Agreements.
+
+Revenue equipment collateralizing these agreements has a carrying value of
+approximately $27,678,000 and $27,221,000 at December 31, 1997 and 1996, 
+respectively.
+
+Maturities of long-term debt are as follows (in thousands):
+
+              1998                                      $11,120
+              1999                                        9,439
+              2000                                        3,282
+              2001                                        1,474
+              2002                                          755
+              Thereafter                                  1,397
+                                                        -------
+                                                        $27,467
+                                                        =======
+
+
+4. SHAREHOLDERS' EQUITY AND STOCK OPTIONS
+
+Preferred Stock -- The Board of Directors is authorized to issue, at its
+discretion, up to 5,000,000 shares of preferred stock, par value $.01. The terms
+and conditions of the preferred shares are to be determined by the Board of
+Directors. No shares have been issued to date.
+
+
+
+                                      F-13
+<PAGE>   43
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+4. SHAREHOLDERS' EQUITY AND STOCK OPTIONS (CONTINUED)
+
+Employee Stock Option and Incentive Plan -- The Company has elected to follow
+Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to
+Employees, and related Interpretations in accounting for its employee stock
+options because, as discussed below, the alternative fair value accounting
+provided for under Statement No. 123, Accounting for Stock-Based Compensation,
+requires use of option valuation models that were not developed for use in
+valuing employee stock options. Under Opinion No. 25, because the exercise price
+of the Company's employee stock options equals the market price of the
+underlying stock on the date of grant, no compensation expense is recognized.
+
+At December 31, 1997, 1996 and 1995, the Company had reserved 1,000,000 shares
+of common stock under a Stock Option and Incentive Plan. Options issued under
+the Plan have eight to ten year terms and vest over a four to five year period.
+
+Pro forma information regarding net income and earnings per share is required by
+Statement 123, which also requires that the information be determined as if the
+Company has accounted for its employee and non-employee director stock options
+granted subsequent to December 31, 1994 under the fair value method of that
+Statement. The fair value for these options was estimated at the date of grant
+using a Black-Scholes option pricing model with the following weighted-average
+assumptions for 1997, 1996 and 1995, respectively: risk-free interest rates of
+5.8%, 6.4% and 5.5%; dividend ratio of zero; volatility factors of the expected
+market price of the Company's common stock of .5; and a weighted-average
+expected life of the option of seven years.
+
+The Black-Scholes option valuation model was developed for use in estimating the
+fair value of traded options which have no vesting restrictions and are fully
+transferable. In addition, option valuation models require the input of highly
+subjective assumptions, including the expected stock price volatility. Because
+the Company's employee and non-employee director stock options have
+characteristics significantly different from those of traded options, and
+because changes in the subjective input assumptions can materially affect the
+fair value estimate, in management's opinion, the existing models do not
+necessarily provide a reliable single measure of the fair value of its employee
+and non-employee director stock options.
+
+
+
+
+
+
+
+                                      F-14
+<PAGE>   44
+
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+4. SHAREHOLDERS' EQUITY AND STOCK OPTIONS (CONTINUED)
+
+For purposes of pro forma disclosures, the estimated fair value of the employee
+and non-employee director options is amortized to expense over the options'
+vesting period. The Company's pro forma information follows (in thousands,
+except per share data):
+
+<TABLE>
+<CAPTION>
+                                                1997        1996        1995
+                                               ------      ------      ------
+    <S>                                        <C>         <C>         <C>
+    Pro forma net income                       $7,980      $3,506      $4,464
+    Pro forma net income per share: 
+         Basic                                 $ 1.34      $ 0.59      $ 0.76
+         Diluted                               $ 1.29      $ 0.58      $ 0.74
+</TABLE>
+
+Because Statement 123 is applicable only to options granted subsequent to
+December 31, 1994, its pro forma effect is not fully reflected above.
+
+A summary of the Company's employee stock option activity and related
+information for the years ended December 31 follows:
+
+<TABLE>
+<CAPTION>
+                                     1997                            1996                            1995
+                                     ----                            ----                            ----
+                           OPTIONS   WEIGHTED-AVERAGE      Options  Weighted-Average       Options   Weighted-Average
+                            (000)     EXERCISE PRICE        (000)    Exercise Price         (000)     Exercise Price
+                           -------   ----------------      -------  ----------------       -------   ----------------
+<S>                        <C>       <C>                   <C>      <C>                    <C>       <C>     
+Outstanding - beginning
+   of year                   575           $ 12              421          $  9              507           $ 9
+         Granted             111             11              285            14               --            --
+         Exercised           (61)             8              (83)            7              (53)            7
+         Forfeited           (21)            14              (48)           11              (33)           10
+                           ------          ----            ------          ---             -----          ---
+Outstanding - end of year    604           $ 12              575           $12              421           $ 9
+                           ======          ====            ======          ===             =====          ===
+Exercisable at end of year   268           $ 11              199           $10              185           $ 9
+                           ======          ====            ======          ===             =====          ===
+Options available for
+   grant                     118                             209                            445
+                           ======                          ======                          =====
+Weighted-average fair
+   value of options
+   granted during the
+   year                    $6.14                           $6.00                          $  --
+                           ======                          ======                         ======
+</TABLE>
+
+Exercise prices for options outstanding, as of December 31, 1997, 1996 and 1995
+ranged from $5.00 to $25.625.
+
+Non-Employee Director Options -- In May 1997, 1996 and 1995, options to purchase
+15,000, 22,500 and 30,000 shares of common stock, respectively, were granted to
+the non-employee directors of the Company at option prices of $14.00, $15.00 and
+$13.625 per share, respectively.
+
+
+
+
+                                      F-15
+<PAGE>   45
+
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+4. SHAREHOLDERS' EQUITY AND STOCK OPTIONS (CONTINUED)
+
+The options have terms of five to ten years and are exercisable in installments
+which vest over two-year periods from the date of grant. At December 31, 1997,
+75,000 options are outstanding and will expire on September 1, 1998 through May
+1, 2007, unless a non-employee director resigns or is not re-elected, in which
+event the options expire 90 days after the option holder is no longer a
+non-employee director.
+
+Employee Stock Purchase Plan -- The Company implemented an employee stock
+purchase plan effective January 1, 1996 at which time participating employees
+became entitled to purchase common stock through payroll deduction of up to 10%
+of the employee's annual compensation. The issue price of the common stock is
+equal to the lesser of (1) 85% of market price on the first trading day of the
+semi-annual enrollment period or (2) 85% of market price on the last trading day
+of the semi-annual enrollment period. The Company has reserved 300,000 shares of
+common stock for issuance pursuant to the plan. At December 31, 1997,
+approximately 16,000 shares had been issued under the Plan.
+
+Earnings Per Share -- The following table sets forth the computation of basic
+and diluted earnings per share (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                                        1997        1996        1995
+                                                       ------      ------      ------
+<S>                                                    <C>         <C>         <C>
+Numerator:
+      Numerator for basic and diluted
+          earnings per share - net income              $8,594      $3,979      $4,517
+                                                       ==============================
+
+Denominator:
+      Denominator for basic earnings per share-
+          weighted-average shares                       5,968       5,928       5,850
+      Effect of dilutive stock options                    209         121         177
+                                                       ------------------------------
+      Denominator for diluted earnings per share-
+          adjusted weighted-average shares              6,177       6,049       6,027
+                                                       ==============================
+Basic net income per share                             $ 1.44      $ 0.67      $ 0.77
+                                                       ==============================
+Diluted net income per share                           $ 1.39      $ 0.66      $ 0.75
+                                                       ==============================
+Securities that could potentially dilute basic
+     net income per share in the future that
+     were not included in the computation of
+     diluted net income per share because to do
+     so would have been antidilutive for the
+     periods presented                                     19         451         249
+                                                       ==============================
+</TABLE>
+
+
+
+
+                                      F-16
+<PAGE>   46
+
+
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+
+5. INCOME TAXES
+
+The provision for income taxes consists of the following:
+
+<TABLE>
+<CAPTION>
+                                 1997            1996            1995
+                                --------------------------------------
+                                            (In thousands)
+<S>                             <C>             <C>             <C>  
+        Current:
+               Federal          $2,274          $  536          $  275
+               State               604             176             198
+                                --------------------------------------
+                                 2,878             712             473
+        Deferred:
+               Federal           2,258           1,538           2,451
+               State               355             209             349
+                                --------------------------------------
+                                 2,613           1,747           2,800
+                                --------------------------------------
+                                $5,491          $2,459          $3,273
+                                ======================================
+</TABLE>
+
+The historical income tax expense differs from the amounts computed by applying
+the federal statutory rate of 34% to income before income taxes as follows:
+
+<TABLE>
+<CAPTION>
+                                                   1997        1996        1995
+                                                  ------------------------------
+                                                          (In thousands)
+<S>                                               <C>         <C>         <C>
+  Tax expense at the statutory rate               $4,788      $2,189      $2,649
+  State income taxes, net of federal benefit         633         177         230
+  Meals and entertainment                             70          93         316
+  Other                                               --          --          78
+                                                  ------------------------------
+                                                  $5,491      $2,459      $3,273
+                                                  ==============================
+</TABLE>
+
+
+
+                                      F-17
+<PAGE>   47
+
+
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+5. INCOME TAXES (CONTINUED)
+
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax purposes. Significant components of
+the Company's deferred tax liabilities and assets are as follows:
+
+<TABLE>
+<CAPTION>
+                                                        December 31
+                                                    1997          1996
+                                                   --------------------
+                                                      (In thousands)
+<S>                                                <C>          <C>
+  Deferred tax liabilities:
+        Tax over book depreciation                 $12,233      $10,820
+        Prepaid expenses deductible when paid        1,420        1,048
+        Other                                          353          349
+                                                   --------------------
+  Total deferred tax liabilities                    14,006       12,217
+  Deferred tax assets:
+        Accrued expenses                             2,816        1,981
+        Alternative minimum tax                      1,020        1,708
+        Net operating loss carryforward                 --        1,134
+        Allowance for doubtful accounts                340          152
+        Other                                           --           25
+                                                   --------------------
+  Total deferred tax assets                          4,176        5,000
+                                                   --------------------
+  Net deferred tax liabilities                     $ 9,830      $ 7,217
+                                                   ====================
+</TABLE>
+
+Management believes that the deferred tax assets will ultimately be realized.
+Management's conclusion is based on future taxable income that will result from
+the reversal of the existing temporary differences. Additionally, management
+expects future taxable income from operations, exclusive of the reversal of
+temporary differences.
+
+The balance sheet classification of deferred income taxes is as follows:
+
+<TABLE>
+<CAPTION>
+                                                        December 31
+                                                    1997          1996
+                                                   --------------------
+                                                      (In thousands)
+<S>                                                <C>          <C>
+  Current assets                                   $(1,736)     $(1,085)
+  Noncurrent liabilities                            11,566        8,302
+                                                   --------------------
+                                                   $ 9,830      $ 7,217
+                                                   ====================
+</TABLE>
+
+Total income tax payments, net of refunds, during fiscal 1997, 1996 and 1995
+were $2,852,000, $(162,000) and $898,000, respectively.
+
+
+
+                                      F-18
+<PAGE>   48
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+6. LEASES
+
+During October 1993, the Company entered into a capital lease agreement (with a
+bargain purchase option) with the Director of Development of the State of Ohio
+for the construction of a terminal facility located in Columbus, Ohio. To fund
+the construction of the new facility, the State of Ohio sold revenue bonds in
+the amount of $6,280,000. The amounts due under the lease have been included in
+capital lease obligations. The Company is responsible for all taxes, assessments
+and other costs of ownership under the lease agreement. The lease also requires,
+among other things, restrictions on the payment of dividends and the maintenance
+of certain levels of net worth and other financial ratios.
+
+The Company leases certain revenue and other equipment under capital leases.
+These leases expire in various years through 2001. Certain of the revenue
+equipment leases contain guarantees of residual values which have been included
+in minimum lease payments.
+
+Property and equipment include the following amounts for leases that have been
+capitalized:
+
+<TABLE>
+<CAPTION>
+                                                        December 31
+                                                    1997          1996
+                                                   --------------------
+                                                      (In thousands)
+<S>                                                <C>          <C>
+  Land                                             $ 2,605      $ 2,605
+  Building                                           3,675        3,675
+  Revenue equipment                                  6,659        5,465
+  Other equipment                                    2,417        2,417
+                                                   --------------------
+                                                    15,356       14,162
+  Less accumulated amortization                      3,569        2,561
+                                                   --------------------
+                                                   $11,787      $11,601
+                                                   ====================
+</TABLE>
+
+Amortization of leased assets is included in depreciation and amortization
+expense.
+
+The Company also leases certain facilities and revenue equipment under
+noncancelable operating leases that expire in various years through 2006.
+Certain of these leases may be renewed for periods varying from one to ten
+years.
+
+Included in operating leases is a terminal facility leased from a company
+wholly-owned by the Company's majority shareholder which expired in January 1997
+and the lease was not renewed. Also included in operating leases is an aircraft
+leased, under a dry lease agreement, from the Company's majority shareholder
+which expires in July 1998 and may be renewed for an additional
+
+
+
+
+                                      F-19
+<PAGE>   49
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+6. LEASES (CONTINUED)
+
+one year period. The total net amount of rent expense for these leases was
+$280,000, $180,000 and $84,000 in 1997, 1996 and 1995, respectively.
+
+Future minimum rental payments under capital leases and noncancelable operating
+leases with initial terms of one year or more consisted of the following at
+December 31, 1997:
+
+<TABLE>
+<CAPTION>
+                                                         Capital            Operating
+                                                          Leases             Leases
+                                                         ----------------------------
+     Fiscal Year                                                (In thousands)
+     -----------                                         
+<S>                                                      <C>                 <C>
+       1998                                              $ 4,544             $ 6,206
+       1999                                                1,422               4,292
+       2000                                                1,311               2,338
+       2001                                                  899                 922
+       2002                                                  731                 252
+     Thereafter                                            3,846                 179 
+                                                         -------             -------  
+     Total minimum lease payments                         12,753             $14,189
+                                                                             =======
+     Amounts representing interest                        (2,771)
+                                                         ------- 
+     Present value of net minimum lease payments
+       (including current portion of $3,924)             $ 9,982
+                                                         =======
+</TABLE>
+
+
+7. BUSINESS SEGMENTS
+
+DESCRIPTION OF THE TYPES OF SERVICES FROM WHICH EACH REPORTABLE SEGMENT DERIVES
+ITS REVENUE
+
+The Truckload and Forward Air operating divisions constitute the operating
+segments of the Company.
+
+The Forward Air operations provide scheduled trucking services to air freight
+forwarders, fully integrated air cargo carriers and domestic and international
+airlines. The Forward Air operation services its air freight forwarders, air
+cargo and airline customers primarily through a hub and spoke network of
+terminals located at or near major airports in the United States and Canada and
+linked through a central sorting facility in Columbus, Ohio.
+
+The Truckload operations provide short- to medium-haul delivery to the
+high-service segment of the general commodities truckload market. The Truckload
+operation includes a common carrier
+
+
+
+
+                                      F-20
+
+<PAGE>   50
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+7. BUSINESS SEGMENTS (CONTINUED)
+
+operation that serves customers on an "on demand" basis and a dedicated fleet
+operation in which trucks and drivers are dedicated to shippers with specific,
+high-service requirements.
+
+MEASUREMENT OF SEGMENT INCOME FROM OPERATIONS AND SEGMENT ASSETS
+
+The accounting policies of the reportable segments are the same as those
+described in Note 1. The Company evaluates performance and allocates resources
+based on operating income. The Company does not allocate interest expense to
+reportable segments.
+
+Intersegment revenue is accounted for at rates comparable to unaffiliated
+customers.
+
+FACTORS MANAGEMENT USED TO IDENTIFY THE COMPANY'S REPORTABLE SEGMENTS
+
+The Company's reportable segments are strategic business units that offer
+different services. The reportable segments are each managed separately because
+they provide different services with different operating processes and marketing
+strategies.
+
+A summary of information about the Company's operations by segment for the years
+ended December 31, 1997, 1996 and 1995 is as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                  Truckload       Forward Air          Total
+                                                 --------------------------------------------
+<S>                                               <C>               <C>              <C>
+1997
+- ----
+Operating revenue from external customers         $  85,261         $105,141         $190,402
+Intersegment revenue                                  6,790               --            6,790
+Depreciation and amortization                         8,309            2,901           11,210
+Segment income from operations                        3,739           13,064           16,803
+Segment assets                                       66,923           49,672          116,595
+Expenditures for long-lived assets                   13,558            5,466           19,024
+
+1996
+- ----
+Operating revenue from external customers         $  76,361        $  80,737         $157,098
+Intersegment revenue                                  6,094               --            6,094
+Depreciation and amortization                         8,438            2,085           10,523
+Segment income from operations                          825            8,516            9,341
+Segment assets                                       60,508           37,481           97,989
+Expenditures for long-lived assets                      468            5,382            5,850
+
+1995
+- ----
+Operating revenue from external customers         $  84,526        $  63,557         $148,083
+Intersegment revenue                                  3,897               --            3,897
+Depreciation and amortization                         7,205            1,482            8,687
+Segment income from operations                        4,105            6,396           10,501
+Segment assets                                       70,451           26,769           97,220
+Expenditures for long-lived assets                   21,655              (47)          21,608
+</TABLE>
+
+
+
+                                      F-21
+<PAGE>   51
+
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+7. BUSINESS SEGMENTS (CONTINUED)
+
+A reconciliation of reportable segment operating revenue, income from
+operations, and assets to the Company's consolidated totals is as follows (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                                 1997            1996           1995
+                                              -----------------------------------------
+<S>                                           <C>             <C>             <C>
+  Operating revenue
+  -----------------
+  Total operating revenue for reportable
+      segments                                $ 197,192       $ 163,192       $ 151,980
+  Elimination of intersegment revenue            (6,790)         (6,094)         (3,897)
+                                              -----------------------------------------
+  Total consolidated operating revenue        $ 190,402       $ 157,098       $ 148,083
+                                              =========================================
+
+  Income from operations
+  ----------------------
+  Total income from operations for
+      reportable segments                     $  16,803       $   9,341       $  10,501
+  Other profit or loss                               --              --              --
+                                              -----------------------------------------
+  Total consolidated income from
+      operations                              $  16,803       $   9,341       $  10,501
+                                              =========================================
+
+  Assets
+  ------
+  Total assets for reportable segments        $ 116,595       $  97,989       $  97,220
+  Other assets                                    1,736           1,085           1,059
+                                              -----------------------------------------
+  Total consolidated assets                   $ 118,331       $  99,074       $  98,279
+                                              =========================================
+
+  OTHER SIGNIFICANT ITEMS
+                                                Segment                      Consolidated
+                                                Totals       Adjustments        Totals
+                                             --------------------------------------------
+  1997
+  ----
+  Expenditures for long-lived assets          $      --       $    --         $  19,074
+  Depreciation and amortization                  11,210            --            11,210
+
+  1996
+  ----
+  Expenditures for long-lived assets          $      --       $    --         $   8,763
+  Depreciation and amortization                  10,523            --            10,523
+
+  1995
+  ----
+  Expenditures for long-lived assets          $      --       $    --         $  24,670
+  Depreciation and amortization                   8,687            --             8,687
+
+</TABLE>
+
+
+
+                                      F-22
+
+<PAGE>   52
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+7. BUSINESS SEGMENTS (CONTINUED)
+
+The reconciling item to adjust total assets is the amount of income tax
+assets, which are not included in segment information.
+
+MAJOR CUSTOMER
+
+One customer of the Truckload segment, Federal Express Corporation, accounted
+for more than 10% (approximately $27,050,000) of the Company's consolidated
+operating revenue for the year ended December 31, 1997. No single customer
+accounted for more than 10% of operating revenue in 1996 and 1995.
+
+
+8. COMMITMENTS AND CONTINGENCIES
+
+The Company is, from time to time, a party to litigation arising in the normal
+course of its business, most of which involve claims for personal injury and
+property damage incurred in connection with the transportation of freight.
+Management believes that none of these actions, individually or in the
+aggregate, will have a material adverse effect on the financial condition or
+results of operations of the Company.
+
+
+9. EMPLOYEE BENEFIT PLAN
+
+Effective July 1, 1994, the Company adopted a retirement savings plan (the
+"401(k) Plan"). The 401(k) Plan is a defined contribution plan whereby employees
+who have completed one year of service, a minimum of 1,000 hours of service and
+are age 21 or older are eligible to participate. The 401(k) Plan allows eligible
+employees to make contributions of 2% to 10% of their annual compensation.
+Employer contributions are made at 25% of the employee's contribution up to a
+maximum of 4% of total annual compensation. Employer contributions vest 20%
+after two years of service and continue vesting 20% per year until fully vested.
+The Company's matching contribution for 1997, 1996 and 1995 was approximately
+$145,000, $131,000 and $119,000, respectively.
+
+
+
+
+
+
+                                      F-23
+
+<PAGE>   53
+
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+
+10. FINANCIAL INSTRUMENTS
+
+Off Balance Sheet Risk
+
+At December 31, 1997, the Company had letters of credit outstanding totaling
+$8,104,000, all of which guarantee obligations carried on the balance sheet.
+
+Concentrations of Credit Risk
+
+Financial instruments that potentially subject the Company to significant
+concentrations of credit risk consist principally of cash investments and trade
+accounts receivable. The Company does not generally require collateral from its
+customers. Concentrations of credit risk with respect to trade accounts
+receivable are limited due to the large number of entities comprising the
+Company's customer base and their dispersion across many different industries.
+
+Fair Value of Financial Instruments
+
+The following methods and assumptions were used by the Company in estimating its
+fair value disclosures for financial instruments:
+
+     Cash and cash equivalents: The carrying amount reported in the balance
+     sheet for cash and cash equivalents approximates its fair value.
+
+     Accounts receivable and accounts payable: The carrying amounts reported in
+     the balance sheet for accounts receivable and accounts payable approximate
+     their fair value.
+
+     Long-and short-term debt: The carrying amounts of the Company's borrowings
+     under its revolving credit arrangement approximate fair value. The fair
+     value of the Company's long-term debt and capital lease obligations is
+     estimated using discounted cash flow analyses, based on the Company's
+     current incremental borrowing rates for similar types of borrowing
+     arrangements.
+
+
+
+
+
+                                      F-24
+
+
+<PAGE>   54
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+10. FINANCIAL INSTRUMENTS (CONTINUED)
+
+The carrying amounts and fair values of the Company's financial instruments are
+as follows:
+
+<TABLE>
+<CAPTION>
+                                                    1997                                  1996
+                                          -------------------------           ---------------------------
+                                          Carrying          Fair               Carrying          Fair 
+                                           Amount           Value               Amount           Value
+                                          -------------------------           ---------------------------
+                                                                  (In thousands)
+<S>                                       <C>             <C>                 <C>               <C>
+Cash and cash equivalents                 $     686       $     686           $       28        $      28
+Accounts receivable                          28,771          28,771               23,671           23,671
+Accounts payable                              5,126           5,126                5,525            5,525
+Long-term debt and capital lease
+   obligations                               37,449          37,449               36,592           36,592
+</TABLE>
+
+
+11. QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+
+The following is a summary of the quarterly results of operations for the years
+ended December 31, 1997 and 1996:
+
+<TABLE>
+<CAPTION>
+                                                                    1997
+                                     ------------------------------------------------------------------------
+                                       March 31           June 30          September 30           December 31
+                                     ------------------------------------------------------------------------
+                                                    (In thousands, except per share data)
+<S>                                  <C>                <C>                   <C>                   <C>                       
+Operating revenue                    $  41,005          $ 45,502              $ 50,456              $ 53,439
+Income from operations                   1,922             4,004                 5,807                 5,070
+Net income                                 771             1,944                 3,176                 2,703
+Net income per common share:
+      Basic                          $    0.13          $   0.33              $   0.53              $   0.45
+      Diluted                        $    0.13          $   0.32              $   0.51              $   0.43
+
+                                                                    1996
+                                     ------------------------------------------------------------------------
+                                       March 31           June 30          September 30           December 31
+                                     ------------------------------------------------------------------------
+                                                    (In thousands, except per share data)
+Operating revenue                     $ 36,979          $ 38,893              $ 39,295              $ 41,931
+Income from operations                   1,666             2,703                 2,126                 2,846
+Net income                                 531             1,199                   887                 1,362
+Net income per common share:
+      Basic                           $   0.09          $   0.20              $   0.15              $   0.23
+      Diluted                         $   0.09          $   0.20              $   0.15              $   0.23
+</TABLE>
+
+
+
+                                      F-25
+
+
+<PAGE>   55
+                             Landair Services, Inc.
+
+             Notes to Consolidated Financial Statements (continued)
+
+
+11. QUARTERLY RESULTS OF OPERATIONS (UNAUDITED) (CONTINUED)
+
+During the third quarter of 1997, the Company benefited from non-recurring
+revenue that resulted from the United Parcel Service strike. This additional
+revenue net of variable costs and income taxes, but not allocated fixed costs,
+resulted in an estimated additional $1.4 million of pre-tax income from
+operations and $0.14 of diluted earnings per share during the quarter.
+
+The 1996 and first three quarters of 1997 earnings per share amounts have been
+restated to comply with Statement of Financial Accounting Standards No. 128,
+Earnings Per Share.
+
+
+
+
+
+                                      F-26
+<PAGE>   56
+
+                             Landair Services, Inc.
+
+                Schedule II -- Valuation and Qualifying Accounts
+
+<TABLE>
+<CAPTION>
+
+
+         Col. A                                 Col. B             Col. C                Col. D          Col. E
+- ------------------------------------------------------------------------------------------------------------------
+                                                                  Additions
+                                                        -----------------------------
+                                                             (1)           (2)
+                                                           Charged       Charged
+                                              Balance at   to Costs      to Other                       Balance at
+                                              Beginning      and         Accounts-     Deductions-       End of
+           Description                        of Period    Expenses      Describe       Describe         Period
+- ------------------------------------------------------------------------------------------------------------------
+                                                                      (In thousands)
+<S>                                          <C>            <C>          <C>          <C>               <C> 
+Year ended December 31, 1997:
+    Allowance for doubtful accounts            $  240       $   603      $    --      $   278(1)         $ 565
+    Allowance for revenue adjustments             175         1,714           --        1,526(2)           363
+                                             ---------------------------------------------------------------------
+                                                  415         2,317           --        1,804              928
+
+Year ended December 31, 1996:
+    Allowance for doubtful accounts            $  150       $   540      $    --      $   450(1)         $ 240
+    Allowance for revenue adjustments             142         1,207           --        1,174(2)           175
+                                             ---------------------------------------------------------------------
+                                                  292         1,747           --        1,624              415
+
+Year ended December 31, 1995:
+    Allowance for doubtful accounts            $  144       $   445      $    --      $   439(1)         $ 150
+    Allowance for revenue adjustments             250           945           --        1,053(2)           142
+                                             ---------------------------------------------------------------------
+                                                  394         1,390           --        1,492              292
+
+
+</TABLE>
+
+(1) Uncollectible accounts written off, net of recoveries.
+(2) Adjustments to billed accounts receivable.
+
+
+
+
+
+                                       S-1
+
+<PAGE>   57
+
+
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+                                                                         Exhibit No. in
+Exhibit No. Under                                                         Document Where
+Item 601 of                                                              Incorporated by
+Regulation S-K                                                              Reference
+- ---------------                                                          ---------------
+<S>             <C>      <C>                                             <C>
+    (a)3.1      -        Restated Charter of the registrant                    3.1
+
+    (a)3.2      -        Bylaws of the registrant, as amended                  3.2
+
+    (a)4        -        Specimen of Stock Certificate                         4.1
+
+   (e)10.1      -        Registrant's Restated Employee Stock                 10
+                         Purchase Plan                                        
+
+   (d)10.2      -        Registrant's Amended and Restated                    10.1
+                         Stock Option and Incentive Plan                      
+
+ (a,h)10.3      -        Form of registrant's Director Stock Option           10.3
+                         Agreement
+
+   (a)10.4      -        Lease Agreement, dated July 27, 1981,                10.18
+                         between the Greeneville-Greene County
+                         Airport Authority and General Aviation
+                         of Tennessee, Inc., as assumed by the
+                         registrant by agreement, dated May 10,
+                         1988
+
+   (a)10.5      -        Assignment, Assumption and Release                   10.19
+                         Agreement, dated May 10, 1988,
+                         between Greeneville-Greene County
+                         Airport, General Aviation, Inc., and
+                         the registrant
+
+   (a)10.6      -        Air Carrier Certificate, effective                   10.21
+                         September 9, 1993
+
+   (b)10.7      -        Lease between the Director of                        10.24
+                         Development of the State of Ohio and
+                         the registrant dated as of October 1,
+                         1993
+</TABLE>
+
+
+
+
+
+<PAGE>   58
+
+
+<TABLE>
+   <S>         <C>       <C>                                                  <C>
+   (c)10.8      -        $5,062,250 Term Loan and Security                    10.25
+                         Agreement, dated as of July 13, 1994,
+                         among Third National Bank in
+                         Nashville, the registrant and Landair
+                         Transport, Inc.
+
+   (c)10.9      -        $5,062,250 Term Promissory Note,                     10.26
+                         dated July 13, 1994, among Third
+                         National Bank in Nashville, the
+                         registrant and Landair Transport, Inc.
+
+   (c)10.10     -        $5,500,000 Line of Credit Loan                       10.27
+                         Agreement, dated as of October 17,
+                         1994, among First Tennessee Bank
+                         National Association, the registrant,
+                         and each of its Tennessee subsidiaries
+
+   (c)10.11     -        $11,152,000 Equipment Loan                           10.30
+                         Agreement, dated as of October 17,
+                         1994, among First Tennessee Bank
+                         National Association, the registrant,
+                         Landair Transport, Inc. and Landair
+                         International Airlines, Inc.
+
+   (c)10.12     -        First Amendment to Loan and Security                 10.33
+                         Agreements, dated as of October
+                         20, 1994, among First Tennessee Bank
+                         National Association, the registrant,
+                         Landair Transport, Inc. and Landair
+                         International Airlines, Inc.
+
+   (c)10.13     -        Second Amendment to Loan and                         10.35
+                         Security Agreements, dated as of
+                         December 23, 1994, among First
+                         Tennessee Bank National Association,
+                         the registrant, Landair Transport, Inc.
+                         and Landair International Airlines, Inc.
+
+  (d,h)10.14    -        Registrant's Non-Employee Director                   10.2
+                         Stock Option Plan
+</TABLE>
+
+
+
+<PAGE>   59
+
+<TABLE>
+
+   <S>          <C>      <C>                                                  <C>
+
+   (d)10.15     -        Third Amendment to Loan and Security                 10.3
+                         Agreements, dated as of May 24, 1995,
+                         among First Tennessee Bank National
+                         Association, the registrant, Landair
+                         Transport, Inc. and Landair
+                         International Airlines, Inc.
+
+   (d)10.16     -        First Amendment to Line of Credit                    10.4
+                         Loan Agreement and to Amended and
+                         Restated Security Agreement, dated as of
+                         May 31, 1995, among First
+                         Tennessee Bank National Association,
+                         the registrant, and each of its Tennessee
+                         subsidiaries
+
+   (d)10.17     -        $15,000,000 Restated, Amended and                    10.5
+                         Replacement Promissory Note (Line
+                         of Credit), dated as of May 31, 1995,
+                         between the registrant and First
+                         Tennessee Bank National Association
+
+   (d)10.18     -        $15,000,000 Restated, Amended and                    10.6
+                         Replacement Promissory Note,
+                         (Equipment Loan) dated as
+                         of May 31, 1995, between the
+                         registrant and First Tennessee Bank
+                         National Association
+
+   (d)10.19     -        Fourth Amendment to Loan and                         10.7
+                         Security Agreements, dated as of May
+                         31, 1995, among First Tennessee
+                         Bank National Association, the
+                         registrant, Landair Transport, Inc. and
+                         Landair International Airlines, Inc.
+
+   (d)10.20     -        Term Loan and Security Agreement,                    10.8
+                         dated as of June 16, 1995, between
+                         Third National Bank in Nashville,
+                         the registrant and Landair Transport, Inc.
+
+</TABLE>
+
+
+<PAGE>   60
+
+<TABLE>
+
+   <S>          <C>      <C>                                                  <C>
+
+   (d)10.21     -        $4,118,700 Promissory Note, dated                    10.9
+                         July 3, 1995, between the registrant,
+                         Landair Transport, Inc. and Third
+                         National Bank in Nashville
+
+   (d)10.22     -        First Amendment to Term Loan and                     10.10
+                         Security Agreement, dated as of June
+                         16, 1995, among Third National Bank
+                         in Nashville, the registrant and Landair
+                         Transport, Inc.
+
+   (f)10.23              Second Amendment to Line of Credit Loan              10.1
+                         Agreement and to Amended and Restated Security
+                         Agreement, dated as of January 28, 1997, among
+                         First Tennessee Bank National Association, the
+                         registrant, Landair Transport, Inc., Landair
+                         International Airlines, Inc., Transportation
+                         Properties, Inc. and Forward Air, Inc.
+
+   (f)10.24              $15,000,000 Restated, Amended and Replacement        10.2
+                         Promissory Note (Line of Credit), dated as of
+                         January 28, 1997, among the registrant, Landair
+                         Transport, Inc., Landair International Airlines,
+                         Inc., Transportation Properties, Inc., Forward
+                         Air, Inc. and First Tennessee Bank National
+                         Association
+
+   (g)21        -        Subsidiaries of the registrant
+
+   (g)23        -        Consent of Ernst & Young LLP
+
+   (g)27        -        Financial Data Schedule (Electronic Filing Only)
+</TABLE>
+
+
+              (a) Filed as an exhibit to the registrant's Registration Statement
+of Form S-1, filed with the Commission on September 27, 1993.
+
+              (b) Filed as an exhibit to the registrant's Annual Report on Form
+10-K for the fiscal year ended December 25, 1993, filed with the Commission on
+March 25, 1994.
+
+              (c) Filed as an exhibit to the registrant's Annual Report on Form
+10-K for the fiscal year ended December 31, 1994, filed with the Commission on
+March 31, 1995.
+
+              (d) Filed as an exhibit to the registrant's Quarterly Report on 
+Form 10-Q for the quarterly period ended June 30, 1995, filed with the 
+Commission on August 14, 1995.
+
+
+
+<PAGE>   61
+
+
+
+              (e) Filed as an exhibit to the registrant's Quarterly Report on 
+Form 10-Q for the quarterly period ended September 30, 1995, filed with the
+Commission on November 14, 1995.
+
+              (f) Filed as an exhibit to the registrant's Quarterly Report on 
+Form 10-Q for the quarterly period ended March 31, 1997, filed with the 
+Commission on May 14, 1997.
+
+              (g) Filed herewith.
+
+              (h) Management contract or compensatory plan.
+
+  
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<DESCRIPTION>SUBSIDIARIES OF THE COMPANY
+<TEXT>
+
+<PAGE>   1
+
+
+
+                                                                     Exhibit 21
+
+                       LANDAIR SERVICES, INC. SUBSIDIARIES
+
+
+Landair Transport, Inc.
+
+Forward Air, Inc.
+
+Landair International Airlines, Inc.
+
+Transportation Properties, Inc.
+
+Transportation Properties (Texas), Inc.
+
+Forward Air Royalty Company
+
+Forward Air Licensing Company
+
+Volunteer Adjustment, Inc.
+
+ 
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF ERNST & YOUNG
+<TEXT>
+
+<PAGE>   1
+
+
+                                                                     Exhibit 23
+
+
+
+
+                         Consent of Independent Auditors
+
+We consent to the incorporation by reference in: (1) the Registration Statement
+on Form S-8 (No. 33-77944) pertaining to the Landair Services, Inc. Stock Option
+and Incentive Plan and the Employee Stock Purchase Plan, (2) the Registration
+Statement on Form S-8 (no. 333-03891) pertaining to the Landair Services, Inc.
+Amended and Restated Stock Option and Incentive Plan, and (3) the Registration
+Statement on Form S-8 (no. 333-03893) pertaining to the Landair Services, Inc.
+Non-Employee Director Stock Option Award and Non-Employee Director Stock Option
+Plan, of our report dated January 30, 1998, with respect to the consolidated
+financial statements and schedule of Landair Services, Inc. included in its
+Annual Report (Form 10-K) for the year ended December 31, 1997.
+
+
+
+                                                   ERNST & YOUNG LLP
+
+Nashville, Tennessee
+February 25, 1998
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF LANDAIR SERVICES, INC. FOR THE 12 MONTH PERIOD ENDED
+DECEMBER 31, 1997 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          DEC-31-1997
+<PERIOD-START>                             JAN-01-1997
+<PERIOD-END>                               DEC-31-1997
+<CASH>                                             686
+<SECURITIES>                                         0
+<RECEIVABLES>                                   29,699
+<ALLOWANCES>                                       928
+<INVENTORY>                                        721
+<CURRENT-ASSETS>                                35,829
+<PP&E>                                         115,130
+<DEPRECIATION>                                  35,933
+<TOTAL-ASSETS>                                 118,331
+<CURRENT-LIABILITIES>                           33,900
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            60
+<OTHER-SE>                                      50,400
+<TOTAL-LIABILITY-AND-EQUITY>                   118,331
+<SALES>                                              0
+<TOTAL-REVENUES>                               190,402
+<CGS>                                                0
+<TOTAL-COSTS>                                  173,599
+<OTHER-EXPENSES>                               (2,718)
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               2,622
+<INCOME-PRETAX>                                 14,085
+<INCOME-TAX>                                     5,491
+<INCOME-CONTINUING>                              8,594
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     8,594
+<EPS-PRIMARY>                                     1.44
+<EPS-DILUTED>                                     1.39
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

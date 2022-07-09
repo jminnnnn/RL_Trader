@@ -1,0 +1,2397 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Lc+YwAZyk+6TvXhP7WAufDO/Mo7atXCPlRTUnyo9GhKvbluvcOmwHlKANfj+8/3o
+ vhb7yOHMGapD7G+sOu+OBw==
+
+<SEC-DOCUMENT>0000898430-96-001453.txt : 19960426
+<SEC-HEADER>0000898430-96-001453.hdr.sgml : 19960426
+ACCESSION NUMBER:		0000898430-96-001453
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19960128
+FILED AS OF DATE:		19960425
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEMTECH CORP
+		CENTRAL INDEX KEY:			0000088941
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				952119684
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06395
+		FILM NUMBER:		96551000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		652 MITCHELL RD
+		CITY:			NEWBURY PARK
+		STATE:			CA
+		ZIP:			91320
+		BUSINESS PHONE:		8054982111
+
+	MAIL ADDRESS:	
+		STREET 2:		652 MITCHELL ROAD
+		CITY:			NEWBURY PARK
+		STATE:			CA
+		ZIP:			91320
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+ 
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                   FORM 10-K
+(Mark One)
+
+[X]  Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+     Act of 1934
+For the fiscal year ended JANUARY 28, 1996
+                                       OR
+[_]  Transition Report Pursuant to Section 13 or 15(d) of the Securities
+     Exchange Act of 1934
+For the transition period from                 to 
+                               ---------------    ----------------
+
+Commission file number 1-6395
+
+                              SEMTECH CORPORATION
+            (Exact name of registrant as specified in its charter)
+                                        
+                DELAWARE                             95-2119684
+          (State or other jurisdiction            (I.R.S. Employer
+         incorporation or organization)          Identification No.)
+
+              652 MITCHELL ROAD, NEWBURY PARK, CALIFORNIA, 91320
+              (Address of principal executive offices, Zip Code)
+
+     Registrant's telephone number, including area code:   (805) 498-2111
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                              Name of each exchange
+               Title of each class            on which registered
+               -------------------            -------------------
+                      NONE                           NONE
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                     COMMON STOCK PAR VALUE $.01 PER SHARE
+                                (Title of Class)
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for, such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.     Yes  X    No 
+                                           ---      ---         
+
+Indicate by check mark if disclosure of delinquent filers pursuant to item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this form 10-K or any amendment to this
+form 10-K.     [ X ]
+
+Aggregate market value of voting stock held by non affiliates of the registrant
+as of April 12, 1996 $66,297,935 and the market price of the Registrant's stock
+was $11.00 per share. The number of shares outstanding of the Registrant's
+common stock was 6,027,085 at April 12, 1996.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the following documents are incorporated by reference in Part III of
+this report:  Definitive Proxy Statement in connection with registrant's annual
+meeting of shareholders on June 6, 1996.
+
+This report on Form 10-K contains a total of 39 pages.
+<PAGE>
+ 
+                              SEMTECH CORPORATION
+                                   INDEX TO
+                          ANNUAL REPORT ON FORM 10-K
+                      FOR THE YEAR ENDED JANUARY 28, 1996
+
+
+                                    PART I
+<TABLE>
+<CAPTION>
+                                                                  Page
+                                                                  ----
+<S>         <C>                                                   <C>
+Item 1      Business                                                2
+Item 2      Properties                                              8
+Item 3      Legal Proceedings                                       8
+Item 4      Submission of Matters to a Vote of Security Holders     9
+ 
+                                    PART II
+ 
+Item 5      Market for the Registrant's Common Equity
+            and Related Shareholder Matters                        10
+Item 6      Selected Financial Data                                10
+Item 7      Management's Discussion and Analysis of
+            Financial Condition and Results of Operations          10
+Item 8      Financial Statements and Supplementary Data            16
+Item 9      Changes in or Disagreements with Accountants on
+            Accounting and Financial Disclosure                    33
+                                                 
+                                    PART III
+
+Item 10     Directors and Executive Officers of the Registrant     33
+Item 11     Executive Compensation                                 34
+Item 12     Security Ownership of Certain Beneficial
+            Owners and Management                                  34
+Item 13     Certain Relationships and Related Transactions         34
+ 
+                                    PART IV
+
+Item 14     Exhibits, Financial Statement Schedules and
+            Reports on Form 8-K                                    35
+            Signatures                                             37
+</TABLE>
+
+<PAGE>
+ 
+                                     PART I
+                                     ------
+
+ITEM 1.  BUSINESS
+
+GENERAL
+
+Semtech Corporation ("Semtech" or the "Company") was incorporated in 1960 in
+Delaware. The Company designs, manufactures and distributes high quality analog
+integrated circuits ("ICs"). The application of these products are principally
+in the communications, personal computer and peripherals, and industrial,
+automotive and military markets. The Company also manufactures silicon
+rectifiers and rectifier assemblies, as well as providing foundry services for
+several customers which produce discrete electronic components primarily for
+computers, peripheral and communications markets. The Company's principal
+executive offices are located in Newbury Park, California, and manufacturing
+facilities are in California, Texas, Mexico and Scotland.
+
+On October 4, 1995, the Company acquired Gamma, Inc., dba ECI Semiconductor
+("ECI"), an analog semiconductor manufacturer supplying principally foundry
+wafers. ECI also manufacturers custom linear and digital arrays and general
+purpose analog semiconductor devices. Gamma, Inc. was acquired in exchange for
+775,000 common shares of the Company. The transaction was accounted for as a
+pooling of interests. This entity has been renamed Semtech Santa Clara, Inc.
+
+INDUSTRY
+
+The commercial semiconductor industry and the industries in which the Company's
+products are used are characterized by rapid changes and short product life
+cycles. In the last several years, there has been increased demand for analog
+circuits, which control, regulate, convert and reroute voltage and current in
+electronic systems. This demand for power analog circuits has been propelled by
+the recent growth of battery powered devices and the emergence of lower voltage
+microprocessors and Personal Computer Memory Card International Association
+("PCMCIA") standards for peripheral devices. While the Company has seen wide
+acceptance of its standard products which address this demand for high-
+performance power analog circuits, the markets for these products remain very
+competitive.
+
+PRODUCTS
+
+The following is a description of the Company's products:
+
+Transient Voltage Suppressors.  Transient voltage suppressors provide protection
+- -----------------------------                                                   
+for AC signals in addition to DC signals and have many protection applications
+where large voltage transients can permanently damage voltage-sensitive
+components. Surface mount transient voltage suppressors prevent system
+degradation from electrostatic discharge generated by the human body. Specific
+applications are found in computer, telecommunication, industrial, military and
+space programs.
+
+Linear and Switching Voltage Regulators.  Switching regulators are designed for
+- ---------------------------------------                                        
+use in step-down applications requiring accurate output voltages over combined
+variations of line, load and temperature. These products greatly simplify
+switching power supply design. Linear voltage regulators are monolithic
+integrated circuits designed for use in applications requiring a well regulated
+output voltage. The primary application of these products has been in power
+regulation for microprocessors.
+
+Foundry Wafers.  Semtech Santa Clara's principal products are foundry wafers
+- --------------                                                              
+which it founders for other semiconductor manufacturers.  Much of the processed
+
+                                      -2-
+<PAGE>
+ 
+silicon currently sold goes into discrete components whose principal
+applications are in the personal computer, peripherals and industrial markets.
+
+Rectifiers.  The Company has several different categories of silicon rectifiers
+- ----------                                                                     
+which are primarily used to convert alternating current to direct current.
+General use silicon rectifiers are primarily used to convert alternating current
+to direct current necessary for instruments, power supplies, small appliances
+and control equipment. Fast recovery rectifiers generally function as general
+purpose rectifiers, but at much higher frequencies which permits a customer to
+use auxiliary components of reduced size and cost. High-voltage rectifiers use
+two or more silicon rectifiers in series. The Company manufactures two types of
+such high-voltage rectifiers. High-voltage stacks are composed of two or more
+packaged silicon rectifiers, properly oriented, joined and vacuum- or transfer-
+molded within a much larger package. Multi-chip rectifiers use two or more
+silicon rectifier crystals (chips), properly oriented, joined and packaged in
+the same configuration as a standard silicon rectifier with only a single chip.
+Ultra-fast rectifiers provide very low reverse recovery times and low forward
+voltage drop with a soft recovery characteristic. Ultra-fast rectifiers are
+generally used in switching power supplies to reduce turn-on losses in switching
+transistors. These products are sold to military, aerospace and commercial
+customers.
+
+High-Voltage Monolithic Ceramic Capacitors.  These products are used in high-
+- ------------------------------------------                                  
+voltage power supplies in filters as coupling and bypass devices.
+
+Modular Assemblies.  A modular assembly is a package of rectifiers of one or
+- ------------------                                                          
+more types encased in epoxy or silicon by various molding techniques,
+constituting one or more basic rectifier circuits. The Company manufactures
+modular assemblies as catalog items and for special customer requirements.
+
+Commercial Power Hybrids.  These products involve voltage regulation for DC to
+- ------------------------                                                      
+DC signals where higher current and accurate voltage regulation are demanded.
+The main application for commercial power hybrids is in power management and
+local area networks where hermeticity is not required.
+
+In the last few years the Company has discovered new opportunities for its
+products in computer, computer peripherals, datacom, commercial aircraft,
+medical diagnostic equipment, and industrial power systems. The Company's
+introduction of new products into commercial markets has required the Company to
+make significant investments in research and development and capital equipment.
+During the recently completed fiscal year the Company invested $4.4 million in
+new capital equipment. The Company's military sales have decreased significantly
+and are ultimately expected to be less than 10% of total Company sales. There
+can be no assurances that the Company's goal of realizing opportunities in
+commercial markets and of continuing its business in military markets will be
+successful.
+
+MANUFACTURING PROCESSES
+
+The Company fabricates and assembles the majority of its products from basic
+materials (principally silicon, ceramic materials, metals and plastics), all of
+which are available from a number of suppliers. The Company is not dependent on
+any particular supplier of materials for its products. The Company utilizes
+subcontractors in Taiwan, Malaysia, Thailand and the Philippines to assemble
+certain of its products for commercial markets. A reduction in capacity made
+available to the Company by these sub-contractors could negatively impact
+operating results in the short-term.
+
+                                      -3-
+<PAGE>
+ 
+A large part of the manufacturing operation is performed by operators working on
+standard equipment in the Company's wafer fabs. Certain of these operations have
+been mechanized in order to improve process uniformity and reduce labor costs.
+New designs or process modifications are tested by both product and process
+engineering prior to being incorporated into the manufacturing process. The
+Company's wafer fabrication facilities are significantly less costly than state-
+of-the-art digital fabrication facilities and utilize equipment that is less
+subject to obsolescence.
+
+Silicon wafer yields and end product conformance to target characteristics have
+an important bearing on unit manufacturing costs. Therefore, testing constitutes
+a significant element of total product cost. Yields within the Company's wafer
+fabs are subject to fluctuations. The Company has a comprehensive quality
+assurance and control program for materials extending from delivery to the
+Company through the receipt and inspection of the Company's products by its
+customers. As part of its manufacturing process, the Company conducts tests, in
+part automatically controlled, which enable it to demonstrate to its customers
+on a routine basis the extent to which its products meet required standards.
+
+SALES AND BACKLOG
+
+Approximately 750 customers purchased the Company's products during the fiscal
+year ended January 28, 1996. One customer of Semtech Santa Clara accounted for
+approximately 12% of the Company's consolidated sales in fiscal 1996 and 15% in
+fiscal 1994. The Company does not have any significant contracts with its
+customers calling for shipments over a period of more than 18 months. Company
+sales are not seasonal.
+
+The Company estimates that during the three fiscal years ended in 1996, 1995,
+and 1994, approximately 15%, 30%, and 40%, respectively, of its sales were made
+to military and aerospace related accounts, and 85%, 70%, and 60%, respectively,
+were made to nongovernment users, including distributors. Direct sales to the
+government constituted less than 1% of total sales in any year.
+
+As a result of the acquisition and pooling of Gamma, Inc., the Company had net
+sales from wafer foundry services of approximately $16,094,000, $7,004,000 and
+$7,321,000 in 1996, 1995, and 1994 respectively. Two customers accounted for
+75%, 72% and 75% of these sales in 1996, 1995 and 1994, respectively.
+
+Foreign sales, defined as customers located outside of the United States, during
+the fiscal year ended January 28, 1996 were approximately 36% of Company sales.
+During the previous two fiscal years foreign sales were 24% and 18%,
+respectively, of Company sales. Most foreign sales were to customers located in
+Canada, Europe and the Far East. A significant portion of the sales growth
+experienced in fiscal 1996 was due to increased sales located in the Far East
+region. Sales to customers in this region were approximately 23% of total sales
+and 22% of new orders in fiscal 1996.
+
+The Company maintains a domestic sales and marketing organization consisting of
+Company sales people located in Southern California, Texas, Ohio and Connecticut
+who manage the sales activities of independent sales representative firms and
+independent industrial distributors within the United States and Canada. In
+Europe, the Company maintains sales offices in France, Germany and Scotland to
+serve the European markets. During fiscal 1996, the Company opened a branch
+office in Taipei, Taiwan. The Company is represented outside the United States,
+Europe and Taiwan by other independent sales organizations.
+
+                                      -4-
+<PAGE>
+ 
+Sales to customers are made on the basis of individual customer purchase orders.
+Many large commercial customers, particularly in the personal computer industry,
+include terms in their purchase orders which provide liberal cancellation
+provisions. Although in some instances purchase orders are issued by customers
+following issuance of a letter of intent, orders covered by a letter of intent
+only are not included in the Company's backlog of purchase orders. The Company's
+backlog of orders as of the end of the last three fiscal years ended 1996, 1995,
+and 1994 was approximately $19.5 million, $13.2 million and $11.6 million,
+respectively. The majority of the backlog is deliverable within six months since
+the Company's experience has shown that short-delivery lead times are required
+by most of its customers. A backlog analysis at any given time gives little
+indication of future business except on a short-term basis.
+
+PRODUCT DEVELOPMENT AND ENGINEERING
+
+In each of the last three fiscal years ended in 1996, 1995, and 1994, the
+Company has expended approximately $2,827,000, $1,588,000 and $996,000,
+respectively, on product development and engineering. The Company currently
+performs product development and engineering work in its Newbury Park, Corpus
+Christi and Santa Clara facilities. Engineering functions exist within each of
+these operations in the form of product engineering, process engineering, and
+research and development. The employees within these engineering functions
+devote the majority of their time to the product engineering, process
+engineering and product development functions. Product development and
+engineering costs were recognized on expenditures for new product and process
+development. Accordingly, such expenditures have been fully charged to the
+earnings of the period in which they were incurred.
+
+COMPETITION
+
+The semiconductor industry is highly competitive and the Company expects
+competitive pressures to continue. The Company is in direct and active
+competition, as to one or more of its product families, with at least thirty
+manufacturers of such products of varying financial size and strength. A number
+of these competitors are dependent on semiconductor products as their principal
+source of income, and some are much larger than the Company. The number of
+different competitors faced by the Company has grown due to the Company's entry
+into new commercial markets.
+
+Product life cycles in the semiconductor industry are generally short and
+characterized by decreasing unit selling prices over the life of a product. The
+Company believes that the portion of the semiconductor industry which includes
+the Company's military products has matured and, accordingly, prices have begun
+to fluctuate with market conditions as these products act more and more like
+commodities. The Company has entered several growing commercial markets with
+products which include transient voltage suppressors, DC to DC converters, and
+linear regulators. While offering higher potential gross margins, these markets
+are extremely competitive.
+
+The Company's ability to compete effectively and to expand its business will
+depend not only on efficiency and economy in production and sales, but also on
+other factors such as whether it is successful in continuing to enhance product
+yield and in systematically introducing improved devices. Over the past five
+years the Company has experienced improvements in productivity and product
+yields which have reduced manufacturing costs. However, the Company still faces
+many potentially significant business risks such as new sources of competition,
+obsolescence or the loss of a major customer.
+
+                                      -5-
+<PAGE>
+ 
+PATENTS AND LICENSES
+
+Patents, licenses and other rights have not proven in the past to be significant
+to the Company's business. However, competition in the commercial marketplace
+has required that certain developed devices be protected by patents. In fiscal
+1996, the Company introduced a line of transient suppressors which protect lower
+voltage circuits. The Company intends to pursue such rights for future products
+that may require protection from use by competitors. At this time, the Company
+does not license and is not the licensee under any patents.
+
+ENVIRONMENTAL MATTERS
+
+The Company's manufacturing processes utilize several types of acids and, to a
+much lesser degree, solvents. All concentrated neutralized acids and
+precipitants are, to the best of the Company's knowledge, sent to appropriate
+reprocessing facilities. Extensive soil sampling and groundwater testing is
+performed to determine if any contamination exists on the Company's domestic
+sites. No evidence of contamination from these manufacturing processes requiring
+remedial action has been detected to date, except Santa Clara where certain
+elements have been detected above the allowable levels. Monitoring wells are
+installed to allow for continued testing of potential future contamination, both
+on-site and from upstream sources.
+
+In the past, at the Company's Newbury Park facility, some of the acids were
+neutralized in underground tanks and hauled to proper disposal sites while
+others were neutralized and discharged into the local sewer system. In 1985 the
+Company was notified that it was exceeding allowable Federal levels for certain
+metals, fluorides and dissolved solids for discharge into the sewer system.
+Since receiving this notice of violation regarding industrial waste discharge
+the Company has worked with local official government agencies to construct a
+new treatment system and to remove the underground tanks. In early 1989 a new
+waste treatment system was brought on line and, to the best of its knowledge,
+the Company has operated in compliance with all Federal, State and local
+discharge limits. Also during this time the Company abandoned its four
+underground acid neutralization tanks at its Newbury Park facility. These tanks
+have all been removed. To the best of the Company's knowledge it never stored
+solvents in these underground tanks. Solvents are stored in their original
+containers in a controlled, contained area. Used solvents are returned to their
+original containers and sent to a recycling company.
+
+In late February 1992 the Company was served a subpoena in a lawsuit between two
+parties other than the Company regarding groundwater contamination issues on a
+property located approximately 50 yards to the north of the Company's principal
+offices in Newbury Park, California. This case has since been settled and the
+Company was not named in the lawsuit, but was asked to provide information on
+the use, handling, collection, storage, disposal and release of certain
+chemicals and solvents at or near its Newbury Park facility. In addition, with
+respect to this site, the Company was asked to testify on its storage
+facilities, soil testing activities and findings, and the existence of soil and
+groundwater contamination. Certain contaminants from the adjacent manufacturing
+site have been found in the ground water at the Company's Newbury park facility.
+The Company has data showing that the contaminants are from the adjacent
+facility, which is owned by a 'Fortune 500' company. The contaminants in
+question have never been used by the Company at the Newbury Park facility. To
+protect its interests the Company utilizes an environmental firm, specializing
+in hydrogeology, to perform periodic monitoring. It is currently not possible to
+determine the ultimate amount of possible future clean-up costs, if any, that
+
+                                      -6-
+<PAGE>
+ 
+may be required of the Company at this site. Accordingly, no reserves for such
+clean-up activities have been provided by the Company at this time.
+
+In fiscal 1996, the Company located another underground tank on the property in
+Newbury Park it leases. This tank was installed by a previous tenant, in
+approximately 1960. The Company is currently discussing with the landlord who
+will be responsible for the removal of this tank. The Company believes that its
+environmental accrual is adequate to cover any costs to be borne by the Company.
+
+The Company's Santa Clara facility utilizes several types of acids and solvents
+in its manufacturing process which are neutralized in a series of underground
+tanks. The Company has decided to remove these underground acid neutralization
+tanks to be replaced with an upgraded system as certain contaminants have been
+collected from a monitoring well on the property. The Company has accrued
+$250,000 for the removal of the underground tanks, installation of a treatment
+system and filtering of compounds. Based on advice of environmental consultants,
+Company management believes this reserve is adequate to cover the related costs
+and any future clean-up.
+
+Semtech Corpus Christi has been named in a suit resulting from waste disposal by
+the Company's maquiladora plant in Reynosa, Mexico. Specifically, the
+maquiladora re-imported waste into the U.S. and disposed of the waste in a
+landfill near McAllen, Texas. The suit, which is in the discovery stage,
+pertains to alleged groundwater contamination originating from the landfill. The
+company which owns the landfill and several other maquiladoras have also been
+named in the suit. The Company has retained legal counsel and intends to defend
+itself as management believes that the suit is without merit.
+
+EMPLOYEES
+
+As of January 28, 1996 the Company had 499 full-time employees, compared to 442
+full-time employees at January 29, 1995. The principal reason for this increase
+was increased production and new product development.
+
+There has been an ample supply of production labor in the areas of the Company's
+manufacturing facilities. The Company has never had a work stoppage, and its
+domestic and European employees are not unionized. The Company's Mexican
+Maquiladora operation has unionized employees. Employee relations at the Mexican
+plant have been, and are, satisfactory. In April 1995, the union contract was
+renegotiated in light of the fall in value of the Mexican Peso.
+
+GOVERNMENT REGULATIONS
+
+The Company is required to comply with numerous government regulations which are
+normal and customary to manufacturing businesses which operate in the Company's
+markets and operating locations. In addition, a substantial portion of the
+Company's sales that serve the military and aerospace markets consist of
+products which have been qualified to be sold in these markets by the U.S.
+Department of Defense (the "DOD"). These products mainly consist of discrete
+rectifiers and rectifier assemblies. In order to maintain these qualifications
+the Company must comply with certain specifications promulgated by the DOD. As
+part of maintaining these qualifications the Company is routinely audited by DOD
+personnel. Based on the specifications as they exist today the Company believes
+it can maintain its qualifications for the foreseeable future. However, these
+specifications can be modified by the DOD in the future which may make the
+manufacturing of these products either more difficult or more simple to produce
+and thus impact the Company's profitability.
+
+                                      -7-
+<PAGE>
+ 
+ITEM 2.  PROPERTIES
+
+The Company's headquarters facility is located in Newbury Park, California,
+approximately 50 miles from downtown Los Angeles. The facility contains
+approximately 53,000 square feet of floor space. The current lease extends
+through August 1998 at an annual rental of approximately $242,000, plus
+applicable taxes and insurance. This facility contains the majority of the
+Company's military and commercial rectifier and custom assembly manufacturing
+operations, as well as all of the Company's inside Sales & Marketing and
+Administrative offices.
+
+The Company leases 7,000 square feet of space in Newbury Park, California,
+approximately two city blocks from the Company's main manufacturing facility.
+The space is utilized by the Company for high reliability processing. The
+current lease extends through April 1998 at an annual rental of approximately
+$39,000, plus applicable taxes and insurance.
+
+The Company's 20,000-square-foot manufacturing facility in Glenrothes, Fife,
+Scotland was purchased by the Company's wholly owned subsidiary in fiscal 1988.
+A portion of the Company's products are manufactured in this facility, and
+substantially all of the manufactured output from the facility is sold in the
+European market. The facility includes approximately one acre of land.
+
+The Semtech Corpus Christi subsidiary leases approximately 44,000 square feet of
+floor space in Corpus Christi, Texas. The current lease extends through December
+2000 at an average annual rental of approximately $110,000, plus applicable
+taxes and insurance. This facility contains the wafer fabrication, hybrid
+product assembly and production testing, as well as all of the subsidiary's
+engineering functions.
+
+The Semtech Santa Clara subsidiary conducts its operations in two leased
+facilities within a city block of each other. One facility, which houses the
+wafer fab, contains 10,345 square feet of space. The lease on this facility
+extends until November 1997 at an average annual rental of approximately
+$94,000. Semtech Santa Clara's other facility, which houses sales, design
+engineering, test and administration, contains 13,250 square feet. The lease on
+this facility extends until November 2000 at an average annual rental of
+approximately $120,000.
+
+In May 1991, the Company acquired an approximately 22,000-square-foot building
+on approximately three and one-half acres of land in Reynosa, Mexico. This space
+is used to operate the Company's Mexican "Maquiladora" operation for assembly of
+certain of its rectifier assemblies and DC to DC converter modules products.
+
+The Company maintains sales offices in Texas and Connecticut on short-term
+leases. Aggregate annual rentals under these leases during the most recently
+completed fiscal year equaled approximately $16,000. The Company also maintains
+sales offices in France and Germany and a branch office in Taiwan under short-
+term leases with an aggregate annual rental during fiscal year 1996 of
+approximately $34,000.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+The Company is the defendant in lawsuits involving matters which are routine to
+the nature of its business. The Company believes that the ultimate resolution of
+all such matters will not have a material adverse effect on its business, its
+prospects, or its financial condition and results of operations.
+
+                                      -8-
+<PAGE>
+ 
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+During the fourth quarter of the fiscal year covered by this report no matter
+was submitted to a vote of the security holders through the solicitation of
+proxies or otherwise.
+
+                                      -9-
+<PAGE>
+ 
+                                    PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER
+         MATTERS
+
+The information set forth at Page 30 of this report under the heading "Selected
+Quarterly Data" is incorporated herein by reference.
+
+As of April 12, 1996, there were approximately 775 recorded holders of the
+Company's common stock.  The last reported sales price for the Company's common
+stock on the NASDAQ National Market System at April 12, 1996 was $11.00 per
+share.
+
+The Company discontinued its cash dividend in late 1980 and does not anticipate
+paying a cash dividend in the current year.  The Company has not declared a
+stock dividend in the current year and does not presently anticipate doing so in
+the foreseeable future.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+The following table sets forth summary financial information.  Dollar amounts
+are in thousands, except per share amounts.  This data has been restated to
+reflect Semtech's acquisition of ECI which was treated as a pooling-of-interests
+for accounting purposes, except the 1992 information which has not been restated
+because its impact on net income was immaterial.  The information set forth
+below should be read in conjunction with the Company's complete financial
+statements, appearing elsewhere in this report.
+
+<TABLE>
+<CAPTION>
+                                                          Year Ended January
+                                                          ------------------
+                                            1996      1995      1994       1993      1992
+                                           -------   -------   -------   --------   -------
+<S>                                        <C>       <C>       <C>       <C>        <C>
+Net Sales                                  $61,684   $34,605   $29,353   $27,554    $26,531
+
+Gross Profit                                25,809    11,272     8,440     7,986      8,062
+Operating Income (Loss)                     11,787     2,099       500        (4)     1,139
+Income (Loss) Before Taxes                  11,343     2,028       300       (53)       875
+Net Income (loss)                          $ 7,531   $ 1,502   $   198   $  (103)   $   707
+- -------------------------------------------------------------------------------------------
+Net Income (Loss) per Share:
+    Primary                                $  1.21   $   .27   $   .04   $  (.02)   $   .16
+    Fully Diluted                          $  1.18   $   .25   $   .03   $  (.02)   $   .14
+- -------------------------------------------------------------------------------------------
+Total Assets                               $32,685   $21,377   $18,260   $17,103    $16,239
+Long-Term Debt, Less Current
+  Maturities                               $ 1,024   $   799   $   963   $ 1,060    $ 1,304
+Working Capital                            $17,881   $11,475   $ 9,623   $ 9,142    $ 9,523
+Total Shareholders' Equity                 $23,269   $13,715   $11,697   $11,282    $12,298
+</TABLE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+INDUSTRY TRENDS AND OUTLOOK
+- ---------------------------
+
+The Company experienced growth during fiscal year 1996 due to new products used
+in computer and communications applications.  The commercial semiconductor
+industry and the markets in which the Company's products are used are
+characterized by rapid changes and short product life cycles.  The market for
+the Company's military and aerospace products remains fiercely competitive.  The
+Company plans to address these issues by focusing efforts on eliminating less
+profitable product lines and pushing new product development.
+
+Typical of the semiconductor industry, the Company has experienced declines in
+average selling prices over the life of its product lines.  Efforts to offset
+
+                                      -10-
+<PAGE>
+ 
+this decline include increasing units shipped, finding new applications for
+existing products and introduction of new products.  Management will continue to
+take steps to offset the impact of declines in average selling prices, however,
+there is no assurance that these efforts will be successful.
+
+The Company also derives a significant amount of revenue from the sale of
+foundry wafers. These wafers are generally purchased by manufacturers who
+package the individual silicon die in their products. Demand for these wafers
+can vary significantly based on demand for the manufacturer's finished product.
+The foundry business is also very competitive, with other foundries offering
+similar services. The revenue generated by this segment can vary significantly
+depending not only on macro trends within the semiconductor industry, but also
+on conditions at specific customers. As previously disclosed the Company expects
+that foundry revenue will decline in the first quarter of fiscal 1997 compared
+to levels in the fourth quarter of fiscal 1996. Subsequent to the Company's
+fiscal 1996 year-end, there was a general downturn in the semiconductor industry
+due primarily to excess inventory in the personal computer market.
+
+RESULTS OF OPERATIONS
+- ---------------------
+
+Semtech posted record sales of $61.7 million in fiscal year 1996 compared with
+$34.6 million in fiscal 1995 and $29.4 million in 1994.  Net income was
+$7,531,000 in 1996 compared to $1,502,000 in 1995 and $198,000 in 1994.  The
+results of operations for the three years ended January 28, 1996 have been
+restated to reflect the pooling of ECI.
+
+SALES
+- -----
+
+Sales for fiscal year 1996 increased 78% over fiscal 1995 and 110% over fiscal
+year 1994.  The increase was primarily due to the increased shipment of analog
+semiconductor products used in commercial applications.  Increased sales of the
+Company's lines of linear regulators, transient voltage suppressors (TVS), and
+foundry wafers represented a majority of the increased revenues.
+
+Sales of commercial semiconductors continued to increase in fiscal 1996 compared
+to prior periods.  Sales of devices used in computer and peripheral applications
+represented about 30% of total sales for the year.  Communications applications
+represented 9%, industrial applications 20%, and foundry customers represented
+26%.  This mix is attributable to the Company's acquisition of ECI Semiconductor
+and the development and marketing of new products for a diverse customer base.
+
+For the year, sales to military and aerospace customers remained relatively flat
+in absolute dollars and decreased to approximately 15% of total sales.  The
+Company expects the military market will be flat or decline slightly in fiscal
+year 1997.  The Company has implemented a strategy for selective participation
+in the military market.
+
+The Asia-Pacific region continued to show increased demand for the Company's
+products in fiscal 1996.  A large portion of this demand was for devices used in
+computer applications.  Sales to customers located in the Asia-Pacific region
+were approximately 23% of the total sales for all of fiscal 1996, compared to 7%
+in fiscal 1995.  Sales to European customers represented 13% of fiscal 1996's
+total sales compared to 17% in fiscal 1995.  The Company would expect that sales
+to both the Asia-Pacific and European regions will grow (in absolute dollars) as
+added investment in computer and communications equipment is forecasted for
+these regions.
+
+                                      -11-
+<PAGE>
+ 
+ORDERS
+- ------
+
+New orders for fiscal year 1996 amounted to $68 million. The Company's book-to-
+bill ratio for the year was 1.10.
+
+Semtech witnessed increases in the order rates for its lines of linear
+regulators and transient voltage suppressers (TVS).  The Company also
+experienced significant growth in the orders of foundry wafers.  Foundry wafers
+are fabricated wafers that are sold to customers who then use the wafer to
+produce their own finished products.  Linear regulators, which are used in
+powering applications, are designed to both regulate and drop output voltage
+levels.  TVS devices provide "overvoltage" protection to sensitive electronic
+circuits.  The Company experienced limited success in booking orders for its
+line of DC to DC power converters.
+
+Orders from customers located in Asia-Pacific continued to grow in fiscal 1996.
+The Company was successful in identifying additional business opportunities with
+several suppliers of computer and telecommunications products.  Bookings from
+Asia-Pacific customers represented approximately 22% of the total orders
+received in fiscal 1996.  The entire Asia-Pacific region has become
+strategically important for achieving additional new customers and increased
+order levels.  As was planned,  Semtech opened a branch office in Taiwan to
+support sales and marketing effort in the region.
+
+In 1996 the Company took steps to improve both domestic and foreign direct and
+distribution sales coverage by reviewing and in some cases extending agreements
+with key distributors.  This improved coverage is expected to help unit sales of
+both military and commercial products.
+
+The Company ended fiscal year 1996 with $19.5 million in backlogged orders
+compared to $13.2 million and $11.6 million at the end of fiscal years 1995 and
+1994, respectively.  A majority of the Company's backlog is shippable within six
+months.
+
+GROSS MARGIN
+- ------------
+
+The Company's gross profit margin for fiscal year 1996 improved to 42% compared
+to 33% in 1995 and 29% in 1994.  This increase was due to added shipments of
+higher margin devices, improved capacity utilization and improved production
+yields.  The Company's overall gross margin continued to be adversely affected
+by margins received on products sold to military customers.  Included in the
+cost of sales are certain expenditures for engineering costs and process
+development which the Company considers to be production related.
+
+Gross margin improvement over time is dependent on the Company's ability to
+develop and introduce higher margin commercial products, more fully utilizing
+capacity and achieving further yield improvements.  The Company's strategic plan
+calls for the introduction of additional proprietary products, which tend to
+fetch higher margins than industry standard and custom parts.  Management also
+intends to continue to pursue any available steps to improve manufacturing
+efficiencies.  These efforts are expected to be partially offset by a decline in
+the Company's older product lines.
+
+SELLING, GENERAL AND ADMINISTRATIVE, AND ENGINEERING
+- ---------------------------------------------------- 
+
+Costs related to selling, general and administrative, and engineering in 1996
+were $14.0 million, representing an increase of 53% over the $9.2 million in
+1995 and an increase of 77% over the $7.9 million in 1994.  The rise  was due to
+across-the-board increases in research and development spending, the addition of
+
+                                      -12-
+<PAGE>
+ 
+several strategic marketing individuals, increased commission expense and
+variable compensation.  Both sales and engineering costs increased due to the
+Company's overall efforts to increase sales long-term. The specific areas in
+which Semtech expended more resources were primarily sales, advertising, and
+engineering.  Operating expenses were 23% of net sales in 1996 versus 27% in
+1995 and 27% in 1994.  Management expects expenses related to sales, general and
+administrative and engineering to increase (in absolute dollar terms) in fiscal
+year 1997 due to efforts to grow net sales.
+
+INTEREST AND OTHER EXPENSE
+- --------------------------
+
+In fiscal year 1996, the Company had interest expense of $99,000 compared to
+$160,000 in 1995 and $149,000 in 1994.  The decline in interest expense is due
+to a lower average daily debt balance in fiscal 1996 compared to 1995 and 1994.
+Semtech had net other expense of $345,000 in 1996, which included $498,000 for
+costs associated with the acquisition of ECI Semiconductor, $156,000 of interest
+income, $1,000 loss on disposition of assets and $2,000 of miscellaneous
+expenses. Semtech had other income of $89,000 in 1995, which included $144,000
+of interest income and $5,000 of foreign currency transaction gains, partially
+offset by miscellaneous expense of $60,000.  In fiscal 1994, the Company
+incurred net other expense of $51,000, which included foreign currency
+transaction losses totaling $29,000, $69,000 of miscellaneous expenses that
+included the amortization of intangibles, $8,000 loss on disposition of assets,
+$108,000 in restructuring charges taken to reduce headcount in our Corpus
+Christi and Scotland facilities and interest income of $163,000.  The cost
+savings generated through the restructuring were originally estimated at
+$100,000 per quarter.  The actual savings have not differed materially from this
+original estimate.
+
+INCOME TAX EXPENSE
+- ------------------
+
+Income tax expense for fiscal 1996 was $3,812,000 compared to $526,000 and
+$102,000 in 1995 and 1994, respectively.  The effective tax rate was higher in
+1996 than in 1995 due to increased revenues generated from California based
+operations and due to the utilization of R&D credit and alternative minimum tax
+credit carry-forwards during fiscal 1995.  The annual tax rate for fiscal 1997
+is expected to approximate the rate for fiscal 1996.  As of fiscal 1996 year-
+end, the Company had $792,000 in deferred tax assets, which is net of related
+valuation reserves. The valuation reserve has been established in accordance
+with SFAS No. 109.
+
+FINANCIAL CONDITION
+- -------------------
+
+During fiscal year 1996, the Company  improved its financial condition.
+Semtech's working capital ratios, which measure the Company's ability to meet
+its short-term obligations are presented.
+
+<TABLE>
+<CAPTION>
+                                            1996      1995      1994
+                                            ----      ----      ----
+<S>                                        <C>       <C>       <C>
+Working Capital:
+Beginning of year                          $11,475   $ 9,623    $9,142
+End of year                                $17,881   $11,475    $9,623
+Increase (decrease) in working capital     $ 6,406   $ 1,852    $  481
+Working capital ratios                         3.4       2.9       3.1
+</TABLE>
+
+The increase in working capital for fiscal 1996 was the result of $6,210,000 of
+cash generated by operations.  During fiscal 1996, the Company invested
+
+                                      -13-
+<PAGE>
+ 
+approximately $4.4 million in capital equipment and approximately $2.7 million
+in inventory to support its commercial product lines.  Despite these investments
+and the repayment of debt, the Company's net cash balance increased by $2.8
+million in fiscal 1996.  Semtech's working capital ratio increased to 3.4 in
+1996 from 2.9 in 1995 and 3.1 in 1994.
+
+The Company maintains a credit facility with a financial institution for working
+capital and equipment acquisition.  This line provides up to $7.5 million of
+credit and extends until August 1996.  This arrangement is collateralized by the
+Company's domestic assets and contains provisions regarding current ratios, debt
+to worth, and net worth.  During fiscal 1996, the Company borrowed $822,000
+against this line, which was converted into a 3 year note. In October 1994, the
+Company entered into a four year term loan in the amount of $535,000.  Both
+loans were for the purchase of capital equipment and are collateralized by the
+related equipment.  The Company's foreign subsidiary also maintains an overdraft
+credit line in the amount of 300,000 pounds sterling with a commitment from its
+bank to expand this line to 1,000,000 pounds sterling. This line is based on a
+percentage of foreign assets and is guaranteed by the Company.  No amounts were
+outstanding under the line at January 28, 1996.
+
+Efforts by the Company over the past several years to increase commercial
+semiconductor product sales have been effective.  New products have been
+introduced for such applications as computer and telecommunications equipment.
+In order to develop, design and manufacture new products, the Company has had to
+make significant investments over the past several years.  Such investments,
+including the addition of several design and applications engineers, aimed at
+developing additional new products will continue.  Semtech fully intends to
+continue to invest in those areas that have shown potential for viable and
+profitable market opportunities.  Certain of these investments, particularly the
+addition of design engineers, will probably not generate significant payback in
+the short-term.  The Company plans to finance these investments with cash
+generated by operations, cash on-hand, and borrowings from the Company's credit
+facilities.
+
+In an on-going effort to grow the Company and improve its long-term financial
+position, the Company has examined potential acquisitions.  Although no
+agreements have been reached, the Company will continue to investigate possible
+acquisitions that fit with the Company's strategic plan.  If the Company does
+choose to enter such a transaction, several forms of financing will be examined.
+
+The leverage ratios presented below indicate the extent to which the Company has
+been financed with debt.  Total debt increased by $150,000 in fiscal year 1996.
+This increase was the result of a borrowing to finance certain capital equipment
+purchases, partially offset by regular principal payments and conversion of
+debentures.  Existing debt services are supported by adequate cash flows from
+operations.
+
+<TABLE>
+<CAPTION>
+                                                          1996    1995    1994
+                                                          ----    ----    ----
+<S>                                                       <C>     <C>     <C>
+Long-term debt as a % of total capitalization(1)          4.2%    5.5%    7.6%
+
+Total debt as a % of total capitalization (1)             5.9%    8.8%   11.0%
+
+(1) Total capitalization is defined as the sum of long-
+    term debt and shareholders' equity.
+</TABLE>
+
+During fiscal year 1996, Semtech purchases of new capital equipment were
+$4,427,000.  These additions were made primarily to expand manufacturing
+
+                                      -14-
+<PAGE>
+ 
+capacity and improve efficiency.  Funding for these purchases was made from the
+Company's operating cash flows, cash reserves, and debt obligations.
+
+Management plans to make capital expenditures in fiscal 1997 to increase test,
+assembly and wafer fabrication capacity.  As of January 28, 1996, the Company
+had approximately $537,000 of outstanding commitments for machinery and
+equipment purchases.  The Company believes that current internal cash flows
+together with cash reserves and existing credit facilities are sufficient to
+support these capital expenditures.
+
+Accounts receivable days sales outstanding, calculated by annualizing fourth
+quarter results for 1996 and 1995, improved to forty-one days as of January 28,
+1996 from forty-seven days as of January 29, 1995.  Days sales outstanding are
+impacted by sales within Europe at standard terms of sixty to ninety days.
+Inventory turns increased to 4.1 as of January 28, 1996 from 3.7 as of January
+29, 1995.  This increase was primarily due to the Company's new products
+inventory which turned at a faster rate than the military inventory.  All
+inventory which is obsolete or in excess of one year's demand is fully reserved.
+
+INFLATION
+- ---------
+
+Inflationary factors have not had a significant effect on the Company's
+performance over the past three fiscal years.  A significant increase in
+inflation would affect the Company's future performance.
+
+                                      -15-
+<PAGE>
+ 
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+CONSOLIDATED STATEMENTS OF INCOME
+THREE YEARS ENDED JANUARY 28, 1996
+(Dollars in thousands-except per share amounts)
+<TABLE>
+<CAPTION>
+ 
+ 
+                                           1996       1995       1994
+- ----------------------------------------------------------------------
+<S>                                      <C>        <C>        <C>
+NET SALES                                $61,684    $34,605    $29,353
+Cost of Sales                             35,875     23,333     20,913
+                                         -------    -------    -------
+GROSS PROFIT                              25,809     11,272      8,440
+                                         -------    -------    -------
+OPERATING COSTS AND EXPENSES:
+Selling, general and administrative       11,195      7,585      6,944
+Product development and engineering        2,827      1,588        996
+                                         -------    -------    -------
+Total operating costs and expenses        14,022      9,173      7,940
+                                         -------    -------    -------
+OPERATING INCOME                          11,787      2,099        500
+
+Interest expense                             (99)      (160)      (149)
+Acquisition costs                           (498)         -          -
+Other income (expense), net                  153         89        (51)
+                                         -------    -------    -------
+INCOME BEFORE TAXES                       11,343      2,028        300
+Provision for taxes                        3,812        526        102
+                                         -------    -------    -------
+NET INCOME                               $ 7,531    $ 1,502    $   198
+                                         =======    =======    =======
+EARNINGS PER SHARE:
+NET INCOME PER SHARE-
+PRIMARY                                  $  1.21    $  0.27    $  0.04
+FULLY DILUTED                            $  1.18    $  0.25    $  0.03
+</TABLE>
+
+See accompanying notes.
+
+
+                                      -16-
+<PAGE>
+ 
+CONSOLIDATED BALANCE SHEETS
+JANUARY 28, 1996 AND JANUARY 29, 1995
+(Dollars in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                             1996       1995
+- -------------------------------------------------------------
+<S>                                        <C>        <C>
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents                  $ 6,034    $ 3,261
+Temporary investments                          411        821
+Receivables, less allowances of $821 in 
+  1996 and $281 in 1995                      7,987      5,367
+Income taxes refundable                         72         71
+Inventories                                  9,986      7,313
+Other current assets                           521        198
+Deferred income taxes                          465        352
+                                           -------    -------
+Total current assets                        25,476     17,383
+                                           -------    -------
+Property, plant and equipment, net           6,748      3,491
+
+Other assets                                   134        464
+
+Deferred income taxes                          327         39
+                                           -------    -------
+TOTAL ASSETS                               $32,685    $21,377
+                                           =======    =======
+ 
+ 
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+Line of credit                             $     -    $   175
+Current maturities of long-term debt           404        304
+Accounts payable                             4,060      2,749
+Accrued liabilities                          2,407      1,985
+Income taxes payable                           405        476
+Other current liabilities                      319        219
+                                           -------    -------
+Total Current Liabilities                    7,595      5,908
+                                           -------    -------
+Long-term debt, less current maturities      1,024        799
+                                           -------    -------
+Other long-term liabilities                    797        955
+                                           -------    -------
+Commitments and contingencies
+
+SHAREHOLDERS' EQUITY:
+Common stock, $0.01 par value,
+  10,000,000 authorized
+Issued and outstanding 6,011,369 in
+  1996 and 5,638,409 in 1995                    75         72 
+Additional paid-in capital                  10,520      8,296
+Retained earnings                           13,022      5,565
+Cumulative translation adjustment             (348)      (218)
+                                           -------    -------
+Total Shareholders' Equity                  23,269     13,715
+                                           -------    -------
+TOTAL LIABILITIES AND SHAREHOLDERS'
+EQUITY                                     $32,685    $21,377
+                                           =======    =======
+</TABLE>
+
+See accompanying notes.
+
+                                      -17-
+<PAGE>
+ 
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+THREE YEARS ENDED JANUARY 28, 1996
+(Dollars in thousands)
+
+<TABLE>
+<CAPTION>
+ 
+ 
+                                                    Common Stock
+                                         ---------------------------------
+                                                                Additional                Cumulative
+                                            Number               Paid-in     Retained    Translation    Shareholders'
+                                           of Shares   Amount    Capital     Earnings     Adjustment        Equity
+- ---------------------------------------------------------------------------------------------------------------------
+<S>                                        <C>         <C>      <C>          <C>         <C>            <C>
+BALANCE AT JANUARY 31, 1993                5,042,182      $67      $ 7,628    $ 3,875          $(288)         $11,282
+Conversions of debentures                     40,000        -           50          -              -               50
+Stock options exercised                       76,566        1          117          -              -              118
+Stock issued for services                     28,707        -            7          -              -                7
+Translation adjustment                             -        -            -          -             42               42
+Net income                                         -        -            -        198              -              198
+- ---------------------------------------------------------------------------------------------------------------------
+BALANCE AT JANUARY 30, 1994                5,187,455      $68      $ 7,802    $ 4,073          $(246)         $11,697
+Conversion of debentures                     350,440        3          347          -              -              350
+Stock options exercised                       61,125        1          112          -              -              113
+Stock issued for services                     39,389        -           35          -              -               35
+Stock repurchases                                  -        -            -        (10)             -              (10)
+Translation adjustment                             -        -            -          -             28               28
+Net income                                         -        -            -      1,502              -            1,502
+- ---------------------------------------------------------------------------------------------------------------------
+BALANCE AT JANUARY 29, 1995                5,638,409      $72      $ 8,296    $ 5,565          $(218)         $13,715
+Conversions of debentures                    136,280        1          135          -              -              136
+Stock options exercised                      236,680        2          440          -              -              442
+Tax benefit from stock options
+   exercised                                       -        -        1,649          -              -            1,649
+Stock repurchases                                  -        -            -        (74)             -              (74)
+Translation adjustments                            -        -            -          -           (130)            (130)
+Net income                                         -        -            -      7,531              -            7,531
+- ---------------------------------------------------------------------------------------------------------------------
+BALANCE AT JANUARY 28, 1996                6,011,369      $75      $10,520    $13,022          $(348)         $23,269
+- ---------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+See accompanying notes.
+
+                                      -18-
+<PAGE>
+ 
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+THREE YEARS ENDED JANUARY 28, 1996
+(Dollars in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                1996       1995       1994
+- ------------------------------------------------------------------------------------------
+<S>                                                          <C>        <C>        <C>
+Cash flows from operating activities:
+
+Net income                                                   $ 7,531    $ 1,502    $   198
+
+Adjustments to reconcile net income to
+net cash provided by operating activities:
+    Depreciation and amortization                              1,139        997      1,129
+    
+    Deferred income taxes                                       (401)      (128)       (81)
+    
+    Loss on disposition of assets                                  1          -          -
+    
+    Provision for doubtful accounts                              540        (39)        28
+    
+    Tax benefit from stock option transactions                 1,649          -          -      
+   
+Changes in assets and liabilities:
+    
+    Receivables                                               (3,160)    (1,165)      (599)
+   
+    Income taxes refundable                                       (1)        67        (99)
+   
+    Inventories                                               (2,673)    (1,972)      (699)
+    
+    Other current assets                                        (323)        42         11
+    
+    Other assets                                                 304         44         (4)
+    
+    Accounts payable                                           1,311        372        349
+    
+    Accrued liabilities                                          422        661        (75)
+    
+    Income taxes payable                                         (71)       209        227
+   
+    Other liabilities                                            (58)       (23)         -
+                                                             -------    -------    -------
+Net cash provided by operating activities                      6,210        567        385
+                                                             -------    -------    -------
+Cash flows from investing activities:
+    
+    Temporary investments, net                                   410        190        (60)
+    
+    Proceeds from sale of property, plant and
+      equipment                                                   30          -          -
+    Additions to property, plant and equipment                (4,427)    (1,049)    (1,136)
+                                                             -------    -------    -------
+Net cash used in investing activities                         (3,987)      (859)    (1,196)
+                                                             -------    -------    -------
+Cash flows from financing activities:
+
+    Net borrowings (repayments) underline of credit             (175)      (111)       286
+    
+    Proceeds of employee note                                     26         39         50
+    
+    Additions to long-term debt                                  822        535         98
+    
+    Repayment of long-term debt                                 (361)      (194)      (285)
+    
+    Stock options exercised                                      442        113        118
+    
+    Purchase and retirement of common stock                      (74)       (10)         -
+                                                              ------    -------    -------
+Net cash provided by financing activities                        680        372        267
+                                                             -------    -------    -------
+Effect of exchange rate changes on cash and cash
+  equivalents                                                   (130)        28         42
+ 
+Net increase (decrease) in cash and cash equivalents           2,773        108       (502)
+ 
+Cash and cash equivalents at beginning of year                 3,261      3,153      3,655
+                                                             -------    -------    -------
+Cash and cash equivalents at end of year                     $ 6,034    $ 3,261    $ 3,153
+                                                             =======    =======    =======
+</TABLE>
+
+See accompanying notes.
+
+
+                                      -19-
+<PAGE>
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Summary of Significant Accounting Policies
+
+Business  Semtech Corporation, (the "Company"), including its wholly owned
+subsidiaries (Semtech Corpus Christi, Semtech Limited and Semtech Santa Clara)
+manufactures silicone rectifiers, integrated circuits and related devices which
+are used in computer, military, aerospace, industrial, automotive and consumer
+applications.
+
+Fiscal Year   The Company reports results on the basis of fifty-two and fifty-
+three week periods.  The three fiscal years in the period ended January 28, 1996
+consisted of fifty-two weeks, fifty-two weeks and fifty-three weeks,
+respectively.
+
+Revenue Recognition   The Company recognizes product revenue upon shipment.
+Product design and engineering revenue is recognized during the period in which
+services are performed.
+
+Principles of Consolidation   The accompanying consolidated financial statements
+include the accounts of Semtech Corporation and its wholly owned subsidiaries.
+All significant inter-company transactions and accounts have been eliminated.
+
+Inventories   Inventories are stated at the lower of cost or market and consist
+of materials, labor and overhead.  Cost is determined by the first-in, first-out
+method.
+
+Property, plant and equipment   Property, plant and equipment are stated at
+cost.  Depreciation is computed primarily using the straight-line method over
+the following estimated useful lives: buildings for fifty years; leasehold
+improvements for the lesser of estimated useful life or lease term; equipment
+for two to five years; and furniture and fixtures for three to five years.
+Maintenance and repairs are charged to expense as incurred and the costs of
+additions and betterments that increase the useful lives of the assets are
+capitalized.
+
+Income Taxes   Effective February 1, 1993, the Company changed its method of
+accounting for income taxes to comply with the provisions of Statement of
+Financial Accounting Standards ("SFAS") No. 109.  Under SFAS No. 109, deferred
+income tax assets or liabilities are computed based on the temporary difference
+between the financial statement and income tax bases of assets and liabilities
+using the statutory marginal income tax rate in effect for the year in which the
+differences are expected to reverse.  Deferred income tax expenses or credits
+are based on the changes in the deferred income tax assets or liabilities from
+period to period.  Prior to fiscal year 1994, deferred income taxes were
+provided on temporary differences between the income or loss determined for
+financial reporting and income tax reporting at income tax rates in effect when
+the differences are expected to be settled.  The change did not have a material
+effect on the financial statements.
+
+As of January 28, 1996 and January 29, 1995, approximately $1,781,000 and
+$1,445,000 of unremitted income related to the Company's wholly owned European
+subsidiary is not subject to federal and state income taxes, respectively,
+except when such income is paid to the parent company.  Federal and state income
+taxes have not been provided on this income, as it is management's intention
+that these amounts will not be distributed in a taxable transaction.
+
+                                      -20-
+<PAGE>
+ 
+Earnings per share   Primary earnings per common and common equivalent share
+(including the effect of stock options and stock warrants as common stock
+equivalents) have been computed based on the weighted average number of shares
+outstanding of 6,213,044 in 1996, 5,484,815 in 1995, and 5,176,116 in 1994.
+Fully diluted earnings per share was determined on the assumption that all the
+convertible debentures were converted at the beginning of the period under the
+if-converted method.  The weighted average number of shares used to compute
+fully diluted earnings per share in fiscal years 1996, 1995, and 1994 were
+6,377,661, 6,070,225, and 5,712,464, respectively.
+
+Translation   The assets and liabilities of the Company's foreign subsidiary are
+translated using currency exchange rates at fiscal year end.  Income statement
+items are translated at average exchange rates prevailing during the period.
+The translation gains or losses are included in the cumulative translation
+adjustment in the accompanying financial statements.
+
+Estimates Used by Management   The preparation of financial statements in
+conformity with generally accepted accounting principles requires management to
+make estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reported period.  Actual results could differ from those estimates.
+
+New Authoritative Pronouncements   In March 1995 the Financial Accounting
+Standards Board (FASB) issued SFAS No. 121, "Accounting for the Impairment of
+Long-Lived Assets and Long-Lived Assets to be Disposed Of" (SFAS 121), which
+requires impairment losses to be recorded on long-lived assets used in
+operations when indications of impairment are present and the undiscounted cash
+flows estimated to be generated by those assets are less than the assets'
+carrying amount.  The Company adopted SFAS 121 in the fourth quarter of 1996
+which had no impact on the Company's financial position and results of
+operations.
+
+In October 1995, the FASB issued SFAS No. 123, "Accounting for Stock-Based
+Compensation" (SFAS 123).  SFAS 123 encourages, but does not require, a fair
+value based method of accounting for employee stock options or similar equity
+instruments.  It also allows an entity to elect to continue to measure
+compensation cost under Accounting Principles Board Opinion No. 25, "Accounting
+for Stock Issued to Employees" (APB 25), but requires pro forma disclosure of
+net income and earnings per share as if the fair value based method had been
+applied.  The Company will be required to adopt this standard effective in
+fiscal 1997.  While the Company is still evaluating SFAS 123, it currently
+expects to elect to measure compensation cost under APB 25 and comply with the
+pro-forma disclosure requirements.  Therefore, SFAS 123 will have no impact on
+the Company's financial position or results of operations.
+
+Business Combination   On October 4, 1995, the Company entered into an Agreement
+and Plan of Merger ("Merger Agreement") among the Company, Semtech Acquisition
+Corp. (a wholly owned subsidiary of the Company), Gamma Inc. (dba ECI
+Semiconductor) and the shareholders of Gamma Inc.  Pursuant to the Merger
+Agreement, on October 4, 1995, Semtech Acquisition Corp. was merged into Gamma
+Inc., and Gamma Inc. was the surviving corporation and became a wholly-owned
+subsidiary of the Company.  Gamma Inc. was then renamed Semtech Santa Clara
+Corp.  Each share of Gamma Inc. stock outstanding on October 4, 1995, by virtue
+of the Merger Agreement, was exchanged for and converted into fully paid and
+nonassessable voting common shares, par value $.01 per share, of Semtech
+Corporation common stock, at the exchange rate of 775,000 shares of Semtech
+
+                                      -21-
+<PAGE>
+ 
+Corporation common stock (50,000 of which are being held in escrow for a maximum
+period of one year), for 147,566 shares of Gamma Inc. common stock. The Merger
+Agreement defines the terms under which all the outstanding shares of Gamma Inc.
+were exchanged.
+
+Semtech Corporation acquired Gamma Inc. to integrate and complement its existing
+business technology. Gamma Inc. is an analog semiconductor manufacturer
+supplying foundry wafers, custom linear and digital arrays, and general purpose
+analog semiconductor devices.
+
+The transaction was accounted for as a pooling of interests and, accordingly,
+the accompanying consolidated financial statements have been restated as if the
+companies had been combined for all periods presented.
+
+TEMPORARY INVESTMENTS
+
+Temporary investments consist of commercial paper and government obligations
+with original maturities in excess of three months and were carried at cost,
+which approximated market for fiscal 1994. In fiscal 1995, the Company adopted
+SFAS No. 115, "Accounting for Certain Investments in Debt and Equity
+Securities." At January 28, 1996, and January 29, 1995, the fair market value of
+these temporary investments, classified as "available for sale securities",
+approximated cost, thus no unrealized holding gains or losses were reported in
+the accompanying balance sheet. During fiscal year 1996, the Company had
+proceeds from sales of available for sale securities and gross realized losses
+on these sales of approximately $280,000 and $10,000, respectively. In addition,
+the Company holds corporate bonds and government securities of approximately
+$30,000 and $381,000, respectively, expiring at various dates through 1999.
+
+INVENTORIES
+
+The commercial semiconductor industry and the markets in which the Company's
+products are used are characterized by rapid changes and short product life
+cycles. Consistent with the industry, the Company has experienced declines in
+average selling prices over the life of its product lines. The Company has fully
+reserved inventory which is obsolete or in excess of one year's demand, and has
+provided reserves for declines in selling price below cost. Inventories
+consisted of the following:
+
+<TABLE>
+<CAPTION>
+                          Raw Materials    Work in process    Finished goods     Total
+  (thousands)
+- -------------------------------------------------------------------------------------------
+<S>                       <C>              <C>                <C>               <C>
+1996
+
+Gross inventories         $2,016            $ 7,370           $ 3,191           $12,577
+Total reserves              (722)           $  (688)           (1,181)           (2,591)
+                          ------            -------           -------           -------
+Net inventories           $1,294            $ 6,682           $ 2,010           $ 9,986
+                          ======            =======           =======           =======
+1995
+
+Gross inventories         $1,731            $ 5,869           $ 2,494           $10,094
+Total reserves              (539)            (1,146)           (1,096)           (2,781)
+                          ------            -------           -------           -------
+Net inventories           $1,192            $ 4,723           $ 1,398           $ 7,313
+                          ======            =======           =======           =======
+</TABLE> 
+                                     -22-
+<PAGE>
+ 
+PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment consisted of the following:
+
+<TABLE> 
+<CAPTION> 
+          (thousands)                                            1996       1995                        
+          ----------------------------------------------------------------------
+          <S>                                                 <C>        <C>                                           
+          Land                                                $   162    $   162                        
+          Building                                              1,008      1,024                        
+          Leasehold improvements                                1,411      1,237                        
+          Machinery and equipment                              12,548      9,592                        
+          Furniture and office equipment                          979        855                        
+                                                              -------    -------                        
+                                                               16,108     12,870                        
+          Less accumulated depreciation and amortization       (9,360)    (9,379)                        
+                                                              -------    -------                        
+          Total                                               $ 6,748    $ 3,491                        
+                                                              =======    =======
+</TABLE>
+
+
+OTHER ASSETS
+
+Included in other assets as of January 28, 1996 is a note receivable from an
+executive officer of $32,000.  It represents the amount due for the purchase of
+debentures issued in accordance with the Company's Key Management Convertible
+Subordinated Debenture Plan.  The remaining debentures, which were purchased by
+the executive officer in fiscal 1987, were converted to common stock of the
+Company during the current year.  This note bears an interest rate of 6.5% and
+matures on December 15, 1997.
+
+Principal and interest due under this note will be paid by the Company in the
+amount of 5% of the Company's pretax earnings for each fiscal quarter, beginning
+with the first quarter of fiscal 1995 and ending with the third quarter of
+fiscal 1997.  For fiscal 1996 and 1995, compensation expense in the amount of
+$497,000  and $85,000, respectively, was recognized by the Company under this
+agreement.
+
+ACCRUED LIABILITIES
+
+Accrued liabilities consisted of the following:
+
+<TABLE>
+<CAPTION>
+           (thousands)                                           1996      1995
+          ----------------------------------------------------------------------
+          <S>                                                 <C>        <C>    
+          Payroll and related                                 $1,613     $1,125
+          Commissions                                            158        141
+          Reserve for credit memos                                50        150
+          Environmental                                          250        250
+          Other                                                  336        319
+                                                              ------     ------
+          Total                                               $2,407     $1,985
+                                                              ======     ====== 
+</TABLE>
+
+The Company plans to remove underground acid neutralization tanks and perform
+soil remediation and monitoring at two of its facilities and install a new
+treatment system at one of these facilities.  The Company estimates the cost of
+these activities to be $250,000 based on consultation with environmental
+consultants and has accrued this amount in the accompanying financial statements
+as of January 28, 1996, and January 29, 1995.
+
+Certain contaminants from an adjacent manufacturing site have been found in the
+ground water at the Company's Newbury Park facility.  The Company has data
+showing that the contaminants are from an adjacent facility.  The contaminants
+in question have never been used by the Company at the Newbury Park facility.
+
+                                      -23-
+<PAGE>
+ 
+To protect its interests the Company utilizes an environmental firm,
+specializing in hydrogeology, to perform periodic monitoring.  It is currently
+not possible to determine the ultimate amount of possible future clean-up costs,
+if any, that may be required of the Company at this site.  Accordingly, no
+reserves for such clean-up activities have been provided by the Company at this
+time.
+
+LONG-TERM DEBT AND LINE OF CREDIT
+
+Long-Term debt consisted of the following:
+<TABLE>
+<CAPTION>
+              (thousands)                                     1996      1995
+- --------------------------------------------------------------------------------
+<S>                                                          <C>        <C>   
+8.5% convertible subordinated debentures, due 1996,                          
+  interest payable semi-annually                             $    -     $  137 
+ 
+Note payable, interest at 8.62%, due in monthly                                 
+  installments to 1998, collaterilized by capital 
+  equipment                                                     356        490
+                      
+Note payable, interest at 8%, due in monthly
+  installments to 1996, partially collaterilized by a
+  $112 certificate of deposit                                     -        150
+                                                                           
+Note payable, interest at 8.31%, due in monthly 
+  installments to 1999, collateralized by machinery and 
+  equipment                                                     822          -
+                                                                          
+Note payable, interest at 11.875%, due in semi-annual  
+    installments to 2003, collaterized by a building            240        267 
+ 
+                                                                            
+Notes payable bearing interest at 7.25% due in monthly
+  installmants to 1996, collateralized by certain 
+  equipment
+                                                                  -         36
+Notes payable bearing interest at 7.1% to 15%, due in
+  monthly installments to 1998, collaterilized by certain  
+  equipment                                                      10         23
+                                                             ------     ------  
+                                                              1,428      1,103  
+Less current maturities                                        (404)      (304) 
+                                                             ------     ------  
+Total                                                        $1,024     $  799  
+                                                             ======     ======  
+</TABLE>
+
+Long-term debt matures as follows:  $404,000 in 1997, $444,000 in 1998, $406,000
+in 1999, $26,000 in 2000, $28,000 in 2001, and $120,000 thereafter.
+
+For fiscal 1996, the Company's maximum outstanding debt balance was $1,428,000.
+In August 1992, as amended in April 1996, the Company entered into a credit
+arrangement with a financial institution for a working capital and equipment
+acquisition line of credit for up to $7,500,000 extending to August 1996 at an
+interest rate of 30 day commercial paper plus 2.65 percent (8.16% at January 28,
+1996). The arrangement is collateralized by the Company's domestic assets and
+contains provisions regarding current ratios, debt to worth, and net worth.  As
+of January 28, 1996, the Company had $822,000 of borrowings outstanding under
+this line which were converted into a term loan and reduce the borrowing limit
+on the line of credit.  The Company also maintains an overdraft credit line in
+the amount of 300,000 pounds sterling at its wholly owned foreign subsidiary,
+and has obtained a commitment from its bank to expand the line to 1,000,000
+pounds sterling on a formula line basis.
+
+                                      -24-
+<PAGE>
+ 
+DEFERRED COMPENSATION
+
+On September 10, 1989, Gamma Inc. entered into an employment contract with a
+shareholder. The agreement guarantees continuing salary payments to the
+shareholder upon termination of employment equal to his compensation at the
+point of termination, plus certain benefits, for a period of three years. The
+liability was originally recorded by the Company in 1989 and increased based on
+salary adjustments. The present value of this commitment at January 28, 1996 and
+January 29, 1995, is $1,085,000 and $955,000, respectively, which is reflected
+in the accompanying financial statements as a component of other current and
+long-term liabilities.
+
+INCOME TAXES
+
+The provision (benefit) for taxes consisted of the following:
+
+<TABLE>
+<CAPTION>
+              (thousands)                     1996     1995    1994
+              ------------------------------------------------------
+              <S>                            <C>      <C>      <C>
+              Current:                      $3,339    $ 429    $177
+                Federal                        724      124      85
+                State                          150      101     (79)
+                Foreign                     ------    -----    ----
+                                             4,213      654     183
+                        
+              Deferred:                       (337)    (100)    (66)
+                Federal                        (62)     (30)    (15)
+                State                           (2)       2       -
+                Foreign                     ------    -----    ----
+                                            $3,812    $ 526    $102
+              Total                         ======    =====    ====
+</TABLE> 
+ 
+The components of the net deferred income tax assets at January 28, 1996
+and January 29, 1995 are as follows:
+
+Net short-term deferred income taxes:
+<TABLE> 
+<CAPTION> 
+       (thousands)                                   1996     1995 
+       ----------------------------------------------------------- 
+       <S>                                           <C>      <C>  
+       Deferred tax assets:                                        
+         Payroll and related                        $ 272    $ 474 
+         Environmental                                100      100 
+         Research and development tax credit            -      143 
+         Reserve for credit memos                     130       60 
+         Deferred revenue                              65       31 
+         Bad debt reserve                              91       25 
+         State income taxes                            71        - 
+         Other deferred assets                         49       19 
+                                                    -----    ----- 
+       Total deferred income taxes                    778      852 
+       Valuation reserve                             (313)    (500)
+                                                    -----    ----- 
+       Net short-term deferred income taxes         $ 465    $ 352 
+                                                    =====    =====  
+</TABLE> 
+                                      -25-
+<PAGE>
+ 
+Net long-term deferred income taxes:
+
+<TABLE> 
+<CAPTION> 
+        (thousands)                                  1996     1995 
+       ----------------------------------------------------------- 
+       <S>                                         <C>       <C> 
+       Deferred tax assets:                                        
+         Inventory valuation                       $  824    $ 773 
+         Tax credits                                    -       20 
+         Accrued compensation                         260       71 
+         Other deferred assets                          -       54 
+                                                   ------    ----- 
+       Total long-term deferred assets              1,084      918 
+                                                   ------    ----- 
+       Deferred tax liabilities:                                   
+         Depreciation and amortization               (239)    (111)
+         Foreign deferred taxes                       (35)     (37)
+                                                   ------    ----- 
+       Total long-term deferred liabilities          (274)    (148)
+                                                   ------    ----- 
+       Subtotal                                       810      770 
+       Valuation reserve                             (483)    (731)
+                                                   ------    ----- 
+       Net long-term deferred income taxes         $  327    $  39 
+                                                   ======    =====  
+</TABLE>
+
+The provision for taxes reconciles to the amount computed by applying the
+statutory federal rate to income before taxes as follows:
+
+<TABLE>
+<CAPTION>
+
+(thousands)                                   1996     1995     1994
+- ---------------------------------------------------------------------
+<S>                                         <C>        <C>      <C>
+Computed expected tax                       $3,857    $ 690     $102
+
+State income taxes, net of federal             
+  benefit                                      662       97       19
+Foreign sales corporation rates less
+  than statutory rates                        (255)       -        -
+ 
+Foreign taxes at rates greater (less)
+  than domestic rates                          (17)       2       68
+ 
+Utilization of net operating loss and
+  tax credit carryforwards                    (106)     (31)     (13)
+ 
+Changes in valuation reserve                  (435)    (187)     (73)
+
+Other                                          106      (45)      (1)
+                                            ------    -----     ----
+Provision for taxes                         $3,812    $ 526     $102
+                                            ======    =====     ====
+</TABLE>
+
+Realization of the net deferred tax assets is dependent on generating sufficient
+taxable income during the periods in which temporary differences will reverse.
+In general, the Company reserves those deferred tax items which are projected to
+be realized in greater than two years. Although realization is not assured,
+management believes it is more likely than not that the net deferred tax assets
+will be realized. The amount of the net deferred tax assets considered
+realizable, however, could be adjusted in the near term if estimates of future
+taxable income during the reversal periods are revised.
+
+                                      -26-
+<PAGE>
+ 
+COMMITMENTS AND CONTINGENCIES
+
+The Company leases facilities and certain equipment under operating lease
+arrangements expiring in various years through 2001. The aggregate minimum
+annual lease payments under leases in effect on January 28, 1996 were as
+follows:
+
+<TABLE>
+<CAPTION>
+
+           (thousands)                   Operating
+        Fiscal Year Ending                 Leases
+        ------------------------------------------
+        <S>                           <C>
+        1997                                $  680
+        1998                                   629 
+        1999                                   418 
+        2000                                   259 
+        2001                                   235 
+                                            ------ 
+        Total minimum lease commitments     $2,221
+                                            ======
+</TABLE>
+
+Annual rent expense was $667,000, $638,000, and $579,000 for fiscal years 1996,
+1995, and 1994, respectively. From 1987 through 1994, the Company subleased a
+portion of its facilities. Accordingly, amounts received from these agreements
+were netted against rent expense. The Company received $10,000 in sublease
+payments in 1994.
+
+Semtech Corpus Christi has been named in a suit resulting from waste disposal by
+the Company's maquiladora plant in Reynosa, Mexico. Specifically, the
+maquiladora re-imported waste into the U.S. and disposed of the waste in a
+landfill near McAllen, Texas. The suit, which is in the discovery stage,
+pertains to alleged groundwater contamination originating from the landfill. The
+company which owns the landfill and several other maquiladoras have also been
+named in the suit. The Company has retained legal counsel and intends to defend
+itself as management believes that the suit is without merit.
+
+The Company is a defendant in other lawsuits involving matters which are routine
+to the nature of its business. Management is of the opinion that the ultimate
+resolution of all such matters will not have a material adverse effect on the
+accompanying consolidated financial statements.
+
+As of January 28, 1996, the company had purchase commitments for machinery and
+equipment totaling $537,000.
+
+SHAREHOLDERS' EQUITY
+
+STOCK OPTIONS    In February 1986, the Company established the 1986 Stock Option
+Plan which provides for granting options to purchase up to 250,000 shares of the
+Company's common stock to employees, directors and consultants of the Company.
+The 1986 plan provides for the granting of options which meet the Internal
+Revenue Code requirements for qualification as incentive stock options, as well
+as nonstatutory options. Under this Plan, the option price must be at least
+equal to the fair market value of the Company's common stock at the date of the
+grant for incentive stock options and must equal or exceed the lesser of (i) 85%
+of fair market value on the date of grant, or (ii) 85% of fair market value on
+the date of exercise for nonstatutory options. Most incentive stock options
+expire within ten years from the date of grant. Generally, the options are
+exercisable in annual installments beginning one year after, and expire either
+five or six years after, the date of grant.
+
+                                      -27-
+<PAGE>
+ 
+In February 1987, the Company adopted the 1987 Stock Option Plan covering
+350,000 shares of the Company's common stock.  The 1987 Plan provides for the
+granting of options which meet the Internal Revenue Code requirements for
+qualification as incentive stock options, and of options which do not meet such
+requirements, nonstatutory options.  The terms and conditions of options granted
+under the 1987 Stock Option Plan are the same as those granted under the
+Company's 1986 Stock Option Plan, depending on the designation of the option.
+
+In 1994, the Company adopted the 1994 Long-Term Stock Incentive Plan and the
+1994 Non-Employee Directors Stock Option Plan. These plans were both amended
+during fiscal 1996 to cover 700,000 shares and 250,000 shares of the Company's
+common stock, respectively.  Both 1994 plans provide for the granting of options
+which meet the Internal Revenue Code requirements for qualification as incentive
+stock options, and of options which do not meet such requirements, nonstatutory
+options.  The terms and conditions of options granted under the 1994 Plans are
+substantially similar to those granted under the Company's 1987 and 1986 Plans.
+
+Stock option information with respect to the Company's stock option plans is as
+follows:
+<TABLE>
+<CAPTION>
+ 
+                                   Common                                 Option        Aggregate
+                                   Shares     Available                   Price       Option Price
+                                  Reserved    for Grant     Options     Per Share
+- --------------------------------------------------------------------------------------------------
+<S>                              <C>          <C>          <C>         <C>            <C>
+ 
+Balance at January 31, 1993        585,742       57,167     528,575    $ 1.00-$4.50    $   968,963
+  Granted                                -      (89,750)     89,750      1.75- 2.38        182,656
+  Canceled                          (6,625)      67,409     (74,034)     1.00- 4.50       (154,297)
+  Exercised                        (76,566)           -     (76,566)     1.00- 2.25       (117,066)
+                                 ---------     --------    --------    ------------    -----------
+Balance at January 30, 1994        502,551       34,826     467,725    $ 1.00-$3.13    $   880,256
+  Granted                                -     (219,500)    219,500       1.94-2.63        503,968
+  Canceled                               -       54,850     (54,850)      1.00-3.13        (93,513)
+  Exercised                        (61,125)           -     (61,125)      1.00-2.00       (113,000)
+  Additions                        400,000      400,000           -               -              -
+                                 ---------     --------    --------    ------------    -----------
+Balance at January 29, 1995        841,426      270,176     571,250    $ 1.00-$2.63    $ 1,177,711
+  Granted                                -     (470,300)    470,300      7.75-26.75      9,537,363
+  Canceled                               -       11,500     (11,500)      1.75-2.63        (22,691)
+  Exercised                       (236,680)           -    (236,680)      1.00-2.63       (442,701)
+  Additions                        550,000      550,000           -               -              -
+                                 ---------     --------    --------    ------------    -----------
+Balance at January 28, 1996      1,154,746      361,376     793,370    $1.00-$26.75    $10,249,682
+                                 =========     ========    ========    ============    ===========
+</TABLE>
+
+CONVERTIBLE DEBENTURES   As of January 28, 1996, there were no convertible
+debentures remaining outstanding.  During fiscal year 1996, the remaining
+$136,280 of debentures issued under the Key Management Convertible Subordinated
+Debenture Purchase Plan were converted into 136,280 shares of common stock.
+
+                                      -28-
+<PAGE>
+ 
+OTHER INCOME AND EXPENSE
+
+Other income (expense) consisted of the following:
+
+<TABLE>
+<CAPTION>
+         (thousands)                                    1996     1995     1994 
+         ----------------------------------------------------------------------
+         <S>                                           <C>      <C>      <C>   
+         Interest income                                $156     $144     $163 
+                                                                      
+         Loss on disposition of assets                    (1)       -       (8)
+                                                                      
+         Foreign currency transaction gains (losses)       -        5      (29)
+                                                                      
+         Restructuring costs                               -        -     (108)
+                                                                      
+         Miscellaneous expense                            (2)     (60)     (69)
+                                                        ----     ----     ---- 
+         Total                                          $153     $ 89     $(51)
+                                                        ====     ====     ====  
+</TABLE>
+
+The restructuring charge for 1994 was the cost of reducing administrative
+headcount in the Corpus Christi facility and manufacturing headcount at Semtech
+Limited. This restructuring allowed the Company to eliminate the finance and
+sales organization within its Corpus Christi operation.
+
+STATEMENTS OF CASH FLOWS
+
+The Company had the following non-cash activities for each year:
+
+<TABLE>
+<CAPTION>
+
+         (thousands)                          1996    1995    1994 
+         ----------------------------------------------------------
+         <S>                                  <C>     <C>     <C>  
+         Non-cash activities -                                     
+         Debentures converted to stock        $136    $350     $50
+         Stock issued for services               -      35       7 
+</TABLE>
+
+Income taxes paid in fiscal years 1996, 1995, and 1994 were $2,251,000,
+$427,000, and $27,000 respectively. For those same periods, the Company paid
+interest in the amounts of $97,000, $163,000, and $151,000 respectively.
+
+The Company considers all highly liquid investments with original maturity of
+three months or less to be cash equivalents.
+
+BUSINESS SEGMENTS AND CONCENTRATIONS OF RISK
+
+The business of the Company consists of the manufacture and sale of silicon
+rectifiers, integrated circuits and related devices which falls within a single
+segment. Foreign sales are primarily in Europe and Far East Asia. One customer
+accounted for 12% and 15% of the Company's net sales during 1996 and 1994. No
+single customer had net sales exceeding 10 percent of total net sales in fiscal
+year 1995.
+
+As a result of the acquisition and pooling of Gamma, Inc., the Company had net
+sales from wafer foundry services of approximately $16,094,000, $7,004,000 and
+$7,321,000 in 1996, 1995, and 1994 respectively. Two customers accounted for
+75%, 72% and 75% of these sales in 1996, 1995 and 1994, respectively.
+
+                                      -29-
+<PAGE>
+ 
+A summary of net sales, pre-tax income and identifiable assets for the Company's
+domestic and European operations follows:
+
+<TABLE>
+<CAPTION>
+       (thousands)                    1996      1995      1994
+       -------------------------------------------------------
+       <S>                         <C>       <C>       <C>
+       Net Sales:
+         Domestic                  $53,906   $28,787   $25,250
+         European                    7,778     5,818     4,103
+                                   -------   -------   -------
+       Total                       $61,684   $34,605   $29,353
+                                   =======   =======   =======
+       Pre-tax Income (Loss):
+         Domestic                  $10,870   $ 1,761   $   666
+         European                      473       267      (366)
+                                   -------   -------   -------
+       Total                       $11,343   $ 2,028   $   300
+                                   =======   =======   =======
+       Identifiable Assets:
+         Domestic                  $29,702   $18,584   $15,516
+         European                    2,983     2,793     2,744
+                                   -------   -------   -------
+       Total                       $32,685   $21,377   $18,260
+                                   =======   =======   =======
+</TABLE>
+
+Sales to customers in Asia-Pacific are included in domestic totals as they are
+all export sales.  Sales to customers in the Asia-Pacific region totaled $14.1
+million in fiscal 1996, $2.3 million in fiscal 1995 and were immaterial in
+fiscal 1994.
+
+
+SELECTED QUARTERLY DATA (UNAUDITED)
+Quarterly data, unaudited, for fiscal 1996 and fiscal 1995 is presented below.
+<TABLE>
+<CAPTION>
+                                             First         Second        Third      Fourth     Fiscal
+                                            Quarter        Quarter      Quarter     Quarter     Year
+- ------------------------------------------------------------------------------------------------------
+      <S>                                   <C>            <C>          <C>         <C>        <C>
+      1996                  
+      Net sales                             $12,780        $14,674      $16,577     $17,653    $61,684
+      Gross Profit                            4,881          6,105        7,055       7,768     25,809
+      Net Income                              1,263          1,816        1,905       2,547      7,531
+      Net Income per Share:                                                                           
+        Primary                                 .21            .29          .31         .40       1.21
+        Fully Diluted                           .20            .29          .30         .40       1.18
+                                                                                                      
+      1995                                                                                            
+      Net sales                             $ 7,584        $ 8,394      $ 8,324     $10,303    $34,605
+      Gross Profit                            2,408          2,610        2,589       3,665     11,272
+      Net Income                                169            230          302         801      1,502
+      Net Income per Share:                                                                           
+        Primary                                 .03            .04          .06         .14        .27
+        Fully Diluted                           .03            .04          .05         .13        .25 
+ 
+</TABLE>
+
+                                      -30-
+<PAGE>
+ 
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+To the Shareholders and Board of Directors of Semtech Corporation:
+
+We have audited the accompanying consolidated balance sheets of Semtech
+Corporation (a Delaware Corporation) and subsidiaries as of January 28, 1996,
+and January 29, 1995, and the related consolidated statements of income,
+shareholders' equity and cash flows for each of the three years in the period
+ended January 28, 1996.  These financial statements are the responsibility of
+the Company's management.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Semtech Corporation and
+subsidiaries as of January 28, 1996, and January 29, 1995, and the results of
+their operations and their cash flows for each of the three years in the period
+ended January 28, 1996, in conformity with generally accepted accounting
+principles.
+
+Our audit was made for the purpose of forming an opinion on the basic financial
+statements taken as a whole. Schedule II - Valuation and Qualifying Accounts is
+presented for purposes of complying with the Securities and Exchange
+Commission's rules and is not part of the basic financial statements.  The
+schedule has been subjected to the auditing procedures applied in the audits of
+the basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+
+
+                                      /S/Arthur Andersen LLP
+                                      ---------------------------------
+                                      ARTHUR ANDERSEN LLP
+
+
+
+Los Angeles, California
+April 9, 1996
+
+                                      -31-
+<PAGE>
+ 
+                                                                    SCHEDULE  II
+
+
+
+                      SEMTECH CORPORATION AND SUBSIDIARIES
+
+                SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+  FOR THE YEARS ENDED JANUARY 30, 1994, JANUARY 29, 1995, AND JANUARY 28, 1996
+
+
+<TABLE>
+<CAPTION>
+ 
+ 
+                                      Balance at                 Charged to                  Balance at
+                                      Beginning                   Costs and                     End
+                                        of Year         Other      Expenses    Deductions     of Year
+                                     ------------   -----------  -----------   -----------  ------------
+<S>                                   <C>             <C>        <C>            <C>           <C> 
+Year Ended January 30, 1994:                                               
+- ---------------------------                                                
+  Allowance for doubtful                                                   
+    accounts                          $291,000        $    -     $ 47,000       $ (18,000)    $320,000
+                                                                           
+                                                                           
+Year Ended January 29, 1995:                                               
+- ---------------------------                                                
+  Allowance for doubtful                                                   
+  accounts                            $320,000        $4,000     $ 20,000       $ (63,000)    $281,000
+                                                                           
+                                                                           
+Year Ended January 28, 1996                                                
+- ---------------------------                                                
+  Allowance for doubtful                                                   
+  accounts                            $281,000        $    -     $755,000       $(215,000)    $821,000
+</TABLE>
+
+                                      -32-
+<PAGE>
+ 
+ITEM 9.  CHANGES IN OR DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+         None.
+
+
+                                    PART III
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF REGISTRANT
+
+The information contained at Pages 3 through 6 in Management's Proxy Statement
+(the "Proxy Statement"), to be filed within 120 days of the Company's fiscal
+year end, under the heading "Election of Directors" and the information
+contained on Page 11 of the Proxy Statement regarding appointment of independent
+accounts is incorporated by reference herein.
+
+    Executive Officers and Certain Other Significant Employees of Registrant
+    ------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+          Name                Age                    Office
+          ----                ---                    ------
+    <S>                       <C>     <C>
+    John D. Poe               44      President and Chief Executive Officer
+                                        
+    Raymond E. Bregar         48      Executive Vice President-Corporate
+                                      Operations
+                                        
+    David G. Franz, Jr.       34      Vice President-Finance and Chief Financial
+                                      Officer, Secretary and Treasurer
+</TABLE>
+
+Mr. Poe became President and Chief Executive Officer of the Company in October
+1985.  He is a director of the Company.  Before serving in this capacity at the
+Company, Mr. Poe served as Vice President, Operations, for Silicon General, Inc.
+from August 1984 through September 1985.  Prior to that position, Mr. Poe was
+Military Operations Manager in the Discrete Division at Fairchild Camera and
+Instrument, Inc. where he managed the manufacture, design and marketing of
+military discrete semiconductors for more than four years.
+
+Mr. Bregar joined the Company in February 1988 and was appointed Vice President-
+Engineering in February 1988.  From fiscal 1989 through fiscal 1993 Mr. Bregar
+served as Vice President of Discrete Products. Currently Mr. Bregar serves as
+Executive Vice President-Corporate Operations, a position he has held since
+February 1993.  Prior to joining the Company, Mr. Bregar served as Business
+manager of Power Discretes with Fairchild Semiconductor where he directed the
+research and development and manufacturing of the power mosfet and power
+rectifier product lines.
+
+Mr. Franz became Vice President-Finance and Chief Financial Officer, Secretary
+and Treasurer in August of 1993.  Prior to joining the Company, Mr. Franz was
+Director of Finance of the Large Computer Systems Division (formerly the
+Teradata Corporation) of AT&T from May 1990 through August 1993.  Prior to that
+position Mr. Franz was employed by the Wickes Companies and Arthur Andersen LLP.
+Mr. Franz is a Certified Public Accountant.
+
+None of the officers has any family relationship to any other officer.  The
+officers are elected annually by the Board of directors and serve at the
+discretion of the Board.
+
+                                      -33-
+<PAGE>
+ 
+ITEM 11.  EXECUTIVE COMPENSATION
+
+The information contained in the Proxy Statement at Pages 5 through 8 under the
+heading "Executive Compensation" is incorporated by reference herein.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information set forth in the Proxy Statement at Page 2 under the heading
+"Principal Shareholders" and Pages 2 and 5 under the heading "Election of
+Directors" is incorporated by reference herein.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information contained in the Proxy Statement at Pages 5 through 8 under the
+heading "Executive Compensation" is incorporated by reference herein.
+
+                                      -34-
+<PAGE>
+ 
+                                    PART IV
+ 
+ 
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+  (a)(1) The financial statements and the Report of Arthur Andersen LLP are
+included in Part II of this Report on the pages indicated.
+<TABLE>
+<CAPTION>
+                                                                  Page  
+                                                                  ----  
+      Index of Financial Statements:                             
+        <S>                                                        <C>     
+        Consolidated statements of income, three years ended       16    
+           January 28, 1996                                              
+                                                                         
+        Consolidated balance sheets, January 28, 1996 and          17    
+           January 29, 1995                                              
+                                                                         
+        Consolidated statements of shareholders' equity, three     18    
+           years ended January 28, 1996                                  
+                                                                         
+        Consolidated statements of cash flows, three years         19    
+           ended January 28, 1996                                        
+                                                                         
+      Notes to consolidated financial statements,                  20    
+        January 28, 1996                                      
+                                                                         
+      Report of Independent Public Accountants                     31    
+</TABLE>                                                            
+
+      (2)  The following financial statements schedule of the Company for the
+years ended January 28, 1996, January 29, 1995, and January 30, 1994 is filed as
+part of this Report and should be read in conjunction with the financial
+statements:
+
+<TABLE>
+<CAPTION>
+                                                            Page
+                                                            ----
+      <S>                <C>                                 <C>
+      Schedule II -      Valuation and Qualifying Accounts    32
+</TABLE>
+
+       Schedules other than those listed above are omitted since they are not
+applicable, not required, or the information required to be set forth herein is
+included in the consolidated financial statements or notes thereto.
+
+       Supplementary Financial Information - Quarterly Financial Data
+       -----------------------------------                           
+(unaudited) for the years ended January 28, 1996 and January 29, 1995 is
+included in Part II of this Report at page 30.
+
+                                      -35-
+<PAGE>
+
+<TABLE> 
+ 
+(3)  Exhibits - Incorporated by reference from the Company's previous 10-K
+     --------               
+      filings unless otherwise indicated
+      <C>     <S>
+      3.1   - Certificate of Incorporation, as amended
+
+      3.2   - Bylaws
+
+      4.1   - Indenture between Semtech Corporation and Trust Services
+              of America, Inc.
+
+      4.2   - Form of Debenture (contained in 4.1 above)
+
+      4.3   - First Supplemental Indenture between Semtech Corporation
+              and Trust Services of America, dated May 11, 1988
+
+     10.1   - Security Agreement and Collateral Installment Note
+              between the Company and Merrill Lynch in the aggregate
+              amount of $7,500,000, dated August 24, 1992, as amended
+              on April 10, 1996, for establishing a WCMA line of credit
+              and an equipment acquisition line
+
+     10.4   - Agreement of sublease executed on December 23, 1991,
+              effective January 1, 1991, by the Company and the Corpus
+              Christi Airport Development Corporation for a portion of
+              the Company's plant and facilities
+
+     10.6   - Overdraft facility agreement executed on May 26, 1987
+              between the Company and the Bank of Scotland in the
+              amount of 300,000 pounds sterling
+
+     10.7   - Lease executed on May 1, 1988 and amended on November 1,
+              1991 by the Company for a portion of its plant and
+              facilities
+
+     10.8   - Lease executed on September 12, 1988 by the Company for a
+              portion of its plant and facilities
+
+    10.10   - The Company's 1986 Stock Option Plan and the related Form
+              of Option Agreement
+
+    10.11   - The Company's 1987 Stock Option Plan and the related Form
+              of Option Agreement
+
+    10.12   - The Company's 1994 Long-term Stock Incentive Plan and the related
+              Form of Option Agreement
+
+    10.11   - The Company's 1994 Non-Employee Directors Stock Option Plan and
+              the related Form of Option Agreement
+
+     11.1   - Computation of per-share earnings (filed with January 30,
+              1994 10-K)
+
+     13.1   - Annual Report to Shareholders 
+
+     22.1   - Subsidiaries of the Company
+
+     27     - Financial Data Schedule, Article 5, attached
+</TABLE>
+
+     (b) Reports on Form 8-K - The Company filed an 8-K with the Commission on
+or about October 13, 1995 as amended on or about December 19, 1995, to report
+the acquisition of Gamma, Inc., dba ECI Semiconductor.
+
+                                      -36-
+<PAGE>
+ 
+       Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+                                            SEMTECH CORPORATION
+
+
+
+                                            By  /S/John D. Poe
+                                                ---------------------------
+                                                John D. Poe, President
+                                                and Chief Executive Officer
+
+
+                                            Date       April 25, 1996
+                                                  ------------------------
+
+                                      -37-
+<PAGE>
+ 
+       Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+
+Date:    April 25, 1996                  /s/ John D. Poe
+      --------------------               -----------------------------
+                                         John D. Poe, President
+                                         and Chief Executive Officer,
+                                         Director
+
+
+Date:    April 25, 1996                  /s/ David G. Franz Jr
+      --------------------               ------------------------------
+                                         David G. Franz, Jr.
+                                         Vice President-Finance
+                                          and Chief Financial Officer,
+                                         Secretary and Treasurer
+                                         (Principal Accounting
+                                          and Financial Officer)
+
+
+Date:    April 25, 1996                  /s/ James P. Burra
+      --------------------               --------------------------------
+                                         James P. Burra
+                                         Director
+
+
+Date:    April 25, 1996                  /s/ Rock N. Hankin
+      -------------------                 -------------------------------
+                                         Rock N. Hankin
+                                         Director
+
+
+Date:    April 25, 1996                  /s/ Allen H. Orbuch
+      --------------------               -------------------------------
+                                         Allen H. Orbuch
+                                         Director
+
+
+Date:    April 25, 1996                  /s/ James T. Schraith
+      -------------------                ------------------------------
+                                         James T. Schraith
+                                         Director
+
+
+Date:    April 25, 1996                  /s/ Jack O. Vance
+      --------------------               --------------------------------
+                                         Jack O. Vance
+                                         Director
+
+
+
+     The information contained in the Proxy Statement at Pages  6 and 7 under
+the heading "Executive Compensation" is incorporated by reference herein.
+
+                                      -38-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+ 
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM SEMTECH'S
+10-K FOR THE YEAR ENDED JANUARY 28, 1996, WHICH ARE QUALIFIED IN THEIR ENTIRETY
+BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          JAN-28-1996
+<PERIOD-START>                             JAN-30-1995
+<PERIOD-END>                               JAN-28-1996
+<CASH>                                           6,034
+<SECURITIES>                                       411
+<RECEIVABLES>                                    7,987
+<ALLOWANCES>                                         0
+<INVENTORY>                                      9,986
+<CURRENT-ASSETS>                                25,476
+<PP&E>                                           6,748
+<DEPRECIATION>                                       0
+<TOTAL-ASSETS>                                  32,685
+<CURRENT-LIABILITIES>                            7,595
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                               75
+<PREFERRED>                                          0
+<COMMON>                                             0
+<OTHER-SE>                                      23,194
+<TOTAL-LIABILITY-AND-EQUITY>                    32,685
+<SALES>                                         61,684
+<TOTAL-REVENUES>                                61,684
+<CGS>                                           35,875
+<TOTAL-COSTS>                                   35,875
+<OTHER-EXPENSES>                                14,022
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  99
+<INCOME-PRETAX>                                 11,343
+<INCOME-TAX>                                     3,812
+<INCOME-CONTINUING>                              7,531
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     7,531
+<EPS-PRIMARY>                                     1.21
+<EPS-DILUTED>                                     1.18
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

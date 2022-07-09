@@ -1,0 +1,3256 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IjRcd07y1Xg+zFnl5wx137UOhP4XJ1xEDJDaE64QWpTOS7xa7dS/CKwXcaxj1f/r
+ LRjMU80Dgi6w3cHnjSlqYQ==
+
+<SEC-DOCUMENT>0000950133-00-001352.txt : 20000331
+<SEC-HEADER>0000950133-00-001352.hdr.sgml : 20000331
+ACCESSION NUMBER:		0000950133-00-001352
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ONLINE RESOURCES & COMMUNICATIONS CORP
+		CENTRAL INDEX KEY:			0000888953
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				521623052
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-26123
+		FILM NUMBER:		589044
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7600 COLSHIRE DRIVE
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		7033945100
+
+	MAIL ADDRESS:	
+		STREET 1:		7600 COLSHIRE DRIVE
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K FOR ONLINE RESOURCES & COMMUNICATIONS
+<TEXT>
+
+<PAGE>   1
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K
+                ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 1999       COMMISSION FILE NUMBER 0-26123
+
+                               ONLINE RESOURCES &
+                           COMMUNICATIONS CORPORATION
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+<TABLE>
+<S>                                            <C>
+                   DELAWARE                                      52-1623052
+(State or other jurisdiction of incorporation     (I.R.S. Employer Identification Number)
+               or organization)
+
+             7600 COLSHIRE DRIVE
+               MCLEAN, VIRGINIA                                    22102
+   (Address of principal executive offices)                      (Zip code)
+</TABLE>
+
+                                 (703) 394-5100
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                              TITLE OF EACH CLASS
+
+                   Common Stock, $0.0001 par value per share
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [ ]
+
+     The aggregate market value of the common stock of the registrant held by
+nonaffiliates as of March 29, 2000 was $153,018,000. There were 11,180,019
+shares of common stock outstanding as of March 29, 2000.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the Proxy Statement for the 2000 Annual Meeting of Stockholders
+are incorporated by reference into Part III of this Form 10-K.
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>   2
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+OVERVIEW
+
+     Online Resources & Communications Corporation is a leading Internet
+banking, bill payment and e-finance application service provider to financial
+institutions. We provide our clients, primarily regional and community banks,
+thrifts and credit unions, with an end-to-end outsourced service, which is
+branded in their name. This enables cost-effective delivery of Internet-based
+financial services to consumer, small business and other retail customers of our
+clients. By packaging our transaction services with our call center, database
+and support services, we offer an integrated financial hub and a single point of
+accountability for our clients and their retail customers.
+
+     We believe retail financial institutions, in all forms, are an attractive
+distribution channel for our Internet retail financial services. In particular,
+our company targets regional and community financial institutions with assets of
+$10 billion or less. These institutions serve approximately two-thirds of the
+nation's retail checking accounts, and often lack the internal resources to
+build, operate, market and support new Internet-based delivery technology,
+related products and services, and supporting infrastructure.
+
+     Through our integrated financial hub, retail customers of our clients may
+obtain our proprietary banking service, which allows them to view account
+statements and balances obtained from our clients, and perform funds transfers
+and certain cash management functions. Retail customers may also use our
+proprietary bill payment services, allowing retail customers to pay any bill.
+Our transaction services are complemented by our call center, database, consumer
+marketing and other support services. In addition, we aggregate e-finance
+services provided by third-party partners for Internet-based securities trading,
+loan applications, insurance shopping, investment analysis, credit reports, and
+personalized start-pages.
+
+     Our client financial institutions typically pay us a one-time
+implementation fee to link our respective computer systems, allowing their
+retail customers to connect to us through the Internet. In addition, we are
+typically paid a recurring monthly fee based on the number of retail customers
+of the client financial institution using our services. As of December 31, 1999,
+we provided our services to 135,000 retail customers of our client financial
+institutions, many of which have recently launched our services. Our financial
+institution clients collectively serve an aggregate of approximately 8 million
+retail checking accounts.
+
+INDUSTRY BACKGROUND
+
+     The Internet has emerged as the fastest growing global communications
+medium, enabling millions to connect to a world wide network to conduct business
+and share information electronically and is changing the way individuals and
+business communicate and conduct commerce. International Data Corporation (IDC)
+estimates that the number of Internet users in the U.S. alone will increase from
+approximately 56 million in 1998 to 177 million by the end of 2003.
+
+  GROWTH OF FINANCIAL ELECTRONIC COMMERCE
+
+     Consumer acceptance of easy-to-use electronic media has had a significant
+impact on the financial services industry. Since most financial transactions
+require transferring only information, rather than tangible goods, the financial
+services industry is particularly well suited for electronic commerce. The
+combination of the following trends is driving the adoption of financial
+electronic commerce:
+
+     - Expanding PC Ownership. Declining prices for PCs and rapid growth in the
+       number of computer-literate consumers are driving increased penetration
+       of PCs in U.S. homes. The Yankee Group estimates that by 1998 the
+       percentage of U.S. consumer households owning a PC had grown to 44% and
+       expects this number to increase to 54% by the year 2001.
+
+     - Increasing Internet Accessibility. Reduced communications costs, improved
+       Web browsers, and faster connection speeds have made the Internet
+       increasingly accessible to consumers and to businesses offering products
+       and services online.
+
+                                        1
+<PAGE>   3
+
+     - Increasing Acceptance of Electronic Commerce. Consumers have grown
+       increasingly comfortable with the security of electronic commerce and are
+       willing to conduct large transactions online. IDC estimates that goods
+       and services purchased over the Internet in the U.S. will increase from
+       approximately $26 billion in 1998 to over $268 billion in 2002.
+
+  EMERGENCE OF ONLINE FINANCIAL SERVICES
+
+     Financial institutions have begun to recognize the advantages offered by
+online delivery systems. Financial electronic commerce provides these
+institutions the opportunity to offer their services to targeted audiences.
+Additionally, these solutions provide financial institutions with the
+opportunity to reduce or eliminate personnel, paper and other back office
+expenses associated with traditional distribution channels.
+
+     Banks, thrifts and credit unions have responded by offering customers
+convenient at-home or at-work access to a range of financial services. Retail
+customers now have the capability to execute a wide array of online
+transactions, including funds transfers, billpaying, and consumer and
+residential loan processing. IDC estimates that the number of users banking
+online in the U.S. will expand from 6.6 million in 1998 to 32 million by 2003.
+
+     With the rapid growth of the online banking market, financial institutions
+can no longer rely exclusively on traditional retail delivery methods. Financial
+institutions that are unable to offer competitive electronic banking, as part of
+their overall services will find it increasingly difficult to attract and retain
+customers.
+
+     A number of Web-based financial service specialists such as Charles
+Schwab's E-Schwab, E*Trade, DLJdirect, and Datek are taking advantage of these
+trends in financial electronic commerce. According to IDC, the number of online
+brokerage accounts grew 73% over 1997 to 6.4 million by December 31, 1998. IDC
+expects this figure to reach 24 million by the end of 2002. IDC further
+estimates that the percentage of individual investors trading online will
+increase from 8% of the total trading population in 1998 to 30% in 2002.
+
+  CHALLENGES FOR REGIONAL AND COMMUNITY FINANCIAL INSTITUTIONS
+
+     SNL Securities estimates that of 19,400 depository financial institutions
+in the U.S., all but approximately 77 are regional and community institutions
+with assets of less than $10 billion. Approximately 66% of U.S. retail deposits,
+which excludes deposit accounts of $100,000 or more, are held in these
+institutions. While the online banking trend is being driven primarily by very
+large financial institutions, regional and community financial institutions are
+being compelled to offer competitive products. IDC estimates the number of
+financial institutions offering online banking services will increase from 1,150
+in 1998 to 15,845 by 2003.
+
+     These financial institutions face many obstacles in making electronic
+commerce services available to their customers. In particular, they often lack
+the capital and human resources to:
+
+     - develop the substantial technology infrastructure necessary to provide
+       their customers with Internet and other online banking services;
+
+     - develop the operating and technical expertise to deliver online services
+       and manage rapidly changing technologies;
+
+     - design and execute consumer marketing campaigns necessary to promote the
+       use of online banking services; and
+
+     - provide integrated customer support for their online banking services.
+
+     We believe that these limitations present a significant impediment to
+retaining and attracting customers and put these financial institutions at a
+distinct disadvantage.
+
+THE ONLINE RESOURCES SOLUTION
+
+     We provide a single source fully integrated solution, which we believe,
+enables regional and community financial institutions to offer the breadth of
+services needed to remain competitive. We bring economies of scale and technical
+expertise to our clients that would otherwise lack the resources to compete in
+the rapidly
+                                        2
+<PAGE>   4
+
+changing, complex financial services industry. We differentiate ourselves by
+internally developing, integrating and controlling many critical services, such
+as billpaying and call center support, rather than relying primarily on
+third-party providers for these services. As a single source vendor, we believe
+our clients benefit from one point of accountability and control. We believe our
+solution to the obstacles faced by our clients in connection with electronic
+commerce provides them with a cost-effective means to retain and expand their
+customer base, deliver their services more efficiently and strengthen their
+customer relationships.
+
+     We provide our services through our (1) technology infrastructure, (2)
+operating and technical expertise, (3) marketing services, and (4) support
+services.
+
+     Our Technology Infrastructure.  Regional and community financial
+institutions often lack the resources to develop the substantial infrastructure
+necessary to provide their customers with Internet and other online banking
+services. We provide our services through our proprietary Opus(sm) system. This
+system integrates our communications, systems, processing and support
+capabilities. We serve as a financial electronic commerce hub by connecting our
+financial institution clients, their retail customers and other financial
+service providers. Our middleware component enables us to integrate customer and
+financial data gathered through our electronic commerce hub. This unifying
+software co-ordinates customer authorization, transactions, settlement,
+security, user profiles, data warehousing, registration, fulfillment,
+administrative support and our customer call center services. These functions
+operate substantially in real-time and provide an integrated application for our
+clients and their retail customers.
+
+     In summary our propriety solution includes three critical components:
+
+        A dynamic Web server platform that allows retail customers of our client
+        financial institutions to review and transact their services.
+
+        A set of high quality, Internet-based-financial products like our
+        propriety banking and bill payment services, as well as other e-finance
+        services offered through our third-party partners. These other services
+        presently include loan approval, insurance, investment information and
+        securities trading.
+
+        An integrated support infrastructure, including middleware to unify data
+        and processes, a 24x7 consumer and client support call center, and our
+        patented electronic funds transfer (EFT) gateway for real time
+        electronic funds transfer with substantially all U.S. depository
+        financial institutions.
+
+     Our Operating and Technical Expertise.  We provide regional and community
+financial institutions with our operating and technical expertise. We believe
+that our industry focus and outsourcing capabilities add value for our clients
+by simplifying complex processes and technologies. After seven years of
+operating experience, we have established the processes, procedures, controls
+and staff necessary to keep our systems running reliably and securely. At the
+same time, we have developed the organizational flexibility and inter-
+disciplinary staff skills necessary to adjust to a rapidly changing environment.
+
+     Our Marketing Services.  We actively support the retail customer marketing
+programs of our clients. We supply privately branded marketing support material,
+such as standardized retail customer applications, signage, media templates and
+promotional programs. During 1999, we created a consumer marketing department
+whose main focus is creating cost-effective programs to increase the percentage
+of our clients' retail customers using our services. The marketing programs
+include Web-based marketing, direct marketing, telemarketing, statement stuffers
+and branch incentives. We plan to underwrite these programs for any client that
+requests them. The marketing programs will be privately branded by the financial
+institutions so they may take advantage of their existing relationships.
+
+     Our Support Services.  We provide a comprehensive set of support services
+to complement our banking and billpaying services. These support services
+include our customer service center, Web site design and hosting, billing,
+administrative services, security and communications services. We provide each
+of these services on an optional basis and have fully integrated them into our
+banking, billpaying and related products.
+
+                                        3
+<PAGE>   5
+
+STRATEGY
+
+     Our goal is to become the vendor of choice for regional and community
+financial institutions that are looking to outsource Internet banking and other
+e-finance services. As our business grows, we believe we can lower costs through
+economies of scale and create new opportunities for marketing and distribution.
+Our strategy includes the following key elements:
+
+     Continue Rapid Expansion of Our Financial Institution Client Base.  We seek
+to expand our universe of financial institution clients through a multiple
+channel sales strategy. Our direct sales force focuses on the mid-sized
+financial institution within our target client base. In addition, we intend to
+leverage our growing network of marketing partners to resell our services to the
+smaller and larger financial institution market.
+
+     Increase Retail Customer Usage.  We intend to increase retail customer
+usage by accelerating the launches of our financial institution clients using
+our system and increasing the percentage of their retail customers using our
+services. The recently completed connections or certifications with 64 ATM
+networks and processors provide us with a platform that allows us to more
+aggressively launch signed financial institution clients. This essentially
+constitutes all major regional ATM networks, such as Star, Honor and NYCE, and
+most major core banking processors, including EDS, Fiserv and Alltel. We are
+also expanding our consumer marketing services to increase the percentage of our
+clients' retail customers using our services. We have hired a senior consumer
+marketing director and have begun a direct marketing program with approximately
+115 of our financial institution clients. The marketing programs include
+Web-based marketing, direct marketing, telemarketing, statement stuffers and
+branch incentives. We plan to underwrite these programs for any client that
+requests them. Additionally, we launched our free Internet banking initiatives
+in early 2000. This program will allow new and existing clients to receive the
+Internet banking portion of our services free of monthly service charges.
+
+     Enhance Our Services.  We believe our financial institution clients and
+their retail customers represent an attractive distribution channel for
+additional financial services and content provided by us and by our third-party
+partners. We expect to integrate bill presentment into our billpaying services
+through alliances with companies who specialize in servicing billers. Our
+patented method for target advertising will allow us to support our clients'
+efforts to cross-sell financial services. We also intend to expand our
+electronic commerce hub to include additional retail services and content. Our
+partnership with Intuit will further support retail customers with their "small
+office/home office" business banking needs. The alliance with CMGI's MyWay.com
+will enable client financial institutions to offer custom-branded Web portal
+pages to their retail customers and members.
+
+     Maintain Superior Service Quality and Support Services.  We believe that
+providing superior quality service is important in attracting and retaining
+financial institutions and their retail customers. This is imperative to our
+clients since our online banking services and customer call center are branded
+in their name. Despite the challenges of building our infrastructure to meet the
+demands of our rapidly growing client base, we believe our quality of service is
+currently among the highest in the industry. Our system availability now exceeds
+99.5%. Approximately 53% of our billpayments are made electronically and our
+billpaying error rate is .06%. We also expanded our customer call center from 57
+to 94 employees during 1999 and we have invested substantially in specialized
+call center systems, software and management. We believe that we are able to
+provide our technology-based services with a high level of proficiency and
+interaction that could not easily be attained and controlled when outsourced to
+third parties.
+
+     Strengthen Integration of Financial Data.  We believe that a key to
+assisting our clients in remaining competitive in electronic commerce will hinge
+on their ability to package and seamlessly integrate multiple services and
+products. This ability will allow our clients' retail customers to conduct and
+control all of their financial affairs conveniently. We expect that this will
+further strengthen the relationships between our clients and their retail
+customers. We recently upgraded our proprietary middleware and made substantial
+investments in software tools and technical staffs to further enhance our
+integration capabilities. Using these resources, we plan to create a more fully
+integrated application with third-party financial service providers, such as by
+performing real-time debits and credits for their services.
+
+                                        4
+<PAGE>   6
+
+SERVICES AND RELATED PRODUCTS
+
+     We offer a single source solution to the electronic commerce challenges of
+our financial institution clients. Typically, we contract with our clients to
+provide a fully integrated set of Internet and other online banking and
+financial services and related products.
+
+     Core Services.  Our banking and billpaying services allow a financial
+institution to offer to its retail customers and "small office/home office"
+business customers 24 hours a day, seven days a week account access and
+transaction capabilities. Retail customers are able to access their accounts
+anytime and anywhere either through the Internet or through a private
+communications networks using our PC software or other access devices.
+
+     Our banking and billpaying services offer retail customers the following
+features:
+
+     - viewing transaction histories and real-time account balances;
+
+     - transferring funds within and between financial institutions either
+       immediately or in the future;
+
+     - initiating immediate and future bill payments or transfers; and
+
+     - viewing projected balances based upon billpaying and account activities.
+
+     Using our PC software, our clients' retail customers may import and export
+data with popular personal financial management software such as Quicken and
+Microsoft Money. We also offer "small office/home office" capabilities and have
+partnered with Intuit to support QuickBooks and other popular small business
+services. We have a reseller arrangement with Politzer & Haney, which will allow
+our client financial institutions to offer a Web-based cash management solution
+to their business customers.
+
+     Using our billpaying service, retail customers may pay any merchant biller
+or individual. Approximately 51% of our billpayments are currently made
+electronically to merchants. We guarantee electronic billpayments will be
+received within two business days of initiation by the retail customer. We
+guarantee paper payment will be received within five business days. Paper and
+electronic payments are drawn on our escrow account. As of February 29, 2000, we
+had a billpaying database of approximately 742,000 merchant-user links to
+approximately 96,000 discreet merchant billers.
+
+     We believe our real-time debit process, described under "-- Systems and
+Technology" below, offers substantial cost and quality advantages in our
+billpaying services. Under alternative batch-oriented debit systems, the
+billpaying processor cannot immediately verify the availability of sufficient
+funds to cover the bill payment. This may result in potential collections
+issues, the need to assess credit risk and increased use of paper versus
+electronic payments. We therefore believe that real-time debit capability
+results in a higher percentage of electronic payments, lower operating costs and
+a higher quality of service.
+
+     Our banking and billpaying services generate revenues from recurring
+monthly fixed fees charged to financial institution clients, typically based on
+the number of enrolled retail customers. Banking and billpaying services are
+priced on a monthly per retail customer basis, and in limited cases, on a
+transaction basis. Pricing ranges from $1.95 to $7.45 per month per retail
+customer depending upon the level of services we provide to the financial
+institution. The pricing of these services to retail customers is at the
+discretion of each financial institution. Because our clients generally derive
+internal cost savings, account retention and other marketing benefits by
+offering our services, the majority of our clients do not pass all of these
+charges through to their retail customers, and an increasing number of clients
+offer the banking portion of our services free-of-charge. We recently revised
+our pricing to offer free Internet banking to financial institution clients that
+also sign up for our billpaying service and use our consumer marketing program.
+Internet banking relates to our services that allow consumers to view statements
+and balances and transfer funds among accounts.
+
+     Support Services.  We complement our banking and billpaying services with
+the following comprehensive support services:
+
+     - Customer Service Center.  We maintain a customer service center for
+       financial institution clients that choose to outsource this service to
+       us. Retail customers can access the customer service operation by
+
+                                        5
+<PAGE>   7
+
+       phone or e-mail 24 hours a day, seven days a week. As of December 31,
+       1999, our customer service center had 94 employees available to respond
+       to retail customers' questions relating to enrollment, transactions or
+       technical support. Customer services generate revenues from recurring
+       monthly fixed fees charged to financial institution clients, typically
+       based on the number of enrolled retail customers. For those clients that
+       choose not to use our customer service bureau, we license our proprietary
+       software for their customer service operations.
+
+     - Web Site Design and Hosting.  We offer web site design and hosting
+       services to our financial institution clients. We charge an upfront fee
+       for design and a recurring monthly maintenance fee for hosting the web
+       site.
+
+     - Consumer Marketing.  We provide packaged and customized marketing
+       materials to our financial institution clients, which are, in turn,
+       privately labeled by them. These materials include customer applications,
+       signage, regulatory compliance forms, demonstration software, and devices
+       and advertising templates for a variety of media, including television
+       and radio. Standard marketing services are bundled with our
+       implementation services.
+
+     - Administrative Services.  We provide administrative support services to
+       our financial institution clients including the compilation of customized
+       reports regarding their retail customers' account activity. We charge our
+       clients on an hourly basis for these services.
+
+     - Communications and Security Services.  We provide communications network
+       management and related security support for financial institution clients
+       that use our non-Internet-based services. In some cases, we bundle the
+       cost of these services with our banking and billpaying services fees. In
+       other cases, we unbundle these costs and charge on a usage basis.
+
+     Implementation.  Initially, we contract with a financial institution to
+provide services and products tailored to meet its specific needs. At the time
+of entering into a contract, a financial institution client pays a one-time fee,
+which generally ranges from $3,000 to $50,000 based on certain factors,
+including the size of the financial institution and the scope of services.
+
+     Implementation consists of systems integration and a pilot testing period.
+A project management team is assembled to integrate our hub with a financial
+institution client's legacy host system, typically via an ATM network. A
+financial institution's legacy host system houses its transaction accounts. Upon
+completion of systems integration, we conduct a pilot testing period using
+selected customers and employees. Following the pilot, the financial institution
+client is fully launched and services are made generally available to its retail
+customers. At this point, the financial institution client begins to pay at
+least the minimum user fees.
+
+     In cases where a financial institution is testing and certifying or
+connecting to an ATM network or processor that we have not been either certified
+with or previously connected to, the launch period is prolonged as a result of
+the certification or connection process. Historically, we have experienced
+certification or connection periods with ATM networks or processors requiring
+between 6 to 24 months. As we have completed and substantially expanded the
+number of certifications or connections to ATM networks and processors, there
+have been fewer recent financial institution launches involving initial
+certifications with an ATM network or processor. Accordingly, launch times are
+improving. Our contracts with financial institution clients do not provide any
+limits or penalties based on the time period before launch.
+
+     Third-Party Services.  We facilitate retail customers' linking to
+additional financial services beyond our proprietary banking and billpaying
+services. We provide our clients' retail customers with a comprehensive suite of
+financial services through our electronic commerce hub, which currently supports
+Internet-based delivery of:
+
+     - investment tools and access to major online investment brokerage services
+       (Thomson Financial);
+
+     - loans (Bisys Marketing Solutions);
+
+     - insurance (InsWeb);
+
+     - financial planning tools for home buying, college education and
+       retirement; and
+                                        6
+<PAGE>   8
+
+     - shopping services (Amazon.com, Proflowers and the Travel Page).
+
+     We have also developed business arrangements and links to third parties for
+expanded retail customer access. We currently have such arrangements, in various
+stages of development, with third-party access providers, such as America
+Online, UltraData (a banking software provider of hosting and server solutions),
+Voice Access (a voice response system provider to financial institutions), and
+Aftech (a core banking processor subsidiary of Fiserv serving credit unions). In
+early 2000 we entered into a strategic partnership with U.S. Clearing, a
+division of Fleet Securities, to provide financial institutions with privately
+branded online brokerage services integrated with real-time online banking and
+billpayment.
+
+     In addition, by aggregating the retail customers of our financial
+institution clients into a large online community, we believe we have begun to
+assemble an attractive audience for third parties to market their products and
+services. In cooperation with our financial institution clients, we believe that
+over time this aggregated community will generate significant buying power and
+could attract many additional third-party providers.
+
+     Related Products.  We also derive revenue from sales of related enabling
+products and software at fixed prices, including PC software, screen-based
+telephone and customer service software. These have not been a significant
+source of revenue.
+
+SALES AND MARKETING
+
+     We have adopted a multiple channel institutional sales strategy, covering
+both direct and indirect sales. Our direct sales team focuses on mid-sized
+financial institutions. Our indirect sales team supports our marketing partners,
+who sell to small or very large financial institutions. In addition to our
+institutional sales strategy, we also actively assist with or assume the
+consumer marketing programs of our clients.
+
+     Direct Marketing to Financial Institutions.  As of December 31, 1999, we
+had a six person direct sales force focusing on our target market: depository
+institutions with 10,000 to 350,000 transaction accounts. Members of the direct
+sales team have an average of over 12 years of industry experience. Our direct
+sales team operates out of seven field locations throughout the U.S. and is
+geographically organized with some specialization by industry and account size.
+Sales representatives earn a base salary plus commission and are offered
+incentives to support indirect sales with our marketing partners.
+
+     Indirect Sales to Financial Institutions.  We support an indirect sales
+channel by partnering with third parties who sell complementary services or
+products to financial institutions. As of December 31, 1999, we had an
+experienced four-person indirect sales team coordinating 41 marketing partners
+covering approximately 15,000 financial institutions. These alliances leverage
+the established vending relationships of our marketing partners and reduce
+marketing costs by replacing the need for a larger direct sales force. Our
+marketing partners include ATM networks such as MAC and Honor, software
+providers such as Intuit, communications server vendors such as UltraData, core
+banking processors such as Affiliated Computer Systems, credit union processors
+such as Symitar, payment services such as Deluxe Payment Systems, and endorsers
+such as America's Community Bankers. Fee arrangements for our marketing partners
+vary and are based on the value-added and scope of responsibilities assumed by
+the marketing partner. Typically, marketing partners earn a portion of our
+implementation fee. If the marketing partner performs additional on-going
+account management and other support services, then the marketing partner may
+earn a small portion of our on-going operating fees. Additionally, marketing
+partners may benefit from the direct sales of their products and services, such
+as transaction fees for ATM networks and processors.
+
+     Consumer Marketing Support for Financial Institution Clients.  During 1999,
+we created a consumer marketing department whose main focus is creating
+cost-effective programs to increase the percentage of our clients' retail
+customers using our services. The marketing programs include web-based
+marketing, direct marketing, telemarketing, statement stuffers and branch
+incentives. We plan to underwrite these programs for any client that requests
+them. The marketing programs will be privately branded by the financial
+institutions so they may take advantage of their existing relationships. We
+believe this will be a critical factor to the success of our marketing programs.
+We also developed and support our BankOnline.com web site. This site is
+
+                                        7
+<PAGE>   9
+
+being used as a co-marketing vehicle to attract and expand the number of retail
+customers of our financial institution clients.
+
+SYSTEMS AND TECHNOLOGY
+
+     Overview.  We designed our systems and technology around real-time
+communications and processing, which optimizes quality, scalability and cost.
+Our systems are based on a multi-tiered architecture consisting of:
+
+     - Enabling technology -- proprietary and commercial software and hardware
+       enabling retail customers to easily access our hub;
+
+     - Front-end servers -- proprietary and commercial communications software
+       and hardware providing Internet and private communications access to our
+       hub for retail customers;
+
+     - Middleware -- proprietary and commercial software and hardware used to
+       integrate customer and financial data and to process financial
+       transactions;
+
+     - Back-end systems -- databases and proprietary software which support our
+       banking and billpaying services; and
+
+     - Support systems -- proprietary and commercial systems supporting our
+       customer service and other support services.
+
+     Our systems architecture is designed to provide retail customer access
+across multiple devices and communications channels, into a common database
+integrated with our banking and billpaying services and our proprietary support
+services software. Third-party financial services are linked to our systems
+through the Internet, which we plan to more fully integrate into our retail
+customer application and transaction processing. Our proprietary enabling PC
+software is designed to export and import data to popular personal financial
+management software, such as Quicken and Microsoft Money. By incorporating such
+third-party capabilities into our system, we are able to focus our technical
+resources on our proprietary middleware and integrating capabilities.
+
+     Real-Time ATM Network-Based Process.  We typically link to financial
+institution clients through an ATM network. By using an ATM network or processor
+to link into a financial institution client's primary database for retail
+customer accounts, we take advantage of established electronic funds transfer
+infrastructure. This includes all telecommunications and software links,
+security, settlements and other critical operating rules and processes. Using
+this ATM architecture, financial institution clients avoid the substantial
+additional costs necessary to expand their existing infrastructure. The net
+result of using this architecture is that high quality remote financial
+electronic commerce services can be provided, enabling retail customers to
+access their financial account information and pay bills by debiting funds from
+their accounts.
+
+     The following steps illustrate our patented ATM network-based process:
+
+     - Step 1:  The retail customer accesses our services either through the
+       Internet or through a private network using our PC software or other
+       access devices. Once connected, the retail customer has the ability to
+       execute transactions and view banking and billpaying information on a
+       real-time basis.
+
+     - Step 2:  Once the retail customer authorizes payment to a merchant, we
+       verify availability of sufficient funds in the customer's account via the
+       ATM network.
+
+     - Step 3:  Upon verification of funds availability, the customer's account
+       is debited immediately and the guaranteed payment amount is transferred
+       into our escrow account at the end of the day.
+
+     - Step 4:  We forward the funds with remittance information to the merchant
+       biller for processing.
+
+     In addition to quality and cost benefits associated with billpaying, we
+believe that our real-time architecture is more scalable than traditional batch
+systems, which warehouse and store duplicate data. Instead of duplicating each
+financial institution's host system by daily batch transmittal of customer
+balance information, we communicate in real-time through online ATM networks and
+processors to retrieve account
+                                        8
+<PAGE>   10
+
+balances as needed. We are therefore working with ATM networks and processors to
+expand their transaction support to include retail customer account histories,
+access to additional information and interest-related security standards.
+
+     Security and Systems Integrity.  Our services and related products provide
+security and system integrity, which are based on proven Internet and other
+communications standards, ATM network transaction processing procedures and
+banking industry standards for control and data processing. Prevailing security
+standards for Internet-based transactions are incorporated into our Internet
+services, including but not limited to, Secure Socket Layer 128K encryption,
+using public-private key algorithms developed by RSA, along with firewall
+technology for secured transactions. In the case of payment and transaction
+processing, we meet security transaction processing and other operating
+standards for each ATM network through which we route transactions. We also
+employ Digital Encryption Standards technology for transactions processed
+through our screen-based telephone and PC software. Our interactive voice
+response system performs transactions only if the retail customer is first
+verified through the financial institution client's interactive voice response
+security system. Finally, in conformance with industry standards promulgated by
+applicable financial institution regulatory bodies, we adhere to SAS 70 types I
+and II requirements for control, data processing and disaster recovery.
+
+PROPRIETARY RIGHTS
+
+     In June 1993, we were awarded U.S. patent number 5,220,501 covering our
+real-time ATM network-based payments process. Our patent covers billpaying and
+other online payments made from the home using any enabling device where the
+transaction is routed in real-time through an ATM network. We have licensed this
+patent to other parties for limited use. In March 1995 we cross-licensed our
+patent to Citibank for their internal use in settlement of litigation.
+
+     On February 9, 1999, we were awarded U.S. patent number 5,870,724 for
+targeting advertising in a home retail banking delivery service. This patent
+provides for the targeting of advertising or messaging to home banking users,
+using their confidential billpayment and other financial information, while
+preserving consumer privacy. Acting in co-operation and on behalf of a financial
+institution client, we first analyze their billpaying and other financial data
+to determine an advertising profile or purchasing power. The patent provides for
+the targeted advertisement or other message to the selected person or group
+based on their profile. No third parties have access to the retail customers'
+sensitive financial data. Through interactive messaging, selected retail
+customers of our financial institutions receiving the advertisement or message
+then have the choice of releasing their names to the advertiser or messenger.
+The confidentiality of their sensitive financial information is thereby
+preserved and released only with the approval of the financial institution
+client and their retail customers.
+
+     In addition to our patent we have registered trademarks. We also have
+Internet domain names including BankOnline.com. A significant portion of our
+systems, software and processes are proprietary. So, as a matter of policy, all
+management and technical employees execute non-disclosure agreements as a
+condition of employment.
+
+COMPETITION
+
+     We believe that the principal competitive factors in our market are
+industry trust, technical capabilities, operating effectiveness, cost and
+scalability, customer service, security, speed to market, and capital. Many of
+our competitors have the financial, technical and marketing resources, plus
+established industry relationships, to better compete based on these factors.
+Competitive pressures we face may have a material adverse effect on our
+business, financial condition or operating results.
+
+     We are not aware of any other company that offers a similar financial
+electronic commerce hub that integrates multiple consumer access channels into a
+common database, in-sources banking and billpaying services, fully integrates
+support services and links to other financial service providers. However, many
+of our current and potential competitors have longer operating histories,
+greater name recognition, larger installed customer bases and significantly
+greater financial, technical and marketing resources. Further, some of our
+                                        9
+<PAGE>   11
+
+competitors, namely CheckFree and TransPoint (the joint venture between
+Microsoft, First Data Corporation and Citibank and now part of Checkfree), while
+currently targeting billpaying and presentment services to large financial
+institutions, do provide or have the ability to provide the same range of
+services we offer and could determine to direct their marketing initiatives
+towards our targeted smaller financial institution client base.
+
+     Other competitors such as M&I Data, EDS, Fiserv and other core banking
+processors have broad distribution channels that bundle competing products
+directly to financial institutions. These competitors also have developed or
+acquired extensive online banking capabilities of their own, including a bill
+paying service in the case of M&I Data, which may be further expanded to exceed
+or meet our capabilities.
+
+     In addition, a significant number of companies offer portions of the
+services provided by us and compete directly with us to provide such services.
+For example, the Web servers of companies such as Broadvision, Digital Insight,
+Edify, Funds Express, nFront and Q-Up compete with our front-end Internet access
+capabilities. These and other software providers, such as Security First
+Technologies, First Data Direct Banking and CFI ProServices, have created
+outsourced units to provide a portion of our services. These companies may in
+turn use billpayers, such as CheckFree, Princeton Telecom, M&I Data (which
+acquired Travelers Express), who often team with access providers. Finally,
+there are networks, such as Integrion and NYCE, who facilitate connectivity by
+some of our competitors to certain larger financial institutions. Also, certain
+services such as Intuit's Quicken.com and Yahoo! Finance may be available to
+retail customers independent of financial institutions.
+
+GOVERNMENT REGULATION
+
+     We are not licensed by the Office of the Comptroller of the Currency, the
+Federal Reserve Board, the Office of Thrift Supervision or other Federal or
+state agencies that regulate or monitor banks or other types of providers of
+financial electronic commerce services. Federal, state or foreign agencies may
+attempt to regulate our activities. Congress could enact legislation that would
+require us to comply with data, record keeping, processing and other
+requirements. We may be subject to additional regulation as the market for our
+business continues to evolve. For example, Regulation E that is promulgated by
+the Federal Reserve Board, governs certain electronic funds transfers made by
+regulated financial institutions and providers of access devices and electronic
+fund transfer services, including many aspects of our services. Under Regulation
+E, we are required, among other things, to provide certain disclosure to retail
+customers, to comply with certain notification periods regarding changes in the
+terms of service provided and to follow certain procedures for dispute
+resolutions. The Federal Reserve Board may adopt new rules and regulations for
+electronic funds transfers that could lead to increased operating costs and
+could also reduce the convenience and functionality of our services, possibly
+resulting in reduced market acceptance. Because of the growth in the electronic
+commerce market, Congress has held hearings on whether to regulate providers of
+services and transactions in the electronic commerce market, and Federal or
+state authorities could enact laws, rules or regulations affecting our business
+operations. We also may be subject to Federal, state and foreign money
+transmitter laws, encryption and security export laws and regulations and state
+and foreign sales and use tax laws. If enacted or deemed applicable to us, such
+laws, rules or regulations could be imposed on our activities or our business
+thereby rendering our business or operations more costly, burdensome, less
+efficient or impossible, any of which could have a material adverse effect on
+our business, financial condition and operating results.
+
+     The market we currently target, the financial services industry, is subject
+to extensive and complex Federal and state regulation. Our current and
+prospective clients, which consist of financial institutions such as commercial
+banks, thrifts, credit unions, brokerage firms, credit card issuers, consumer
+finance companies, other loan originators, insurers and other providers of
+retail financial services, operate in markets that are subject to extensive and
+complex Federal and state regulations and oversight. While we are not generally
+subject to such regulations, our services and related products must be designed
+to work within the extensive and evolving regulatory constraints in which our
+clients operate. These constraints include Federal and state truth-in-lending
+disclosure rules, state usury laws, the Equal Credit Opportunity Act, the
+Electronic Funds Transfer Act, the Fair Credit Reporting Act, Bank Secrecy Act
+and the Community Reinvestment Act. Because many of these regulations were
+promulgated before the development of our system, the application of
+                                       10
+<PAGE>   12
+
+such regulations to our system must be determined on a case-by-case basis. We do
+not make representations to clients regarding the applicable regulatory
+requirements, but instead rely on each such client making its own assessment of
+the applicable regulatory provisions in deciding whether to become a client.
+Furthermore, some consumer groups have expressed concern regarding the privacy,
+security and interchange pricing of financial electronic commerce services. It
+is possible that one or more states or the federal government may adopt laws or
+regulations applicable to the delivery of financial electronic commerce services
+in order to address these or other privacy concerns. It is not possible to
+predict the impact that any such regulations could have on our business.
+
+     We currently offer services on the Internet. Due to the increasing
+popularity of the Internet, it is possible that laws and regulations may be
+enacted with respect to the Internet, covering issues such as user privacy,
+pricing, content, characteristics and quality of services and products. The
+adoption of any such laws or regulations may limit the growth of the Internet,
+which could affect our ability to utilize the Internet to deliver financial
+electronic commerce services.
+
+EMPLOYEES
+
+     At December 31, 1999, we had 257 employees. None of our employees are
+represented by a collective bargaining arrangement. We believe our relationship
+with our employees is good.
+
+RISK FACTORS
+
+     In addition to the other information provided in this report, the following
+risk factors should be considered carefully in evaluating Online Resources and
+its business.
+
+WE HAVE A HISTORY OF LOSSES AND COULD CONTINUE TO LOSE MONEY
+
+     We have not yet had an operating profit for any quarterly or annual period
+and are unsure when we will become profitable, if ever. We may not be able to
+attract and retain enough financial institutions and retail customers to reach
+profitable levels. We were established in 1989 and a significant portion of our
+existence has been devoted to developing the proprietary systems and
+infrastructure needed to implement our business. Profitability in the future
+will depend upon a number of factors, including our ability to continue to
+contract with new financial institution clients and to develop and retain a
+larger retail customer base that uses our services on a regular basis.
+
+OUR QUARTERLY FINANCIAL RESULTS ARE SUBJECT TO SIGNIFICANT FLUCTUATIONS
+
+     Our quarterly revenues, expenses and operating results have varied
+significantly in the past and are likely to vary significantly from quarter to
+quarter in the future. As a result, our operating results may fall below market
+analysts' expectations in some future quarters, which could have a material
+adverse effect on the market price of our stock.
+
+WE MAY NEED TO RAISE CAPITAL TO STAY IN BUSINESS
+
+     We may not achieve cash flow break-even and may require additional
+infusions of capital to sustain operations. This capital may not be available.
+We may need to raise additional funds sooner than we expect if we incur
+unforeseen required capital expenditures or substantial operating losses. If
+adequate funds are not available or are not available on acceptable terms, we
+may not be able to develop or enhance our services, take advantage of future
+opportunities or respond to competitive pressures, which could have a material
+adverse effect on our business.
+
+WE SIGNIFICANTLY RELY ON THIRD PARTIES FOR THE SUCCESS OF OUR MARKETING EFFORTS
+
+     We depend upon the assistance of marketing partners who include some or all
+of our services and related products as a part of their offerings to financial
+institutions. To date, approximately 59% of our financial institution clients
+were signed as a result of leads from these marketing partners. Failure by these
+marketing
+
+                                       11
+<PAGE>   13
+
+partners to continue to offer our services and related products could have a
+material adverse effect on our business.
+
+WE DEPEND UPON OUR FINANCIAL INSTITUTION CLIENTS TO MARKET OUR SERVICES
+
+     To market our services to retail customers, we depend primarily upon our
+financial institution clients. We charge our clients fees based on the number of
+their retail customers who have enrolled with our clients for online banking
+services. Therefore, retail customer enrollment affects our revenue and is
+important to us. Because our clients offer our services under their name, we
+must depend on those clients to get their customers to use our services. Our
+financial institution clients may not effectively market our services to their
+retail customers. Any failure of our clients to effectively market our services
+could have a material adverse effect on our business.
+
+OUR CO-MARKETING EFFORTS MAY NOT BE SUCCESSFUL
+
+     We have recently spent substantial financial and human resources to
+co-market our services and related products with our financial institution
+clients to their retail customers. These marketing efforts may not result in the
+desired increase in acceptance by retail customers.
+
+WE MAY NOT BE ABLE TO EXPAND TO MEET INCREASED DEMAND
+
+     We may not be able to expand or adapt our services and related products to
+meet the demands of our financial institution clients and their retail customers
+quickly or at a reasonable cost. The type and volume of transactions processed
+through our system and the number of financial institution clients connected to
+it have been relatively limited to date. We will need to continue to expand and
+adapt our infrastructure, services and related products to accommodate
+additional financial institution clients and their retail customers, increased
+transaction volumes and changing customer requirements. This will require
+substantial financial, operational and management resources. In the past as we
+have developed our infrastructure, clients have experienced periods when they
+were unable to utilize our services. If we are unable to scale our system and
+processes to support the variety and number of transactions and retail customers
+who ultimately use our services, our business may be materially adversely
+affected.
+
+IF WE LOSE A MATERIAL CLIENT, OUR BUSINESS MAY BE ADVERSELY IMPACTED
+
+     One of our financial institution clients, California Federal Bank,
+accounted for 14% of revenue for the year ended December 31, 1999. The loss of
+this contract in the near term, or the loss of any other material contracts in
+the future, either directly to a competitor, or indirectly in the event that a
+financial institution client is acquired by an institution not utilizing our
+services, or decides to provide these services in-house, could have a material
+adverse effect on revenues. Loss of any material financial institution contract
+in the future could also negatively impact our ability to attract and retain
+other financial institution clients.
+
+WE MAY NOT BE ABLE TO COMPETE WITH LARGER, MORE ESTABLISHED BUSINESSES OFFERING
+SIMILAR PRODUCTS OR SERVICES
+
+     We may not be able to compete with current and potential competitors, many
+of whom have longer operating histories, greater name recognition, larger, more
+established customer bases and significantly greater financial, technical and
+marketing resources. Further, some of our competitors provide or have the
+ability to provide the same range of services we offer. They could market to our
+targeted regional and community financial institution client base. Other
+competitors, such as core banking processors, have broad distribution channels
+that bundle competing products directly to financial institutions. Also,
+competitors may compete directly with us by adopting a similar business model or
+through the acquisition of companies, such as resellers, who provide
+complimentary products or services.
+
+     A significant number of companies offer portions of the services we provide
+and compete directly with us. For example, the Web servers of some companies
+compete with our front-end Internet access capabilities. Other software
+providers have created units to provide on an outsource basis a portion of
+services like ours.
+                                       12
+<PAGE>   14
+
+These companies may use billpayers who team with access providers. Also, certain
+services may be available to retail customers independent of financial
+institutions such as Intuit's Quicken.com and Yahoo! Finance. Finally, there are
+some ATM and other networks who provide similar services in addition to
+connecting to financial institutions.
+
+     Many of our competitors may be able to afford more extensive marketing
+campaigns and more aggressive pricing policies in order to attract financial
+institutions. Our failure to compete effectively in our markets would have a
+material adverse effect on our business.
+
+FAILURE TO SUCCESSFULLY IMPLEMENT A SYSTEMS UPGRADE OR CONVERSION MAY ADVERSELY
+AFFECT OUR REPUTATION AND OUR BUSINESS
+
+     A failure to implement a systems upgrade or conversion would delay
+implementation of some of our financial institution clients, could cause us to
+divert significant resources and could negatively impact our reputation in the
+banking industry. We are currently upgrading our system from software version
+2.0 to version 3.0. We may be unable to successfully complete this conversion
+and any future systems upgrades or conversions.
+
+WE DEPEND ON OUR OFFICERS AND SKILLED EMPLOYEES DUE TO OUR COMPLEX BUSINESS
+
+     If we fail to attract, assimilate or retain highly qualified managerial and
+technical personnel and, in particular, software developers for whom demand is
+high in all industry markets, our business could be materially adversely
+affected. Our performance is substantially dependent on the performance of our
+executive officers and key employees who must be knowledgeable and experienced
+in both banking and technology. We are also dependent on our ability to retain
+and motivate high quality personnel, especially management and highly skilled
+technical teams. The loss of the services of any executive officers or key
+employees could have a material adverse effect on our business. Our future
+success also depends on the continuing ability to identify, hire, train and
+retain other highly qualified managerial and technical personnel. Competition
+for such personnel is intense.
+
+SYSTEM FAILURES COULD HURT OUR BUSINESS -- WE COULD BE LIABLE FOR SOME TYPES OF
+FAILURES
+
+     Like other system operators, our operations are dependent on our ability to
+protect our system from interruption caused by damage from fire, earthquake,
+power loss, telecommunications failure, unauthorized entry or other events
+beyond our control. Our back-up site is located approximately one mile from our
+headquarters, where most of our computer systems, including processing
+equipment, is currently operated and maintained. In the event of major
+disasters, both locations could be equally impacted. Loss of all or part of our
+systems for a period of time could have a material adverse effect on our
+business. We may be liable to our clients for breach of contract for
+interruptions in service. Due to the numerous variables surrounding system
+disruptions, we cannot predict the extent or amount of any potential liability.
+
+SECURITY BREACHES COULD DISRUPT OUR BUSINESS
+
+     Like other system operators, our computer systems may also be vulnerable to
+computer viruses, hackers, and other disruptive problems caused by unauthorized
+parties entering our system. Computer attacks or disruptions may jeopardize the
+security of information stored in and transmitted through the computer systems
+of our financial institution clients and their retail customers using our
+services, which may result in significant losses or liability. This, or the
+perception that our systems may be vulnerable to such attacks or disruptions,
+also may deter retail customers from using our services.
+
+     Data networks are also vulnerable to attacks and disruptions. For example,
+in a number of public networks, hackers have bypassed firewalls and
+misappropriated confidential information. It is possible, that despite existing
+safeguards, an employee could divert retail customer funds while these funds are
+in our control, exposing us to a risk of loss or litigation and possible
+liability. In dealing with numerous consumers, it is possible that some level of
+fraud or error will occur, which may result in erroneous external payments.
+
+                                       13
+<PAGE>   15
+
+Losses or liabilities that we incur as a result of any of the foregoing could
+have a material adverse effect on our business.
+
+WE RELY ON OUR INTELLECTUAL PROPERTY RIGHTS AND PROPRIETARY INFORMATION
+
+     We rely on patent trade secret laws to protect our intellectual property,
+such as the software and processes which we have developed in connection with
+our business. If we fail to adequately protect our intellectual property rights
+and proprietary information or if we become involved in litigation relating to
+our intellectual property rights, our business could be harmed. Any actions we
+take may not be adequate to protect our intellectual property rights and other
+companies may develop technologies that are similar or superior to our
+intellectual property. Although we believe that our services do not infringe on
+the intellectual property rights of others and that we have all rights needed to
+use the intellectual property employed in our business, it is possible that we
+could become subject to claims alleging infringement of third-party intellectual
+property rights. Any claims could subject us to litigation, and could require us
+to pay damages or develop non-infringing intellectual property, any of which
+could be expensive, or require us to acquire licenses to the intellectual
+property that is the subject of the alleged infringement.
+
+OUR CERTIFICATE OF INCORPORATION AND BYLAW PROVISIONS MAY PREVENT OR DELAY THIRD
+PARTIES FROM BUYING YOUR STOCK
+
+     Our Restated Certificate of Incorporation authorizes the Board of Directors
+to issue up to 3,000,000 shares of preferred stock and to determine the price,
+rights, preferences and privileges, including voting rights, of those shares
+without any further vote or action by the stockholders. The rights of the
+holders of common stock will be subject to, and may be adversely affected by,
+the rights of the holders of any preferred stock that may be issued in the
+future. The Certificate of Incorporation provides for staggered terms for the
+members of the Board of Directors. In addition, the Certificate of Incorporation
+provides that directors can be removed only for cause and only by a majority of
+the other directors or by vote of stockholders owning 80% or more of the voting
+power. Some provisions of our Certificate of Incorporation and Bylaws could have
+a depressive effect on our stock price or make it more difficult for a third
+party to acquire a majority of our outstanding voting stock or delay, prevent or
+deter a merger, acquisition, tender offer or proxy contest.
+
+OUR SERVICES MAY NOT BE BROADLY USED AND ACCEPTED BY CONSUMERS
+
+     There is no established history of broad acceptance by retail customers of
+services like ours and those services may not be accepted in the future. Because
+our fee structure is designed to establish recurring revenues through monthly
+usage by retail customers of our financial institution clients, our recurring
+revenues are dependent on the acceptance of our services by retail customers and
+their continued use of online banking, billpaying and other financial services.
+
+CONSOLIDATION OF THE BANKING AND FINANCIAL SERVICES INDUSTRY COULD NEGATIVELY
+IMPACT OUR BUSINESS
+
+     The continuing consolidation of the banking and financial services industry
+could result in a smaller market for our services. Consolidation frequently
+results in a complete change in the electronic infrastructure of the combined
+entity. This could result in the termination of our services and related
+products if the acquiring institution has its own in-house system or outsources
+to competitive vendors. This would also result in the loss of revenue from
+actual or potential retail customers of the acquired financial institution.
+
+GOVERNMENT REGULATION COULD INTERFERE WITH OUR BUSINESS
+
+     Federal or state agencies may attempt to regulate our activities. In
+addition, Congress could enact legislation that would require us to comply with
+data, record keeping, processing and other requirements. We may be subject to
+additional regulation as the market for our business continues to evolve. The
+Federal Reserve Board or other Federal or state agencies may adopt new rules and
+regulations for electronic funds transfers that could lead to increased
+operating costs and could also reduce the convenience and functionality of our
+services, possibly resulting in reduced market acceptance.
+
+                                       14
+<PAGE>   16
+
+MANAGEMENT AND DIRECTORS MAY CONTROL OUR MANAGEMENT AND AFFAIRS
+
+     As of March 20, 2000, management and directors beneficially owned
+approximately 29% of our outstanding common stock. As a result, they may have
+the ability to effectively control us and direct our affairs and business,
+including the election of directors and approval of significant corporate
+transactions. Such concentration of ownership may also have the effect of
+delaying, deferring or preventing a change in control of Online Resources, and
+make some transactions more difficult or impossible without the support of such
+stockholders, including proxy contests, mergers involving Online Resources,
+tender offers, open-market purchase programs or other purchases of common stock
+that could give our stockholders the opportunity to realize a premium over the
+then-prevailing market price for shares of common stock.
+
+OUR STOCK PRICE IS VOLATILE
+
+     The trading price of our common stock has been subject to significant
+fluctuations and may continue to be volatile in response to:
+
+     - actual or anticipated variations in quarterly operating results;
+
+     - announcements of technological innovations;
+
+     - new products or services offered by Online Resources or our competitors;
+
+     - changes in financial estimates by securities analysts;
+
+     - conditions or trends in the Internet and online commerce industries;
+
+     - changes in the economic performance and/or market valuations of other
+       Internet, online service industries;
+
+     - announcements by Online Resources of significant acquisitions, strategic
+       partnerships, joint ventures or capital commitments;
+
+     - additions or departures of key personnel;
+
+     - sales of common stock; and
+
+     - other events or factors, many of which are beyond our control.
+
+     The stock market has experienced extreme price and volume fluctuations and
+volatility that has particularly affected the market prices of many technology,
+emerging growth and developmental stage companies. Such fluctuations and
+volatility have often been unrelated or disproportionate to the operating
+performance of such companies. In the past, following periods of volatility in
+the market price of a company's securities, securities class action litigation
+has often been instituted against a company. Litigation, if instituted, whether
+or not successful, could result in substantial costs and a diversion of
+management's attention and resources, which would have a material adverse effect
+on our business.
+
+ITEM 2.  PROPERTIES
+
+     We are headquartered in McLean, Virginia where we lease approximately
+51,000 square feet of office space. The lease has a five-year term and expires
+July 31, 2002. We also lease approximately 3,000 square feet of office space in
+McLean, Virginia for our back-up site. We have field offices located in Atlanta,
+Chicago, Denver, Fort Worth, Orlando, Sacramento, and St. Louis.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     From time to time we may be involved in litigation arising in the normal
+course of our business. We are not a party to any litigation, individually or in
+the aggregate, that we believe would have a material adverse effect on our
+financial condition or results of operations.
+
+                                       15
+<PAGE>   17
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of security holders, through the
+solicitation of proxies or otherwise, during the fourth quarter of the fiscal
+year covered by this report.
+
+                                    PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+MATTERS
+
+MARKET INFORMATION
+
+     Our common stock trades on the Nasdaq National Market under the symbol
+"ORCC". The following table sets forth the range of high and low closing sales
+prices of our common stock for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                    FISCAL QUARTER ENDED                       HIGH       LOW
+                    --------------------                      -------   -------
+<S>                                                           <C>       <C>
+June 30, 1999 (commencing June 4, 1999).....................  $17.375   $10.625
+September 30, 1999..........................................   21.250    12.000
+December 31, 1999...........................................   17.000     7.937
+</TABLE>
+
+     The market price of our common stock is highly volatile and fluctuates in
+response to a wide variety of factors. See "Business -- Risk Factors -- Our
+Stock Price is Volatile."
+
+HOLDERS
+
+     On March 1, 2000, we had approximately 372 holders of record of common
+stock. This does not reflect persons or entities who hold their stock in nominee
+or "street" name through various brokerage firms.
+
+DIVIDENDS
+
+     We have not paid any cash dividends on our common stock. We expect to
+invest any future earnings to finance growth, and therefore do not intend to pay
+dividends in the foreseeable future. Our board of directors will determine if we
+pay any future dividends.
+
+USE OF PROCEEDS
+
+     Proceeds to Online Resources, from its initial public offering in June,
+1999, net of offering costs from the offering, totaled approximately $39
+million. As of December 31, 1999, Online Resources had used $9.4 million of the
+proceeds for the repayment of debt, $7.6 million for working capital, $500,000
+for consumer marketing expenditures and $21.5 million was held in cash and
+investments.
+
+RECENT SALES OF UNREGISTERED SECURITIES
+
+     During the fiscal quarter ended December 31, 1999, the following securities
+were sold pursuant to the exercise of warrants upon reliance of the exemption
+provided by Section 4(2) of the Securities Act:
+
+<TABLE>
+<CAPTION>
+                            DATE                              AMOUNT SOLD   PRICE
+                            ----                              -----------   ------
+<S>                                                           <C>           <C>
+10/01/99....................................................    16,445      $ 8.42
+10/31/99....................................................     3,469      $ 8.42
+</TABLE>
+
+                                       16
+<PAGE>   18
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     You should read the following selected financial information in conjunction
+with our financial statements and related notes thereto and "Management's
+Discussion and Analysis of Financial Condition and Results of Operations"
+included elsewhere in this report.
+
+<TABLE>
+<CAPTION>
+                                                     YEAR ENDED DECEMBER 31
+                             ----------------------------------------------------------------------
+                                1995          1996           1997           1998           1999
+                             -----------   -----------   ------------   ------------   ------------
+<S>                          <C>           <C>           <C>            <C>            <C>
+Statement of Operations
+  Data:
+Revenues:
+  Core services............  $   372,573   $   417,590   $  1,011,161   $  2,221,230   $  4,362,695
+  Support services.........      307,423       176,653        207,697        644,818      2,015,480
+  Implementation fees......       66,620       417,116      1,310,950      1,200,158      1,772,290
+  Related products.........      237,654       119,150        324,736        259,898        295,070
+                             -----------   -----------   ------------   ------------   ------------
+          Total revenues...      984,270     1,130,509      2,854,544      4,326,104      8,445,535
+  Cost of revenues.........    1,853,486     1,864,991      5,128,584      6,289,462      9,081,269
+                             -----------   -----------   ------------   ------------   ------------
+                                (869,216)     (734,482)    (2,274,040)    (1,963,358)      (635,734)
+  General and
+     administration........    1,699,363     2,208,218      2,508,058      2,705,029      3,894,475
+  Sales and marketing......    1,423,255     2,249,405      3,257,725      3,377,728      5,266,044
+  Systems and
+     development...........    1,241,874     1,469,272      2,682,261      2,444,615      3,998,936
+                             -----------   -----------   ------------   ------------   ------------
+          Total expenses...    4,364,492     5,926,895      8,448,044      8,527,372     13,159,455
+                             -----------   -----------   ------------   ------------   ------------
+Loss from operations.......   (5,233,708)   (6,661,377)   (10,722,084)   (10,490,730)   (13,795,189)
+Other income (expense).....        6,251      (315,014)      (323,727)    (1,067,739)       (34,045)
+                             -----------   -----------   ------------   ------------   ------------
+Loss before extraordinary
+  loss.....................   (5,227,457)   (6,976,391)   (11,045,811)   (11,558,469)   (13,829,234)
+Extraordinary loss from
+  extinguishment of debt
+  (1)......................           --            --             --             --       (885,407)
+Net loss...................   (5,227,457)   (6,976,391)   (11,045,811)   (11,550,469)   (14,714,641)
+Preferred stock
+  accretion................           --            --     (1,998,665)    (3,779,169)    (2,236,716)
+Beneficial return on
+  preferred shares (2).....           --            --             --             --     (2,668,109)
+                             -----------   -----------   ------------   ------------   ------------
+Net loss available for
+  common...................   (5,227,457)   (6,976,391)   (13,044,476)   (15,337,638)   (19,619,466)
+Net loss per share basic
+  and diluted..............  $     (1.52)  $     (1.86)  $      (3.38)  $      (3.83)  $      (2.10)
+                             ===========   ===========   ============   ============   ============
+Shares used in calculation
+  of basic and diluted loss
+  per share................    3,427,844     3,742,648      3,858,366      4,009,713      9,327,202
+</TABLE>
+
+- ---------------
+(1) On June 10, 1999, we used $9.4 million of the net proceeds from our initial
+    public offering to pay off corporate debt which resulted in a one time
+    charge.
+
+(2) We recorded a deemed beneficial return on the Series C preferred stock
+    issued during the first three months of 1999, due to these shares being
+    convertible into common stock at a discount from fair value at the date of
+    issuance.
+
+                                       17
+<PAGE>   19
+
+<TABLE>
+<CAPTION>
+                                                     YEAR ENDED DECEMBER 31
+                             ----------------------------------------------------------------------
+                                1995          1996           1997           1998           1999
+                             -----------   -----------   ------------   ------------   ------------
+<S>                          <C>           <C>           <C>            <C>            <C>
+Balance Sheet Data:
+Cash and equivalents.......  $   762,738   $    41,142   $  1,855,161   $  3,471,620   $  1,588,187
+Working capital............    1,265,745    (1,399,022)      (144,592)       580,376     20,895,369
+Total assets...............    2,429,060     2,082,436      4,681,995      9,421,428     29,217,175
+Notes payable, less current
+  portion..................      475,000     4,555,808      1,199,225      8,525,467             --
+Capital lease obligations,
+  less current portion.....       92,154            --        352,956        605,322        329,480
+Put option liability.......           --            --             --        362,700             --
+Other non-current
+  liabilities..............           --            --             --        193,400             --
+Total liabilities..........      993,447     6,927,011      4,217,590     14,833,950      3,750,141
+Redeemable convertible
+  preferred stock..........           --       645,000     16,836,016     25,776,254             --
+Series A Convertible
+  Preferred Stock..........        7,950         7,950          7,950          7,950             --
+Stockholders' equity
+  (deficit)................    1,435,613    (5,489,575)   (16,371,611)   (31,188,776)    25,467,034
+</TABLE>
+
+                                       18
+<PAGE>   20
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+     The following discussion should be read in conjunction with the financial
+statements and related notes included elsewhere in this report. This discussion
+contains forward-looking statements that involve risks and uncertainties. Our
+actual results could differ materially from the results anticipated in these
+forward-looking statements as a result of factors including, but not limited to,
+those under "Business--Risk Factors" and elsewhere in this report.
+
+OVERVIEW
+
+     We are a leading application service provider for Internet banking and
+other e-finance services to regional and community financial institutions. We
+offer our client's a cost-effective outsourced service, branded in their name,
+by seamlessly integrating Internet banking, electronic bill payment, and other
+e-financial services into a single-vendor, end-to-end solution. As part of our
+services, we provide customer support through our call center, marketing
+services, web site design, implementation and other services.
+
+     We derive revenue from long-term service contracts with our financial
+institution clients, who pay us recurring fees based primarily on the number of
+their retail customers enrolled and transaction volumes, as well as an up-front
+implementation fee. Our financial institution clients typically subsidize some
+or all of our fees when reselling our services to their retail customers, as
+they derive significant potential benefits including account retention, delivery
+and paper cost savings, account consolidation and cross-selling of other
+products. As a network-based service provider, we have made substantial up-front
+investments in infrastructure. We believe our financial performance and
+operating leverage will be based primarily on increasing retail customer
+subscriptions and transaction volumes over a relatively fixed cost base.
+
+     Our current sources of revenue are from core services, support services,
+implementations and selling related products. We expect that our primary source
+of revenue growth will come from core services and support services as a result
+of continued growth of retail customers.
+
+     - Core Services.  Our primary source of revenue is from providing core
+       services which include banking and billpaying for which we charge our
+       financial institution clients a fixed monthly fee based on the number of
+       retail customers who use our service. We recognize revenue from core
+       services as provided.
+
+     - Support Services.  Support services include our customer service center,
+       Web page design and hosting, consumer marketing, information reporting,
+       administrative services, and communications services. Fees for these
+       services are closely tied to the number of retail customers and are
+       bundled as either fixed price monthly charges, fixed price project fees,
+       or hourly billings.
+
+     - Implementation.  We generate revenue from implementation of our fully
+       integrated services to our financial institution clients. Implementation
+       fees are paid on a one time basis at signing and recognized as revenue
+       using the percentage of completion method.
+
+     - Related Products.  We also derive revenue from sales of related enabling
+       products and software at fixed prices, including our PC software,
+       screen-based telephone and customer service software. These have not been
+       a significant source of revenue.
+
+     Historically, the majority of our resources have been directed to creating
+our proprietary Opus(SM) system. Our proprietary system enables us to provide a
+broad range of services to our financial institution clients including online
+banking, billpaying, and access to complementary financial services supported by
+our customer call center, marketing services and other support services. While
+investment to date has been significant, we believe the infrastructure we have
+built will enable us to support our anticipated growth over the next several
+years with only nominal incremental cost for additional retail customers.
+
+FINANCIAL CONDITION
+
+     Since our founding, we have incurred high costs to create our
+infrastructure, while generating low revenues. As a result we have historically
+experienced large operating losses and negative cash flow. At December 31, 1999
+we had accumulated deficits of $56.7 million, cash and investments of $21.5
+million and
+                                       19
+<PAGE>   21
+
+net property and equipment of $4.6 million. We have funded our operations
+primarily through the issuance of equity and debt securities. Ongoing working
+capital requirements will primarily consist of personnel costs related to
+enhancing and maintaining our Opus(SM) system. We expect to continue to incur
+losses in the near future.
+
+     As of December 31, 1999, we had $1.6 million in cash and cash equivalents
+and $19.9 million in investments in available for sale securities as compared to
+$3.5 million in cash and cash equivalents as of December 31, 1998. The increase
+in cash and investments results from our initial public offering of 3.1 million
+shares of common stock at an initial public offering price of $14.00 per share.
+We received proceeds, net of underwriting commissions, of approximately $40
+million in cash and this was further reduced by an additional $1 million of
+other related offering costs. On June 10, 1999 we used $9.4 million of the net
+proceeds to pay off corporate debt. Total liabilities decreased from $14.8
+million as of December 31, 1998 to $3.8 million as of December 31, 1999
+primarily as a result of the $9.4 million debt payment during the second
+quarter. During the six month period, prior to the debt extinguishment, we had
+already paid down $344,000 of debt. Concurrent with our initial public offering,
+all 1,071,779 shares of our convertible preferred stock automatically converted
+into 3,571,559 shares of common stock which resulted in a $25.8 million decrease
+in redeemable convertible preferred stock from $25.8 million as of December 31,
+1998 to $0 as of December 31, 1999.
+
+     Our limited operating history makes it difficult to evaluate our prospects
+for success and our revenue and profitability potential is unproven.
+
+RESULTS OF OPERATIONS
+
+     The following table presents certain items derived from our statements of
+operations expressed as a percentage of revenue.
+
+<TABLE>
+<CAPTION>
+                                                                   YEAR ENDED DECEMBER 31
+                                                              --------------------------------
+                                                               1997         1998         1999
+                                                              ------       ------       ------
+<S>                                                           <C>          <C>          <C>
+Statement of Operations Data:
+Revenues:
+  Core services.............................................    35.4%        51.3%        51.7%
+  Support services..........................................     7.3         14.9         23.9
+  Implementation fees.......................................    45.9         27.7         21.0
+  Related products..........................................    11.4          6.1          3.4
+          Total revenues....................................   100.0        100.0        100.0
+Expenses:
+  Cost of revenues..........................................   179.7        145.4        108.0
+Gross (loss)................................................   (79.7)       (45.4)        (7.5)
+  General and administrative................................    87.9         62.5         46.1
+  Sales and marketing.......................................   114.1         78.1         62.4
+  Systems and development...................................    94.0         56.5         47.3
+          Total expenses....................................   296.0        197.1        155.8
+Loss from operations........................................  (375.7)      (242.5)      (163.3)
+Total other income (expense)................................   (11.3)       (24.7)          --
+Extraordinary loss from the extinguishment of debt..........      --           --        (10.5)
+Net loss....................................................  (387.0)%     (267.2)%     (174.2)%
+</TABLE>
+
+  YEAR ENDED DECEMBER 31, 1999 COMPARED TO THE YEAR ENDED DECEMBER 31, 1998
+
+     Revenues.  We derive revenues from providing core services, support
+services, implementations and from selling related products. Revenues increased
+95.2% to $8.4 million in 1999 as compared to $4.3 million in 1998. This increase
+was attributable to core services revenue increasing 96.4% to $4.4 million and
+support services revenue increasing 212.6% to $2.0 million due to a 273.7%
+increase in the number of retail customers. Additionally, implementation fees
+increased 47.7% to $1.8 million as a result of clients launched onto our
+
+                                       20
+<PAGE>   22
+
+system. Related product revenue increased 13.5% to $295,000 as we delivered
+additional fulfillment material to a small percentage of new retail customers
+accessing the service using either our PC software or our screen-based
+telephone.
+
+     Cost of Revenues.  Cost of revenues primarily includes telecommunications,
+payment processing, systems operations, customer service, implementation and
+related products. Cost of revenues increased 44.4% to $9.1 million in 1999 as
+compared to $6.3 million in 1998. This increase was primarily attributable to a
+$1.5 million increase in customer service costs and a $800,000 increase in
+billpaying processing costs. These increases resulted from the increased number
+of retail customers and an increase in staff to support the growth of our
+operations.
+
+     General and Administrative.  General and administrative expenses primarily
+consist of salaries for executive, administrative and financial control
+personnel and facilities costs such as office leases, insurance, and
+depreciation. General and administrative expenses increased 44% to $3.9 million
+in 1999 as compared to $2.7 million in 1998. The increase in general and
+administrative expenses is attributable to increased headcount and increased
+rent and depreciation expenses associated with the expansion of the corporate
+facilities. General and administrative headcount increased 33% from December 31,
+1998 to December 31, 1999.
+
+     Sales and Marketing.  Sales and marketing expenses include salaries and
+commissions paid to sales and marketing personnel, consumer marketing costs,
+public relations costs, and other costs incurred in marketing our services and
+products. We have 41 marketing partners who act as resellers of our services. We
+have no obligation to these marketing partners other than to provide services
+sold to financial institutions by the marketing partners and to pay commissions
+to them on the sales. The marketing partners have no obligations to us other
+than to re-sell our services. We do not expect to incur materially less sales
+commissions when financial institutions sign with our marketing partners versus
+when financial institutions sign through our own sales force. Sales and
+marketing expenses increased 56% to $5.3 million in 1999 as compared to $3.4
+million in 1998. The principal reasons for the increase in sales and marketing
+expenses were increased headcount, increased consumer marketing expenditures,
+increases in commissions as a result of higher revenue levels, and increases in
+related travel costs. The increase in consumer marketing expenditures are
+attributable to promoting the adoption of our services by the retail customers
+of the growing number of launched financial institution clients.
+
+     Systems and Development.  Systems and development expenses include salaries
+of personnel in the systems and development department, consulting fees and all
+other expenses incurred in supporting the development of new services and
+products, and new technology to enhance existing products. Systems and
+development expenses increased 64% to $4.0 million in 1999 as compared to $2.4
+million in 1998. This was primarily attributable to costs associated with a
+technical staff expansion and the use of third party consultants to support the
+enhancement of our Opus(SM) system. The costs of third party consultants is
+generally higher than the cost of internal resources. Headcount in the systems
+and development groups increased 18% from December 31, 1998 to December 31,
+1999.
+
+     Other Income and Expense.  Interest income increased 949% to $990,000 in
+1999 as compared to $94,000 in 1998. The increase was due to the investment of
+the initial public offering proceeds in available for sale securities over the
+second half of the fiscal year. Additionally interest expense decreased 16% to
+$959,000 in 1999 as compared to $1.1 million in 1998 as the result of the
+extinguishment of $9.4 million of corporate debt on June 10, 1999. We recognized
+an extraordinary loss of $885,000 on the early extinguishment of the $9.4
+million of corporate debt related to unamortized debt discounts and loan fees.
+
+  YEAR ENDED DECEMBER 31, 1998 COMPARED TO THE YEAR ENDED DECEMBER 31, 1997
+
+     Revenues.  Revenues increased 51.6% to $4.3 million in 1998 as compared to
+$2.9 million in 1997. This increase was primarily attributable to a 119.7%
+increase in core services fees and a 210.5% increase in support services fees,
+which were driven by a 151.0% increase in the number of retail customers. The
+increase in retail customers was driven primarily by the launch of an additional
+60 clients during 1998.
+
+                                       21
+<PAGE>   23
+
+     Cost of Revenues.  Cost of revenues increased 22.6% to $6.3 million in 1998
+as compared to $5.1 million in 1997. This increase was primarily due to a 110.6%
+increase in payment processing costs as a result of increased support staff and
+transactional costs associated with the 151.0% increase in retail customers.
+Additionally, telecommunications costs increased 57.5% and customer service
+costs increased 34.1% as a result of the increase in retail customers. Related
+product costs decreased 78.5% as the result of the recognition of a $496,721
+reserve on screen-based telephones taken in 1997.
+
+     General and Administrative.  General and administrative expenses increased
+by 7.9% to $2.7 million in 1998 as compared to $2.5 million in 1997. The
+increase was due to a 480.1% increase in professional services and a 49.6%
+increase in rent expense, which were partially offset by a 22.9% decrease in
+salaries expenses. In 1997, a one-time charge of $137,000 was incurred for
+severance costs paid to terminated employees. This reduction in employees
+contributed to the reduction in salaries expense in 1998.
+
+     Sales and Marketing.  Sales and marketing expenses increased 3.7% to $3.4
+million in 1998 as compared to $3.3 million in 1997. This increase was due to a
+3.8% increase in personnel expenses, a significant increase in advertising
+expenses and expenses related to the distribution of marketing materials.
+
+     Systems and Development.  Systems and development expenses decreased by
+8.9% to $2.4 million in 1998 as compared to $2.7 million in 1997. This decrease
+was attributable to a 7.5% decrease in personnel expenses and a 74.4% decrease
+in recruiting expenses as hiring growth slowed and we relied less on external
+recruiting services, which were partially offset by a 39.1% increase in
+consulting services.
+
+     Other Income and Expense.  Interest expense increased 143.3% to $1.1
+million in 1998 as compared to $471,187 in 1997 as we continued to finance our
+working capital through equipment financing loans in late 1997 and financings in
+1998.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Since inception, we have primarily financed our operations through private
+placements of our common and preferred stock and the issuance of debt. We have
+also entered into various capital lease financing agreements. In June 1999, we
+closed our initial public offering of 3.1 million shares of common stock at an
+initial public offering price of $14.00 per share. Net of underwriting
+commissions, we received cash proceeds of approximately $40 million in cash,
+which was reduced further by an additional $1 million of other related offering
+costs. At December 31, 1999 we had $1.6 million in cash and cash equivalents and
+$19.9 million in investments in available for sale securities.
+
+     Net cash used in operating activities was $14.2 million for the year ended
+December 31, 1999 as compared to $10.4 million in the year ended December 31,
+1998. Cash used in operating activities in the year ended December 31, 1999
+resulted primarily from a net loss of $14.7 million. Cash used in operating
+activities in the year ended December 31, 1998 was primarily attributable to a
+net loss of $11.6 million.
+
+     Net cash used in investing activities for the year ended December 31, 1999
+was $22.4 million, of which $20.3 million related to the purchase of investments
+in available for sale securities and $2 million was used to purchase fixed
+assets.
+
+     Net cash provided by financing activities was $34.6 million in the year
+ended December 31, 1999 as compared to $12.6 million in the year ended December
+31, 1998. Net proceeds from our initial public offering, net of underwriting
+discounts and offering costs, were $39.0 million, of which $9.4 million was used
+to pay down existing debt. During the period, prior to the debt extinguishment
+payment, we had preciously paid down $344,000 of debt. In addition, during 1999
+cash proceeds from the sale of Series C Preferred Stock was $5.3 million. Prior
+to our initial public offering, we financed our operations primarily through the
+sale of equity securities and debt securities in private placements. During the
+year ended December 31, 1998 the $12.6 million in cash provided by financing
+activities was the result of a loan of $8.4 million and proceeds of $4.6 million
+from the sale of Series C Preferred Stock. At December 31, 1999, we had cash and
+cash equivalents of $1.6 million, investments in available for sale securities
+of $19.9 million, working capital of $20.9 million, and stockholders' equity of
+$25.5 million.
+
+                                       22
+<PAGE>   24
+
+     Online Resources currently believes that cash balances will be sufficient
+to meet anticipated cash requirements through at least 2000. However, there can
+be no assurance that additional capital beyond the amounts currently forecasted
+by Online Resources will not be required or that any such required additional
+capital will be available on reasonable terms, if at all, at such time as
+required.
+
+     In addition, until cash generated from operations is sufficient to satisfy
+our future liquidity requirements, we believe that we will be required to seek
+additional funds through issuance of additional equity or debt securities or
+through credit facilities. The sale of additional equity will result in dilution
+to our stockholders. Financing may not be available in the future in amounts or
+on terms acceptable to us, if at all.
+
+YEAR 2000 READINESS DISCLOSURE
+
+     Our business operations were not adversely affected by any year 2000
+issues. Prior to the end of 1999, we acted to ensure that our products and
+critical internal business systems were year 2000 compliant.
+
+     We have funded the costs to become year 2000 compliant from operating cash
+flows and have not separately accounted for these costs in the past. To date,
+these costs have not been material. However, we may incur significant costs in
+unanticipated year 2000 compliance problems arise. These unanticipated costs, or
+our failure to correct any unanticipated year 2000 problems in a timely manner,
+could have a material adverse effect on our business, financial condition,
+results of operations and prospects for growth.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     We do not have operations subject to risks of foreign currency
+fluctuations, nor do we use derivative financial instruments in our operations
+or investment portfolio. The long-term debt at December 31, 1999 is comprised of
+capital lease obligations with interest rates ranging from 9% to 13%. A
+fluctuation of 100 basis points in the prime rate would not have an adverse
+material effect on us.
+
+                                       23
+<PAGE>   25
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                         INDEX TO FINANCIAL STATEMENTS
+
+<TABLE>
+<S>                                                           <C>
+Report of Ernst & Young LLP, Independent Auditors...........   25
+Balance Sheets..............................................   26
+Statements of Operations....................................   27
+Statements of Stockholders' Equity..........................   28
+Statements of Cash Flows....................................   29
+Notes to Financial Statements...............................   30
+</TABLE>
+
+                                       24
+<PAGE>   26
+
+               REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+The Board of Directors
+Online Resources & Communications Corporation
+
+     We have audited the accompanying balance sheets of Online Resources &
+Communications Corporation as of December 31, 1998 and 1999, and the related
+statements of operations, stockholders' equity, and cash flows for each of the
+three years in the period ended December 31, 1999. These financial statements
+are the responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+     We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Online Resources &
+Communications Corporation at December 31, 1998 and 1999, and the results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 1999, in conformity with accounting principles generally accepted
+in the United States.
+
+                                          /s/ ERNST & YOUNG, LLP
+
+McLean, Virginia
+February 10, 2000
+
+                                       25
+<PAGE>   27
+
+                                 BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                     DECEMBER 31,
+                                                              ---------------------------
+                                                                  1998           1999
+                                                              ------------   ------------
+<S>                                                           <C>            <C>
+ASSETS
+Current assets:
+  Cash and cash equivalents (Note 2)........................  $  3,471,620   $  1,588,187
+  Escrow deposit............................................       400,985             --
+  Investments (Note 3)......................................            --     19,905,929
+  Accounts receivable (net of allowance of $52,000,and
+     $152,000 at December 31, 1998 and 1999,
+     respectively)..........................................       933,585      1,875,707
+  Prepaid expenses and other current assets.................       921,247        946,207
+                                                              ------------   ------------
+          Total current assets..............................     5,727,437     24,316,030
+Property and equipment, net (Note 4)........................     3,166,019      4,616,672
+Other assets................................................       527,972        284,473
+                                                              ------------   ------------
+          Total assets......................................  $  9,421,428   $ 29,217,175
+                                                              ============   ============
+LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)
+Current liabilities:
+  Accounts payable..........................................  $  1,707,675   $    812,082
+  Accrued expenses and other current liabilities............       617,929        565,384
+  Accrued wages.............................................       425,703        537,553
+  Accrued vacation..........................................       191,090        378,640
+  Deferred revenues.........................................       678,117        417,926
+  Current portion of capital lease obligation...............       614,585        709,076
+  Current portion of long term debt (Note 5)................       711,962             --
+  Current portion of notes payable to related parties.......       200,000             --
+                                                              ------------   ------------
+          Total current liabilities.........................     5,147,061      3,420,661
+  Capital lease obligation..................................       605,322        329,480
+  Long Term debt (net of unamortized discount of $506,861 at
+     December 31, 1998) less current portion................     8,525,467             --
+  Put option liability......................................       362,700             --
+  Other Noncurrent Liabilities..............................       193,400             --
+                                                              ------------   ------------
+          Total Liabilities.................................    14,833,950      3,750,141
+Commitments (Note 6)
+Redeemable convertible Preferred Stock, $.01 par value (Note
+  8)
+  Series B redeemable convertible preferred stock; 100,000
+     shares designated, 1,000 shares issued and outstanding
+     at December 31, 1998...................................       120,854             --
+  Series C redeemable convertible preferred stock; 287,000
+     shares designated, 224,700 shares issued and
+     outstanding at December 31, 1998.......................    25,655,400             --
+                                                              ------------   ------------
+          Total redeemable convertible Preferred Stock......    25,776,254             --
+Stockholders' equity (deficit) (Note 9)
+  Series A convertible preferred stock, $0.1 par value;
+     1,000,000 shares authorized, 795,000 shares issued and
+     outstanding at December 31, 1998.......................         7,950             --
+  Common stock, $.0001 par value; 35,000,000 shares
+     authorized, 4,053,653 and 11,050,456 issued and
+     outstanding at December 31, 1998 and 1999,
+     respectively...........................................           405          1,105
+  Additional paid-in capital................................    11,078,308     83,035,825
+  Accumulated deficit.......................................   (41,937,066)   (56,651,707)
+  Deferred stock compensation...............................            --       (267,949)
+  Receivable from the sale of common stock..................      (338,373)      (650,240)
+                                                              ------------   ------------
+          Total stockholders' equity (deficit)..............   (31,188,776)    25,467,034
+                                                              ------------   ------------
+          Total liabilities and stockholders' equity........  $  9,421,428   $ 29,217,175
+                                                              ============   ============
+</TABLE>
+
+                                       26
+<PAGE>   28
+
+                 ONLINE RESOURCES & COMMUNICATIONS CORPORATION
+
+                            STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                              YEAR ENDED DECEMBER 31,
+                                                     ------------------------------------------
+                                                         1997           1998           1999
+                                                     ------------   ------------   ------------
+<S>                                                  <C>            <C>            <C>
+Revenues:
+  Core services....................................  $  1,011,161   $  2,221,230   $  4,362,695
+  Support services.................................       207,697        644,818      2,015,480
+  Implementation fees..............................     1,310,950      1,200,158      1,772,290
+  Related products.................................       324,736        259,898        295,070
+                                                     ------------   ------------   ------------
+          Total revenues...........................     2,854,544      4,326,104      8,445,535
+Expenses:
+  Cost of revenues.................................     5,128,584      6,289,462      9,081,269
+                                                     ------------   ------------   ------------
+                                                       (2,274,040)    (1,963,358)      (635,734)
+  General and administrative.......................     2,508,058      2,705,029      3,894,475
+  Selling and marketing............................     3,257,725      3,377,728      5,266,044
+  Systems and development..........................     2,682,261      2,444,615      3,998,936
+                                                     ------------   ------------   ------------
+          Total expenses...........................     8,448,044      8,527,372     13,159,455
+Loss from operations...............................   (10,722,084)   (10,490,730)   (13,795,189)
+Other income (expense):
+  Interest income..................................       147,988         94,312        989,520
+  Interest expense.................................      (471,187)    (1,146,614)      (958,852)
+  Other............................................          (528)       (15,437)       (64,713)
+                                                     ------------   ------------   ------------
+          Total other income (expense).............      (323,727)    (1,067,739)       (34,045)
+Loss before extraordinary loss.....................   (11,045,811)   (11,558,469)   (13,829,234)
+Extraordinary loss from the extinguishment of
+  debt.............................................            --             --       (885,407)
+                                                     ------------   ------------   ------------
+Net loss...........................................   (11,045,811)   (11,558,469)   (14,714,641)
+Preferred stock accretion..........................    (1,998,665)    (3,779,169)    (2,236,716)
+Beneficial return on preferred shares..............            --             --     (2,668,109)
+                                                     ------------   ------------   ------------
+Net loss available to common shareholders..........  $(13,044,476)  $(15,337,638)  $(19,619,466)
+                                                     ============   ============   ============
+Loss per share:
+  Net loss per share from continuing operations
+     (including accretion and beneficial return on
+     preferred shares).............................  $      (3.38)  $      (3.83)  $      (2.00)
+  Net loss per share -- extraordinary loss.........            --             --          (0.10)
+  Net loss per share attributable to common
+     shareholders..................................  $      (3.38)  $      (3.83)  $      (2.10)
+Shares used in calculation of loss per share:
+  Basic and diluted................................     3,858,366      4,009,713      9,327,202
+</TABLE>
+
+                                       27
+<PAGE>   29
+
+                 ONLINE RESOURCES & COMMUNICATIONS CORPORATION
+
+                       STATEMENTS OF STOCKHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+                                      SERIES A
+                                  PREFERRED STOCK        COMMON STOCK       ADDITIONAL                     DEFERRED
+                                 ------------------   -------------------     PAID-IN     ACCUMULATED       STOCK
+                                  SHARES    AMOUNT      SHARES     AMOUNT     CAPITAL       DEFICIT      COMPENSATION
+                                 --------   -------   ----------   ------   -----------   ------------   ------------
+<S>                              <C>        <C>       <C>          <C>      <C>           <C>            <C>
+Balance at December 31, 1996...   795,000   $7,950     3,816,467   $ 382    $13,834,879   $(19,332,786)   $      --
+ Issuance of common stock......        --       --           151      --          1,454            --            --
+ Exercise of common stock
+   options.....................        --       --        75,038       7        234,491            --            --
+ Issuance of common stock
+   warrants....................        --       --            --      --      2,145,986            --            --
+ Series B preferred stock
+   accretion...................        --       --            --      --        (10,331)           --            --
+ Series C preferred stock
+   accretion...................        --       --            --      --     (1,988,334)           --            --
+ Net loss......................        --       --            --      --             --   (11,045,811)           --
+                                 --------   -------   ----------   ------   -----------   ------------    ---------
+Balance at December 31, 1997...   795,000    7,950     3,891,656     389     14,218,145   (30,378,597)           --
+ Issuance of common stock......        --       --           694      --          5,400            --            --
+ Exercise of common stock
+   options.....................        --       --       208,587      20        674,041            --            --
+ Purchase of treasury stock....        --       --       (64,392)     (6)      (517,997)           --            --
+ Issuance of common stock
+   options.....................        --       --            --      --        333,890            --            --
+ Conversion of Series C
+   preferred stock to common
+   stock.......................        --       --        17,108       2        143,998            --            --
+ Series B preferred stock
+   accretion...................        --       --            --      --        (10,523)           --            --
+ Series C preferred stock
+   accretion...................        --       --            --      --     (3,768,646)           --            --
+ Net loss......................        --       --            --      --             --   (11,558,469)           --
+                                 --------   -------   ----------   ------   -----------   ------------    ---------
+Balance at December 31, 1998...   795,000    7,950     4,053,653     405     11,078,308   (41,937,066)           --
+ Issuance of common stock......        --       --     3,100,072     310     38,645,647            --            --
+ Conversion of preferred
+   stock.......................  (795,000)  (7,950)    3,571,559     357     35,751,430            --            --
+ Exercise of common stock
+   options.....................        --       --       296,382      29      1,324,995            --            --
+ Exercise of common stock
+   warrants....................        --       --        36,066       4        165,191            --            --
+ Issuance of common stock
+   options.....................        --       --            --      --        448,661            --      (448,661)
+ Issuance of common stock
+   warrants....................        --       --            --      --          3,191            --            --
+ Amortization of deferred stock
+   compensation................        --       --            --      --             --            --       180,712
+ Extinguishment of put
+   option......................        --       --            --      --        584,477            --            --
+ Purchase of treasury stock....        --       --        (7,276)     --        (61,250)           --            --
+ Repayment of stock
+   subscription................        --       --            --      --             --            --            --
+ Beneficial return on preferred
+   shares......................        --       --            --      --     (2,668,109)           --            --
+ Series B preferred stock
+   accretion...................        --       --            --      --         (4,689)           --            --
+ Series C preferred stock
+   accretion...................        --       --            --      --     (2,232,027)           --            --
+ Net loss......................        --       --            --      --             --   (14,714,641)           --
+                                 --------   -------   ----------   ------   -----------   ------------    ---------
+Balance at December 31, 1999...        --   $   --    11,050,456   $1,105   $83,035,825   $(56,651,707)   $(267,949)
+                                 ========   =======   ==========   ======   ===========   ============    =========
+
+<CAPTION>
+
+                                 EMPLOYEE STOCK       TOTAL
+                                  SUBSCRIPTION    STOCKHOLDERS'
+                                   RECEIVABLE        EQUITY
+                                 --------------   -------------
+<S>                              <C>              <C>
+Balance at December 31, 1996...    $      --      $ (5,489,575)
+ Issuance of common stock......           --             1,454
+ Exercise of common stock
+   options.....................     (219,498)           15,000
+ Issuance of common stock
+   warrants....................           --         2,145,986
+ Series B preferred stock
+   accretion...................           --           (10,331)
+ Series C preferred stock
+   accretion...................           --        (1,988,334)
+ Net loss......................           --       (11,045,811)
+                                   ---------      ------------
+Balance at December 31, 1997...     (219,498)      (16,371,611)
+ Issuance of common stock......           --             5,400
+ Exercise of common stock
+   options.....................     (118,875)          555,186
+ Purchase of treasury stock....           --          (518,003)
+ Issuance of common stock
+   options.....................           --           333,890
+ Conversion of Series C
+   preferred stock to common
+   stock.......................           --           144,000
+ Series B preferred stock
+   accretion...................           --           (10,523)
+ Series C preferred stock
+   accretion...................           --        (3,768,646)
+ Net loss......................           --       (11,558,469)
+                                   ---------      ------------
+Balance at December 31, 1998...     (338,373)      (31,188,776)
+ Issuance of common stock......           --        38,645,957
+ Conversion of preferred
+   stock.......................           --        35,743,837
+ Exercise of common stock
+   options.....................     (321,250)        1,003,774
+ Exercise of common stock
+   warrants....................           --           165,195
+ Issuance of common stock
+   options.....................           --                --
+ Issuance of common stock
+   warrants....................           --             3,191
+ Amortization of deferred stock
+   compensation................           --           180,712
+ Extinguishment of put
+   option......................           --           584,477
+ Purchase of treasury stock....           --           (61,250)
+ Repayment of stock
+   subscription................        9,383             9,383
+ Beneficial return on preferred
+   shares......................           --        (2,668,109)
+ Series B preferred stock
+   accretion...................           --            (4,689)
+ Series C preferred stock
+   accretion...................           --        (2,232,027)
+ Net loss......................           --       (14,714,641)
+                                   ---------      ------------
+Balance at December 31, 1999...    $(650,240)     $ 25,467,034
+                                   =========      ============
+</TABLE>
+
+                                       28
+<PAGE>   30
+
+                            STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                              YEAR ENDED DECEMBER 31,
+                                                    -------------------------------------------
+                                                        1997           1998           1999
+                                                    ------------   ------------   -------------
+<S>                                                 <C>            <C>            <C>
+OPERATING ACTIVITIES
+Net loss..........................................  $(11,045,811)  $(11,558,469)  $ (14,714,641)
+Adjustments to reconcile net loss to net cash used
+  in operating activities:
+     Depreciation.................................       496,745        813,988       1,095,228
+     Amortization.................................        47,063        166,009         199,488
+     Compensation expense related to issuance of
+       common stock...............................         1,454        333,890         180,712
+     Provision for losses on accounts
+       receivable.................................        53,553        (28,118)        100,000
+     Extraordinary loss on debt extinguishment....            --             --         885,407
+     Reserve for inventory obsolescence...........       496,721             --              --
+     Loss on write-off of long-term receivable....       100,000             --              --
+     Changes in assets and liabilities:
+       Accounts receivable........................      (342,025)      (389,411)     (1,042,122)
+       Inventory..................................        85,215             --              --
+       Prepaid expenses and other current
+          assets..................................       (27,434)      (322,294)       (474,960)
+       Escrow deposit.............................            --       (400,985)        400,985
+       Other assets...............................            --       (352,009)        104,114
+       Accounts payable...........................       151,219        718,273        (895,593)
+       Accrued expenses...........................       299,476        339,687         246,854
+       Deferred revenues..........................        15,650        295,917        (260,191)
+                                                    ------------   ------------   -------------
+Net cash used in operating activities.............    (9,668,174)   (10,383,522)    (14,174,719)
+
+INVESTING ACTIVITIES
+Purchase of property and equipment................    (1,096,582)      (559,787)     (2,004,993)
+Purchases of available for sale securities........            --             --    (195,468,564)
+Sales of available for sale securities............            --             --     175,119,313
+                                                    ------------   ------------   -------------
+Net cash used in investing activities.............    (1,096,582)      (559,787)    (22,354,244)
+
+FINANCING ACTIVITIES
+Net proceeds from issuance of common stock........        15,000         43,065      39,763,059
+Net proceeds from issuance of Series B Preferred
+  Stock...........................................       360,000             --              --
+Net proceeds from issuance of Series C Preferred
+  Stock...........................................     7,598,750      4,589,791       5,349,000
+Proceeds from issuance of long-term debt..........     4,020,000      8,434,000              --
+Proceeds from issuance of long-term debt to
+  related parties.................................       750,000        450,000              --
+Repayment of capital lease obligations............      (114,327)      (568,026)       (722,239)
+Repayment of long-term debt.......................       (50,000)      (189,710)     (9,744,290)
+Repayment of long-term debt to related parties....            --       (200,000)             --
+                                                    ------------   ------------   -------------
+Net cash provided by financing activities.........    12,579,423     12,559,120      34,645,530
+                                                    ------------   ------------   -------------
+Net increase (decrease) in cash and Cash
+  equivalents.....................................     1,814,667      1,615,811      (1,883,433)
+Cash and cash equivalents at beginning of
+  period..........................................        41,142      1,855,809       3,471,620
+                                                    ------------   ------------   -------------
+Cash and cash equivalents at end of period........  $  1,855,809   $  3,471,620   $   1,588,187
+                                                    ============   ============   =============
+</TABLE>
+
+                                       29
+<PAGE>   31
+
+                 ONLINE RESOURCES & COMMUNICATIONS CORPORATION
+                         NOTES TO FINANCIAL STATEMENTS
+
+1.  ORGANIZATION
+
+     Online Resources & Communications Corporation (the "Company") is a leading
+application service provider for Internet banking and other e-finance services
+to regional and community financial institutions. The Company offers its
+client's a cost-effective outsourced service, branded in their name, by
+seamlessly integrating Internet banking, electronic bill payment, and other
+e-financial services into a single-vendor, end-to-end solution. As part of its
+services, the Company provides customer support through its call center,
+marketing services, web site design, implementation and other services. The
+Company operates in one business segment.
+
+2.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+  USE OF ESTIMATES
+
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+  CASH AND CASH EQUIVALENTS
+
+     The Company considers all highly liquid instruments purchased with an
+original maturity of three months or less to be cash equivalents. Cash held for
+bill payments in process is immediately disbursed on behalf of users and no net
+cash balance is reflected on the Company's financial statements.
+
+     Cash paid for interest during the years ended December 31, 1997, 1998 and
+1999 was approximately $151,000, $953,000, and $1,016,000, respectively.
+
+  REVENUE RECOGNITION
+
+     The Company generates revenues from several sources including
+implementation fees, core services, support services and related products.
+Revenues from core services include account access and transaction fees. Support
+services include customer service, communications, web page design and other
+services. Implementation revenues are generated from the linking of the
+Financial Institution client's to the Company's proprietary Opus(SM) system
+through various networks and the Company's gateways. The Company earns revenues
+from related products through the sale of devices used to access the Opus(SM)
+system.
+
+     Core and support service revenues are recognized over the term of the
+contract as the services are provided. Revenues from implementation fees are
+recognized under the percentage of completion method in accordance with
+Statement of Position ("SOP") 81-1, "Accounting for performance of
+Construction-Type and Certain Production Type Contracts" as certain milestone
+output measures are completed. Related product sales revenue is recognized as
+products are shipped. Deferred revenues result from advance receipts on product
+sales and implementation services while complying with the aforementioned
+revenue recognition policies. For the years ended December 31, 1997, 1998 and
+1999, the Company derived 36%, 11% and 14% of its revenue from three, one and
+one customers, respectively.
+
+  SYSTEMS AND DEVELOPMENT
+
+     Systems and development costs are charged to expense as incurred.
+
+                                       30
+<PAGE>   32
+
+2.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+  PROPERTY AND EQUIPMENT
+
+     Property and equipment, including leasehold improvements, are recorded at
+cost. Depreciation is calculated using the straight-line method over the
+estimated useful lives of the related assets which range from five to seven
+years. Equipment recorded under capital leases is amortized over the shorter of
+the estimated useful life of the asset or the lease term.
+
+  FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+     At December 31, 1999, the carrying value of the following financial
+instruments: cash and cash equivalents, investments in available for sale
+securities, accounts receivable, accounts payable and accrued liabilities
+approximates their fair value based on the liquidity of these financial
+instruments or based on their short term nature. The carrying value of capital
+lease obligations approximates fair value based on the market interest rates
+available to the Company for debt of similar risk and maturities.
+
+  EARNINGS (LOSS) PER SHARE
+
+     Net loss per share is computed by dividing the net loss applicable to
+common shareholders for the period by the weighted average number of common
+shares outstanding. Shares associated with stock options, warrants and
+convertible preferred stock are not included to the extent they are
+anti-dilutive.
+
+  STOCK BASED COMPENSATION
+
+     The Company has adopted Statement of Financial Accounting Standard No. 123,
+"Accounting for Stock-Based Compensation" (SFAS No. 123). The provisions of SFAS
+No. 123 allow companies to either expense the estimated fair value of stock
+options or to continue to follow the intrinsic value method set forth in APB
+Opinion 25, "Accounting for Stock Issued to Employees" (APB No. 25) but disclose
+the pro forma effects on net loss had the fair value of the options been
+expensed. The Company has elected to continue to apply APB No. 25 in accounting
+for its stock option incentive plans and, accordingly, recognizes compensation
+expense for the difference between the fair value of the underlying common stock
+and the grant price of the option at the date of grant.
+
+  IMPAIRMENT OF LONG-LIVED ASSETS
+
+     The Company assesses the impairment of long-lived assets in accordance with
+Statement of Financial Accounting Standards No. 121, Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of
+("SFAS 121"). SFAS 121 requires impairment losses to be recognized for
+long-lived assets when indicators of impairment are present and the undiscounted
+cash flows are not sufficient to recover the assets' carrying amount. The
+impairment loss of these assets is measured by comparing the carrying amount of
+the asset to its fair value, with any excess of carrying value over fair value
+written off. Fair value is based on market prices where available, an estimate
+of market value, or determined by various valuation techniques including
+discounted cash flow.
+
+3.  INVESTMENTS
+
+     The Company classifies its investments as available-for-sale. Investments
+in securities that are classified as available-for-sale and have readily
+determinable fair values are measured at fair market value in the balance
+sheets. Any unrealized gains or losses, net of taxes, are reported as a separate
+component of stockholders' equity. Realized gains and losses and declines in
+market value judged to be other than temporary are included in investment
+income. Interest and dividends are included in investment income. For purposes
+of determining gross realized gains and losses, the cost of securities sold is
+based on the average cost method. As of December 31, 1999, there are no material
+unrealized gains or losses on investments. The contractual maturities on the
+investments are generally greater than twelve months.
+
+                                       31
+<PAGE>   33
+
+3.  INVESTMENTS (CONTINUED)
+     The following is a summary of the estimated fair value of
+available-for-sale securities at December 31, 1999:
+
+<TABLE>
+<S>                                                           <C>
+US Government Treasury Obligations..........................  $ 8,343,786
+Commercial Bonds............................................   11,562,143
+                                                              -----------
+                                                              $19,905,929
+                                                              ===========
+</TABLE>
+
+4.  PROPERTY AND EQUIPMENT
+
+     Property and equipment consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                                   DECEMBER 31,
+                                                              ----------------------
+                                                                 1998        1999
+                                                              ----------   ---------
+<S>                                                           <C>          <C>
+Central processing systems and terminals....................  $2,348,465   3,273,148
+  Office furniture and equipment............................     643,895   1,167,033
+  Central processing systems and terminals under capital
+     leases.................................................   1,212,103   1,752,991
+  Office furniture and equipment under capital leases.......     781,698     781,698
+  Leasehold improvements....................................     483,687   1,040,859
+                                                              ----------   ---------
+                                                               5,469,848   8,015,729
+  Less accumulated depreciation.............................   2,303,829   3,399,057
+                                                              ----------   ---------
+                                                              $3,166,019   4,616,672
+                                                              ==========   =========
+</TABLE>
+
+5.  LONG TERM DEBT
+
+     From November 1995 to May 1996, the Company issued $4,500,000 of long-term
+notes payable (the "Bridge Notes"), $360,000 of which was to related parties.
+Each bridge unit consisted of a 10% promissory note with a face value ranging
+from $10,000 to $500,000, convertible into shares of preferred stock at a price
+per share achieved in future equity placements, and warrants to purchase 519,195
+shares of common stock (12,830 of which are held by directors of the Company)
+ranging from $7.01 to $7.72 per share which approximated the fair value of the
+warrants (Note 9). Payments of $50,000 plus $51,900 in accrued interest, were
+made during 1997. In addition, during 1997, $4,250,000 of the Bridge Notes plus
+accrued interest of approximately $443,000 were converted into 46,920 shares of
+Series C redeemable convertible Preferred Stock ("Series C Preferred Stock").
+Upon conversion into Series C Preferred Stock, each stockholder received a
+warrant with a five year term to purchase common stock equal to 40% of the
+stockholder's investment at $8.42 per share (Notes 8 and 9).
+
+     From January 1997 through May 1997, the Company obtained $3,270,000 in
+bridge financing (The "1997 Bridge Notes") through the sale of bridge units.
+Each bridge unit consisted of an 8% promissory note with a face value ranging
+from $10,000 to $750,000 and warrants to purchase common stock equal to 40% of
+the principal amount of the underlying note at $8.42 per share (Note 9). The
+Company allocated $405,000 of the 1997 Bridge Notes to the fair value of the
+warrants issued using the Black - Scholes pricing model and recorded a
+corresponding debt discount which was amortized using the effective interest
+method. Upon successful completion of a Series C Preferred Stock offering during
+1997 (Note 8), the Company converted $3,270,000 in principal plus $60,741 in
+accrued interest less the unamortized discount of $392,000 into 33,301 shares of
+Series C Preferred Stock.
+
+     In June 1997, the Company entered into a $2,000,000 four year note secured
+by inventory and equipment (the "Equipment Note"). The Equipment Note called for
+interest at 9% per annum with interest only to be paid in the first twelve
+months and with principal and interest starting in month thirteen. The Company
+drew $1,500,000 of proceeds under the agreement in June 1997 and $434,000 in
+April 1998. In connection with this note, the Company issued warrants to
+purchase 10,500 shares of Series C Preferred Stock at $100.00 per share
+
+                                       32
+<PAGE>   34
+
+5.  LONG TERM DEBT (CONTINUED)
+(Note 9). The Company allocated $325,000 of the Equipment Note proceeds to the
+fair value of the warrants issued using the Black - Scholes method and recorded
+a corresponding debt discount which was amortized using the effective interest
+method over the term of the debt. The discount to the debt resulted in an
+effective interest rate of 14%, which is consistent with debt instruments having
+similar risks had no warrants been attached. During the years ended December 31,
+1997, 1998 and 1999, the Company recognized additional interest expense of
+$47,000, $82,000 and $41,000, respectively, related to this allocation. The
+Company repaid the entire outstanding balance of this note in June 1999.
+Accordingly, the Company recorded an extraordinary loss of $286,419 from the
+extinguishment of debt related to the unamortized discounts and loan fees.
+
+     In March 1998, the Company issued $250,000 of promissory notes to certain
+stockholders which bear interest at 8% per annum. The principal and accrued
+interest was converted into 2,653 shares of Series C Preferred Stock in December
+1998.
+
+     In March 1998, the Company entered into a $6,000,000 Loan Agreement with
+Sirrom Capital Corporation ("Sirrom"). In June 1998, the Company entered into an
+additional $2,000,000 Loan Agreement with Sirrom, collectively the "Sirrom
+Loan". The Sirrom Loan was secured by a second lien on the Company's existing
+secured assets and a first lien on the balance of the Company's assets. The
+Sirrom Loan called for interest at a stated annual rate of 12.75% payable
+monthly through February 2003, with principal and any remaining interest due in
+March 2003. In connection with the Sirrom Loan, the Company issued stock
+purchase warrants expiring in May 2003, granting Sirrom the right to purchase a
+total of 165,736 shares of the Company's common stock at $8.42 per share. The
+Sirrom Loan required the Company to maintain cash in an escrow account to be
+used by the lender for the first year of interest payments.
+
+     The stock purchase warrants were subject to a put option whereby Sirrom can
+sell the warrants to the Company in the 30-day period prior to the warrants
+expiration date. The put option is terminated in the event of an initial public
+offering. The put option price was equal to the fair market value of the common
+stock issuable under the warrants less the exercise price of $8.42 per share.
+The Company allocated $584,477 of the proceeds to the fair value of the 165,736
+warrants issued using the Black - Scholes method. The discount to the debt
+resulted in an effective interest rate of 14%, which is consistent with debt
+instruments having similar risks had no warrants been attached. The allocation
+of value to the warrants resulted in a corresponding debt discount and put
+option liability. The $584,477 debt discount was being amortized to interest
+expense using the effective interest method over the term of the loan. During
+the years ended December 31, 1998 and 1999, the Company recognized additional
+interest expense of approximately $52,000 and $49,000 related to this
+allocation, respectively.
+
+     In June, 1999, the Company repaid the entire $8,000,000 face amount of the
+Sirrom Loan. Accordingly, the Company recognized an extraordinary loss on the
+extinguishment of debt of $598,000 related to the unamortized debt discount and
+loan fees.
+
+     As of December 31, 1997, 1998, and 1999, accrued interest on notes payable
+totaled approximately $333,000, $57,000 and $0, respectively.
+
+                                       33
+<PAGE>   35
+
+5.  LONG TERM DEBT (CONTINUED)
+     The following table summarizes the notes payable activity:
+
+<TABLE>
+<CAPTION>
+                                                                   DECEMBER 31,
+                                                              -----------------------
+                                                                 1998         1999
+                                                              ----------   ----------
+<S>                                                           <C>          <C>
+Related Party Notes.........................................  $  200,000   $       --
+  Equipment Note (net of unamortized discount of $196,481 at
+     December 31, 1998......................................   1,547,809           --
+  Sirrom Notes (net of unamortized discount of $310,380 at
+     December 31, 1998).....................................   7,689,620           --
+                                                              ----------   ----------
+                                                               9,437,429           --
+  Less current portion......................................     911,962           --
+                                                              ----------   ----------
+  Long term debt, less current portion......................  $8,525,467   $       --
+                                                              ==========   ==========
+</TABLE>
+
+6.  COMMITMENTS
+
+  OFFICE SPACE
+
+     The Company leases office space and equipment under operating leases. Rent
+expense under the operating leases was approximately $500,000, $676,000 and
+$921,000 for the years ended December 31, 1997, 1998, and 1999, respectively.
+The office leases provide for escalating rent over the respective lease term.
+
+  EQUIPMENT
+
+     The Company also leases equipment under capital leases. In 1998 and 1999,
+the Company incurred capital lease obligations of $1,259,000 and $541,000,
+respectively, for the purchase of equipment. Amortization of assets held under
+capital leases is included in depreciation and amortization in the statements of
+cash flows.
+
+     Future minimum lease payments on operating and capital leases are as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                              OPERATING      CAPITAL
+                                                              ----------   ------------
+                                                               DECEMBER    DECEMBER 31,
+                                                               31, 1999        1999
+                                                              ----------   ------------
+<S>                                                           <C>          <C>
+2000........................................................  $  984,069    $  753,200
+2001........................................................   1,013,590       318,229
+2002........................................................     609,000        63,765
+                                                              ----------    ----------
+          Total minimum lease payments......................  $2,606,659     1,135,194
+                                                              ==========
+Less amount representing interest...........................                   (96,638)
+                                                                            ----------
+Present value of minimum lease payments.....................                 1,038,556
+Less current portion........................................                   709,076
+                                                                            ----------
+Long-term portion of minimum lease payments.................                $  329,480
+                                                                            ==========
+</TABLE>
+
+7.  INCOME TAXES
+
+     At December 31, 1999, the Company has net operating loss carryforwards of
+approximately $57 million that expire at varying dates from 2010 to 2019. Of
+that $57 million, approximately $2 million relates to the exercise of stock
+options, an equity item. The use of these losses may be subject to significant
+limitations due to ownership changes pursuant to Section 382 of the Internal
+Revenue Code resulting from the issuances of Preferred and Common Stock.
+
+                                       34
+<PAGE>   36
+
+7.  INCOME TAXES (CONTINUED)
+     Significant components of the Company's net deferred tax assets are as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                   DECEMBER 31,
+                                                             -------------------------
+                                                                1998          1999
+                                                             -----------   -----------
+<S>                                                          <C>           <C>
+Deferred tax assets:
+  Inventory allowance......................................  $   322,000   $   290,000
+  Net operating loss carryforwards.........................   16,348,000    22,877,000
+  Deferred wages...........................................      446,000       235,000
+  Other deferred tax assets................................       49,000        91,000
+                                                             -----------   -----------
+          Total deferred tax assets........................   17,165,000    23,493,000
+Deferred liabilities:
+  Depreciation.............................................     (161,000)     (265,000)
+  Other deferred tax liabilities...........................           --            --
+                                                             -----------   -----------
+          Total deferred tax liabilities...................     (161,000)     (265,000)
+Valuation allowance for net deferred tax assets............  (17,004,000)  (23,228,000)
+                                                             -----------   -----------
+Net deferred tax assets....................................  $        --   $        --
+                                                             ===========   ===========
+</TABLE>
+
+     The Company had not paid income taxes during 1997, 1998 or 1999 due to its
+net operating loss position.
+
+     The following is a summary of the items that caused recorded income taxes
+to differ from taxes computed using the statutory federal income tax rate for
+the years ended December 31, 1997, 1998 and 1999:
+
+<TABLE>
+<CAPTION>
+                                                             DECEMBER 31,
+                                                ---------------------------------------
+                                                   1997          1998          1999
+                                                -----------   -----------   -----------
+<S>                                             <C>           <C>           <C>
+Tax expense (benefit) at statutory Federal
+  rate........................................  $(3,756,000)  $(3,930,000)  $(5,003,000)
+Effect of:
+     State income tax, net....................     (663,000)     (693,000)           --
+     Non-statutory stock options exercise.....      (26,000)      (16,000)     (421,000)
+     Other....................................        8,000        10,000        18,000
+     Increase in valuation allowance..........    4,437,000     4,629,000     5,406,000
+                                                -----------   -----------   -----------
+Income tax expense............................  $        --   $        --   $        --
+                                                ===========   ===========   ===========
+</TABLE>
+
+8.  PREFERRED STOCK
+
+     Of the 3,000,000 authorized preferred shares of the Company, 100,000 shares
+have been designated as Series B redeemable convertible Preferred Stock ("Series
+B Preferred Stock") and 287,000 have been designated as Series C Preferred
+Stock. In addition, 1,000,000 shares have been designated as Series A
+convertible Preferred Stock ("Series A Preferred Stock"). Upon liquidation of
+the Company, the following represents the order of preference given to holders
+of the Company's Preferred Stock: Series C Preferred Stock, Series B Preferred
+Stock and Series A Preferred Stock. The Company has not designated for any
+series the remaining 1,613,000 preferred shares.
+
+  SERIES A PREFERRED STOCK
+
+     Each share of Series A Preferred Stock is convertible into .35642 of one
+share of common stock. Holders of Series A Preferred Stock shares are entitled
+to receive dividends at the same rate as holders of common stock and have voting
+rights equal to their common stock equivalent on an as if converted basis.
+Additionally, each Series A Preferred Stock holder is entitled to a liquidation
+preference equal to $1.00 plus declared but unpaid dividends. Concurrent with
+the closing of the Company's initial public offering in June 1999, all shares of
+Series A Preferred Stock converted automatically into 283,343 shares of common
+stock.
+
+                                       35
+<PAGE>   37
+
+8.  PREFERRED STOCK (CONTINUED)
+  SERIES B PREFERRED STOCK
+
+     In the fourth quarter of 1996 and during 1997, the Company issued 6,700 and
+3,350 shares of Series B Preferred Stock at $100 per share for total proceeds of
+$670,000 and $335,000, respectively. During 1997, Series B Preferred Stock
+stockholders converted 9,050 shares of Series B Preferred Stock into an
+equivalent number of shares of Series C Preferred Stock. Additionally, as an
+incentive to convert to Series C Preferred Stock, the Series B Preferred Stock
+stockholders received in aggregate an additional consideration of 322 shares of
+Series C Preferred Stock which was included in the calculation of the discount
+for purposes of accretion. At December 31, 1998 holders of 1,000 shares of
+Series B Preferred Stock had the option of converting their investment into an
+equivalent number of shares of Series C Preferred Stock. During the first
+quarter of 1999, a stockholder converted 250 shares of Series B Preferred Stock
+into an equivalent number of shares of Series C Preferred Stock. The stockholder
+received an additional seven shares of Series C Preferred Stock and 1,222
+warrants to purchase common stock at $8.42 per share expiring on June 1, 2002
+(Note 9). Each share of the Series B Preferred Stock was convertible at the
+holder's option and automatically in an IPO, as defined into 11.880 shares of
+common stock. The Series B Preferred Stock holders were also entitled to vote
+and receive dividends and distributions on an as if converted basis and were
+entitled to a liquidation preference of $175 per share plus declared but unpaid
+dividends. Additionally, the holders of the Series B Preferred Stock could
+demand redemption of their shares at the greater of $175 per share or the fair
+market value of the preferred stock. The excess of the redemption value over the
+carrying value was being accreted using the interest method so that the carrying
+value will equal the redemption value of $175 per share plus cumulative unpaid
+dividends on the scheduled redemption date of December 31, 2003. The Company
+recorded accretion on the Series B Preferred Stock of $10,331, $10,523, and
+$4,689 during the years ended December 31, 1997, 1998 and 1999 respectively.
+Concurrent with the closing of the Company's initial public offering in June
+1999, the remaining 750 shares of Series B Preferred Stock converted into 8,910
+shares of common stock.
+
+  SERIES C PREFERRED STOCK
+
+     During 1997, the Company issued 173,036 shares of Series C Preferred Stock
+at $100 per share. Of the 173,036 shares issued, 9,050 shares were issued
+related to the conversion of Series B Preferred Stock; 42,500 shares were issued
+related to the conversion of $4,250,000 of the 1996 Bridge Notes; 32,700 shares
+were issued related to the conversion of $3,270,000 of 1997 Bridge Notes; 5,343
+shares were issued to satisfy approximately $504,000 of accrued interest and
+additional consideration, and 83,443 shares were issued resulting in cash
+proceeds of $7,750,000. During 1998, 1,440 shares of Series C issued in
+connection with the conversion of the Bridge Notes were converted into 17,108
+shares of common stock. In conjunction with the 1997 Series C financings and
+conversions, each stockholder received a warrant with a five-year term to
+purchase common stock equal to 40% of the stockholder's investment at $8.42 per
+share. Total warrants issued in connection with the Series C Preferred Stock
+were 664,133. The Company allocated $1,732,977 to the value of the warrants
+based on their estimated fair value at the date of issuance (Note 9).
+
+     During December 1998, the Company issued 50,451 shares of Series C
+Preferred Stock for total proceeds of $5,039,791. Included in the $5,039,791 of
+proceeds is a receivable balance of $450,000 which is classified in prepaid
+expenses and other current assets at December 31, 1998. In addition to the
+Series C Shares, the shareholders received warrants to purchase a total of
+126,056 Shares of common stock at $8.42 per share (Note 9). These warrants have
+a five year life.
+
+     From January through March 1999, the Company sold 49,034 shares of Series C
+Preferred Stock resulting in net proceeds of $4,899,000. The Company also
+converted the $200,000 related party note outstanding at December 31, 1998 plus
+accrued interest of $3,800 into 2,038 shares of Series C Preferred Stock. In
+addition to the Series C shares, the shareholders received warrants to purchase
+a total of 121,420 shares of the Company's common stock at $8.42 per share (Note
+9). These warrants have a five year life. The Company recorded a deemed
+beneficial return on these shareholders of approximately $2.7 million due to the
+Series C Preferred Stock being convertible into common stock at a discount from
+fair value at the date of issuance.
+
+                                       36
+<PAGE>   38
+
+8.  PREFERRED STOCK (CONTINUED)
+     Each share of Series C Preferred Stock was convertible at the holder's
+option and automatically in an IPO, as defined into 11.880 shares of common
+stock. The Series C Preferred Stock holders were also entitled to vote and
+receive dividends and distributions on an as if converted basis and were
+entitled to a liquidation preference of $100 per share plus $17,500,000
+allocated based on the percentage of shares owned, and declared but unpaid
+dividends. Additionally, the holders of the Series B Preferred Stock could
+demand redemption of their shares at the greater of $200 per share or the fair
+market value of the preferred stock. The excess of the redemption value over the
+carrying value was being accreted using the interest method so that the carrying
+value will equal the redemption value of $200 per share plus cumulative unpaid
+dividends on the scheduled redemption date of January 1, 2004. The Company
+recorded accretion on the Series C Preferred Stock of $1,988,334, $3,768,646,
+and $2,232,027 during the years ended December 31, 1997, 1998 and 1999
+respectively.
+
+     Concurrent with the consummation of the initial public offering in June
+1999, all outstanding shares of Series C Preferred Stock converted into
+3,279,306 shares of common stock.
+
+9.  STOCKHOLDERS' EQUITY (DEFICIT)
+
+COMMON STOCK
+
+     Effective May 2, 1999, the Board of Directors and stockholders of the
+Company approved a 1 for 2.8056787 reverse stock split of the Company's $0.0001
+par value common stock. All references in the accompanying financial statements
+to the number of shares of common stock and per share amounts have been restated
+to reflect the split.
+
+     On June 4, 1999, the Company completed an initial public offering of
+3,100,000 shares of its common stock. The offered shares generated proceeds, net
+of underwriting commissions, to the Company of approximately $40 million and
+this was further reduced by an additional $1 million of other related offering
+costs.
+
+                                       37
+<PAGE>   39
+
+9.  STOCKHOLDERS' EQUITY (DEFICIT) (CONTINUED)
+  WARRANTS
+
+     The Company's common stock warrant activity is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                EXERCISE     EXPIRATION
+                                                    WARRANTS     PRICE          DATE
+                                                    ---------   --------   --------------
+<S>                                                 <C>         <C>        <C>
+Outstanding at January 1, 1996....................    124,833
+     Warrants issued in connection with debt
+       financing..................................     44,552     7.01      Mar. 31, 2000
+     Warrants issued in connection with debt
+       financing..................................    611,611     7.01      Apr. 30, 2001
+     Warrants issued in connection with debt
+       financing..................................      4,859     7.72      Dec. 31, 2000
+                                                    ---------
+Balance at December 31, 1996......................    785,855
+     Warrants issued in connection with conversion
+       of Series B Preferred Stock................     44,591     8.42       June 1, 2002
+     Warrants issued in connection with conversion
+       of the Bridge Notes........................    225,888     8.42       June 1, 2002
+     Warrants issued in connection with the
+       issuance of the 1997 Bridge Notes..........    155,388     8.42       June 1, 2002
+     Warrants issued in connection with issuance
+       of Series C Preferred Stock................    396,540     8.42       June 1, 2002
+                                                    ---------
+Balance at December 31, 1997......................  1,608,262
+  Warrants issued in connection with issuance of
+     the Sirrom Loan..............................    139,004     8.42       May 31, 2003
+                                                    ---------
+Balance at December 31, 1998......................  1,747,266
+  Warrants issued in connection with Sirrom
+     Loan.........................................     26,732     8.42       May 31, 2003
+  Warrants issued in connection with conversion of
+     Series B Preferred Stock.....................      1,222     8.42       June 1, 2002
+  Warrants issued in connection with issuance of
+     Series C Preferred Stock.....................    247,476     8.42      Dec. 31, 2003
+  Conversion of Series C Preferred Stock Warrants
+     issued in connection with the Equipment Note
+     into Common Stock Warrants...................    124,717     8.42       June 3, 2002
+  Exercise of warrants during 1999................    (36,066)
+                                                    ---------
+Balance at December 31, 1999......................  2,111,347
+                                                    =========
+</TABLE>
+
+     During 1999, warrants to purchase 19,621 shares of common stock were
+exercised for net proceeds of approximately $165,000. Additionally, certain
+holders exercised warrants to purchase 31,093 shares of common stock by electing
+to receive 16,445 shares.
+
+  STOCK OPTIONS
+
+     In February 1989, the Company adopted an Incentive Stock Option Plan (the
+Plan). During June 1997, the Company's Board of Directors authorized an increase
+of 124,747 shares of common stock that can be issued under the Plan. During
+1998, the Company's Board of Directors increased the number of shares of common
+stock that can be issued under the plan to 2,316,730. The option price under the
+Plan will not be less than fair market value, as determined by the Board of
+Directors, on the date of grant. The vesting period of the options is determined
+by the Board of Directors and is generally four years. Outstanding options
+expire after ten years.
+
+     During 1999, the Company adopted the 1999 Stock Option Plan (the "1999
+Plan"). The 1999 Plan permits the granting of both incentive stock options and
+nonqualified stock options to employees, directors and consultants. The
+aggregate number of shares that can be granted under the 1999 Plan is 757,708.
+The option price under the 1999 Plan will not be less than fair market value, as
+determined by the Board of Directors, on
+
+                                       38
+<PAGE>   40
+
+9.  STOCKHOLDERS' EQUITY (DEFICIT) (CONTINUED)
+the date of grant. The vesting period of the options is determined by the Board
+of Directors and is generally four years. Outstanding options expire after ten
+years.
+
+     During 1998, three employees tendered a total of 64,392 shares of common
+stock to the Company at prices ranging from $7.01 to $8.42 per share. The
+proceeds were used to exercise 156,109 options to purchase shares of common
+stock. During 1999, an employee tendered 1,336 shares of common stock to the
+Company for $8.42 per share. The proceeds were used to exercise options to
+purchase 2,673 shares of common stock.
+
+     During the year ended December 31, 1997, two employees exercised 27,088
+options in exchange for notes receivable totaling $71,244. During 1998, four
+employees exercised 40,451 options in exchange for $118,875 of notes receivable.
+During 1999, five employees exercised 79,302 options in exchange for notes
+receivable totaling $321,250. As of December 31, 1997, 1998 and 1999, 27,088,
+167,539 and 244,168, respectively, of these shares of common stock were held by
+the Company as collateral for the notes receivable.
+
+     Additional information with respect to incentive stock option activity
+under the stock option plans is summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                                                 YEARS ENDED DECEMBER 31,
+                                           ---------------------------------------------------------------------
+                                                   1997                    1998                    1999
+                                           ---------------------   ---------------------   ---------------------
+                                                       WEIGHTED-               WEIGHTED-               WEIGHTED-
+                                                        AVERAGE                 AVERAGE                 AVERAGE
+                                                       EXERCISE                EXERCISE                EXERCISE
+                                            SHARES       PRICE      SHARES       PRICE      SHARES       PRICE
+                                           ---------   ---------   ---------   ---------   ---------   ---------
+<S>                                        <C>         <C>         <C>         <C>         <C>         <C>
+Outstanding at beginning of period.......  1,448,906     $5.15     1,532,993     $5.20     1,779,382    $ 6.77
+Options granted..........................    235,811      8.58       551,787      8.42     1,068,491     13.14
+Options exercised........................    (75,038)     3.13      (208,588)     3.23      (296,670)     4.60
+Options canceled or expired..............    (76,686)     7.04       (96,810)     6.55      (110,291)     9.28
+                                           ---------     -----     ---------     -----     ---------    ------
+Outstanding at end of period.............  1,532,993     $5.68     1,779,382     $6.77     2,440,912    $ 9.68
+                                           =========     =====     =========     =====     =========    ======
+Options exercisable at end of period.....  1,273,467     $5.20     1,487,480     $6.48     1,355,198    $ 7.30
+                                           =========     =====     =========     =====     =========    ======
+</TABLE>
+
+     The following table summarizes information about stock options outstanding
+at December 31, 1999
+
+<TABLE>
+<CAPTION>
+                                                    DECEMBER 31, 1999
+                                                   OPTIONS OUTSTANDING                  DECEMBER 31, 1999
+                                        ------------------------------------------     OPTIONS EXERCISABLE
+                                                         WEIGHTED-                   -----------------------
+                                                          AVERAGE        WEIGHTED-                 WEIGHTED-
+                                                         REMAINING        AVERAGE                   AVERAGE
+                                          NUMBER      CONTRACTUAL LIFE   EXERCISE      NUMBER      EXERCISE
+                                        OUTSTANDING      (IN YEARS)        PRICE     EXERCISABLE     PRICE
+                                        -----------   ----------------   ---------   -----------   ---------
+<S>                                     <C>           <C>                <C>         <C>           <C>
+$0.06 to $7.00........................     691,896          2.91          $ 5.65        662,636     $ 5.63
+$7.01 to $8.39........................       3,212          3.42            7.70          3,212       7.70
+$8.40 to $8.49........................     651,708          6.20            8.40        543,837       8.40
+$8.50 to $13.99.......................     434,446          6.35           11.10        140,513      10.68
+$14.00 to $21.13......................     659,650          7.34           14.25          5,000      16.00
+                                         ---------                                    ---------
+                                         2,440,912          5.60          $ 9.68      1,355,198     $ 7.30
+                                         =========                                    =========
+</TABLE>
+
+     In 1996, the Company adopted the disclosure-only provisions of SFAS No.
+123. Had compensation cost for the Company's stock option plan been determined
+based on the fair value at the grant date for awards under the plan consistent
+with the methodology prescribed under SFAS No. 123, the Company would have
+incurred an additional expense of approximately $580,000, $933,000 and
+$2,412,000 resulting in a net loss in 1997, 1998, and 1999 of approximately
+$11,376,000, $12,491,500 and $17,126,000, respectively. The resulting basic and
+diluted pro forma net loss per share would be $(3.01), $(3.12) and $(1.84) for
+the years ended December 31, 1997, 1998 and 1999, respectively. The effect of
+applying SFAS No. 123 on 1997, 1998, and 1999 pro forma net loss as stated above
+is not necessarily representative of the effects on reported net loss for future
+years due to, among other things, (1) the vesting period of the stock options
+and (2) the fair value of additional stock options in future years. The fair
+value of each option grant is estimated on the date of grant
+
+                                       39
+<PAGE>   41
+
+9.  STOCKHOLDERS' EQUITY (DEFICIT) (CONTINUED)
+using the Black-Scholes option-pricing model with the following assumptions:
+expected life of four years, dividend yield of 0%, risk free interest rate of
+6.625% and a volatility of 25% for option grants in 1997 and 1998 and a
+volatility of 108% for option grants in 1999. The weighted average fair values
+of the options granted during 1997, 1998 and 1999 with a stock price equal to
+the exercise price are estimated as $2.61, $2.61 and $10.56 per share,
+respectively, on the date of grant. The weighted average fair value of the
+options granted during 1999 with a stock price greater than the exercise price
+is $10.12 per share.
+
+10.  NET LOSS PER SHARE
+
+     The following table sets forth the computation of basic and diluted net
+loss per share:
+
+<TABLE>
+<CAPTION>
+                                                      YEARS ENDED DECEMBER 31,
+                                             ------------------------------------------
+                                                 1997           1998           1999
+                                             ------------   ------------   ------------
+<S>                                          <C>            <C>            <C>
+Net loss...................................  $(11,045,811)  $(11,558,469)  $(14,714,641)
+Beneficial return on preferred shares......            --             --     (2,668,109)
+Preferred stock accretion..................    (1,998,665)    (3,779,169)    (2,236,716)
+                                             ------------   ------------   ------------
+Net loss available for common
+  shareholders.............................   (13,044,476)   (15,337,638)   (19,619,466)
+                                             ============   ============   ============
+Weighted average number of common shares...     3,858,366      4,009,713      9,327,202
+Effect of dilutive securities:
+Stock options..............................            --             --             --
+Warrants...................................            --             --             --
+Redeemable convertible preferred stock.....            --             --             --
+                                             ------------   ------------   ------------
+Adjusted weighted average shares and
+  assumed conversions......................     3,858,366      4,009,713      9,327,202
+                                             ============   ============   ============
+Loss per share:
+  Basic and diluted........................  $      (3.38)  $      (3.83)  $      (2.10)
+</TABLE>
+
+     Due to their antidilutive effects, outstanding shares of preferred stock,
+stock options and warrants to purchase 5,616,962, 6,616,096 and 4,552,259 shares
+of common stock at December 31, 1997, 1998 and 1999, respectively, were excluded
+from the computation of diluted earnings per share.
+
+                                       40
+<PAGE>   42
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+     None.
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY
+
+     Information regarding directors and executive officers of the Company
+appearing under the caption "Election of Directors" in the Company's Proxy
+Statement for the 2000 Annual Meeting of Stockholders to be filed with the
+Securities and Exchange Commission (the "2000 Proxy Statement") is hereby
+incorporated by reference.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+     Information appearing under the caption "Executive Compensation" in the
+2000 Proxy Statement is hereby incorporated by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     Information setting forth the security ownership of certain beneficial
+owners and management appearing under the captions "Security Ownership of
+Certain Beneficial Owners" and "Security Ownership of Management" in the 2000
+Proxy Statement is hereby incorporated by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Information setting forth certain relationships and related transactions
+appearing under the caption "Certain Related Party Transactions" in the 2000
+Proxy Statement is hereby incorporated by reference.
+
+                                    PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+  (a) EXHIBITS AND FINANCIAL STATEMENTS AND SCHEDULES.
+
+     (1) Financial Statements. The Company's financial statements are included
+in Part II, Item 8 of this report on Form 10-K.
+
+     (2) Schedule II -- Valuation and Qualifying Accounts.
+
+                                       41
+<PAGE>   43
+
+         REPORT OF INDEPENDENT AUDITORS ON FINANCIAL STATEMENT SCHEDULE
+
+     We have audited the financial statements of Online Resources &
+Communications Corporation as of December 31, 1998 and 1999, and for each of the
+three years in the period ended December 31, 1999, and have issued our report
+thereon dated February 10, 2000 (included elsewhere in the Annual Report on Form
+10-K). Our audits also included the financial statement schedule listed in Item
+14(a)(2) of the Form 10-K. This schedule is the responsibility of the Company's
+management. Our responsibility is to express an opinion based on our audits.
+
+     In our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+
+                                          /s/ ERNST & YOUNG LLP
+
+McLean, Virginia
+February 10, 2000
+
+                                       42
+<PAGE>   44
+
+          SCHEDULE II -- VALIDATION AND QUALIFYING ACCOUNT AND RESERVE
+
+<TABLE>
+<CAPTION>
+                                                      BALANCE AT                             BALANCE AT
+                                                     BEGINNING OF                              END OF
+                  CLASSIFICATION                        PERIOD      ADDITIONS   DEDUCTIONS     PERIOD
+                  --------------                     ------------   ---------   ----------   ----------
+<S>                                                  <C>            <C>         <C>          <C>
+Allowance for doubtful accounts:
+  Year ended December 31, 1997.....................    $ 26,000     $ 53,553          --      $ 79,553
+  Year ended December 31, 1998.....................    $ 79,553           --     $28,118      $ 51,435
+  Year ended December 31, 1999.....................    $ 51,435     $100,000          --      $151,435
+Inventory Reserve:
+  Year ended December 31, 1997.....................    $402,638     $496,721          --      $899,359
+  Year ended December 31, 1998.....................    $899,359           --     $83,542      $815,817
+  Year ended December 31, 1999.....................    $815,817           --     $90,321      $725,496
+</TABLE>
+
+     All other schedules set forth in the applicable accounting regulations of
+the Securities and Exchange Commission either are not required under the related
+instructions or are not applicable and, therefore, have been omitted.
+
+     (3) List of Exhibits.
+
+<TABLE>
+<S>   <C>
+ 3.1  Form of Amended and Restated Certificate of Incorporation of
+      the Company (Incorporated by reference from our registration
+      statement on Form S-1; Registration No. 333-74777)
+ 3.2  Form of Amended and Restated Bylaws of the Company
+      (Incorporated by reference from our registration statement
+      on Form S-1; Registration No. 333-74777)
+ 4.1  Specimen of Common Stock Certificate of the Company
+      (Incorporated by reference from our registration statement
+      on Form S-1; Registration No. 333-74777)
+ 4.2  Form of warrants issued in 1995 in conjunction with bridge
+      notes (Incorporated by reference from our registration
+      statement on Form S-1; Registration No. 333-74777)
+ 4.3  Form of warrants issued in 1995 and 1996 to purchasers of
+      notes due December 31, 1997 (Incorporated by reference from
+      our registration statement on Form S-1; Registration No.
+      333-74777)
+ 4.4  Form of warrants issued to purchasers of senior notes due
+      June 30, 1999 (Incorporated by reference from our
+      registration statement on Form S-1; Registration No.
+      333-74777)
+ 4.5  Form of warrants issued to purchasers of Series C preferred
+      stock in 1997 (Incorporated by reference from our
+      registration statement on Form S-1; Registration No.
+      333-74777)
+ 4.6  Form of warrants issued to Dominion Fund IV (Incorporated by
+      reference from our registration statement on Form S-1;
+      Registration No. 333-74777)
+ 4.7  Form of warrants issued in 1998 to Sirrom Capital
+      Corporation (Incorporated by reference from our registration
+      statement on Form S-1; Registration No. 333-74777)
+ 4.8  Form of warrants issued to purchasers of Series C preferred
+      stock in 1998 and 1999 (Incorporated by reference from our
+      registration statement on Form S-1; Registration No.
+      333-74777)
+ 4.9  Form of warrants issued to placement agents (Incorporated by
+      reference from our registration statement on Form S-1;
+      Registration No. 333-74777)
+ 4.10 Registration Rights Agreement for purchasers of common stock
+      in 1995 (Incorporated by reference from our registration
+      statement on Form S-1; Registration No. 333-74777)
+ 4.11 Registration Rights Agreement for purchasers of Series C
+      preferred stock and Sirrom Capital Corporation (Incorporated
+      by reference from our registration statement on Form S-1;
+      Registration No. 333-74777)
+10.1  Lease Agreement for premises at 7600 Colshire Drive, McLean,
+      Virginia (Incorporated by reference from our registration
+      statement on Form S-1; Registration No. 333-74777)
+10.2  Online Resources & Communications Corporation 1989 Stock
+      Option Plan (Incorporated by reference from our registration
+      statement on Form S-1; Registration No. 333-74777)
+10.3  Loan Agreement dated June 3, 1997 with Dominion Fund IV
+      (Incorporated by reference from our registration statement
+      on Form S-1; Registration No. 333-74777)
+</TABLE>
+
+                                       43
+<PAGE>   45
+<TABLE>
+<S>   <C>
+10.4  Security Agreement dated June 3, 1997 with Dominion Fund IV
+      (Incorporated by reference from our registration statement
+      on Form S-1; Registration No. 333-74777)
+10.5  Loan Agreement dated March 31, 1998 and amendment thereto
+      with Sirrom Capital Corporation (Incorporated by reference
+      from our registration statement on Form S-1; Registration
+      No. 333-74777)
+10.6  Security Agreement dated March 31, 1998 with Sirrom Capital
+      Corporation (Incorporated by reference from our registration
+      statement on Form S-1; Registration No. 333-74777)
+10.7  Form of Stock Option Plan (Incorporated by reference from
+      our registration statement on Form S-1; Registration No.
+      333-74777)
+23.1  Consent of Ernst & Young LLP, Independent Auditors
+27    Financial Data Schedule
+</TABLE>
+
+  (b) REPORTS ON FORM 8-K.
+
+     The registrant has filed no Forms 8-K during the quarter ended December 31,
+1999.
+
+                                       44
+<PAGE>   46
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                          ONLINE RESOURCES & COMMUNICATIONS
+                                            CORPORATION
+
+Date:  March 30, 2000                     By:     /s/ MATTHEW P. LAWLOR
+                                            ------------------------------------
+                                                     Matthew P. Lawlor
+                                                        Chairman and
+                                                  Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the date indicated.
+
+<TABLE>
+<CAPTION>
+                   SIGNATURE                                     TITLE                      DATE
+                   ---------                                     -----                      ----
+<S>                                               <C>                                  <C>
+
+             /s/ MATTHEW P. LAWLOR                   Chairman and Chief Executive      March 30, 2000
+- ------------------------------------------------                Officer
+               Matthew P. Lawlor
+
+              /s/ CARL D. BLANDINO                Executive Vice President and Chief   March 30, 2000
+- ------------------------------------------------     Financial Officer (Principal
+                Carl D. Blandino                   Financial and Accounting Officer)
+
+             /s/ THOMAS S. JOHNSON                             Director                March 30, 2000
+- ------------------------------------------------
+               Thomas S. Johnson
+
+             /s/ JOSEPH J. SPALLUTO                            Director                March 30, 2000
+- ------------------------------------------------
+               Joseph J. Spalluto
+
+             /s/ DAVID A. O'CONNOR                             Director                March 30, 2000
+- ------------------------------------------------
+               David A. O'Connor
+
+              /s/ ERVIN R. SHAMES                              Director                March 30, 2000
+- ------------------------------------------------
+                Ervin R. Shames
+
+            /s/ GEORGE M. MIDDLEMAS                            Director                March 30, 2000
+- ------------------------------------------------
+              George M. Middlemas
+
+               /s/ MICHAEL K. LEE                              Director                March 30, 2000
+- ------------------------------------------------
+                 Michael K. Lee
+
+              /s/ MICHAEL H. HEATH                             Director                March 30, 2000
+- ------------------------------------------------
+                Michael H. Heath
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>2
+<DESCRIPTION>CONSENT OF ERNST & YOUNG LLP
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 23.1
+
+              CONSENT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+
+We consent to the incorporation by reference in the Registration Statement
+(Form S-8 No. 333-92607) pertaining to the Online Resources & Communications
+Corporation 1989 Stock Option Plan and the Online Resources & Communications
+Corporation 1999 Stock Option Plan and the related prospectus of Online
+Resources & Communications Corporation for the registration of 147,715 shares
+of its common stock dated December 10, 1999, of our reports dated February 10,
+2000 with respect to the financial statements and schedule included in this
+Annual Report (Form 10-K) for the year ended December 31, 1999.
+
+
+                                                /s/ Ernst & Young LLP
+
+McLean, Virginia
+March 30, 2000
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS FOR THE YEAR ENDED 12/31/99 AND IS QUALIFIED IN ITS
+ENTIRETY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-31-1999
+<PERIOD-START>                             JAN-01-1999
+<PERIOD-END>                               DEC-31-1999
+<CASH>                                       1,588,187
+<SECURITIES>                                19,905,929
+<RECEIVABLES>                                2,027,707
+<ALLOWANCES>                                 (152,000)
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                            24,316,030
+<PP&E>                                       8,015,729
+<DEPRECIATION>                             (3,399,057)
+<TOTAL-ASSETS>                              29,217,175
+<CURRENT-LIABILITIES>                        3,420,661
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         1,105
+<OTHER-SE>                                  25,465,929
+<TOTAL-LIABILITY-AND-EQUITY>                29,217,175
+<SALES>                                      8,445,535
+<TOTAL-REVENUES>                             8,445,535
+<CGS>                                        9,081,269
+<TOTAL-COSTS>                                9,081,269
+<OTHER-EXPENSES>                                64,713
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                             958,852
+<INCOME-PRETAX>                           (13,829,234)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                       (13,829,234)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                              (885,407)
+<CHANGES>                                            0
+<NET-INCOME>                              (14,714,641)
+<EPS-BASIC>                                     (2.10)
+<EPS-DILUTED>                                   (2.10)
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

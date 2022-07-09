@@ -1,0 +1,3206 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VUsEmixiJ+J1pLPvR8TqPl4fSQxNAKxjMwa6dFB6aWF1wak2FM/Uwi680yGuFe9a
+ /Wzex4ZpyRxKPcW4+Gkiig==
+
+<SEC-DOCUMENT>0001269678-09-000064.txt : 20090331
+<SEC-HEADER>0001269678-09-000064.hdr.sgml : 20090331
+<ACCEPTANCE-DATETIME>20090331144359
+ACCESSION NUMBER:		0001269678-09-000064
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20081231
+FILED AS OF DATE:		20090331
+DATE AS OF CHANGE:		20090331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PI SERVICES INC
+		CENTRAL INDEX KEY:			0000888719
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				411559888
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53263
+		FILM NUMBER:		09718030
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5353 MANHATTAN CIRCLE
+		STREET 2:		SUITE 101
+		CITY:			BOULDER
+		STATE:			CO
+		ZIP:			80303
+		BUSINESS PHONE:		303-499-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		5353 MANHATTAN CIRCLE
+		STREET 2:		SUITE 101
+		CITY:			BOULDER
+		STATE:			CO
+		ZIP:			80303
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PHYSICIANS INSURANCE SERVICES LTD
+		DATE OF NAME CHANGE:	20080806
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PI SERVICES INC
+		DATE OF NAME CHANGE:	20080801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PHYSICIANS INSURANCE SERVICES LTD
+		DATE OF NAME CHANGE:	19920615
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>pi10k123108.txt
+<TEXT>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 10-K
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+                   For the fiscal year ended December 31, 2008
+
+                                       OR
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+            For the transition period from ___________ to ___________
+
+                        Commission file number: 000-53263
+
+                                PI SERVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+        Nevada                                                    41-1559888
+- -------------------------------                              -------------------
+(State or other jurisdiction of                               (I.R.S. Employer
+ incorporation or organization)                              Identification No.)
+
+                        5353 Manhattan Circle, Suite 101
+                             Boulder, Colorado 80303
+
+                    (Address of Principal Executive Offices)
+
+       Registrant's telephone number, including area code: (303) 499-6000
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+Indicate by check mark if the registrant is a well-known seasonal issuer, as
+defined in Rule 405 of the Securities Act.  Yes |_| No |X|
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company.
+
+        Large Accelerated     |_|     Non-accelerated Filer         |_|
+        Accelerated Filer     |_|     Smaller Reporting Company     |X|
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes |X| No |_|
+
+
+
+                                     1 of 36
+<PAGE>
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or 15(d) of the Act. Yes |_|No |X|
+
+Indicate by check mark whether the registrant (1) filed all reports required to
+be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months
+(or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90
+days: Yes |X| No |_|
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein , and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of the Form 10-K or any amendment to the
+Form 10-K |_|
+
+The aggregate market value of the voting and non-voting common equity held by
+non-affiliate computed by reference to the price at which the common equity was
+last sold on the average bid and asked price of such common equity, as of the
+last business day of the registrant's most recently completed fiscal quarter:
+There is no quoted market for registrant's common stock.
+
+Shares outstanding as of March 20, 2009 was approximately 2,217,480 shares of
+common stock, $.001 par value, adjusted for a reverse split effective March 20,
+2009.
+
+                    DOCUMENTS INCORPORATED BY REFERENCE: None
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     2 of 36
+<PAGE>
+
+PART I
+
+ITEM 1.  BUSINESS
+
+PI Services, Inc., (the "registrant" or "Company") was incorporated under the
+laws of the State of Minnesota on July 7, 1986 as Sweet Little Deal, Inc. The
+Company was formed to invest in and develop recreational real estate, and to
+invest in other businesses, particularly medical technology. On October 10,
+1991, the Company changed its name to Physicians Insurance Services, Ltd., and
+on January 12, 2009 it changed its name to PI Services, Inc.
+
+On August 1, 2007, the board members appointed new directors, Michael Friess and
+Chloe DiVita, and then resigned as officers and directors of the Company. The
+Board then appointed Michael Friess as President and CEO of the Company and
+Chloe DiVita as Secretary, Treasurer and Chief Financial Officer of the Company.
+The new board members appointed Sanford Schwartz to the board as a Director.
+
+The Company has opted to become a "blank check" company and to further engage in
+any lawful corporate undertaking, including, but not limited to, selected
+mergers and acquisitions.
+
+On September 30, 2007, the Company issued 540,000 shares of its common stock to
+two individuals, (Sanford Schwartz and Michael Friess), for a $6,116 cash
+payment. Additionally, the Company agreed to issue additional shares to these
+two individuals resulting in 80% control of the Company for an additional cash
+payment following the proposed increase in the Company's authorized capital. The
+two individuals were issued 1,233,984 shares on January 31, 2009 to settle the
+agreement.
+
+The Company held a shareholder meeting on July 23, 2008 to approve a
+reincorporation of the Company in the State of Nevada and amend the Articles of
+Incorporation to (i) change the Company's name from Physicians Insurance
+Services, Ltd. to PI Services, Inc. and (ii) increase the authorized capital
+stock of the Company to 780,000,000 shares of common stock and to create a class
+of 20,000,000 shares of preferred stock.
+
+On January 12, 2009 the Company completed the migratory merger to Nevada and
+adopted the new capital structure approved in the shareholder meeting. The
+Company completed the 1 for 5 reverse split of its common stock effective March
+20, 2009.
+
+Since November 2001, the Company has had insignificant operations. As such, the
+Company may presently be defined as a "shell" company, whose sole purpose at
+this time is to locate and consummate a merger or acquisition with a private
+entity.
+
+The Company has registered its common stock pursuant to section 12(g) of the
+Securities Exchange Act of 1934 in an effort to maximize shareholder value. The
+best use and primary attraction of the Company as a merger partner or
+acquisition vehicle will be its status as a reporting public company. Any
+business combination or transaction may potentially result in a significant
+issuance of shares and substantial dilution to present stockholders of the
+Company.
+
+The proposed business activities described herein classify the Company as a
+"blank check" company. Many states have enacted statutes, rules and regulations
+limiting the sale of securities of "blank check" companies in their respective
+
+
+                                     3 of 36
+<PAGE>
+
+
+jurisdictions. Management does not intend to undertake any offering of the
+Company's securities, either debt or equity, until such time as the Company has
+successfully implemented its business plan described herein.
+
+The Company maintains headquarters at the office of its President. The Company's
+website is www.physiciansinsuranceservicesinc.com. The Company is not required
+to deliver an annual report to security holders and at this time does not
+anticipate the distribution of such a report. The Company will file reports with
+the SEC.
+
+The public may read and copy any materials the Company files with the SEC in the
+SEC's Public Reference Section, Room 1580, 100 F Street N.E., Washington, D.C.
+20549. The public may obtain information on the operation of the Public
+Reference Section by calling the SEC at 1-800-SEC-0330. Additionally, the SEC
+maintains an Internet site that contains reports, proxy, and information
+statements, and other information regarding issuers that file electronically
+with the SEC, which can be found at http://www.sec.gov.
+
+GENERAL BUSINESS PLAN
+
+At this time, the Company's purpose is to seek, investigate and, if such
+investigation warrants, acquire an interest in business opportunities presented
+to it by persons or firms who or which desire to seek the perceived advantages
+of an Exchange Act registered corporation. The Company will not restrict its
+search to any specific business, industry, or geographical location and the
+Company may participate in a business venture of virtually any kind or nature.
+This discussion of the proposed business is intentionally general and is not
+meant to be restrictive of the Company's virtually unlimited discretion to
+search for and enter into potential business opportunities. Management
+anticipates that it may be able to participate in only one potential business
+venture because the Company has nominal assets and limited financial resources.
+See "FINANCIAL STATEMENTS." This lack of diversification should be considered a
+substantial risk to shareholders of the Company because it will not permit the
+Company to offset potential losses from one venture against gains from another.
+
+The Company may seek a business opportunity with entities which have recently
+commenced operations, or which wish to utilize the public marketplace in order
+to raise additional capital in order to expand into new products or markets, to
+develop a new product or service, or for other corporate purposes. The Company
+may acquire assets and establish wholly-owned subsidiaries in various businesses
+or acquire existing businesses as subsidiaries.
+
+The Company anticipates that the selection of a business opportunity in which to
+participate will be complex and extremely risky. Due to general economic
+conditions, rapid technological advances being made in some industries and
+shortages of available capital, management believes that there are numerous
+firms seeking the perceived benefits of a publicly registered corporation. Such
+perceived benefits may include facilitating or improving the terms on which
+additional equity financing may be sought, providing liquidity for incentive
+stock options or similar benefits to key employees, providing liquidity (subject
+to restrictions of applicable statutes), for all shareholders and other factors.
+Potentially, available business opportunities may occur in many different
+industries and at various stages of development, all of which will make the task
+of comparative investigation and analysis of such business opportunities
+extremely difficult and complex.
+
+The Company has, and will continue to have, little or no capital with which to
+provide the owners of business opportunities with any significant cash or other
+assets. However, management believes the Company will be able to offer owners of
+acquisition candidates the opportunity to acquire a controlling ownership
+interest in a publicly registered company without incurring the cost and time
+required to conduct an initial public offering. The owners of the business
+
+
+                                     4 of 36
+<PAGE>
+
+
+opportunities will, however, incur significant legal and accounting costs in
+connection with the acquisition of a business opportunity, including the costs
+of preparing Form 8-K's, 10-K's or 10-Q's, agreements and related reports and
+documents. The Securities Exchange Act of 1934 (the "Exchange Act"),
+specifically requires that any merger or acquisition candidate comply with all
+applicable reporting requirements, which include providing audited financial
+statements to be included within the numerous filings relevant to complying with
+the Exchange Act. Nevertheless, the officers and directors of the Company have
+not conducted market research and are not aware of statistical data which would
+support the perceived benefits of a merger or acquisition transaction for the
+owners of a business opportunity.
+
+The analysis of new business opportunities will be undertaken by, or under the
+supervision of, the officers and directors of the Company. Management intends to
+concentrate on identifying preliminary prospective business opportunities, which
+may be brought to its attention through present associations of the Company's
+officers and directors. In analyzing prospective business opportunities,
+management will consider such matters as the available technical, financial and
+managerial resources; working capital and other financial requirements; history
+of operations, if any; prospects for the future; nature of present and expected
+competition; the quality and experience of management services which may be
+available and the depth of that management; the potential for further research,
+development, or exploration; specific risk factors not now foreseeable but which
+then may be anticipated to impact the proposed activities of the Company; the
+potential for growth or expansion; the potential for profit; the perceived
+public recognition of acceptance of products, services, or trades; name
+identification; and other relevant factors. The Company will not acquire or
+merge with any company for which audited financial statements cannot be obtained
+prior to the closing of the proposed transaction.
+
+The Officers of the Company have limited experience in managing companies
+similar to the Company and shall rely upon their own efforts, in accomplishing
+the business purposes of the Company. The Company may from time to time utilize
+outside consultants or advisors to effectuate its business purposes described
+herein. No policies have been adopted regarding use of such consultants or
+advisors, the criteria to be used in selecting such consultants or advisors, the
+services to be provided, the term of service, or regarding the total amount of
+fees that may be paid. However, because of the limited resources of the Company,
+it is likely that any such fee the Company agrees to pay would be paid in stock
+and not in cash.
+
+The Company will not restrict its search for any specific kind of firms, but may
+acquire a venture which is in its preliminary or development stage, which is
+already in operation, or in essentially any stage of its corporate life. It is
+impossible to predict at this time the status of any business in which the
+Company may become engaged, in that such business may need to seek additional
+capital, may desire to have its shares publicly traded, or may seek other
+perceived advantages which the Company may offer. However, the Company does not
+intend to obtain funds in one or more private placements to finance the
+operation of any acquired business opportunity until such time as the Company
+has successfully consummated such a merger or acquisition.
+
+It is anticipated that the Company will incur nominal expenses in the
+implementation of its business plan described herein. The Company has limited
+capital with which to pay these anticipated expenses.
+
+In implementing a structure for a particular business acquisition, the Company
+may become a party to a merger, consolidation, reorganization, joint venture, or
+licensing agreement with another corporation or entity. It may also acquire
+stock or assets of an existing business. On the consummation of a transaction,
+it is probable that the present management and shareholders of the Company will
+no longer be in control of the Company. In addition, the Company's directors
+may, as part of the terms of the acquisition transaction, resign and be replaced
+by new directors without a vote of the Company's shareholders or may sell their
+
+
+                                     5 of 36
+<PAGE>
+
+
+stock in the Company. Any and all such sales will only be made in compliance
+with the securities laws of the United States and any applicable state.
+
+It is anticipated that any securities issued in any such reorganization would be
+issued in reliance upon exemption from registration under applicable federal and
+state securities laws. In some circumstances, however, as a negotiated element
+of its transaction, the Company may agree to register all or a part of such
+securities immediately after the transaction is consummated or at specified
+times thereafter. If such registration occurs, of which there can be no
+assurance, it will be undertaken by the surviving entity after the Company has
+successfully consummated a merger or acquisition and the Company is no longer
+considered a "shell" company. The issuance of substantial additional securities
+and their potential sale into any trading market which may develop in the
+Company's securities may have a depressive effect on the value of the Company's
+securities in the future, if such a market develops, of which there is no
+assurance.
+
+The Company will remain an insignificant participant among the firms which
+engage in the acquisition of business opportunities. There are many established
+venture capital and financial concerns which have significantly greater
+financial and personnel resources and technical expertise than the Company. In
+view of the Company's extremely limited financial resources and limited
+management availability, the Company will continue to be at a significant
+competitive disadvantage compared to the Company's competitors.
+
+ACQUISITION OPPORTUNITIES
+
+The Company does not intend to provide the Company's security holders with any
+disclosure documents, including audited financial statements, concerning an
+acquisition or merger candidate and its business prior to the consummation of
+any acquisition or merger transaction.
+
+COMPETITION
+
+The Company will remain an insignificant participant among the firms which
+engage in the acquisition of business opportunities. There are many established
+venture capital and financial concerns which have significantly greater
+financial and personnel resources and technical expertise than the Company. In
+view of the Company's extremely limited financial resources and limited
+management availability, the Company will continue to be at a significant
+competitive disadvantage compared to the Company's competitors.
+
+ITEM 1A.  RISK FACTORS
+
+A. Conflicts of Interest. There are certain conflicts of interest between us and
+our officers and directors as they have other business interests to which they
+currently devote attention, and may be expected to continue to do so. As a
+result, conflicts of interest may arise that can be resolved only through their
+exercise of judgment in a manner which is consistent with their fiduciary duties
+to the Company.
+
+It is anticipated that our principal shareholders may actively negotiate or
+otherwise consent to the purchase of a portion of their common stock as a
+condition to, or in connection with, a proposed merger or acquisition
+transaction. In this process, our principal shareholders may consider their own
+personal pecuniary benefit rather than the best interests of other shareholders,
+and the other shareholders are not expected to be afforded the opportunity to
+approve or consent to any particular stock buy-out transaction.
+
+
+                                     6 of 36
+<PAGE>
+
+
+B. Need for Additional Financing. We have very limited financial resources, and
+such resources are unlikely to be adequate to take advantage of any available
+business opportunities. Even if our financial resources prove to be sufficient
+to acquire an interest in, or complete a transaction with, a business
+opportunity, we may not have enough capital to exploit the opportunity. Our
+ultimate success may depend upon our ability to raise additional capital. We
+have not investigated the availability, source, or terms that might govern the
+acquisition of additional capital and will not do so until we determine a need
+for additional financing.
+
+If additional capital is needed, there is no assurance that funds will be
+available from any source or, if available, that they can be obtained on terms
+acceptable to us. If such funds are not available, our operations will be
+limited to those that can be financed with our modest capital.
+
+C. Regulation of Penny Stocks. Our securities, when available for trading, will
+be subject to a Securities and Exchange Commission rule that imposes special
+sales practice requirements upon broker-dealers who sell such securities to
+persons other than established customers or accredited investors. For purposes
+of the rule, the phrase "accredited investors" means, in general terms,
+institutions with assets in excess of $5,000,000, or individuals having a net
+worth in excess of $1,000,000 or having an annual income that exceeds $200,000
+(or that, when combined with a spouse's income, exceeds $300,000). For
+transactions covered by the rule, the broker-dealer must make a special
+suitability determination for the purchaser and receive the purchaser's written
+agreement to the transaction prior to the sale. Consequently, the rule may
+affect the ability of broker-dealers to sell our securities and also may affect
+the ability of our shareholders to sell their securities in any market that
+might develop.
+
+Shareholders should be aware that, according to Securities and Exchange
+Commission Release No. 34-29093, the market for penny stocks has suffered from
+patterns of fraud and abuse. Such patterns include (i) control of the market for
+the security by one or a few broker-dealers that are often related to the
+promoter or issuer; (ii) manipulation of prices through prearranged matching of
+purchases and sales and false and misleading press releases; (iii) "boiler room"
+practices involving high-pressure sales tactics and unrealistic price
+projections by inexperienced sales persons; (iv) excessive and undisclosed
+bid-ask differentials and markups by selling broker-dealers; and (v) the
+wholesale dumping of the same securities by promoters and broker-dealers after
+prices have been manipulated to a desired level, along with the resulting
+inevitable collapse of those prices with consequent investor losses. The
+Company's management is aware of the abuses that have occurred historically in
+the penny stock market. Although we do not expect to be in a position to dictate
+the behavior of the market or of broker-dealers who participate in the market,
+management will strive within the confines of practical limitations to prevent
+the described patterns from being established with respect to our securities.
+
+D. No Operating History or Revenue and Minimal Assets. The Company has had no
+operating history nor any revenues or earnings from operations since it ceased
+all major operations in November 2001. The Company has no assets or significant
+financial resources. The Company will, in all likelihood, sustain operating
+expenses without corresponding revenues, at least until the consummation of a
+business combination. This may result in the Company incurring a net operating
+loss which will increase continuously until the Company can consummate a
+business combination with a profitable business opportunity. There is no
+assurance that the Company can identify such a business opportunity and
+consummate such a business combination.
+
+E. No Assurance of Success or Profitability. There is no assurance that we will
+acquire a business opportunity. Even if we should become involved in a business
+opportunity, there is no assurance that it will generate revenues or profits, or
+that the market price of our common stock will be increased thereby.
+
+
+                                     7 of 36
+<PAGE>
+
+
+F. Possible Business - Not Identified and Highly Risky. We have not identified
+and have no commitments to enter into or acquire a specific business
+opportunity. Therefore, we can disclose the risks and hazards of a business or
+opportunity that we may enter into in only a general manner, and cannot disclose
+the risks and hazards of any specific business or opportunity. An investor can
+expect a potential business opportunity to be quite risky. Our acquisition of or
+participation in a business opportunity will likely be highly illiquid and could
+result in a total loss to us and our shareholders if the business or opportunity
+proves to be unsuccessful.
+
+G. Type of Business Acquired. The type of business to be acquired may be one
+that desires to avoid affecting its own public offering and the accompanying
+expense, delays, uncertainties, and federal and state requirements which purport
+to protect investors. Because of our limited capital, it is more likely than not
+that any acquisition will involve other parties whose primary interest is the
+acquisition of control of a publicly traded company. Moreover, any business
+opportunity acquired may be currently unprofitable or present other negative
+factors.
+
+H. Impracticability of Exhaustive Investigation. Our limited funds and the lack
+of full-time management will likely make it impracticable to conduct a complete
+and exhaustive investigation and analysis of a business opportunity before we
+commit our capital or other resources to such opportunity. Management decisions,
+therefore, will likely be made without detailed feasibility studies, independent
+analysis, market surveys and the like, which, if we had more funds, would be
+desirable. We will be particularly dependent in making decisions upon
+information provided by the promoter, owner, sponsor, or others associated with
+the business opportunity seeking our participation. A significant portion of our
+available funds may be expended for investigative expenses and other expenses
+related to preliminary aspects of completing an acquisition transaction, whether
+or not any business opportunity investigated is eventually acquired.
+
+I. Lack of Diversification. Because of our limited financial resources, it is
+unlikely that we will be able to diversify our acquisitions or operations. This
+probable inability to diversify our activities into more than one area will
+subject us to economic fluctuations within a particular business or industry and
+therefore increase the risks associated with our operations.
+
+J. Requirement of Audited Financial Statements May Disqualify Business
+Opportunities. Management of the Company believes that any potential business
+opportunity must provide audited financial statements for review, and for the
+protection of all parties to the business combination. One or more attractive
+business opportunities may choose to forego the possibility of a business
+combination with the Company, rather than incur the expenses associated with
+preparing audited financial statements.
+
+K. Other Regulation. An acquisition we make may be of a business that is subject
+to regulation or licensing by federal, state, or local authorities. Compliance
+with such regulations and licensing can be expected to be a time-consuming,
+expensive process and may limit our other investment opportunities.
+
+L. Dependence Upon Management; Limited Participation of Management. We will be
+heavily dependent upon the skills, talents, and abilities of our officers and
+directors to implement our business plan, and may, from time to time, find that
+the inability of such persons to devote their full-time attention to our
+business results in a delay in progress toward implementing our business plan.
+Furthermore, we will be entirely dependent upon the experience of our officers
+and directors in seeking, investigating, and acquiring a business and in making
+decisions regarding our operations. Because investors will not be able to
+evaluate the merits of our possible business acquisitions, they should
+critically assess the information concerning our officers and directors.
+
+
+                                     9 of 36
+<PAGE>
+
+
+M. Lack of Continuity in Management. The Company does not have an employment
+agreement with any of its officers or directors, and as a result, there is no
+assurance that they will continue to manage the Company in the future. In
+connection with the acquisition of a business opportunity, it is likely the
+current officers and directors of the Company will resign. A decision to resign
+will be based upon the identity of the business opportunity and the nature of
+the transaction, and is likely to occur without the vote or consent of the
+shareholders of the Company.
+
+N. Indemnification of Officers and Directors. Our Articles of Incorporation
+provide that we may indemnify our directors, officers, employees, and agents to
+the fullest extent permitted by Nevada law. We will also bear the expenses of
+such litigation for any of our directors, officers, employees, or agents, upon
+such person's promise to repay us if it is ultimately determined that any such
+person shall not have been entitled to indemnification. This indemnification
+policy could result in substantial expenditures which we may be unable to
+recoup.
+
+O. Dependence Upon Outside Advisors. To supplement the business experience of
+our officers and directors, we may be required to employ accountants, technical
+experts, appraisers, attorneys, or other consultants or advisors. The selection
+of any such advisors will be made by our officers without any input from
+shareholders. Furthermore, it is anticipated that such persons may be engaged on
+an "as needed" basis without a continuing fiduciary or other obligation to the
+Company. In the event management considers it necessary to hire outside
+advisors, they may elect to hire persons who are affiliates of our officers and
+directors, if they are able to provide the required services.
+
+P. Leveraged Transactions. There is a possibility that any acquisition of a
+business opportunity we make may be leveraged, i.e., we may finance the
+acquisition of the business opportunity by borrowing against the assets of the
+business opportunity to be acquired, or against the projected future revenues or
+profits of the business opportunity. This could increase our exposure to losses.
+A business opportunity acquired through a leveraged transaction is profitable
+only if it generates enough revenues to cover the related debt and expenses.
+Failure to make payments on the debt incurred to purchase the business
+opportunity could result in the loss of a portion or all of the assets acquired.
+There is no assurance that any business opportunity acquired through a leveraged
+transaction will generate sufficient revenues to cover the related debt and
+expenses.
+
+Q. Competition. The search for potentially profitable business opportunities is
+intensely competitive. We expect to be at a disadvantage when competing with
+many firms that have substantially greater financial and management resources
+and capabilities than we do. These competitive conditions will exist in any
+industry in which we may become interested.
+
+R. No Foreseeable Dividends. We have not paid cash dividends on our common stock
+and do not anticipate paying such dividends in the foreseeable future.
+
+S. Loss of Control by Present Management and Shareholders. We may consider an
+acquisition in which we would issue as consideration for the business
+opportunity to be acquired, an amount of our authorized but unissued common
+stock that would, upon issuance, represent the great majority of the voting
+power and equity of the Company. The result of such an acquisition would be that
+the acquired company's shareholders and management would control the Company,
+and our management could be replaced by persons unknown at this time. Such a
+merger would result in a greatly reduced percentage of ownership by our current
+shareholders.
+
+T. Limited Public Market Exists. There is only a very limited public market for
+our common stock, and no assurance can be given that an active market will
+develop or that a shareholder ever will be able to liquidate his investment
+
+
+                                     9 of 36
+<PAGE>
+
+
+without considerable delay, if at all. If a market should develop, the price may
+be highly volatile. Factors such as those discussed in this "Risk Factors"
+section may have a significant impact upon the market price of our securities.
+Because of the low price of the securities, many brokerage firms may not be
+willing to effect transactions in the securities. Even if a purchaser finds a
+broker willing to effect a transaction in our securities, the combination of
+brokerage commissions, state transfer taxes, if any, and any other selling costs
+may exceed the selling price. Further, many lending institutions will not permit
+the use of such securities as collateral for any loans.
+
+U. Concerns regarding the current economic situation. The United States and the
+global business community is experiencing severe instability in the commercial
+and investment banking systems which is likely to continue to have far-reaching
+effects on the economic activity in the country for an indeterminable period.
+The long-term impact on the United States economy and the Company's operating
+activities and ability to raise capital cannot be predicted at this time, but
+may be substantial.
+
+ITEM 1B.  UNRESOLVED STAFF COMMENTS
+
+None.
+
+ITEM 2.  PROPERTIES
+
+The Company has no properties and at this time has no agreements to acquire any
+properties. The Company currently maintains a mailing address at 5353 Manhattan
+Circle, Suite 101, Boulder, CO 80303. The Company pays no rent for the use of
+this mailing address. The Company does not believe that it will need to maintain
+an office at any time in the foreseeable future in order to carry out its plan
+of operations described herein.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+None.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None.
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+(a) Market Information.
+
+There is only a very limited market for the Company's securities. As of March
+20, 2009 the Company's securities were included on the bulletin board under the
+symbol PISV. During the past two years, there have been no transactions in the
+Company's common stock reported in the so-called "Pink Sheets". There are no
+outstanding options or warrants to purchase shares of common stock or securities
+convertible into shares of the Company's common stock. The Company has no
+obligations to register any of its shares of common stock under the Securities
+Act of 1933. As of March 20, 2009, 70,377 of the Company's outstanding shares
+were eligible for transfer without registration under the Securities Act.
+
+
+                                    10 of 36
+<PAGE>
+
+
+(b) Holders.
+
+As of March 20, 2009, there were approximately 146 holders of the Company's
+Common Stock.
+
+(c) Dividends.
+
+No dividends have been paid by the Company on any of its securities since the
+renewal of its charter and such dividends are not contemplated in the
+foreseeable future.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+                            Years Ended                Period From
+                   December 31,    December 31,     June 25, 2007 to
+                       2008            2007        December 31, 2008
+                   ------------    ------------    -----------------
+Revenues           $          -    $          -
+
+Expenses                (29,747)         (8,237)        (37,984)
+Net income              (29,747)         (4,918)        (37,984)
+Assets                      490           4,515             490
+Liabilities              32,358           6,636          32,358
+
+Equity                  (31,868)         (2,121)        (31,868)
+
+ITEM 7. MANAGEMENTS DICUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULT OF
+OPERATIONS
+
+Overview
+
+The Company generated no revenues during the year ended December 31, 2008, and
+management does not anticipate any revenues until following the conclusion of a
+merger or acquisition, if any, as contemplate by the Company's business plan.
+
+The Company has limited capital. The Company anticipates operational costs will
+be limited until such time as significant evaluation work is undertaken
+regarding prospective mergers or acquisitions. At December 31, 2008, the Company
+had no material commitments for capital expenditures.
+
+General
+
+Our principal business objective for the next 12 months and beyond such time
+will be to achieve long-term growth potential through a combination with a
+business rather than immediate, short-term earnings. The Company will not
+restrict our potential candidate target companies to any specific business,
+industry or geographical location and, thus, may acquire any type of business.
+
+The Company does not currently engage in any business activities that provide
+cash flow. The costs of investigating and analyzing business combinations for
+the next 12 months and beyond such time will be paid with money in our treasury.
+
+
+                                    11 of 36
+<PAGE>
+
+
+The Company may consider a business which has recently commenced operations, is
+a developing company in need of additional funds for expansion into new products
+or markets, is seeking to develop a new product or service, or is an established
+business which may be experiencing financial or operating difficulties and is in
+need of additional capital. In the alternative, a business combination may
+involve the acquisition of, or merger with, a company which does not need
+substantial additional capital, but which desires to establish a public trading
+market for its shares, while avoiding, among other things, the time delays,
+significant expense, and loss of voting control which may occur in a public
+offering.
+
+None of our officers or our directors has had any direct and/or preliminary
+contact or discussions with any representative of any other entity regarding a
+business combination with us. Any target business that is selected may be a
+financially unstable company or an entity in its early stages of development or
+growth, including entities without established records of sales or earnings. In
+that event, we will be subject to numerous risks inherent in the business and
+operations of financially unstable and early stage or potential emerging growth
+companies. In addition, we may effect a business combination with an entity in
+an industry characterized by a high level of risk, and, although our management
+will endeavor to evaluate the risks inherent in a particular target business,
+there can be no assurance that we will properly ascertain or assess all
+significant risks.
+
+The Company anticipates that the selection of a business combination will be
+complex and extremely risky. Because of general economic conditions, rapid
+technological advances being made in some industries and shortages of available
+capital, our management believes that there are numerous firms seeking even the
+limited additional capital that we will have and/or the perceived benefits of
+becoming a publicly traded corporation. Such perceived benefits of becoming a
+publicly traded corporation include, among other things, facilitating or
+improving the terms on which additional equity financing may be obtained,
+providing liquidity for the principals of and investors in a business, creating
+a means for providing incentive stock options or similar benefits to key
+employees, and offering greater flexibility in structuring acquisitions, joint
+ventures and the like through the issuance of stock. Potentially available
+business combinations may occur in many different industries and at various
+stages of development, all of which will make the task of comparative
+investigation and analysis of such business opportunities extremely difficult
+and complex.
+
+Liquidity and Capital Resources.
+
+The Company has no operating history as a "blank check" company and no material
+assets. At December 31, 2008 the Company had an accumulated deficit of
+($508,940) and a working capital deficit ($ 37,984). The report of the Company's
+registered public accountants for the financial statements for the year ended
+December 31, 2008 included a going concern qualification.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+Not required by smaller reporting companies.
+
+
+
+
+                                    12 of 36
+<PAGE>
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA
+
+
+                          INDEX TO FINANCIAL STATEMENTS
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+
+                              FINANCIAL STATEMENTS
+
+                                      with
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+Report of Independent Registered Public Accounting Firm          F-2
+
+Financial Statements:
+
+     Balance Sheets                                              F-3
+
+     Statements of Operations                                    F-4
+
+     Statement of Changes in Stockholders' (Deficit)             F-5
+
+     Statements of Cash Flows                                    F-6
+
+     Notes to Financial Statements                               F-7
+
+
+
+
+
+
+
+
+
+
+
+
+                                       F-1
+
+                                    13 of 36
+<PAGE>
+
+
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors
+PI Services, Inc.
+
+We have audited the accompanying balance sheets of PI Services, Inc. (A
+Development Stage Company) as of December 31, 2008 and 2007, and the related
+statements of operations, stockholders' (deficit), and cash flows for the two
+years ended December 31, 2008 and 2007, and for the period from June 25, 2007
+(date of commencement of development stage) through December 31, 2008. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The Company is not required to
+have, nor were we engaged to perform, an audit of its internal control over
+financial reporting. Our audit included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Company's internal control over financial
+reporting. Accordingly, we express no such opinion. An audit also includes
+examining on a test basis, evidence supporting the amounts and disclosures in
+the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of PI Services, Inc. (a
+Development Stage Company) as of December 31, 2008 and 2007, and the results of
+its operations and its cash flows for the two years ended December 31, 2008 and
+2007, and for the period from June 25, 2007 (date of commencement of development
+stage) through December 31, 2008, in conformity with accounting principles
+generally accepted in the United States of America.
+
+The accompanying financial statements have been prepared assuming that the
+Company will continue as a going concern. As described in Note 1, the Company
+has no business operations and has negative working capital and stockholders'
+deficits, which raise substantial doubt about its ability to continue as a going
+concern. Management's plan in regard to this matter is also discussed in Note 1.
+The financial statements do not include any adjustments that might result from
+the outcome of these uncertainties.
+
+/s/ Schumacher & Associates, Inc.
+
+Schumacher & Associates, Inc.
+Certified Public Accountants
+2525 Fifteenth Street, Suite 3H
+Denver, Colorado 80211
+
+March 24, 2009
+
+
+
+                                       F-2
+
+                                    14 of 36
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                                 BALANCE SHEETS
+
+                                     ASSETS
+
+
+                                                            December 31,    December 31,
+                                                                2008            2007
+<S>                                                         <C>             <C>
+Current Assets:
+  Cash                                                               490           4,515
+                                                            ------------    ------------
+TOTAL ASSETS                                                $        490    $      4,515
+                                                            ============    ============
+
+
+                    LIABILITIES AND STOCKHOLDERS' (DEFICIT)
+
+Current Liabilities:
+  Accounts payable                                          $      3,518    $      3,425
+  Accounts payable, related party (Note 4)                        28,840           3,211
+                                                            ------------    ------------
+   Total Current Liabilities                                      32,358           6,636
+                                                            ------------    ------------
+
+     TOTAL LIABILITIES                                            32,358           6,636
+                                                            ------------    ------------
+
+Commitments and contingencies
+  (Notes 1,2,3,4,5 and 6)
+
+Stockholders' (Deficit)
+  Preferred Stock, $.001 par value
+   20,000,000 shares authorized;
+   No shares issued and outstanding (Note 3)
+  Common stock, $.001 par value
+   780,000,000 shares authorized,
+   983,496 issued and outstanding at
+   December 31, 2008 and December 31, 2007
+   (Note 3)                                                          984             984
+  Additional paid-in capital                                     514,072         514,072
+  Accumulated (Deficit)                                         (508,940)       (508,940)
+  Retained earnings during the
+   development stage                                             (37,984)         (8,237)
+                                                            ------------    ------------
+TOTAL STOCKHOLDERS' (DEFICIT)                                    (31,868)         (2,121)
+                                                            ------------    ------------
+TOTAL LIABILITIES AND
+STOCKHOLDERS' (DEFICIT)                                     $        490    $      4,515
+                                                            ============    ============
+</TABLE>
+
+The accompanying notes are an integral part of the financial statements.
+
+
+                                       F-3
+
+                                    15 of 36
+<PAGE>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                            STATEMENTS OF OPERATIONS
+
+                                                               Period from
+                                                                 June 25,
+                                                              2007(date of
+                                                              commencement
+                                                             of development
+                                   For the Year Ended           stage) to
+                                      December 31,            December 31,
+                                  2008            2007            2008
+                              ------------    ------------    ------------
+Revenue                       $       --      $       --      $       --
+                              ------------    ------------    ------------
+Expenses:
+  Legal and accounting fees         24,807           2,636          27,443
+  Transfer agent fees                2,460           5,019           7,479
+  Printing and mailing fees          1,232            --             1,232
+  General corporate fees               263             536             799
+  Other                                985              46           1,031
+                              ------------    ------------    ------------
+     Total Expenses                 29,747           8,237          37,984
+                              ------------    ------------    ------------
+Net Operating (Loss)               (29,747)         (8,237)        (37,984)
+                              ------------    ------------    ------------
+
+Net (Loss) from continuing
+  Operations                       (29,747)         (8,237)        (37,984)
+                              ------------    ------------    ------------
+
+Discontinued Operations:
+  Gain from discontinued
+   operations                         --             3,319            --
+                              ------------    ------------    ------------
+  Net (Loss)                       (29,747)         (4,918)        (37,984)
+                              ============    ============    ============
+
+Per Share
+  Continuing Operations       $       (.03)   $       (.02)   $       (.04)
+  Discontinued Operations             --               .01            --
+                              ------------    ------------    ------------
+     Total                    $       (.03)   $       (.01)   $       (.04)
+                              ============    ============    ============
+
+Weighted Average Shares
+  Outstanding                      983,496         372,052         864,917
+                              ============    ============    ============
+
+
+
+The accompanying notes are an integral part of the financial statements.
+
+
+
+
+
+
+                                       F-4
+
+                                    16 of 36
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                 STATEMENT OF CHANGES IN STOCKHOLDERS' (DEFICIT)
+
+          For the Period from January 1, 2007 through December 31, 2008
+
+
+                                 PREFERRED STOCK           COMMON STOCK                                     DEFICIT
+                              ---------------------   ---------------------                               ACCUMULATED
+                                                                              ADDITIONAL                   DURING THE
+                                                                               PAID-IN     ACCUMULATED    DEVELOPMENT
+                                SHARES      AMOUNT      SHARES      AMOUNT     CAPITAL      (DEFICIT)        STAGE         TOTAL
+                              ---------   ---------   ---------   ---------   ----------   -----------    -----------    ---------
+<S>                           <C>         <C>         <C>         <C>         <C>          <C>            <C>            <C>
+Balance, December 31, 2006         --     $    --        88,699   $      89   $  504,824   $  (512,259)   $      --      $  (7,346)
+
+Debt converted to equity           --          --       354,797         355        3,672          --             --          4,027
+July 31, 2007 (Note 4)
+
+Issuance of stock for cash
+at $.011 September 30, 2007        --          --       540,000         540        5,576          --             --          6,116
+
+
+Net income for the year            --          --          --          --           --           3,319         (8,237)      (4,918)
+                              ---------   ---------   ---------   ---------   ----------   -----------    -----------    ---------
+
+Balance, December 31, 2007         --          --       983,496         984      514,072      (508,940)        (8,237)      (2,121)
+
+
+
+Net (loss) for the year            --          --          --          --           --            --          (29,747)     (29,747)
+                              ---------   ---------   ---------   ---------   ----------   -----------    -----------    ---------
+
+Balance, December 31, 2008         --     $    --       983,496   $     984   $  514,072   $  (508,940)   $   (37,984)   $ (31,868)
+                              =========   =========   =========   =========   ==========   ===========    ===========    =========
+</TABLE>
+
+
+The accompanying notes are an integral part of the financial statements.
+
+
+
+                                       F-5
+
+                                    17 of 36
+<PAGE>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                            STATEMENTS OF CASH FLOWS
+                                                                   Period From
+                                                                   June 25, 2007
+                                                                     (Date of
+                                                                   development
+                                           For the Year Ended        Stage) to
+                                              December 31,         December 31,
+                                           2008          2007          2008
+                                        ----------    ----------   ------------
+Cash Flows from Operating
+  Activities of Continued Operations:
+  Net (loss)                            $  (29,747)   $   (4,918)  $    (37,984)
+  Less: Net gain from Discontinued            --           3,319           --
+         Operations                     ----------    ----------   ------------
+
+Net (loss) from Continuing Operations      (29,747)       (8,237)       (37,984)
+                                        ----------    ----------   ------------
+Adjustments to reconcile net loss
+ To net cash (used in) operating activities:
+  Increase in accounts payable                  93         3,425          3,518
+                                        ----------    ----------   ------------
+Net Cash (Used in) Operating
+  Activities                               (29,654)       (4,812)       (34,466)
+                                        ----------    ----------   ------------
+Cash Flows from Investing Activities:         --            --             --
+                                        ----------    ----------   ------------
+Net Cash Provided by
+  Investing Activities                        --            --             --
+                                        ----------    ----------   ------------
+Cash Flows from Financing Activities:
+  Sale of common stock                      13,884         6,116          6,116
+  Advances from related party               11,745         3,211         28,840
+                                        ----------    ----------   ------------
+Net Cash Provided by
+  Financing Activities                      25,629         9,327         34,956
+                                        ----------    ----------   ------------
+Cash Flows from (Used In):
+  Discontinued Operations                     --             (55)           (55)
+                                        ----------    ----------   ------------
+   Net cash provided by (used in)             --             (55)           (55)
+    Discontinued Operations             ----------    ----------   ------------
+
+Increase (Decrease) in Cash                 (4,025)        4,460            435
+                                        ----------    ----------   ------------
+Cash, Beginning of Period                    4,515            55             55
+                                        ----------    ----------   ------------
+Cash, End of Period                     $      490    $    4,515   $        490
+                                        ==========    ==========   ============
+Interest Paid                           $     --      $     --     $       --
+                                        ==========    ==========   ============
+Income Taxes Paid                       $     --      $     --     $       --
+                                        ==========    ==========   ============
+
+The accompanying notes are an integral part of the financial statements.
+
+
+                                       F-6
+
+                                    18 of 36
+<PAGE>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                           December 31, 2008 and 2007
+
+
+(1) Summary of Accounting Policies, and Description of Business
+
+This summary of significant accounting policies of PI Services, Inc. (Company),
+a "Development Stage Company", is presented to assist in understanding the
+Company's financial statements. The financial statements and notes are
+representations of the Company's management who is responsible for their
+integrity and objectivity. These accounting policies conform to generally
+accepted accounting principles in the United States of America and have been
+consistently applied in the preparation of the financial statements. All share
+information has been adjusted to reflect the one-for-five reverse stock split
+effective March 20, 2009.
+
+(a) Organization and Description of Business
+
+The Company was incorporated as Sweet Little Deal, Inc. in 1986 under the laws
+of the State of Minnesota. The Company executed a Plan of Exchange with
+Protective Physicians Insurance services, Ltd. on October 10, 1991, and changed
+its name to Physicians Insurance Services, Ltd. On July 23, 2008, the Company
+held a shareholder meeting approving a migratory merger to Nevada and a name
+change to PI Services, Inc., which became effective January 12, 2009.
+
+Since November 2001, the Company has not engaged in any business operations.
+
+Effective June 25, 2007, the Company commenced activities to become a reporting
+company with the Securities and Exchange Commission ("SEC") with the intention
+to become a publicly trading company.
+
+(b) Use of Estimates in the Preparation of Financial Statements
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles in the United States of America requires management to
+make estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenue and expenses during
+the reporting period. Actual results could differ from those estimates.
+
+(c) Per Share Information
+
+Earnings (loss) per share of common stock is computed by dividing the net
+earnings (loss) by the weighted average number of common shares outstanding
+during the period. Diluted earnings per share is not shown for periods in which
+the Company incurs a loss because it would be anti-dilutive. All share
+information has been adjusted to reflect the one-for-five reverse stock split
+effective March 20, 2009.
+
+(d) Basis of Presentation - Going Concern
+
+The accompanying financial statements have been prepared in conformity with
+generally accepted accounting principles in the United States of America, which
+contemplates continuation of the Company as a going concern. However, the
+Company has no business operations and has negative working capital and
+stockholders' deficits, which raise substantial doubt about its ability to
+continue as a going concern.
+
+In view of these matters, continuation as a going concern is dependent upon
+continued operations of the Company, which in turn is dependent upon the
+Company's ability to meet its financial requirements, raise additional capital,
+and the success of its future operations.
+
+Management has opted to register the Company's common stock under the Securities
+Exchange Act of 1934 and to begin the filing of SEC reporting documentation and
+then to seek a business combination. Management believes that this plan provides
+an opportunity for the Company to continue as a going concern.
+
+
+
+                                       F-7
+
+                                    19 of 36
+<PAGE>
+
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                           December 31, 2008 and 2007
+
+
+(1) Summary of Accounting Policies, Continued
+
+(e) Recent Accounting Pronouncements
+
+There were various accounting standards and interpretations issued during 2008
+and 2007, none of which are expected to a have a material impact on the
+Company's consolidated financial position, operations or cash flows.
+
+(f) Risks and Uncertainties
+
+The Company is subject to substantial business risks and uncertainties inherent
+in starting a new business. There is no assurance that the Company will be able
+to complete a business combination.
+
+(g) Revenue Recognition
+
+The Company has had no revenue during its development stage. It is the Company's
+policy that revenues will be recognized in accordance with SEC Staff Accounting
+Bulletin ("SAB") No. 101, "Revenue Recognition in Financial Statements." Under
+SAB 101, product revenues (or service revenues) are recognized when persuasive
+evidence of an arrangement exists, delivery has occurred (or service has been
+performed), the sales price is fixed and determinable and collectability is
+reasonably assured.
+
+(h) Cash and Cash Equivalents
+
+The Company considers cash and cash equivalents to consist of cash on hand and
+demand deposits in banks with an initial maturity of 90 days or less.
+
+(i) Fair Value of Financial Instruments
+
+Financial Accounting Standards Board ("FASB") issued Statement of Financial
+Accounting Standards No. 107 ("SFAS 107"), "Disclosures About Fair Value of
+Financial Instruments." SFAS 107 requires disclosure of fair value information
+about financial instruments when it is practicable to estimate that value. The
+carrying amount of the Company's accounts payable, accrued expenses and accounts
+payable-related party approximate their estimated fair values due to their
+short-term maturities.
+
+(j) Income Taxes
+
+The Company records deferred taxes in accordance with Statement of Financial
+Accounting Standards (SFAS) 109, "Accounting for Income Taxes." The statement
+requires recognition of deferred tax assets and liabilities for temporary
+differences between the tax bases of assets and liabilities and the amounts at
+which they are carried in the financial statements, the effect of net operating
+losses, based upon the enacted tax rates in effect for the year in which the
+differences are expected to reverse. A valuation allowance is established when
+necessary to reduce deferred tax assets to the amount expected to be realized.
+
+(k)  Development stage
+
+Based upon the Company's business plan, it became a development stage enterprise
+effective June 25, 2007 when it commenced activities to become a reporting
+company with the SEC. Planned principal operations have not yet commenced.
+Accordingly, the Company presents its financial statements in conformity with
+the accounting principals generally accepted in the United States of America
+that apply in establishing operating enterprises. As a development state
+enterprise, the Company discloses the deficit accumulated during the development
+stage and the cumulative statements of operations and cash flows from
+commencement of development stage to the current balance sheet date.
+
+
+
+
+                                       F-8
+
+                                    20 of 36
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                           December 31, 2008 and 2007
+
+(1) Summary of Accounting Policies, Continued
+
+(l) Concentrations
+
+Financial instruments that potentially subject the company to concentrations of
+credit risk consist principally of cash and cash equivalents. At December 31,
+2008 and December 31, 2007, the Company had no amounts of cash or cash
+equivalents in financial institutions in excess of amounts insured by agencies
+of the U.S. Government.
+
+ (m) Other
+
+The Company has selected December 31 as its fiscal year end.
+
+The Company has paid no dividends.
+
+No advertising expense has been incurred.
+
+The Company consists of one reportable business segment.
+
+The Company has not entered into any leases.
+
+(2) Income Taxes
+
+Deferred income taxes arise from temporary timing differences in the recognition
+of income and expenses for financial reporting and tax purposes. The Company's
+deferred tax assets consist entirely of the benefit from net operating loss
+(NOL) carry forwards, limited by the value of the shell. The net operating loss
+carry forward if not used, will expire in various years through 2027, and is
+severely restricted as per the Internal Revenue code if there is a change in
+ownership. The Company's deferred tax assets are offset by a valuation allowance
+due to the uncertainty of the realization of the net operating loss carry
+forwards. Net operating loss carry forwards may be further limited by other
+provisions of the tax laws.
+
+The Company's deferred tax assets, valuation allowance, and change in valuation
+allowance are as follows:
+
+                    Estimated
+                       NOL                 Estimated                Change in
+                      Carry-      NOL     Tax Benefit   Valuation   Valuation   Net Tax
+  Period Ending      forward    Expires     from NOL    Allowance   Allowance   Benefit
+  -------------      -------    -------     --------    ---------   ---------   -------
+<S>                  <C>        <C>         <C>         <C>         <C>         <C>
+December 31, 2007    508,237    Various      94,024      (94,024)    (1,524)       --
+December 31, 2008    537,984    Various      99,527      (99,527)    (5,503)       --
+</TABLE>
+
+     Income taxes at the statutory rate are reconciled to the Company's actual
+     income taxes as follows:
+
+     Income tax benefit at statutory rate resulting from net
+     operating loss carry forward                                      (15.0%)
+     State tax (benefit) net of Federal benefit                        (3.5)%
+     Deferred income tax valuation allowance                            18.5%
+                                                                    ------------
+     Actual tax rate                                                     0%
+                                                                    ============
+
+
+
+                                       F-9
+
+                                    21 of 36
+<PAGE>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                           December 31, 2008 and 2007
+
+(3) Common Stock and Migratory Merger
+
+Pursuant to the Articles of Incorporation in Nevada, the Company is authorized
+to issue 780,000,000 common shares with $.001 par value. There were 983,496
+shares of common stock issued and outstanding at December 31, 2008. During the
+year ended December 31, 2007, the Company agreed to issue 354,797 shares of
+common stock to former shareholders in exchange for debt with an original value
+of $94,500. The fair value of the stock was estimated at $4,027. The transaction
+was treated as a Type I subsequent event, resulting in a $90,473 reduction in
+the value of the debt, which was recorded as additional paid-in capital in a
+prior period, since the shareholders in effect contributed cash by not requiring
+payment. Additionally, the Company exchanged its cemetery and related assets to
+a shareholder/former director of the Company, in cancellation for related
+liabilities. Prior to 2006, management had determined the cemetery assets were
+impaired and had recorded a valuation allowance for the full amount. In
+addition, since the sale of the cemetery was treated as a Type I subsequent
+event, the liabilities related to the cemetery were also written off in the
+prior period. In September 2007, the Company issued a total of 540,000 shares of
+common stock to two directors for $6,116 cash. This resulted in a change in
+control of the Company. During the year ended December 31, 2008, the Company
+agreed to issue a total of 1,233,984 shares of common stock to two directors for
+an advance cash payment of $13,884. The common stock was issued on January 31,
+2009 following the migratory merger to Nevada.
+
+On July 1, 2008, the Board of Directors unanimously adopted resolutions to
+reincorporate Physicians Insurance Services, Ltd. in the State of Nevada by
+merger with and into a Nevada corporation with the name PI Services, Inc., which
+Physicians Insurance Services, Ltd. formed for such purpose (the "Migratory
+Merger"), and to complete a 1 for 5 reverse stock split on the Company's common
+stock. Effective July 23, 2008, shareholders approved the Agreement and Plan of
+Merger.
+
+In accordance with the Agreement and Plan of Merger, effective January 12, 2009,
+Physicians Insurance Services, Ltd. became and adopted the capital structure of
+PI Services, Inc., which includes total authorized capital stock of 800,000,000
+shares, of which 780,000,000 are common stock, with a par value of $.001 per
+share and 20,000,000 shares are blank check preferred stock, with a par value of
+$.001 per share (the "Preferred Stock"). In addition, on January 12, 2009, the
+issued and outstanding shares of our common stock automatically converted into
+shares of PI Services, Inc. common stock at a ratio of one (1) share of our
+currently outstanding common stock for one (1) share of PI Services, Inc. common
+stock. The Company completed a 1 for 5 reverse split on its common stock
+effective March 20, 2009.
+
+All references in the accompanying financial statements to the number of shares
+authorized and outstanding have been retroactively adjusted to reflect the new
+capital structure and par values effective January 12, 2009, and the reverse
+stock split effective March 20, 2009.
+
+(4) Related Party Transactions
+
+The Company uses the offices of its majority shareholders for its minimal office
+facility needs for no consideration. No provision for these costs has been
+provided since it has been determined that they are immaterial.
+
+In July 2007, the Company issued 354,797 shares of its common stock to former
+shareholders of the Company (including 157,575 shares issued to 5 former
+directors of the Company) in consideration for the cancellation of $94,500 of
+convertible debt.
+
+On September 30, 2007 the Company issued 540,000 shares of its common stock to
+two directors and officers of the Company for a $6,116 cash payment. During the
+year ended December 31. 2008 the two directors and officers of the Company
+advanced the Company an additional $13,884 in exchange for additional share of
+common stock following the increase in the Company's authorized capital
+effective January 12, 2009. The shares were issued on January 31, 2009.
+
+At December 31, 2008 and 2007, the Company owed $14,956 and $3,211,
+respectively, to a related party for expenses of the Company. The advances are
+uncollateralized, bear no interest and are due on demand. Included in accounts
+payable related party at December 31, 2008 is $13,884, which was advanced by two
+directors of the Company in exchange for stock during the period ended June 30,
+2008. The shares were issued on January 31, 2009 following the reincorporation
+of the Company to the State of Nevada. The issuance resulted in the two
+directors having 80% ownership of the Company.
+
+
+                                      F-10
+
+                                    22 of 36
+<PAGE>
+
+                                PI SERVICES, INC.
+                          (A Development Stage Company)
+                          NOTES TO FINANCIAL STATEMENTS
+                           December 31, 2008 and 2007
+
+
+(5) Discontinued Operations
+
+In January 1995 the Company entered into an agreement to purchase a cemetery
+asset. In July 2007, after several years of minimal sales, the Board of
+Directors transferred the title of the cemetery and related assets back to its
+original owners. Prior to 2006, management had determined that the cemetery
+assets were impaired and had recorded a valuation allowance for the full amount.
+In addition, since the sale of the cemetery was treated as a Type I subsequent
+event, the liabilities related to the cemetery were also written off in the
+prior period. The transactions related to the cemetery are disclosed as
+discontinued operations.
+
+(6) Subsequent Events
+
+In accordance with the Agreement and Plan of Merger, to reincorporate the
+Company in the State of Nevada and merge into PI Services, Inc., a Nevada
+corporation, the Company effectively became PI Services, Inc. on January 12,
+2009. Additionally, the Company effected the 1 for 5 reverse split as part of
+the Merger with an effective date of March 20, 2009. The Company also issued the
+remaining 1,233,984 shares owed to two directors and officers of the Company on
+January 31, 2009 for an advance cash payment of $13,884 received in the period
+ending June 30, 2008 and resulting in the two directors owning approximately 80%
+of the outstanding common stock of the Company.
+
+
+
+
+
+
+
+                                      F-11
+
+                                    23 of 36
+<PAGE>
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DATA
+
+There are no disagreements with the accountants on accounting and financial
+disclosures.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+(a) Evaluation of disclosure controls and procedures.
+
+Our Chief Executive Officer and Chief Financial Officer (collectively the
+"Certifying Officers") maintain a system of disclosure controls and procedures
+that is designed to provide reasonable assurance that information, which is
+required to be disclosed, is accumulated and communicated to management timely.
+Under the supervision and with the participation of management, the Certifying
+Officers evaluated the effectiveness of the design and operation of our
+disclosure controls and procedures (as defined in Rule 13a-15(e)/15d-15(e)]
+under the Exchange Act) within 90 days prior to the filing date of this report.
+Based upon that evaluation, the Certifying Officers concluded that our
+disclosure controls and procedures are effective in timely alerting them to
+material information relative to our company required to be disclosed in our
+periodic filings with the SEC.
+
+Management's Annual Report on Internal Control over Financial Reporting.
+
+Our management is responsible for establishing and maintaining adequate internal
+control over financial reporting (as defined in Rule 13a-15(f) under the
+Exchange Act). Our internal control over financial reporting is a process
+designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in
+accordance with accounting principles generally accepted in the United States.
+
+Because of its inherent limitations, internal control over financial reporting
+may not prevent or detect misstatements. Therefore, even those systems
+determined to be effective can provide only reasonable assurance of achieving
+their control objectives. Furthermore, smaller reporting companies face
+additional limitations. Smaller reporting companies employ fewer individuals and
+find it difficult to properly segregate duties. Often, one or two individuals
+control every aspect of the Company's operation and are in a position to
+override any system of internal control. Additionally, smaller reporting
+companies tend to utilize general accounting software packages that lack a
+rigorous set of software controls.
+
+Our management, with the participation of the President, evaluated the
+effectiveness of the Company's internal control over financial reporting as of
+December 31, 2008. In making this assessment, our management used the criteria
+set forth by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO) in Internal Control -- Integrated Framework. Based on this
+evaluation, our management, with the participation of the President, concluded
+that, as of December 31, 2008, our internal control over financial reporting was
+not effective due to material weaknesses in the system of internal control.
+
+Specifically, management identified the following control deficiencies. (1) The
+Company has not properly segregated duties as one or two individuals initiate,
+authorize, and complete all transactions. The Company has not implemented
+measures that would prevent the individuals from overriding the internal control
+system. The Company does not believe that this control deficiency has resulted
+in deficient financial reporting because the Chief Financial Officer is aware of
+
+
+                                    24 of 36
+<PAGE>
+
+
+her responsibilities under the SEC's reporting requirements and personally
+certifies the financial reports. (2) The Company has installed accounting
+software that does not prevent erroneous or unauthorized changes to previous
+reporting periods and does not provide an adequate audit trail of entries made
+in the accounting software.
+
+Accordingly, while the Company has identified certain material weaknesses in its
+system of internal control over financial reporting, it believes that it has
+taken reasonable steps to ascertain that the financial information contained in
+this report is in accordance with generally accepted accounting principles.
+Management has determined that current resources would be appropriately applied
+elsewhere and when resources permit, they will alleviate material weaknesses
+through various steps.
+
+(b) Changes in internal controls.
+
+Our Certifying Officers have indicated that there were no changes in our
+internal controls or other factors that could significantly affect such controls
+subsequent to the date of his evaluation, and there were no such control actions
+with regard to significant deficiencies and material weaknesses.
+
+ITEM 9B.  OTHER INFORMATION
+
+None.
+
+                                    PART III
+
+ITEM 10.  DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+
+Officers and Directors
+
+The following table sets forth certain information concerning each of the
+Company's directors and executive officers:
+
+NAME                          AGE            POSITION
+
+Michael Friess                59             Chairman of the Board
+                                               President and CEO
+
+Sanford Schwartz              58             Vice President, Director
+
+Chloe DiVita                  31             Treasurer, Secretary,
+                                               Director and CFO
+
+There are no agreements or understandings for any officer or director to resign
+at the request of another person and none of the above named officers and
+directors are acting on behalf of or will act at the direction of any other
+person.
+
+There is no family relationship between any director or executive officer of the
+Company.
+
+The Board of Directors presently has no committees.
+
+
+                                    25 of 36
+<PAGE>
+
+
+Set forth below are the names of all directors and executive officers of the
+Company, all positions and offices with the Company held by each such person,
+the period during which he has served as such, and the business experience of
+such persons during at least the last five years:
+
+Michael Friess is a self-employed attorney licensed to practice law in the State
+of Colorado. He was a partner from January 1983 to December 1993 in the New York
+City law firm of Schulte, Roth & Zabel, where his practice emphasized taxation.
+Mr. Friess has served as a Director and Officer of the Company since August
+2007. Mr. Friess served on the Board of Directors of Oralabs Holding Corporation
+(NASDAQ: OLAB) from September 1997 until December 2006.
+
+Chloe DiVita joined the Company as an Officer and Director in August 2007. For
+the past seven (7) years, Mrs. DiVita has been self-employed accountant and
+business development consultant partnering on many projects with Creative
+Business Strategies, Inc., a business consulting firm.
+
+Sanford Schwartz has been a director of the Company since August 2007. Mr.
+Schwartz is the Chairman of Creative Business Strategies, Inc., a business
+consulting firm in Boulder, Colorado co-founded by Mr. Schwartz in 1985.
+
+Previous Blank-Check Experience
+
+Mr. Michael Friess, President and a director and executive officer of the
+Company, Mr. Sanford Schwartz a director of the Company, and Mrs. Chloe DiVita,
+Secretary and Treasurer of the Company, have all been involved either as an
+officer or director, or both, with other blank-check companies, which have
+completed some form of corporate reorganization. The officers and directors of
+the Company intend to work on developing additional registered blank check
+companies. The following is a list of the blank-check companies with which the
+Company's officers and directors have previously been involved during the last
+five years:
+
+Hemcure, Inc. (HMCU), Commission File #000-51543, was initially registered in
+May of 1987. The registrant was organized to provide administrative and
+marketing services to physicians or physician groups who emphasize outpatient
+non-surgical treatment for hemorrhoids. During June 2006, majority ownership and
+control of HMCU changed and became Aurasound, Inc. listed on the OTCBB symbol
+(ARAU). Current officers and directors of PI Services, Inc. are not currently
+officers, directors or employees of ARAU and, therefore, have no direct
+knowledge of the business operations or possible pending acquisition, business
+combinations or mergers of ARAU. ARAU appears to be current in all of its
+filings with the Securities and Exchange Commission.
+
+Implant Technologies, Inc. (IMLT), Commission File #000-17064, initially
+registered in 1980 was formed for the purpose of developing and marketing
+medical products. From April 2006 to July, 2007, Michael Friess served as
+Secretary and Treasurer, and Sanford Schwartz served as a Director of IMLT.
+During July 2007, majority ownership and control of IMLT changed and became
+Oasis Online Technologies Corp listed on the OTCBB symbol (OOLN), a company that
+is planning acquisitions in the online security and authentication market.
+Current officers and directors of PI Services, Inc. are not currently officers,
+directors or employees of OOLN and, therefore, have no direct knowledge of the
+business operations or possible pending acquisition, business combinations or
+mergers of OOLN. OOLN appears to be current in its filings with the Securities
+and Exchange Commission.
+
+Discovery Technologies, Inc. (DSVY), Commission File #000-18606, initially
+registered in 1987 was formed to design, manufacture and market video products
+that transmit pictures over standard voice-grade telephone lines. In June 2006,
+Craig T Rogers, the sole remaining director, appointed certain officers and
+
+
+                                    26 of 36
+<PAGE>
+
+
+directors of PI Services, Inc. as the new officers and directors of Discovery
+Technologies, Inc. During December 2007, majority ownership and control of DSVY
+changed and became China Green Agriculture listed on the OTCBB symbol (CGAG).
+Current officers and directors of the Company are not currently officers or
+directors or employees of CGAG and, therefore, have no direct knowledge of the
+business operations or possible pending acquisitions, business combinations or
+mergers of CGAG. CGAG appears to be current in its filings with the Securities
+and Exchange Commission.
+
+Certified Technologies Corporation (CFDT), Commission File #000-52786, initially
+registered in 1984 was formed to market a fire retardant chemical formulation to
+the commercial aviation and business furniture industries. In February 2007
+Joseph Whitney, the sole remaining director, appointed certain officers and
+directors of PI Services, Inc. as the new officers and directors of Certified
+Technologies Corporation. During May 2008, majority ownership and control of
+CFDT changed and became Zhaoheng Hydropower CO listed on the OTCBB symbol
+(ZHYP). Current officers and directors of the Company are not currently officers
+or directors or employees of ZHYP and, therefore, have no direct knowledge of
+the business operations or possible pending acquisitions, business combinations
+or merger of ZHYP. ZHYP appears to be current in all of its filings with the
+Securities and Exchange Commission.
+
+Henry County Plywood Corporation (HRYC), Commission File #000-53208, initially
+registered in 1948 was formed to purchase, lease, sell, manufacture and deal in
+lumber, and other wood products. In August 2006, the remaining board appointed
+Michael Friess as President and CEO of the company, and Sanford Schwartz as
+Director. In October 2007, Messrs Friess and Schwartz resigned as officers and
+directors of the Company, and in May 2008 Mr. Friess was reappointed to the
+Board. In January 2009, majority ownership and control of HRYC changed. Current
+officers and directors of the Company are not currently officers or directors or
+employees of HRYC and, therefore, have no direct knowledge of the business
+operations or possible pending acquisitions, business combinations or merger of
+HRYC. HRYC appears to be current in all of its filings with the Securities and
+Exchange Commission.
+
+Conflicts of Interest
+
+The Company's officers and directors have in the past and may in the future be
+officers and directors of other companies of a similar nature and with a similar
+purpose as the Company. Consequently, there are potential inherent conflicts of
+interest in Messrs Friess and Schwartz and Mrs. DiVita serving as officers and
+directors of the Company. Insofar as the officers and directors are engaged in
+other business activities, management anticipates it will devote only a minor
+amount of time to the Company's affairs. The officers and directors of the
+Company may in the future become shareholders, officers or directors of other
+companies which may be formed for the purpose of engaging in business activities
+similar to those conducted by the Company. The Company does not currently have a
+right of first refusal pertaining to opportunities that come to management's
+attention even if the opportunities relate to the Company's proposed business
+operations.
+
+The officers and directors are, so long as they are officers or directors of the
+Company, subject to the restriction that all opportunities contemplated by the
+Company's plan of operation which come to their attention in the performance of
+their duties as officers and directors of the Company will be considered
+opportunities of, and be made available to the Company. However, they are under
+no obligation to make any opportunities that come to their attention in the
+performance of their duties for any other companies or in any other manner
+available to the Company. Except as set forth above, the Company has not adopted
+any other conflict of interest policy with respect to such transactions.
+
+
+                                    27 of 36
+<PAGE>
+
+
+Investment Company Act of 1940
+
+Management believes the Company will not be subject to regulation under the
+Investment Company Act of 1940, insofar as the Company will not be engaged in
+the business of investing or trading in securities. In the event the Company
+engages in business combinations, which result in the Company holding passive
+investment interests in a number of entities, the Company could be subject to
+regulation under the Investment Company Act of 1940. In such event, the Company
+would be required to register as an investment company and could be expected to
+incur significant registration and compliance costs. The Company has obtained no
+formal determination from the Securities and Exchange Commission as to the
+status of the Company under the Investment Company Act of 1940. Any violation of
+such Act would subject the Company to material adverse consequences.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+None of the Company's officers and/or directors receives any compensation for
+their respective services rendered to the Company, nor have they received such
+compensation since the renewal of the Company's charter. They have agreed to act
+without compensation until authorized by the Board of Directors, which is not
+expected to occur until the Company has generated revenues from operations after
+consummation of a merger or acquisition. As of the date of this registration
+statement, the Company has minimal funds available to pay directors. Further,
+none of the directors are accruing any compensation pursuant to any agreement
+with the Company.
+
+It is possible that, after the Company successfully consummates a merger or
+acquisition with an unaffiliated entity, that entity may desire to employ or
+retain one or more members of the Company's management for the purposes of
+providing services to the surviving entity, or otherwise provide other
+compensation to such persons. However, the Company has adopted a policy whereby
+the offer of any post-transaction remuneration to members of management will not
+be a consideration in the Company's decision to undertake any proposed
+transaction. Each member of management has agreed to disclose to the Company's
+Board of Directors any discussions concerning possible compensation to be paid
+to them by any entity which proposes to undertake a transaction with the Company
+and further, to abstain from voting on such transaction. Therefore, as a
+practical matter, if each member of the Company's Board of Directors is offered
+compensation in any form from any prospective merger or acquisition candidate,
+the proposed transaction will not be approved by the Company's Board of
+Directors as a result of the inability of the Board to affirmatively approve
+such a transaction.
+
+It is possible that persons associated with management may refer a prospective
+merger or acquisition candidate to the Company. In the event the Company
+consummates a transaction with any entity referred by associates of management,
+it is possible that such an associate will be compensated for their referral. It
+is anticipated that this compensation would be either in the form of restricted
+common stock issued by the Company as part of the terms of the proposed
+transaction, or will be in the form of cash consideration. However, if such
+compensation is in the form of cash, such payment will be tendered by the
+acquisition or merger candidate, because the Company has minimal cash available.
+The amount of such compensation, if any, cannot be determined as of the date of
+this registration statement.
+
+No retirement, pension, profit sharing, stock option or insurance programs or
+other similar programs have been adopted by the Registrant for the benefit of
+its employees.
+
+
+                                    28 of 36
+<PAGE>
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+RELATED STOCKHOLDER MATTERS
+
+Principal Stockholders
+
+The following table sets forth certain information as of March 20, 2009
+regarding the beneficial ownership of the Company's common stock by (i) each
+stockholder known by the Company to be the beneficial owner of more than 5% of
+the Company's common stock, (ii) by each director and executive officer of the
+Company and (iii) by all executive officer's and directors of the Company as a
+group. Each of the persons named in the table has sole voting and investment
+power with respect to common stock beneficially owned. Share numbers have been
+adjusted to reflect the one-for-five reverse stock split effective March 20,
+2009.
+
+NAME AND ADDRESS                     NUMBER OF           PERCENTAGE
+                                   SHARES OWNED          OF SHARES
+                                   OR CONTROLLED           OWNED
+
+Michael Friess                        886,992              40.00%
+5353 Manhattan Circle Ste 101
+Boulder, Colorado 80303
+
+Sanford Schwartz                      886,992              40.00%
+5353 Manhattan Circle Ste 101
+Boulder, Colorado 80303
+
+Chloe DiVita                                0               0.00%
+5353 Manhattan Circle Ste 101
+Boulder, Colorado 80303
+
+All Officers and Directors          1,773,984              80.00%
+as a Group
+
+ITEM 13.  CERTAIN RELATIONSHIPS, RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE
+
+No officer, director, promoter, or affiliate of the Company has or proposes to
+have any direct or indirect material interest in any asset that we propose to
+acquire through security holdings, contracts, options, or otherwise.
+
+We may pay any consulting or finder's fee for consulting services to assist
+management in evaluating a prospective business opportunity in stock or in cash.
+Any such issuance of stock would be made on an ad hoc basis. Accordingly, we are
+unable to predict whether or in what amount such a stock issuance might be made.
+
+We maintain our offices at the offices of our majority shareholders, for which
+we pay no rent. We anticipate that following the consummation of a business
+combination with an acquisition candidate, our office will be moved, but cannot
+predict future office or facility arrangements with our officers, directors or
+affiliates.
+
+Although we have no current plans to do so, it is possible that we may enter
+into an agreement with an acquisition candidate requiring the sale of all or a
+portion of the common stock held by our current shareholders to the acquisition
+candidate or principals thereof, or to other individuals or business entities,
+or requiring some other form of payment to our current shareholders, or
+requiring the future employment of specified officers and payment of salaries to
+
+
+                                    29 of 36
+<PAGE>
+
+
+them. It is more likely than not that any sale of securities by our current
+shareholders to an acquisition candidate would be at a price substantially
+higher than that originally paid by such shareholders. Any payment to current
+shareholders in the context of an acquisition in which we are involved would be
+determined entirely by the largely unforeseeable terms of a future agreement
+with an unidentified business entity.
+
+On September 30, 2007, the Company issued 540,000 shares of its common stock to
+two directors of the Company, (Sanford Schwartz and Michael Friess), for a
+$6,116 cash payment. This resulted in a change in control in the Company. In
+connection with the sale, the Company agreed to issue additional shares for cash
+following the proposed increase in the Company's authorized capital stock
+resulting in the two directors owning approximately 80% of the outstanding stock
+of the Company. On January 12, 2009, the company completed a migratory merger
+becoming PI Services, Inc., a Nevada corporation, and issued the remaining
+1,233,984 shares due to Messrs Friess and Schwartz on January 31, 2009.
+
+During the period ended December 31, 2008 and December 31, 2007, a related party
+paid for expenses of the Company totaling $14,956 and $3,211, respectively. The
+advances are uncollateralized, bear no interest and are due on demand.
+Securities issued by blank check companies cannot be resold under Rule 144 so
+long as the company remains a blank check company but must be registered under
+the Securities Act of 1933. The Company has no obligation to register these or
+any other shares under the Securities Act of 1933.
+
+The proposed business activities described herein classify the Company as a
+"blank check" company. Many states have enacted statutes, rules and regulations
+limiting the sale of securities of "blank check" companies in their respective
+jurisdictions. Management does not intend at this time to undertake any efforts
+to cause a market to develop in the Company's securities until such time as the
+Company has successfully implemented its business plan described herein.
+
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+Audit Fees
+
+The aggregate fees billed during the years ended December 31, 2008 and 2007 for
+professional services rendered by our principal accountant for the audit of our
+annual financial statements were $12,000.
+
+Audit Related Fees
+
+The Company incurred no fees for the year ended December 31, 2008 and 2007 for
+audit related services by our principal accountant that were reasonably related
+to the performance of the audit or review of our financial statements, and not
+reported under Audit Fees above.
+
+Tax Fees
+
+The Company incurred no fees for professional services rendered by our principal
+accountant for tax compliance, tax advice, and tax planning for the year ended
+December 31, 2008 and 2007.
+
+All Other Fees
+
+We did not incur any fees for other professional services rendered by our
+independent auditors during the fiscal year ended December 31, 2008 and 2007.
+
+
+                                    30 of 36
+<PAGE>
+
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENTS SCHEDULES
+
+Exhibit Index
+
+3.1      Articles of Incorporation with Amendments
+3.2      Bylaws of the Company
+4.1      Specimen Stock Certificate
+31.1     Section 302 Certification of Chief Executive Officer
+31.2     Section 302 Certification of Chief Financial Officer
+32.1     Section 906 Certification of Chief Executive Officer
+32.2     Section 906 Certification of Chief Financial Officer
+
+
+
+
+
+
+
+
+
+
+
+                                    31 of 36
+<PAGE>
+
+
+SIGNATURES
+
+In accordance with Section 12 of the Securities and Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+REGISTRANT                     PI SERVICES, INC.
+
+(Date)                       March 24, 2009
+BY(Signature)                /s/ Michael Friess
+(Name and Title)             Michael Friess
+                             President, Chief Executive Officer
+
+
+(Date)                       March 24, 2009
+BY(Signature)                /s/ Chloe DiVita
+(Name and Title)             Chloe DiVita
+                             Treasurer, Secretary and Chief
+                             Financial Officer
+
+
+
+
+
+
+
+
+
+                                    32 of 36
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>pi10k123108ex31.txt
+<DESCRIPTION>ARTICLES OF INCORPORATION WITH AMENDMENTS
+<TEXT>
+
+Exhibit 3.1
+
+                           ARTICLES OF INCORPORATION
+                                       OF
+                               PI SERVICES, INC.
+
+       KNOW ALL BY THESE PRESENTS, that the undersigned desiring to be
+incorporated as a Corporation in accordance with the taws of the State of
+Nevada, hereby certifies and adopts the following Articles of Incorporation the
+terms whereof have been agreed upon to be equally obligatory upon the party
+signing this instrument and all others who may from time to time hereafter
+become members of this Corporation and who may hold stock therein.
+
+                                   ARTICLE I
+
+       The name of the Corporation is: PI SERVICES, INC.
+
+                                   ARTICLE II
+
+       The name and address of the registered agent of the Corporation in the
+State of Nevada is:
+
+       National Registered Agents, Inc. of NV
+       1000 East William, Suite 204
+       Carson City, NV 89701
+
+Principal and branch offices may hereinafter be established at such place or
+places, either within or without the State of Nevada as may from time to time be
+determined by the Board of Directors.
+
+                                  ARTICLE III
+
+The nature and purpose of this business shall be to conduct any lawful
+activity governed by the laws of the State of Nevada.
+
+                                   ARTICLE IV
+
+       The authorized capital stock of this Corporation is 800,000,000 shares of
+capital stock, consisting of 780,000,000 shares of common stock with full voting
+rights and with a par value of $0.001 per share, and 20,000,000 shares of
+preferred stock, with a par value of $0.001 per share (the "Preferred Stock").
+
+       The Preferred Stock may be issued from time to time in one or more series
+with such designations, preferences and relative participating, optional or
+other special rights and qualifications, limitations or restrictions thereof, as
+shall be stated in the resolutions adopted by the Corporation's Board providing
+for the issuance of such Preferred Stock or series thereof; and the Board is
+hereby vested with authority to fix such designations, preferences and relative
+participation, optional or other special rights or qualifications, limitations,
+or restrictions for each series, including, but not by way limitation, the power
+to fix the redemption and liquidation preferences, the rate of dividends payable
+and the time for and the priority of payment thereof
+
+
+<PAGE>
+
+
+and to determine whether such dividends shall be cumulative or not and to
+provide for and fix the terms of conversion of such Preferred Stock or any
+series thereof into Common Stock of the Corporation and fix the voting power, if
+any, of shares of Preferred Stock or any series thereof.
+
+       Pursuant to NRS 78.385 and NRS 78.390, any successor statutory
+provisions, the Board is authorized to adopt a resolution to increase, decrease,
+add, remove or otherwise alter any current or additional classes or series of
+this Corporation's capital stock by a board resolution amending these Articles,
+in the Board's sole discretion for increases or decreases of any class or series
+of authorized stock where applicable pursuant to NRS 78.207 and any successor
+statutory provision, or otherwise subject to the approval of the holders of at
+least a majority of shares having voting rights, either in a special meeting or
+the next annual meeting of shareholders. Notwithstanding the foregoing, where
+any shares of any class or series would be materially and adversely affected by
+such change, shareholder approval by the holders of at least a majority of such
+adversely affected shares must also be obtained before filing an amendment with
+the Office of the Secretary of State of Nevada. The capital stock of this
+Corporation shall be non-assessable and shall not be subject to assessment to
+pay the debts of the Corporation.
+
+                                   ARTICLE V
+
+       Members of the Board shall be known and styled as "Directors" and the
+number thereof shall be one (1) and may be increased or decreased from time to
+time pursuant to the Bylaws. The name and address of the first Board of
+Directors is as follows:
+
+                                 Michael Friess
+                             5353 Manhattan Circle
+                                   Suite 101
+                            Boulder, Colorado 80303
+
+       The number of members of the Board shall not be less than one (1) or more
+than nine (9). The officers of the Corporation shall be a President, Secretary
+and Treasurer. The Corporation may have such additional officers as may be
+determined from time to time in accordance with the Bylaws. The officers shall
+have the powers, perform the duties, and be appointed as may be determined in
+accordance with the Bylaws and laws of the State of Nevada. Any person may hold
+two (2) or more offices in this Corporation.
+
+                                   ARTICLE VI
+
+       The Corporation shall have perpetual succession by its corporate name and
+shall have all the powers herein enumerated or implied herefrom and the powers
+now provided or which may hereafter be provided by law for corporations in the
+State of Nevada.
+
+                                  ARTICLE VII
+
+       No shareholder shall be liable for the debts of the Corporation beyond
+the amount that may be due or unpaid upon any share or shares of stock of this
+Corporation owned by that person.
+
+
+
+                                      -2-
+<PAGE>
+
+
+                                  ARTICLE VIII
+
+       Each shareholder entitled to vote at any election for Directors shall
+have the right to vote, in person or by proxy, the number of shares owned by
+such shareholder for each Director to be elected. Shareholders shall not be
+entitled to cumulative voting rights.
+
+                                   ARTICLE IX
+
+       The Directors shall have the powers to make and alter the Bylaws of the
+Corporation. Bylaws made by the Board under the powers so conferred may be
+altered amended, or repealed by the Board or by the shareholders at any meeting
+called and held or that purpose.
+
+                                   ARTICLE X
+
+       The Corporation specifically elects not to be governed by NRS 78.411 to
+NRS 78.444, inclusive, and successor statutory provisions.
+
+                                   ARTICLE XI
+
+       The Corporation shall indemnify all Directors, officers, employees, and
+agents to the fullest extent permitted by Nevada law as provided within NRS
+78.7502 and NRS 78.751 or any other law then in effect or as it may hereafter be
+amended. The corporation shall indemnify each present and future Director,
+officer, employee or agent of the Corporation who becomes a party or is
+threatened, and whether said suit or proceeding is civil, criminal
+administrative, investigative or otherwise, except and action by or in the right
+of the Corporation, by reason of the fact that he is or was a Director, officer,
+employee, or agent of the Corporation, or is or was serving at the request of
+the Corporation as a Director, officer, employee, or a gent of another
+corporation, partnership , joint venture, trust, o other enterprise, against
+expenses, including , but not limited to, attorneys' fees, judgments, fines, and
+amounts paid in settlement actually and reasonably incurred by him in connection
+with the action, suit, proceeding or settlement, provided such person acted in
+good faith and in a manner which he reasonable believed to be in or not opposed
+to the best interest of the Corporation, and with respect to any criminal action
+or proceeding, had no reasonable cause to believe his conduct was unlawful.
+
+       The expenses of Directors, officers, employees or agent of the
+Corporation incurred in defending a civil or criminal action, suit, or
+proceeding may be paid by the Corporation as they are incurred and in advance of
+the final disposition of the action, suit, or proceeding, if and only if the
+Director, officer, employee or agent undertakes to repay said expenses to the
+Corporation if it is ultimately determined by a court of competent jurisdiction,
+after exhaustion of all appeals therefrom, that he is not entitled to be
+indemnified by the Corporation. No indemnification shall be applied, and any
+advancement of expenses to or on behalf of any Director, officer, employee or
+agent must be returned to the Corporation, if a final adjudication establishes
+that person's acts or omissions involved a breach of any fiduciary duties, where
+applicable, intentional misconduct, fraud or a knowing violation of the law
+which was material to the cause of action.
+
+
+                                      -3-
+
+<PAGE>
+
+
+                                  ARTICLE XII
+
+       The name and address of the incorporator of this Corporation is:
+
+                               Lindley S. Branson
+                             80 South Eight Street
+                                   Suite 500
+                          Minneapolis, Minnesota 55402
+
+       IN WITNESS WHEREOF, the undersigned incorporator has executed these
+Articles of Incorporation of PI SERVICES, INC. on July 21, 2008.
+
+
+
+
+
+                                            /s/ Lindley S. Branson
+                                           ------------------------------------
+                                           Lindley S. Branson, Incorporator
+
+
+
+
+
+
+
+
+
+                                      -4-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.2
+<SEQUENCE>3
+<FILENAME>pi10k123108ex32.txt
+<DESCRIPTION>BYLAWS
+<TEXT>
+
+Exhibit 3.2
+
+                                    BYLAWS OF
+                                PI SERVICES, INC.
+
+                               ARTICLE I: OFFICES
+
+1.1 REGISTERED OFFICE The registered office shall be in the City of Carson City,
+County of Carson City, State of Nevada.
+
+1.2 ADDITIONAL OFFICES.. The corporation may also have offices at such other
+places both within and without the State of Nevada as the Board of Directors may
+from time to time determine or the business of the corporation may require.
+
+                       ARTICLE II: SHAREHOLDERS' MEETINGS
+
+2.1      ANNUAL MEETINGS
+
+         Regular meetings of the shareholders of this corporation may be held at
+the discretion of the Board of Directors on an annual or less frequent periodic
+basis on such date and at such time and place as may be designated by the Board
+of Directors in the notice of meeting. At regular meetings the shareholders
+shall elect a Board of Directors and transact such other business as may be
+appropriate for action by shareholders. If a regular meeting of shareholders has
+not been held for a period of fifteen (15) months, one or more shareholders
+entitled to vote may call a regular meeting of shareholders by delivering to the
+President or Treasurer a written demand for a regular meeting. Within thirty
+(30) days after the receipt of such written demand by the President or
+Treasurer, the Board of Directors shall cause a regular meeting of shareholders
+to be called and held on notice no later than ninety (90) days after the receipt
+of written demand, all at the expense of the corporation.
+
+2.2      SPECIAL MEETINGS
+
+         Special meetings of the shareholders for any purpose may be called at
+any time by the President, or by the Board of Directors, or by any two or more
+members thereof, or by one or more shareholders holding not less than twenty
+percent (20%) of the voting power of the Corporation. Such meetings shall be
+held at the principal office of the Corporation or at such other place within or
+without the State of Nevada as may be designated in the notice of meeting. No
+business shall be transacted at any special meeting of the shareholders except
+as is specified in the notice calling for such special meeting.
+
+2.3      NOTICE OF MEETINGS
+
+         2.3.1 Notices of meetings, annual or special, to shareholders entitled
+to vote shall be given in writing and signed by the President or a
+Vice-President or the Secretary or the Assistant Secretary, or by any other
+natural person designated by the Board of Directors.
+
+         2.3.2 Such notices shall be sent to the shareholder's address appearing
+on the books of the Corporation, or supplied by him to the Corporation for the
+purpose of notice, not less than ten (10) nor more than sixty (60) days before
+such meeting. Such notice shall be deemed delivered, and the time of the notice
+shall begin to run, upon being deposited in the mail.
+
+
+<PAGE>
+
+
+         2.3.3 Notice of any meeting of shareholders shall specify the place,
+the day and the hour of the meeting, and in case of a special meeting shall
+state the purpose(s) for which the meeting is called.
+
+         2.3.4 When a meeting is adjourned to another time, date or place,
+notice of the adjourned meeting need not be given if announced at the meeting at
+which the adjournment is given.
+
+         2.3.5 Any shareholder may waive notice of any meeting by a writing
+signed by him, or his duly authorized attorney, either before or after the
+meeting.
+
+         2.3.6 No notice is required for matters handled by the consent of the
+shareholders pursuant to NRS 78.320.
+
+         2.3.7 No notice is required of the annual shareholders meeting, or
+other notices, if two annual shareholder notices are returned to the corporation
+undelivered pursuant to NRS 78.370(7).
+
+2.4      CONSENT TO SHAREHOLDER MEETINGS AND ACTION WITHOUT MEETING
+
+         2.4.1 Any meeting is valid wherever held by the written consent of all
+persons entitled to vote thereat, given either before or after the meeting.
+
+         2.4.2 The transactions of any meeting of shareholders, however called
+and noticed, shall be valid as though if taken at a meeting duly held after
+regular call and notice if a quorum be present either in person or by proxy, and
+if, either before or after the meeting, each of the shareholders entitled to
+vote, not present in person or by proxy, signs a written waiver of notice, or
+consent to the holding of such meeting, or an approval of the minutes thereof.
+
+         2.4.3 Any action that could be taken by the vote of shareholders at a
+meeting, may be taken without a meeting if authorized by the written consent of
+shareholders holding at least a majority of the voting power (NRS 78.320), and
+any actions at meetings not regularly called shall be effective subject to the
+ratification and approval provisions of NRS 78.325.
+
+         2.4.4 All such waivers, consents or approvals shall be filed with the
+corporate records, or made a part of the minutes of the meeting.
+
+2.5      QUORUM
+
+         The holders of a majority of the shares entitled to vote thereat,
+present in person or by proxy, shall constitute a quorum for the transaction of
+business.
+
+
+                                      -2-
+<PAGE>
+
+
+2.6      VOTING RIGHTS
+
+         Except as may be otherwise provided in the Corporation's Articles of
+Incorporation, Bylaws or by the Laws of the State of Nevada, each shareholder
+shall be entitled to one (1) vote for each share of voting stock registered in
+his name on the books of the Corporation, and the affirmative vote of a majority
+of voting shares represented at a meeting and entitled to vote thereat shall be
+necessary for the adoption of a motion or for the determination of all questions
+and business which shall come before the meeting.
+
+2.7      PROXIES
+
+         Subject to the limitation of NRS 78.355, every person entitled to vote
+or to execute consents may do so either in person or by proxy executed by the
+person or by his duly authorized agent.
+
+                       ARTICLE III: DIRECTORS - MANAGEMENT
+
+3.1      POWERS
+
+         Subject to the limitation of the Articles of Incorporation, of the
+Bylaws and of the Laws of the State of Nevada as to action to be authorized or
+approved by the shareholders, all corporate powers shall be exercised by or
+under authority of, and the business and affairs of this Corporation shall be
+controlled by, a Board of at least one (1) Director.
+
+3.2      ELECTION AND TENURE OF OFFICE
+
+         The number of Directors which shall constitute the whole board shall be
+one (1)
+
+         The number of Directors may from time to time be increased to not less
+than one (1) nor more than nine (9) by action of the Board of Directors. The
+Directors shall be elected at the annual meeting of shareholders and except as
+provided in Section 3.3 of this Article, each Director elected shall hold office
+until his successor is elected and qualified. Directors need not be
+shareholders. A Director need not be a resident of the State of Nevada.
+
+3.3      REMOVAL AND RESIGNATION
+
+         3.3.1 Any Director may be removed either with or without cause, as
+provided by NRS 78.335.
+
+         3.3.2 Any Director may resign at any time by giving written notice to
+the Board of Directors or to the President, or to the Secretary of the
+Corporation. Any such resignation shall take effect at the date of the receipt
+of such notice or any later time specified therein; and unless otherwise
+specified therein, the acceptance of such resignation shall not be necessary to
+make it effective.
+
+
+                                      -3-
+<PAGE>
+
+
+3.4      VACANCIES
+
+         Vacancies in the Board of Directors may be filled by a majority of the
+remaining Directors, though such action by less than a quorum or by a sole
+remaining Director shall be adequate, and each Director so elected shall hold
+office until his successor is elected at an annual meeting of shareholders or at
+a special meeting called for that purpose. The shareholders may at any time
+elect a Director to fill any vacancy not filled by the directors.
+
+3.5      PLACE OF MEETINGS AND MEETINGS BY TELEPHONE
+
+         Meetings of the Board of Directors may be held at any place within or
+without the State of Nevada that has been designated by the Board of Directors.
+In the absence of such designation, meetings shall be held at the principal
+office of the Corporation. Any meeting, regular or special, may be held by
+conference telephone or similar communication equipment, and all such Directors
+shall be deemed to be present in person at the meeting, so long as all Directors
+participating in the meeting can hear one another.
+
+3.6      ANNUAL ORGANIZATIONAL MEETINGS
+
+         The annual organizational meetings of the Board of Directors shall be
+held immediately following the adjournment of the annual meetings of the
+shareholders. No notice of such meetings need be given.
+
+3.7      OTHER REGULAR MEETINGS
+
+         There shall be no requirement for the Board of Directors to hold
+regular meetings, other than the annual organizational meeting.
+
+3.8      SPECIAL MEETINGS - NOTICES
+
+         3.8.1 Special meetings of the Board of Directors for any purpose shall
+be called at any time by the President or if he is absent or unable or refuses
+to act, by any Vice President or by any two Directors.
+
+         3.8.2 Written notice of the time and place of special meetings of the
+Board of Directors shall be delivered personally to each Director or sent to
+each Director by mail or other form of written communication at least
+forty-eight (48) hours before the meeting. Notice of the time and place of
+holding an adjourned meeting need not be given to absent Directors if the time
+and place are fixed at the meeting adjourned.
+
+3.9      CONSENT TO DIRECTORS MEETINGS AND ACTION WITHOUT MEETING
+
+         3.9.1 Any meeting is valid wherever held by the written consent of all
+persons entitled to vote thereat, given either before or after the meeting.
+
+         3.9.2 The transactions of any meetings of the Board of Directors,
+however called and noticed or wherever held, shall be as valid as though had at
+a meeting duly held after regular call and notice if all the Directors are
+present, or if a quorum is present and either before or after the meeting, each
+of the Directors not present signs a written waiver of notice, a consent to the
+holding of the meeting, or an approval of the minutes thereof.
+
+
+                                      -4-
+<PAGE>
+
+
+         3.9.3 Any action required or permitted to be taken by the Board of
+Directors may be taken without a meeting, if all members of the Board shall
+individually or collectively consent in writing to such action. Such action by
+written consent shall have the same force and effect as a unanimous vote of the
+Board of Directors.
+
+         3.9.4 All such waivers, consents, or approvals shall be filed with the
+Corporate records or made part of the minutes of the meeting.
+
+3.10     QUORUM AND VOTING RIGHTS
+
+         So long as the Board of Directors is composed of one or two Directors,
+one of the authorized Directors constitutes a quorum for the transaction of
+business. If there are three or more Directors, a majority thereof shall
+constitute a quorum. Except as may be otherwise provided in the Corporation's
+Articles of Incorporation, Bylaws or by the Laws of the State of Nevada, the
+affirmative vote of a majority of Directors represented at a meeting and
+entitled to vote thereat shall be necessary for the adoption of a motion or
+resolution or for the determination of all questions and business which shall
+come before the meeting.
+
+3.11     COMPENSATION
+
+         Directors may receive such reasonable compensation for their services
+as Directors and such reimbursement for expenses incurred in attending meetings
+as may be fixed from time to time by resolution of the Board of Directors. No
+such payment shall preclude a Director from serving in any other capacity and
+receiving compensation therefor.
+
+                              ARTICLE IV: OFFICERS
+
+4.1      OFFICERS
+
+         The Board of Directors shall appoint a President, a Secretary and a
+Treasurer. The Board of Directors, in their discretion, may also appoint a Chair
+of the Board, a Chief Executive Officer, a Chief Financial Officer, one or more
+Vice Presidents and such other officers and assistant officers as they shall
+from time to time deem proper. Any two or more offices may be held by the same
+person. The Board may choose not to fill any of the other officer positions for
+any period.
+
+4.2      APPOINTMENT AND TERM OF OFFICE
+
+         The officers of the corporation shall be appointed by the Board of
+Directors at the first meeting of the Directors. If the appointment of officers
+shall not be held at such meeting, such appointment shall be held as soon
+thereafter as conveniently may be. Each officer shall hold office until a
+successor shall have been duly appointed and qualified or until the officer's
+death or until the officer resigns or is removed in the manner hereinafter
+provided.
+
+
+                                      -5-
+<PAGE>
+
+
+4.3      REMOVAL
+
+         Any officer or agent appointed by the Board of Directors may be removed
+by the Board of Directors at any time with or without cause, but such removal
+shall be without prejudice to the contract rights, if any, of the person so
+removed.
+
+4.4      VACANCIES
+
+         A vacancy in any office because of death, resignation, removal,
+disqualification, or otherwise, may be filled by the Board of Directors.
+
+4.5      CHAIR OF THE BOARD
+
+         The Chair of the Board, if there be such an office, shall, if present,
+preside at all meetings of the Board of Directors and meetings of the
+shareholders, and exercise and perform such other powers and duties as may be
+from time to time assigned to the Chair by the Board of Directors. In the event
+that there is no Chair of the Board designated or present, the Secretary of the
+Board of Directors shall preside over the meeting, or if there is no Secretary
+of the Board of Directors designated or present at the meeting, the Directors
+present at any meeting of the Board of Directors shall designate a Director of
+their choosing to serve as temporary chair to preside over the meeting.
+
+4.6      CHIEF EXECUTIVE OFFICER
+
+         Subject to the control of the Board of Directors and such supervisory
+powers, if any, as may be given by the Board of Directors to another person or
+persons, the powers and duties of the Chief Executive Officer shall be: To act
+as the general manager and, subject to the control of the Board of Directors, to
+have general supervision, direction and control of the business and affairs of
+the Corporation; To see that all orders and resolutions of the Board of
+Directors are carried into effect; To maintain records of and, whenever
+necessary, certify all proceedings of the Board of Directors and the
+shareholders; and To affix the signature of the Corporation to all deeds,
+conveyances, mortgages, guarantees, leases, obligations, bonds, certificates and
+other papers and instruments in writing which have been authorized by the Board
+of Directors or which, in the judgment of the Chief Executive Officer, should be
+executed on behalf of the Corporation; to sign certificates for the
+Corporation's shares; and, subject to the direction of the Board of Directors,
+to have general charge of the property of the Corporation and to supervise and
+control all officers, agents and employees of the corporation.
+
+4.7      CHIEF FINANCIAL OFFICER OR TREASURER
+
+         Subject to the control of the Board of Directors and such supervisory
+powers, if any, as may be given by the Board of Directors to another person or
+persons, the powers and duties of the Chief Financial Officer or Treasurer shall
+be to: keep accurate financial records for the Corporation; deposit all money,
+
+
+                                      -6-
+<PAGE>
+
+
+drafts and checks in the name of and to the credit of the Corporation in the
+banks and depositories designated by the board of directors; endorse for deposit
+all notes, checks, drafts received by the Corporation as ordered by the Board of
+Directors, making proper vouchers therefore; disburse corporate funds and issue
+checks and drafts in the name of the Corporation, as ordered by the Board of
+Directors; render to the Chief Executive Officer and the Board of Directors,
+whenever requested, an account of all transactions by the Chief Financial
+Officer and the financial condition of the Corporation; and perform all other
+duties prescribed by the Board of Directors or the Chief Executive Officer.
+
+4.8      PRESIDENT
+
+         Unless otherwise determined by the Board of Directors, the President
+shall be the Chief Executive Officer of the Corporation. If an officer other
+than the President is designated as the Chief Executive Officer, the President
+shall perform such duties as may from time to time be assigned by the Board of
+Directors. The President shall have the duty to call meetings of the
+shareholders or Board of Directors, as set forth in Section 3.8.1, above, to be
+held at such times and, subject to the limitations prescribed by law or by these
+Bylaws, at such places as the President shall deem proper.
+
+4.9      VICE PRESIDENTS
+
+         In the absence of the President or in the event of the President's
+death, inability or refusal to act, the Vice President (or in the event there
+shall be more than one Vice President, the Vice Presidents in the order
+designated at the time of their appointment, or in the absence of any
+designation then in the order of their appointment) shall perform the duties of
+the President, and when so acting shall have all the powers of and be subject to
+all the restrictions upon the President; and shall perform such other duties as
+from time to time may be assigned to the Vice President by the President or by
+the Board of Directors. In the event there are no Vice Presidents, the Board of
+Directors may designate a member of the Board of Directors or another officer of
+the Corporation to serve in such capacity until a new President is appointed.
+
+4.10     SECRETARY
+
+         The Secretary shall: (a) prepare the minutes of the shareholders' and
+Board of Directors' meetings and keep them in one or more books provided for
+that purpose; (b) authenticate such records of the Corporation as shall from
+time to time be required; (c) see that all notices are duly given in accordance
+with the provisions of these Bylaws or as required by law; (d) be custodian of
+the corporate records and of the corporate seal, if any, and see that the seal
+of the Corporation, if any, is affixed to all documents the execution of which
+on behalf of the Corporation under its seal is duly authorized; (e) keep a
+register of the post office address of each shareholder; (f) if requested, sign
+with the President certificates for shares of the Corporation, the issuance of
+which shall have been authorized by resolution of the Board of Directors; (g)
+have general charge of the stock transfer books of the Corporation; and (h) in
+general perform all duties incident to the office of Secretary and such other
+duties as from time to time may be assigned to the Secretary by the Chief
+Executive Officer or the Board of Directors.
+
+
+                                      -7-
+<PAGE>
+
+
+4.11     DELEGATION OF AUTHORITY
+
+         The Board of Directors may from time to time delegate the powers of any
+officer to any other officer or agent, notwithstanding any provision hereof,
+except as may be prohibited by law.
+
+4.12     COMPENSATION
+
+         Officers shall be awarded such reasonable compensation for their
+services and provisions made for their expenses incurred in attending to and
+promoting the business of the Corporation as may be fixed from time to time by
+resolution of the Board of Directors.
+
+                              ARTICLE V: COMMITTEES
+
+         The Board of Directors may appoint and prescribe the duties of an
+executive committee and such other committees, as it may from time to time deem
+appropriate. Such committees shall hold office at the pleasure of the Board.
+
+                  ARTICLE VI: RECORDS AND REPORTS - INSPECTION
+
+6.1      INSPECTION OF BOOKS AND RECORDS
+
+         All books and records provided for by Nevada Revised Statutes shall be
+open to inspection of the directors and shareholders to the extent provided by
+such statutes. (NRS 78.105)
+
+6.2      CERTIFICATION AND INSPECTION OF BYLAWS
+
+         The original or a copy of these Bylaws, as amended or otherwise altered
+to date, certified by the Secretary, shall be open to inspection by the
+shareholders of the company in the manner provided by law.
+
+6.3      CHECKS, DRAFTS, ETC.
+
+         All checks, drafts or other orders for payment of money, notes or other
+evidences of indebtedness, issued in the name of or payable to the Corporation,
+shall be signed or endorsed by such person or persons and in such manner as
+shall be determined from time to time by resolution of the Board of Directors.
+
+6.4      ANNUAL REPORT
+
+         No annual report to shareholders shall be required; but the Board of
+Directors may cause to be sent to the shareholders annual or other reports in
+such form as may be deemed appropriate by the Board of Directors.
+
+
+                                      -8-
+<PAGE>
+
+
+                        ARTICLE VII: AMENDMENTS TO BYLAWS
+
+         New Bylaws may be adopted or these Bylaws may be repealed or amended by
+a vote or the written assent of either shareholders entitled to exercise a
+majority of the voting power of the Corporation, or by a majority of the number
+of Directors authorized to conduct the business of the Corporation.
+
+                          ARTICLE VIII: CORPORATE SEAL
+
+         This Corporation shall have the power to adopt and use a common seal or
+stamp, and to alter the same, at the pleasure of the Board of Directors. The use
+or nonuse of a seal or stamp, whether or not adopted, shall not be necessary to,
+nor shall it in any way effect, the legality, validity or enforceability of any
+corporate action or document (NRS 78.065)
+
+                        ARTICLE IX: CERTIFICATES OF STOCK
+
+9.1      FORM
+
+         Certificates for shares shall be of such form and device as the Board
+of Directors may designate and shall state the name of the record holder of the
+shares represented thereby, its number; date of issuance; the number of shares
+for which it is issued; a statement of the rights, privileges, preferences and
+restrictions, if any; and statement of liens or restrictions upon transfer or
+voting, if any; and, if the shares be assessable, or, if assessments are
+collectible by personal action, a plain statement of such facts.
+
+9.2      EXECUTION
+
+         Every certificate for shares must be signed by the President or the
+Secretary or must be authenticated by facsimile of the signature of the
+President or Secretary. Before it becomes effective, every certificate for
+shares authenticated by a facsimile of a signature must be countersigned by an
+incorporated bank or trust company, either domestic or foreign as registrar of
+transfers.
+
+9.3      TRANSFER
+
+         Upon surrender to the Secretary or transfer agent of the Corporation of
+a certificate for shares duly endorsed or accompanied by a proper evidence of
+succession, assignment or authority to transfer, it shall be the duty of the
+Corporation to issue a new certificate to the person entitled thereto, cancel
+the old certificate, and record the transaction upon its books.
+
+9.4      LOST OR DESTROYED CERTIFICATES
+
+         Any person claiming a certificate of stock to be lost or destroyed
+shall make an affidavit or affirmation of that fact and advertise the same in
+such manner as the Board of Directors may require and shall, if the Directors so
+require, give the Corporation a bond of indemnity, in form and with one or more
+sureties satisfactory to the Board, in at least double the value of the stock
+represented by said certificate, whereupon a new certificate may be issued of
+the same tenor and for the same number of shares as the one alleged to be lost
+or destroyed.
+
+
+                                      -9-
+<PAGE>
+
+
+9.5      TRANSFER AGENTS AND REGISTRARS
+
+         The Board of Directors may appoint one or more transfer agents or
+transfer clerks, and one or more registrars, which shall be an incorporated bank
+or trust company, either domestic or foreign, who shall be appointed at such
+times and places as the requirements of the Corporation may necessitate and the
+Board of Directors may designate.
+
+9.6      CLOSING STOCK TRANSFER BOOKS
+
+         The Board of Directors may close the transfer books in their discretion
+for a period not exceeding the sixty (60) days preceding any meeting, annual or
+special, of the shareholders, or the date appointed for the payment of a
+dividend.
+
+
+                            CERTIFICATE OF SECRETARY
+
+I, Chloe DiVita, the undersigned, the duly elected and acting Secretary of PI
+Services, Inc., do hereby certify that the above and foregoing Bylaws were
+adopted as the Bylaws of said Corporation as of the 22nd day of July 2008 by the
+Directors of said Corporation.
+
+
+                                                  /s/ Chloe DiVita   , Secretary
+                                                ---------------------
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.1
+<SEQUENCE>4
+<FILENAME>pi10k123108ex41.txt
+<DESCRIPTION>SPECIMEN STOCK CERTIFICATE
+<TEXT>
+
+Exhibit 4.1
+
+                        NAME CHANGED TO PI SERVICES, INC.
+                       Physicians Insurance Services, Ltd.
+              INCORPORATED UNDER THE LAWS OF THE STATE OF MINNESOTA
+                AUTHORIZED: 5,000,000 COMMON SHARES, NO PAR VALUE
+
+      NUMBER                                                        SHARES
+
+
+
+This Certifies That                                            SEE REVERSE FOR
+                                    SPECIMEN                 CERTAIN DEFINITIONS
+                                                             ___________________
+
+  Is The Owner Of                                              CUSIP 719411100
+                                                             ___________________
+                                                                  NEW CUSIP
+                                                                  69339A104
+
+
+          FULLY PAID AND NON-ASSESSABLE COMMON SHARES, NO PAR VALUE OF
+
+                       Physicians Insurance Services, Ltd.
+
+transferable on the books of this Corporation in person or by attorney upon
+surrender of this Certificate duly endorsed or assigned. This Certificate and
+the shares represented hereby are subject to the laws of the Stated of
+Minnesota, and to the Articles of Incorporation and Bylaws of the Corporation,
+as now or hereafter amended. This Certificate is not valid until countersigned
+by the Transfer Agent.
+
+     In Witness Whereof, the Corporation has caused this Certificate to be
+signed by the facsimile signatures of its duly authorized officers and to be
+sealed with the facsimile seal of the Corporation.
+
+
+Dated:
+
+                       Physicians Insurance Services, Ltd.
+                            [CORPORATE SEAL OMITTED]
+                                    MINNESOTA
+______________________                                    ______________________
+      PRESIDENT                                                 SECRETARY
+
+
+
+                      COUNTERSIGNED:
+                      CORPORATE STOCK TRANSFER, INC.
+                      3200 Cherry Creek Drive South, Suite 430, Denver, CO 80209
+
+                      By _______________________________________________________
+                             Transfer Agent and Registrar Authorized Officer
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                       Physicians Insurance Services, Ltd.
+                         Corporate Stock Transfer, Inc.
+                           Transfer Fee: As Required
+
+
+                                    SPECIMEN
+________________________________________________________________________________
+  The following abbreviations, when used in the inscription on the face of this
+certificate, shall be construed as though they were written out in full
+according to applicable laws or regulations:
+<S>                                         <C>
+TEN COM  -- as tenants in common            UNIF GIFT MIN ACT- .............. Custodian for ..............
+                                                                   (Cust.)                     (Minor)
+TEN ENT  -- as tenants by the entireties                under Uniform Gifts to Minors
+
+JT TEN   -- as joint tenants with right of              Act of ...........................................
+            survivorship and not as                                             (State)
+            tenants in common
+</TABLE>
+    Additional abbreviations may also be used though not in the above list.
+
+
+For value received .......................hereby sell, assign and transfer unto
+
+                     PLEASE INSERT SOCIAL SECURITY OR OTHER
+                         IDENTIFYING NUMBER OF ASSIGNEE
+              _____________________________________________________
+             |                                                     |
+             |                                                     |
+             |_____________________________________________________|
+
+                Please print or type name and address of assignee
+
+.................................................................................
+
+.................................................................................
+
+.................................................................................
+
+...........................................................................Shares
+of the Common Stock represented by the within Certificate and do hereby
+irrevocably constitute and appoint
+
+.................................................................................
+
+.................................................................................
+Attorney to transfer the said stock on the books of the within-named
+Corporation, with full power of substitution in the premises.
+
+Dated ................20........
+
+
+SIGNATURE GUARANTEED:                           X_______________________________
+
+                                                X_______________________________
+
+
+THE SIGNATURE TO THIS  ASSIGNMENT  MUST CORRESPOND WITH THE NAME AS WRITTEN UPON
+THE  FACE OF  THIS  CERTIFICATE  IN  EVERY  PARTICULAR,  WITHOUT  ALTERATION  OR
+ENLARGEMENT OR ANY CHANGE WHATSOEVER.  THE SIGNATURE(S) MUST BE GUARANTEED BY AN
+ELIGIBLE  GUARANTOR   INSTITUTION   (Banks,   Stockbrokers,   Savings  and  Loan
+Associations  and  Credit  Unions)  WITH  MEMBERSHIP  IN AN  APPROVED  SIGNATURE
+GUARANTEE MEDALLION PROGRAM.
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>5
+<FILENAME>pi10k123108ex311.txt
+<DESCRIPTION>SECTION 302 CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+<TEXT>
+
+
+Exhibit 31.1
+
+                                  Certification
+
+I, Michael Friess, certify that:
+
+     1.   I have reviewed this annual report on Form 10-K of PI Services, Inc.;
+
+     2.   Based on my knowledge, this report does not contain any untrue
+          statement of a material fact or omit to state a material fact
+          necessary to make the statements made, in light of the circumstances
+          under which such statements were made, not misleading with respect to
+          the period covered by this report;
+
+     3.   Based on my knowledge, the financial statements, and other financial
+          information included in this report, fairly present in all material
+          respects the financial condition, results of operations and cash flows
+          of the registrant as of, and for, the periods presented in this
+          report;
+
+     4.   The registrant's other certifying officer(s) and I are responsible for
+          establishing and maintaining disclosure controls and procedures (as
+          defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+          control over financial reporting (as defined in Exchange Act Rules
+          13a-15(f) and 15d-15(f)) for the registrant and have:
+
+          a)   Designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under our
+          supervision, to ensure that material information relating to the
+          registrant, including its consolidated subsidiaries, is made known to
+          us by others within those entities, particularly during the period in
+          which this annual report is being prepared;
+
+          b)   Designed such internal control over financial reporting, or
+          caused such internal control over financial reporting to be designed
+          under our supervision, to provide reasonable assurance regarding the
+          reliability of financial reporting and the preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+
+          c)   Evaluated the effectiveness of the registrant's disclosure
+          controls and procedures and presented in this report our conclusions
+          about the effectiveness of the disclosure controls and procedures, as
+          of the end of the period covered by this report based on such
+          evaluation; and
+
+          d)   Disclosed in this report any change in the registrant's internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter (the registrant's fourth fiscal quarter in
+          the case of an annual report) that has materially affected, or is
+          reasonably likely to materially affect, the registrant's internal
+          control over financial reporting;
+
+     5.   The registrant's other certifying officer(s) and I have disclosed,
+          based on our most recent evaluation of internal control over financial
+          reporting, to the registrant's auditors and the audit committee of
+          registrant's board of directors (or persons performing the equivalent
+          functions):
+
+          a)   All significant deficiencies and material weaknesses in the
+          design or operation of internal control over financial reporting which
+          are reasonably likely to adversely affect the registrant's ability to
+          record, process, summarize and report financial information; and
+
+          b)   Any fraud, whether or not material, that involves management or
+          other employees who have a significant role in the registrant's
+          internal control over financial reporting.
+
+
+                   Date: March 24, 2009             /s/ Michael Friess
+                                                  ------------------------------
+                                                    Michael Friess
+                                                    President,
+                                                    Chief Executive Officer
+
+
+
+                                    33 of 36
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.2
+<SEQUENCE>6
+<FILENAME>pi10k123108ex312.txt
+<DESCRIPTION>SECTION 302 CERTIFICATION OF CHIEF FINANCIAL OFFICER
+<TEXT>
+
+
+Exhibit 31.2
+
+                                 Certification
+
+I, Chloe DiVita, certify that:
+
+     1.   I have reviewed this annual report on Form 10-K of PI Services, Inc.;
+
+     2.   Based on my knowledge, this report does not contain any untrue
+          statement of a material fact or omit to state a material fact
+          necessary to make the statements made, in light of the circumstances
+          under which such statements were made, not misleading with respect to
+          the period covered by this report;
+
+     3.   Based on my knowledge, the financial statements, and other financial
+          information included in this report, fairly present in all material
+          respects the financial condition, results of operations and cash flows
+          of the registrant as of, and for, the periods presented in this
+          report;
+
+     4.   The registrant's other certifying officer(s) and I are responsible for
+          establishing and maintaining disclosure controls and procedures (as
+          defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+          control over financial reporting (as defined in Exchange Act Rules
+          13a-15(f) and 15d-15(f)) for the registrant and have:
+
+          a)   Designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under our
+          supervision, to ensure that material information relating to the
+          registrant, including its consolidated subsidiaries, is made known to
+          us by others within those entities, particularly during the period in
+          which this annual report is being prepared;
+
+          b)   Designed such internal control over financial reporting, or
+          caused such internal control over financial reporting to be designed
+          under our supervision, to provide reasonable assurance regarding the
+          reliability of financial reporting and the preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+
+          c)   Evaluated the effectiveness of the registrant's disclosure
+          controls and procedures and presented in this report our conclusions
+          about the effectiveness of the disclosure controls and procedures, as
+          of the end of the period covered by this report based on such
+          evaluation; and
+
+          d)   Disclosed in this report any change in the registrant's internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter (the registrant's fourth fiscal quarter in
+          the case of an annual report) that has materially affected, or is
+          reasonably likely to materially affect, the registrant's internal
+          control over financial reporting;
+
+     5.   The registrant's other certifying officer(s) and I have disclosed,
+          based on our most recent evaluation of internal control over financial
+          reporting, to the registrant's auditors and the audit committee of
+          registrant's board of directors (or persons performing the equivalent
+          functions):
+
+          a)   All significant deficiencies and material weaknesses in the
+          design or operation of internal control over financial reporting which
+          are reasonably likely to adversely affect the registrant's ability to
+          record, process, summarize and report financial information; and
+
+          b)   Any fraud, whether or not material, that involves management or
+          other employees who have a significant role in the registrant's
+          internal control over financial reporting.
+
+
+                   Date: March 24, 2009             /s/ Chloe DiVita
+                                                  ------------------------------
+                                                    Chloe DiVita
+                                                    Treasurer, Secretary, and
+                                                    Chief  Financial Officer
+
+
+
+                                    34 of 36
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.1
+<SEQUENCE>7
+<FILENAME>pi10k123108ex321.txt
+<DESCRIPTION>SECTION 906 CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+<TEXT>
+
+Exhibit 32.1
+
+                CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+                       AS ADOPTED PURSUANT TO SECTION 906
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of PI Services, Inc. (the "Company") on
+Form 10-K for the year ended December 31,2008, as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), the undersigned hereby
+certify that to the best of my knowledge:
+
+1.   The Report fully complies with the requirements of Section 13(a) of the
+Securities Exchange Act of 1934; and
+
+2.   Information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+IN WITNESS WHEREOF, the undersigned has executed this statement this March 24,
+2009.
+
+                                                   /s/ Michael Friess
+                                                 -------------------------------
+                                                   Michael Friess
+                                                   President,
+                                                   Chief Executive Officer
+
+
+A signed original of this written statement required by Section 906 has been
+provided to PI Services, Inc. and will be retained by PI Services, Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+The forgoing certification is being furnished to the Securities and Exchange
+Commission pursuant to ss.18 U.S.C. Section 1350. It is not being filed for
+purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and
+is not to be incorporated by reference into any filing of the Company, whether
+made before or after the date hereof, regardless of any general incorporation
+language in such filing.
+
+
+
+
+
+
+
+
+
+
+
+                                    35 of 36
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.2
+<SEQUENCE>8
+<FILENAME>pi10k123108ex322.txt
+<DESCRIPTION>SECTION 906 CERTIFICATION OF CHIEF FINANCIAL OFFICER
+<TEXT>
+
+
+Exhibit 32.2
+
+                CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+                       AS ADOPTED PURSUANT TO SECTION 906
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of PI Services, Inc. (the "Company") on
+Form 10-K for the year ended December 31,2008, as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), the undersigned hereby
+certify that to the best of my knowledge:
+
+1.   The Report fully complies with the requirements of Section 13(a) of the
+Securities Exchange Act of 1934; and
+
+2.   Information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+IN WITNESS WHEREOF, the undersigned has executed this statement this March 24,
+2009.
+
+                                                   /s/ Chloe DiVita
+                                                 -------------------------------
+                                                   Chloe DiVita
+                                                   Treasurer, Secretary, and
+                                                   Chief  Financial Officer
+
+
+A signed original of this written statement required by Section 906 has been
+provided to PI Services, Inc. and will be retained by PI Services, Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+The forgoing certification is being furnished to the Securities and Exchange
+Commission pursuant to ss.18 U.S.C. Section 1350. It is not being filed for
+purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and
+is not to be incorporated by reference into any filing of the Company, whether
+made before or after the date hereof, regardless of any general incorporation
+language in such filing.
+
+
+
+
+
+                                    36 of 36
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

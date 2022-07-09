@@ -1,0 +1,3333 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C0JgcI768/BMcb4Jzrh7cYq0Rk2Og+PI9EUFGc0YQCmYAz4YJ8Nc9plOYW1MZKrb
+ ynqkxVfr7KTgfdKGAFwQmw==
+
+<SEC-DOCUMENT>0000898430-01-500258.txt : 20010430
+<SEC-HEADER>0000898430-01-500258.hdr.sgml : 20010430
+ACCESSION NUMBER:		0000898430-01-500258
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010128
+FILED AS OF DATE:		20010427
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEMTECH CORP
+		CENTRAL INDEX KEY:			0000088941
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				952119684
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-06395
+		FILM NUMBER:		1613140
+
+	BUSINESS ADDRESS:	
+		STREET 1:		652 MITCHELL RD
+		CITY:			NEWBURY PARK
+		STATE:			CA
+		ZIP:			91320
+		BUSINESS PHONE:		8054982111
+
+	MAIL ADDRESS:	
+		STREET 1:		652 MITCHELL ROAD
+		STREET 2:		652 MITCHELL ROAD
+		CITY:			NEWBURY PARK
+		STATE:			CA
+		ZIP:			91320
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                   FORM 10-K
+
+(Mark One)
+
+[X]  Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+Act of 1934
+For the fiscal year ended January 28, 2001
+                                      OR
+[_]  Transition Report Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+For the transition period from _______________  to ________________
+
+Commission file number 1-6395
+
+                              SEMTECH CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+              Delaware                                   95-2119684
+        (State or other jurisdiction                    (I.R.S. Employer
+       incorporation or organization)                   Identification No.)
+
+              652 Mitchell Road, Newbury Park, California, 91320
+              (Address of principal executive offices, Zip Code)
+
+      Registrant's telephone number, including area code: (805) 498-2111
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                           Name of each exchange
+Title of each class                                         on which registered
+- -------------------                                         -------------------
+      None                                                        None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                     Common Stock par value $.01 per share
+                               (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+Yes    X          No _____
+    ----------
+
+Indicate by check mark if disclosure of delinquent filers pursuant to item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [_]
+
+Aggregate market value of voting stock held by non affiliates of the registrant
+as of April 13, 2001 was $2,077,320,117 and the market price of the Registrant's
+stock was $30.02 per share. The number of shares outstanding of the Registrant's
+common stock was 69,197,872 at April 13, 2001.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the following documents are incorporated by reference in Part III of
+this report: Definitive Proxy Statement in connection with registrant's annual
+meeting of shareholders on May 31, 2001.
+
+This report on Form 10-K contains a total of 46 pages.
+<PAGE>
+
+                              SEMTECH CORPORATION
+                              INDEX TO FORM 10-K
+                      FOR THE YEAR ENDED JANUARY 28, 2001
+
+
+<TABLE>
+<CAPTION>
+PART I
+
+                                                                                                  Page
+
+<S>                                                                                               <C>
+Item 1    Business                                                                                1
+Item 2    Properties                                                                              15
+Item 3    Legal Proceedings                                                                       15
+Item 4    Submission of Matters to a Vote of Security Holders                                     16
+
+PART II
+
+
+Item 5     Market for the Registrant's Common Equity and Related Shareholder Matters              16
+Item 6     Selected Financial Data                                                                16
+Item 7     Management's Discussion and Analysis of Financial Condition and Results of Operations  17
+Item 7A    Quantitative and Qualitative Disclosures About Market Risks                            22
+Item 8     Financial Statements and Supplementary Data                                            24
+Item 9     Changes in or Disagreements with Accountants on Accounting and Financial Disclosure    41
+
+PART III
+
+Item 10    Directors and Executive Officers of the Registrant                                     41
+Item 11    Executive Compensation                                                                 41
+Item 12    Security Ownership of Certain Beneficial Owners and Management                         41
+Item 13    Certain Relationships and Related Transactions                                         42
+
+PART IV
+
+Item 14  Exhibits, Financial Statement Schedules and Reports on Form 8-K                          43
+         Signatures                                                                               46
+</TABLE>
+
+                                       1
+<PAGE>
+
+PART I
+
+This Annual Report on Form 10-K for the year ended January 28, 2001 (the "Form
+10-K") contains certain "forward-looking statements" within the meaning of
+Section 27A of the Securities Act of 1933, as amended (the "Securities Act"),
+and Section 21E of the Securities Exchange Act of 1934, as amended (the
+"Exchange Act"). Forward-looking statements are statements other than historical
+information or statements of current condition and relate to future events or
+the future financial performance of the Company. Some forward-looking statements
+may be identified by use of such terms as "expects," "anticipates," "intends,"
+"estimates," "believes" and words of similar import. These forward-looking
+statements relate to plans, objectives and expectations for future operations.
+In light of the risks and uncertainties inherent in all such projected
+operational matters, the inclusion of forward-looking statements in this Form
+10-K should not be regarded as a representation by the Company or any other
+person that the objectives or plans of the Company will be achieved or that any
+of the Company's operating expectations will be realized. Net sales and results
+of operations are difficult to forecast and could differ materially from those
+projected in the forward-looking statements contained in this Form 10-K for the
+reasons detailed in the "Risk Factors" section of this Form 10-K, beginning on
+page 8, or elsewhere in this Form 10-K.
+
+ITEM 1.  BUSINESS
+
+General
+
+     We are a leading supplier of analog and mixed-signal semiconductors. We
+design, manufacture and market a wide range of products for commercial
+applications, the majority of which are sold to the communications, industrial
+and computer markets. Our semiconductors enable power management, test,
+protection and a wide range of other functions in products that require analog
+or mixed-signal processing. Our end customers are primarily original equipment
+manufacturers, or OEMs, that produce and sell electronics.
+
+Overview of the Semiconductor Industry
+
+     In the broadest sense, the semiconductor industry is divided into two
+distinct groups: analog semiconductors and digital semiconductors. Analog
+semiconductors condition and regulate "real world" functions such as
+temperature, speed, sound and electrical current. Analog signals behave in a
+continuous manner, in contrast to digital circuits which behave as on's and
+off's (expressed in binary code as 1's and 0's), such as those used by
+computers. Mixed-signal devices incorporate both analog and digital functions
+into a single chip and provide the ability for digital electronics to interface
+with the outside world. Where digital processing exists in an end consumer
+application such as computers, personal digital assistant devices (PDAs),
+networks, cellular phones, automated test equipment (ATE), and medical devices,
+analog technology is required.
+
+     The market for analog and mixed-signal semiconductors differs from the
+market for digital semiconductors. The analog and mixed-signal industry is
+characterized by significantly longer product life cycles than the digital
+industry because analog technology is applied to real-world functions that
+remain relatively consistent. In addition, analog semiconductor manufacturers
+tend to have lower capital for manufacturing because their facilities tend to be
+less dependent than digital producers on state-of-the-art production equipment.
+The end-product markets for analog and mixed-signal semiconductors are smaller
+and more varied than the relatively standardized digital semiconductor product
+markets. This has resulted in a fragmented market for analog semiconductors, in
+contrast to the more homogenous digital semiconductor market.
+
+     Another difference between the analog and digital markets is the amount of
+talented labor available. The analog industry relies more heavily than the
+digital industry on design and applications talent to distinguish its products
+from one another. While digital expertise is extensively taught due to its
+overall market size, electrical engineering curricula addressing analog
+functions are not widely available in universities. Analog and mixed-signal
+expertise tends to be learned over time based on experience and hands-on
+training. Consequently, personnel with this training are scarce, a fact that
+makes it difficult for new suppliers to quickly gain significant market share.
+
+     We expect certain segments of the analog market, where end-product demand
+is strong, to grow at a faster rate than the overall semiconductor market. These
+segments include communications infrastructure equipment, portable devices ,
+industrial test and certain high-end computing systems. The need for analog
+semiconductors in these markets is based on the need to enable the reliability
+of emerging communications devices, extend battery lives, achieve higher levels
+of integration, increase portability and reduce size. Further, because the
+analog industry is smaller and more fragmented than the digital industry, it
+tends to offer high-margin opportunities for those companies able to introduce
+innovative new product solutions.
+
+                                       2
+<PAGE>
+
+     We believe that certain product segments within the analog semiconductor
+market will grow even faster than the overall market in the coming years.
+Specific factors contributing to the rapid growth in demand for analog and ixed-
+signal semiconductors in these segments include the need to enable the
+reliability of emerging communications devices, extend battery lives, decrease
+voltage tolerances, achieve higher levels of integration, increase portability
+and reduce size. These trends increase the need for more complex, high-
+performance analog and mixed-signal semiconductors. "High-performance" refers to
+devices that have advanced features and superior performance over widely
+available "commodity" circuits.
+
+
+Semtech End Markets
+
+     A majority of our products are sold to customers in the computer,
+communications and industrial markets. Up until six years ago, the company had
+largely been focused on serving the military and aerospace market. We used the
+computer market as our first major entry into the commercial marketplace for our
+circuits. Three years ago, approximately half of our revenues were derived from
+computer related applications. In recent years, we have seen relative growth
+from the communications and industrial markets. We exited fiscal year 2001 with
+a near equal balance between the three major markets of computer, communications
+and industrial.
+
+     Computer market applications include desktop computers, servers,
+workstations, laptop computers, PDAs and computer add-on cards. End-product
+applications for our products within the communication market include local area
+networks, wide area networks, cellular phones and base-stations. Industrial
+applications include automated test equipment, medical devices and factory
+automation systems.
+
+
+<TABLE>
+<CAPTION>
+Semtech's Main Product                                     Specific End-Product
+        Lines                                                  Applications
+                            -----------------------------------------------------------------------------------
+                                     Computer                 Communications                 Industrial
+                           -----------------------------------------------------------------------------------
+<S>                        <C>                           <C>                          <C>
+Power Management              Desktop PCs, servers,      Cellular phones, network          Power supplies,
+                              workstations, notebook     cards, routers and hubs,        industrial systems
+                             computers, add-on cards,     telecom network boards
+                                       PDAs
+- --------------------------------------------------------------------------------------------------------------
+Protection                   Notebook computers, USB       Cellular phones, base       Handled measurement or
+                                 ports, LAN cards         stations, DSL, routers       instrumentation devices
+                                                                 and hubs
+- --------------------------------------------------------------------------------------------------------------
+High Performance                   Workstations           Cellular base stations,     Automated test equipment
+                                                          routers and hubs, SONET
+                                                                 networks
+- --------------------------------------------------------------------------------------------------------------
+Advanced Communications                                  SONET networks, routers,
+                                                           hubs, switches, fiber
+                                                                  modems
+- --------------------------------------------------------------------------------------------------------------
+Human Interface and System     Notebook computers,         Cellular phones, web         Touch screen systems
+ Management                            PDAs                       phones
+- --------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Business Strategy
+
+     Our objective is to be the leading supplier of analog and mixed-signal
+devices to the fastest growing segments of our target markets, particularly
+within the computer, communications and industrial segments. We will leverage
+our pool of skilled technical personnel to develop new products, or where
+appropriate use acquisitions, to serve the fastest growing segments of these
+markets. In order to capitalize on our strengths in analog and mixed-signal
+processing design, manufacturing and marketing, we intend to pursue the
+following strategies:
+
+Strategy to invest more in intellectual property, and less in capital equipment
+
+     We have developed a strategy to invest heavily in human resources needed to
+define, develop and market high-performance products.  Likewise, we tend to
+spend nearly three times as much on research and development than we do on
+capital expenditures for manufacturing capacity.  We outsource a large portion
+of our production and focus more on defining, developing and ultimately selling
+our products.  This strategy is different than many of our competitors.
+
+                                       3
+<PAGE>
+
+Focus on fast growing market segments
+
+     We have chosen to target the analog segments of the fastest growing end
+markets. We will enhance this growth potential by focusing on specific products
+within the analog and mixed-signal market, including high-end personal
+computers, notebook computers, PDAs, cellular phones, wide area and local area
+networks and test systems. These products are characterized by their need for
+leading-edge, high-performance, analog and mixed-signal semiconductor
+technology.
+
+Continue to release new proprietary products
+
+     We are focused on developing proprietary new products to serve our target
+markets. These markets have experienced significant levels of change as consumer
+demand for increased product performance at competitive price points continues
+to grow. Our technical talent markets and develops new products specifically for
+these high-margin, fast growing market segments. Over the past three years, our
+pool of skilled technical personnel has grown from 75 to approximately 300, and
+the number of new product families introduced in the past four years has
+increased from 28 to 138.  We believe that our rate of new product introductions
+and number of skilled technical personnel are indicators of our ability to meet
+our target markets' evolving needs.
+
+
+Diversify into new markets
+
+     We will enter new markets that complement our existing operations through
+internal development of new products and by strategic acquisitions. We believe
+strategic acquisitions will allow us to expand our pool of skilled technical
+personnel as well as expand the range of complementary products that we offer.
+We have purchased four companies over the past four years that have permitted us
+to successfully enter new market segments and develop new products.  Our focus
+during fiscal year 2001 was to expand our presence within the two broad markets
+of communications infrastructure and portable devices.  A large amount of
+resources, namely design and marketing talent, was focused on developing
+products for these markets.
+
+Concentrate on cross-selling our products and services
+
+     We consider the ability to cross-sell our products and services a major
+opportunity.  Many of our large customers produce a wide variety of end products
+that require analog and mixed-signal products.  By leveraging existing
+relationships, we believe that we will be able to sell a wider variety of our
+products to these organizations. In addition, we believe our marketing
+department's technical expertise permits it to identify and capitalize on these
+cross-selling opportunities
+
+
+Product Segments
+
+     We categorize our business into three main product segments. Our
+strategically most important product offerings are included in the Standard
+Semiconductor Products segment. Standard Semiconductor Products represent
+approximately 91 percent of our overall net sales for fiscal year 2001.  The
+following is a description of our main product segments:
+
+     Standard Semiconductor Products.   Included in Standard Semiconductor
+Products are integrated circuits (ICs) and discrete components designed for use
+in standard industry applications. Described below are the main product lines
+within our Standard Semiconductor Products.
+
+ .    Power Management Circuits. Power management circuits control, alter,
+     regulate and condition the electric pulses that flow through electronics.
+     The largest product types within the power management product line are
+     linear regulators, switching voltage regulators, combination regulators and
+     smart regulators. The primary application for these products is power
+     regulation for computer and communications systems.
+
+ .    Protection Products. The largest type of protection products we design and
+     market are transient voltage suppressors (TVS). TVS devices provide
+     protection for electronic systems where large voltage spikes (called
+     transients), such as electrostatic discharge (ESD) generated by the human
+     body, can permanently damage voltage-sensitive components. We also have
+     developed filter and termination devices that can be sold as a complement
+     to TVS devices. Specific protection product applications are found in
+     computer, data-communications, telecommunications and industrial markets.
+
+                                       4
+<PAGE>
+
+ .    High Performance Circuits. We design and market a wide variety of high
+     performance products, namely pin electronics, timing, clock distribution
+     and parametric measurement products for use in ATE instrumentation
+     applications. Automated test equipment systems are used by electronic
+     component manufacturers in the testing of their finished devices. In fiscal
+     year 2000, we began marketing high performance ECL clock/logic devices
+     intended for use in both ATE and non-ATE applications.
+
+ .    Advanced Communication Circuits . Through internal investment and the
+     acquisition of Acapella Limited and Practical Sciences, we are designing a
+     line of advanced communication ICs. These circuits are designed to
+     transmit/receive signals over fiber optic lines, provide timing and
+     synchronization, and other communication functions. Advanced communication
+     ICs are used for local area networks, wide area networks and cellular phone
+     base stations. We also derive a small amount of revenue from design
+     consulting services provided to other manufacturers.
+
+ .    Human Interface Devices (HID) and System Management. Through the
+     acquisition of USAR Systems, we now offer a line of system management
+     products that include intelligent input/output and smart battery management
+     devices. The products included in this offering are touch-screen and touch-
+     pad controllers, pointing stick devices and battery management circuits.
+     These products are designed to handle human interface and battery function
+     in portable systems, like notebook computers, PDSs and cellular phones.
+
+          Rectifier and Assembly Products.  Rectifiers and assemblies are older-
+technology products that are principally sold into the military and aerospace
+markets.
+
+ .    Rectifiers. We have several different categories of silicon rectifiers,
+     which are primarily used to convert alternating current to direct current.
+     These products are sold to military, aerospace and medical equipment
+     customers.
+
+ .    Assemblies. An assembly is a package of rectifiers of one or more types
+     encased in epoxy or silicon by various molding techniques, constituting one
+     or more basic rectifier circuits. Assemblies are used for military,
+     aerospace and other specialized applications.
+
+
+          Other Products. We produce and sell Other Products, as detailed below.
+
+ .    Custom and Application Specific Circuits. Other custom and application
+     specific integrated circuits (ASICs) include a wide variety of customer and
+     application-specific devices. The end markets for these products include
+     industrial, consumer, and automotive markets.
+
+ .    Foundry Wafers. We fabricate silicon wafers for other semiconductor
+     manufacturers. Much of the processed silicon currently sold goes into
+     applications for the computer, automotive and industrial markets.
+
+
+Intellectual Capital and Product Development
+
+          We believe that emphasis on the development of our intellectual
+capital and introduction of new proprietary product designs are key to our
+success. Recruiting and retaining technical talent is the foundation for
+developing and selling new products into the marketplace. We have been
+successful in hiring technical people through active recruitment and through
+strategic acquisitions. In fiscal year 2000, we added experienced engineers
+through the acquisitions of two companies, USAR Systems and Practical Sciences.
+Recruiting of talent has also been benefited by our strategy of having multiple
+design center locations throughout the United States and the world for
+attracting people.
+
+          Circuit design engineers, or circuit designers, are the most valuable
+of all engineers. Circuit designers perform the critical task of designing and
+laying out integrated circuits. As of the end of fiscal year 2001, we employed
+more than 85 circuit designers. That is up from 70 circuit designers at the end
+of fiscal year 2000. A majority of these individuals have senior-level expertise
+in the design and development of circuits targeted for use in power management,
+protection, high performance and communication applications. We intend to make
+further investment in research and development functions during the coming
+fiscal years. Additional headcount along with investment in design and
+development equipment and overall support of development efforts are the focus
+of this investment.
+
+                                       5
+<PAGE>
+
+     In fiscal year 1996, we began to invest heavily in design and applications
+intended to aid the introduction of new products. We now have dedicated design
+centers in Santa Clara, California; Oxnard, California; Raleigh, North Carolina;
+Glasgow, Scotland; and Southampton, England. In addition, dedicated high
+performance circuit design occurs at the San Diego location, human interface and
+system management design occurs in New York and protection product design occurs
+at the Company's Newbury Park headquarters.
+
+Sales and Marketing
+
+     Sales made directly to original equipment manufacturers in fiscal year 2001
+and in fiscal year 2000 were approximately 80 percent of net sales and the
+remaining 20 percent of net sales were made through independent distributors.
+The percentage of sales made directly to original equipment manufacturers has
+increased in the last four fiscal years as we sell directly to large strategic
+customers and as the contribution from the high performance products group,
+which has only direct sales, has increased. We have direct sales offices located
+in Southern California, Texas and Connecticut which manage the sales activities
+of independent sales representative firms and independent distributors within
+the United States and Canada. We also have sales offices in France, Germany and
+Scotland as well as independent sales representative firms and independent
+distributors to serve the European markets. We maintain branch sale offices in
+Taipei, Taiwan and Seoul, Korea, along with independent representatives and
+distributors for serving the Asian-Pacific territory. We are also represented
+outside the United States, Europe and Asia by other independent sales
+organizations.
+
+
+Customers and Sales Data
+
+     For fiscal year 2001, we estimated that 3,000 customers purchased our
+products either directly from us or through our authorized distributors. The
+following is a representative sample of our target customers:
+
+Representative Customers by End Markets
+
+<TABLE>
+<CAPTION>
+              -------------------------------------------------------------
+               Computer        Communications         Industrial
+              -------------------------------------------------------------
+<S>           <C>              <C>                    <C>
+               Acer            Cisco                  Agilent Technologies
+               Compaq          Motorola               Honeywell
+               Dell            Nortel                 Varian Medical
+               IBM             Samsung
+               Intel           Siemens
+</TABLE>
+
+     Customers that buy our products include major computer and peripheral
+manufacturers and their sub-contractors, automated test system manufacturers,
+communications equipment producers (both data-communication and
+telecommunication), and a variety of both large and small companies serving the
+industrial, automotive, aerospace and military markets.
+
+     During fiscal years 2001, 2000, and 1999, foreign sales were 58 percent, 64
+percent, and 53 percent, respectively, of net sales. Approximately three
+quarters of foreign sales are to customers located in the Asian-Pacific region.
+The remaining are into Europe.  The decline in the percent of foreign sales
+reflects the reduced percentage of shipments derived from the computer market.
+A majority of computer related sales are sold into the Asia region.  Generally,
+we conduct sales in the United States Dollar.
+
+     No one customer accounted for 10 percent or more of our net sales for each
+of the three fiscal years ended January 28, 2001. In fiscal year 2001, a group
+of customers that included one of our automated test equipment customers, their
+suppliers and their sub-contractors, accounted for 14 percent of net sales.
+
+Manufacturing Capabilities
+
+  We have manufacturing facilities in California, Texas and Mexico. Our
+commercial IC production facilities are located in Santa Clara, California and
+Corpus Christi, Texas. In March 2001, we announced plans to sell the Santa Clara
+wafer fab facility.  Discrete wafer fabrication, testing, probe and some
+assembly activity are performed in Newbury Park, California. The San Diego,
+California location serves as the headquarters for our high performance products
+group. Design, applications, sales, and other administrative activities related
+to the high performance group are conducted at this location. Our Reynosa,
+Mexico facility provides assembly and test capabilities for supporting military
+and legacy products.
+
+                                       6
+<PAGE>
+
+     Over the last several years, we have out-sourced much of the processes
+required to make our products. We have always relied on third party contractors
+for packaging and testing most of our commercial products. During fiscal year
+2001, we began to purchase finished silicon wafers from outside sources, often
+called outside foundries. We view the movement towards outsourcing most of our
+manufacturing to outside sources as a beneficial and strategic initiative.
+
+     A large part of the manufacturing operation is performed by operators
+working on standard equipment in our wafer fabrication lines. New designs or
+process modifications are tested by both product and process engineering prior
+to being incorporated into the manufacturing process. Our wafer fabrication
+facilities employ a variety of Bipolar processes and a limited amount of CMOS
+processes. The facilities and related fabrication processes used tend to be
+significantly less costly than state-of-the-art digital fabrication facilities
+and likewise utilize equipment that is less subject to obsolescence. Unlike the
+digital industry, our products are less reliant on state-of-the-art
+manufacturing but more on design and applications support.
+
+     We fabricate a majority of our products from basic materials (principally
+silicon, ceramic materials, metals and plastics), all of which are available
+from a number of suppliers. In fiscal year 2001, we supported approximately 25
+percent of our end products with wafers that were fabricated internally. Outside
+foundries were used for the remaining 75 percent of fabrication capacity.  As of
+the end of fiscal year 2000, we sourced approximately 50 percent of our wafers
+from outside foundires and the remianing 50 percent through internal capacity.
+As of the end of fiscal year 2001, we estimated that we had adequate capacity in
+our internal wafer fabrication capacity to support anticipated growth over the
+next two years. All of our high performance, advanced communications and human
+interface ICs and a percentage of power management products are fabricated at
+outside foundries. Nearly all of our protection products are fabricated
+internally.
+
+     We use silicon wafer foundries that are based in the United States, Canada,
+Europe and Asia. As of the end of fiscal year 2001, we had foundry relationships
+with nine different companies.  Currently, our largest foundry suppliers are
+based in the United States and Asia. Contractual agreements exist with each of
+the outside foundries. With expansion into higher-end communication product
+lines and higher-performance devices, we expect that we will increase, as a
+percentage of the total, the amount of outside foundries in order to utilize the
+best available technology and leverage the capital investment of others.
+
+
+Competition
+
+     The semiconductor industry is highly competitive and we expect competitive
+pressures to continue. Our ability to compete effectively and to expand our
+business will depend on our ability to continue to recruit applications and
+design talent, our ability to introduce new products and the rate at which we
+introduce such new products to offset the relatively short product life cycles
+found in the industry which is characterized by decreasing unit selling prices
+over the life of a product, our ability to capitalize on efficiencies and
+economies of scale in production and sales, and our ability to maintain or
+improve our productivity and product yields to reduce manufacturing costs.
+
+     We are in direct and active competition, as to one or more of our product
+lines, with at least 30 manufacturers of such products, of varying financial
+size and strength. A number of these competitors are dependent on semiconductor
+products as their principal source of income, and some are much larger than us.
+The number of competitors has grown due to expansion of the market segments in
+which we participate. We consider our primary competitors to include Texas
+Instruments, National Semiconductor, Linear Technology, Fairchild Semiconductor
+and Intersil Semiconductor, all with respect to our power management products;
+ST Microelectronics N.V and Microsemi with respect to our protection products;
+Analog Devices, Maxim Integrated Products and ON Semiconductors, all with
+respect to our high performance/ATE products; Applied Micro Circuits
+Corporation, PMC-Sierra Inc. and Vitesse Semiconductor Corp., all with respect
+to our advanced communications products; and Philips Semiconductors and
+Synaptics Inc. with respect to our HID. Due to the fragmented nature of the
+analog semiconductor industry, we estimate that we have no more than 30 percent
+product overlap with any single competitor identified.
+
+
+Patents and Licenses
+
+     Patents, licenses and other rights have not proven in the past to be
+significant to our business. However, competition in the commercial marketplace
+has required that certain developed devices be protected by patents. We have
+pursued patent protection for certain devices. We intend to pursue these rights
+for future products that may require protection from use by competitors. At this
+time, we do not license our patents.
+
+                                       7
+<PAGE>
+
+Environmental Matters
+
+  On February 7, 2000, we were notified by the United States Environmental
+Protection Agency with respect to the Casmalia Disposal Site in Santa Barbara,
+California.  We have been included in the Superfund program to clean up this
+disposal site for our involvement in utilizing this site for waste disposal.  As
+of January 28, 2001, we had provided approximately $245,000 for potential
+settlement under this program, however, the ultimate resolution and timing of
+the resolution is unknown at this time. We believe the amount provided is
+sufficient to cover any liability existing based on the currently available
+information.
+
+  Certain contaminants have been found in the ground water at our Newbury Park
+facility. We have data showing that the contaminants are from an adjacent
+facility. We have never used the contaminants in question at our Newbury Park
+facility. To protect our interests, we utilize an environmental firm,
+specializing in hydrogeology, to perform periodic monitoring. It is currently
+not possible to determine the ultimate amount of possible future clean-up costs,
+if any, that may be required of us at this site. Accordingly, no reserve for
+clean-up has been provided at this time.
+
+
+Employees
+
+  As of January 28, 2001, we had 777 full-time employees, up from 731 full-time
+employees a year earlier.  We have never had a work stoppage, and our domestic
+and European employees are not unionized. Our Mexican Maquiladora operation has
+unionized employees. Employee relations at the Mexican plant have been, and are,
+satisfactory. Competition for key design and application engineers is
+significant.
+
+
+Government Regulations
+
+  We are required to comply with numerous government regulations that are normal
+and customary to manufacturing businesses, which operate in our markets and
+operating locations. In addition, a substantial portion of our sales that serve
+the military and aerospace markets consist of products which have been qualified
+to be sold in these markets by the U.S. Department of Defense (DOD). These
+products mainly consist of discrete rectifiers and rectifier assemblies. In
+order to maintain these qualifications, we must comply with certain
+specifications promulgated by the DOD. As part of maintaining these
+qualifications we are routinely audited by DOD personnel. Based on the
+specifications as they exist today, we believe we can maintain our
+qualifications for the foreseeable future. However, these specifications can be
+modified by the DOD in the future which may make the manufacturing of these
+products more difficult and thus could adversely impact our profitability in
+those product lines.
+
+
+                                 RISK FACTORS
+
+  You should carefully consider and evaluate all of the information in this Form
+10-K, including the risk factors listed below. Any of these risks could
+materially and adversely affect our business, financial condition and results of
+operations.
+
+  Keep these risk factors in mind when you read "forward-looking" statements
+elsewhere in this Form 10-K. These statements relate to our expectations about
+future events and time periods. Generally, the words "anticipate," "expect,"
+"intend" and similar expressions identify forward-looking statements. Forward-
+looking statements involve risks and uncertainties, and future events and
+circumstances could differ significantly from those anticipated in the forward-
+looking statements.
+
+
+Risks Related to Our Business
+
+
+  The cyclical nature of the semiconductor industry may limit our ability to
+maintain or increase revenue and profit levels during industry downturns
+
+  The semiconductor industry is highly cyclical. Current industry forecast
+suggest that calendar year 2001 will be a down year for the overall
+semiconductor and electronics industries.  High levels of semiconductor
+component
+
+                                       8
+<PAGE>
+
+inventory and declining demand at end-equipment manufacturers could result in a
+cyclical downturn in the marketplace. In the prior two years, high consumption
+levels by electronics manufactures was a major driver of demand for
+semiconductors, including the products we sell.
+
+     Our financial performance may be materially and adversely affected by
+significant downturns in the semiconductor industry as a result of:
+
+     .    general economic conditions;
+
+     .    general reductions in inventory levels by customers;
+
+     .    excess production capacity; and
+
+     .    accelerated declines in average selling prices of our products.
+
+The occurrence of these or other conditions in the semiconductor industry in the
+future could have a material adverse effect on our business, financial condition
+and results of operations.
+
+
+     Economic downturn in our end-markets may have adverse consequences for our
+business
+
+     We market our products to several commercial markets, including computers
+and peripherals, telecommunications, and industrial and test equipment. A
+downturn in any of our markets, particularly the consumer computer industry and
+the automated test equipment market, could materially and adversely affect our
+business, financial condition and results of operations. In addition, current
+efforts being undertaken by companies in the semiconductor manufacturing
+industry to increase worldwide semiconductor manufacturing capacity could lead
+to general manufacturing overcapacity and to underutilization of our
+manufacturing capacity.
+
+
+     We may be unsuccessful in developing and selling new products required to
+maintain or expand our business
+
+     We operate in a dynamic environment characterized by price erosion, rapid
+technological change and design and other technological obsolescence. Our
+competitiveness and future success depend on our ability to introduce new or
+improved products that meet customer needs while achieving acceptable margins.
+If we fail to introduce these new products in a timely manner or these products
+fail to achieve market acceptance, our business, financial condition and results
+of operations could be materially and adversely affected.
+
+     The introduction of new products presents significant business challenges
+because product development commitments and expenditures must be made well in
+advance of product sales. The success of a new product depends on accurate
+forecasts of long-term market demand and future technological developments, as
+well as on a variety of specific implementation factors including:
+
+     .    timely and efficient completion of process design and development;
+
+     .    timely and efficient implementation of manufacturing and assembly
+          processes;
+
+     .    product performance;
+
+     .    the quality and reliability of the product; and
+
+     .    effective marketing, sales and service.
+
+The failure of our products to achieve market acceptance due to these and other
+factors could materially and adversely affect our business, financial condition,
+and results of operations.
+
+     We may fail to attract or retain the specialized technical and management
+personnel required to successfully operate our business
+
+                                       9
+<PAGE>
+
+     Our future success depends upon our ability to attract and retain highly
+qualified technical, marketing and managerial personnel. We are particularly
+dependent on a relatively small group of key technical personnel with analog and
+mixed-signal expertise. Personnel with analog and mixed-signal expertise are
+scarce and competition for personnel with these skills is intense. There can be
+no assurance that we will be able to retain existing key technical, marketing
+and managerial employees or that we will be successful in attracting,
+assimilating or retaining other highly qualified technical, marketing and
+managerial personnel in the future. If we are unable to retain existing key
+employees or are unsuccessful in attracting new highly qualified employees, our
+business, financial condition and results of operations could be materially and
+adversely affected.
+
+
+     We obtain certain components and materials and certain manufacturing
+services from a limited number of suppliers and subcontractors, including
+foreign-based entities
+
+     Our reliance on a limited number of outside subcontractors and suppliers
+for silicon wafers, packaging and certain other tasks involves several risks,
+including potential inability to obtain an adequate supply of required
+components and reduced control over the price, timely delivery, reliability and
+quality of components. There can be no assurance that problems will not occur in
+the future with suppliers or subcontractors. Disruption or termination of our
+supply sources or subcontractors could delay our shipments and could have a
+material adverse effect on our business, financial condition and results of
+operations. Delays could also damage relationships with current and prospective
+customers. Any prolonged inability to obtain timely deliveries or any other
+circumstances that would require us to seek alternative sources of supply or to
+manufacture or package certain components internally could have a material
+adverse effect on our business, financial condition and results of operations.
+
+     Several of our outside subcontractors and suppliers, including third-party
+foundries that supply silicon wafers, are located in foreign countries,
+including China, Malaysia, the Philippines and Germany.  Any political turmoil
+or trade restrictions could limit our ability to obtain goods and services from
+these suppliers and subcontractors. If we find it necessary to transition the
+goods and services received from such suppliers or subcontractors to other
+firms, potentially at much higher costs, we could experience a delay in
+production associated with such a transition.
+
+     Our future quarterly operating results may fluctuate, fail to match past
+performance, or fail to meet expectations
+
+    Our quarterly operating results may fluctuate in the future, may fail to
+match our past performance, or fail to meet the expectations of analysts and
+investors. Our quarterly operating results may fluctuate as a result of:
+
+     .    general economic conditions in the countries where we sell our
+          products;
+
+     .    seasonality and variability in the computer market and our other end
+          markets;
+
+     .    the timing of our and our competitors' new product introductions;
+
+     .    product obsolescence;
+
+     .    the scheduling, rescheduling, or cancellation of orders by our
+          customers;
+
+     .    the cyclical nature of demand for our customers' products;
+
+     .    our ability to develop new process technologies and achieve volume
+          production at our fabrication facilities; (S) changes in manufacturing
+          yields;
+
+     .    movements in exchange rates, interest rates or tax rates;
+
+     .    the availability of adequate supply commitments from our outside
+          suppliers; and
+
+     .    the manufacturing and delivery capabilities of our subcontractors.
+
+As a result of these factors, our past financial results are not necessarily
+indicative of our future results.
+
+                                       10
+<PAGE>
+
+     Fluctuations and seasonality in the personal computer industry may have
+adverse consequences for our business
+
+     Many of our products are used in personal computers and related
+peripherals. Industry-wide fluctuations in the personal computer marketplace
+have in the past and may in the future materially and adversely affect our
+business. In addition, our past results have reflected some seasonality, with
+demand levels being higher in computer segments during the third and fourth
+quarters of the year in comparison to the first and second quarters.
+
+     The build-out of the Internet and the related need for communications
+infrastructure equipment and higher bandwidth networks has driven overall demand
+for semiconductor and our products
+
+     The overall semiconductor industry and our business in particular has
+benefited from the build-out of the Internet and the related demand for
+communications infrastructure equipment. A large driver in the need for
+communication equipment is desire to have higher-speed (higher bandwidth)
+networks. The electronics need to support this trend within the communications
+market relies heavily on companies like us to develop the circuits used in these
+systems.
+
+Any major cut in communications infrastructure investment will have a negative
+impact on the overall industry and our sales into these end market segments.
+Much of our sales growth and margin expansion in recent years has come from
+sales of products into wireless, local area networks, wide area networks and
+long-haul communications applications.
+
+     Sales of products into the ATE market were approximately 24 percent of
+total net sales in fiscal year 2001; the ATE market is characterized as being
+cyclical
+
+     In fiscal year 2001, shipment of products to automated test equipment (ATE)
+customers represented approximately 24 percent of net sales. Our line of high
+performance products, which is primarily sold into the ATE market, is our
+highest margin product line. The ATE market is characterized as being cyclical.
+Past downturns in the test equipment and overall market for semiconductor
+capital equipment have been sudden and dramatic.
+
+     Interest rates effect our return on excess cash and investments; interest
+income has in the past offset interest expense associated with our outstanding
+debt
+
+Interest rates effect our return on excess cash and investments. A significant
+decline in interest rates would reduce the amount of interest income generated
+from our excess cash and investments. In the past, interest income has exceeded
+interest expense associated with our corporate debt that was issued at an
+effective fixed rate of approximately 5 percent. Current interest rates are
+substantially lower than rates at this same time last year.
+
+     We receive a significant portion of our revenues from a small number of
+customers
+
+Historically, we have had significant customers that individually accounted for
+approximately 10 percent of consolidated revenues in certain quarters. The
+composition of our largest customers has varied from year to year. In fiscal
+year 2001, we had no customer which accounted for 10 percent of annual net
+sales. However, a group of customers that included one of our automated test
+equipment customers, their suppliers and their sub-contractors, accounted for 14
+percent of net sales in fiscal year 2001.
+
+     We primarily conduct our sales on a purchase order basis, rather than
+pursuant to long-term supply contracts. The loss of any significant customer,
+any reduction in orders by any of our significant customers, the cancellation of
+a significant customer order, or the cancellation or delay of a customer's
+significant program or product could materially and adversely affect our
+business, financial condition and results of operations.
+
+     We are expanding and diversifying our operations, and if we fail to manage
+our expanding and more diverse operations successfully it may materially and
+adversely affected our business
+
+                                       11
+<PAGE>
+
+     Our strategy includes expansion and diversification of our operations
+through internal development. Our diversification into new markets and product
+lines will increase demand on our management, financial resources and
+information and internal control systems. Our success depends in significant
+part on our ability to implement, improve and expand our systems, procedures and
+controls. If we fail to do this at a pace consistent with the development of our
+business, then our business, financial condition and results of operations could
+be materially and adversely affected.
+
+     As we seek to expand our operations, we expect to encounter a number of
+risks, which may include those associated with:
+
+     .    hiring additional management and other critical personnel;
+
+     .    adding equipment and capacity; and
+
+     .    increasing the scope, geographic diversity and complexity of our
+          operations.
+
+
+     We have acquired and may continue to acquire other companies and may be
+unable to successfully integrate such companies with our operations
+
+     In the past we have expanded our operations through strategic acquisitions
+and we may continue to expand and diversify our operations with additional
+acquisitions. If we are unsuccessful in integrating these companies with our
+operations, or if integration is more difficult than anticipated, we may
+experience disruptions that could have a material adverse effect on our
+business, financial condition and results of operations. Some of the risks that
+may affect our ability to integrate companies we acquire include those
+associated with:
+
+     .    unexpected losses of key employees or customers of the acquired
+          company;
+
+     .    conforming the acquired company's standards, processes, procedures and
+          controls with our operations;
+
+     .    coordinating our new product and process development;
+
+     .    hiring additional management and other critical personnel; and
+
+     .    increasing the scope, geographic diversity and complexity of our
+          operations.
+
+
+     We compete against larger, more established entities
+
+     The semiconductor industry is intensely competitive and is characterized by
+price erosion, rapid technological change and design and other technological
+obsolescence. We compete with domestic and international semiconductor
+companies, many of which have substantially greater financial and other
+resources with which to pursue engineering, manufacturing, marketing and
+distribution of their products. Some of these competitors include: Texas
+Instruments, National Semiconductor, Linear Technology, Fairchild Semiconductor
+and Intersil Semiconductor, all with respect to our power management products;
+ST Microelectronics N.V. with respect to our protection products; Analog
+Devices, Maxim Integrated Products and ON Semiconductor, all with respect to our
+high performance/ATE products; Applied Micro Circuits Corporation, PMC-Sierra
+Inc. and Vitesse Semiconductor Corp., all with respect to our advanced
+communications products; and Philips Semiconductors, Synaptics Inc. and
+Mitsubishi Electric Corp, all with respect to our intelligent input/output
+devices. We expect continued competition from existing competitors as well as
+competition from new entrants in the semiconductor market. Our ability to
+compete successfully in the rapidly evolving area of integrated circuit
+technology depends on several factors, including:
+
+     .    success in designing and manufacturing new products that implement new
+          technologies;
+
+     .    protection of our processes and know-how;
+
+     .    maintaining high product quality and reliability;
+
+     .    pricing policies of our competitors;
+
+     .    performance of competitors' products;
+
+                                       12
+<PAGE>
+
+     .    ability to deliver in large volume on a timely basis;
+
+     .    marketing, manufacturing and distribution capability; and
+
+     .    financial strength.
+
+
+     Fluctuating production yields may increase production costs and cause
+inventory shortages
+
+     The manufacture of semiconductor products is a highly complex and precise
+process. Defects in masks, impurities in the materials used, contamination of
+the manufacturing environment, failure of equipment and other difficulties in
+the fabrication process can cause a substantial percentage of wafers to be
+rejected or numerous die on each wafer to be nonfunctional. Wafer yields can
+decline without warning, resulting in substantially higher production costs and
+inventory shortages. Yield problems may take substantial time to analyze and
+correct. Yield problems may also arise from our outsourced third party
+manufacturers. We may experience production yield problems in the future that
+could materially and adversely affect our business, financial condition and
+results of operations.
+
+
+     We must commit resources to product production prior to receipt of purchase
+commitments and could lose some or all of the associated investment
+
+     Sales are made primarily on a current delivery basis pursuant to purchase
+orders that may be revised or cancelled without penalty, rather than pursuant to
+long-term supply contracts. Some contracts require us to maintain inventories of
+certain products at levels above the anticipated needs of our customers. As a
+result, we must commit resources to the production of products without any
+advance purchase commitments from customers. Our inability to sell products
+after we devote significant resources to them could have a material adverse
+effect on our business, financial condition and results of operations.
+
+     We may underutilize our manufacturing facilities or we may have inadequate
+facilities to meet the demand for our products
+
+     We may underutilize our manufacturing facilities from time to time as a
+result of reduced demand for our products. If demand for our products does not
+increase consistent with our plans and expectations, we will likely underutilize
+our manufacturing facilities which could have a material adverse effect on our
+business, financial condition and results of operations.
+
+     Conversely, there may be situations in the future in which our
+manufacturing facilities will be inadequate to meet the demand for our products.
+Our inability to generate sufficient manufacturing capacities to meet demand,
+either through our own facilities or through outsourcing to third parties, could
+have a material adverse effect on our business, financial condition and results
+of operations.
+
+     We sell and trade with foreign customers, which subjects our business to
+increased risks applicable to international sales
+
+     Sales to foreign customers accounted for approximately 52 percent of net
+sales in the fiscal year ended January 28, 2001 and 64 percent of net sales for
+fiscal year 2000. The percentage of international sales may increase in future
+years. International sales are subject to certain risks, including unexpected
+changes in regulatory requirements, fluctuations in exchange rates, tariffs and
+other barriers, political and economic instability, difficulties in accounts
+receivable collection, difficulties in managing distributors and
+representatives, difficulties in staffing and managing foreign subsidiary
+operations and potentially adverse tax consequences. There can be no assurance
+that any of these factors will not have a material adverse effect on our
+business, financial condition and results of operations. In addition, even
+though the majority of our foreign sales are denominated in U.S. dollars,
+currency exchange fluctuations in countries where we do business could
+materially and adversely affect us by resulting in pricing that is not
+competitive with prices denominated in local currencies.
+
+     We may be unable to adequately protect our intellectual property rights
+
+                                       13
+<PAGE>
+
+     Few of our products are protected by patents and we rely primarily on a
+combination of nondisclosure agreements and other contractual provisions, as
+well as the commitment to confidentiality and loyalty of our employees, to
+protect our know-how and processes. We intend to continue to protect our
+proprietary technology through copyrights and trade secrets and, to a limited
+extent, patents. Despite this intention, we may not be successful in achieving
+adequate protection. Our failure to adequately protect our material know-how and
+processes could have a material adverse effect on our business, financial
+condition and results of operations. There can be no assurance that the steps we
+have taken will be adequate to protect our proprietary rights or that a
+competitor will not independently develop similar or superior know-how or
+processes. Also, the laws of the countries in which our products are or may be
+developed, manufactured , or sold may not protect our products and intellectual
+property rights to the same extent as laws in the United States.
+
+     The semiconductor industry is characterized by frequent litigation
+regarding patent and intellectual property rights. Due to the number of
+competitors, the potential for patent infringement exists and is an ongoing risk
+since other companies in our industry could have patent rights which may not be
+identifiable when we initiate development efforts. Litigation, which could
+result in substantial cost and diversion of resources, may be necessary to
+enforce our intellectual property rights or to defend ourselves against
+infringement claims. We may also be subject to future intellectual property
+claims or judgments. If these were to occur, we may be unable to obtain a
+license on favorable terms, if at all, or without a material adverse effect on
+our business, financial condition and results of operations.
+
+     We are subject to environmental regulations
+
+     We are subject to a variety of United States federal, foreign, state and
+local governmental laws, rules and regulations related to the use, storage,
+handling, discharge or disposal of certain toxic, volatile or otherwise
+hazardous chemicals used in our manufacturing process. Any of these regulations
+could require us to acquire equipment or to incur substantial other expenses to
+comply with environmental regulations. If we were to incur substantial
+additional expenses, product costs could significantly increase, thus materially
+and adversely affecting our business, financial condition and results of
+operations. Any failure to comply with present or future environmental laws,
+rules and regulations could result in fines, suspension of production or
+cessation of operations, any of which could have a material adverse effect on
+our business, financial condition and results of operations.
+
+     Our products may be found to be defective, product liability claims may be
+asserted against us and we may not have sufficient liability insurance
+
+     One or more of our products may be found to be defective after we have
+already shipped such products in volume, requiring a product replacement,
+recall, or a software fix which would cure the defect but impede performance. We
+may also be subject to product returns which could impose substantial costs and
+have a material and adverse effect on our business, financial condition and
+results of operations.
+
+     Product liability claims may be asserted with respect to our technology or
+products. Although we currently have product liability insurance, there can be
+no assurance that we have obtained sufficient insurance coverage or that we will
+have sufficient resources to satisfy any product liability claims.
+
+     Some of our facilities are located near major earthquake fault lines
+
+     Our corporate headquarters, a portion of our manufacturing facilities,
+assembly and research and development activities and certain other critical
+business operations are located near major earthquake fault lines. We could be
+materially and adversely affected in the event of a major earthquake. We do not
+maintain earthquake insurance.
+
+     We could be required to register as an investment company and become
+subject to substantial regulation that would interfere with our ability to
+conduct our business.
+
+     We invest in short-term instruments consistent with prudent cash management
+and not primarily for the purpose of achieving investment returns. This could
+result in our being required to register and be treated as an investment company
+under the Investment Company Act of 1940. The Investment Company Act requires
+the registration of companies which are engaged primarily in the business of
+investing, reinvesting or trading in securities or which are engaged in
+investing, reinvesting, owning, holding or trading in securities and over 40% of
+whose assets on an
+
+                                       14
+<PAGE>
+
+unconsolidated basis (other than government securities and cash) consist of
+investment securities. While we do not believe that we are engaged primarily in
+the business of investing, reinvesting or trading in securities, we may invest
+our cash and cash equivalents in government securities to the extent necessary
+to avoid having over 40% of our assets consist of investment securities.
+Government securities are defined as securities issued by the U.S. government
+and certain federal agencies. These securities generally yield lower rates of
+income than other short-term instruments in which we have invested to date.
+Accordingly, investing substantially all of our cash and cash equivalents in
+government securities could result in lower levels of interest income and net
+income.
+
+     If we were required to register as an investment company under the
+Investment Company Act, we would become subject to substantial regulation with
+respect to our capital structure, management, operations, transactions with
+affiliated persons, if any, and other matters, incur substantial costs and
+experience a disruption of our business. Application of the provisions of the
+Investment Company Act to us would materially and adversely affect our business,
+prospects, financial condition and results of operations.
+
+
+ITEM 2.  PROPERTIES
+
+     Our headquarters facility is located in Newbury Park, California where we
+lease approximately 53,000 square feet under a lease that extends through August
+2003. This facility supports a very limited amount of our manufacturing
+operations, as well as all of our inside sales, marketing and administrative
+offices. In November 1999, we purchased a parcel of land in Camarillo,
+California for approximately $5.1 million. We are building a 87,000 square foot
+facility. This location will be the future headquarters of the corporation. The
+facility should be completed by the end of fiscal year 2002 for a cost of
+approximately $11.5 million.
+
+     In addition, we lease two facilities in Santa Clara, California. One
+facility houses wafer fabrication operations, contains 10,345 square feet and
+has a lease that extends until November 2004. The other facility which houses
+design engineering, test and administration, contains 13,250 square feet and has
+a lease that extends until November 2005. On March 19, 2001, we announced that
+we were exiting the foundry services business and in negotiations to sell our
+Santa Clara wafer fabrication facility and the rights associated with its lease.
+The planned divestiture of the Santa Clara wafer fab is part of our strategy to
+source a majority of our silicon wafers from outside foundries. We expect no
+material financial impact as a result of the planned sale of the Santa Clara
+wafer fab facility.
+
+     In December 2001, we purchased a parcel of land in San Diego, California
+for approximately $7.9 million. We are exploring plans to build a facility that
+would house our high performance products business unit. We have not yet
+estimated how much it would cost to build-out this location.
+
+     We lease a facility in Corpus Christi, Texas, which houses a wafer
+fabrication line, production testing, and certain engineering functions, and
+contains approximately 44,000 square feet under a lease that extends through
+December 2001. In addition, we lease space to house certain of our other
+manufacturing, design, sales and marketing facilities in San Diego, California;
+Oxnard, California; Raleigh, North Carolina; Connecticut; France; Germany;
+Taiwan; Korea; Southampton, England; St. Gallen, Switzerland and Glasgow,
+Scotland.
+
+     We also own a 20,000 square foot manufacturing facility in Glenrothes,
+Fife, Scotland and a 22,000 square foot building in Reynosa, Mexico.
+
+     Between our existing leased and owned facilities, we believe to have more
+than adequate space for our current operations, and that suitable replacement
+and additional space will be available in the future on commercially reasonable
+terms.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     We periodically become subject to legal proceedings in the ordinary course
+of our business. Other than the action detailed below, we are not currently
+involved in any proceedings which we believe could materially and adversely
+affect us.
+
+  On February 7, 2000, we were notified by the United States Environmental
+Protection Agency with respect to the Casmalia Disposal Site in Santa Barbara,
+California.  We have been included in the Superfund program to clean up this
+
+                                       15
+<PAGE>
+
+disposal site for our involvement in utilizing this site for waste disposal. As
+of January 30, 2000, we had provided approximately $245,000 for potential
+settlement under this program, however, the ultimate resolution and timing of
+the resolution is unknown at this time. We believe the amount provided is
+sufficient to cover any liability existing based on the currently available
+information.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     During the fourth quarter of the fiscal year covered by this report no
+matter was submitted to a vote of the security holders through the solicitation
+of proxies or otherwise.
+
+
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+
+     The Company's Common Stock is traded on the NASDAQ National Market under
+the symbol "SMTC". The following table sets forth, for the fiscal periods
+indicated, the quarterly high and low closing prices.
+
+                                                             High        Low
+                                                        ------------------------
+               Fiscal Year 2001:
+                       First Quarter......................    $37.94      $25.52
+                       Second Quarter.....................    $47.06      $22.50
+                       Third Quarter......................    $59.22      $28.75
+                       Fourth Quarter.....................    $32.25      $15.38
+               Fiscal Year 2000:
+                       First Quarter......................    $ 8.82      $ 6.19
+                       Second Quarter.....................    $17.02      $ 8.21
+                       Third Quarter......................    $21.35      $14.00
+                       Fourth Quarter.....................    $34.00      $18.63
+
+     As of April 13, 2001, there were approximately 15,500 recorded holders of
+the Company's common stock. The last reported sales price for the Company's
+common stock on the NASDAQ National Market System at April 13, 2001, was $30.02
+per share.
+
+     The Company discontinued its cash dividend in 1980 and does not anticipate
+paying a cash dividend in the current year. The Company declared two-for-one
+stock splits in fiscal years 2001, 2000 and 1998 in the form of 100 percent
+stock dividends to stockholders. The Company does not anticipate another stock
+dividend being declared in the foreseeable future.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The following table sets forth summary consolidated financial information.
+Amounts are in thousands, except per share amounts. The acquisitions of USAR
+Systems (USAR) in December 1999, Acapella Limited (Acapella) in April 1998, and
+Edge Semiconductor (Edge) in April 1997 were accounted for as poolings of
+interests. The financial positions and results of operations of USAR, Acapella,
+and Edge were included from November 1, 1999, February 1, 1998, and January 28,
+1996, respectively (see Note 2 to the Consolidated Financial Statements).
+Weighted average number of shares and net income per share reflect two-for-one
+stock splits, effected in the form of stock dividends that were paid on January
+13, 1998, September 14, 1999 and September 26, 2000. The information set forth
+below should be read in conjunction with the Company's complete financial
+statements, appearing elsewhere in this report.
+
+<TABLE>
+<CAPTION>
+                                                                 Year Ended January
+                                    ---------------------------------------------------------------------------
+                                               1997           1998           1999           2000           2001
+                                    ---------------------------------------------------------------------------
+<S>                                         <C>           <C>            <C>            <C>            <C>
+Net Sales                                   $71,595       $102,808       $114,519       $173,768       $256,685
+Gross Profit                                 30,683         48,929         54,278         91,037        144,866
+Operating Income                             12,663         21,809         18,576         42,958         76,694
+Income Before Taxes                          12,714         22,159         19,362         44,104         86,028
+Net Income                                  $ 8,487       $ 14,761       $ 12,895       $ 29,395       $ 60,220
+- ---------------------------------------------------------------------------------------------------------------
+Net Income per Share:
+</TABLE>
+
+                                       16
+<PAGE>
+
+<TABLE>
+<S>                                         <C>           <C>            <C>            <C>            <C>
+    Basic                                   $  0.16       $   0.26       $   0.22       $   0.48       $   0.91
+    Diluted                                 $  0.15       $   0.24       $   0.20       $   0.42       $   0.79
+- ---------------------------------------------------------------------------------------------------------------
+Weighted Average Number of Shares:
+    Basic                                    54,356         55,912         58,688         61,670         66,247
+    Diluted                                  56,200         60,472         63,568         70,630         76,527
+- ---------------------------------------------------------------------------------------------------------------
+Total Assets                                $45,688       $ 67,135       $ 92,556       $149,350       $677,288
+Long-Term Obligations, Less Current
+ Maturities                                 $ 1,256       $     33       $     57       $    131       $400,230
+
+Working Capital                             $25,585       $ 41,312       $ 65,844       $ 96,687       $530,967
+Total Stockholders' Equity                  $33,986       $ 54,661       $ 79,771       $125,482       $242,357
+</TABLE>
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+     You should read the following discussion of our financial condition and
+results of operations together with the consolidated financial statements and
+the notes to consolidated financial statements included elsewhere in this Form
+10-K. This discussion contains forward-looking statements based on our current
+expectations, assumptions, estimates and projections about us and our industry.
+These forward-looking statements involve risks and uncertainties. Our actual
+results could differ materially from those anticipated in these forward-looking
+statements as a result of certain factors, as more fully described in the "Risk
+Factors" section and elsewhere in this Form 10-K. We undertake no obligation to
+update any forward-looking statements for any reason, even if new information
+becomes available or other events occur in the future.
+
+Overview
+
+     We design, develop, manufacture and market a wide range of analog and
+mixed-signal semiconductors for commercial and military applications. Our
+products are sold principally to customers in the computer, communications and
+industrial markets. Computer market applications include desktop computers,
+servers, workstations, laptop computers, personal digital assistants (PDAs) and
+computer add-on cards. Products within the communications market include local
+area networks, wide area networks, cellular phones and base-stations. Industrial
+applications include automated test equipment (ATE), medical devices and factory
+automation systems. Our focus on these commercial applications over the past
+several years represents a substantial transition from our historical business,
+which was predominantly military and aerospace applications.
+
+     Sales to customers are made on the basis of individual customer purchase
+orders. Many large commercial customers, particularly in the personal computer
+industry, include terms in their purchase orders, which provide liberal
+cancellation provisions. Recent trends within the industry toward shorter lead-
+times and "just-in-time" deliveries have resulted in our reduced ability to
+predict future shipments. As a result, we expect the percentage of turns-fill
+business (orders received and shipped within the same quarter) to increase as a
+percentage of net sales.
+
+     One of our strategies is to expand our business through strategic
+acquisitions. Over the past five years, we have made several small acquisitions
+in order to increase our pool of skilled technical personnel and penetrate new
+market segments such as high performance, advanced communications, and human
+interface and system management devices. These acquisitions include: USAR
+Systems Incorporated; Practical Sciences, Inc.; Acapella Limited and Edge
+Semiconductor. The acquisitions of USAR, Acapella and Edge were accounted for as
+poolings of interests.
+
+     The results of operations described below give effect to our two-for-one
+stock splits in the form of 100 percent stock dividends that were paid on
+September 26, 2000 and September 14, 1999.
+
+
+Market Update
+
+     The semiconductor and electronics industries have experienced very weak
+market conditions so far in calendar year 2001. Excess inventory levels and
+slowing end-market demand have adversely affected macro conditions within the
+semiconductor industry. Industry sources have forecasted that worldwide year-
+over-year sales of semiconductors
+
+                                       17
+<PAGE>
+
+could be down as much as 20 percent in calendar year 2001. Many of our customers
+and competitors have forecasted their results will be down dramatically in
+calendar year 2001 in comparison to the prior year.
+
+     Consistent with these trends, we have revised our forecast as a result of
+weak demand from the communications infrastructure and ATE markets. We had
+received a limited amount of turns-filled-orders from the communications market
+during the first quarter, and had to cancel backlog for many communications
+customers. Additionally, a significant amount of backlog for the ATE market was
+rescheduled to reflect customers' revised forecasts. Finally, demand from the
+computer market was relatively stable. Ultimately, we believe our new product
+developments and strategic focus should allow us to remain well positioned
+within the marketplace.
+
+
+Results of Operations
+
+     Fiscal Year 2001 Compared With Fiscal Year 2000
+
+     Net Sales. We generally recognized product revenue when persuasive evidence
+of an arrangement exists, delivery has occurred, the fee is fixed or
+determinable and collectibility is probable. Net sales for fiscal year 2001 were
+$256.7 million, compared to $173.8 million for fiscal year 2000, a 48 percent
+increase. This increase was due in part to favorable market conditions in the
+overall semiconductor industry and the growth in sales into the communications
+and industrial end market.
+
+     Gross Profit. Gross profit is equal to our net sales less our cost of
+sales. Our cost of sales includes materials, direct labor and overhead. Cost of
+inventory is determined by the first-in, first-out method. Gross profit for
+fiscal year 2001 was $144.9 million, compared to $91.0 million for the
+comparable period in the prior year, a 59 percent increase. Our gross margins
+(defined as gross profit as a percentage of net sales) are generally affected by
+price changes over the life of the products and the overall mix of products
+sold. Higher gross margins are generally expected from new products and improved
+production efficiencies as a result of increased utilization. Conversely, prices
+for existing products generally will continue to decrease over their respective
+life cycles. Our gross margin was 56 percent for fiscal year 2001. This compared
+to a gross margin of 52 percent for fiscal year 2000. The improvement is
+attributed to increased operating efficiencies associated with higher shipment
+levels, higher revenue contribution from products introduced in the last
+eighteen months, and a favorable shift in product mix toward higher margin
+product lines.
+
+     Operating Costs and Expenses. Operating costs and expenses generally
+consist of selling, general and administrative (SG&A), product development and
+engineering costs (R&D), costs associated with acquisitions, and other operating
+related charges. Operating costs and expenses were $68.2 million, or 27 percent
+of net sales, for fiscal year 2001. Operating costs and expenses for fiscal year
+2000 were $48.1 million, or 28 percent of net sales. Operating costs and
+expenses, as a percentage of net sales, are lower for fiscal year 2001 than
+previous levels due to higher shipment rates and greater efficiencies.
+
+     SG&A expenses for fiscal year 2001 were $36.2 million, or 14 percent of net
+sales, compared to $27.2 million, or 16 percent of net sales for fiscal year
+2000. The increase in expenditures was due primarily to the overall growth of
+our business, while the decrease in percentage of net sales reflects higher
+revenues and greater efficiencies.
+
+     R&D expenses were relatively consistent, as a percentage of net sales, at
+$32.0 million, or 12 percent of net sales in fiscal year 2001, up 57 percent
+from $20.3 million, or 12 percent of net sales in fiscal year 2000. We continue
+to invest heavily in areas deemed critical for developing and marketing new
+products, which are generally targeted at broadening our customer base, product
+lines and end-product applications.
+
+     Operating costs and expenses for fiscal year 2000 include one-time costs of
+$531,000 associated with the December 1999 acquisition of USAR Systems.
+
+     Interest and Other Income. Interest and other income of $9.3 million was
+realized in fiscal year 2001, up dramatically from interest and other income of
+$1.1 million in fiscal year 2000. Interest and other income in fiscal year 2001
+is made up primarily of interest income. For fiscal year 2000, interest and
+other income and expenses was primarily interest income. The significant
+increase in interest and other income in fiscal year 2001 over the prior year
+was income attributable to cash provided by the February 2000 issuance of $400.0
+million in convertible subordinated debentures. Interest income from investments
+made with the debenture proceeds far exceed the fixed interest expense paid to
+bond holders.
+
+                                       18
+<PAGE>
+
+     Provision for Taxes. Provision for income taxes was $25.8 million in fiscal
+year 2001, an effective tax rate of 30 percent. Provision for income taxes was
+$14.7 million in fiscal year 2000, an effective tax rate of 33 percent. The
+decline is due to increased sales through foreign-based subsidiaries that are in
+lower tax jurisdictions.
+
+Fiscal Year 2000 Compared With Fiscal Year 1999
+
+     Net Sales. We generally recognized product revenue when persuasive evidence
+of an arrangement exists, delivery has occurred, the fee is fixed or
+determinable and collectibility is probable. Net sales for fiscal year 2000 were
+$173.8 million, compared to $114.5 million for fiscal year 1999, a 52 percent
+increase. This increase was due in part to favorable market conditions in the
+overall semiconductor industry and the growth in sales into the communications
+end market.
+
+     Gross Profit. Gross profit is equal to our net sales less our cost of
+sales. Our cost of sales includes materials, direct labor and overhead. Cost of
+inventory is determined by the first-in, first-out method. Gross profit for
+fiscal year 2000 was $91.0 million, compared to $54.3 million for the comparable
+period in the prior year, a 68 percent increase. Our gross margins (defined as
+gross profit as a percentage of net sales) are generally affected by price
+changes over the life of the products and the overall mix of products sold.
+Higher gross margins are generally expected from new products and improved
+production efficiencies as a result of increased utilization. Conversely, prices
+for existing products generally will continue to decrease over their respective
+life cycles. Our gross margin was 52 percent for fiscal year 2000. This compared
+to a gross margin of 47 percent for fiscal year 1999. The improvement is
+attributed to increased operating efficiencies associated with higher shipment
+levels, higher revenue contribution from products introduced in the last year,
+and a favorable shift in product mix toward higher margin product lines. Gross
+profit for fiscal year 1999 was adversely effected by one-time charges of $1.2
+million for write-offs of discontinued inventory associated with restructuring
+our Corpus Christi facility.
+
+     Operating Costs and Expenses. Operating costs and expenses generally
+consist of selling, general and administrative (SG&A), product development and
+engineering costs (R&D), costs associated with acquisitions, and other operating
+related charges. Operating costs and expenses were $48.1 million, or 28 percent
+of net sales, for fiscal year 2000. Operating costs and expenses for fiscal year
+1999 were $35.7 million, or 31 percent of net sales. Operating costs and
+expenses, as a percentage of net sales, are lower for fiscal year 2000 than
+previous levels due to higher shipment rates and greater efficiencies.
+
+     SG&A expenses for fiscal year 2000 were $27.2 million, or 16 percent of net
+sales, compared to $20.1 million, or 18 percent of net sales for fiscal year
+1999. The increase in expenditures was due primarily to the overall growth of
+our business, while the decrease in percentage of net sales reflects higher
+revenue contributions from newer products. R&D expenses were relatively
+consistent at $20.3 million, or 12 percent of net sales, for fiscal year 2000,
+compared to $14.0 million, or 12 percent of net sales, for fiscal year 1999. We
+continue to invest heavily in areas deemed critical for developing and marketing
+new products, which are generally targeted at broadening our customer base,
+product lines and end-product applications.
+
+     Operating costs and expenses for fiscal year 2000 include one-time costs of
+$531,000 associated with the December 1999 acquisition of USAR Systems.
+Operating costs and expenses for fiscal year 1999 include one-time costs of
+$255,000 associated with the April 1998 acquisition of Acapella Limited.
+Additionally, a one-time restructuring charge of $1.3 million was taken in the
+same period in connection with the consolidation of manufacturing capacity and
+the write-down of impaired assets at our Corpus Christi, Texas facility.
+
+     Interest and Other Income. Interest and other income of $1.1 million was
+realized in fiscal year 2000. For fiscal year 1999, interest and other income
+was $786,000. Interest and other income for both periods is primarily interest
+income.
+
+     Provision for Taxes. Provision for income taxes was $14.7 million in fiscal
+year 2000, compared to $6.5 million in fiscal year 1999. The effective tax rate
+for fiscal years 2000 and 1999 remained constant at 33 percent.
+
+
+Selected Quarterly Financial Data (Unaudited)
+
+     The following tables set forth our unaudited consolidated statements of
+income data for each of the eight quarterly periods ended January 28, 2001, as
+well as that data expressed as a percentage of our net sales for the quarters
+presented. You should read this information in conjunction with our consolidated
+financial statements and related notes
+
+                                       19
+<PAGE>
+
+appearing elsewhere in this Form 10-K. We have prepared this unaudited
+consolidated information on a basis consistent with our audited consolidated
+financial statements, and, in the opinion of our management, it reflects all
+normal recurring adjustments that we consider necessary for a fair presentation
+of our financial position and operating results for the quarters presented. You
+should not draw any conclusions about our future results from the operating
+results for any quarter.
+
+<TABLE>
+<CAPTION>
+                                                                      Quarter Ended
+                                ----------------------------------------------------------------------------------------
+                                   May 2,     Aug. 1,   Oct. 31,   Jan. 30,   April 30,  Jul. 30,   Oct. 29,   Jan. 28,
+                                   1999       1999      1999       2000       2000       2000       2000       2001
+                                ----------------------------------------------------------------------------------------
+                                                          (in thousands, except per share data)
+<S>                               <C>        <C>        <C>        <C>        <C>        <C>        <C>        <C>
+Net sales                           $33,044    $38,253    $47,072    $55,399    $57,412    $60,646    $69,012    $69,615
+Cost of sales                        16,445     18,609     22,087     25,590     26,220     27,006     29,553     29,040
+                                    -------    -------    -------    -------    -------    -------    -------    -------
+Gross profit                         16,599     19,644     24,985     29,809     31,192     33,640     39,459     40,575
+Operating costs and expenses:
+Selling, general and
+      administrative                  5,642      6,067      7,173      8,324      8,220      8,638      9,546      9,760
+Product development and
+      engineering                     4,117      4,527      5,532      6,166      7,045      7,721      8,615      8,627
+One-time charges                          -          -          -        531          -          -          -          -
+                                    -------    -------    -------    -------    -------    -------    -------    -------
+
+Total operating costs
+           and expenses               9,759     10,594     12,705     15,021     15,265     16,359     18,161     18,387
+                                    -------    -------    -------    -------    -------    -------    -------    -------
+Operating income                      6,840      9,050     12,280     14,788     15,927     17,281     21,298     22,188
+Interest and other income, net          254        231        244        417      1,329      2,311      2,758      2,936
+                                    -------    -------    -------    -------    -------    -------    -------    -------
+
+Income before taxes                   7,094      9,281     12,524     15,205     17,256     19,592     24,056     25,124
+Provisions for taxes                  2,341      3,063      4,133      5,172      5,177      5,878      7,216      7,537
+                                    -------    -------    -------    -------    -------    -------    -------    -------
+Net income                          $ 4,753    $ 6,218    $ 8,391    $10,033    $12,079    $13,714    $16,840    $17,587
+                                    =======    =======    =======    =======    =======    =======    =======    =======
+
+Net income per share (1):
+    Basic                           $  0.08    $  0.10    $  0.14    $  0.16    $  0.19    $  0.21    $  0.25    $  0.26
+                                    =======    =======    =======    =======    =======    =======    =======    =======
+    Diluted                         $  0.07    $  0.09    $  0.12    $  0.14    $  0.16    $  0.18    $  0.22    $  0.23
+                                    =======    =======    =======    =======    =======    =======    =======    =======
+
+ Weighted average number of
+ shares (1):
+    Basic                            60,116     60,932     61,866     63,728     64,682     65,820     66,923     67,582
+    Diluted                          66,204     69,224     71,086     73,708     74,764     75,828     77,114     76,208
+</TABLE>
+
+_________________
+(1) Reflects two-for-one stock splits effected in the form of 100 percent stock
+    dividends paid on September 14, 1999, and September 26, 2000.
+
+
+Liquidity and Capital Resources
+
+     On February 14, 2000, we completed a private offering of $400.0 million
+principal amount of convertible subordinated debentures that pay interest
+semiannually at a rate of 4 1/2 percent and are convertible into our common
+stock at a conversion price of $42.23 per share. The notes are due in seven
+years from the date of issuance and callable by the Company after three years.
+We intend to use the net proceeds of the offering for general corporate
+purposes, including working capital, expansion of sales, marketing and customer
+service capabilities, and product development. In addition, we may use a portion
+of the net proceeds to acquire or invest in complementary businesses,
+technologies, services or products.
+
+     On January 28, 2001, we had working capital of $531.0 million, compared
+with $96.7 million at January 30, 2000. The ratio of current assets to current
+liabilities at January 28, 2001 was 16.3 to 1, compared to 5.1 to 1 at January
+30, 2000. A majority of the increase was due to cash generated by the issuance
+of the convertible subordinated debentures.
+
+     Cash provided by operating activities was $86.0 million for the fiscal year
+2001, compared to $36.6 million for fiscal year 2000. Net income for fiscal year
+2001 was reduced by non-cash charges for depreciation and amortization
+
+                                       20
+<PAGE>
+
+of $8.8 million. Net operating cash flows were favorably impacted by net income
+of $60.2 million compared to $29.4 million in the prior year. Net operating
+activities for fiscal year 2001 were positively impacted by an increase in
+accounts payable, accrued liabilities and the impact of the tax benefit from
+stock option exercises. These items were partially offset by increases in
+receivables, inventories, income taxes refundable, and other assets as well as a
+reduction in income taxes payable and other liabilities.
+
+     Investing activities used $212.4 million in fiscal year 2001 compared to
+$31.4 million in fiscal year 2000. Investing activities in fiscal year 2001
+consists of increases in temporary investments, investments with maturities in
+excess of 1 year and capital expenditures of $130.5 million, $59.2 million and
+$22.7 million, respectively. Cash used in investing activities for the
+comparable prior year period reflects a $15.0 million addition to property,
+plant and equipment and $16.4 million increase in temporary investments.
+
+     Our financing activities provided positive cash flows of $404.5 million
+during fiscal year 2001 and used $1.0 million in the prior year. Financing
+activities for fiscal year 2001 reflect the proceeds, net of related fees, from
+the issuance of $400.0 million of convertible subordinated debentures, cash
+provided by stock option exercises, offset by the repurchase of treasury stock.
+Financing activities for the comparable prior year period represented cash from
+stock option exercises, cash used and proceeds from the repurchase and
+reissuance of treasury stock, and the cash effects of a pooling of interests.
+
+     We had a credit arrangement with a financial institution for borrowings up
+to $20.0 million at an interest rate of the 30 day commercial paper plus 2.2
+percent. Our credit arrangement expired in August 2000, and we did not extend or
+renew this credit facility. Through our foreign subsidiary, we maintain an
+overdraft credit line in the amount of 300,000 pounds sterling. As of January
+28, 2001, we had no borrowings outstanding under any credit facility.
+
+     In order to develop, design and manufacture new products, we had to make
+significant expenditures during the past five years. These investments aimed at
+developing new products, including the hiring of many design and applications
+engineers and related purchase of equipment, will continue. We fully intend to
+continue to invest in those areas that have shown potential for viable and
+profitable market opportunities. Certain of these expenditures, particularly the
+addition of design engineers, do not generate significant payback in the short-
+term. We plan to finance these expenditures with cash generated by operations
+and cash on-hand.
+
+     Purchases of new capital equipment were made primarily to improve internal
+computer systems and expand manufacturing capacity. Funding for these purchases
+was made from our operating cash flows and cash reserves. We have made
+significant investments in product and process technology. We believe that sales
+generating cash flows, together with the proceeds of the debt offering, cash
+reserves and existing credit facilities, are sufficient to fund operations and
+capital expenditures for the foreseeable future.
+
+
+Inflation
+
+     Inflationary factors have not had a significant effect on our performance
+over the past several years. A significant increase in inflation would affect
+our future performance.
+
+
+Recently Issued Accounting Standards
+
+     In June 1998 and June 1999, the Financial Accounting Standards Board (FASB)
+issued Statement of Financial Accounting Standards (SFAS) No. 133,  "Accounting
+for Derivative Investments and Hedging Activities," and SFAS No. 137, which
+delayed the effective date of SFAS No. 133. In June 2000, the FASB issued SFAS
+No. 138, which provides additional guidance for the application of SFAS No. 133
+for certain transactions.  We will adopt the statement in fiscal year 2002 and
+do not expect the adoption of this statement to have a material impact on our
+financial position or results of operations.
+
+     In December 1999, the Securities and Exchange Commission (SEC) issued Staff
+Accounting Bulletin (SAB) No. 101, "Revenue Recognition in Financial
+Statements," and as amended.  SAB 101 summarizes certain of the SEC's views in
+applying generally accepted accounting principles to revenue recognition in
+financial statements. We have applied the provisions of SAB 101 in the
+consolidated financial statements. The adoption of SAB 101 did not have a
+material impact on our financial condition or results of operations.
+
+     In March 2000, the FASB issued interpretation No. 44 (FIN 44), "Accounting
+for Certain Transactions Involving Stock Compensation, an Interpretation of APB
+Opinion No. 25." FIN 44 clarifies the application of APB No. 25 for
+
+                                       21
+<PAGE>
+
+certain issues, including the definition of an employee, the treatment of the
+acceleration of stock options and the accounting treatment for options assumed
+in business combinations. FIN 44 became effective on July 1, 2000, but is
+applicable for certain transactions dating back to December 1998. The adoption
+of FIN 44 did not have a significant impact on our financial position or results
+of operations.
+
+
+FORWARD LOOKING STATEMENTS
+
+     In addition to historical information, this Form 10-K contains statements
+relating to our future results. These statements include certain projections and
+business trends which are "forward-looking" within the meaning of the Private
+Securities Litigation Reform Act of 1995. These forward-looking statements are
+made only as of the date of this Form 10-K. We do not undertake to update or
+revise the forward-looking statements, whether as a result of new information,
+future events or otherwise.
+
+     Actual results may differ materially from projected results as a result of
+certain risks and uncertainties. These risks and uncertainties include, without
+limitation, those described under "Risk Factors" including those set forth
+below and those detailed from time to time in our filings with the SEC:
+
+ .    cyclical nature of the semiconductor industry;
+
+ .    adverse effects of economic downturn in our end-markets;
+
+ .    successful development and timing of new products;
+
+ .    ability to attract or retain specialized technical personnel;
+
+ .    availability of manufacturing capacity, including from foreign-based
+     suppliers;
+
+ .    fluctuation of quarterly operating results;
+
+ .    our reliance on the communications infrastructure and automated test
+     equipment markets;
+
+ .    fluctuations in interest rates effect our return on investments;
+
+ .    loss of a significant customer or customer order;
+
+ .    our ability to manage and integrate our expanding and more diverse
+     operations;
+
+ .    our ability to integrate strategic acquisitions;
+
+ .    our ability to compete against larger, more established entities;
+
+ .    fluctuations in manufacturing yields and commitment of resources prior to
+     receipt of customer orders;
+
+ .    our ability to protect our intellectual property rights;
+
+ .    uncertainties of litigation; and
+
+ .    other risks and uncertainties.
+
+
+ITEM 7A.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS
+           -----------------------------------------------------------
+
+Foreign Currency Risk
+
+     As a global enterprise, we face exposure to adverse movements in foreign
+currency exchange rates.  Our foreign currency exposures may change over time as
+the level of activity in foreign markets grows and could have an adverse impact
+upon financial results.
+
+                                       22
+<PAGE>
+
+     Certain of our assets, including certain bank accounts and accounts
+receivable, exist in nondollar-denominated currencies, which are sensitive to
+foreign currency exchange rate fluctuations. The nondollar-denominated
+currencies are principally German Deutschmarks, British Pounds Sterling and
+French Francs. Additionally, certain of our current and long-term liabilities
+are denominated principally in British Pounds Sterling currencies, which are
+also sensitive to foreign currency exchange rate fluctuations.
+
+     Because of the relatively small size of each individual currency exposure,
+we do not employ hedging techniques designed to mitigate foreign currency
+exposures. Likewise, we could experience unanticipated currency gains or losses.
+
+Interest Rate Risk
+
+     As of January 28, 2001, we had $400.0 million in long-term debt outstanding
+at a fixed interest rate of 4 1/2 percent. We do not currently hedge any
+potential interest rate exposure.
+
+                                       23
+<PAGE>
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+SEMTECH CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF INCOME
+THREE YEARS ENDED JANUARY 28, 2001
+(In thousands, except per share data)
+
+
+<TABLE>
+<CAPTION>
+
+                                                           2001                2000           1999
+- --------------------------------------------------------------------------------------------------------
+<S>                                                     <C>                <C>             <C>
+NET SALES                                                 $256,685           $173,768        $114,519
+Cost of Sales                                              111,819             82,731          60,241
+                                                          --------           --------        --------
+Gross Profit                                               144,866             91,037          54,278
+                                                          --------           --------        --------
+Operating costs and expenses:
+Selling, general and administrative                         36,164             27,206          20,091
+Product development and engineering                         32,008             20,342          14,026
+Restructuring charge                                             -                  -           1,330
+Acquisition costs                                                -                531             255
+                                                          --------           --------        --------
+Operating costs and expenses                                68,172             48,079          35,702
+                                                          --------           --------        --------
+Operating Income                                            76,694             42,958          18,576
+
+Interest expense                                           (18,718)               (57)            (22)
+Interest and other income, net                              28,052              1,203             808
+                                                          --------           --------        --------
+Income before provision for taxes                           86,028             44,104          19,362
+Provision for taxes                                         25,808             14,709           6,467
+                                                          --------           --------        --------
+NET INCOME                                                $ 60,220           $ 29,395        $ 12,895
+                                                          ========           ========        ========
+Earnings per share:
+Net income per share -
+Basic                                                     $   0.91           $   0.48        $   0.22
+Diluted                                                   $   0.79           $   0.42        $   0.20
+
+Weighted average number of shares -
+Basic                                                       66,247             61,670          58,688
+Diluted                                                     76,527             70,630          63,568
+</TABLE>
+
+See accompanying notes.
+
+                                       24
+<PAGE>
+
+SEMTECH CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+AS OF JANUARY 28, 2001 AND JANUARY 30, 2000
+(In thousands, except share data)
+
+<TABLE>
+<CAPTION>
+                                                                            2001               2000
+- ------------------------------------------------------------------------------------------------------
+<S>                                                                     <C>                 <C>
+ASSETS
+Current assets:
+Cash and cash equivalents                                                 $323,182            $ 45,225
+Temporary investments                                                      148,582              18,066
+Receivables, less allowances of $1,100 in 2001 and $750 in 2000             37,935              25,223
+Inventories                                                                 31,595              26,581
+Deferred income taxes                                                       19,993               4,106
+Other current assets                                                         4,381               1,223
+                                                                          --------            --------
+Total current assets                                                       565,668             120,424
+
+Property, plant and equipment, net                                          40,064              24,397
+
+Investments with maturities in excess of 1 year                             59,215                   -
+
+Deferred income taxes                                                          936               3,047
+
+Other assets                                                                11,405               1,482
+                                                                          --------            --------
+TOTAL ASSETS                                                              $677,288            $149,350
+                                                                          ========            ========
+
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable                                                          $ 12,934            $ 10,723
+Accrued liabilities                                                         18,925               8,869
+Deferred revenue                                                             2,049               2,555
+Income taxes payable                                                           756               1,389
+Other current liabilities                                                       37                 201
+                                                                          --------            --------
+Total current liabilities                                                   34,701              23,737
+
+Convertible subordinated debentures                                        400,000                   -
+
+Other long-term liabilities                                                    230                 131
+
+Commitments and contingencies
+
+Stockholders' equity:
+
+Common stock, $0.01 par value, 250,000,000 authorized
+68,158,882 issued and 68,116,382 outstanding in 2001 and                       682                 641
+ 64,096,504 issued and outstanding in 2000
+Treasury stock, 42,500 at cost in 2001                                      (1,018)                  -
+Additional paid-in capital                                                 111,303              53,564
+Retained earnings                                                          131,718              71,498
+Accumulated other comprehensive loss                                          (328)               (221)
+                                                                          --------            --------
+Total stockholders' equity                                                 242,357             125,482
+                                                                          --------            --------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                                $677,288            $149,350
+                                                                          ========            ========
+</TABLE>
+
+See accompanying notes.
+
+                                       25
+<PAGE>
+
+SEMTECH CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY AND COMPREHENSIVE INCOME
+THREE YEARS ENDED JANUARY 28, 2001
+(In thousands, except share amounts)
+
+
+<TABLE>
+<CAPTION>
+                                               Common Stock
+                                   ----------------------------------
+                                                                                                    Accumulated
+                                                           Additional                                  Other
+                                       Number               Paid-in    Retained      Treasury      Comprehensive    Stockholders'
+                                      of Shares   Amount    Capital    Earnings   Stock, at Cost       Loss             Equity
+- ---------------------------------------------------------------------------------------------------------------------------------
+<S>                                  <C>          <C>      <C>         <C>        <C>             <C>               <C>
+Balance at February 1, 1998          56,776,920     $568     $ 17,980  $ 36,332        $      -         $(219)           $ 54,661
+=================================================================================================================================
+Comprehensive income:
+  Net income                                  -        -            -    12,895               -             -              12,895
+  Translation adjustment                      -        -            -         -               -           (34)                (34)
+                                                                                                                         --------
+Comprehensive income                          -        -            -         -               -             -              12,861
+Effect of pooling with Acapella
+ Limited                                703,096        7           54       184               -             -                 245
+Exercise of stock options             3,295,904       33        6,112         -               -             -               6,145
+Tax benefit from exercised
+  stock options                               -        -        5,859         -               -             -               5,859
+- ---------------------------------------------------------------------------------------------------------------------------------
+Balance at January 31, 1999          60,775,920      608       30,005    49,411               -          (253)             79,771
+=================================================================================================================================
+Comprehensive income:
+  Net income                                  -        -            -    29,395               -             -              29,395
+  Translation adjustment                      -        -            -         -               -            32                  32
+                                                                                                                         --------
+Comprehensive income                          -        -            -         -               -             -              29,427
+Effect of pooling with  USAR
+ Systems                                990,808       10        1,224      (143)              -             -               1,091
+Stock repurchase                     (1,402,000)     (14)           -         -         (13,836)                          (13,850)
+Reissued treasury stock               1,382,000       14            -    (7,165)         13,836             -               6,685
+Purchase of Practical Sciences           20,000        -          349         -               -             -                 349
+Exercise of stock options             2,329,776       23        5,035         -               -             -               5,058
+Tax benefit from exercised
+  stock options                               -        -       16,951         -               -             -              16,951
+- ---------------------------------------------------------------------------------------------------------------------------------
+Balance at January 30, 2000          64,096,504      641       53,564    71,498               -          (221)            125,482
+=================================================================================================================================
+Comprehensive income:
+  Net income                                  -        -            -    60,220               -             -              60,220
+  Translation adjustment                      -        -            -         -               -          (107)               (107)
+                                                                                                                         --------
+Comprehensive income                          -        -            -         -               -             -              60,113
+Stock repurchase                        (42,500)       -            -         -          (1,018)                           (1,018)
+Exercise of stock options             4,062,378       41       16,946         -               -             -              16,987
+Tax benefit from exercised
+  stock options                               -        -       40,793         -               -             -              40,793
+- ---------------------------------------------------------------------------------------------------------------------------------
+Balance at January 28, 2001          68,116,382     $682     $111,303  $131,718        $ (1,018)        $(328)           $242,357
+=================================================================================================================================
+</TABLE>
+
+See accompanying notes.
+
+                                       26
+<PAGE>
+
+SEMTECH CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+THREE YEARS ENDED JANUARY 28, 2001
+(In thousands)
+<TABLE>
+<CAPTION>
+                                                                                2001            2000            1999
+- --------------------------------------------------------------------------------------------------------------------
+<S>                                                                   <C>              <C>             <C>
+Cash flows from operating activities:
+  Net income                                                               $  60,220        $ 29,395         $12,895
+  Adjustments to reconcile net income to
+  net cash provided by operating activities:
+      Depreciation and amortization                                            8,837           4,118           3,723
+      Deferred income taxes                                                  (13,776)        (21,487)         (6,661)
+      Gain on disposition of property, plant and equipment                         -               -              (1)
+      Provision for doubtful accounts                                            760              45             135
+      Tax benefit from stock option exercises                                 40,793          16,951           5,859
+      Non-cash portion of restructuring charge                                     -               -           2,366
+  Changes in assets and liabilities, net of effect of acquisition:
+      Receivables                                                            (13,472)         (9,854)         (1,827)
+      Inventories                                                             (5,014)         (9,778)           (955)
+      Other assets                                                            (3,407)           (823)           (509)
+      Accounts payable                                                         2,211           5,427              55
+      Accrued liabilities                                                     10,056           3,767             643
+      Deferred revenue                                                          (506)            320           2,235
+      Income taxes payable                                                      (633)         18,340           4,839
+      Other liabilities                                                          (65)            180          (1,602)
+                                                                           ---------        --------         -------
+Net cash provided by operating activities                                     86,004          36,601          21,195
+Cash flows from investing activities:
+    Temporary investments, net                                              (130,516)        (16,418)            204
+    Purchases of investments, maturing in excess of 1 year                   (59,215)              -               -
+    Proceeds from sale of property, plant and equipment                            -               -              62
+    Purchases of property, plant and equipment                               (22,667)        (15,009)         (5,590)
+                                                                           ---------        --------         -------
+Net cash used in investing activities                                       (212,398)        (31,427)         (5,324)
+Cash flows from financing activities:
+    Issuance of long-term debt, net of fees                                  388,489               -               -
+    Exercise of stock options                                                 16,987           5,058           6,145
+    Repurchase of treasury stock                                              (1,018)        (13,850)              -
+    Reissuance of treasury stock                                                   -           6,685               -
+    Effect of pooling of interests                                                 -           1,091             245
+                                                                           ---------        --------         -------
+Net cash provided by (used in) financing activities                          404,458          (1,016)          6,390
+Effect of exchange rate changes on cash and cash equivalents                    (107)             32             (34)
+                                                                           ---------        --------         -------
+Net increase in cash and cash equivalents                                    277,957           4,190          22,227
+Cash and cash equivalents at beginning of year                                45,225          41,035          18,808
+                                                                           ---------        --------         -------
+Cash and cash equivalents at end of year                                   $ 323,182        $ 45,225         $41,035
+                                                                           =========        ========         =======
+</TABLE>
+
+See accompanying notes.
+
+                                       27
+<PAGE>
+
+SEMTECH CORPORATION AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   Summary of Significant Accounting Policies
+
+Business
+
+  Semtech Corporation and its wholly owned subsidiaries (Semtech International,
+Semtech Corpus Christi, Semtech Limited, Semtech Santa Clara, Semtech San Diego,
+Acapella Limited, and Semtech New York, together, the Company) is a leading
+supplier of analog and mixed-signal semiconductors. The Company designs,
+manufacturers and markets a wide range of products for commercial applications,
+the majority of which are sold into the communications, industrial and computer
+markets. The end customers for the Company's products are primarily original
+equipment manufacturers, or OEMs, that produce and sell electronics.  The
+Company's primary facilities are in Newbury Park, Santa Clara and San Diego,
+California; Corpus Christi, Texas; New York, New York; St. Gallen, Switzerland;
+Reynosa, Mexico; and Southampton, England.
+
+Fiscal Year
+
+  The Company reports results on the basis of fifty-two and fifty-three week
+periods. The fiscal years ended January 28, 2001, January 30, 2000 and January
+31, 1999 each consisted of fifty-two weeks.
+
+Principles of Consolidation
+
+  The accompanying consolidated financial statements include the accounts of
+Semtech Corporation and its wholly owned subsidiaries. All significant
+intercompany transactions and accounts have been eliminated.
+
+Translation
+
+  The assets and liabilities of the Company's foreign subsidiaries are
+translated using currency exchange rates at fiscal year end. Income statement
+items are translated at average exchange rates prevailing during the period. The
+translation gains or losses are included in accumulated other comprehensive
+income (loss) in the accompanying consolidated financial statements.
+Transaction gains and losses are included in the determination of net income and
+have been insignificant.
+
+Cash, Cash Equivalents and Investments
+
+  The Company considers all highly liquid investments with an original maturity
+of 90 days or less to be cash equivalents.  The Company maintains cash balances
+and investments in highly qualified financial institutions.  At various times
+such amounts are in excess of insured limits. The Company accounts for its
+investments under the provisions of Statement of Financial Accounting Standards
+(SFAS) No. 115, "Accounting for Certain Investments in Debt and Securities."
+Investments consist of government and corporate obligations.
+
+Inventories
+
+  Inventories are stated at the lower of cost or market and consist of
+materials, labor and overhead. Cost is determined by the first-in, first-out
+method.
+
+Property, Plant and Equipment
+
+  Property, plant and equipment are stated at cost. Depreciation is computed
+primarily using the straight-line method over the following estimated useful
+lives: buildings for thirty years; leasehold improvements for the lesser of
+estimated useful life or lease term; machinery and equipment for two to six
+years; and furniture and office equipment for three to six years. Maintenance
+and repairs are charged to expense as incurred and the costs of additions and
+betterments that increase the useful lives of the assets are capitalized.
+
+Software Development Costs
+
+  In accordance with SFAS No. 86, "Accounting for the Costs of Computer Software
+to be Sold, Leased, or Otherwise Marketed," development costs related to
+software products are expensed as incurred until the technological
+
+                                       28
+<PAGE>
+
+feasibility of the product has been established. The cost of purchased software
+is capitalized when related to a product which has achieved technological
+feasibility or that has an alternative future use. Software development costs
+incurred prior to achieving technological feasibility as well as certain
+licensing costs are charged to product development and engineering expense as
+incurred.
+
+  Capitalized software development costs are reported at the lower of
+unamortized cost or net realizable value.  Commencing upon initial product
+release, these costs are amortized based on the straight-line method over the
+estimated life, or a ratio of current revenues to total anticipated revenues,
+generally three years for internal software development costs.  Fully amortized
+software costs are removed from the financial records.  As of January 28, 2001
+and January 30, 2000, $960,000 and $1.2 million, respectively, of capitalized
+software costs are included in "Other assets" in the accompanying consolidated
+balance sheets.  Amortization expense of capitalized software costs totaled
+$426,000, $26,000 and $23,000 in fiscal years 2001, 2000 and 1999, respectively,
+and are included in "Cost of Sales" in the accompanying consolidated statements
+of income.
+
+Income Taxes
+
+  Deferred income tax assets or liabilities are computed based on the temporary
+differences between the financial statement and income tax bases of assets and
+liabilities using the statutory marginal income tax rate in effect for the years
+in which the differences are expected to reverse. Deferred income tax expenses
+or credits are based on the changes in the deferred income tax assets or
+liabilities from period to period.
+
+  As of January 28, 2001 and January 30, 2000, approximately $16.4 million and
+$2.6 million, respectively, of unremitted income related to the Company's wholly
+owned European subsidiaries are not subject to federal and state income taxes
+except when such income is paid to the parent company. Federal and state income
+taxes have not been provided on this income as it is management's intention that
+these amounts will not be distributed in a taxable transaction.
+
+Revenue Recognition
+
+  The Company generally recognizes product revenue when persuasive evidence of
+an arrangement exists, delivery has occurred, the fee is fixed or determinable
+and collectibility is probable.  Product design and engineering revenue is
+recognized during the period in which services are performed. The Company defers
+revenue recognition on shipment of certain products to distributors where return
+privileges exist until the products are sold through to end users.
+
+Earnings per Share
+
+  Basic earnings per common share are computed using the weighted average number
+of common shares outstanding during the period. Diluted earnings per common
+share incorporate the incremental shares issuable upon the assumed exercise of
+stock options. The weighted average number of shares used to compute basic
+earnings per share in fiscal years 2001, 2000, and 1999 were 66,247,000,
+61,670,000, and 58,688,000, respectively.  Diluted earnings per share is
+computed by dividing net income for the period by the weighted average number of
+common shares outstanding plus the dilutive effect of our outstanding stock
+options ("common stock equivalents"), or 76,527,000, 70,630,000 and 63,568,000
+in fiscal years 2001, 2000 and 1999, respectively.
+
+  Options to purchase approximately 84,000, 200,000, and 2,260,000 shares were
+not included in the computation of fiscal years 2001, 2000, and 1999 diluted net
+income per share because such options were considered anti-dilutive.   Shares
+associated with the Company's outstanding convertible subordinated debentures
+are not included in the computation of net income per share as they are anti-
+dilutive.
+
+Stock Distribution
+
+  On September 26, 2000, the Company effected a two-for-one stock split in the
+form of a 100 percent stock dividend which was payable to shareholders of record
+as of September 5, 2000.  On September 14, 1999, the Company effected a two-for-
+one stock split in the form of a 100 percent stock dividend which was payable to
+shareholders of record as of August 30, 1999. All shares, per share data, common
+stock, and stock option amounts herein have been restated to reflect the effect
+of these splits.
+
+Recently Issued Accounting Standards
+
+  In June 1998 and June 1999, the Financial Accounting Standards Board (FASB)
+issued SFAS No. 133, "Accounting for Derivative Investments and Hedging
+Activities," and SFAS No. 137, which delayed the effective date
+
+                                       29
+<PAGE>
+
+of SFAS No. 133. In June 2000, the FASB issued SFAS No. 138, which provides
+additional guidance for the application of SFAS No. 133 for certain
+transactions. The Company will adopt the statement in February 2001 and does not
+expect the adoption of this statement to have a material impact on its financial
+position or results of operations.
+
+     In December 1999, the Securities and Exchange Commission (SEC) issued Staff
+Accounting Bulletin (SAB) No. 101, "Revenue Recognition in Financial
+Statements," and as amended.  SAB 101 summarizes certain of the SEC's views in
+applying accounting principles generally accepted in the United States to
+revenue recognition in financial statements. The Company has applied the
+provisions of SAB  101  in  the consolidated financial statements. The adoption
+of SAB 101 did not have a material impact on the Company's financial condition
+or results of operations.
+
+     In March 2000, the FASB issued interpretation No. 44 (FIN 44), "Accounting
+for Certain Transactions Involving Stock Compensation, an Interpretation of APB
+Opinion No. 25." FIN 44 clarifies the application of APB No. 25 for certain
+issues, including the definition of an employee, the treatment of the
+acceleration of stock options and the accounting treatment for options assumed
+in business combinations. FIN 44 became effective on July 1, 2000, but is
+applicable for certain transactions dating back to December 1998. The adoption
+of FIN 44 did not have a significant impact on the Company's financial position
+or results of operations.
+
+Reclassifications
+
+     Certain prior year balances have been reclassified to be consistent with
+current year presentation.
+
+Estimates Used by Management
+
+     The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates.
+
+
+2.   Business Combinations and Purchases
+
+     On December 6, 1999, the Company completed a merger with USAR Systems
+Incorporated (USAR), based in New York, New York.  Under the agreement, USAR
+shareholders received 990,808 shares of Semtech common stock for all outstanding
+shares of USAR stock. The Company acquired USAR Systems to broaden its product
+line for serving the market for portable systems.
+
+     The acquisition of USAR was accounted for as a pooling of interests in
+accordance with APB Opinion No. 16 and related Securities and Exchange
+Commission pronouncements. USAR's financial position and results of operations
+prior to the fourth quarter of fiscal year 2000 were immaterial in relation to
+Semtech's overall results. Therefore, the effect of the merger prior to November
+1, 1999 has been adjusted to retained earnings.  Merger related costs of
+$531,000 associated with the acquisition of USAR are reflected as "Acquisition
+costs" in the accompanying consolidated statements of income.
+
+     During the third quarter of fiscal year 2000, Semtech purchased a
+communication design firm, Practical Sciences.  Semtech issued 20,000 shares to
+the owner of Practical Sciences. The purchase price, based on the Company's
+closing stock price on the day of the transaction, was approximately $349,000
+and resulted in goodwill of approximately $260,000, which is amortized over six
+years.
+
+     In fiscal year 1999, the Company acquired Acapella Limited (Acapella) for
+approximately 703,000 shares of Semtech common stock.  The acquisition of
+Acapella was accounted for as a pooling of interests. Acapella's financial
+position and results of operations prior to fiscal year 1999 were immaterial in
+relation to Semtech's overall results. Therefore, the effect of the merger prior
+to February 1, 1998 has been adjusted to retained earnings. The consolidated
+balance sheet at January 31, 1999 as well as the consolidated statements of
+income and cash flows for the twelve months ended January 31, 1999 include the
+results of Acapella. Merger related costs of $255,000 associated with the
+acquisition of Acapella are reflected as "Acquisition costs" in the accompanying
+consolidated statements of income.  The Company acquired Acapella to strengthen
+its ability to develop advanced communication solutions.
+
+
+3.   Stock Repurchase Programs
+
+                                       30
+<PAGE>
+
+     In fiscal year 2000, the Company repurchased 1,402,000 shares under two
+separate stock repurchase programs for approximately $13.9 million.  All of the
+1,402,000 repurchased shares were reissued to cover the exercise of employee
+stock options and the acquisition of Practical Sciences (see Note 2).  On
+December 3, 1999, the Company discontinued any additional repurchases under
+these stock repurchase programs.
+
+     On January 4, 2001, the Company announced that its Board of Directors had
+approved a program to repurchase up to $50.0 million of its common stock and
+registered convertible subordinated notes.  As of January 28, 2001, the Company
+had repurchased 42,500 shares at a cost $1.0 million under this program.  None
+of the repurchased shares had been reissued as of January 28, 2001.  As of
+January 28, 2001, no convertible subordinated notes had been repurchased.
+
+4.   Impairment of Assets and Restructuring Charge
+
+     Operating income for fiscal year 1999 included total charges of $2.5
+million, comprised of $136,000 related to a restructuring program, $1.2 million
+for the write-down of long-lived assets, and a $1.2 million write-down of
+inventory included in "Cost of Sales." The restructuring program resulted in a
+significant reduction of capacity and the elimination of approximately 60
+positions during fiscal year 1999.
+
+     The asset impairment loss of $1.2 million consists of a write-down of the
+Company's Corpus Christi wafer fab, and results from the evaluation of the
+Company's ability to recover asset costs after an extensive review of its
+business model. The asset impairment loss was determined by comparing the
+estimated future cash flows associated with each long-lived asset or group
+thereof, as appropriate, to the carrying amount of such asset or group of
+assets. The $1.2 million inventory write-down consists of inventory that was
+written-down to its estimated net realizable value.  As of the end of fiscal
+year 1999, no amounts included in the charges remained to be spent.
+
+
+5.   Temporary and Long-Term Investments
+
+     Temporary and long-term investments consist of government, bank and
+corporate obligations. Temporary investments have original maturities in excess
+of three months, but mature within twelve months of the balance sheet date.
+Long-term investments have maturities in excess of one year from the date of the
+balance sheet. All investments are classified as "held to maturity", thus no
+unrealized holding gains or losses were reported in the accompanying
+consolidated financial statements. As of January 28, 2001, all of the Company's
+investments mature on various dates through fiscal year 2003.
+
+     In fiscal year 2001, investments generated interest income of $5.0 million
+from federal government issues, $23.1 million from corporate issues and $121,000
+from mortgage-backed issues.  All interest income in fiscal year 2000 was
+derived from corporate issues.
+
+     Temporary and long-term investments consist of the following security
+types:
+
+                                               2001            2000
+                                           --------         -------
+                                                  (thousands)
+     Federal government Issues...........  $ 61,704         $     -
+     Corporate issues....................   144,403          18,066
+     Mortgage-backed issues..............     1,690               -
+                                           --------         -------
+       Total investments.................  $207,797         $18,066
+                                           ========         =======
+
+6.   Inventories
+
+     Inventories consisted of the following:
+
+                                          2001          2000
+                                             (thousands)
+     Raw materials...................  $ 2,144       $ 1,183
+     Work in process.................   20,563        15,246
+     Finished goods..................    8,888        10,152
+                                       -------       -------
+       Total inventories.............  $31,595       $26,581
+                                       =======       =======
+
+
+                                       31
+<PAGE>
+
+7.   Property, Plant and Equipment
+
+     Property, plant and equipment consisted of the following:
+
+                                                          2001          2000
+                                                        --------      --------
+                                                            (thousands)
+     Property.......................................... $ 13,149      $  5,279
+     Buildings.........................................    1,103           827
+     Leasehold improvements............................    1,915         1,264
+     Machinery and equipment...........................   37,650        28,664
+     Furniture and office equipment....................    8,474         6,352
+     Construction in progress..........................    3,197         1,642
+                                                        --------      --------
+     Less accumulated depreciation and amortization....   65,488        44,028
+                                                         (25,424)      (19,631)
+     Property, plant and equipment, net................ --------      --------
+                                                        $ 40,064      $ 24,397
+                                                        ========      ========
+
+8.   Lines of Credit
+
+     The Company had a credit arrangement with a financial institution for
+borrowings up to $20.0 million at an interest rate of the 30 day commercial
+paper plus 2.2 percent.  The credit arrangement expired in August 2000 and was
+not extended or renewed by the Company.  Through its foreign subsidiary, the
+Company maintains an overdraft credit line in the amount of 300,000 pounds
+sterling. As of January 28, 2001 and January 30, 2000, the Company had no
+borrowings outstanding under any credit facility.
+
+9.   Convertible Subordinated Debentures
+
+     On February 14, 2000, the Company completed a private offering of $400.0
+million principal amount of convertible subordinated debentures that pay
+interest semiannually at a rate of 4  1/2 percent and are convertible into
+common stock at a conversion price of $42.23 per share.  The notes are due in
+seven years from the date of issuance and callable by the Company after three
+years.  In connection with these convertible subordinated debentures, the
+Company incurred $11.5 million in underwriter fees and other costs, which are
+amortized as interest expense using the effective interest method.  The Company
+intends to use the net proceeds of the offering for general corporate purposes,
+including working capital, expansion of sales, marketing and customer service
+capabilities, and product development.  In addition, the Company may use a
+portion of the net proceeds to acquire or invest in complementary businesses,
+technologies, services or products.  As of January 28, 2001, the Company
+incurred $18.7 million in interest expense associated with these convertible
+subordinated debentures included in the accompanying consolidated statements of
+income.
+
+10.  Accrued Liabilities
+
+     Accrued liabilities consisted of the following:
+
+                                             2001         2000
+                                          -------       ------
+                                             (thousands)
+     Accrued interest...................  $ 9,000       $    -
+     Payroll and related................    6,515        5,617
+     Commissions........................      307        1,191
+     Other..............................    3,103        2,061
+                                          -------       ------
+       Accrued liabilities..............  $18,925       $8,869
+                                          =======       ======
+
+11.  Income Taxes
+
+     The provision for taxes consisted of the following:
+
+                                         2001        2000        1999
+                                      -------     -------      ------
+                                               (thousands)
+     Current:
+
+                                       32
+<PAGE>
+
+       Federal......................  $23,772     $18,868      $6,331
+       State........................      706         377         870
+       Foreign......................      545           -          68
+                                      -------     -------      ------
+        Subtotal....................   25,023      19,245       7,269
+     Deferred:
+       Federal......................   (1,833)     (4,023)       (672)
+       State........................      680        (513)       (130)
+       Foreign......................    1,938           -           -
+                                      -------     -------      ------
+                 Subtotal...........      785      (4,536)       (802)
+                                      -------     -------      ------
+         Provision for taxes........  $25,808     $14,709      $6,467
+                                      =======     =======      ======
+
+     The components of the net deferred income tax assets at January 28, 2001
+and January 30, 2000 are as follows:
+
+     Net current deferred income taxes:
+
+                                                     2001        2000
+                                                   -------      ------
+                                                      (thousands)
+     Deferred tax assets:
+       Payroll and related.......................  $   528      $  281
+       Environmental.............................        -         100
+       Deferred revenue..........................      878       2,188
+       Inventory reserve.........................    3,142           -
+       Bad debt reserve..........................      248         266
+       State income taxes........................        -           1
+       AMT credit carryforward...................      383         658
+       Research and development credit
+        carryforward.............................    7,255           -
+
+       NOL carryforward..........................   11,903           -
+       Other deferred assets.....................       37         612
+                                                   -------      ------
+     Total current deferred assets...............   24,374       4,106
+     Valuation reserve...........................   (4,381)          -
+                                                   -------      ------
+          Net current deferred income taxes......  $19,993      $4,106
+                                                   =======      ======
+
+     Net long-term deferred income taxes:
+
+                                                         2001        2000
+                                                        -------     -------
+                                                          (thousands)
+     Deferred tax assets:
+       Inventory valuation............................  $    29     $ 1,773
+       Research and development charges...............    2,359       2,484
+       Manufacturing investment credit
+        carryforward..................................      296           -
+
+       Environmental..................................       97           -
+                                                        -------     -------
+     Total long-term deferred assets..................    2,781       4,257
+                                                        -------     -------
+     Deferred tax liabilities:
+       Depreciation and amortization..................   (1,879)     (1,173)
+       Foreign deferred taxes.........................        -         (37)
+                                                        -------     -------
+     Total long-term deferred liabilities.............   (1,879)     (1,210)
+                                                        -------     -------
+     Subtotal.........................................      902       3,047
+     Valuation reserve................................        -           -
+                                                        -------     -------
+         Net long-term deferred income taxes..........  $   902     $ 3,047
+                                                        =======     =======
+
+     The change in the net deferred tax asset differs from the deferred tax
+provision to the extent of tax deductions obtained for non-qualified stock
+options in excess of the current tax liabilities, which has been offset by an
+entry to additional paid-in capital.
+
+     The provision for taxes reconciles to the amount computed by applying the
+statutory federal rate to income before taxes as follows:
+
+                                                        2001     2000    1999
+                                                      -------  -------  ------
+
+                                       33
+<PAGE>
+
+<TABLE>
+     <S>                                                                   <C>         <C>          <C>
+                                                                                    (thousands)
+     Federal income tax at statutory rate................................  $30,110     $15,436      $6,583
+     State income taxes, net of federal benefit..........................    3,078           2         599
+     Foreign sales corporation at rates less than statutory rates........        -        (385)       (276)
+     Foreign taxes at rates less than domestic rates.....................   (4,412)         28          (7)
+     Utilization of net operating loss and tax credit carryforwards......   (6,756)          -        (644)
+     Changes in valuation reserve........................................    4,381        (419)          -
+     Permanent differences...............................................       43         381        (160)
+     Other...............................................................     (636)       (334)        372
+                                                                           -------     -------      ------
+                       Provision for taxes...............................  $25,808     $14,709      $6,467
+                                                                           =======     =======      ======
+</TABLE>
+
+     Realization of the net deferred tax assets is dependent on generating
+sufficient taxable income during the periods in which temporary differences will
+reverse. Although realization is not assured, management believes it is more
+likely than not that the net deferred tax assets will be realized. The amount of
+the net deferred tax assets is considered realizable, however, could be adjusted
+in the near term if estimates of future taxable income during the reversal
+periods are revised.
+
+     As of January 28, 2001, the Company had net operating loss carryforwards
+available of approximately $31.7 million and $7.2 million for federal and state
+income tax purposes, respectively, which can be used to offset taxable income,
+expiring though 2021.
+
+
+12.  Commitments and Contingencies
+
+     The Company leases facilities and certain equipment under lease
+arrangements expiring in various years through fiscal year 2007. The aggregate
+minimum annual lease payments under leases in effect on January 28, 2001 were as
+follows:
+
+                                                     Operating
+                                                     ---------
+                   Fiscal Year Ending                  Leases
+                   ------------------                  ------
+                       (thousands)
+     2002............................................  $1,744
+     2003............................................   1,392
+     2004............................................   1,137
+     2005............................................     385
+     2006............................................     278
+     Thereafter......................................      64
+                                                       ------
+           Total minimum lease commitments...........  $5,000
+                                                       ======
+
+     Annual rent expense was $1.7 million, $1.5 million, and $1.3 million for
+fiscal years 2001, 2000, and 1999, respectively.
+
+     On February 7, 2000, the Company was notified by the United States
+Environmental Protection Agency with respect to the Casmalia Disposal Site in
+Santa Barbara, California.  The Company has been included in the Superfund
+program to clean up this disposal site for its involvement in utilizing this
+site for waste disposal.  As of January 28, 2001, the Company provided
+approximately $245,000 for potential settlement under this program, however, the
+ultimate resolution and timing of the resolution is unknown at this time. The
+Company believes the amount provided is sufficient to cover any liability
+existing based on the currently available information.
+
+     Certain contaminants have been found in the ground water at the Company's
+Newbury Park facility. The Company has data showing that the contaminants are
+from an adjacent facility. The contaminants in question have never been used by
+the Company at the Newbury Park facility. To protect its interests, the Company
+utilizes an environmental firm, specializing in hydrogeology, to perform
+periodic monitoring. It is currently not possible to determine the ultimate
+amount of possible future clean-up costs, if any, that may be required of the
+Company at this site. Accordingly, no reserves for clean-up have been provided
+by the Company at this time.
+
+     Effective June 11, 1998, the Company's Board of Directors approved a
+Stockholder Protection Agreement to issue a Right for each share of common stock
+outstanding on July 31, 1998 and each share issued thereafter (subject to
+certain limitations). These Rights, if not cancelled by the Board of Directors,
+can be exercised into a certain number of Series X Junior Participating
+Preferred Stock after a person or group of affiliated persons acquire 25 percent
+or more of
+
+                                       34
+<PAGE>
+
+the Company's common stock and subsequently allow the holder to receive certain
+additional Company or acquirer common stock if the Company is acquired in a
+hostile takeover.
+
+     From time to time, the Company is a defendant in lawsuits involving matters
+which are routine to the nature of its business. Management is of the opinion
+that the ultimate resolution of all such matters will not have a material
+adverse effect on the accompanying consolidated financial statements.
+
+
+13.  Stockholders' Equity
+
+     On June 8, 2000, stockholders approved an increase in the number of shares
+of the Company's common stock from 100,000,000 to 250,000,000.
+
+     The Company has various stock option plans that provide for granting
+options to purchase shares of the Company's common stock to employees, directors
+and consultants of the Company. The plans provide for the granting of options
+which meet the Internal Revenue Code qualifications to be incentive stock
+options, as well as nonstatutory options. Under these plans, the option price
+must be at least equal to the fair market value of the Company's common stock at
+the date of the grant for incentive stock options. Most incentive stock options
+expire within ten years from the date of grant. Generally, the options vest in
+equal annual increments over three to four years from the date of grant.
+
+     The plans provide for the issuance of 12,800,000 shares over the remaining
+life of the plans. The plans also provide for the further issuance of up to
+8,000,000 additional shares, if authorized by the Board, which are reacquired in
+the open market or in a private transaction.
+
+     Stock option information with respect to the Company's stock option plans
+is as follows (in thousands), except share prices:
+
+<TABLE>
+<CAPTION>
+                                                        2001                       2000                       1999
+                                                  -------------------        -------------------        -------------------
+                                                             Weighted                   Weighted                   Weighted
+                                                             --------                   --------                   --------
+                                                  Shares      Average        Shares      Average        Shares      Average
+                                                  ------      -------        ------      -------        ------      -------
+                                                  Under       Exercise       Under       Exercise       Under       Exercise
+                                                  -----       --------       -----       --------       -----       --------
+                                                  Option        Price        Option        Price        Option        Price
+                                                  ------        -----        ------        -----        ------        -----
+<S>                                               <C>        <C>             <C>        <C>             <C>        <C>
+Options outstanding, beginning of year.........   20,440       $  5.76       19,156        $ 3.63       15,876       $  2.98
+Granted........................................    3,196         21.12        5,230         11.99        7,588          4.21
+Cancelled......................................     (412)        10.89         (234)         6.02       (1,014)         3.46
+Exercised......................................   (4,062)         4.18       (3,712)         3.13       (3,294)         1.87
+                                                  ------                     ------                     ------
+Options outstanding, end of year...............   19,162       $  8.54       20,440        $ 5.76       19,156         $3.63
+                                                  ======                     ======                     ======
+Options exercisable at the end of year.........    9,720       $  4.95        7,028        $ 3.34        4,684         $2.83
+Weighted average fair value of options
+ Granted during year...........................                $ 14.58                     $ 6.69                      $2.63
+</TABLE>
+
+  Information about stock options outstanding at January 28, 2001 is summarized
+as follows (share amounts in thousands):
+
+<TABLE>
+<CAPTION>
+                                         Weighted       Weighted                          Weighted
+                                         --------       --------                          --------
+                              Number      Average        Average           Number          Average
+                              ------      -------        -------           ------          -------
+      Exercise Prices       Outstanding   Exercise      Remaining        Exercisable       Exercise
+      ---------------       -----------   --------      ---------        -----------       --------
+                              1/28/01       Price     Contract Life        1/28/01           Price
+                              -------       -----     -------------        -------           -----
+      <S>                   <C>          <C>          <C>                <C>              <C>
+          $ 0.31-$   4.60      7,246       $  2.75          6.0 Years          5,354        $  2.68
+          $ 4.61-$   9.20      6,468       $  6.20          6.6 Years          3,630        $  5.85
+          $  9.21-$ 13.80        241       $ 12.24          7.9 Years             68        $ 12.47
+          $ 13.81-$ 18.40      2,947       $ 15.02          8.7 Years            359        $ 14.59
+          $ 18.41-$ 23.00        660       $ 19.72          8.0 Years            216        $ 19.63
+          $ 23.01-$ 27.60      1,343       $ 25.78          8.7 Years             47        $ 25.93
+          $ 27.61-$ 32.20        115       $ 31.10          9.1 Years             36        $ 31.94
+          $ 32.21-$ 36.80         66       $ 34.07          9.2 Years              0        $  0.00
+          $ 36.81-$ 41.40         64       $ 38.28          8.4 Years             10        $ 38.25
+          $ 41.41-$ 46.00         12       $ 43.80          9.5 Years              0        $  0.00
+          ---------------    -------       -------          ---------          -----        -------
+          $  0.31-$ 46.00     19,162       $  8.54          6.9 Years          9,720        $  4.95
+          ===============    =======                        =========          =====
+</TABLE>
+
+                                       35
+<PAGE>
+
+     The Company has adopted the disclosure-only provisions of SFAS No. 123,
+"Accounting for Stock-Based Compensation", under which no compensation cost
+has been recognized. If the Company had elected to recognize compensation costs
+based on the fair value at the date of grant for awards in 2001, 2000, and 1999,
+consistent with the provisions of SFAS No. 123, net income and net income per
+share would have been reduced to the following pro forma amounts:
+
+                                                   2001        2000       1999
+                                                   ----        ----       ----
+                                                    (in thousands, except per
+                                                         share amounts)
+     Additional compensation expense............  $31,737     $21,383    $15,080
+     Proforma net income........................  $38,709     $15,230    $ 3,063
+     Proforma net income per share - basic......  $  0.58     $  0.25    $  0.05
+     Proforma net income per share - diluted....  $  0.51     $  0.22    $  0.05
+
+     The pro forma effect on net income for fiscal years 2001, 2000, and 1999,
+may not be representative of the pro forma effect on net income of future years
+because the SFAS No. 123 method of accounting for pro forma compensation expense
+has not been applied to options granted prior to January 30, 1995.
+
+     The Black-Scholes option valuation model was developed for use in
+estimating the fair value of traded options which have no vesting restrictions
+and are fully transferable. Option valuation models also require the input of
+highly subjective assumptions such as expected option life and expected stock
+price volatility. The following assumptions were applied: (i) expected dividend
+yields of 0 percent for all periods, (ii) expected volatility rates of 82
+percent for 2001, 67 percent for 2000, and 78 percent for 1999, (iii) expected
+lives of 4 to 6 years for all years, and (iv) risk-free interest rates ranging
+from 4.63 percent to 7.01 percent for all years.
+
+     Because the Company's employee stock-based compensation plans have
+characteristics significantly different from those of traded options and because
+changes in the subjective input assumptions can materially affect the fair value
+estimate, the Company believes that the existing option valuation models do not
+necessarily provide a reliable single measure of the fair value of awards from
+those plans.
+
+
+14.  Interest and Other Income, Net
+
+     Interest and other income, net, consisted of the following:
+
+                                                  2001         2000        1999
+                                                  ----         ----        ----
+                                                           (thousands)
+     Interest income..........................  $ 28,158     $ 1,710     $  992
+     Gain on disposition of assets............         -           -          1
+     Foreign currency transaction losses......       (32)        (60)       (24)
+     Miscellaneous expense....................       (74)       (447)      (161)
+                                                --------     -------     ------
+        Interest and other income, net........  $ 28,052     $ 1,203     $  808
+                                                ========     =======     ======
+
+15.  Statements of Cash Flows
+
+     In connection with the acquisition of Practical Sciences (see Note 2), the
+Company received property and equipment of approximately $89,000 and recorded
+goodwill of approximately $260,000.   Income taxes paid in fiscal years 2001,
+2000, and 1999, were $59,000, $440,000, and $2.8 million, respectively. For
+those same periods, the Company paid interest in the amounts of $9.1 million,
+$57,000, and $22,000, respectively.
+
+
+16.  Business Segments and Concentrations of Risk
+
+     As of January 28, 2001, the Company operates in three reportable segments:
+Standard Semiconductor Products, Rectifier and Assembly Products, and Other
+Products. Included in the Standard Semiconductor Products segment are the power
+management, protection, high-performance, advanced communications and human
+interface/system management product lines. The Rectifier and Assembly Products
+segment includes the Company's line of assembly and rectifier products. The
+Other Products segment is made up of other custom IC and foundry sales.
+
+                                       36
+<PAGE>
+
+     The accounting policies of the segments are the same as those described
+above in the summary of significant accounting policies. The Company evaluates
+segment performance based on net sales and operating income of each segment.
+Management does not track segment data or evaluate segment performance on
+additional financial information. As such, there are no separately identifiable
+segment assets nor is there any separately identifiable statements of income
+data (below operating income).
+
+     The Company does not track or assign assets to individual reportable
+segments. Likewise, depreciation expense and capital additions are also not
+tracked by reportable segments.
+
+
+          Net Sales                           2001         2000          1999
+          ---------                           ----         ----          ----
+                                                      (in thousands)
+     Standard Semiconductor Products.....  $ 232,550     $ 153,229    $  89,238
+     Rectifier and Assembly Products.....     15,012        11,995       13,769
+     Other Products......................      9,123         8,544       11,512
+                                           ---------     ---------    ---------
+       Total Net Sales...................  $ 256,685     $ 173,768    $ 114,519
+                                           =========     =========    =========
+
+          Operating Income                     2001        2000            1999
+          ----------------                     ----        ----            ----
+                                                      (in thousands)
+     Standard Semiconductor Products.....   $ 71,208       $ 41,618    $ 17,062
+     Rectifier and Assembly Products.....      3,378            745       2,196
+     Other Products......................      2,108          1,126       2,075
+     One-time charges....................          -           (531)     (2,757)
+                                            --------       --------    --------
+       Total Operating Income............   $ 76,694       $ 42,958    $ 18,576
+                                            ========       ========    ========
+
+     The one-time charges include charges in fiscal year 1999 of $2.5 million
+related to Standard Semiconductor Products, comprised of $136,000 related to a
+restructuring program, $1.2 million for the write-down of long-lived assets, and
+a $1.2 million write-down of inventory included in "Cost of Sales" for the
+Standard Semiconductor Products segment.
+
+     For the three fiscal years ended January 28, 2001, the Company had no
+customer that accounted for more than 10 percent of net sales. In fiscal year
+2001, a group of customers that included one of the Company's automated test
+equipment customers, their suppliers and their sub-contractors, accounted for 14
+percent of net sales. As of January 28, 2001 and January 30, 2000, one customer
+accounted for approximately 15 percent of total accounts receivable. A summary
+of net external sales by region follows. The Company does not track customer
+sales by region for each individual reporting segment.
+
+          Net Sales                   2001           2000           1999
+          ---------                   ----           ----           ----
+                                                (in thousands)
+     Domestic...................   $ 107,906      $  62,574      $  53,824
+     Asia-Pacific...............     116,133         90,151         46,953
+     European...................      32,646         21,043         13,742
+                                   ---------      ---------      ---------
+       Total Net Sales..........   $ 256,685      $ 173,768      $ 114,519
+                                   =========      =========      =========
+
+     Long lived assets located outside the United States as of the end of fiscal
+years 2001, 2000 and 1999 were approximately $1.2 million, $1.5 million and $2.6
+million, respectively.
+
+     The Company relies on a limited number of outside subcontractors and
+suppliers for silicon wafers, packaging and certain other tasks. Disruption or
+termination of supply sources or subcontractors could delay shipments and could
+have a material adverse effect on the Company. Several of the Company's outside
+subcontractors and suppliers, including third-party foundries that supply
+silicon wafers, are located in foreign countries, including China, Malaysia, the
+Philippines and Germany.
+
+17.  Subsequent Events
+
+     On March 19, 2001, the Company announced that it is exiting the foundry
+services business and in negotiations to sell its Santa Clara wafer fabrication
+facility.  As part of the plan, manufacturing headcount at the Santa Clara
+facility was reduced.  The planned divestiture of the Santa Clara wafer fab is
+part of the Company's strategy to source a majority of its silicon wafers from
+outside foundries.  The Company expected no material financial impact as a
+result of the reduction in force or planned sale of the Santa Clara facility.
+
+                                       37
+<PAGE>
+
+     The Company announced that its Board of Directors had approved a program to
+repurchase up to $50.0 million of its common stock and registered convertible
+subordinated notes on January 4, 2001.  As of April 6, 2001, the Company had
+repurchased under this program 415,000 shares at a cost of $10.7 million and
+2,680 convertible subordinated debentures ($1,000 face value each) at a cost of
+$2.3 million.  Repurchased shares of common stock will be used to fund stock
+options exercises and repurchased debentures will be permanently retired.
+
+                                       38
+<PAGE>
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+To the Stockholders and Board of Directors of Semtech Corporation:
+
+We have audited the accompanying consolidated balance sheets of Semtech
+Corporation (a Delaware corporation) and subsidiaries as of January 28, 2001 and
+January 30, 2000, and the related consolidated statements of income,
+stockholders' equity and comprehensive income, and cash flows for each of the
+three years in the period ended January 28, 2001.  These financial statements
+and the schedule referred to below are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these financial
+statements and schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States.  Those standards require that we plan and perform the
+audit to obtain reasonable assurance about whether the financial statements are
+free of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Semtech Corporation
+and subsidiaries as of January 28, 2001 and January 30, 2000, and the results of
+their operations and their cash flows for each of the three years in the period
+ended January 28, 2001, in conformity with accounting principles generally
+accepted in the United States.
+
+Our audit was made for the purpose of forming an opinion on the basic financial
+statements taken as a whole. Schedule II - Valuation and Qualifying Accounts is
+presented for purposes of complying with the Securities and Exchange
+Commission's rules and is not part of the basic financial statements.  This
+information has been subjected to the auditing procedures applied in the audit
+of the basic financial statements and, in our opinion, is fairly stated in all
+material respects in relation to the basic financial statements taken as a
+whole.
+
+
+
+     /s/ Arthur Andersen LLP
+     ---------------------------------
+     ARTHUR ANDERSEN LLP
+
+
+
+Los Angeles, California
+April 6, 2001
+
+                                       39
+<PAGE>
+
+                                                                    SCHEDULE  II
+
+
+                      SEMTECH CORPORATION AND SUBSIDIARIES
+
+                SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+                       THREE YEARS ENDED JANUARY 28, 2001
+
+
+
+<TABLE>
+<CAPTION>
+                                            Balance at      Charged to                             Balance at
+                                           Beginning of      Costs and                                 End
+                                              Year            Expenses          Deductions           of Year
+                                              ----            --------          ----------           -------
+<S>                                        <C>              <C>                 <C>                <C>
+Year Ended January 31, 1999
+- ---------------------------
+  Allowance for doubtful
+  Accounts                                   $ 797,000         $135,000           $ (54,000)         $  878,000
+
+
+Year Ended January 30, 2000
+- ---------------------------
+  Allowance for doubtful
+  Accounts                                   $ 878,000         $ 45,000           $(173,000)         $  750,000
+
+
+Year Ended January 28, 2001
+- ---------------------------
+  Allowance for doubtful
+  Accounts                                   $ 750,000         $760,000           $(410,000)         $1,100,000
+</TABLE>
+
+                                       40
+<PAGE>
+
+ITEM 9.   CHANGES IN OR DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL DISCLOSURE
+
+     None.
+
+
+                                   PART III
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information contained at Page 5 through 11 in Management's Proxy Statement
+(the "Proxy Statement"), to be filed within 120 days of the Company's fiscal
+year end, under the heading "Election of Directors" and the information
+contained on Page 18 of the Proxy Statement regarding appointment of independent
+accounts is incorporated by reference herein.
+
+   Executive Officers and Certain Other Significant Employees of Registrant
+   ------------------------------------------------------------------------
+
+       Name                      Age                     Office
+       ----                      ---                     ------
+ John D. Poe                     49        Chairman and Chief Executive Officer
+ Raymond E. Bregar               53        Executive Vice President, Power
+                                           Management Products
+ David G. Franz, Jr.             39        Vice President, Finance and Chief
+                                           Financial Officer, and Secretary
+ Wylie J. Plummer                46        Vice President, High Performance
+                                           Products
+ Jean-Claude Zambelli            57        Vice President, Sales and Marketing
+
+
+Mr. Poe became Chairman and Chief Executive Officer of the Company in October
+1985. He is a director of the Company. Before serving in this capacity at the
+Company, Mr. Poe served as Vice President, Operations, for Silicon General, Inc.
+from August 1984 through September 1985. Prior to that position, Mr. Poe was
+Military Operations Manager in the Discrete Division at Fairchild Camera and
+Instrument, Inc. where he managed the manufacture, design and marketing of
+military discrete semiconductors for more than four years.
+
+Mr. Bregar joined the Company in February 1988 and was appointed Vice President,
+Engineering. From fiscal 1989 through fiscal 1993, Mr. Bregar served as Vice
+President of Discrete Products. Currently Mr. Bregar serves as Executive Vice
+President, Corporate Operations, a position he has held since February 1993.
+Prior to joining the Company, Mr. Bregar served as business manager of Power
+Discretes with Fairchild Semiconductor where he directed the research and
+development and manufacturing of the power mosfet and power rectifier product
+lines.
+
+Mr. Franz became Vice President, Finance, Chief Financial Officer, and Secretary
+in August of 1993. Prior to joining the Company, Mr. Franz was Director of
+Finance of the Large Computer Systems Division (formerly Teradata Corporation)
+of AT&T from May 1990 through August 1993. Prior to that position Mr. Franz was
+employed by the Wickes Companies and Arthur Andersen LLP. Mr. Franz is a
+Certified Public Accountant.
+
+Mr. Plummer joined the Company as Vice President, High Performance Products as a
+result of the April 1997 acquisition of Edge Semiconductor. Mr. Plummer co-
+founded Edge Semiconductor and served as its president until the acquisition.
+Prior to Edge, Mr. Plummer held positions with Brooktree, Intel and National
+Semiconductor.
+
+Mr. Zambelli was named Vice President of Sales and Marketing in December of
+1996. Mr. Zambelli has more than 25 years of experience in the semiconductor
+industry and has held senior management positions with several companies. Most
+recently, Mr. Zambelli was vice president of sales for Exar Corporation.
+
+None of the officers has any family relationship to any other officer. The
+officers are elected annually by the Board of directors and serve at the
+discretion of the Board.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+The information contained in the Proxy Statement at Page 12 through 15 under
+the heading "Executive Compensation" is incorporated by reference herein.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information set forth in the Proxy Statement at Page 9 under the heading
+"Principal Shareholders" and Page 5 under the heading "Election of
+Directors" is incorporated by reference herein.
+
+                                       41
+<PAGE>
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information contained in the Proxy Statement at Page 13 under the heading
+"Executive Compensation" is incorporated by reference herein.
+
+                                       42
+<PAGE>
+
+                                    PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+
+  (a)(1)  The financial statements and the Report of Arthur Andersen LLP are
+included in Part II of this Form 10-K on the pages indicated.
+
+<TABLE>
+<CAPTION>
+                                                                                                                Page
+                                                                                                                ----
+<S>                                                                                                             <C>
+     Index of Financial Statements:
+
+                 Report of Independent Public Accountants                                                        39
+
+                 Consolidated statements of income, three years ended January 28, 2001                           24
+
+                 Consolidated balance sheets, January 28, 2001 and January 30, 2000                              25
+
+                 Consolidated statements of stockholders' equity and comprehensive income,
+
+                 three years ended January 28, 2001                                                              26
+
+                 Consolidated statements of cash flows, three years ended January 28, 2001                       27
+
+                 Notes to consolidated financial statements                                                      28
+</TABLE>
+
+  (2)     The following financial statement schedule of the Company for the
+years ended January 28, 2001, January 30, 2000 and January 31, 1999, is filed as
+part of this Report and should be read in conjunction with the financial
+statements:
+
+<TABLE>
+<CAPTION>
+                                                                                                                Page
+                                                                                                                ----
+<S>                                                                                                             <C>
+                 Schedule II -    Valuation and Qualifying Accounts                                              40
+</TABLE>
+
+
+  Schedules other than those listed above are omitted since they are not
+applicable, not required, or the information required to be set forth herein is
+included in the consolidated financial statements or notes thereto.
+
+                                       43
+<PAGE>
+
+<TABLE>
+   (3)  Exhibits - Incorporated by reference from the Company's previous 10-K
+        --------
+        filings unless otherwise indicated
+<S>            <C>
+               3.1    - Certificate of Incorporation, as amended
+               3.2    - Bylaws
+               4.1    - Indenture between Semtech Corporation and State Street
+                        Bank and Trust Company of California, N.A.
+               4.2    - Form of Debenture
+               4.3    - Registration Rights Agreement by and among Semtech
+                        Corporation as issuer, and Morgan Stanley & Co.
+                        Incorporated and Banc of America Securities LLC, as
+                        initial purchasers dated as of February 14, 2000.
+               10.1   - Security Agreement and Collateral Installment Note
+                        between the Company and Merrill Lynch in the aggregate
+                        amount of $7,500,000, dated August 24, 1992, as amended
+                        on August 15, 1996 for establishing a WCMA line of
+                        credit and an equipment acquisition line
+               10.2   - Agreement of sublease executed on December 23, 1991,
+                        effective January 1, 1991, by the Company and the Corpus
+                        Christi Airport Development Corporation for a portion of
+                        the Company's plant and facilities
+               10.3   - Overdraft facility agreement executed on May 26, 1987
+                        between the Company and the Bank of Scotland in the
+                        amount of 300,000 pounds sterling
+               10.4   - Lease executed on May 1, 1988 and amended on November 1,
+                        1991 by the Company for a portion of its plant and
+                        facilities
+               10.5   - Lease executed on September 12, 1988 by the Company for
+                        a portion of its plant and facilities
+               10.6   - The Company's 1987 Stock Option Plan and the related
+                        Form of Option Agreement
+               10.7   - The Company's 1994 Long-term Stock Incentive Plan and
+                        the related Form of Option Agreement, as amended.
+               10.8   - The Company's 1994 Non-Employee Directors Stock Option
+                        Plan and the related Form of Option Agreement, as
+                        amended.
+               10.9   - The Company's Long-term Stock Incentive Plan
+               10.10  - The Company's Non-Director, Non-Executive Officer Long-
+                        term Stock Incentive Plan
+               13.1   - Annual Report to Shareholders
+               22.1   - Subsidiaries of the Company
+</TABLE>
+
+                                       44
+<PAGE>
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+    SEMTECH CORPORATION
+
+
+
+    By /S/ John D. Poe
+       ----------------------------
+       John D. Poe, Chairman of the Board
+       and Chief Executive Officer
+
+
+  Date      April 27, 2001
+       ------------------------
+
+                                       45
+<PAGE>
+
+  Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+
+Date:    April 27, 2001                  /S/ John D. Poe
+      --------------------               -----------------------------
+                                         John D. Poe
+                                         Chairman of the Board and Chief
+                                         Executive Officer
+
+
+Date:    April 27, 2001                  /S/ David G. Franz Jr.
+      --------------------               ------------------------------
+                                         David G. Franz, Jr.
+                                         Vice President, Finance
+                                         and Chief Financial Officer,
+                                         and Secretary
+                                         (Principal Accounting
+                                         and Financial Officer)
+
+
+Date:    April 27, 2001                  /S/ Rock N. Hankin
+      --------------------               ------------------------------
+                                         Rock N. Hankin
+                                         Vice Chairman of the Board
+
+
+Date:    April 27, 2001                  /S/ James P. Burra
+      --------------------               ------------------------------
+                                         James P. Burra
+                                         Director
+
+
+Date:    April 27, 2001                  /S/ Allen H. Orbuch
+      --------------------               ------------------------------
+                                         Allen H. Orbuch
+                                         Director
+
+
+Date:    April 27, 2001                  /S/ James T. Schraith
+      --------------------               ------------------------------
+                                         James T. Schraith
+                                         Director
+
+
+
+  The information contained in the Proxy Statement at Pages 12 and 15 under the
+heading "Executive Compensation" is incorporated by reference herein.
+
+                                       46
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

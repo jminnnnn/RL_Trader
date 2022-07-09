@@ -1,0 +1,3294 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T50JYhCapLN3uFVWSdbp/g2JQr3bEL0SCK0fryQD4obLqzjs2JmOrF1VI5id5FNC
+ xBWUtr6H161E9YQsYtcJPw==
+
+<SEC-DOCUMENT>0000889331-00-000002.txt : 20000322
+<SEC-HEADER>0000889331-00-000002.hdr.sgml : 20000322
+ACCESSION NUMBER:		0000889331-00-000002
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20000102
+FILED AS OF DATE:		20000321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LITTELFUSE INC /DE
+		CENTRAL INDEX KEY:			0000889331
+		STANDARD INDUSTRIAL CLASSIFICATION:	SWITCHGEAR & SWITCHBOARD APPARATUS [3613]
+		IRS NUMBER:				363795742
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-20388
+		FILM NUMBER:		574630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 E NORTHWEST HWY
+		CITY:			DES PLAINES
+		STATE:			IL
+		ZIP:			60016
+		BUSINESS PHONE:		7088241188
+
+	MAIL ADDRESS:	
+		STREET 1:		800 E. NORTHWEST HWY
+		CITY:			DES PLAINES
+		STATE:			IL
+		ZIP:			60016
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+
+
+                       Securities and Exchange Commission
+                             Washington, D.C. 20549
+                                    FORM 10-K
+                [X] Annual Report Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+    (Mark One)          for the fiscal year ended January 1, 2000 or
+                [ ] Transition Report Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+                        for the transition period from         to
+
+                         Commission file number 0-20388
+
+                                Littelfuse, Inc.
+             (Exact name of registrant as specified in its charter)
+
+        Delaware                                         36-3795742
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+800 East Northwest Highway,
+Des Plaines, Illinois                                       60016
+(Address of principal executive offices)                  (Zip Code)
+
+                                  847/824-1188
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities  registered  pursuant to Section 12(g) of the Act: Common Stock, $.01
+par value, and Warrants to purchase shares of Common Stock, $.01 par value
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No
+
+         Indicate by check mark if disclosure of delinquent  filers  pursuant to
+Item 405 of Regulation S-K is not contained  herein,  and will not be contained,
+to the best of  registrant's  knowledge,  in  definitive  proxy  or  information
+statements  incorporated  by  reference  in Part  III of this  Form  10-K or any
+amendment to this Form 10-K. [ X ]
+
+         The aggregate market value of 18,334,779 shares of voting stock held by
+non-affiliates  of the registrant was  approximately  $659,760,197  based on the
+last reported sale price of the  registrant's  Common Stock,  $.01 par value, as
+reported on The Nasdaq Stock Market on March 10, 2000.
+
+     As of March 10, 2000, the registrant had outstanding  19,574,337  shares of
+Common  Stock,  $.01 par value,  and  Warrants to purchase  2,461,309  shares of
+Common Stock, $.01 par value.
+
+     Portions  of the  following  documents  have  been  incorporated  herein by
+reference to the extent indicated herein: Littelfuse, Inc. Proxy Statement dated
+March 20,  2000 (the "Proxy  Statement")  --Part III.  Littelfuse,  Inc.  Annual
+Report to Stockholders  for the year ended January 1, 2000 (the "Annual Report")
+- -- Parts II and III.
+
+
+<PAGE>
+
+
+                                                                Part I
+
+ITEM 1.  BUSINESS
+
+General
+
+         Littelfuse,   Inc.  (the  "Company"  or   "Littelfuse")  is  a  leading
+manufacturer and seller of fuses and other circuit protection devices for use in
+the electronic,  automotive and general industrial markets.  Management believes
+the  Company  is  ranked  first  in  market  share in both  the  electronic  and
+automotive  markets  and  third in the  power  fuse  market  in  North  America.
+Management believes the Company,  together with its licensees,  is also first in
+market share in both the electronic and automotive markets worldwide.
+
+         In the electronic market,  leading manufacturers such as Canon, Compaq,
+Dell  Computer,  IBM, LG  Electronics,  Lucent  Technologies,  Motorola,  Nokia,
+Nortel, Panasonic, Samsung, Sharp and Sony obtain a substantial portion of their
+electronic circuit protection  requirements from the Company.  In the automotive
+market,  the  Company or its  licensees  have  customer  relationships  with all
+leading  automobile  manufacturers  throughout  the world.  Littelfuse  provides
+substantially all of the automotive fuse requirements for vehicles  manufactured
+domestically  by General  Motors and is the primary  supplier for Ford,  Daimler
+Chrysler and all Japanese and most European auto manufacturer  transplants.  The
+Company also competes in the power fuse market  selling to companies such as the
+Allen Bradley  division of Rockwell  International  and Reliance  Electric.  See
+"Business Environment: Circuit Protection Market."
+
+         The Company manufactures its products on fully integrated manufacturing
+and  assembly  equipment,  much  of  which  is  designed  and  built  by its own
+engineers.  The Company  fabricates and assembles a majority of its products and
+maintains  product quality through a rigorous quality assurance program with all
+sites  certified  under  ISO  9000  standards  and its  world  headquarters  now
+certified under the QS9000 standards.
+
+         The Company's  products are sold worldwide through a direct sales force
+and manufacturers' representatives.  In the Asia-Pacific region, the Company has
+licensed  its  automotive  fuse  technology  to a  Japanese  firm that  supplies
+automotive  fuses to Pacific Rim customers.  For the year ended January 1, 2000,
+approximately  46% of the  Company's  net sales were to  customers  outside  the
+United States (exports and foreign operations).
+
+         References herein to "1997" or "fiscal 1997" refer to the calendar year
+ended January 3, 1998. References herein to "1998" or "fiscal 1998" refer to the
+fiscal year ended January 2, 1999.  References herein to "1999" or "fiscal 1999"
+refer to the fiscal year ended January 1, 2000.
+
+Business Environment:  Circuit Protection Market
+
+         The  circuit  protection  market can be broadly  categorized  into five
+major product areas:  electronic,  automotive,  industrial (power), high voltage
+and  residential.  The  Company  sells  products  designed  for the  electronic,
+automotive  and industrial  areas.  The Company  entered the circuit  protection
+market  in 1927  with the  development  and  introduction  of the  first  small,
+fast-acting fuse capable of protecting  sensitive test meters.  Since that time,
+the Company has diversified its involvement in the circuit  protection market to
+become a leader in the  production  of  electronic  and  automotive  fuses.  The
+Company  also  entered the power fuse market in 1983 with a broad line of fuses,
+including  several  proprietary  products.  The Company  believes it is a market
+leader in circuit protection devices,  offering the broadest line of products in
+the  industry  and the global  presence to serve major  markets  throughout  the
+world.
+
+         Electronic Products. Electronic circuit protection products are used to
+protect power  circuits in a multitude of electronic  systems and fall into five
+major  categories:  (1)  fuses,  (2)  resettables  (3)  electrostatic  discharge
+suppressors (4) thyristors and (5) metal-oxide varistors.  Electronics fuses are
+devices  which  contain  an element  which  melts in an  overcurrent  condition.
+Resettables  are positive  temperature  coefficient  (PTC) polymer  devices that
+limit the current  when an  overcurrent  condition  exists and let current  pass
+again after the cause of the  overcurrent  is removed.  Electrostatic  discharge
+(ESD)  suppressors  are polymer based devices that shunt  transient high voltage
+energy away from circuitry.  Thyristors are fast switching silicon semiconductor
+structures commonly used to protect telecommunications circuits from overvoltage
+transients  such as those resulting from  lightning.  Metal-oxide  varistors are
+ceramic  based  devices  designed to absorb high energy  transients  in order to
+maintain  the  circuit  voltage  at safe  levels.  Applications  for  electronic
+products   include   telecommunications   equipment,   computers   and  computer
+peripherals,  power  supplies,  test and medical  instrumentation,  and consumer
+electronic products.
+
+         Automotive Products. Fuses are extensively used in automobiles, trucks,
+buses and off-road equipment to protect  electrical  circuits and the wires that
+supply electrical power to operate lights, heating, air conditioning, windshield
+wipers, radios,  windows and controls.  Currently, a typical automobile contains
+30 to 70 fuses, depending upon the options installed.  The market for automotive
+fuses is expected to grow in the coming  years as more  electronic  features are
+included in  automobiles,  and as the  development of electric,  hybrid and fuel
+cell vehicles  increases.  Certain new vehicles,  such as the Cadillac  Seville,
+Ford 150 series truck, Jeep Grand Cherokee and the Jaguar, contain as many as 50
+to 90 fuses and this higher fuse count is expected to spread to other vehicles.
+
+         Power  Products.   Power  fuses  include  both  current   limiting  and
+non-current   limiting  devices  used  to  protect  electrical  systems  against
+overcurrents.  Power fuses are rated and listed under one of many  Underwriters'
+Laboratories fuse  classifications.  The three main end user market segments for
+power  fuses  include  original  equipment  manufacturers  ("OEMs"),  industrial
+maintenance  and repair  operations  ("MROs") and new  commercial and industrial
+construction.  Major  applications  for  power  fuses  include  protection  from
+over-load  and  short-circuit  currents in motor  branch  circuits,  heating and
+cooling systems, control systems,  lighting circuits and electrical distribution
+networks.
+
+Littelfuse Products
+
+         General.  The  Company is a leading  manufacturer  and seller of fuses,
+varistors  and  other  circuit  protection  devices  for use in the  electronic,
+automotive and general industrial  markets.  The Company's products are marketed
+under the general  trademarked  names of Littelfuse(R)  and, where  appropriate,
+Slo-Blo(R)  Fuse as well as the  trademarked  names of certain  of its  products
+listed below in the  description  of the Company's  electronic,  automotive  and
+power fuse products.
+
+
+
+<PAGE>
+
+
+Product Sales. Net sales of the Company's  products by industry category for the
+periods indicated are as follows:
+
+<TABLE>
+
+                                                             Fiscal Year
+                                                            (in thousands)
+                                         -----------------------------------------------------------------
+                                         -------------------- --------------------- ----------------------
+
+                                                1999                  1998                  1997
+                                         -------------------- --------------------- ----------------------
+                                         -------------------- --------------------- ----------------------
+<S>                                                 <C>                   <C>                    <C>
+             Electronic                             $154,141              $133,085               $135,032
+             Automotive                              101,270                96,686                102,139
+             Industrial (Power)                       40,956                39,769                 37,994
+                                         -------------------- --------------------- ----------------------
+                                         ==================== ===================== ======================
+                  Total                             $296,367              $269,540               $275,165
+                                         ==================== ===================== ======================
+</TABLE>
+
+
+         Electronic Products. The Company manufactures and sells a wide range of
+electronic circuit  protection  products,  including  miniature and subminiature
+fuses,  protectors and resettables.  Electronic miniature and subminiature fuses
+are designed to provide circuit  protection in the limited space requirements of
+electronic  equipment.  The Company entered the resettable device market in late
+1996.  The  Company  entered  the ESD  suppressor  market  in late  1998 and the
+varistor and thyristor market in 1999.
+
+The Company's  electronic  circuit  protection  products are marketed  under the
+following trademarked and brand names:
+
+              PICO(R) II Fuse is a very fast-acting subminiature fuse with axial
+              leads which can be automatically inserted into a circuit board. It
+              is used in consumer electronics,  computers,  medical instruments,
+              power supplies and telecommunication line cards. It was originally
+              developed for the aerospace  industry where  extremely  small size
+              and  high  reliability  were  prime   requisites.   This  fuse  is
+              encapsulated  with an epoxy coating  which  protects the fuse from
+              adverse environmental  conditions. It can stand up under the rough
+              treatment  found in high speed  automated  circuit board  assembly
+              processes used by many different manufacturers.
+
+              2AG fuses are a miniature version of the standard 1/4" diameter by
+              1-1/4"  long  glass  bodied  fuses  manufactured  for more than 40
+              years. The fuse occupies about 1/3 of the space but still provides
+              the  performance  of the larger  sized  product.  The  Company has
+              developed a strong market in the telecommunications industry for a
+              leaded  version of the 2AG fuse.  These fuses are used in business
+              and  personal  telephone  systems,  answering  machines  and other
+              equipment  connected to phone lines.  They are used to protect the
+              system from  lightning  surges and  accidental  contact with power
+              lines.  These  fuses  also  are  used  extensively  in  electronic
+              ballasts for lighting.
+
+              NANO2  (R) SMF  Fuse is a fourth  generation  surface  mount  fuse
+              product  line.  The  compact  size (.240" x .100" x .100") of this
+              rectangular shaped fuse is very attractive to design engineers. In
+              addition,   the  flat  side  design  permits  efficient  pick  and
+              placement by automated assembly equipment.  The NANO2 (R) SMF Fuse
+              is used where space considerations are critical,  including laptop
+              computers, camcorders and battery chargers.
+
+              ALF(TM) II or "1206" SMF,  and the "0603" SMF are very fast acting
+              thin film surface mount fuses  measuring  only .12 inch x .06 inch
+              and .06  inch X .03  inch,  respectively.  The  subminiature  size
+              assures  additional  space savings in surface mount  applications.
+              They are completely  compatible with common soldering systems used
+              in surface mount assembly  applications,  the ALF(TM) is available
+              on  8mm  reels  for  use  with  automatic   placement   equipment.
+              Applications  include  hard disk drives,  PC main boards,  digital
+              cameras, CD-ROMs and cellular telephones.
+
+              SMTelecom(TM)  is the first  surface  mount fuse to comply with UL
+              1459  and UL 1950  third  edition  power  cross  requirements  for
+              telecommunications.  The new SMTelecom(TM) Fuse protects all phone
+              line connected  equipment  against  current surges  resulting from
+              power cross,  power induction and lightning  strikes.  It is rated
+              for 250 volts with a 600 volt short circuit  rating.  Four current
+              ratings  are  offered,  from  0.75  to 1.5  amperes.  Applications
+              include  modems,  fax  machines,  desktop  telephones,   answering
+              machines and line cards.
+
+              Surface  Mount  PTC is  the  first  in  Littelfuse's  line  of PTC
+              devices.  Its dimensions of 0.200" x 0.290" x 0.120" are ideal for
+              circuit board applications where space is at a premium. It also is
+              available  in 0.340" x 0.250" x 0.10" and  0.179" x 0.127" x 0.02"
+              configurations.  This polymer surface mount PTC has the ability to
+              reset itself once the fault or overcurrent  condition has cleared.
+              This new product is used  primarily  for computer  and  peripheral
+              applications such as motherboards,  disk drives, PC cards, modems,
+              printers, etc.
+
+              PulseGuard(R), an ESD suppressor, is a polymer based surface mount
+              or  connector  style  device  that  utilizes  a  variable  voltage
+              material  to shunt high  voltage  ESD energy  away from  circuitry
+              without affecting data signals. The PulseGuard(R)  characteristics
+              and  available  packages  provide  for  protection  of  integrated
+              circuitry in applications such as PCs and PC peripherals.
+
+              Metal Oxide Varistors (MOVs) are high energy  absorption  products
+              that  provide  transient  overvoltage  and surge  suppression  for
+              electronic,  telecommunication and industrial  applications.  MOVs
+              are available in a radial  leaded  package,  used in  applications
+              such as hand-held  electronic  devises,  cellular  telephones  and
+              medical instruments.  A surface mount,  multilayer package is also
+              available  for  circuit  board  applications  where  space is at a
+              premium.
+
+              UltraMOV(TM) is a series of radial leaded  varistors  intended for
+              AC line applications  requiring high peak surge current rating and
+              high   energy   absorption   capability.    Applications   include
+              Uniterruptable   Power  Supplies  (UPS),   circuit  breakers,   AC
+              appliance/controls and consumer electronics.
+
+              The Company also markets a series of  industrial  MOVs designed to
+              provide   surge   suppression   in  the  AC  mains   outdoors  and
+              distribution panels of buildings.  Applications include industrial
+              heavy motors, HVAC and motor/generator applications.
+
+         Automotive  Products.  The Company is a primary  supplier of automotive
+fuses to United  States,  Japanese  and  European  automotive  OEMs,  automotive
+component parts  manufacturers  and automotive parts  distributors.  The Company
+also sells its fuses in the  replacement  parts market,  with its products being
+sold through  merchandisers,  discount stores and service  stations,  as well as
+under private label by national firms.  Management believes that it currently is
+the leading  worldwide  supplier of automotive fuses for new vehicle  production
+and a leader for the aftermarket/replacement market.
+
+         The Company  invented and owns all of the U.S.  patents  related to the
+blade  type  fuse  which is the  standard  and most  commonly  used  fuse in the
+automotive industry. The Company believes that, together with its licensees,  it
+supplies  substantially  all of the blade type fuses used in the North  American
+and  Japanese  markets  and a majority in the  European  market.  The  Company's
+automotive fuse products are marketed under the following  trademarked and brand
+names:
+
+              AUTOFUSE(R)  or  ATO(R),  a standard  blade type fuse,  is used in
+              automobiles  produced  worldwide and designed to provide  superior
+              circuit  protection  in a small,  heat  resistant  package for low
+              ampere applications.
+
+              MINI(R) Fuse, smaller than its predecessor AUTOFUSE(R), is offered
+              in a range from two amps to 30 amps and is designed to permit more
+              fuses in the same amount of space than prior products.
+
+              MAXI(TM) Fuse, a larger version of the  AUTOFUSE(R),  replaces the
+              commonly  used low  technology  fusible  wire or fusible  links in
+              automobile  electrical harnesses and is offered in a range from 20
+              amps to 80 amps.
+
+              MIDI(R)  Fuse is a bolt down version of the  MAXI(TM)  fuse.  This
+              style is preferred by some European customers in the 50 to 100 amp
+              range. Its primary use is for heating,  air conditioning and motor
+              control circuits.
+
+              J-CASE(R)  Fuse, is a cartridge  version of the Maxi(TM) fuse. Its
+              primary use is for branch  circuit  protection  and  protection of
+              circuits with inductive loads.
+
+              MEGA(R)Fuse,  a higher  current  fuse with  ratings of 100 to 200
+               amps, is used for protection of battery cables.
+
+         Over half of the Company's North American  automotive (blade type) fuse
+sales are made to wire harness  manufacturers  that  incorporate  the fuses into
+their  products.  The  remaining  automotive  fuse  sales are made  directly  to
+automotive manufacturers and through distributors who in turn sell most of their
+products to  automotive  product  wholesalers,  such as warehouse  distributors,
+discount stores and service stations.
+
+         The Company believes it currently has adequate  production  capacity to
+meet the  anticipated  increased  demand for  automotive  fuses  referred  to in
+"Business  Environment:  Circuit  Protection  Market --  Automotive  Fuses." Any
+required  expenditures for additional machinery and equipment are expected to be
+funded by cash flow from operations.
+
+         The Company has licensed its patented  Mini(R) and Maxi(TM)  automotive
+fuse  designs to  Bussmann,  a division  of Cooper  Industries.  Bussmann is the
+Company's  largest domestic  competitor.  Additionally,  the Company has entered
+into a licensing  agreement with Pacific Engineering  Company,  Ltd., a Japanese
+fuse manufacturer, which produces and distributes the Company's patented Mini(R)
+automotive fuses to the Pacific Rim  manufacturing  operations of Japanese based
+automobile manufacturers. See "Competition" and "Business -- Patents, Trademarks
+and Other Intellectual Property."
+
+         Power  Products.  The Company entered the power fuse market in 1983 and
+manufactures and sells a broad range of low-voltage  circuit protection products
+to electrical distributors and their customers in the construction,  OEM and MRO
+markets. Power fuses are used to protect circuits in various types of industrial
+equipment and circuits in industrial  plants,  office  buildings and residential
+units.  The  Company's  power fuse  products  are marketed  under the  following
+classifications:
+
+              Class L fuses are  commonly  used as the first line of  electrical
+              protection in building service entrance equipment of high capacity
+              electrical systems.  Other applications  include switchboard mains
+              and feeders,  distribution equipment and branch circuit protection
+              for large motors.
+
+              Class R fuses are commonly used downstream from Class L fuses in a
+              variety of branch circuit  applications.  Both time delay and fast
+              acting  versions  cover a range  of  applications  including  main
+              feeder,  motor,  transformer  and  solenoids.  The  Company's  RK5
+              INDICATOR  fuse series has won  numerous  product  awards and wide
+              recognition  by industrial  plant  personnel.  These fuses have an
+              integrated blown fuse indicator that turns from clear to dark once
+              a fuse has blown. This reduces  troubleshooting time significantly
+              and helps improve safety.
+
+              Class J fuses are less  than  half the size of Class R to  provide
+              substantial space savings. Applications for Class J are similar to
+              Class R.  Additional  applications  include back up protection for
+              circuit  breakers  and  protection  for both  IEC and  NEMA  rated
+              devices.  The Company has also  introduced an indicating J line of
+              fuses with indication functionality like the RK5 INDICATOR fuse.
+
+              Class CC fuses, Littelfuse's KLDR (for transformer protection) and
+              CCMR (for motor  branch  circuit  protection)  provide  protection
+              formerly  supplied by fuses 10 times  larger.  Littelfuse  was the
+              first to the market with these  products  and is the only  company
+              with a CCMR rated up to 60 amps.
+
+              Semiconductor  fuses,  designed for  supplementary  protection  of
+              semiconducting devices, are used in electronic equipment and power
+              equipment,  such as variable speed drives,  power rectifiers,  UPS
+              systems and DC power suppliers.
+
+              Midget fuses, in seven  different  series,  provide  supplementary
+              overcurrent  protection  in such diverse  applications  as control
+              circuits, control power transformers,  solenoids,  street lighting
+              and computers.
+
+              Medium voltage fuses, designed for general and back-up protection,
+              protect motors,  transformers  and motor  controllers.  The medium
+              voltage  fuse line was  expanded in 1998 with the  purchase of the
+              product  line and  assets of a medium  voltage  fuse  manufacturer
+              allowing for very short delivery times of these products.
+
+         Other Products. In addition to the above products, the Company supplies
+switches,  and circuit breakers to the automotive  industry and to appliance and
+general  electronics  manufacturers.  The  Company  is also a  supplier  of fuse
+holders  (including  OMNI-BLOK(R)),  fuse blocks (including  Powr-Blok(R)  power
+distribution  systems)  and fuse clips  primarily  to  customers  that  purchase
+circuit protection devices from the Company.
+
+
+Product Design and Development
+
+         The Company  employs  scientific,  engineering  and other  personnel to
+improve its existing  product  lines and to develop new products at its research
+and engineering facility in Des Plaines,  Illinois.  The Engineering  Department
+consists of approximately 60 engineers, chemists, metallurgists, fusologists and
+technicians.  This  department  is  primarily  responsible  for the  design  and
+development of new products.
+
+         Proposals for the  development of new products are initiated  primarily
+by sales and marketing  personnel with input from customers.  The entire product
+development process typically ranges from 6 to 18 months with continuous efforts
+to reduce the development cycle.  During the fiscal years ended January 1, 2000,
+January 2, 1999, and January 3, 1998, the Company  expended  approximately  $9.5
+million,  $8.4 million and $7.9  million,  respectively,  on product  design and
+development.
+
+
+
+<PAGE>
+
+
+Patents, Trademarks and Other Intellectual Property
+
+         The Company  generally  relies on patent and trademark laws and license
+and nondisclosure  agreements to protect its rights in its trade secrets and its
+proprietary products.  In cases where it is deemed necessary by management,  key
+employees  are  required  to sign an  agreement  that  they  will  maintain  the
+confidentiality of the Company's proprietary information and trade secrets. This
+information, for business reasons, is not disclosed to the public.
+
+         As of January 1, 2000,  the Company owned 112 patents in North America,
+22 patents in the European  Economic  Community  and 34 patents in other foreign
+countries.  The Company has also registered  trademark protection for certain of
+its brand names and logos.  The 112 North American  patents are in the following
+categories:  47 Electronic,  16 Resettable,  23 Automotive,  19 Power Fuse and 7
+miscellaneous.
+
+         New products are continually being developed to replace older products.
+The  Company  regularly  applies  for patent  protection  on such new  products.
+Although in the aggregate  the Company's  patents are important in the operation
+of its businesses, the Company believes that the loss by expiration or otherwise
+of any one patent or group of patents would not materially affect its business.
+
+         The Company currently licenses its MINI(R) and MAXI(TM) automotive fuse
+technology  to  Bussmann,  a division  of Cooper  Industries  and the  Company's
+largest  domestic  competitor.  The license granted in 1987 is nonexclusive  and
+grants  the  Company  the right to  receive  royalties  of 4% of the  licensee's
+revenues  from the sale of the  licensed  products  with an  annual  minimum  of
+$25,000.  Each license  expires  upon the  expiration  of the  licensed  product
+patents.
+
+         In addition,  a second license covering the MINI(R) Fuse technology was
+granted to Pacific  Engineering  Company,  Ltd.,  a Japanese  manufacturer  that
+produces and distributes the Company's patented  automotive fuses to Pacific Rim
+operations of Pacific Rim-based automotive  manufacturers.  The license provides
+the Company with royalties of 2.5% of the  licensee's  revenues from the sale of
+the licensed products,  with an annual minimum of $100,000.  This second license
+expires on April 6, 2006.
+
+         License  royalties  amounted to  $250,000,  $286,000  and  $332,000 for
+fiscal 1999, 1998 and 1997, respectively.
+
+Manufacturing
+
+         Much of the Company's manufacturing equipment is custom designed by its
+engineers,  and the Company  performs the majority of its own  fabrication.  The
+Company  stamps  most of the metal  components  used in its fuses,  holders  and
+switches  from raw metal stock and makes its own contacts and springs.  However,
+the Company does depend upon a single  source for a  substantial  portion of its
+stamped metal end caps for one family of electronic  fuses. The Company believes
+that alternative stamping sources are available at prices which would not have a
+material  adverse  effect on the  Company.  The Company  also  performs  its own
+plating (silver,  nickel, zinc, tin and oxides). In addition,  all thermoplastic
+molded component requirements used for such products as the AUTOFUSE(R), MINI(R)
+and  MAXI(TM)  product  lines are met through  the  Company's  in-house  molding
+capabilities.
+
+         After components are stamped,  molded, plated and readied for assembly,
+final assembly is accomplished on fully  automatic and  semi-automatic  assembly
+machines.  Quality assurance and operations personnel,  using techniques such as
+Statistical  Process Control,  perform tests, checks and measurements during the
+production  process  to  maintain  the  highest  levels of product  quality  and
+customer satisfaction.
+
+         The principal raw materials for the Company's  products  include copper
+and copper alloys,  heat resistant  plastics,  zinc,  melamine,  glass,  silver,
+solder,  sulphate  chipboard  and  linerboard.  The Company  depends upon a sole
+source for several heat resistant  plastics.  The Company believes that suitable
+alternative  heat resistant  plastics are available from other sources at prices
+which would not have a material adverse effect on the Company.  All of the other
+raw materials are purchased from a number of readily available outside sources.
+
+         A computer-aided  design and manufacturing  system (CAD/CAM)  expedites
+product  development  and  machine  design,  while  reliability  and high  power
+laboratories test new products,  prototype  concepts and production run samples.
+The Company  participates in  "Just-in-Time"  delivery programs with many of its
+major  suppliers  and  actively  promotes  the  building  of strong  cooperative
+relationships  with its suppliers by involving them in  pre-engineering  product
+and process  development.  The Company also  sponsors an annual  major  supplier
+conference and conducts a vendor certification program.
+
+Marketing
+
+         The  Company's  domestic  sales  staff  of  over  70  people  maintains
+relations with major OEMs and distributors.  The Company's sales and engineering
+personnel  interact  directly with the OEM engineers to ensure  maximum  circuit
+protection   and   reliability   within  the   parameters  of  the  OEM  design.
+Internationally, the Company maintains a sales staff of over 30 people and sales
+offices in The Netherlands,  England, Ireland,  Singapore,  Korea and China. The
+Company also markets its products indirectly through a worldwide organization of
+over 120  manufacturers'  representatives  and distributes  through an extensive
+network of electronic, automotive and electrical distributors.
+
+         Electronic. The Company retains manufacturers'  representatives to sell
+its electronic products and to call on major domestic and international OEMs and
+distributors. The Company distributes approximately 43% of its domestic products
+directly to OEMs, with the remainder sold through distributors nationwide.
+
+         In the Asia-Pacific  region, the Company maintains a direct sales staff
+and one or more  manufacturers'  representatives  in  Japan,  Singapore,  Korea,
+Taiwan, China, Malaysia,  Thailand,  Philippines and Australia. The Company also
+maintains an engineering  facility in Japan. In Europe,  the Company maintains a
+direct  sales  force to call on OEMs  exclusively  and  utilizes  manufacturers'
+representatives  to approach  distributors and smaller OEMs. Unlike its domestic
+representatives,  these manufacturers'  representatives  purchase inventory from
+the Company to facilitate  delivery and reduce  financial risks  associated with
+currency exchange rate fluctuations.
+
+         Automotive. The Company sells automotive fuses to OEMs through a direct
+sales force in Detroit  consisting of four employees.  Salespersons  service all
+the major automotive OEMs (including the United States manufacturing  operations
+of foreign-based  OEMs) through both the engineering and purchasing  departments
+of these  companies.  Twenty-two  manufacturers'  representatives  represent the
+Company's products to aftermarket fuse retailers such as Autozone, Pep Boys, and
+K-Mart. In Europe, the Company uses both a direct sales force and manufacturers'
+representatives  to distribute its products to Mercedes Benz, BMW, Volvo,  Saab,
+Jaguar and other OEMs, as well as aftermarket distributors.  In the Asia-Pacific
+region,  the Company has licensed its automotive  fuse  technology to a Japanese
+firm,  which  supplies  the  majority of the  automotive  fuses to the  Japanese
+manufacturing  operations  in the region  including  Toyota,  Honda and  Nissan.
+Additionally,  the  Company  has a direct  sales staff in Korea to call on major
+OEMs in that market.
+
+         Power.   The  Company   markets  and  sells  its  power  fuses  through
+manufacturers'  representatives across North America. These representatives sell
+power fuse products  through an  electrical  distribution  network  comprised of
+approximately  1,800  distributor  buying  locations.  These  distributors  have
+customers that include  electrical  contractors,  municipalities,  utilities and
+factories   (including   both  MRO  and   OEM).   Some  of  the   manufacturers'
+representatives  have consigned  inventory in order to facilitate rapid customer
+delivery.
+
+         The Company's field sales force (including  application  engineers) and
+manufacturers'   representatives   call  on  both   distributors  and  end-users
+(consulting  engineers,  municipalities,  utilities  and  OEMs) in an  effort to
+educate these customers on the capabilities and characteristics of the Company's
+products.
+
+Business Segment Information
+
+The Company has three reportable  business  segments:  The Americas,  Europe and
+Asia-Pacific.  For information  with respect to the Company's  operations in its
+three  geographic  areas for the fiscal year ended January 1, 2000, see "Item 8.
+Financial  Statements and  Supplementary  Data - Business  Segment  Information"
+incorporated herein by reference.
+
+Customers
+
+         The  Company  sells  to over  10,000  customers  worldwide.  No  single
+customer  accounted  for more than 10% of net sales  during the last three years
+except for its Japanese  stocking  representative  which accounted for 10.2% and
+11% in 1998 and 1997, respectively.  The Japanese stocking representative serves
+over 100 customers in the Asia-Pacific  electronic market. During the 1999, 1998
+and 1997 fiscal years, net sales to customers outside the United States (exports
+and foreign  operations)  accounted for  approximately  46.1%,  43.0% and 40.6%,
+respectively, of the Company's total net sales.
+
+Competition
+
+         The  Company's   products   compete  with  similar  products  of  other
+manufacturers, many of which have substantially greater financial resources than
+the Company.  In the  electronic  fuse market,  the  Company's  competitors  are
+Bussmann,  a division of Cooper Industries,  Bel Fuse, Inc., Raychem Division of
+TYCO  International,  San-O  Industrial  Corp. and  Wickmann-Werke  GmbH. In the
+circuit  protection  market,  the  Company's  competitors  are  Bourns,  Raychem
+Division of TYCO  International,  AVX,  Maida,  Panasonic  and  Siemens.  In the
+fuseholder  portion  of this  market,  the  Company's  principal  competitor  is
+Schurter, Inc. In the automotive fuse market, the Company's competitors, both in
+sales to  automobile  manufacturers  and in the  aftermarket,  are  Bussmann and
+Pudenz  Division  of  Wickmann-Werke.   The  Company  licenses  several  of  its
+automotive  fuse designs to Bussmann.  In the power fuse market,  the  Company's
+major competitors include Bussmann and Ferraz Shawmut. The Company believes that
+it  competes  primarily  on the basis of  innovative  products,  the  breadth of
+available  product  lines,  the  quality  and  design  of its  products  and the
+responsiveness of its customer service rather than through price competition.
+
+Backlog
+
+         The Company  does not consider  backlog to be a  predictive  measure of
+results due to the Company's short delivery time. The Company  manufactures high
+volume  products  based on its  demand  forecasts  and  manufactures  low volume
+products based on customer orders. The Company attempts to ship such products to
+the  customer  within five  business  days of the date of the order.  Generally,
+orders which  request  delivery  within three weeks of the date of the order are
+filled on time from available stock or current production.
+
+Employees
+
+         During  1999,  the  Company  employed   approximately   3,256  persons.
+Approximately  54  employees  in Des  Plaines  and 694  employees  in Mexico are
+covered by collective bargaining  agreements.  The Des Plaines agreement expires
+March 31, 2002 and the Mexico  agreement  expires  January 31, 2001. The Company
+has not  experienced any work stoppage or other form of labor dispute within the
+last 20 years.  The Company  believes that its employee  relations are excellent
+and that its  employees,  many of whom have long  experience  with the  Company,
+represent a valuable  resource.  The Company  emphasizes  employee  training and
+development and has established  Quality  Improvement Process (QIP) training for
+its  employees   worldwide  so  as  to  promote  product  quality  and  customer
+satisfaction.
+
+Year 2000
+
+For information  relating to Year 2000 see "Item 7. Management's  Discussion and
+Analysis  of  Financial  Conditions  and  Results  of  Operations  - Year  2000"
+incorporated herein by reference.
+
+Environmental Regulation
+
+         The Company is subject to numerous federal, state and local regulations
+relating to air and water quality,  the disposal of hazardous  waste  materials,
+safety and health.  Compliance with applicable environmental regulations has not
+significantly changed the Company's  competitive  position,  capital spending or
+earnings  in the  past  and the  Company  does  not  presently  anticipate  that
+compliance with such regulations will change its competitive  position,  capital
+spending  or  earnings  for the  foreseeable  future.  The  Company  employs  an
+environmental  engineer to monitor  regulatory  matters and believes  that it is
+currently in compliance in all material  respects with applicable  environmental
+laws and  regulations,  except with respect to its facility  located in Ireland.
+This facility was recently  acquired in connection  with the  acquisition of the
+Harris suppression products division.  Corrective steps are being taken to bring
+this facility into  compliance  with Irish  environmental  laws, and the Company
+received an indemnity  from Harris  Corporation  with respect to these  matters.
+
+ITEM 2. PROPERTIES
+
+Littelfuse Facilities
+
+         The Company's  operations are located in 19 owned or leased  facilities
+worldwide,  containing  approximately 702,000 square feet. The U.S. headquarters
+and principal  fabrication and distribution  facility is located in Des Plaines,
+Illinois,  supported  by two  additional  plants in Illinois  and one in Mexico.
+European  headquarters  and  the  primary  European  distribution  center  is in
+Utrecht,  The Netherlands,  with  manufacturing  plants in England,  Ireland and
+Switzerland.  Asia Pacific operations  include a distribution  center located in
+Singapore,  with manufacturing  plants in Korea, China and the Philippines.  The
+Company does not believe that it will  encounter any  difficulty in renewing its
+existing leases upon the expiration of their current terms.  Management believes
+that the  Company's  facilities  are adequate to meet its  requirements  for the
+foreseeable future.
+
+          The  following  table  provides  certain  information  concerning  the
+Company's facilities:
+
+<TABLE>
+
+                                                                                     Lease
+                                                                                     Expir-
+                                                        Size         Lease/          Ation        Industry
+Location                          Use                   (sq.ft.)      Own             Date          Focus
+
+
+<S>                                                       <C>        <C>             <C>          <C>
+Des Plaines, Illinois             Administrative,         340,000    Owned               --       Auto, Electronic, Power
+                                  Engineering,
+                                  Manufacturing,
+                                  Testing and Research
+
+Centralia, Illinois               Manufacturing           45,200     Owned               --       Electronic
+
+Arcola, Illinois                  Manufacturing          36,000      Owned               --       Power
+
+Livonia, Michigan                 Administrative           1,200     Leased             2004      Auto
+
+Piedras Negras, Mexico            Manufacturing          50,031      Leased             2000      Auto, Electronic, Power
+
+Piedras Negras, Mexico            Manufacturing          12,594      Leased             2003      Electronic and Power
+
+Piedras Negras, Mexico            Manufacturing          22,711      Leased             2002      Electronic and Power
+
+Washington,                       Manufacturing,         60,000      Owned               --       Electronic, Auto, Other
+England                           Sales and
+                                  Distribution
+
+Utrecht, The Netherlands          Warehousing              8,680     Leased             2001      Auto, Electronic, Other
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+
+                                                                                     Lease
+                                                                                     Expir-
+                                                        Size         Lease/          Ation        Industry
+Location                          Use                   (sq.ft.)      Own             Date          Focus
+
+<S>                                                      <C>         <C>             <C>          <C>
+Utrecht, The Netherlands          Sales,                 12,000      Owned               --       Auto, Electronic, Other
+                                  Administrative  and
+                                  Engineering
+
+Grenchen, Switzerland             Manufacturing          11,000      Owned               --       Auto
+
+Singapore                         Sales and                9,827     Leased             2002      Electronic and Auto
+                                  Distribution
+Seoul, Korea                      Sales and              29,175      Owned               --       Electronic and Auto
+                                  Manufacturing
+Philippines                       Manufacturing          10,200      Leased             2000      Electronic
+Suzhou, China                     Manufacturing          40,000      Owned               --       Electronic
+Hong Kong, China                  Sales                    3,079     Leased             2002      Electronic
+Yokohama, Japan                   Engineering              8,811     Leased             2000      Electronic
+Sao Paulo, Brazil                 Sales and
+                                  Distribution            1,200      Leased             2000      Electronic, Auto
+
+Dundalk, Ireland                  Manufacturing           120,000    Owned               --       Electronic, Auto
+
+</TABLE>
+
+
+ITEM 3.   Legal Proceedings
+
+         The Company is not a party to any legal  proceedings  which it believes
+will have a material  adverse  effect  upon the  conduct of its  business or its
+financial position.
+
+ITEM 4.  Submission of Matters to a Vote of Security Holders
+
+         There were no matters  submitted to the Company's  stockholders  during
+the fourth quarter of fiscal 1999.
+
+Executive Officers of the Registrant
+
+         The executive officers of the Company are as follows:
+
+
+
+<PAGE>
+<TABLE>
+
+
+     Name                              Age                              Position
+
+<S>                                     <C>            <C>
+Howard B. Witt                          59             Chairman, President and Chief Executive Officer
+
+Kenneth R. Audino                       56             Vice President, Organizational Development
+                                                         and Total Quality Management
+
+William S. Barron                       57             Vice President, Marketing and Sales
+
+Philip G. Franklin                      48             Vice President, Treasurer and Chief Financial
+                                                                   Officer
+
+Lloyd J. Turner                         56             Vice President, Operations
+
+Hans Ouwehand                           53             Vice President, European Operations
+
+Mary S. Muchoney                        54             Secretary
+
+</TABLE>
+
+Officers of  Littelfuse  are elected by the Board of Directors  and serve at the
+discretion of the Board.
+
+         Howard B. Witt was elected as the  Chairman of the Board of the Company
+in May,  1993. He was promoted to President and Chief  Executive  Officer of the
+Company in February,  1990.  Prior to his  appointment  as  President  and Chief
+Executive  Officer,  Mr. Witt served in several other key  management  positions
+with the Company,  including Operations Manager from March 1979 to January 1986,
+Vice  President-Manufacturing  Operations from January 1986 to January 1988, and
+Executive  Vice  President  with full  operating  responsibilities  for all U.S.
+activities from January 1988 to February 1990. Prior to joining Littelfuse,  Mr.
+Witt was a division  president of Keene  Corporation from 1974 to 1979. Mr. Witt
+serves as a Director  of Franklin  Electric  Co.,  Inc.  and  Material  Sciences
+Corporation and is a member of the Electronic  Industries  Association  Board of
+Governors. He also serves as a director of the Artisan Mutual Fund.
+
+         Kenneth R. Audino, Vice President, Organizational Development and Total
+Quality   management,   is  responsible  for  the  Company's   overall  quality,
+reliability and environmental  compliance,  quality systems, human resources and
+training efforts.  Mr. Audino joined Littelfuse as a Control Technician in 1964.
+From  1964 to 1977,  he  progressed  through  several  quality  and  reliability
+positions to Manager of Reliability  and Standards.  In 1983, he became Managing
+Director of the European  Headquarters and later was named Corporate Director of
+Quality  Assurance and  Reliability.  He was promoted to his current position in
+1998.
+
+     William S. Barron, Vice President,  Sales and Marketing, is responsible for
+the Company's overall sales and marketing. Mr. Barron joined Littelfuse in March
+1991. From August 1981 to March 1991, Mr. Barron served as Director of Sales and
+Marketing of Cinch Manufacturing,  a division of TRW, and the General Manager of
+one of its domestic divisions.
+
+         Philip G.  Franklin,  Vice  President,  Treasurer  and Chief  Financial
+Officer,  has responsibility  for the treasury,  investor  relations,  financial
+control,  financial  reporting and information systems functions of the Company.
+Mr.  Franklin  joined the Company in 1998 from  OmniQuip  International,  a $450
+million construction equipment manufacturer which he helped take public.
+
+         Lloyd J. Turner,  Vice President,  Operations,  has  responsibility for
+manufacturing  operations  and related  support  functions.  Mr.  Turner  joined
+Littelfuse in October 1988, as Director of Manufacturing Operations after having
+served as an  Operations  Manager with Texas  Instruments  from November 1984 to
+September 1988. He was promoted to his current position in 1991.
+
+         Hans Ouwehand, Vice President,  European Operations, has responsibility
+for all sales,  marketing,  manufacturing and engineering  activities in Europe.
+Mr. Ouwehand  joined  Littelfuse in 1984 as Sales Manager,  Europe,  Electronics
+Division.  He was later promoted to the position of European Sales and Marketing
+Manager  for all  Littelfuse  products  and in 1986 to the  position  of General
+Manager-European   Operations.  Prior  to  joining  Littelfuse,  his  industrial
+background included research and development work with Sperry Rand and sales and
+product management with Lameris Medical Instruments.
+
+     Mary S.  Muchoney  has served as  Corporate  Secretary  since  1991,  after
+joining Littelfuse in 1977. She is responsible for providing all secretarial and
+administrative  functions for the President and  Littelfuse  Board of Directors.
+Ms. Muchoney is a member of the American Society of Corporate Secretaries.
+
+                                     PART II
+
+ITEM 5. Market for Registrant's Common Equity and Related Stockholder Matters
+
+         The information set forth under  "Quarterly  Stock Price" on page 40 of
+the Annual Report to  Stockholders is  incorporated  herein by reference.  It is
+also included in Exhibit 13.1 as filed with the SEC. As of March 10, 2000, there
+were 236 holders of record of the Company's  Common Stock and in excess of 2,700
+beneficial holders of its Common Stock.
+
+         Since  September 22, 1992,  shares of the Common Stock have been traded
+in the  over-the-counter  market and  quotations  are reported  using the symbol
+"LFUS" on The Nasdaq Stock Market.
+
+         The  Company has not paid any cash  dividends  in its  history.  Future
+dividend  policy will be determined  by the Board of Directors  based upon their
+evaluation  of  earnings,  cash  availability  and general  business  prospects.
+Currently,  there are restrictions on the payment of dividends  contained in the
+Company's  bank credit  agreement  which  relate to the  maintenance  of certain
+restricted payment ratios.
+
+ITEM 6.  Selected Financial Data
+
+         The information  set forth under  "Selected  Financial Data - Five Year
+Summary" on page 40 of the Annual Report to Stockholders is incorporated  herein
+by reference. It is also included in Exhibit 13.1 as filed with the SEC.
+
+
+<PAGE>
+
+
+ITEM 7. Management's  Discussion and Analysis of Financial Condition and Results
+of Operations
+
+         The information set forth under  "Management's  Discussion and Analysis
+of Financial  Condition and Results of Operations" on pages 20 through 23 of the
+Annual Report to Stockholders is  incorporated  herein by reference.  It is also
+included in Exhibit 13.1 as filed with the SEC.
+
+ITEM 7A.  Quantitative and Qualitative Disclosures about Market Risks
+
+         The  information set forth under "Market Risk" on page 23 of the Annual
+Report to Stockholders is incorporated herein by reference.  It is also included
+in Exhibit 13.1 as filed with the SEC.
+
+ITEM 8.  Financial Statements and Supplementary Data
+
+         The  Report of  Independent  Auditors  and the  Consolidated  Financial
+Statements  and notes thereto of the Company set forth on pages 24 through 35 of
+the Annual Report to Stockholders are incorporated herein by reference. They are
+also included in Exhibit 13.1 as filed with the SEC.
+
+ITEM  9.  Changes  in and  Disagreements  with  Accountants  on  Accounting  and
+Financial Disclosure
+
+         None.
+
+
+                                    PART III
+
+ITEM 10.  Directors and Executive Officers of the Registrant
+
+         The  information  set forth under  "Election of Directors" and "Section
+16(a)  Beneficial  Ownership  Reporting  Compliance"  in the Proxy  Statement is
+incorporated  herein by reference.  The information  set forth under  "Executive
+Officers of the Registrant" in Part I of this Report is  incorporated  herein by
+reference.
+
+ITEM 11.  Executive Compensation
+
+         The information set forth under "Compensation of Executive Officers" in
+the Proxy Statement is incorporated herein by reference, except for the sections
+captioned "Reports of the Compensation Committee on Executive  Compensation" and
+"Company Performance."
+
+ITEM 12.  Security Ownership of Certain Beneficial Owners and Management
+
+         The information set forth under  "Ownership of Littelfuse,  Inc. Common
+Stock" in the Proxy Statement is incorporated herein by reference.
+
+
+
+<PAGE>
+
+
+ITEM 13.  Certain Relationships and Related Transactions
+
+         The  information  set forth under  "Certain  Relationships  and Related
+Transactions" in the Proxy Statement is incorporated herein by reference.
+
+                                     PART IV
+
+ITEM 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+               (a)         Financial Statements and Schedules
+
+                     (1)   Financial   Statements.   The   following   financial
+                           statements   included   in  the   Annual   Report  to
+                           Stockholders are incorporated herein by reference.
+
+                           (i)  Report of Independent Auditors (page 36)
+
+                           (ii)  Consolidated  Statements of Financial Condition
+                                 as of  January  1,  2000 and  January  2,  1999
+                                 (pages 24 and 25).
+
+                           (iii) Consolidated Statements of Income for the years
+                                 ended  January  1,  2000,  January  2, 1999 and
+                                 January 3, 1998 (page 26).
+
+                           (iv)  Consolidated  Statements  of Cash Flows for the
+                                 years  ended  January 1, 2000,  January 2, 1999
+                                 and January 3, 1998 (page 27).
+
+                           (v)   Consolidated Statements of Shareholders' Equity
+                                 for the years ended January 1, 2000, January 2,
+                                 1999 and January 3, 1998.
+                                 (page 28).
+
+                           (vi)  Notes  to  Consolidated   Financial  Statements
+                                   (pages 29-35).
+
+                (2)   Financial  Statement  Schedules.  The following  financial
+                      statement schedules are submitted herewith for the periods
+                      indicated therein.
+
+                    (i)  Schedule   II-Valuation  and  Qualifying  Accounts  and
+                         Reserves
+
+                      All other  schedules  for which  provision  is made in the
+                      applicable  accounting  regulation of the  Securities  and
+                      Exchange  Commission  are not  required  under the related
+                      instructions or are inapplicable and, therefore, have been
+                      omitted.
+
+                (3)   Exhibits
+
+                      See Exhibit Index on pages 21-23,  incorporated  herein by
+                         reference.
+
+    (b)         Reports on Form 8-K
+
+                There were no  reports on Form 8-K during the fourth  quarter of
+                    1999.
+
+
+
+<PAGE>
+
+<TABLE>
+
+
+                                LITTELFUSE, INC.
+          SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+                                 (In Thousands)
+
+
+
+                                                                Additions
+                                               Balance at       Charged to                         Balance at
+                                               Beginning        Costs and       Deductions           End of
+        Description                            Of Year          Expenses           (A)                Year
+                                               ----------       ----------      ----------         -------
+Year ended January 1, 2000
+  Allowance for losses on
+<S>                                            <C>              <C>             <C>                <C>
+    accounts receivable . . . . . .            $ 1,103          $   614         $   147            $ 1,570
+                                               =======          =======         =======            =======
+
+  Reserves for sales discounts
+    and allowances . . . . . . . .             $ 4,782          $   769         $    --            $ 5,551
+                                               =======          =======         =========          =======
+
+
+
+Year ended January 2, 1999
+  Allowance for losses on
+    accounts receivable . . . . . .            $ 1,118          $   626         $   641            $ 1,103
+                                               =======          =======         =======            =======
+
+  Reserves for sales discounts
+    and allowances . . . . . . . .             $ 4,781          $      1        $    --            $ 4,782
+                                               =======          ========        =========          =======
+
+
+
+Year ended January 3, 1998
+  Allowance for losses on
+    accounts receivable . . . . . .            $    896         $   410         $   188            $ 1,118
+                                               ========         =======         =======            =======
+
+  Reserves for sales discounts
+    and allowances . . . . . . . .             $ 4,161          $  620          $    --            $ 4,781
+                                               =======          ======          =========          =======
+
+</TABLE>
+
+
+(A) Write-off of uncollectible  accounts, net of recoveries and foreign currency
+translation.
+
+<PAGE>
+
+
+
+
+                                                              SIGNATURES
+
+         Pursuant to the  requirements  of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                                            Littelfuse, Inc.
+
+                                                          By /s/ Howard B. Witt
+                                                                 Howard B. Witt,
+                                                        Chairman, President and
+                                                         Chief Executive Officer
+
+Date:  March 20, 2000
+
+         Pursuant to the  requirements  of the Securities  Exchange Act of 1934,
+this  report has been  signed  below by the  following  persons on behalf of the
+registrant and in the capacities and on the dates indicated:
+
+/s/ Howard B. Witt                            Chairman of the Board, President
+Howard B. Witt                                    and Chief Executive Officer
+
+/s/ John P.  Driscoll                                 Director
+John P. Driscoll
+
+/s/ Anthony Grillo                                    Director
+Anthony Grillo
+
+/s/ Bruce A. Karsh                                    Director
+Bruce A. Karsh
+
+/s/ John E. Major                                      Director
+John  E. Major
+
+/s/ John J. Nevin                                     Director
+John J. Nevin
+
+/s/ Philip G. Franklin                         Vice President, Treasurer
+Philip G. Franklin                               and Chief Financial Officer
+                                                  (Principal Financial Officer)
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+
+
+<S>       <C>                                                                                       <C>
+                                 LITTELFUSE INC.
+                                INDEX TO EXHIBITS
+                                  Sequentialc)
+                                                                                                    Page Number
+Number                                Description of Exhibit a)
+
+2.1        Plan of Reorganization under Chapter 11 of the Bankruptcy Code of
+           Old Littelfuse.
+
+3.1 Certificate of Incorporation (as amended to date).
+
+3.1A       Certificate  of  Designations  of Series A Preferred  Stock (filed as
+           Exhibit  4.2 to the  Company's  Current  Report  on  Form  8-K  dated
+           December 1, 1995 (1934 Act File No. 0-20388) and incorporated  herein
+           by reference.)
+
+3.2        Bylaws
+
+4.1        Second amended restated bank credit agreement among Littelfuse, Inc.,
+           as borrower, the lenders named therein and the First National Bank of
+           Chicago, as agent, dated as of September 1, 1998.
+
+4.2        Registration  Rights  Agreement,  dated  as  of  December  27,  1991,  between  Littelfuse,   Inc.  and  The
+           Toronto-Dominion Bank Trust Company, as agent.
+
+4.3        Warrant Agreement, dated as of December 27, 1991, between Littelfuse,
+           Inc., and LaSalle  National Trust,  N.A., as warrant agent,  together
+           with form of Warrant.  (filed as exhibit 4.3A to the  Company's  Form
+           10-Q for the quarterly  period ended June 28, 1997 (1934 Act File No.
+           -20388) and incorporated herein by reference), as amended.
+
+4.4        Stock Plan for Employees and Directors of Littelfuse, Inc., as amended d)
+
+4.5        Form of Stock Option Agreement
+
+4.6        Specimen Common Stock certificate.
+
+4.7        Littelfuse, Inc. Retirement Plan dated January 1, 1992, as amended and restated.d)
+</TABLE>
+
+
+____________
+
+a)   All of the exhibits,  (except those filed herewith or specifically noted as
+     being   incorporated  by  reference  from  a  different  filing  under  the
+     Securities as of 1933 or Securities  act of 1934) were filed as exhibits to
+     the Company's Form 10 as filed with the Securities and Exchange  Commission
+     which became  effective on September  16, 1992 (1934 Act File No.  0-20388)
+     and are incorporated herein by reference.
+b)   Filed herewith.
+c)   This information appears only in the manually signed copy of the report.
+d)   Indicates an employee  benefit plan,  management  contract or  compensatory
+     plan or arrangement in which a named executive officer participates.
+
+
+
+
+
+
+
+<PAGE>
+<TABLE>
+
+
+
+                                                                                                     Sequentialc)
+<S>       <C>                                                                                       <C>
+                                                                                                    Page Number
+                                    Description of Exhibit a)
+Number
+
+4.8        Littelfuse, Inc. 401(k) Savings Plan.d)
+
+4.9        Note  Purchase  Agreement,  dated as of  August  31,  1993,  relating  to  $45,000,000  principal  amount  of
+           Littelfuse, Inc. 6.31% Senior Notes due August 31, 2000.
+
+4.10       Littelfuse  Rights Plan  Agreement,  dated as of December  15,  1995,
+           between Littelfuse,  Inc. and LaSalle National Bank, as Rights Agent,
+           together with Exhibits thereto, as amended.
+
+4.11       Note  Purchase  Agreement  dated as of  September  1,  1998,  relating  to  $60,000,000  principal  amount  of
+           Littelfuse, Inc. 6.16% Senior Notes due September 1, 2005.
+
+b)4.12     Form of Restricted Share Agreement
+
+10.3       Patent  License  Agreement,  dated  as  of  July  28,  1995,  between
+           Littelfuse,  Inc.  and Pacific  Engineering  Company,  Ltd.(filed  as
+           exhibit 10.3 to the  Company's  Form 10K for the year ended  December
+           28, 1996)
+
+10.4       MINI(R) and  MAXITM  License  Agreement,  dated as of  June 21,  1989,  between  Littelfuse,  Inc.  and  Cooper
+           Industries, Inc.
+
+10.5       Patent License Agreement, dated as of January 1, 1987, between Littelfuse, Inc. and Cooper Industries, Inc.
+
+10.6       1993 Stock Plan for Employees and Directors of Littelfuse, Inc., as amended d)
+
+10.7       Littelfuse, Inc. Supplemental Executive Retirement Plan.d)
+
+10.8       Littelfuse Deferred Compensation Plan for Non-employee Directors, as amended.d)
+
+</TABLE>
+
+<PAGE>
+<TABLE>
+
+
+
+                                                                                                      Sequentialc)
+<S>       <C>                                                                                      <C>
+                                                                                                   Page Number
+
+Number                           Description of Exhibit a)
+
+
+ 10.9      Littelfuse  Executive  Loan  Program  (filed as  Exhibit  10.2 to the
+           Company's Form 10Q for the quarterly period ended June 30, 1995 (1934
+           Act File No. 0-20388) and incorporated herein by reference.)d)
+
+10.10      Employment Agreement dated as of September 1, 1996 between Littelfuse, Inc. and Howard B. Witt. d)
+
+10.11      Change of Control Employment  Agreement dated as of September 1, 1996 between  Littelfuse,  Inc. and Howard B.
+           Witt. d)
+
+10.12      Form of change of Control  Employment  Agreement  dated as of September 1, 1996 between  Littelfuse,  Inc. and
+           Messrs. Anderson, Audino, Barron, Krueger and Turner. d)
+
+10.13      Form of change of Control Employment  Agreement dated as of January 4, 1999 between  Littelfuse,  Inc. and Mr.
+           Franklin. d)
+
+b)13.1     Portions of Littelfuse Annual Report to Stockholders for the fiscal year ended January 1, 2000.
+
+b)22.1     Subsidiaries.
+
+b)23.1     Consent of Independent Auditors.
+
+</TABLE>
+
+
+
+
+<PAGE>
+
+
+
+
+                                                           Exhibit 22.1
+
+                                                           SUBSIDIARIES
+
+Littelfuse, S.A. de C.V.
+Littelfuse FSC
+Littelfuse Do Brasil Ltda.
+Watseka LF, Inc.
+
+Littelfuse, B.V.
+Littelfuse, A.G.
+Littelfuse Limited
+Harris Ireland Development Co., Ltd.
+Harris Ireland Limited
+Joyrush Investments Ltd.
+REMPAT Holding B.V.
+REMPAT Financial B.V.
+
+Littelfuse Far East Pte Ltd.
+Littelfuse HK Limited
+Littelfuse Holdings Pte Ltd.
+Suzhou Littelfuse OVS Ltd.
+Littelfuse KK
+Littelfuse Triad Inc.
+Littelfuse Phils Inc.
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FDS --
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<CIK>                                        0000889331
+<NAME>                                       Littelfuse, Inc.
+<MULTIPLIER>                                   1,000
+<CURRENCY>                                     USD
+
+<S>                             <C>
+<PERIOD-TYPE>                   Year
+<FISCAL-YEAR-END>                              Jan-01-2000
+<PERIOD-START>                                 Jan-03-1999
+<PERIOD-END>                                   Jan-01-2000
+<EXCHANGE-RATE>                                1
+<CASH>                                         1,888
+<SECURITIES>                                   0
+<RECEIVABLES>                                  59,583
+<ALLOWANCES>                                   7,121
+<INVENTORY>                                    48,916
+<CURRENT-ASSETS>                               119,137
+<PP&E>                                         194,302
+<DEPRECIATION>                                 18,461
+<TOTAL-ASSETS>                                 275,698
+<CURRENT-LIABILITIES>                          78,215
+<BONDS>                                        0
+<PREFERRED-MANDATORY>                          0
+<PREFERRED>                                    0
+<COMMON>                                       195
+<OTHER-SE>                                     0
+<TOTAL-LIABILITY-AND-EQUITY>                   275,698
+<SALES>                                        296,367
+<TOTAL-REVENUES>                               296,367
+<CGS>                                          179,112
+<TOTAL-COSTS>                                  0
+<OTHER-EXPENSES>                               0
+<LOSS-PROVISION>                               0
+<INTEREST-EXPENSE>                             5,253
+<INCOME-PRETAX>                                40,677
+<INCOME-TAX>                                   15,457
+<INCOME-CONTINUING>                            0
+<DISCONTINUED>                                 0
+<EXTRAORDINARY>                                0
+<CHANGES>                                      0
+<NET-INCOME>                                   25,220
+<EPS-BASIC>                                  1.29
+<EPS-DILUTED>                                  1.16
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 4.12 - FORM OF RESTRICTED SHARES AGREEMENT
+<TEXT>
+
+
+
+
+                                                                 EXHIBIT 4.12
+
+
+                           RESTRICTED SHARES AGREEMENT
+
+         THIS RESTRICTED  SHARES AGREEMENT is entered into as of            ,
+between           (the  "Recipient")  and  LITTELFUSE,  INC., a Delaware
+corporation (the "Corporation"), with reference to the following facts:
+
+          A.  Pursuant to the 1993 Stock Plan for  Employees  and  Directors  of
+Littelfuse,  Inc. (the "Plan"), the Corporation is authorized to grant awards of
+rights  ("Restricted  Units") to acquire  shares of its Common  Stock,  $.01 par
+value (the "Common  Stock"),  on a  restricted  basis as provided in the Plan to
+officers,  directors and  employees of the  Corporation  or any  Subsidiary as a
+reward for past performance or as an incentive for future performance.
+
+          B.   The  Corporation   desires  to  grant  Restricted  Units  to  the
+               Recipient.
+
+         NOW, THEREFORE,  IN CONSIDERATION of the foregoing facts and other good
+and valuable consideration, the parties hereto hereby agree as follows:
+
+                    1. Grant of Restricted Units. The Corporation  hereby grants
+         to the Recipient Restricted Units entitling the Recipient to acquire up
+         to      shares of the Common  Stock  (hereinafter  referred to as the
+         "Maximum  Restricted  Shares  Amount"),  subject in all respects to the
+         provisions of the Plan and the terms and conditions set forth herein.
+
+                    2. Number of Restricted Shares Deemed Earned. (a) The number
+         of shares of the Common Stock which the Recipient  shall be entitled to
+         be  issued  or paid for in cash  pursuant  to this  Agreement  shall be
+         determined  pursuant to the following formula  (hereinafter said shares
+         shall be  referred  to as the  "Restricted  Shares"  and said number of
+         shares  resulting from said formula shall be referred to as the "Earned
+         Restricted Shares Amount"):
+
+                            (i) The Recipient  shall be deemed to have earned no
+                  Restricted Shares in the event that EBITDA Growth is less than
+                  10% or Average RONTA is less than 14%.
+
+                           (ii) The Recipient shall be deemed to have earned 20%
+                  of the Maximum  Restricted  Shares  Amount if EBITDA Growth is
+                  equal to or greater  than 10% but less than 11%,  and  Average
+                  RONTA is equal to or greater  than 14% but less than 15%.  For
+                  each full percentage  point above the EBITDA Growth minimum of
+                  10%, the recipient  will earn an incremental 8% of the Maximum
+                  Restricted Shares Amount, up to a maximum of an additional 40%
+                  of the Maximum  Restricted  Shares Amount.  Additionally,  for
+                  each full percentage  point above the Average RONTA minimum of
+                  14%, the recipient  will earn an incremental 8% of the Maximum
+                  Restricted  Shares Amount up to a maximum of an additional 40%
+                  of  the  Maximum  Restricted  Shares  Amount.  Therefore,  the
+                  Maximum  Restricted  Shares  Amount is earned only when EBITDA
+                  Growth is equal to or greater  than 15% and  Average  RONTA is
+                  equal to or greater  than 19%.  The chart  attached  hereto as
+                  Exhibit  A  illustrates   the  application  of  the  foregoing
+                  formula.
+
+                   (b)  As  used  herein,  the  term  "EBITDA"  shall  mean  the
+         consolidated  net income of the  Corporation for each of the 1999, 2000
+         and 2001 fiscal years of the  Corporation  (hereinafter  said three (3)
+         year  period is  referred to as the  "Performance  Period");  provided,
+         however,   that  in  calculating  said   consolidated  net  income,  no
+         deductions  shall  be made for any  interest,  taxes,  depreciation  or
+         amortization.
+
+                   (c) As used herein,  the term "EBITDA  Growth" shall mean the
+         compound  annual  growth rate in EBITDA  from fiscal year 1998  through
+         fiscal year 2001 defined  mathematically as follows (but expressed as a
+         percentage):
+
+     EBITDA Growth = (fiscal year 2001 EBITDA / fiscal year 1998 EBITDA)1/3 - 1
+
+                   (d)  As  used  herein,   the  term  "RONTA"  shall  mean  the
+         percentage  return on net tangible  assets for the Corporation for each
+         of the fiscal years of the Corporation  during the Performance  Period,
+         calculated for each such fiscal year by dividing the  consolidated  net
+         income of the  Corporation  for such  fiscal year by the average of the
+         amounts of (x) the total assets minus the total intangible assets minus
+         the total current  liabilities  of the  Corporation at the beginning of
+         such fiscal year and (y) the total  assets  minus the total  intangible
+         assets minus the total current  liabilities  of the  Corporation at the
+         end of such fiscal year;  provided,  however,  that current liabilities
+         shall not include the current portion of long term debt for purposes of
+         this calculation.
+
+                   (e) As used herein,  the term "Average  RONTA" shall mean the
+         average  RONTA for each of the three  fiscal  years of the  Corporation
+         during the Performance Period.
+
+                   (f) To the extent applicable,  all calculations of EBITDA and
+         RONTA,  and the components  thereof,  shall be made in accordance  with
+         generally accepted accounting principles consistently applied.
+
+                   (g) In  the  event  that  the  Corporation  shall  amend  its
+         financial  statements for any of its fiscal years 1999, 2000 or 2001 at
+         any time after March 15, 2002,  and before January 2, 2005, so that any
+         of the items used to calculate  EBITDA or RONTA for any of those fiscal
+         years are materially  changed,  the Committee,  in its discretion,  may
+         make appropriate  adjustments to the number of Restricted Shares deemed
+         earned pursuant to Section 2 hereof.
+
+                   (h) In the event that the Corporation or any Subsidiary shall
+         be a party to any merger or  consolidation  or  acquisition  of assets,
+         shall  sell all or  substantially  all of its  assets or enter into any
+         other  transaction  which,  in the good faith opinion of the Committee,
+         will have a material effect (either  positive or negative) on EBITDA or
+         RONTA during the Performance  Period or the ability of the Recipient to
+         obtain  the  economic  benefit  contemplated  by  this  Agreement,  the
+         Committee  shall   appropriately  and  reasonably  adjust  the  formula
+         contained in Section 2(a) to provide the Recipient  with  substantially
+         the same opportunity to obtain  substantially the same economic benefit
+         that the Recipient would have if said  transaction had not been entered
+         into,  said  adjustment  to be evidenced in a writing  delivered by the
+         Corporation to the Recipient.
+
+                   (g) In the  event  that at  anytime  from and  after the date
+         hereof to and including  January 2, 2002, there shall occur any changes
+         in  the  outstanding   Common  Stock  by  reason  of  stock  dividends,
+         split-ups,  recapitalizations,  mergers, consolidations,  combinations,
+         exchanges of shares, separations, reorganizations, liquidations and the
+         like,  the Committee  shall  appropriately  and  reasonably  adjust the
+         Maximum  Restricted Shares Amount, the Earned Restricted Shares Amount,
+         the number of any  earned but  unissued  Restricted  Shares  and/or the
+         amount of any earned but unpaid Restricted Payments.
+
+                    3.  Issuance  of  Restricted  Shares.  In the event that the
+         Recipient is deemed to have earned any  Restricted  Shares  pursuant to
+         the  provisions  of Section 2 hereof,  a  certificate  or  certificates
+         representing  that number of shares of the Common  Stock which is equal
+         to  one-half  (1/2) of the Earned  Restricted  Shares  Amount  shall be
+         issued in the  Recipient's  name as of March 15,  2002,  and as soon as
+         reasonably  practical  after  the  delivery  by  the  Recipient  to the
+         Corporation  of a stock  power  signed in blank by the  Recipient  with
+         respect to such Restricted  Shares and in a form which is acceptable to
+         the  Corporation  which may be used by the  Corporation  to cancel such
+         Restricted  Shares in  accordance  with the  provisions of the Plan and
+         this Agreement.  Upon issuance of the  certificate or certificates  for
+         such  Restricted  Shares,  the Recipient  shall be a  stockholder  with
+         respect  to such  Restricted  Shares and shall have all the rights of a
+         stockholder with respect to such Restricted  Shares,  including but not
+         limited  to,  the right to vote such  Restricted  Shares and to receive
+         dividends and other  distributions paid with respect to such Restricted
+         Shares.  The certificate or certificates  representing  such Restricted
+         Shares,  together  with  the  executed  stock  power,  shall be held in
+         custody  by  the  Corporation  or an  agent  therefor  pursuant  to the
+         provisions of the Plan for the account of the Recipient.
+
+                    4. Payment of Cash in Lieu of Issuance of Restricted Shares.
+         In the event that the Recipient is deemed to have earned any Restricted
+         Shares pursuant to the provisions of Section 2 hereof,  the Corporation
+         shall pay to the Recipient on each of January 2, 2003, 2004 and 2005 an
+         amount in cash (in lieu of the issuance of Restricted  Shares) equal to
+         the product of (i) one-sixth  (1/6th) of the Earned  Restricted  Shares
+         Amount  multiplied by (ii) the Market Price of the Common Stock on such
+         date  (hereinafter  referred  to as a  "Restricted  Payment").  As used
+         herein,  the term "Market  Price" shall mean (x) if the Common Stock is
+         Duly  Listed,  the  closing  price of the  Common  Stock on the date in
+         question as reported on either a national securities exchange or on The
+         Nasdaq  Stock  Market or, if there  were no sales on that date,  on the
+         next preceding day on which there were sales or (y) if the Common Stock
+         is not Duly  Listed,  the fair market  value of the Common Stock on the
+         date in question as determined by the Committee in good faith.
+
+                    5.  Restrictions.  The Restricted  Units awarded pursuant to
+         this Agreement and any Restricted  Shares or Restricted  Payments which
+         may be  deemed  to be earned or owing  with  respect  thereto  shall be
+         subject to the following terms and conditions (the "Restrictions"):
+
+                            (i) the Recipient  shall not be entitled to delivery
+                  of a certificate  representing the Restricted Shares until the
+                  Restrictions  pertaining thereto shall be terminated  pursuant
+                  to either Sections 6 or 7 hereof;
+
+                           (ii)  none  of the  Restricted  Units  may  be  sold,
+                  transferred,  assigned,  pledged or  otherwise  encumbered  or
+                  disposed of;
+
+                          (iii)  none  of the  Restricted  Shares  may be  sold,
+                  transferred,  assigned,  pledged or  otherwise  encumbered  or
+                  disposed of until the Restrictions pertaining thereto shall be
+                  terminated pursuant to either Sections 6 or 7 hereof;
+
+                           (iv) all of the  Restricted  Units shall be forfeited
+                  and  cancelled  and  all  rights  of  the  Recipient  to  such
+                  Restricted  Units  and any  Restricted  Shares  or  Restricted
+                  Payments  which  may be  deemed  to be  earned  or owing  with
+                  respect thereto shall terminate without further  obligation on
+                  the part of the  Corporation  in the event that the  Recipient
+                  ceases to be an  Employee  for any reason  prior to January 2,
+                  2002, for any reason;
+
+                            (v) all of the  Restricted  Shares  which are issued
+                  pursuant to Section 3 hereof shall be forfeited  and cancelled
+                  and the Recipient shall have no further rights whatsoever with
+                  respect  thereto  in the event the  Recipient  ceases to be an
+                  Employee prior to January 2, 2003, for any reason other than a
+                  reason set forth in Section 7 hereof;
+
+                           (vi)  two-thirds  (2/3rds) of any  Restricted  Shares
+                  which  are  issued  pursuant  to  Section  3  hereof  shall be
+                  forfeited  and  cancelled  and  the  Recipient  shall  have no
+                  further rights  whatsoever  with respect  thereto in the event
+                  the  Recipient  ceases to be an  Employee  prior to January 2,
+                  2004, for any reason other than a reason  described in Section
+                  7 hereof;
+
+                          (vii) one-third (1/3rd) of any Restricted Shares which
+                  are issued pursuant to Section 3 hereof shall be forfeited and
+                  cancelled  and the  Recipient  shall  have no  further  rights
+                  whatsoever  with  respect  thereto in the event the  Recipient
+                  ceases to be an  Employee  prior to January  2, 2005,  for any
+                  reason other than a reason described in Section 7 hereof;
+
+                         (viii)  any  right  of the  Recipient  to  receive  any
+                  Restricted  Payments  pursuant  to  Section 4 hereof  shall be
+                  forfeited  and  cancelled  and  the  Recipient  shall  have no
+                  further rights  whatsoever  with respect  thereto in the event
+                  the Recipient ceases to be an Employee prior to the applicable
+                  payment date for such Restricted  Payment for any reason other
+                  than a reason described in Section 7 hereof.
+
+                    6. Vesting of Restricted Shares. The Restrictions respecting
+         the  Restricted  Shares issued  pursuant to Section 3 hereof which have
+         not  theretofore  been  forfeited and  cancelled  pursuant to Section 5
+         hereof  shall  terminate  with  respect  to  one-third  (1/3rd) of such
+         Restricted  Shares on each of  January  2,  2003,  January  2, 2004 and
+         January 2, 2005.
+
+                    7.  Termination of  Restrictions  upon Certain  Events.  The
+         Restrictions  shall  terminate  with  respect to all of the  Restricted
+         Shares and the  Restricted  Payments  which have not  theretofore  been
+         forfeited and cancelled  pursuant to Section 5 hereof upon the first to
+         occur of the following events:
+
+               (i)    the death of the Recipient;
+
+               (ii)   the Total Disability of the Recipient;
+
+               (iii)  the  termination  of the  employment  of the  Recipient
+                         pursuant to an Eligible Retirement; or
+
+               (iv)   the occurrence of a Change in Control.
+
+                    8.  Issuance  of Stock  Certificate  for  Vested  Restricted
+         Shares.  Upon  the  termination  of  the  Restrictions  respecting  any
+         Restricted  Shares pursuant to Section 6 hereof,  the Corporation shall
+         promptly cause a stock certificate  representing such Restricted Shares
+         to be delivered to the Recipient, free and clear of all Restrictions.
+
+                    9. Accelerated  Delivery of Stock Certificate and Payment of
+         Restricted   Payments.   Upon  the  termination  of  the   Restrictions
+         respecting  any  Restricted  Shares  pursuant to Section 7 hereof,  the
+         Corporation shall promptly cause a stock certificate  representing such
+         Restricted  Shares to be delivered to the Recipient,  free and clear of
+         all Restrictions, and shall promptly pay in cash an amount equal to the
+         product of (i) 1/2 (if such  termination  occurs on or prior to January
+         2, 2003), 1/3 (if such termination occurs after January 2, 2003, and on
+         or prior to January 2, 2004) or 1/6 (if such  termination  occurs after
+         January 2, 2004) of the Earned  Restricted  Shares Amount multiplied by
+         (ii)  the  Market  Price  of the  Common  Stock  on the  date  of  such
+         termination.
+
+                   10. Compliance with Law. No Restricted Shares shall be issued
+         pursuant to this Agreement  unless said issuance is in compliance  with
+         applicable federal and state tax and securities laws.
+
+                         10.1.   Certificate   Legends.   The  certificates  for
+                    Restricted  Shares issued  pursuant to this Agreement  shall
+                    bear any legends  deemed  necessary  or  appropriate  by the
+                    Corporation.
+
+                          10.2. Representations of the Recipient. At the request
+                  of  the  Corporation,   the  Recipient  will  deliver  to  the
+                  Corporation such signed  representations  as may be necessary,
+                  in the opinion of counsel satisfactory to the Corporation, for
+                  compliance with applicable federal and state securities laws.
+
+                          10.3.   Resale.   In  addition  to  the   restrictions
+                  contained  in the Plan,  the  Recipient's  ability to transfer
+                  Restricted   Shares  issued  pursuant  to  this  Agreement  or
+                  securities  acquired in lieu  thereof or in exchange  therefor
+                  may be restricted  under federal or state securities laws. The
+                  Recipient shall not resell or offer for resale such Restricted
+                  Shares or  securities  unless  they have  been  registered  or
+                  qualified  for resale under all  applicable  federal and state
+                  securities  laws or an  exemption  from such  registration  or
+                  qualification   is   available   in  the  opinion  of  counsel
+                  satisfactory to the Corporation.
+
+                   11. Notice.  Every notice or other communication  relating to
+         this Agreement  shall be in writing and shall be mailed or delivered to
+         the party for whom it is intended  at such  address as may from time to
+         time be designated by such party in a notice mailed or delivered to the
+         other  party as herein  provided;  provided,  however,  that unless and
+         until  some   other   address  be  so   designated,   all   notices  or
+         communications  by the Recipient to the Corporation  shall be mailed or
+         delivered to the  Corporation  to the attention of its Secretary at 800
+         E. Northwest Highway,  Des Plaines,  Illinois 60016, and all notices or
+         communications  by the Corporation to the Recipient may be given to the
+         Recipient  personally  or may be  mailed to the  Recipient  at the most
+         recent  address  which the  Recipient  has  provided  in writing to the
+         Corporation.
+
+                   12. Tax Treatment.  The Recipient  acknowledges  that the tax
+         treatment  respecting  the  Restricted  Shares issued  pursuant to this
+         Agreement or any events or  transactions  with  respect  thereto may be
+         dependent  upon various  factors or events which are not  determined by
+         the Plan or this Agreement. The Corporation makes no representations to
+         the Recipient with respect to and hereby  disclaims all  responsibility
+         as to such tax treatment.
+
+                   13.  Withholding  Taxes. The Corporation shall have the right
+         to  deduct  from  the  amount  of  any  Restricted  Payment  an  amount
+         sufficient  to satisfy  any  federal,  state or local  withholding  tax
+         requirement.  The  Corporation  shall  have the  right to  require  the
+         Recipient to remit to the  Corporation an amount  sufficient to satisfy
+         any federal,  state or local  withholding tax requirement  prior to the
+         issuance or delivery of any  Restricted  Shares to the  Recipient.  The
+         Corporation  will notify the Recipient of the amount of the withholding
+         tax which must be paid under federal and, where  applicable,  state and
+         local law. Upon receipt of such notice,  the Recipient  shall  promptly
+         remit to the  Corporation  the  amount  specified  in such  notice.  No
+         amounts of income received by the Recipient  pursuant to this Agreement
+         shall  be  considered  compensation  for  purposes  of any  pension  or
+         retirement  plan,  insurance plan or any other employee benefit plan of
+         the Corporation or any subsidiary.
+
+                   14. Effect on SERP. The  Corporation  and the Recipient agree
+         that  neither the value of any shares of Common Stock  issued,  nor the
+         amount of any cash paid,  to the Recipient  pursuant to this  Agreement
+         shall  be  included  in the  definition  of  "Compensation"  under  the
+         Littelfuse, Inc. Supplemental Executive Retirement Plan.
+
+                   15.  Change in Control.  The  Corporation  and the  Recipient
+         agree that Oaktree Capital Management,  LLC and its affiliates shall be
+         deemed to be exempt  from the  provisions  of  subparagraph  (d) of the
+         definition of "Change in Control" under the Plan.
+
+         IN WITNESS  WHEREOF,  the  Corporation  and the Recipient have executed
+this Restricted Shares Agreement effective as of the date first set forth above.
+
+LITTELFUSE, INC.                                     RECIPIENT:
+
+
+By_________________________________         __________________________________
+Its_________________________________
+
+
+<PAGE>
+
+
+<TABLE>
+
+
+
+
+                                                     EXHIBIT A
+
+
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+
+<S>                <C>                 <C>           <C>           <C>            <C>           <C>           <C>
+                   15% and over        60%           68%           76%            84%           92%           100%
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+
+                  >14< 15%             52%           60%           68%            76%           84%           92%
+                  -
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+
+EBITDA            >13< 14%             44%           52%           60%            68%           76%           84%
+                  -
+
+GROWTH
+
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+
+                  >12< 13%             36%           44%           52%            60%           68%           76%
+                  -
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+
+                  >11< 12%             28%           36%           44%            52%           60%           68%
+                  -
+                                                 ------------- ------------- -------------- ------------- -------------
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+
+                  >10< 11%             20%           28%           36%            44%           52%           60%
+                  -
+                                   ------------- ------------- ------------- -------------- ------------- -------------
+                                                 ------------- ------------- -------------- ------------- -------------
+
+                                     >14< 15%        >15< 16%    >16< 17%      >17< 18%       >18< 19%      19% and
+                                     -               -           -             -              -
+                                                                                                              over
+
+
+                                                   AVERAGE RONTA
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>4
+<DESCRIPTION>13.1 - PORTIONS OF LITTELFUSE, INC. ANNUAL REPORT
+<TEXT>
+
+
+         Management's Discussion and Analysis of Financial Condition and
+          Results of Operations
+
+
+
+
+THE FOLLOWING  DISCUSSION  PROVIDES AN ANALYSIS OF THE INFORMATION  CONTAINED IN
+THE CONSOLIDATED  FINANCIAL  STATEMENTS AND ACCOMPANYING NOTES BEGINNING ON PAGE
+24 FOR THE THREE FISCAL YEARS ENDED JANUARY 1, 2000, JANUARY 2, 1999 AND JANUARY
+3, 1998, RESPECTIVELY.
+
+CURRENT YEAR HIGHLIGHTS
+Sales  increased  10% in 1999 to $296.4  million and diluted  earnings per share
+increased   35%  to   $1.16.   Strengthening   electronic   demand   contributed
+significantly to the sales growth and successful cost reduction programs as well
+as higher unit volume increased gross margin and earnings.  During the year, the
+Company  completed its  acquisition  of the  Suppression  Products  Group.  This
+acquisition of overvoltage  products complements the current line of overcurrent
+products to broaden the Company's offering of circuit protection.
+
+RESULTS OF OPERATIONS--1999 COMPARED WITH 1998
+Sales  increased 10% to $296.4  million in 1999 from $269.5  million in 1998. Of
+the $26.9 million sales increase during 1999,  $8.0 million was  attributable to
+sales of  suppression  products  since the date of the  acquisition.  Electronic
+sales  increased  $21.1  million or 16% to $154.1  million in 1999  compared  to
+$133.1  million in 1998, due primarily to strength in the  Asia-Pacific  region.
+Automotive sales increased $4.6 million or 5% to $101.3 million in 1999 compared
+to $96.7 million in 1998 reflecting  growth in the OEM markets in all regions of
+the world.  Power fuse sales  increased  $1.2 million or 3% to $41.0  million in
+1999 compared to $39.8 million in 1998. Led by  Asia-Pacific  and European sales
+growth,  international  sales  increased by 18% in 1999 to 46.1% of net sales in
+1999 from 43.0% of net sales in 1998.
+
+Gross  profit was $117.3  million or 39.6% of sales for 1999  compared to $100.2
+million or 37.2% of sales for 1998.  The gross  margin  increase  resulted  from
+successful  worldwide cost  reductions,  increasing unit volumes during the year
+and  firming of selling  prices in the last half of 1999.  Selling,  general and
+administrative expenses increased $5.2 million to 18.9% of sales in 1999 in line
+with 18.9% of sales in 1998.  Research  and  development  costs  increased  $1.1
+million  to 3.2% of  sales in 1999 as  compared  to 3.1% of sales in 1998 due to
+continued focus on development of new products.  Amortization of  reorganization
+value and other  intangibles was $7.1 million or 2.4% of sales for 1999 compared
+to $6.8 million or 2.5% of sales for the prior year.  Total operating  expenses,
+including intangibles amortization, were 24.5% of sales for both years.
+
+Operating  income for 1999 increased to $44.6 million or 15.1% of sales compared
+to $34.1 million or 12.6% of sales for the prior year as a result of the factors
+discussed  above.  Interest  expense was $5.3 million for 1999  compared to $4.0
+million for 1998 due to higher average debt levels.
+Other income, net, consisting of interest income, royalties, minority
+interest and foreign  currency items was $1.3 million  compared to other expense
+of $0.1 million for the prior year.  The increase in other income was  primarily
+the result of higher interest income in the year.
+
+Income before taxes was $40.7 million in 1999 compared to $30.0 million in 1998.
+Income tax expense was $15.5 million in 1999 compared to $10.1 million the prior
+year. Net income for the year was $25.2  million,  compared to $19.9 million for
+the prior year.  The Company's  effective tax rate was 38.0% in 1999 compared to
+33.7% in  1998.  The  lower  effective  tax  rate in 1998 was due to a  one-time
+benefit  related to the  liquidation  of one of the  Company's  subsidiaries  in
+Korea.  Diluted  earnings per share  increased  35% to $1.16 in 1999 compared to
+$0.86 in 1998. A 6% decline in average shares outstanding in 1999 as compared to
+the prior year,  due to the Company's  repurchase  of common stock,  contributed
+favorably to the increase in earnings per share.
+
+1998 COMPARED WITH 1997
+Sales  decreased 2% to $269.5  million in 1998 from $275.2  million in 1997. The
+gross margin was 37.2% compared to 40.4% the prior year and operating income was
+12.7% of net sales compared to 15.9% the prior year. Net income decreased 22% to
+$19.9 million in 1998 from $25.3 million in 1997 and diluted  earnings per share
+decreased 20% to $0.86 in 1998 from $1.07 in 1997.
+
+Sales decreased $5.6 million during 1998.  Sales declined both in the automotive
+and electronic markets,  with a modest increase in power fuse sales.  Automotive
+sales  decreased  $5.5 million or 5% to $96.7 million in 1998 compared to $102.1
+million  in 1997.  Automotive  sales were down  domestically  as a result of the
+continued phase-out of electromechanical products and the absence of any product
+fixes by the automotive  OEM's in 1998.  Electronic sales decreased $1.9 million
+or 1% to  $133.1  million  in 1998  compared  to  $135.0  million  in 1997.  The
+electronics  business was down due in part to continued inventory  reductions at
+North  American  distributors,  weakness  in Japan and greater  than  historical
+selling price  declines.  Power fuse sales increased $1.8 million or 5% to $39.8
+million  in 1998  compared  to $38.0  million  in 1997.  Led by  European  sales
+increases,  international sales increased by 4% in 1998 to 43.0% of net sales in
+1998 from 40.6% of net sales in 1997.
+
+On a constant  currency basis,  electronic and power fuse sales increased 3% and
+5%,  respectively,  automotive  sales decreased 4% and  consolidated  sales were
+flat.  Gross  profit was $100.2  million or 37.2% of sales for 1998  compared to
+$111.1  million or 40.4% of sales for 1997.  The gross margin  decline  resulted
+from  greater than  historical  selling  price  reductions,  lower  volumes than
+anticipated and costs associated with the introduction of new products in 1998.
+
+Selling,  general and administrative expenses decreased $1.3 million to 18.9% of
+sales in 1998 as  compared  to 19.0% of sales in 1997 as a result of the decline
+in sales and favorable  expense  control during 1998.  Research and  development
+costs  increased  $0.5  million to 3.1% of sales in 1998 as  compared to 2.9% of
+sales in 1997 due to the continued development of new products.  Amortization of
+reorganization value and other intangibles was $6.8 million or 2.5% of sales for
+1998  compared  to $7.2  million  or 2.6% of  sales  in the  prior  year.  Total
+operating expenses, including intangibles amortization,  were 24.5% of sales for
+both years.
+
+Operating  income for 1998 was $34.1 million or 12.7% of sales compared to $43.8
+million  or 15.9% of sales the prior  year.  The  decline  in  operating  margin
+resulted from decreases in gross margin.
+
+Interest  expense was $4.0  million for 1998  compared to $4.1 million for 1997.
+Other expense,  net, consisting of royalties,  minority interest adjustments and
+foreign currency items was $0.1 million compared to other income of $1.0 million
+the prior year.  Also included in other expense in 1998 were charges  related to
+the liquidation of Sam Hwa Littelfuse
+amounting to approximately $0.4 million.
+
+
+Income before taxes was $30.0 million in 1998 compared to $40.7 million in 1997.
+Income tax expense was $10.1 million in 1998 compared to $15.3 million the prior
+year.  The  Company's  effective tax rate was 33.7% in 1998 compared to 37.7% in
+1997. The decrease in income tax expense resulted from lower income before taxes
+as well as a one-time  benefit of $1.1 million related to the liquidation of Sam
+Hwa  Littelfuse.  Net income for the year was $19.9  million in 1998 compared to
+$25.3 million the prior year.  Diluted  earnings per share decreased to $0.86 in
+1998 compared to $1.07 in 1997.
+
+LIQUIDITY AND CAPITAL RESOURCES
+Assuming no material adverse changes in market  conditions,  management  expects
+that the Company will have  sufficient  cash from operations to support both its
+operations and its debt obligations for the foreseeable future.
+
+The  Company  started  1999 with $28.0  million of cash.  Net cash  provided  by
+operations  was $38.9  million for the year.  Cash used in investing  activities
+included  $20.0  million in property,  plant and equipment and $24.8 million for
+the Harris Corporation's  Suppression  Products Group acquisition.  Cash used in
+financing  activities  included net payments of long-term  debt of $9.1 million.
+The Company utilized borrowings under its revolving loan facility to finance the
+purchase of Harris Corporation's Suppression Products Group and had $6.0 million
+of this  short-term  debt remaining as of January 1, 2000. This left the Company
+with $49.0 million of borrowing  capability under the revolving loan facility as
+of January 1, 2000.  The  repurchase  of the  Company's  common  stock for $12.8
+million was partially offset by cash proceeds from the exercise of stock options
+and conversion of warrants of $1.6 million.  The effect of exchange rate changes
+increased  cash by $0.2 million.  The net of cash provided by  operations,  less
+investing  activities,  less financing  activities,  plus the effect of exchange
+rates  resulted in a $26.1  million net decrease in cash.  This left the Company
+with a cash balance of $1.9 million at the end of 1999.
+
+Net working  capital  used $8.4  million of cash flow from  operations  in 1999.
+Increases in accounts receivable of $14.3 million, inventory of $8.9 million and
+other asset and liability  changes of $0.1 million were offset by an increase in
+accounts  payable and accrued  expenses of $14.9  million.  Contributing  to the
+increase  in working  capital in 1999 was an  increase  in sales as well as some
+information  systems  migration  difficulties,  which the Company is addressing.
+Increased focus has been placed on working capital  management and  improvements
+are expected in 2000.
+
+The  Company  started  1998 with $0.8  million  of cash.  Net cash  provided  by
+operations  was $39.3  million  for the year.  Cash used to invest in  property,
+plant and equipment was $21.3  million,  to invest in product  acquisitions  for
+electrostatic  discharge devices and medium voltage power fuses was $2.8 million
+and to make a non-compete  payment was $0.2 million.  Cash provided by financing
+activities  included net proceeds of  long-term  debt of $33.9  million due to a
+$60.0 million  private  placement of new senior notes and  renegotiation  of the
+existing bank credit  agreement.  The available  $55.0  million  revolving  loan
+facility was unused as of January 2, 1999. The purchase of the Company's  common
+stock for $26.8 million was partially  offset by cash proceeds from the exercise
+of stock options and conversion of warrants of $6.3 million.
+The effect of exchange rate changes decreased cash
+by  $1.1  million.  The net of  cash  provided  by  operations,  less  investing
+activities,  less  financing  activities,  plus the  effect  of  exchange  rates
+resulted in a $27.2  million net increase in cash.  This left the Company with a
+cash balance of $28.0 million at the end of 1998.
+
+Net working  capital  used $2.8 million of cash flow from  operations  for 1998.
+Lower  inventory  and prepaid and other items were the primary  cash  providers,
+offset by an increase in accounts receivable and a decrease in accounts payable.
+
+The Company's capital  expenditures were $20.0 million in 1999, $21.3 million in
+1998 and $18.9 million in 1997.  The Company  expects that capital  expenditures
+will be  approximately  $22.0 to $23.0 million in 2000. The primary purposes for
+capital  expenditures  in 2000 will be for new product  tooling  and  production
+equipment.  As in 1999, capital expenditures in 2000 are expected to be financed
+by cash flow from operations.
+
+The Company  decreased total debt by $9.1 million in 1999, after increasing debt
+by $33.9  million  in 1998 and  decreasing  debt by $5.2  million  in 1997.  The
+Company is required to repay $15.0 million of long-term  debt in 2000. In May of
+1999, the Company's  Board of Directors  authorized the Company to repurchase up
+to 1,000,000  shares of its common stock or  1,000,000 of its  warrants,  or any
+combination  not to exceed  1,000,000  shares of common stock or warrants,  from
+time to time,  depending on market conditions.  The Company  repurchased 707,500
+common  shares for $12.8  million  in 1999,  1,345,000  common  shares for $26.8
+million in 1998 and 210,000  warrants and 205,000 common shares for $8.6 million
+in 1997. As of January 1, 2000,  the Company had over 800,000  shares  remaining
+for  repurchase  under the Board of Directors  authorization  expiring in May of
+2000.
+
+Earnings before interest, taxes, depreciation, amortization and other income and
+expense  (EBITDA)  increased  25% to $70.2 million in 1999 from $56.3 million in
+1998. EBITDA decreased 12% to $56.3 million in 1998 from $64.1 million in 1997.
+
+Net  working  capital  (working  capital  less cash and the  current  portion of
+long-term  debt) as a percent of sales was 20.2% at  year-end  1999  compared to
+17.3% at  year-end  1998 and to 15.1% at  year-end  1997.  The  increase  in net
+working  capital was due in part to the  increase in days sales  outstanding  in
+accounts  receivable  to  approximately  68 days at year-end 1999 compared to 61
+days at year-end 1998 and 55 days at year-end  1997.  The increase in days sales
+outstanding  in 1999 was due  primarily  to  difficulties  experienced  with the
+migration to new information systems as indicated above. Additionally, the trend
+towards a higher  percentage of  international  sales with longer standard terms
+than domestic sales has  contributed  to the increase in days sales  outstanding
+over the last several years.
+
+The ratio of current assets to current liabilities was 1.5 to 1 at year-end 1999
+compared to 2.1 to 1 at year-end 1998 and 1.6 to 1 at year-end  1997.  The ratio
+of long-term  debt to equity was 0.5 to 1 at year-end  1999 compared to 0.6 to 1
+at year-end 1998 and 0.3 to 1 at year-end 1997.
+
+MARKET RISK
+The Company is exposed to market risk from  changes in interest  rates,  foreign
+exchange rates and commodities.
+
+The Company had  long-term  debt  outstanding  at January 1, 2000 in the form of
+Senior  Notes and lines of credit at both  variable  and fixed  interest  rates.
+Since  substantially  all of the debt has fixed  interest  rates,  the Company's
+interest expense is not sensitive to changes in interest rate levels.
+
+A portion  of the  Company's  operations  consists  of  manufacturing  and sales
+activities in foreign  countries.  The Company has  manufacturing  facilities in
+Mexico, England, Ireland,  Switzerland,  South Korea, China and the Philippines.
+During  1999,  sales  exported  from the United  States or  manufactured  abroad
+accounted  for 46.1% of total  sales.  Substantially  all  sales in  Europe  are
+denominated in Dutch Guilders,  British Pounds  Sterling,  United States Dollars
+and Euros and substantially all sales in the Asia-Pacific region are denominated
+in United States Dollars and South Korean Won.
+
+The Company's  identifiable  foreign exchange exposures result from the purchase
+and sale of products from affiliates,  repayment of intercompany  trade and loan
+amounts and translation of local currency  amounts in consolidation of financial
+results.  Changes in foreign currency exchange rates or weak economic conditions
+in the foreign countries in which it manufactures and distributes products could
+affect the Company's sales and financial  results.  Other than utilizing netting
+and  offsetting  intercompany  account  management  techniques  to reduce  known
+exposures, the Company does not use derivative financial instruments to mitigate
+its foreign currency risk at the present time.
+
+The Company uses various  metals in the  production of its  products,  including
+zinc, copper and silver.  The Company's  earnings are exposed to fluctuations in
+the prices of these  commodities.  The Company does not currently use derivative
+financial instruments to mitigate this commodity price risk.
+
+YEAR 2000
+As of July 3, 1999, the Company had completed 100% of the remediation  phase for
+its mission critical  information  technology,  operating  equipment systems and
+external interface exposures.
+
+The  Company  has  not  experienced  any   difficulties   with  its  information
+technology,  operating  equipment systems, or external interfaces related to the
+year  2000  transition.  In  addition,  the  Company  has  not  experienced  any
+difficulties with its significant suppliers.
+
+The Company  believes that the foregoing  statements are in conformity  with the
+Year 2000  Information  and Readiness  Disclosure  Act (Public Law 105-271,  112
+Stat.  2386),  and all of the foregoing  statements  are designated as Year 2000
+Readiness Disclosures thereunder. The protection of this act
+does not apply to federal securities fraud.
+
+OUTLOOK
+Continued sales growth is expected in 2000,  fueled in part by sales of products
+introduced in 1999 and 2000 and continued increases in electronic product sales.
+A full  year of  sales  in 2000  of  suppression  products  resulting  from  the
+acquisition of the Suppression  Products Group in October of 1999 is expected to
+contribute to increases over 1999.
+
+The Company will continue to identify and implement cost reduction opportunities
+in 2000.  These efforts are expected to help offset  selling price pressure from
+customers.  The development of new products,  global expansion, and reinvestment
+continue to be the Company's  long-term growth strategy.  The Company intends to
+continue  its  commitment  to funding  research and  development,  international
+market  development,   and  investments  in  capital  equipment  and  operations
+improvements.
+
+"SAFE HARBOR"  STATEMENT UNDER THE PRIVATE  SECURITIES  LITIGATION REFORM ACT OF
+1995.
+The statements under "Outlook," "Year 2000" and the other statements which
+are not historical facts contained in this report are forward-looking statements
+that involve risks and  uncertainties,  including,  but not limited to,  product
+demand and market  acceptance  risks,  the effect of  economic  conditions,  the
+impact of  competitive  products and  pricing,  product  development  and patent
+protection,  commercialization and technological difficulties,  year 2000 issues
+discussed above, capacity and supply constraints or difficulties,  exchange rate
+fluctuations,  actual  purchases under  agreements,  the effect of the Company's
+accounting  policies,  and other risks  which may be  detailed in the  Company's
+Securities and Exchange Commission filings.
+
+
+
+<PAGE>
+
+
+
+REPORT OF INDEPENDENT AUDITORS
+The Board of Directors and Shareholders Littelfuse, Inc.
+
+We  have  audited  the  consolidated   statements  of  financial   condition  of
+Littelfuse,  Inc. and  subsidiaries  as of January 1, 2000, and January 2, 1999,
+and the related  consolidated  statements of income,  shareholders'  equity, and
+cash  flows for each of the three  years in the  period  ended  January 1, 2000.
+These financial  statements are the responsibility of the Company's  management.
+Our responsibility is to express an opinion on these financial  statements based
+on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable  assurance about whether the financial  statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting  the amounts and  disclosures in the financial  statements.  An audit
+also includes assessing the accounting principles used and significant estimates
+made by  management,  as well as  evaluating  the  overall  financial  statement
+presentation.  We believe  that our audits  provide a  reasonable  basis for our
+opinion.
+
+In our opinion,  the financial  statements  referred to above present fairly, in
+all material respects, the consolidated  financial position of Littelfuse,  Inc.
+and subsidiaries as of January 1, 2000 and January 2, 1999, and the consolidated
+results of their  operations and their cash flows for each of the three years in
+the period ended  January 1, 2000,  in  conformity  with  accounting  principles
+generally accepted in the Unites States.
+
+
+
+
+/s/ Ernst & Young LLP
+Chicago, Illinois
+February 11, 2000
+
+
+<PAGE>
+<TABLE>
+
+
+
+                                          Littelfuse, Inc. and Subsidiaries
+
+                                  Consolidated Statements of Financial Condition
+
+
+                                                                        January 1, 2000  January 2, 1999
+                                                                       ------------------------------------
+                                                                                 (In Thousands)
+Assets
+Current assets:
+<S>                                                                     <C>              <C>
+   Cash and cash equivalents                                            $        1,888   $       27,961
+   Accounts receivable, less allowances
+     (1999 - $ 7,121; 1998 - $5,885)                                            59,583           41,382
+   Inventories                                                                  48,916           36,209
+   Deferred income taxes                                                         5,265            2,456
+   Prepaid expenses and other current assets                                     3,485            3,090
+                                                                       ------------------------------------
+                                                                       ------------------------------------
+Total current assets                                                           119,137          111,098
+
+Property, plant, and equipment:
+   Land                                                                          8,370            6,753
+   Buildings                                                                    28,636           25,682
+   Equipment                                                                   157,296          131,136
+                                                                       ------------------------------------
+                                                                               194,302          163,571
+   Less:  Allowances for depreciation and amortization                         102,511           85,783
+                                                                       ------------------------------------
+                                                                       ------------------------------------
+                                                                                91,791           77,788
+
+Intangible assets, net of amortization:
+   Reorganization value in excess of amounts allocable to
+     identifiable assets                                                        33,943           37,814
+   Patents and licenses                                                          4,356            6,522
+   Distribution network                                                          5,918            6,412
+   Trademarks                                                                    3,022            3,275
+   Other                                                                        16,274            5,940
+                                                                       ------------------------------------
+                                                                                63,513           59,963
+Other assets                                                                     1,257            1,695
+                                                                       ------------------------------------
+                                                                              $275,698         $250,544
+                                                                       ====================================
+</TABLE>
+
+
+
+<PAGE>
+<TABLE>
+
+
+
+                                          Littelfuse, Inc. and Subsidiaries
+
+                            Consolidated Statements of Financial Condition (continued)
+
+
+                                                                        January 1, 2000  January 2, 1999
+                                                                       ------------------------------------
+                                                                                 (In Thousands)
+Liabilities and shareholders' equity Current liabilities:
+<S>                                                                      <C>             <C>
+   Accounts payable                                                      $      19,075   $        9,926
+   Accrued payroll                                                              14,167           12,555
+   Accrued expenses                                                             14,596            7,929
+   Accrued income taxes                                                          9,403            6,042
+   Current portion of long-term debt                                            20,974           15,515
+                                                                       ------------------------------------
+                                                                       ------------------------------------
+Total current liabilities                                                       78,215           51,967
+
+Long-term debt, less current portion                                            55,460           70,061
+Deferred income taxes                                                            4,490            3,951
+Other long-term liabilities                                                        501               41
+
+Shareholders' equity:
+   Preferred stock, par value $.01 per share:  1,000,000 shares
+     authorized; no shares issued and outstanding                                    -                -
+   Common stock, par value $.01 per share:  34,000,000 shares
+     authorized; shares issued and outstanding, 1999 - 19,489,143;
+     1998 - 20,023,520                                                             195              200
+   Additional paid-in capital                                                   55,241           55,537
+   Notes receivable - Common stock                                              (2,909)          (2,772)
+   Accumulated other comprehensive loss                                         (5,642)          (3,726)
+   Retained earnings                                                            90,147           75,285
+                                                                       ------------------------------------
+                                                                               137,032          124,524
+                                                                       ------------------------------------
+                                                                              $275,698         $250,544
+                                                                       ====================================
+
+See accompanying notes.
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+
+
+                                          Littelfuse, Inc. and Subsidiaries
+
+                                         Consolidated Statements of Income
+
+
+                                                      Year ended        Year ended            Year ended
+                                                      January 1,        January 2,            January 3,
+                                                         2000              1999                  1998
+                                                   --------------------------------------------------------
+                                                          (In Thousands, Except per Share Amounts)
+
+<S>                                                       <C>             <C>                  <C>
+Net sales                                                 $296,367        $269,540             $275,165
+Cost of sales                                              179,112         169,341              164,034
+                                                   --------------------------------------------------------
+                                                   --------------------------------------------------------
+Gross profit                                               117,255         100,199              111,131
+
+Selling, general and administrative expenses                56,098          50,936               52,226
+Research and development expenses                            9,455           8,387                7,927
+Amortization of intangibles                                  7,078           6,780                7,210
+                                                   --------------------------------------------------------
+Operating income                                            44,624          34,096               43,768
+
+Interest expense                                             5,253           3,989                4,103
+Other expense/(income), net                                 (1,306)             98                 (987)
+                                                   --------------------------------------------------------
+                                                   --------------------------------------------------------
+Income before income taxes                                  40,677          30,009               40,652
+Income taxes                                                15,457          10,124               15,310
+                                                   ========================================================
+Net income                                               $  25,220       $  19,885            $  25,342
+                                                   ========================================================
+                                                   ========================================================
+
+Net income per share:
+   Basic                                              $      1.29     $      0.97         $      1.28
+   Diluted                                            $      1.16     $      0.86         $      1.07
+                                                   ========================================================
+
+Weighted-average shares and equivalent shares outstanding:
+     Basic                                                  19,572          20,474               19,824
+     Diluted                                                21,751          23,154               23,623
+                                                   ========================================================
+
+See accompanying notes.
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+
+
+                                         Littelfuse, Inc. and Subsidiaries
+
+                                  Consolidated Statements of Shareholders' Equity
+
+                                 Period from December 28, 1996 to January 1, 2000
+
+
+                                                                              Notes        Accumulated
+                                                             Additional   Receivable -        Other
+                                                   Common      Paid-In    Common Stock    Comprehensive   Retained
+                                                   Stock       Capital                    Income/(Loss)   Earnings      Total
+                                                -----------------------------------------------------------------------------------
+                                                                                  (In Thousands)
+
+                                                -----------------------------------------------------------------------------------
+<S>                 <C> <C>                            <C>         <C>         <C>             <C>       <C>            <C>
+Balance at December 28, 1996                           198         54,569      (1,470)         (870)     56,195         108,622
+   Comprehensive income:
+     Net income for the year                             -              -           -             -      25,342          25,342
+     Foreign currency translation adjustment             -              -           -        (3,897)          -          (3,897)
+                                                                                                                  -----------------
+   Comprehensive income                                                                                                  21,445
+   Stock options and warrants exercised                  3          2,567        (490)            -           -           2,080
+   Purchase of 205,000 shares of common stock           (2)          (720)          -             -      (4,044)         (4,766)
+   Redemption of 210,250 warrants                        -         (3,876)          -             -           -          (3,876)
+                                                -----------------------------------------------------------------------------------
+Balance at January 3, 1998                             199         52,540      (1,960)       (4,767)     77,493         123,505
+   Comprehensive income:
+     Net income for the year                             -              -           -             -      19,885          19,885
+     Foreign currency translation adjustment             -              -           -         1,041           -           1,041
+                                                                                                                  -----------------
+   Comprehensive income                                                                                                  20,926
+   Stock options and warrants exercised                 15          7,693        (812)            -           -           6,896
+   Purchase of 1,345,300 shares of common stock        (14)        (4,696)          -             -     (22,093)        (26,803)
+                                                -----------------------------------------------------------------------------------
+Balance at January 2, 1999                             200        $55,537     $(2,772)      $(3,726)    $75,285        $124,524
+   Comprehensive income:
+     Net income for the year                             -              -           -             -      25,220          25,220
+     Foreign currency translation adjustment             -              -           -        (1,916)          -          (1,916)
+                                                                                                                  -----------------
+   Comprehensive income                                                                                                  23,304
+   Stock options and warrants exercised                  2          2,172        (137)            -           -           2,037
+   Purchase of 707,500 shares of common stock           (7)        (2,468)           -            -     (10,358)        (12,833)
+                                                ===================================================================================
+Balance at January 1, 2000                             195        $55,241     $(2,909)      $(5,642)    $90,147        $137,032
+                                                ===================================================================================
+See accompanying notes
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+
+
+
+                                          Littelfuse, Inc. and Subsidiaries
+
+                                       Consolidated Statements of Cash Flows
+
+                                                                  Year ended    Year ended    Year ended
+                                                                  January 1,    January 2,    January 3,
+                                                                     2000          1999          1998
+                                                                -------------------------------------------
+                                                                              (In Thousands)
+Operating activities
+<S>                                                                 <C>           <C>           <C>
+Net income                                                          $25,220       $19,885       $25,342
+Adjustments to reconcile net income to net cash provided by
+   operating activities:
+     Depreciation                                                    18,461        15,426        13,184
+     Amortization of intangibles                                      7,078         6,780         7,210
+     Provision for bad debts                                            614           626           410
+     Deferred income taxes                                           (3,922)         (896)          215
+     Other                                                             (225)          326          (159)
+     Changes in operating assets and liabilities:
+       Accounts receivable                                          (14,323)       (3,218)       (3,331)
+       Inventories                                                   (8,850)        3,610        (8,281)
+       Accounts payable and accrued expenses                         14,915        (4,992)        1,950
+       Prepaid expenses and other                                      (117)        1,757           217
+                                                                -------------------------------------------
+Net cash provided by operating activities                            38,851        39,304        36,757
+
+Investing activities
+Purchases of property, plant, and equipment, net                    (19,975)      (21,320)      (18,936)
+Purchase of business, net of cash acquired                          (24,754)       (2,751)       (5,268)
+Other                                                                   (56)         (249)         (357)
+                                                                -------------------------------------------
+Net cash used in investing activities                               (44,785)      (24,320)      (24,561)
+
+Financing activities
+Proceeds (payments) of long-term debt, net                           (9,132)       33,851        (5,192)
+Proceeds from exercise of stock options and warrants                  1,645         6,308         1,055
+Purchases of common stock and redemption of warrants                (12,833)      (26,803)       (8,642)
+                                                                -------------------------------------------
+Net cash provided by (used in) financing activities                 (20,320)       13,356       (12,779)
+
+Effect of exchange rate changes on cash                                 181        (1,134)          (89)
+                                                                -------------------------------------------
+                                                                -------------------------------------------
+Increase (decrease) in cash and cash equivalents                    (26,073)       27,206          (672)
+Cash and cash equivalents at beginning of year                       27,961           755         1,427
+                                                                ---------------
+                                                                ===========================================
+Cash and cash equivalents at end of year                             $1,888       $27,961     $     755
+                                                                ===========================================
+
+See accompanying notes.
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+                                          Littelfuse, Inc. and Subsidiaries
+
+                                    Notes to Consolidated Financial Statements
+
+                                        January 1, 2000 and January 2, 1999
+
+
+1.  Summary of Significant Accounting Policies and Other Information
+
+Nature of Operations
+
+Littelfuse,  Inc. and its subsidiaries  (the Company) design,  manufacture,  and
+sell  fuses and other  circuit  protection  devices  for use in the  automotive,
+electronic,  and general  industrial  markets  throughout the world. The Company
+also manufactures and supplies relays, switches and circuit breakers.
+
+Fiscal Year
+
+The Company's fiscal years ended January 1, 2000 and January 2, 1999,  contained
+52 weeks. The Company's fiscal year ended January 3, 1998, contained 53 weeks.
+
+Principles of Consolidation
+
+The consolidated  financial statements include the accounts of Littelfuse,  Inc.
+and its  subsidiaries.  All significant  intercompany  accounts and transactions
+have been eliminated.
+
+Cash Equivalents
+
+All highly  liquid  investments,  with a maturity  of three  months or less when
+purchased, are considered to be cash equivalents.
+
+Fair Value of Financial Instruments
+
+The Company's financial instruments include cash and cash equivalents,  accounts
+receivable,   and  long-term   debt.  The  carrying  values  of  such  financial
+instruments approximate their estimated fair values.
+
+
+
+<PAGE>
+
+
+1.  Summary of Significant Accounting Policies and Other Information (continued)
+
+Accounts Receivable
+
+The Company performs credit  evaluations of customers'  financial  condition and
+generally  does not require  collateral.  Credit  losses are provided for in the
+financial   statements   and   consistently   have  been   within   management's
+expectations.
+
+Inventories
+
+Inventories  are  stated at the lower of cost  (first in,  first out  method) or
+market, which approximates current replacement cost.
+
+Property, Plant, and Equipment
+
+Land,  buildings,  and equipment are carried at cost.  Depreciation  is provided
+under accelerated  methods using useful lives of 21 years for buildings,  7 to 9
+years for  equipment,  and 7 years  for  furniture  and  fixtures.  Tooling  and
+computer software are depreciated  using the  straight-line  method over 5 years
+and 3 years, respectively.
+
+Intangible Assets
+
+Reorganization  value in excess of amounts allocable to identifiable  assets and
+trademarks are amortized using the straight-line  method over 20 years.  Patents
+are amortized using the straight-line  method over their estimated useful lives,
+which average  approximately  10 years.  The  distribution  network is amortized
+using an  accelerated  method over 20 years.  Licenses  are  amortized  using an
+accelerated   method  over  their   estimated   useful   lives,   which  average
+approximately 9 years.  Other intangible assets consist  principally of goodwill
+that is being amortized over 10 to 20 years.  Accumulated  amortization of these
+intangible  assets was $53.2  million  at  January 1, 2000 and $46.1  million at
+January 2, 1999.  If there are  indicators  that an asset may be  impaired,  the
+Company assesses  recoverability  from future operations using undiscounted cash
+flows of the related  business as a measure.  Under this approach,  the carrying
+value of the intangible  asset would be reduced to a fair value if the Company's
+best  estimate  for  expected  undiscounted  future  cash  flows of the  related
+business would be less than the carrying amount of the intangible asset over its
+remaining amortization period.
+
+Revenue Recognition
+
+Sales  and  associated  costs  are  recognized  when  products  are  shipped  to
+customers.
+
+Advertising Costs
+
+The  Company  expenses  advertising  costs as  incurred  which  amounted to $2.6
+million in 1999, $2.6 million in 1998 and $2.8 million in 1997.
+
+
+<PAGE>
+
+
+1.  Summary of Significant Accounting Policies and Other Information (continued)
+
+Foreign Currency Translation
+
+The financial  statements of foreign entities have been translated in accordance
+with  Statement  of  Financial  Accounting  Standards  (SFAS) No.  52,  "Foreign
+Currency Translation," and, accordingly, unrealized foreign currency translation
+adjustments are reflected as a component of shareholders' equity.
+
+Stock-Based Compensation
+
+Under the provisions of SFAS No. 123, "Accounting for Stock-Based  Compensation"
+(SFAS 123),  the Company  accounts  for stock  option  grants to  employees  and
+directors  in  accordance  with  Accounting  Principles  Board  Opinion  No. 25,
+"Accounting for Stock Issued to Employees." Generally,  the Company grants stock
+options for a fixed number of shares with an exercise  price equal to the market
+price of the underlying  stock at the date of grant and,  accordingly,  does not
+recognize  compensation  expense. On certain occasions,  the Company has granted
+stock options for a fixed number of shares with an exercise  price below that of
+the  underlying  stock  on the date of the  grant  and  recognizes  compensation
+expense accordingly. This compensation expense has not been material.
+
+Use of Estimates
+
+The preparation of financial  statements in conformity  with generally  accepted
+accounting principles requires management to make estimates and assumptions that
+affect the amounts reported in the financial  statements and accompanying notes.
+Actual results could differ from those estimates.
+
+Comprehensive Income
+
+In June 1997, the Financial  Accounting  Standards  Board (FASB) issued SFAS No.
+130, "Reporting Comprehensive Income" (SFAS 130). SFAS 130 establishes standards
+for  reporting  and display of  comprehensive  income and its  components in the
+financial statements.  The Company adopted SFAS 130 for fiscal 1998. The Company
+has chosen to disclose  comprehensive  income,  which encompasses net income and
+foreign currency  translation  adjustments,  in the  consolidated  statements of
+shareholders'  equity.  Prior  years have been  restated  to conform to SFAS 130
+requirements.
+
+
+
+<PAGE>
+
+
+1.  Summary of Significant Accounting Policies and Other Information (continued)
+
+Business Segment Disclosure
+
+In June 1997,  the FASB issued SFAS No. 131,  "Disclosures  about Segments of an
+Enterprise and Related  Information" (SFAS 131). SFAS 131 establishes  standards
+for the way in  which  public  business  enterprises  report  information  about
+operating segments in annual financial  statements and interim financial reports
+issued to shareholders.  It also establishes  standards for related  disclosures
+about products and services,  geographic areas, and major customers. The Company
+adopted SFAS 131 for fiscal 1998. (See Note 8.)
+
+Reclassifications
+
+Certain  amounts in the 1997  financial  statements  have been  reclassified  to
+conform with the 1999 and 1998 financial statement presentation.
+
+2.  Acquisition of Business and Liquidation
+
+On May 30,  1997,  the  Company  invested  $5.3  million in  exchange  for a 97%
+interest in Samjoo Elec.  Ind. Co. Ltd., a Korean fuse  manufacturer,  now doing
+business as Littelfuse  Triad.  This  acquisition has been accounted for through
+the use of the purchase  method of  accounting;  accordingly,  the  accompanying
+financial statements include the results of its operations since the acquisition
+date.  Goodwill arising from this  acquisition of approximately  $2.9 million is
+being  amortized over 20 years.  Pro forma results of operations,  assuming this
+acquisition  had occurred as of December 29, 1996,  would not differ  materially
+from reported results of operations.
+
+During the year ended  January 2, 1999,  the Company made two  acquisitions  for
+approximately $2.8 million. The acquisitions have been accounted for through the
+use  of  the  purchase  method  of  accounting;  accordingly,  the  accompanying
+financial  statements  include the results of operations  since the  acquisition
+dates. Goodwill arising from these acquisitions of approximately $2.6 million is
+being amortized over 10 years.  Pro forma results of operations,  assuming these
+acquisitions had occurred as of December 29, 1996,  would not differ  materially
+from reported results of operations.
+
+In March 1998, the Company  consolidated  its Korean  operations into Littelfuse
+Triad.   Pursuant  to  the   consolidation,   the  Company   incurred  costs  of
+approximately $400,000 to liquidate Sam Hwa Littelfuse, Inc.
+
+On October 19,  1999,  the Company  acquired  Harris  Corporation's  Suppression
+Products  Group for $ 24.8  million  in cash.  The  Suppression  Products  Group
+manufactures and markets a broad line of transient voltage  suppression  devices
+that  provide  circuit  protection  for products in numerous  markets  including
+consumer, computer, telecommunications, automotive, office equipment, industrial
+and power transmission.  This acquisition has been accounted for through the use
+of the purchase method of accounting;  accordingly,  the accompanying  financial
+statements include the results of its operations since the acquisition date. The
+purchase price has been allocated to the following net assets  acquired based on
+fair value of such assets:  accounts  receivable of $7.4  million,  inventory of
+$4.6 million,  property,  plant and equipment of $12.7 million,  other assets of
+$0.4 million,  goodwill of $4.8 million and liabilities assumed of $5.1 million.
+Purchase accounting liabilities recorded during 1999 consist of $0.5 million for
+transaction  costs and $5.7 million for costs  associated with exiting a product
+line and involuntary termination of employees in connection with the integration
+of the business.  Goodwill arising from this acquisition of approximately $ 11.0
+million is being  amortized  over 20 years.  Pro forma  results  of  operations,
+assuming  that this  acquisition  had occurred as of January 4, 1998,  pro forma
+sales of  Littelfuse,  Inc.  would have been  $328.3  million in 1999 and $311.9
+million in 1998 and pro forma results of operations would not differ  materially
+from reported results of operations.
+
+3.  Inventories
+
+The components of inventories  are as follows at January 1, 2000, and January 2,
+1999 (in thousands):
+<TABLE>
+
+
+                                                        1999               1998
+                                                 ---------------------------------------
+                                                 ---------------------------------------
+
+<S>                                                    <C>                 <C>
+Raw materials                                          $  12,684           $  9,800
+Work in process                                           14,854              5,338
+Finished goods                                            21,378             21,071
+                                                 ---------------------------------------
+                                                 =======================================
+                                                         $48,916           $36,209
+                                                 =======================================
+</TABLE>
+
+
+4.  Long-Term Obligations
+
+The carrying  amounts of long-term debt,  which  approximate  fair value, are as
+follows at January 1, 2000, and January 2, 1999 (in thousands):
+
+<TABLE>
+
+<S>                                                        <C>              <C>
+                                                           1999             1998
+                                                    ------------------------------------
+                                                    ------------------------------------
+
+6.16% Senior Notes, maturing 2005                          $55,000           $60,000
+6.31% Senior Notes, maturing 2000                            9,000            18,000
+Revolving credit facility                                    6,000                 -
+Other obligations                                            4,964             5,539
+Capital lease obligations                                    1,470             2,037
+                                                    ------------------------------------
+                                                            76,434            85,576
+Less:  Current maturities                                   20,974            15,515
+                                                    ====================================
+                                                           $55,460           $70,061
+                                                    ====================================
+</TABLE>
+
+The Company has unsecured financing arrangements consisting of Senior Notes with
+insurance  companies  and a credit  agreement  with banks that  provides a $55.0
+million  revolving  credit  facility.  The Senior Notes require  minimum  annual
+principal  payments.  No principal  payments are required for borrowings against
+the  revolving  line of credit  until the line  matures on August 31,  2002.  At
+January 1, 2000, the Company had available $49.0 million of borrowing capability
+under the revolving credit facility at an interest rate of LIBOR plus 0.375%.
+
+The bank credit  agreement  provides for letters of credit of up to $8.0 million
+as part of the  available  credit line.  At January 1, 2000 the Company had $1.8
+million of outstanding letters of credit.
+
+The Senior Notes and bank credit agreement  contain  covenants that, among other
+matters, impose limitations on the incurrence of additional indebtedness, future
+mergers,  sales of assets,  payment of  dividends,  and changes in  control,  as
+defined.  In  addition,  the Company is required  to satisfy  certain  financial
+covenants and tests relating to, among other matters, interest coverage, working
+capital, leverage and net worth.
+
+Aggregate maturities of long-term obligations at January 1, 2000, are as follows
+(in thousands):
+<TABLE>
+
+
+<S>                                      <C>
+2000                                       $20,974
+2001                                        14,475
+2002                                        10,063
+2003                                        10,063
+2004 and thereafter                         20,859
+                                    ==================
+                                           $76,434
+                                    ==================
+</TABLE>
+
+
+Interest paid on long-term debt  approximated $4.9 million in 1999, $3.8 million
+in 1998 and $4.0 million in 1997.
+
+5.  Benefit Plans
+
+The Company has a defined-benefit pension plan covering substantially all of its
+North American employees. The amount of the retirement benefit is based on years
+of service and final average monthly pay. The plan also provides post-retirement
+medical benefits to retirees and their spouses if the retiree has reached age 62
+and has  provided  at least  ten  years of  service  prior to  retirement.  Such
+benefits  generally  cease  once  the  retiree  attains  age 65.  The  Company's
+contributions   are  made  in  amounts   sufficient  to  satisfy  ERISA  funding
+requirements.
+
+In 1998, the Company adopted SFAS No. 132, "Employers' Disclosure about Pensions
+and Other  Postretirement  Benefits." The statement  standardizes the disclosure
+requirements for pensions and other postretirement benefits.
+
+
+
+<PAGE>
+
+<TABLE>
+
+
+                                                                     1999             1998
+                                                              ------------------------------------
+                                                                        (In Thousands)
+
+Change in benefit obligation
+<S>                                                                  <C>               <C>
+   Benefit obligation at beginning of year                           $45,487           $41,649
+     Service cost                                                      2,264             1,942
+     Interest cost                                                     3,015             2,822
+     Actuarial loss/(gain)                                            (4,760)            1,155
+     Benefits paid                                                    (1,902)           (2,081)
+                                                              ====================================
+   Benefit obligation at end of year                                 $44,104           $45,487
+                                                              ====================================
+
+Change in plan assets at fair value
+   Plan assets at beginning of year                                  $44,363           $39,703
+     Actual return on plan assets                                      5,050             6,041
+     Employer contributions                                                -               700
+     Benefits paid                                                    (1,902)           (2,081)
+                                                              ====================================
+   Fair value of plan assets at end of year                          $47,511           $44,363
+                                                              ====================================
+
+   Funded status                                                     $ 3,407          $ (1,124)
+     Unrecognized prior service cost                                     178               245
+     Unrecognized net actuarial loss/(gain)                           (3,910)            2,301
+                                                              ====================================
+   Prepaid pension obligation                                        $  (325)         $  1,422
+                                                              ====================================
+
+Weighted-average assumptions
+   Discount                                                         7.50%             6.75%
+   Expected return on plan assets                                   9.00%             9.00%
+   Salary growth rate                                               4.50%             4.50%
+
+Components of net periodic benefit cost
+   Service cost                                                     $  2,264          $  1,942
+   Interest cost                                                       3,015             2,822
+   Expected return on plan assets                                     (3,648)           (3,243)
+   Amortization of prior service cost                                     66                65
+   Recognized net actuarial loss                                          50               151
+                                                              ====================================
+Net periodic benefit cost                                           $  1,747          $  1,737
+                                                              ====================================
+
+</TABLE>
+
+The Company also has a defined-benefit pension plan covering most of its Ireland
+employees as a result of its  acquisition of the  Suppression  Products Group in
+October, 1999. The amount of the retirement benefit is based on years of service
+and final average monthly pay. The plan also provides death benefits to the plan
+participants.  As of January 3, 1998 the Ireland  pension plan had assets in the
+amount of $11.1  million and  liabilities  in the amount of $10.4  million.  The
+Company is in the process of obtaining a more current actuarial valuation of the
+Ireland plan.
+
+The Company provides  additional  retirement benefits for certain key executives
+through its unfunded  defined  contribution  Supplemental  Executive  Retirement
+Plan. The charge to expense for this plan amounted to  $1,058,000,  $852,000 and
+$853,000 in 1999, 1998 and 1997, respectively.
+
+The Company also maintains a 401(k) savings plan covering substantially all U.S.
+employees.  The Company matches 50% of the employee's  annual  contributions for
+the  first 4% of the  employee's  gross  wages.  Employees  vest in the  Company
+contributions  after  two  years  of  service.  Company  matching  contributions
+amounted to $632,000 in 1999, $547,000 in 1998 and $523,000 in 1997.
+
+6.  Shareholders' Equity
+
+Stock Split
+
+On April 29, 1997, the Company's Board of Directors approved a two-for-one stock
+split to stockholders  of record on May 20, 1997,  payable June 10, 1997, in the
+form of a stock  dividend.  All prior  years'  number  of  shares  and per share
+amounts have been restated to reflect the stock split.
+
+Stock Purchase Warrants
+
+Warrants to purchase  2,461,309  shares of common  stock at $4.18 per share were
+outstanding  at January 1, 2000.  The warrants are  exercisable at the option of
+the holder at any time prior to December 27,  2001,  and are not callable by the
+Company.
+
+Stock Options
+
+The Company has stock option plans  authorizing  the granting of both  incentive
+and  nonqualified  options and other stock rights of up to  2,800,000  shares of
+common stock to employees and directors. The stock options vest over a five-year
+period and are exercisable  over a ten- year period  commencing from the date of
+vesting.
+
+A summary of stock option information follows:
+
+
+<PAGE>
+<TABLE>
+
+
+
+                                  1999                        1998                        1997
+                      -------------------------------------------------------------------------------------
+                                    Weighted-Average            Weighted-Average            Weighted-Average
+                                    Exercise Price              Exercise Price              Exercise Price
+
+                         Options                     Options                     Options
+                      -------------------------------------------------------------------------------------
+Outstanding at
+<S>                      <C>             <C>         <C>             <C>        <C>              <C>
+  beginning of year      1,428,910       $16.91      1,361,310       $14.28     1,257,380        $10.95
+Granted                    367,200        19.63        311,500        24.64       274,300         25.29
+  Option price equals
+  market price             352,200        20.25        311,500        24.64       274,300         25.29
+  Option price less
+  than market price         15,000         5.00            -             -             -             -
+Exercised                 (144,870)        9.34       (153,480)        6.49      (156,170)         6.70
+Forfeited                  (62,400)       21.98        (90,420)       15.31       (14,200)        15.69
+                      =====================================================================================
+Outstanding at end
+  of year                1,588,840       $18.02      1,428,910       $16.91     1,361,310        $14.28
+                      =====================================================================================
+                      =====================================================================================
+
+Exercisable at end of
+  year                     765,960                     708,818                    671,126
+Available for future
+  grant                    216,440                     517,340                    138,420
+Weighted-average
+  value of options
+  granted during the
+  year                                   $12.04                      $11.81                      $11.16
+  Option price equals
+   market price                           11.79                       11.81                       11.16
+  Option price less
+   than market price                      17.75                          -                           -
+</TABLE>
+
+As of January 1, 2000, the Company had the following outstanding options:
+<TABLE>
+
+                                                    Weighted-            Weighted-
+          Exercise                Options            Average              Average            Options
+            Price               Outstanding      Exercise Price       Remaining Life       Exercisable
+- -----------------------------------------------------------------------------------------------------------
+
+<S> <C>       <C>                   <C>              <C>                    <C>                <C>
+    $3.688 to $5.00                 147,700          $  4.00                3.00               129,500
+    $7.50 to $11.155                185,100            10.20                3.92               182,700
+    $11.625 to $16.50               235,600            14.84                5.03               201,920
+    $17.813 to $25.50               930,240            21.52                8.27               215,520
+    $28.875 to $34.125               90,200            28.93                7.56                36,320
+</TABLE>
+
+Disclosure  of pro forma  information  regarding  net  income and net income per
+share is  required  by SFAS 123 and has been  determined  as if the  Company had
+accounted for its stock options  granted in 1999,  1998, and 1997 under the fair
+value  method  using the  Black-Scholes  option  pricing  model.  The  following
+assumptions were utilized in the valuation:
+
+
+<PAGE>
+<TABLE>
+
+
+
+                                                            1999             1998              1997
+                                                     ------------------------------------------------------
+
+<S>                                                          <C>              <C>               <C>
+Risk-free interest rate                                      6.52%            5.59%             6.63%
+Expected dividend yield                                         0%               0%                0%
+Expected stock price volatility                              41.0%            30.0%             19.5%
+Expected life of options                                   8 years          8 years           8 years
+</TABLE>
+
+
+Had compensation cost for the Company's stock options granted in 1999, 1998, and
+1997  been  determined  based on the  fair  value at the  dates  of  grant,  the
+Company's net income and net income per share would have been reduced to the pro
+forma amounts indicated:
+<TABLE>
+
+                                                            1999            1998         1997
+                                                     ------------------------------------------------
+<S>                                                      <C>             <C>           <C>
+Pro forma net income (in thousands of dollars)           $24,341         $18,710       $24,621
+Pro forma basic net income per share                     $  1.24         $  0.91       $  1.24
+Pro forma diluted net income per share                   $  1.12         $  0.81       $  1.04
+</TABLE>
+
+
+The  pro  forma  effect  on  net  income  for  1999,   1998,  and  1997  is  not
+representative  of the pro forma effect on net income in future years as the pro
+forma disclosures  reflect only the fair value of stock options granted in those
+years and do not reflect the fair value of outstanding  options granted prior to
+1996.
+
+Notes Receivable - Common Stock
+
+In 1995, the Company  established the Executive Loan Program under which certain
+management  employees  may  obtain  interest-free  loans  from  the  Company  to
+facilitate their exercise of stock options and payment of the related income tax
+liabilities.  Such loans,  limited to 90% of the exercise price plus related tax
+liabilities,  have a five-year maturity, subject to acceleration for termination
+of employment or death of the employee. Such loans are classified as a reduction
+of shareholder's equity.
+
+Preferred Stock
+
+The Board of Directors may authorize the issuance from time to time of preferred
+stock in one or more series with such designations, preferences, qualifications,
+limitations, restrictions, and optional or other special rights as the Board may
+fix by  resolution.  In connection  with the Rights Plan, the Board of Directors
+has reserved, but not issued, 200,000 shares of preferred stock.
+
+Rights Plan
+
+In December 1995, the Company adopted a shareholder  rights plan providing for a
+dividend  distribution  of one preferred  share purchase right for each share of
+common stock  outstanding  on and after  December  15,  1995.  The rights can be
+exercised  only if an individual  or group  acquires or announces a tender offer
+for 15% or more of the Company's common stock and warrants.  If the rights first
+become  exercisable as a result of an announced  tender offer,  each right would
+entitle the holder to buy 1/200th of a share of a new series of preferred  stock
+at an exercise price of $67.50. Once an individual or group acquires 15% or more
+of the  Company's  common  stock,  each right held by such  individual  or group
+becomes void and the remaining rights will then entitle the holder to purchase a
+number of common shares having a market value of twice the exercise price of the
+right.  If the  attempted  takeover  succeeds,  each right will then entitle the
+holder to purchase a number of the  acquiring  Company's  common shares having a
+market value of twice the exercise  price of the right.  After an  individual or
+group  acquires 15% of the  Company's  common stock and before they acquire 50%,
+the Company's Board of Directors may exchange the rights in whole or in part, at
+an  exchange  ratio of one share of common  stock or 1/100th of a share of a new
+series of preferred stock per right.  Before an individual or group acquires 15%
+of the Company's common stock, or a majority of the Company's Board of Directors
+are  removed  by  written  consent,  whichever  occurs  first,  the  rights  are
+redeemable for $.01 per right at the option of the Company's Board of Directors.
+The Company's Board of Directors is authorized to reduce the 15% threshold to no
+less than 10%.  Each right will  expire on December  15,  2005,  unless  earlier
+redeemed by the Company.
+
+
+7.  Income Taxes
+<TABLE>
+
+Federal,  state,  and  foreign  income  tax  expense  (credit)  consists  of the
+following (in thousands):
+
+                                                   1999              1998             1997
+                                            ------------------------------------------------------
+
+Current:
+<S>                                              <C>                <C>               <C>
+   Federal                                       $  10,078          $  4,861          $  7,845
+   State                                             1,467               920             1,859
+   Foreign                                           6,180             5,239             5,391
+                                            ------------------------------------------------------
+                                            ------------------------------------------------------
+                                                    17,725            11,020            15,095
+Deferred:
+   Federal                                          (1,875)             (809)                5
+   Foreign                                            (393)              (87)              210
+                                            ------------------------------------------------------
+                                            ------------------------------------------------------
+                                                    (2,268)             (896)              215
+                                            ======================================================
+                                                   $15,457           $10,124           $15,310
+                                            ======================================================
+
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+
+Domestic and foreign income before income taxes is as follows (in thousands):
+
+                                                   1999              1998             1997
+                                            ------------------------------------------------------
+
+<S>                                                <C>               <C>               <C>
+Domestic                                           $22,846           $15,337           $26,494
+Foreign                                             17,831            14,672            14,158
+                                            ------------------------------------------------------
+                                            ======================================================
+                                                   $40,677           $30,009           $40,652
+                                            ======================================================
+</TABLE>
+
+A reconciliation  between income taxes computed on income before income taxes at
+the federal  statutory rate and the provision for income taxes is provided below
+(in thousands):
+<TABLE>
+
+                                                   1999              1998             1997
+                                            ------------------------------------------------------
+
+<S>                              <C>               <C>               <C>               <C>
+Tax expense at statutory rate of 35%               $14,237           $10,503           $14,228
+State and local taxes, net of federal tax
+   benefit                                             904               598             1,208
+Foreign income taxes                                  (735)               68              (705)
+Sam Hwa Littelfuse, Inc. liquidation                     -            (1,055)                -
+Foreign losses for which no tax
+   benefit is available                                 82                83               974
+Other, net                                             969               (73)             (395)
+                                            ------------------------------------------------------
+                                            ======================================================
+                                                   $15,457           $10,124           $15,310
+                                            ======================================================
+</TABLE>
+
+Deferred income taxes are provided for the tax effects of temporary  differences
+between the financial  reporting bases and the tax bases of the Company's assets
+and liabilities. Significant components of the Company's deferred tax assets and
+liabilities  at  January  1,  2000 and  January  2,  1999,  are as  follows  (in
+thousands):
+<TABLE>
+
+                                                                     1999             1998
+                                                              ------------------------------------
+Deferred tax liabilities
+<S>                                                                   <C>               <C>
+Tax over book depreciation and amortization                           $2,736            $4,289
+Prepaid expenses                                                       1,250             1,265
+Other                                                                    887               416
+                                                              ------------------------------------
+                                                              ------------------------------------
+Total deferred tax liabilities                                         4,873             5,970
+
+Deferred tax assets
+Accrued expenses                                                       5,648             3,899
+Foreign net operating loss carryforwards                                 258               174
+Other                                                                      -               578
+                                                              ------------------------------------
+Gross deferred tax assets                                              5,906             4,651
+Less:  Valuation allowance                                              (258)             (174)
+                                                              ------------------------------------
+Total deferred tax assets                                              5,648             4,477
+                                                              ====================================
+                                                              ====================================
+Net deferred tax assets / (liabilities)                                 $775           ($1,493)
+                                                              ====================================
+</TABLE>
+
+The  deferred  tax asset  valuation  allowance is related to deferred tax assets
+from foreign net operating losses.  The net operating loss carryforwards have no
+expiration  date.  Certain  foreign net  operating  loss  carryforwards  and the
+related  valuation  allowance are no longer  available due to the liquidation of
+Sam Hwa Littelfuse,  Inc. The Company received a one-time tax benefit associated
+with the liquidation of approximately $1.1 million for the year ended January 2,
+1999.  The Company paid income taxes of $12.1 million in 1999,  $11.5 million in
+1998 and $14.0 million in 1997.
+
+8.  Business Segment Information
+
+The  Company  designs,   manufactures,  and  sells  circuit  protection  devices
+throughout the world. The Company has three reportable geographic segments:  The
+Americas,  Europe,  and  Asia-Pacific.  The circuit  protection  market in these
+geographical segments is categorized into three major product areas: electronic,
+automotive, and power fuses.
+
+The Company  evaluates the performance of each  geographic  segment based on its
+net income or loss. The Company also accounts for  intersegment  sales as if the
+sales were to third parties.
+
+The Company's  reportable  segments are the business  units where the revenue is
+earned and expenses are incurred.  The Company has subsidiaries in The Americas,
+Europe,  and  Asia-Pacific  where each region is measured based on its sales and
+operating income or loss.
+
+Information  concerning the operations in these geographic segments for the year
+ended January 1, 2000, is as follows (in thousands):
+
+
+<PAGE>
+<TABLE>
+
+
+
+                                                                            Combined                                   Consolidated
+                                The Americas     Europe     Asia-Pacific      Total        Corporate     Reconciliation       Total
+                              -----------------------------------------------------------------------------------------------------
+
+<S>                           <C>    <C>            <C>           <C>          <C>          <C>           <C>               <C>
+    Revenues                  1999   $172,122       $50,434       $73,811      $296,367     $        -   $         -       $296,367
+                              1998    164,211        44,835        60,494       269,540              -             -        269,540
+
+    Intersegment revenues     1999     32,250        18,884         3,883        55,017              -        (55,017)          -
+                              1998     30,297        10,024           263        40,584              -        (40,584)          -
+
+    Interest expense          1999      5,007            11           235         5,253              -              -         5,253
+                              1998      3,724            17           248         3,989              -              -         3,989
+
+    Depreciation and
+    amortization              1999     10,831         1,969         3,700        16,500          9,039              -        25,539
+                              1998      8,495         1,459         3,417        13,371          8,835              -        22,206
+
+    Other income (loss)       1999        883           500           (77)        1,306              -              -         1,306
+                              1998        506            68          (672)          (98)             -              -           (98)
+
+    Income tax expense        1999      8,967         3,706         2,784        15,457              -              -        15,457
+                              1998      4,412         3,896         1,816        10,124              -              -        10,124
+
+    Net income (loss)         1999     21,007         8,156         5,101        34,264         (9,044)                      25,220
+                              1998     18,970         7,692         2,058        28,720         (8,835)             -        19,885
+
+    Identifiable assets       1999    191,997        36,228        39,112       267,337         66,076        (57,715)      275,698
+                              1998    130,981        24,282        42,658       197,921         89,619        (36,996)      250,544
+
+    Capital expenditures      1999     13,303         2,978         3,694        19,975              -              -        19,975
+                              1998     15,269         2,344         3,707        21,320              -              -        21,320
+</TABLE>
+
+
+Intersegment   revenues  and   receivables   are   eliminated  to  reconcile  to
+consolidated totals. Corporate identifiable assets consist primarily of cash and
+intangible assets.
+
+8.  Business Segment Information (continued)
+
+The  Company's  revenues by product areas for the year ended January 1, 2000 and
+January 2, 1999, are as follows (in thousands):
+<TABLE>
+
+<S>                                                <C>               <C>
+Revenues                                           1999              1998
+                                            -------------------------------------
+
+
+Electronic                                         $154,141          $133,086
+Automotive                                          101,270            96,685
+Power                                                40,956            39,769
+                                            =====================================
+Consolidated Total                                 $296,367          $269,540
+                                            =====================================
+</TABLE>
+
+Revenues from no single customer of the Company amount to 10% or more.
+
+9.  Lease Commitments
+
+The Company  leases  certain  office and  warehouse  space  under  noncancelable
+operating  leases,  as well as certain  machinery and equipment.  Rental expense
+under these leases was approximately $0.9 million in 1999 and 1998, respectively
+and  $1.3  million  in  1997.  Future  minimum  payments  for all  noncancelable
+operating  leases with initial  terms of one year or more at January 1, 2000 are
+as follows (in thousands):
+<TABLE>
+
+
+<S>                  <C>                                                  <C>
+                     2000                                                 $481
+                     2001                                                  297
+                     2002                                                  145
+                     2003                                                   44
+                     2004 and thereafter                                     -
+                                                                   ------------------
+                                                                          $967
+                                                                   ==================
+</TABLE>
+
+
+10.  Earnings per Share
+
+The following table sets forth the computation of basic and diluted earnings per
+share:
+<TABLE>
+
+<S>                                                <C>               <C>              <C>
+                                                   1999              1998             1997
+                                            ------------------------------------------------------
+                                                               (In Thousands)
+Numerator:
+
+   Net income                                       $25,220           $19,885           $25,342
+                                            ======================================================
+
+Denominator:
+   Denominator for basic earnings per share
+     - Weighted-average shares                       19,572            20,474            19,824
+Effect of dilutive securities:
+   Warrants                                           1,970             2,311             3,335
+   Employee stock options                               209               369               464
+                                            ======================================================
+Denominator for diluted earnings per share
+   - Adjusted weighted-average shares and
+   assumed conversions                               21,751            23,154            23,623
+                                            ======================================================
+Basic earnings per share                         $   1.29          $   0.97          $   1.28
+                                            ======================================================
+Diluted earnings per share                       $   1.16          $   0.86          $   1.07
+                                            ======================================================
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+Exhibit 23.1 Consent of Independent Auditors
+
+We consent to the  incorporation  by reference in this Annual Report (Form 10-K)
+of Littelfuse,  Inc. of our report dated February 11, 2000, included in the 1999
+Annual Report to Stockholders of Littelfuse, Inc.
+
+Our audits also included the financial  statement  schedule of Littelfuse,  Inc.
+listed in Item 14(a).  This  schedule  is the  responsibility  of the  Company's
+management.  Our responsibility is to express an opinion based on our audits. In
+our opinion,  with respect to which the date is February 11, 2000, the financial
+statement  schedule  referred to above, when considered in relation to the basic
+financial statements taken as a whole,  presents fairly in all material respects
+the information set forth therein.
+
+We also consent to the incorporation by reference in the Registration Statements
+(No. 33-55942,  33-64442,  33-95020, 333-03260 and 333-64285) on Form S-8 of our
+report  dated  February 11, 2000,  with  respect to the  consolidated  financial
+statements  incorporated  herein by  reference,  and our report  included in the
+preceding paragraph with respect to the financial statement schedule included in
+this Annual Report (Form 10-K) of Littelfuse, Inc.
+
+
+
+
+                                                            Ernst & Young LLP
+Chicago, Illinois
+March 20, 2000
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

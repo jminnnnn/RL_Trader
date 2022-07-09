@@ -1,0 +1,2484 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HLdF9NmGyv0d6GBSLigyh8A99uSwefr0vyHfnBYr+ee2/GT4zdh+9f+XgkGyeYO0
+ 3iKLJBT5lhkwvv0r73e3tQ==
+
+<SEC-DOCUMENT>0000088948-01-500010.txt : 20010627
+<SEC-HEADER>0000088948-01-500010.hdr.sgml : 20010627
+ACCESSION NUMBER:		0000088948-01-500010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20010331
+FILED AS OF DATE:		20010626
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SENECA FOODS CORP /NY/
+		CENTRAL INDEX KEY:			0000088948
+		STANDARD INDUSTRIAL CLASSIFICATION:	CANNED, FRUITS, VEG & PRESERVES, JAMS & JELLIES [2033]
+		IRS NUMBER:				160733425
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-01989
+		FILM NUMBER:		1667527
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1162 PITTSFORD VICTOR RD
+		CITY:			PITTSFORD
+		STATE:			NY
+		ZIP:			14534
+		BUSINESS PHONE:		7163834608
+
+	MAIL ADDRESS:	
+		STREET 1:		1162 PITTSFORD-VICTOR RD
+		CITY:			PITTSFORD
+		STATE:			NY
+		ZIP:			14534
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PIERCE S S COMPANY INC
+		DATE OF NAME CHANGE:	19861210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SENECA FOODS CORP
+		DATE OF NAME CHANGE:	19780425
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SENECA GRAPE JUICE CORP
+		DATE OF NAME CHANGE:	19710419
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>tenk01.txt
+<DESCRIPTION>2001 10-K
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+
+                Annual Report Pursuant to Section 13 or 15(d) of
+                       The Securities Exchange Act of 1934
+
+For the fiscal year-ended March 31, 2001           Commission File Number 0-1989
+
+                            SENECA FOODS CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+         New York                                            16-0733425
+         --------                                            ----------
+(State or other jurisdiction of            (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+1162 Pittsford-Victor Road, Pittsford, New York                  14534
+- -----------------------------------------------                  -----
+     (Address of principal executive offices)                  (Zip Code)
+
+Registrant's telephone number, including area code           (716) 385-9500
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                       Name of Each Exchange on
+Title of Each Class                                         Which Registered
+
+      None                                                       None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                         Common Stock Class A, $.25 Par
+                         Common Stock Class B, $.25 Par
+                                (Title of Class)
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained herein, and
+will not be  contained,  to best of the  registrant's  knowledge,  in definitive
+proxy or information  statements  incorporated  by reference in Part III of this
+Form 10-K or any amendment to the Form 10-K.  X
+                                            -----
+
+Check mark indicates whether registrant has (1) filed all reports required to be
+filed by Section 13 or 15(d) of the  Securities  Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that  registrant was required to
+file such reports),  and (2) has been subject to the filing  requirements for at
+least the past 90 days.
+
+Yes    X     No
+     -----       ------
+
+The  aggregate  market  value  of the  Registrant's  voting  securities  held by
+non-affiliates  based on the  closing  sales  price per  market  reports  by the
+National Market System on June 1, 2001 was approximately $73,174,000.
+
+Common shares  outstanding as of June 1, 2001 were Class A: 3,814,345,  Class B:
+2,767,357.
+
+Documents Incorporated by Reference:
+
+(1)  Proxy Statement to be issued prior to June 30, 2001 connection with the
+     registrant's annual meeting of stockholders (the "Proxy Statement")
+     applicable to Part III, Items 10-13 of Form 10-K.
+
+(2)  Portions of the Annual Report to shareholders for fiscal year ended March
+     31, 2001 (the "2001 Annual Report") applicable to Part II, Items 5-8 and
+     Part IV, Item 14 of Form 10-K.
+
+
+<PAGE>
+
+<TABLE>
+
+                                TABLE OF CONTENTS
+                      FORM 10-K ANNUAL REPORT - FISCAL 2001
+                            SENECA FOODS CORPORATION
+
+
+<CAPTION>
+
+PART I.                                                                                                       Pages
+                                                                                                              -----
+<S>               <C>                                                                                         <C>
+
+    Item 1.       Business                                                                                      1-3
+    Item 2        Properties                                                                                      3
+    Item 3.       Legal Proceedings                                                                               4
+    Item 4.       Submission of Matters to a Vote of Equity Security Holders                                      4
+
+PART II.
+
+    Item 5.       Market for the Registrant's Common Stock and Related Security Holder Matters                    4
+    Item 6.       Selected Financial Data                                                                         4
+    Item 7.       Management's Discussion and Analysis of Financial Condition and Results
+                  of Operations                                                                                   4
+    Item 7A.      Quantitative and Qualitative Disclosures about Market Risk                                      4
+    Item 8.       Financial Statements and Supplementary Data                                                     5
+    Item 9.       Changes in and Disagreements on Accounting and Financial Disclosure                             5
+
+PART III.
+
+    Item 10.      Directors and Executive Officers of the Registrant                                              7
+    Item 11.      Executive Compensation                                                                          7
+    Item 12.      Security Ownership of Certain Beneficial Owners and Management                                  7
+    Item 13.      Certain Relationships and Related Transactions                                                  7
+
+PART IV.
+
+    Item 14.      Exhibits, Financial Statements Schedules and Reports on Form 8-K                             7-10
+
+SIGNATURES                                                                                                    11-12
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+
+                                     PART I
+                                     Item 1
+
+                                    Business
+
+                         General Development of Business
+
+SENECA FOODS  CORPORATION (the "Company") was organized in 1949 and incorporated
+under the laws of the  State of New York.  In the  spring of 1995,  the  Company
+began operations under its Alliance Agreement with The Pillsbury Company,  which
+created the Company's most significant business relationship. Under the Alliance
+Agreement,  the  Company  has  packed  canned  and  frozen  vegetables  carrying
+Pillsbury's  Green  Giant brand name.  These  Green Giant  vegetables  have been
+produced in vegetable plants,  which the Company acquired from Pillsbury and, to
+a lesser extent,  in the Company's  other vegetable  plants,  which also produce
+vegetables under the Libby's brand name,  which is licensed to the Company,  and
+other brand names owned by the Company or its customers.
+
+Since the onset of the Alliance  Agreement,  vegetable  production  has been the
+Company's dominant line of business.  In fiscal 1999, the Company sold its fruit
+juice business and its applesauce and industrial  flavors business.  As a result
+of these  fiscal  1999  divestitures,  the  Company's  only  non-vegetable  food
+products are a line of fruit products.
+
+                  Financial Information about Industry Segments
+
+The Company's  business  activities are conducted in food and non-food segments.
+The food segment  constitutes 98% of total sales, of which  approximately 97% is
+vegetable processing and 3% is fruit processing.  The non-food segment is an air
+charter service,  which represents 2% of the Company's  business.  Consequently,
+the financial information related to segments is not material.
+
+                        Narrative Description of Business
+
+                         Principal Products and Markets
+
+Food Processing
+
+The  principal  products  of  this  segment  include  canned  vegetable,  frozen
+vegetable and fruit products.  The products are sold to retail and institutional
+markets.  The Company has  divided the United  States into four major  marketing
+sections:   Eastern,  Southern,   Northwestern,   and  Southwestern.   Vegetable
+operations are primarily  supported by plant  locations in New York,  Wisconsin,
+Washington,  Idaho,  and Minnesota.  Plant  locations in Kentucky,  Michigan and
+Washington  provide ready access to the domestic  sources of fruit  necessary to
+support marketing efforts in their respective sections of the country.
+
+The following table summarizes net sales by major product category for the years
+ended March 31, 2001, 2000, and 1999:
+<TABLE>
+<CAPTION>
+
+Classes of similar products/services:                      2001                2000                1999
+- -------------------------------------------------------------------------------------------------------
+                                                                        (In thousands)
+<S>                                                   <C>                 <C>                 <C>
+
+Net Sales:
+   Green Giant vegetables                             $ 290,346           $ 263,279           $ 289,946
+   Canned vegetables                                    326,224             291,436             250,266
+   Frozen vegetables                                     22,052              27,889              20,446
+   Fruit and chip products                               20,092              21,075              18,117
+   Flight operations                                      5,905               5,105               4,225
+   Other                                                  9,681              12,294               5,049
+- -------------------------------------------------------------------------------------------------------
+                                                      $ 674,300           $ 621,078           $ 588,049
+=======================================================================================================
+</TABLE>
+
+<PAGE>
+
+
+Other
+
+Seneca Flight Operations provides air charter service primarily to industries in
+upstate New York.
+
+
+                     Source and Availability of Raw Material
+
+Food Processing
+
+The Company's food processing  plants are located in major  vegetable  producing
+states.  Fruits and vegetables  are primarily  obtained  through  contracts with
+growers. The Company's sources of supply are considered equal or superior to its
+competition for all of its food products.
+
+
+                                Seasonal Business
+
+Food Processing
+
+While  individual  fruits and vegetables have seasonal cycles of peak production
+and sales,  the  different  cycles are usually  offsetting  to some extent.  The
+supply of  commodities,  current  pricing,  and expected  new crop  quantity and
+quality,  affect the timing of the Company's  sales and earnings.  An Off Season
+Allowance  is  established  during the year to  minimize  the effect of seasonal
+production on earnings. Off Season Allowance is zero at fiscal year-end.
+
+
+                                     Backlog
+
+Food Processing
+
+In the food  processing  business,  the end of year sales  order  backlog is not
+considered  meaningful.   Traditionally,   larger  customers  provide  tentative
+bookings for their expected  purchases for the upcoming  season.  These bookings
+are further  developed  as data on the  expected  size of the  related  national
+harvests  becomes  available.  In general,  these bookings serve as a yardstick,
+rather than as a firm commitment,  since actual harvest results can vary notably
+from early estimates.  In actual practice,  the Company has substantially all of
+its expected  seasonal  production  identified to potential sales outlets before
+the seasonal production is completed.
+
+
+                            Competition and Customers
+
+Food Processing
+
+Competition  in  the  food  business  is  substantial  with  imaginative   brand
+registration,  quality, service, and pricing being the major determinants in the
+Company's relative market position. During the past year approximately 9% of the
+Company's  processed  foods were packed for retail  customers  under the Company
+branded labels of Libby's(R),  Blue Boy(R),  Aunt Nellie's Farm Kitchen(R),  and
+Seneca(R).  About 16% of the processed foods were packed for institutional  food
+distributors  and 31% of  processed  foods were retail  packed under the private
+label of customers.  The remaining 44% is sold under the Alliance Agreement with
+Pillsbury (see note 13 of Item 8, Financial  Statements and Supplementary Data).
+Termination of the Alliance  Agreement  would have a material  adverse effect on
+the Company taken as a whole.  The  customers  represent a full cross section of
+the retail,  institutional,  distributor, and industrial markets and the Company
+does not consider  itself  dependent on any single sales source other than sales
+attributable to the Alliance Agreement.
+
+The principal branded products are Libby's canned vegetable products, which rate
+among the top five national brands.  The information under the heading Liquidity
+and Capital  Resources  in  Management's  Discussion  and  Analysis of Financial
+Condition and Results of Operations in the 2001 Annual Report is incorporated by
+reference.
+
+
+<PAGE>
+
+
+                            Environmental Protection
+
+Environmental  protection is an area that has been worked on most  diligently at
+each food processing facility. In all locations, the Company has cooperated with
+federal, state, and local environmental protection authorities in developing and
+maintaining suitable  antipollution  facilities.  In general,  pollution control
+facilities are equal to or somewhat superior to those of our competitors and are
+within  environmental  protection  standards.  The  Company  does not expect any
+material capital  expenditures to comply with  environmental  regulations in the
+near future. The Company is a potentially  responsible party with respect to two
+waste disposal sites owned and operated by others. The Company believes that any
+reasonably anticipated liabilities will not exceed $260,000 in the aggregate.
+
+
+                                                      Employment
+                                                      ----------
+                  Food processing  -  Full time            2,267
+                                    - Seasonal               337
+                                                       ---------
+                                                           2,604
+                                      Other                   94
+                                                       ---------
+                                                           2,698
+                                                       =========
+
+The Company has four  collective  bargaining  agreements with three union locals
+covering  approximately  539 of its  full  time  employees.  The  terms of these
+agreements  result in wages and benefits,  which are  substantially the same for
+comparable  positions for the Company's  non-union  employees.  Three collective
+bargaining  agreements expire in calendar 2002. The remaining  agreement expires
+in calendar 2003.
+
+
+                               Foreign Operations
+
+Export sales for the Company are a relatively  small  portion  (about 3%) of the
+food processing sales.
+
+
+                                     Item 2
+
+                                   Properties
+
+The Company has seven food  processing,  packaging,  and warehousing  facilities
+located in New York State that provide  approximately  1,653,000  square feet of
+food packaging, freezing and freezer storage, and warehouse storage space. These
+facilities  process and package fruit and vegetable  products.  The Company is a
+lessee under a number of operating  and capital  leases for  equipment  and real
+property used for processing and warehousing.
+
+Six  facilities in Minnesota,  two  facilities  in  Washington,  one facility in
+Idaho, and six facilities in Wisconsin  provide  approximately  5,606,000 square
+feet of food  packaging,  freezing and freezer  storage,  and warehouse  storage
+space.  These  facilities  process  and  package  various  vegetable  and  fruit
+products. The facilities are owned by the Company.
+
+The Company's air charter  division has a 42,000 square foot facility,  which is
+owned by the Company.
+
+All of the  properties are well  maintained and equipped with modern  machinery.
+All locations,  although  highly  utilized,  have the ability to expand as sales
+requirements justify. Because of the seasonal production cycles the exact extent
+of  utilization  is  difficult  to  measure.  In  certain   circumstances,   the
+theoretical full efficiency levels are being reached; however,  expansion of the
+number of production  days or hours could increase the output by up to 20% for a
+season.
+
+Certain of the Company's  facilities are mortgaged to financial  institutions to
+secure long-term debt and capital lease  obligations.  See Notes 4 and 5 of Item
+8, Financial Statements and Supplementary Data, for additional information about
+the Company's long-term debt and lease commitments.
+
+
+
+                                     Item 3
+
+                                Legal Proceedings
+
+In the ordinary  course of its business,  the Company is made a party to certain
+legal proceedings seeking monetary damages. The Company does not believe that an
+adverse  decision  in any of these  proceedings  would have a  material  adverse
+impact on its financial position, results of operations or cash flows.
+
+
+                                     Item 4
+
+           Submission of Matters to a Vote of Equity Security Holders
+
+No matters were submitted to vote of shareholders during the last quarter of the
+fiscal period covered by this report.
+
+
+                                     PART II
+
+                                     Item 5
+
+  Market for the Registrant's Common Stock and Related Security Holder Matters
+
+Each class of preferred  stock  receives  preference as to dividend  payment and
+declaration over any common stock. In addition,  refer to the information in the
+2001 Annual Report,  "Shareholder  Information and Quarterly Results",  which is
+incorporated by reference.
+
+
+                                     Item 6
+
+                             Selected Financial Data
+
+Refer  to the  information  in the  2001  Annual  Report,  "Five  Year  Selected
+Financial Data", which is incorporated by reference.
+
+
+                                     Item 7
+
+ Management's Discussion and Analysis of Financial Condition and Results of
+                                   Operations
+
+Refer to the information in the 2001 Annual Report, "Management's Discussion and
+Analysis  of  Financial   Condition  and  Results  of   Operations",   which  is
+incorporated by reference.
+
+
+                                     Item 7A
+
+           Quantitative and Qualitative Disclosures about Market Risk
+
+Refer  to  the  information  in  the  2001  Annual  Report,   "Quantitative  and
+Qualitative Disclosures about Market Risk", which is incorporated by reference.
+
+
+<PAGE>
+
+
+
+                                     Item 8
+
+                   Financial Statements and Supplementary Data
+
+Refer to the  information  in the 2001 Annual  Report,  "Consolidated  Financial
+Statements and Notes thereto including Independent  Auditors' Report",  which is
+incorporated by reference.
+
+                                     Item 9
+
+       Changes in and Disagreements on Accounting and Financial Disclosure
+
+None.
+
+
+<PAGE>
+
+
+INDEPENDENT AUDITORS' REPORT
+
+
+To the Board of Directors and Stockholders of
+  Seneca Foods Corporation
+Pittsford, New York
+
+We  have  audited  the  consolidated   financial   statements  of  Seneca  Foods
+Corporation and  subsidiaries as of March 31, 2001 and 2000, and for each of the
+three  years in the period  ended  March 31,  2001,  and have  issued our report
+thereon dated May 25, 2001; such  consolidated  financial  statements and report
+are included in your 2001 Annual  Report to  Shareholders  and are  incorporated
+herein by  reference.  Our  audits  also  included  the  consolidated  financial
+statement schedule of Seneca Foods Corporation,  listed in Item 14 (A)(2).  This
+consolidated financial statement schedule is the responsibility of the Company's
+management.  Our responsibility is to express an opinion based on our audits. In
+our opinion, such consolidated financial statement schedule,  when considered in
+relation  to the  basic  consolidated  financial  statements  taken  as a whole,
+presents fairly in all material respects the information set forth therein.
+
+/s/DELOITTE & TOUCHE LLP
+
+DELOITTE & TOUCHE LLP
+Rochester, New York
+May 25, 2001
+
+<PAGE>
+
+
+                                    PART III
+
+
+                                     Item 10
+
+               Directors and Executive Officers of the Registrant
+
+
+
+                                     Item 11
+
+                             Executive Compensation
+
+
+                                     Item 12
+
+         Security Ownership of Certain Beneficial Owners and Management
+
+
+                                     Item 13
+
+                 Certain Relationships and Related Transactions
+
+Information  required by Items 10 through 13 will be filed  separately  with the
+Commission,  pursuant  to  Regulation  14A,  in  a  definitive  proxy  statement
+involving the election of directors, which is incorporated herein by reference.
+
+                                     PART IV
+
+
+                                     Item 14
+
+        Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+
+A.    Exhibits,  Financial Statements, and Supplemental Schedules
+
+      1.   Financial Statements - the following consolidated financial
+           statements of the Registrant, included in the Annual Report for the
+           year ended March 31, 2001, are incorporated by reference in Item 8:
+
+           Consolidated Statements of Net Earnings - March 31, 2001, 2000 and
+           1999
+
+           Consolidated Balance Sheets - March 31, 2001 and 2000
+
+           Consolidated Statements of Cash Flows - March 31, 2001, 2000 and 1999
+
+           Consolidated Statements of Stockholders' Equity - March 31, 2001,
+           2000 and 1999
+
+           Notes to Consolidated Financial Statements - March 31, 2001, 2000 and
+           1999
+
+           Independent Auditors' Report
+
+
+<PAGE>
+                                                                           Pages
+                                                                           -----
+2.     Supplemental Schedule:
+       ---------------------
+
+       Schedule II        --        Valuation and Qualifying Accounts        9
+
+Other schedules have not been filed because the conditions requiring the filing
+do not exist or the required information is included in the consolidated
+financial statements, including the notes thereto.
+
+3.       Exhibits:
+         --------
+
+     No. 3 - Articles of  Incorporation  and By-Laws - Incorporated by reference
+to the Company's  Form 10-Q/A filed August,  1995; as amended by the  amendments
+filed with the Company's  Form 10-K filed June 1996, as amended by the Company's
+definitive proxy statement filed July, 1998.
+
+     No. 4 - Articles  defining the rights of security holders - Incorporated by
+reference  to the  Company's  Form  10-Q/A  filed  August,  1995 as  amended  by
+amendments  filed with the  Company's  Form 10-K  filed  June  1996.  Instrument
+defining the rights of any holder of Long-Term Debt - Incorporated  by reference
+to  Exhibit  99 to the  Company's  Form 10-Q  filed  January  1995 as amended by
+Exhibit No. 4 of the Company's Form 10-K filed June, 1997,  amended by Exhibit 4
+of the Company's Form 10-Q and Form 10-Q/A filed  November,  1997, as amended by
+amendments filed with the Company's definitive proxy statement filed July, 1998.
+The Company  will  furnish,  upon  request to the SEC, a copy of any  instrument
+defining the rights of any holder of Long-Term Debt.
+
+     No. 10 - Material  Contracts -  Incorporated  by reference to the Company's
+Form 8-K dated  February 24, 1995 for the First  Amended and  Restated  Alliance
+Agreement and the First Amended and Restated Asset Purchase  Agreement both with
+The Pillsbury Company.
+
+     No. 13 - The material  contained in the 2001 Annual Report to  Shareholders
+under the following headings: "Five Year Selected Financial Data", "Management's
+Discussion  and  Analysis of  Financial  Condition  and Results of  Operations",
+"Consolidated  Financial  Statements  and Notes  thereto  including  Independent
+Auditors' Report", "Quantitative and Qualitative Disclosures about Market Risk",
+and "Shareholder Information and Quarterly Results".
+
+         No. 21 -   List of Subsidiaries                                    10
+
+         No. 23 -   Consents of Experts and Counsel                         10
+
+B.    Reports on Form 8-K
+
+      None.
+
+
+<PAGE>
+<TABLE>
+
+                                   Schedule II
+
+                        VALUATION AND QUALIFYING ACCOUNTS
+                                 (In thousands)
+<CAPTION>
+
+                                              Balance at     Charged/     Charged to    Deductions    Balance
+                                              Beginning     (Credited)        other         from        at end
+                                              of period     to income       accounts       reserve    of period
+                                              -------------------------------------------------------------------
+<S>                                           <C>           <C>           <C>           <C>           <C>
+
+Year-ended March 31, 2001:
+      Allowance for doubtful accounts         $       469   $       188   $   --        $    25 (a)   $       632
+                                              ===================================================================
+
+Year-ended March 31, 2000:
+      Allowance for doubtful accounts         $       487   $        (5)  $   --        $    13 (a)   $       469
+                                              ===================================================================
+
+Year-ended March 31, 1999:
+      Allowance for doubtful accounts         $       207   $       425   $   --        $   145 (a)   $       487
+                                              ===================================================================
+
+<FN>
+(a) Accounts written off, net of recoveries.
+</FN>
+</TABLE>
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                            SENECA FOODS CORPORATION
+
+
+
+                                  By/s/  Jeffrey L. Van Riper     June 12, 2001
+                                  ---------------------------------------------
+                                         Jeffrey L. Van Riper
+                                         Controller and Secretary
+                                         (Principal Accounting Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated:
+<TABLE>
+<CAPTION>
+    Signature                                             Title                                       Date
+    ---------                                             -----                                       ----
+<S>                                               <C>                                              <C>
+
+/s/Arthur S. Wolcott                              Chairman and Director                            June 12, 2001
+- --------------------
+Arthur S. Wolcott
+
+
+
+/s/Kraig H. Kayser                                President, Chief Executive Officer,              June 12, 2001
+- ------------------                                and Director
+Kraig H. Kayser
+
+
+
+/s/Philip G. Paras                                Chief Financial Officer                          June 12, 2001
+- ------------------
+Philip G. Paras
+
+
+
+/s/Jeffrey L. Van Riper                           Controller and Secretary                         June 12, 2001
+- -----------------------                           (Principal Accounting Officer)
+Jeffrey L. Van Riper
+
+
+
+/s/Arthur H. Baer                                 Director                                         June 12, 2001
+- -----------------
+Arthur H. Baer
+
+
+
+/s/Andrew M. Boas                                 Director                                         June 12, 2001
+- -----------------
+Andrew M. Boas
+
+
+
+/s/Robert T. Brady                                Director                                         June 12, 2001
+- ------------------
+Robert T. Brady
+
+
+/s/David L. Call                                  Director                                         June 12, 2001
+- ----------------
+David L. Call
+
+
+
+/s/Edward O. Gaylord                              Director                                         June 12, 2001
+- --------------------
+Edward O. Gaylord
+
+
+
+/s/G. Brymer Humphreys                            Director                                         June 12, 2001
+- ----------------------
+G. Brymer Humphreys
+
+
+
+/s/Susan W. Stuart                                Director                                         June 12, 2001
+- ------------------
+Susan W. Stuart
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<FILENAME>e130301.txt
+<DESCRIPTION>2001 ANNUAL REPORT
+<TEXT>
+
+<TABLE>
+Five Year Selected Financial Data
+Summary of Operations and Financial Condition
+(In thousands of dollars, except per share data)
+<CAPTION>
+
+ Years ended March 31,                                 2001          2000          1999           1998          1997
+ -------------------------------------------------------------------------------------------------------------------
+ <S>                                              <C>           <C>           <C>          <C>           <C>
+
+ Net sales                                        $ 674,300     $ 621,078     $ 588,049    $   572,039   $   578,257
+ -------------------------------------------------------------------------------------------------------------------
+
+ Operating earnings (before Corporate
+    interest and administrative expense)          $  23,879     $  27,335     $  27,138    $    22,732     $  43,536
+ Earnings (loss) from continuing
+    operations before extraordinary item and
+    cumulative effect of accounting change              813         4,320         1,420         (3,181)        8,966
+ Loss from discontinued operations                        -             -        (6,791)        (1,963)       (1,435)
+ Gain on sale of discontinued operations                  -             -        11,756              -             -
+ Earnings (loss) before extraordinary item and
+    cumulative effect of accounting change              813         4,320         6,385         (5,144)        7,531
+ Extraordinary loss                                       -             -        (1,222)             -             -
+ Net earnings (loss)                                    813         4,320         5,163         (5,144)        7,531
+ -------------------------------------------------------------------------------------------------------------------
+
+ Basic earnings (loss) from continuing
+    operations per common share                   $     .12     $     .66     $     .23      $    (.54)    $    1.51
+ Basic earnings (loss) per common share before
+    extraordinary item and cumulative
+    effect of accounting change                         .12           .66          1.05           (.87)         1.27
+ Basic earnings (loss) per common share                 .12           .66           .85           (.87)         1.27
+ -------------------------------------------------------------------------------------------------------------------
+
+ Working capital                                  $ 163,367     $ 168,972     $ 167,435      $ 112,299     $ 132,351
+ Inventories                                        229,170       203,173       152,634        194,044       158,197
+ Net property, plant, and equipment                 167,450       179,146       178,658        218,408       207,439
+ Total assets                                       444,233       438,540       404,870        474,926       416,023
+ Long-term debt and capital lease
+    obligations                                     171,346       189,968       187,904        227,858       224,128
+ Stockholders' equity                               149,759       148,999       144,588         89,125        93,736
+ -------------------------------------------------------------------------------------------------------------------
+
+ Additions to property, plant, and equipment      $  15,395     $  19,875     $   9,494      $  15,693       $11,650
+ Interest expense, net                               18,662        16,147        21,594         23,913        25,960
+ -------------------------------------------------------------------------------------------------------------------
+
+ Net earnings/average equity                            0.7%          3.6%          4.4%          (5.6)%         8.2%
+ Continuing earnings before taxes/sales                 0.2%          1.1%          0.3%          (0.9)%         2.4%
+ Net earnings/sales                                     0.1%          0.7%          0.9%          (0.9)%         1.3%
+ Long-term debt/equity                                  114%          127%          130%           256%          239%
+ Current ratio                                        2.5:1         3.1:1         4.0:1          1.8:1         2.8:1
+ -------------------------------------------------------------------------------------------------------------------
+
+ Stockholders' equity per common share            $   16.26     $   16.16     $   15.65      $   14.99     $   15.77
+ Class A National Market System
+    closing price range                           15 1/4-11   15 1/2-10 1/4  17 1/8-10 3/8  18 3/4-15 3/4 18 3/4-14 3/4
+ Class B National Market System
+    closing price range                         14 7/8-10 3/4 14 3/4-10      16 3/4-10 3/8  18 1/2-15 1/2     19-14 1/2
+ Common cash dividends declared per share                 -             -             -              -             -
+ Price earnings ratio                                 110.2          17.1          13.1             NM          13.7x
+ -------------------------------------------------------------------------------------------------------------------
+
+
+
+<FN>
+NM - not meaningful.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+
+
+
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations
+
+Liquidity and Capital Resources
+
+Because the Company is primarily engaged in vegetable processing,  the Company's
+yearly  business cycle shows large  inventory  growth during the summer and fall
+harvest  period.  The inventory peaks in the early fall and drops to its minimum
+level  immediately  prior to the next pack  season  (pack  refers to canning and
+freezing of vegetables  and certain fruits with each commodity at a certain time
+during the year which can vary based on weather conditions among other factors).
+These peaks are financed through  seasonal  borrowings whose high and low points
+essentially  correspond  with the changes in  inventory,  or by a  reduction  in
+short-term investments. Accordingly, inventory management is key to liquidity.
+
+During September 1998, the Company  completed an equity sale, which raised $49.7
+million.  The equity sale consisted of a Rights Offering to the Company's common
+shareholders and a Stock Purchase Agreement with certain investors.
+
+In December 1998,  the Company sold a significant  portion of its Juice Division
+to Northland Cranberries,  Inc. together with an exclusive license to market and
+sell Seneca juice  products,  for $28.2  million in cash plus the  assumption of
+certain  liabilities.  This sale included plants in Dundee,  New York;  Mountain
+Home,  North  Carolina;  Jackson,  Wisconsin;  and a  warehouse  in Eau  Claire,
+Michigan.
+
+In January 1999, the Company sold to Tree Top, Inc. its  processing  facility in
+Prosser,  Washington  together with its non-branded  specialty fruit concentrate
+business and an exclusive license to market and sell Seneca applesauce. Tree Top
+paid approximately $29.0 million in cash.
+
+During November 1999, the Company acquired certain assets of the Midwest private
+label canned  vegetable  business from Agrilink Foods,  Inc., for  approximately
+$48.0 million.  The Company purchased one plant and inventories of the business.
+The annual sales of this business are approximately $73.0 million.  The purchase
+price was  partially  funded by a  subordinated  note for $5.0 million while the
+balance was paid in cash.
+
+As a result of the fiscal  1999  divestitures  and equity  sale,  the  Company's
+requirements for working capital financing were substantially reduced during the
+fiscal  years  ended  2000  and  1999 as  compared  to  1998  and  prior  years.
+Accordingly,  the total  financing  commitment of the  Company's  line of credit
+banks was  reduced  in a series of steps  from $130  million  to $75  million on
+January 29, 1999, at which date the Company elected to terminate its Amended and
+Restated  Credit  Agreement with those banks.  As of March 31, 2001, the Company
+maintained a committed  revolving line of credit of $20 million and  uncommitted
+lines of credit totaling $81 million.  These credit  arrangements do not require
+the Company to pay any  commitment  fees,  whereas the Company paid fees for the
+unused  portion of the bank  commitments  under the Amended and Restated  Credit
+Agreement, which it terminated in January 1999. The Company had $24.5 million of
+short-term  borrowings as of the end of 2001, and no short-term  bank borrowings
+throughout  fiscal 2000. The Company believes that the credit facilities will be
+sufficient,  with its  other  resources,  for its  anticipated  working  capital
+requirements in 2002.
+
+The Company has three major long-term debt instruments:  1) a $44.7 million note
+payable to The Prudential Insurance Company of America, with an interest rate of
+10.78%,  which is due through 2005; 2) a $61.1 million secured  nonrecourse note
+payable to The  Pillsbury  Company,  with an interest  rate of 8%,  which is due
+through 2009; and 3) a $42.5 million note payable to John Hancock Life Insurance
+Company, with an interest rate of 10.81%, which is due through 2009.
+
+In 2000,  the Company  issued an Industrial  Revenue  Development  Bond for $6.0
+million  to  finance  production  equipment  in the  Midwest.  The Other  Assets
+category  includes  $1.3  million and $5.3  million as of the fiscal years ended
+2001 and 2000, respectively, of yet unspent proceeds of this debt issue.
+
+In the final  quarter of 1999,  the Company made the  following  prepayments  on
+long-term  debt (plus  yield-maintenance  payments to the lenders in  accordance
+with the terms of the indebtedness):
+
+         (1)      With respect to its outstanding 10.78% Series A Note due
+                  February 23, 2005, and in addition to the scheduled payment of
+                  a principal installment of $7.5 million due February 23, 1999,
+                  the Company prepaid two annual principal installments of $8.4
+                  million each due February 23 in 2000 and 2001; and
+
+         (2)      With  respect to its outstanding 9.17%  Senior Notes due 2004,
+                  the  Company  prepaid  $15.0  million,  the entire outstanding
+                  principal amount of these Notes.
+
+During 1995, the Company  acquired certain assets of the Green Giant Division of
+The Pillsbury Company. Under an Alliance Agreement concurrently executed in 1995
+by  the  Company,  Pillsbury  and  Grand  Metropolitan  Incorporated,  Pillsbury
+continues to be responsible for all of the sales, marketing and customer service
+functions  for the Green Giant brand,  while the Company  will handle  vegetable
+processing and canning operations.  Pillsbury continues to own all the trademark
+rights to the Green Giant brand and its proprietary  seed varieties.  The assets
+acquired   included  certain  raw  material  and  supplies   inventory  and  six
+manufacturing  facilities  located in the  Midwestern  and  Northwestern  United
+States.
+
+The increase in cash and  short-term  investments of $1.3 million over the three
+year  period  ended in 2001 was  primarily  due to the  proceeds  of the sale of
+assets (primarily the Juice sale) totaling $69.7 million;  proceeds from the new
+equity issue from the Stock  Purchase  Agreement  and Rights  Offering  totaling
+$49.7  million;  proceeds of the new long-term debt issue totaling $6.0 million;
+and net earnings  (before  depreciation  effect,  which is  non-cash).  This was
+partially  offset by:  Agrilink  acquisition  of $43.5  million;  long-term debt
+repayments  totaling $60.1 million;  repayments of notes payable  totaling $37.8
+million;  and  capital  additions  of $15.4  million,  $19.9  million,  and $9.5
+million, in 2001, 2000, and 1999, respectively.
+
+In 2001,  accounts  receivable  decreased by $200 thousand to $31.5 million.  In
+2000, accounts  receivable  decreased by $4.0 million to $31.7 million. In 1999,
+accounts  receivable  decreased  by  $12.9  million  mainly  due  to  the  Juice
+divestitures.
+
+In  2001,  inventories  increased  by  $26.0  million  mainly  due to  temporary
+disruption in retail canned vegetable sales patterns  resulting from last fiscal
+year's Year 2000 stock-up phenomenon.  In 2000,  inventories  increased by $50.5
+million  mainly due to the  acquisition  of the  Midwest  private  label  canned
+vegetable  business  described  above. In 1999,  inventories  decreased by $41.4
+million mainly due to the Juice divestitures.
+
+In 2001, capital expenditures were $15.4 million as compared to $19.9 million in
+2000 and $9.5 million in 1999. The largest project in 2001 was an automatic corn
+cutter  project in  Minnesota,  which totaled $3.3 million and was financed with
+the Industrial  Revenue  Development  Bond  discussed  above.  In 2000,  certain
+expenditures  of  approximately  $5.0  million  were  made  to  accommodate  the
+additional  volume  acquired from  Agrilink  (since only one of three plants was
+purchased).  Another  major  capital  initiative  in  2000  involved  increasing
+production capacity in the Northwest.  No major capital expenditures occurred in
+1999.
+
+
+
+<PAGE>
+
+
+
+Results of Operations
+
+Net sales for 2001 were $674.3 million, which includes $290.3 million sold under
+the  Alliance  with  Pillsbury.  Net sales for 2000 were $621.1  million,  which
+includes  $263.3 million sold under the Alliance with  Pillsbury.  Net sales for
+1999 were $588.0 million,  which includes $289.9 million sold under the Alliance
+with  Pillsbury.  In 2001,  Non-Alliance  sales increased from $357.8 million to
+$384.0  million  reflecting a full year of sales from the  Agrilink  acquisition
+partly offset by lower selling  prices.  In 2000,  Non-Alliance  sales increased
+from $298.1  million to $357.8  million  reflecting  the  Agrilink  acquisition,
+distribution gains in the vegetable non-branded area, and higher selling prices.
+This increase was partially offset by a reduction in Alliance sales reflecting a
+planned smaller pack than the previous year. In 1999, vegetable unit non-branded
+sales  increased over 1998 due to increased  distribution  on the west coast and
+high pack levels of the last two years.
+
+The sale of the Juice  business to  Northland  Cranberries,  Inc.  resulted in a
+pre-tax gain on the disposal of $6.8 million,  which was  recognized  during the
+Company's  fourth  quarter  ended  March  31,  1999.  The sale of the  Company's
+processing  facility  in  Prosser,  Washington  together  with  its  non-branded
+specialty  fruit  concentrate  business to Tree Top, Inc.  resulted in a pre-tax
+gain on the  disposal  of  $10.4  million,  which  was  also  recognized  in the
+Company's  fourth quarter ended March 31, 1999. As a result of these sales,  the
+Juice Business has been accounted for as discontinued operations.  Net sales for
+these businesses were $121.3 million in 1999.
+
+In 2001, the Company sold a facility in Othello, Washington, which resulted in a
+gain of $1.2  million  before  income  taxes.  Also in 2001,  the Company sold a
+facility in Buckley,  Michigan,  which resulted in a gain of $0.2 million before
+income taxes.
+
+In 2000,  the Company sold a distribution  facility in Chicopee,  Massachusetts,
+which  resulted in a gain of $1.0 million  before  income  taxes.  In 1999,  the
+Company sold a parcel of land in Rochester,  Minnesota, which resulted in a gain
+of $6.2 million before income taxes.
+
+In 2001,  earnings decreased  primarily due to the following reasons:  1) a $2.5
+million  increase  in  interest  expense  as a result of the  higher  short-term
+borrowings  in support of an increase in average  inventories;  2) lower selling
+prices on vegetables,  especially on private label canned retail vegetables than
+the  previous  year;  and 3) an  increase  in natural gas and fuel costs of $6.0
+million  (approximately $3.0 million effect on 2001 results).  In 2000, earnings
+increased due to the following reasons:  1) a $5.4 million reduction in interest
+expense  as a  result  of the  $49.7  million  equity  offering  and  juice  and
+applesauce  divestitures  completed in fiscal 1999; 2) better  selling prices on
+vegetables,   especially  on  private  label  canned  retail  and  food  service
+vegetables  than the previous year; and 3) additional  sales due to the acquired
+business  described  above.  These  gains were  partially  offset by a provision
+principally to reflect the expected  liquidation  costs of our maraschino cherry
+business,  including a plant closure,  of $2.0 million,  established in 2000. In
+1999,  earnings increased due to the following reasons:  1) the gain on the sale
+of land in Rochester,  Minnesota of $6.2  million;  2) somewhat  better  selling
+prices on vegetables  after low prices the previous  year;  and 3) a gain on the
+sale of an aircraft of $.7  million.  These  gains were  partially  offset by an
+impairment provision of $2.0 million.
+
+A  deferred  tax  valuation  allowance  as of March  31,  2001,  was not  deemed
+necessary due to the fact that there was positive  evidence that  outweighed the
+negative evidence that it was more likely than not that these tax assets will be
+realized.  While the Company has suffered  losses in one of the last five fiscal
+years, the Company does not believe that such loss should be considered a trend,
+and that other evidence, including the fact that the Company has never had a net
+operating  loss expire,  should be considered in evaluating  whether a valuation
+allowance is necessary.
+
+In general,  inflation played a relatively  small role in the operating  results
+and cash flows of 2001,  2000, and 1999 since the Company  depreciates its fixed
+assets under accelerated depreciation methods for tax purposes.
+
+
+<PAGE>
+
+
+
+Recently Issued Accounting Standards
+
+Since June 1998, the Financial Accounting Standards Board (FASB) has issued SFAS
+Nos. 133, 137 and 138 related to  "Accounting  for  Derivative  Instruments  and
+Hedging  Activities" (SFAS No. 133, as amended or Statements).  These Statements
+establish  accounting and reporting  standards  requiring that every  derivative
+instrument  be  recorded on the  balance  sheet as either an asset or  liability
+measured  at  its  fair  value.  The  Statements  require  that  changes  in the
+derivative's  fair value be  recognized  currently in earnings  unless  specific
+hedge  accounting  criteria  are met,  in which  case the gains or losses  would
+offset the related results of the hedged item.
+
+The Company currently does not have any freestanding derivative instruments. The
+Company  is in  the  process  of  performing  a  review  to  identify  potential
+derivatives  embedded  in  other  contracts.   The  Company  is  adopting  these
+Statements  as of April 1, 2001 and is not  expecting  a material  impact on its
+consolidated financial statements.
+
+In May 2000, the Emerging Issues Task Force (EITF),  a subcommittee of the FASB,
+issued EITF No. 00-10  "Accounting  for  Shipping and Handling  Fees and Costs."
+EITF No. 00-10  addresses the income  statement  classification  of shipping and
+handling  fees and costs.  The  Company's  net sales and cost of sales have been
+reclassified  to reflect these  expenses in cost of sales,  consistent  with the
+classification  of other shipping and handling related costs. The impact of this
+change increased net sales by $17.4 million, $16.1 million and $11.9 million for
+the years ended March 31, 2001, 2000, and 1999, respectively.  Additionally, the
+impact of this change  increased cost of sales by $17.9 million,  $17.3 million,
+and  $12.2  million  for the  years  ended  March  31,  2001,  2000,  and  1999,
+respectively,  and decreased selling,  general,  and administrative  expenses by
+$0.5 million,  $1.2 million and $0.3 million for the years ended March 31, 2001,
+2000,  and  1999,  respectively.  There is no impact on  results  of  operations
+resulting from this change.
+
+In  2000,  the  EITF  issued  EITF  No.  00-14  "Accounting  for  Certain  Sales
+Incentives."  The EITF  subsequently  amended the transition  provisions of this
+EITF in  November  2000 to require  application  no later than  fiscal  quarters
+beginning after March 15, 2001.  EITF No. 00-14  prescribes  guidance  regarding
+timing of recognition and income statement classifications of costs incurred for
+certain sales incentive programs. This guidance requires certain coupons, rebate
+offers and free products offered concurrently with a single exchange transaction
+to be  recognized  at the later of the date at which the  revenue is recorded or
+the date at which the sales  incentive is offered and reported as a reduction of
+revenue.  The Company's current  accounting and  classification of these amounts
+are in compliance with the consensus reached in this EITF.
+
+In January  2001,  the EITF issued EITF No.  00-22,  "Accounting  for Points and
+Certain Other Time-Based or Volume-Based  Sales Incentive Offers, and Offers for
+Free  Products  or Services  to be  Delivered  in The  Future."  EITF No.  00-22
+prescribes  guidance  regarding  timing  of  recognition  and  income  statement
+classification of costs incurred in connection with offers of "free" products or
+services  that  are  exercisable  by an end  consumer  as a  result  of a single
+exchange transaction with the retailer which will not be delivered by the vendor
+until a future date.  This  guidance  requires  certain  rebate  offers and free
+products that are delivered  subsequent to a single  exchange  transaction to be
+reported as a reduction of revenue and recognized based on systematic allocation
+of the costs to the underlying revenue  transactions that result in the consumer
+earning the rebate or refund.  The guidance in this EITF was  effective  for the
+Company for the quarter ended March 31, 2001. The Company's  current  accounting
+and  classification of these types of costs are in compliance with the consensus
+reached in this EITF.
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+As a result of its operating and financing activities, the Company is exposed to
+certain market risks including  changes in commodity pricing and fluctuations in
+interest rates.  Commodity pricing exposure includes weather phenomena and their
+effect on industry  volumes,  prices,  product  quality,  and costs. The Company
+manages  its  exposure to  commodity  price risk  primarily  through its regular
+operating activities.  The Company has not used derivative financial instruments
+and has not  utilized  financial  instruments  for trading or other  speculative
+purposes.
+
+
+<PAGE>
+
+
+
+Interest Rate Risk
+
+As a result of its regular borrowing activities, the Company's operating results
+are  exposed to  fluctuations  in  interest  rates,  which it manages  primarily
+through its regular financing activities.  The Company uses bank lines of credit
+with variable  interest rates to finance seasonal  working capital  requirements
+($24.5  million was  outstanding  under these lines as of March 31,  2001).  The
+Company maintains  investments in cash equivalents ($1.0 million as of March 31,
+2001) and does have  investments  in a modest amount of  marketable  securities.
+Long-term debt represents secured and unsecured notes and debentures and certain
+notes payable to insurance companies used to finance long-term  investments such
+as business  acquisitions.  Long-term  debt bears interest at fixed and variable
+rates. The following table provides  information  about the Company's  financial
+instruments  that are sensitive to changes in interest rates. The table presents
+principal cash flows and sinking fund requirements and related  weighted-average
+interest  rates by expected  maturity date.  Weighted-average  interest rates on
+variable-rate debt are based on current rates as of March 31, 2001:
+<TABLE>
+                  Interest Rate Sensitivity of Long-Term Debt,
+                   Short-Term Debt and Short-Term Investments
+                                 March 31, 2001
+                                 (In Thousands)
+<CAPTION>
+
+                                                 EXPECTED MATURITY DATE
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                            Total /        Estimated
+                                                                                                           Weighted          Fair
+                                2002          2003         2004        2005         2006      Thereafter    Average          Value
+- ------------------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                          <C>           <C>          <C>         <C>           <C>         <C>          <C>            <C>
+
+Fixed-rate L/T debt:
+   Principal cash flows      $18,331       $21,665      $21,716     $21,773       $9,703        $74,150    $  167,338       $164,473
+   Average interest rate        9.17%         9.05%        8.86%       8.59%        8.36  %        7.81%         8.63%             -
+Variable-rate L/T debt:
+   Principal cash flows      $    --       $    --      $    --     $    --       $   --        $22,630    $   22,630        $22,630
+   Average interest rate        6.30%         6.30%        6.30%       6.30%        6.30  %        6.30%         6.30%             -
+Variable-rate S/T debt:
+   Principal cash flows                                                                                    $   20,832        $20,832
+   Average interest rate                                                                                         8.01%             -
+Short-Term investments:
+   Average Balance                                                                                         $    4,425         $4,425
+   Average interest rate                                                                                         6.12%             -
+- ------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+
+<TABLE>
+Consolidated Statements of Net Earnings
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands of dollars, except share amounts)
+
+<CAPTION>
+Years ended March 31,                                                              2001             2000             1999
+- --------------------------------------------------------------------------------------------------------------------------
+<S>                                                                           <C>              <C>              <C>
+
+Net sales                                                                     $ 674,300        $ 621,078        $ 588,049
+- -------------------------------------------------------------------------------------------------------------------------
+
+Costs and expenses:
+   Cost of product sold                                                         630,138          575,184          550,890
+   Selling, general, and administrative expense                                  23,367           21,605           18,422
+   Other expense (income)                                                           971            1,254           (4,834)
+   Interest expense, net of interest income of $629, $1,672, and
+     $648, respectively                                                          18,662           16,147           21,594
+                                                                               ------------------------------------------
+                                                                                673,138          614,190          586,072
+- -------------------------------------------------------------------------------------------------------------------------
+Earnings from continuing operations before income taxes
+   and extraordinary item                                                         1,162            6,888            1,977
+Income taxes                                                                        349            2,568              557
+                                                                              -------------------------------------------
+Earnings from continuing operations before
+   extraordinary item                                                               813            4,320            1,420
+Loss from discontinued operations, less applicable
+   income tax benefit of $3,138                                                      --               --           (6,791)
+Gain on the sale of discontinued operations, less applicable
+   income taxes of $5,431                                                            --               --           11,756
+Extraordinary loss on early extinguishment of debt,
+   less applicable income tax benefit of $564                                        --               --           (1,222)
+                                                                              -------------------------------------------
+     Net earnings                                                             $     813        $   4,320        $   5,163
+=========================================================================================================================
+
+Earnings from continuing operations per common share                          $     .12        $     .66        $     .23
+Loss from discontinued operations per common share                                   --               --            (1.11)
+Gain on the sale of discontinued operations per common share                         --               --             1.93
+Extraordinary loss on early extinguishment of debt per common share                  --               --             (.20)
+                                                                              -------------------------------------------
+   Basic net earnings per common share                                        $     .12        $     .66        $     .85
+=========================================================================================================================
+
+
+Earnings from continuing operations per common share                          $     .08        $     .42        $     .17
+Loss from discontinued operations per common share                                   --               --             (.80)
+Gain on the sale of discontinued operations per common share                         --               --             1.39
+Extraordinary loss on early extinguishment of debt per common share                  --               --             (.15)
+                                                                              -------------------------------------------
+   Diluted earnings per common share                                          $     .08        $     .42        $     .61
+==========================================================================================================================
+
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+<TABLE>
+
+Consolidated Balance Sheets
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands)
+<CAPTION>
+
+March 31,                                                                                                   2001                2000
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                                    <C>                <C>
+
+Assets:
+Current Assets:
+   Cash and short-term investments                                                                     $   5,391           $  11,348
+   Accounts receivable, less allowance for doubtful accounts
+     of $632 and $469, respectively                                                                       31,510              31,702
+   Inventories:
+     Finished products                                                                                   178,415             156,349
+     In process                                                                                           13,297               4,610
+     Raw materials and supplies                                                                           37,458              42,214
+   Deferred income tax asset                                                                               5,602               4,812
+   Prepaid expenses                                                                                        1,308                 528
+                                                                                                       -----------------------------
+       Total Current Assets                                                                              272,981             251,563
+- ------------------------------------------------------------------------------------------------------------------------------------
+Other Assets                                                                                               3,802               7,831
+- ------------------------------------------------------------------------------------------------------------------------------------
+Property, Plant, and Equipment:
+   Land                                                                                                    7,618               5,700
+   Building                                                                                               94,822              94,525
+   Equipment                                                                                             256,703             264,454
+                                                                                                       -----------------------------
+                                                                                                         359,143             364,679
+Less accumulated depreciation and amortization                                                           191,693             185,533
+                                                                                                       -----------------------------
+       Net Property, Plant, and Equipment                                                                167,450             179,146
+- ------------------------------------------------------------------------------------------------------------------------------------
+         Total Assets                                                                                  $ 444,233            $438,540
+====================================================================================================================================
+
+Liabilities and Stockholders' Equity
+Current Liabilities:
+   Notes payable                                                                                       $  24,500           $       -
+   Accounts payable                                                                                       39,726              48,699
+   Accrued expenses                                                                                       26,423              25,033
+   Current portion of long-term debt and capital lease obligations                                        18,622               8,214
+   Income taxes                                                                                              343                 645
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+     Total Current Liabilities                                                                           109,614              82,591
+Long-Term Debt                                                                                           164,251             182,468
+Capital Lease Obligations                                                                                  7,095               7,500
+Deferred Gain and Other Liabilities                                                                        6,382               8,599
+Deferred Income Taxes                                                                                      7,132               8,383
+                                                                                                       -----------------------------
+       Total Liabilities                                                                                 294,474             289,541
+- ------------------------------------------------------------------------------------------------------------------------------------
+Commitments (Note 5)                                                                                           -                  -
+Stockholders' Equity:
+   Preferred stock                                                                                        42,741              42,940
+   Common stock                                                                                            2,825               2,822
+                                                                                                       -----------------------------
+     Total Capital Stock                                                                                  45,566              45,762
+   Additional paid-in capital                                                                             13,555              13,359
+   Accumulated other comprehensive income                                                                    961                 991
+   Retained earnings                                                                                      89,677              88,887
+                                                                                                       -----------------------------
+       Total Stockholders' Equity                                                                        149,759             148,999
+- ------------------------------------------------------------------------------------------------------------------------------------
+         Total Liabilities and Stockholders' Equity                                                    $ 444,233           $ 438,540
+====================================================================================================================================
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+<PAGE>
+<TABLE>
+Consolidated Statements of Cash Flows
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands)
+<CAPTION>
+Years ended March 31,                                                                    2001             2000              1999
+- -------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                 <C>              <C>               <C>
+
+Cash flows from operating activities:
+   Net earnings                                                                     $     813        $   4,320         $   5,163
+   Adjustments to reconcile net earnings to
+     net cash provided by (used in) operations:
+       Depreciation and amortization                                                   23,733           23,554            27,641
+       Deferred income taxes                                                           (2,071)             (87)              (49)
+       Gain on the sale of assets                                                      (1,370)            (965)         (24,057)
+       Impairment provision and other expenses                                          2,341            2,219             3,354
+       Changes in operating assets and liabilities:
+         Accounts receivable                                                              192            4,015            12,930
+         Inventories                                                                  (25,997)          (6,961)            7,243
+         Prepaid expenses                                                                (780)             383               720
+         Accounts payable, accrued expenses, and other liabilities                    (11,243)          22,770            (7,817)
+         Income taxes                                                                    (302)             336             1,885
+                                                                                    --------------------------------------------
+       Net cash provided by (used in) operations                                      (14,684)          49,584            27,013
+- --------------------------------------------------------------------------------------------------------------------------------
+
+
+Cash flows from investing activities:
+   Additions to property, plant, and equipment                                        (15,395)         (19,875)           (9,494)
+   Escrow fund                                                                          4,011           (5,326)                -
+   Proceeds from the sale of assets                                                     2,683            1,790            65,270
+   Disposals of property, plant, and equipment                                          1,147              159               400
+   Acquisitions                                                                             -          (43,481)                -
+                                                                                    --------------------------------------------
+       Net cash provided by (used in) investing activities                             (7,554)         (66,733)           56,176
+- --------------------------------------------------------------------------------------------------------------------------------
+
+Cash flows from financing activities:
+   Net (payments) borrowings on notes payable                                          24,500                -           (62,270)
+   Payments of long-term debt and capital lease obligations                            (8,214)          (8,511)          (43,401)
+   Dividends paid                                                                         (23)             (23)              (23)
+   Other assets                                                                            18               28              (281)
+   Proceeds from issuance of long-term debt                                                 -            6,000                 -
+   Equity issue                                                                             -                -            49,712
+                                                                                    --------------------------------------------
+       Net cash provided by (used in) financing activities                             16,281           (2,506)          (56,263)
+- --------------------------------------------------------------------------------------------------------------------------------
+
+Net increase (decrease) in cash and short-term investments                             (5,957)         (19,655)           26,926
+Cash and short-term investments, beginning of year                                     11,348           31,003             4,077
+                                                                                   ---------------------------------------------
+Cash and short-term investments, end of year                                        $   5,391        $  11,348         $  31,003
+================================================================================================================================
+
+Supplemental disclosures of cash flow information: Cash paid during the year
+   for:
+     Interest                                                                       $  17,235        $  16,264         $  24,259
+     Income taxes                                                                       1,994            2,171               451
+<FN>
+Supplemental information of noncash investing and financing activities:
+In 2000, a $4,978 unsecured subordinated note was issued in conjunction with the
+acquisition of assets.
+===============================================================================================================================
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+Consolidated Statements of Stockholders' Equity
+
+Seneca Foods Corporation and Subsidiaries
+(In thousands, except share amounts)
+<CAPTION>
+                                        Preferred Stock
+                        -------------------------------------------------
+                                    6%             10%     Participating
+                        Cumulative Par  Cumulative Par   Convertible Par                                                Accumulated
+                            Value $.25     Value $.025       Value $.025         Class A          Class B  Additional         Other
+                       Callable at Par     Convertible      Stated Value    Common Stock    Common Stock      Paid-In Comprehensive
+                                Voting          Voting            $11.93  Par Value $.25  Par Value $.25      Capital        Income
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+Shares authorized              200,000       1,400,000        4,166,667       20,000,000       10,000,000
+=========================================================================================================
+Shares issued and outstanding:
+
+    March 31, 1999             200,000         807,240        3,885,869        3,480,719        2,791,017
+=========================================================================================================
+
+    March 31, 2000             200,000         807,240        3,593,140        3,797,388        2,767,357
+=========================================================================================================
+
+    March 31, 2001             200,000         807,240        3,576,433        3,814,095        2,767,357
+=========================================================================================================
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+Balance March 31, 1998             $50             $20               $--          $  786        $   1,880      $ 5,913     $ 1,026
+
+   Net earnings                     --              --                --              --              --            --          --
+   Cash dividends paid
+     on preferred stock             --              --                --              --              --            --          --
+   Equity issue                     --              --            49,712              --              --            --          --
+   Preferred stock conversion       --              --            (3,349)             71              --         3,278          --
+   Common stock conversion          --              --                --              --              (2)            2          --
+   Stock issuance                   --              --                --              13              --           747          --
+   Net unrealized loss on
+     investments                    --              --                --              --              --            --        (149)
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+Balance March 31, 1999              50              20            46,363             870            1,878        9,940         877
+
+
+   Net earnings                     --              --                --              --              --            --          --
+   Cash dividends paid
+     on preferred stock             --              --                --              --              --            --          --
+   Preferred Stock Conversion       --              --            (3,493)             80              --         3,413          --
+   Common Stock Conversion          --              --                --              --              (6)            6          --
+   Net unrealized gain on
+     investments                    --              --                --              --              --            --         114
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+Balance March 31, 2000              50             20             42,870             950            1,872       13,359         991
+
+
+   Net earnings                     --             --                 --              --              --           --           --
+   Cash dividends paid
+     on preferred stock             --             --                 --              --              --           --           --
+   Preferred Stock Conversion       --             --               (199)              3              --          196           --
+   Common Stock Conversion          --             --                 --              --              --           --           --
+   Net unrealized loss on
+     investments                    --             --                 --              --              --           --          (30)
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+Balance March 31, 2001             $50             $20        $  42,671             $953          $ 1,872     $13,555      $   961
+====================================================================================================================================
+
+
+
+
+
+
+                               Retained     Comprehensive
+                               Earnings     Income (Loss)
+- ---------------------------------------------------------
+<S>                            <C>          <C>
+
+
+
+
+
+
+
+
+- -----------------------------------------------------------
+
+Balance March 31, 1998           $79,450                  -
+
+   Net earnings                    5,163           $  5,163
+   Cash dividends paid
+     on preferred stock              (23)                --
+   Equity issue                       --                 --
+   Preferred stock conversion         --                 --
+   Common stock conversion            --                 --
+   Stock issuance                     --                 --
+   Net unrealized loss on
+     investments                      --               (149)
+- -----------------------------------------------------------
+
+Balance March 31, 1999            84,590           $  5,014
+                                                ===========
+
+   Net earnings                    4,320           $  4,320
+   Cash dividends paid
+     on preferred stock              (23)                --
+   Preferred Stock Conversion         --                 --
+   Common Stock Conversion            --                 --
+   Net unrealized gain on
+     investments                      --                114
+- -----------------------------------------------------------
+
+Balance March 31, 2000            88,887           $  4,434
+                                               ============
+
+   Net earnings                      813           $    813
+   Cash dividends paid
+     on preferred stock              (23)                --
+   Preferred Stock Conversion         --                 --
+   Common Stock Conversion            --                 --
+   Net unrealized loss on
+     investments                      --                (30)
+- -----------------------------------------------------------
+
+Balance March 31, 2001         $  89,677            $   783
+===========================================================
+
+<FN>
+See notes to consolidated financial statements.
+</FN>
+</TABLE>
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements
+
+Seneca Foods Corporation and Subsidiaries
+
+1.  Summary of Significant Accounting Policies
+
+Nature of Operations - The Company conducts its business almost entirely in food
+processing,  operating  22 plants and  warehouses  in five  states.  The Company
+markets branded and private label processed foods to retailers and institutional
+food distributors.
+
+Principles of Consolidation - The consolidated  financial statements include the
+accounts for the parent Company and all of its wholly-owned  subsidiaries  after
+elimination of intercompany transactions, profits, and balances.
+
+Revenue  Recognition  - Sales and related  cost of product  sold are  recognized
+primarily upon shipment of products. When customers, under the terms of specific
+orders,  request  that the Company  invoice  goods and hold the goods for future
+shipment,  the Company recognizes revenue when legal title to the finished goods
+inventory passes to the purchaser. Generally, the Company receives cash from the
+purchaser when legal title passes.
+
+Concentration of Credit Risk - Financial  instruments  that potentially  subject
+the Company to credit risk  consist of trade  receivables  and  interest-bearing
+investments.  Wholesale  and retail  food  distributors  comprise a  significant
+portion  of  the  trade  receivables;  collateral  is  not  required.  The  risk
+associated  with  the  concentration  is  limited  due to the  large  number  of
+wholesalers and retailers and their  geographic  dispersion.  The Company places
+substantially all its interest-bearing  investments with financial  institutions
+and  monitors  credit  exposure.  Cash and  short-term  investments  in  certain
+accounts  exceed  the  federal  insured  limit,  however,  the  Company  has not
+experienced any losses in such accounts.
+
+Cash and  Short-Term  Investments  - The  Company  considers  all highly  liquid
+instruments  purchased  with a maturity  of three  months or less as  short-term
+investments.
+
+Inventories  -  Inventories  are  stated at lower of cost;  first-in,  first-out
+(FIFO); or market.
+
+Income Taxes - The provision for income taxes  includes  federal,  foreign,  and
+state income taxes  currently  payable and those  deferred  because of temporary
+differences  between  the  financial  statement  and tax  bases  of  assets  and
+liabilities.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+Earnings per Common Share
+
+A  reconciliation  of basic earnings per share from  continuing  operations with
+diluted earnings per share from continuing operations follows:
+
+Years ended March 31,                        2001          2000          1999
+- -----------------------------------------------------------------------------
+
+                                        (In thousands, except per share amounts)
+Basic
+
+Earnings from continuing operations   $       813   $     4,320   $     1,420
+Deduct preferred stock dividends paid          23            23            23
+                                      ---------------------------------------
+
+Basic earnings                        $       790   $     4,297   $     1,397
+=============================================================================
+
+
+Weighted average common shares outstanding  6,577         6,498         6,082
+=============================================================================
+
+
+Basic earnings per share              $       .12   $       .66   $       .23
+=============================================================================
+
+Diluted
+
+Basic earnings                        $       790   $     4,297   $     1,397
+Add dividends on convertible
+  preferred stock                              20            20            20
+                                      ---------------------------------------
+
+Earnings applicable to common stock on a
+   diluted basis                      $       810   $     4,317   $     1,417
+=============================================================================
+
+Shares used in calculating earnings per
+   share above                              6,577         6,498         6,082
+Additional shares to be issued under full
+   conversion of preferred stock            3,648         3,727         2,396
+                                      ---------------------------------------
+
+Total shares for diluted                   10,225        10,225         8,478
+=============================================================================
+
+Diluted earnings per share            $       .08   $       .42   $       .17
+=============================================================================
+
+
+Depreciation - Property, plant, and equipment are stated at cost or, in the case
+of capital  leases,  the present value of future lease  payments.  For financial
+reporting,  the Company provides for depreciation and capital lease amortization
+on the  straight-line  method at rates based upon the estimated  useful lives of
+the various assets.  Impairment losses are recognized when the carrying value of
+an asset  exceeds its fair  value.  The Company  regularly  assesses  all of its
+long-lived  assets for  impairment.  An impairment loss of $898,000 and $518,000
+was recognized in 2001 and 2000, respectively,  and was included in Other Income
+and Expenses  (see Other Income and Expenses,  note 11). An  impairment  loss of
+approximately  $3,354,000 was recognized in 1999 of which $2,036,000 is included
+in Other  Income and  Expenses  (see Other  Income  and  Expenses,  note 11) and
+$1,318,000 is included in discontinued operations.
+
+Use of Estimates in the Preparation of Financial Statements - The preparation of
+financial statements in conformity with accounting principles generally accepted
+in the United  States of  America  requires  management  to make  estimates  and
+assumptions  that affect the reported  amount of assets and  liabilities and the
+disclosure of  contingent  assets and  liabilities  at the date of the financial
+statements,  as well as the related  revenues and expenses  during the reporting
+period. Actual amounts could differ from those estimated.
+
+
+Recently Issued Accounting Standards - Since June 1998, the Financial Accounting
+Standards  Board  (FASB)  has  issued  SFAS Nos.  133,  137 and 138  related  to
+"Accounting for Derivative Instruments and Hedging Activities" (SFAS No. 133, as
+amended or  Statements).  These  Statements  establish  accounting and reporting
+standards requiring that every derivative  instrument be recorded on the balance
+sheet as either an asset or liability measured at its fair value. The Statements
+require that changes in the derivative's  fair value be recognized  currently in
+earnings  unless specific hedge  accounting  criteria are met, in which case the
+gains or losses would offset the related results of the hedged item.
+
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+The Company currently does not have any freestanding derivative instruments. The
+Company  is in  the  process  of  performing  a  review  to  identify  potential
+derivatives  embedded  in  other  contracts.   The  Company  is  adopting  these
+Statements  as of April 1, 2001 and is not  expecting  a material  impact on its
+consolidated financial statements.
+
+In May 2000, the Emerging Issues Task Force (EITF),  a subcommittee of the FASB,
+issued EITF No. 00-10  "Accounting  for  Shipping and Handling  Fees and Costs."
+EITF No. 00-10  addresses the income  statement  classification  of shipping and
+handling  fees and costs.  The  Company's  net sales and cost of sales have been
+reclassified  to reflect these  expenses in cost of sales,  consistent  with the
+classification  of other shipping and handling related costs. The impact of this
+change increased net sales by $17.4 million, $16.1 million and $11.9 million for
+the years ended March 31, 2001, 2000, and 1999, respectively.  Additionally, the
+impact of this change  increased cost of sales by $17.9 million,  $17.3 million,
+and  $12.2  million  for the  years  ended  March  31,  2001,  2000,  and  1999,
+respectively,  and decreased selling,  general,  and administrative  expenses by
+$0.5 million,  $1.2 million and $0.3 million for the years ended March 31, 2001,
+2000,  and  1999,  respectively.  There is no impact on  results  of  operations
+resulting from this change.
+
+In  2000,  the  EITF  issued  EITF  No.  00-14  "Accounting  for  Certain  Sales
+Incentives."  The EITF  subsequently  amended the transition  provisions of this
+EITF in  November  2000 to require  application  no later than  fiscal  quarters
+beginning after March 15, 2001.  EITF No. 00-14  prescribes  guidance  regarding
+timing of recognition and income statement classifications of costs incurred for
+certain sales incentive programs. This guidance requires certain coupons, rebate
+offers and free products offered concurrently with a single exchange transaction
+to be  recognized  at the later of the date at which the  revenue is recorded or
+the date at which the sales  incentive is offered and reported as a reduction of
+revenue.  The Company's current  accounting and  classification of these amounts
+are in compliance with the consensus reached in this EITF.
+
+In January  2001,  the EITF issued EITF No.  00-22,  "Accounting  for Points and
+Certain Other Time-Based or Volume-Based  Sales Incentive Offers, and Offers for
+Free  Products  or Services  to be  Delivered  in The  Future."  EITF No.  00-22
+prescribes  guidance  regarding  timing  of  recognition  and  income  statement
+classification of costs incurred in connection with offers of "free" products or
+services  that  are  exercisable  by an end  consumer  as a  result  of a single
+exchange transaction with the retailer which will not be delivered by the vendor
+until a future date.  This  guidance  requires  certain  rebate  offers and free
+products that are delivered  subsequent to a single  exchange  transaction to be
+reported as a reduction of revenue and recognized based on systematic allocation
+of the costs to the underlying revenue  transactions that result in the consumer
+earning the rebate or refund.  The guidance in this EITF was  effective  for the
+Company for the quarter ended March 31, 2001. The Company's  current  accounting
+and  classification of these types of costs are in compliance with the consensus
+reached in this EITF.
+
+Reclassifications  - Certain previously  reported amounts have been reclassified
+to conform to the current period classification.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+2.  Common Stock of Moog Inc.
+
+Other assets  include the  Company's  investment  in the Class B Common Stock of
+Moog Inc. totaling $2,264,000 as of March 31, 2001 and 2000, which is classified
+as an  available-for-sale  security and is carried at fair value.  There were no
+realized gains or losses in 2001, 2000, and 1999, and gross  unrealized  holding
+gains were $1,548,000,  $1,548,000,  and $1,379,000, as of March 31, 2001, 2000,
+and 1999, respectively.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+3.  Lines of Credit
+
+The Company obtains required  short-term  funds through bank  borrowings.  As of
+March 31, 2001, the Company had $3,235,988  outstanding for letters of credit, a
+committed revolving line of credit totaling  $20,000,000,  and uncommitted lines
+of credit  totaling  $81,000,000.  The lines are  renewable  annually at various
+dates  and  provide  for  loans  of  varying  maturities.  There  are no  formal
+compensating balance arrangements with any of the banks.
+
+As of March 31, 2001 and 2000,  the amounts  borrowed  under the lines of credit
+were $24,500,000 and none,  respectively.  The weighted average interest rate on
+the amounts borrowed during fiscal 2001 was 8.01%. The Company had no short-term
+bank borrowings throughout fiscal 2000.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+4.  Long-Term Debt
+<TABLE>
+<CAPTION>
+                                                                                                               2001           2000
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                   (In thousands)
+<S>                                                                                                     <C>              <C>
+Note payable to insurance company, 10.78%, due through 2005                                             $    44,700      $  44,700
+Secured nonrecourse subordinated promissory note, 8.00%, due through 2009                                    61,083         64,583
+Unsecured subordinated promissory note, 8.00%, due through 2009                                               4,978          4,978
+Note payable to insurance company, 10.81%, due through 2009                                                  42,500         46,250
+Industrial Revenue Development Bonds, 6.30% and 5.62%, due through 2028                                      22,630         22,630
+Industrial Revenue Development Bond, 5.69%, due through 2009                                                  5,342          5,812
+Other                                                                                                         1,235          1,339
+                                                                                                        --------------------------
+
+                                                                                                            182,468        190,292
+Less current portion                                                                                         18,217          7,824
+                                                                                                        --------------------------
+
+                                                                                                        $   164,251      $ 182,468
+                                                                                                        ==========================
+</TABLE>
+
+Long-term debt agreements contain various restrictive  financial covenants,  the
+most  restrictive of which requires the Company to maintain  specific  quarterly
+levels of interest coverage.  In addition,  these agreements include a provision
+that the Company may pay dividends on any class of stock only from  consolidated
+net earnings  available for distribution.  There were no earnings  available for
+distribution as of March 31, 2001.
+
+The Company has four Industrial  Revenue Bonds ("IRB's")  totaling  $22,630,000,
+which are secured by direct pay  letters of credit.  The  interest  rates in the
+table above reflect the direct pay letters of credit costs and  amortization  of
+other related costs for those IRB's.
+
+Debt repayment requirements for the next five fiscal years are:
+
+                                         (In thousands)
+                                   2002              $18,217
+                                   2003               21,240
+                                   2004               21,276
+                                   2005               21,313
+                                   2006                9,228
+
+During 1999,  the Company paid off  $15,000,000 of its  outstanding  9.17% notes
+payable due 2004 and prepaid two annual  principal  installments  of $8,400,000,
+each due February 23 in 2000 and 2001,  of its  outstanding  10.78% note payable
+due 2005. The prepayment  penalty paid for the early  extinguishment of the debt
+totaled $1,786,000,  before the applicable income tax benefit of $564,000, which
+has been accounted for as a net extraordinary loss of $1,222,000.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+5.  Leases
+
+The Company leases a portion of its equipment and buildings.  Capitalized leases
+consist  primarily  of limited  obligation  special  revenue  bonds,  which bear
+interest  rates  from  3.55%  to  4.75%.  Other  leases  include  non-cancelable
+operating leases expiring at various dates through 2013.
+
+Leased assets under capital leases consist of the following:
+
+                                                        2001              2000
+- ------------------------------------------------------------------------------
+                                                           (In thousands)
+
+Land                                                 $    67           $    67
+Buildings                                              1,033             1,033
+Equipment                                              9,711             9,711
+                                                     -------------------------
+                                                      10,811            10,811
+  Less accumulated amortization                        6,325             5,381
+                                                     -------------------------
+                                                     $ 4,486           $ 5,430
+==============================================================================
+
+The following is a schedule by year of minimum payments due under leases as of
+March 31, 2001:
+
+                                                   Operating         Capital
+- ----------------------------------------------------------------------------
+                                                         (In thousands)
+Years ending March 31:
+  2002                                              $ 5,631        $    717
+  2003                                                4,714             721
+  2004                                                3,966             718
+  2005                                                3,300             720
+  2006                                                2,919             716
+  2007-2016                                           7,210           6,460
+                                              -----------------------------
+
+  Total minimum payment required                    $27,740        $ 10,052
+===========================================================
+
+Less interest                                                         2,552
+                                                             --------------
+  Present value of minimum lease payments                             7,500
+Amount due within one year                                              405
+                                                             --------------
+  Long-term capital lease obligations                               $ 7,095
+===========================================================================
+
+Aggregate continuing rental expense in 2001, 2000, and 1999 was $11,762,000,
+$10,612,000, and $9,863,000, respectively.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+6.  Income Taxes
+
+The Company files a consolidated income tax return. The provision for income
+taxes for continuing operations is as follows:
+
+                                          2001           2000          1999
+                                    ---------------------------------------
+                                                   (In thousands)
+       Current:
+         Federal                     $  1,286       $  2,233        $   405
+         State                            151            413            100
+                                     --------------------------------------
+                                        1,437          2,646            505
+                                     --------------------------------------
+       Deferred:
+         Federal                         (973)           (59)            69
+         State                           (115)           (19)           (17)
+                                     --------------------------------------
+                                       (1,088)           (78)            52
+                                     --------------------------------------
+        Total income taxes           $    349       $  2,568        $   557
+                                     ======================================
+
+
+
+As of March 31,  2001,  the Company has  Alternative  Minimum Tax Credits in the
+amount of  $5,036,000 to offset  future  years'  regular tax expense.  State net
+operating loss  carryforwards  of approximately  $9,500,000,  expiring March 31,
+2002 through March 31, 2118, are available to offset future state tax expense.
+
+During  fiscal year 2001,  the Internal  Revenue  Service  completed an audit of
+fiscal years 1997, 1998 and 1999. Audit adjustments related primarily to changes
+in the  timing of  deductions  for income tax  purposes.  There was no  negative
+effect on the Company's income statement for the year.
+
+A reconciliation  of the expected U.S.  statutory rate to the effective rate for
+continuing operations follows:
+
+                                         2001             2000            1999
+ -----------------------------------------------------------------------------
+
+ Computed (expected tax rate)            34.0%            34.0%           34.0%
+ Tax-exempt income                       (8.8)            (0.9)          (11.3)
+ State income taxes (net of
+   federal tax benefit)                   5.7              3.7             8.5
+ Other                                   (0.9)             0.5            (3.0)
+                                         -------------------------------------
+
+   Effective tax rate                    30.0%            37.3%           28.2%
+ =============================================================================
+
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+The  following  is a summary  of the  significant  components  of the  Company's
+deferred tax assets and liabilities as of March 31, 2001 and 2000:
+
+                                                 2001               2000
+ -----------------------------------------------------------------------
+                                                      (In thousands)
+ Deferred tax liabilities:
+   Basis and depreciation difference         $  15,231          $  18,455
+   Inventory valuation                               -                724
+   Moog investment                                 588                557
+                                             ----------------------------
+                                                15,819             19,736
+                                             ----------------------------
+
+
+ Deferred tax assets:
+   Inventory valuation                           2,202                948
+   Future tax credits                            5,036              5,671
+   Net operating loss carryforwards                753              1,033
+   Employee benefits                             1,816              1,827
+   Pension                                       1,763              1,934
+   Insurance                                     1,261              1,818
+   Deferred gain on sale/leaseback               1,136              1,218
+   Impairment                                       82              1,534
+   Other                                           240                182
+                                               --------------------------
+                                                14,289             16,165
+                                               --------------------------
+      Net deferred tax liability              $  1,530          $   3,571
+ =========================================================================
+
+
+Net current  deferred tax assets of  $5,602,000  and  $4,812,000 as of March 31,
+2001 and 2000, respectively,  are recognized in the Consolidated Balance Sheets.
+Also recognized are net  non-current  deferred tax liabilities of $7,132,000 and
+$8,383,000 as of March 31, 2001 and 2000, respectively.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+7.  Stockholders' Equity
+
+Preferred Stock - During  September  1998, the Company  completed an equity sale
+that raised  $49,998,000  before  issuance  costs of $286,000.  This equity sale
+consisted of a Rights Offering to the Company's common  shareholders and a Stock
+Purchase Agreement with certain investors.  A new class of preferred stock ("New
+Preferred Stock") was issued, which is convertible, participating, and has a $12
+stated  value,  which is now $11.93  due to issue  costs.  The  Rights  Offering
+consisted of a distribution  payable to holders of the Company's  Class A Common
+Stock at a rate of 1/2 right for each share held to purchase  the New  Preferred
+Stock at $12 per  share.  The  shares of New  Preferred  Stock  are  convertible
+immediately  on a  share-for-share  basis into  shares of Class A Common  Stock.
+Holders of the Company's common stock acquired 1,146,639 shares of new preferred
+stock for a total investment of $13,759,000.  Certain investors acquired a total
+of 3,019,895 shares of New Preferred Stock for a total investment of $36,239,000
+under  the  Stock  Purchase  Agreement.  There  were no  dividends  on this  New
+Preferred Stock.
+
+The outstanding 10% cumulative,  convertible, voting preferred stock consists of
+407,240 Series A shares,  convertible at the rate of one common share of Class A
+and Class B for every  twenty  preferred  shares,  and 400,000  Series B shares,
+which carry a one for thirty  conversion  rate. The Series A and B shares have a
+$.025 stated value and a $.025 par value.  There are 2,633,333 shares authorized
+of Class A $.025 par  value  stock,  which are  unissued  and  undesignated.  In
+addition  there are 30,000  shares of no par stock,  which are also unissued and
+undesignated.
+
+Common Stock - In September  1998, an amendment to the Company's  Certificate of
+Incorporation,  which created the new class of preferred stock described  above,
+increased  the  number  of  authorized  shares  of  Class A  Common  Stock  from
+10,000,000 to 20,000,000 shares. The Class A Common Stock and the Class B Common
+Stock have  substantially  identical  rights with  respect to any  dividends  or
+distributions  of cash or property  declared on shares of common  stock and rank
+equally as to the right to receive proceeds on liquidation or dissolution of the
+Company after payment of the Company's indebtedness and liquidation right to the
+holders of preferred shares.  However,  holders of Class B Common Stock retain a
+full vote per share  whereas  the  holders of Class A Common  Stock have  voting
+rights of 1/20th of one vote per share on all  matters as to which  shareholders
+of the Company are entitled to vote.
+
+Unissued  shares of common stock reserved for conversion  privileges were 33,695
+of Class A and Class B as of March 31, 2001 and 2000.  Additionally,  there were
+3,576,433  and  3,593,140  shares of Class A reserved for  conversion of the New
+Preferred Stock as of March 31, 2001 and 2000, respectively.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+8.  Retirement Plans
+
+The Company has a  noncontributory  defined  benefit  pension plan  covering all
+employees  who meet  certain age entry  requirements  and work a stated  minimum
+number of hours per year.  Annual  contributions are made to the Plan sufficient
+to satisfy legal funding requirements.
+
+The  following  tables  provide a  reconciliation  of the  changes in the plan's
+benefit  obligation and fair value of plan assets over the two-year period ended
+March  31,  2001 and a  statement  of the  funded  status as of March 31 of both
+years:
+
+                                                  2001                2000
+                                            ------------------------------
+Change in Benefit Obligation                          (In thousands)
+
+Benefit obligation at beginning of year       $ 26,655            $ 26,787
+Service cost                                     2,017               1,781
+Interest cost                                    2,080               1,843
+Actuarial gain (loss)                            2,045              (2,631)
+Benefit payments and expenses                   (1,647)             (1,125)
+- --------------------------------------------------------------------------
+Benefit obligation at end of year             $ 31,150           $  26,655
+==========================================================================
+
+
+Change in Plan Assets
+
+Fair value of plan assets at
+  beginning of year                            $ 23,373            $ 21,800
+Actual return on plan assets                      3,832               2,698
+Employer contributions                            3,595                   -
+Benefit payments and expenses                    (1,647)             (1,125)
+- ---------------------------------------------------------------------------
+Fair value of plan assets at end of year       $ 29,153           $  23,373
+===========================================================================
+
+
+Funded Status
+
+Funded status at end of year                   $ (1,997)           $ (3,281)
+Unrecognized transition asset                    (2,990)             (3,266)
+Unrecognized prior service cost                     125                 219
+Unrecognized gain                                  (255)               (757)
+- ---------------------------------------------------------------------------
+
+Accrued benefit cost                           $ (5,117)          $  (7,085)
+===========================================================================
+
+
+The Plan holds the Company's common stock with a fair market value of
+$2,033,000.
+
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+8.       Retirement Plan (continued)
+
+The following table provides the components of net periodic benefit cost for the
+plan for fiscal years 2001, 2000, and 1999:
+<TABLE>
+<CAPTION>
+                                                           2001                2000                1999
+- -------------------------------------------------------------------------------------------------------
+                                                                        (In thousands)
+<S>                                                    <C>                <C>                  <C>
+
+Service cost                                           $  2,017            $  1,781            $  2,030
+Interest cost                                             2,080               1,843               1,701
+Expected return on plan assets                           (2,288)             (2,013)             (2,499)
+Amortization of transition (assets) obligation             (276)               (276)               (276)
+Amortization of prior service cost                           94                  94                  94
+Amortization of net gain                                      -                   -                (149)
+- -------------------------------------------------------------------------------------------------------
+
+Net periodic benefit cost                              $  1,627            $  1,429            $    901
+=======================================================================================================
+</TABLE>
+
+
+The prior service costs are amortized on a straight-line  basis over the average
+remaining service period of active  participants.  Gains and losses in excess of
+10% of the greater of the benefit  obligation  and the  market-related  value of
+assets  are  amortized  over the  average  remaining  service  period  of active
+participants.
+
+The assumptions  used to measure the Company's  benefit  obligation are shown in
+the following table:
+
+                                                      2001                2000
+- ------------------------------------------------------------------------------
+
+
+   Discount rate                                       7.50%              7.80%
+   Expected return on plan assets                      9.50%              9.50%
+   Rate of compensation increase                       5.00%              5.00%
+
+The Company has an Employees'  Savings Plan (401(k))  covering all employees who
+meet certain age entry  requirements  and work a stated  minimum number of hours
+per  year.  Participants  may make  contributions  up to the  legal  limit.  The
+Company's matching contributions are discretionary.  Costs charged to operations
+for the Company's matching  contributions  amounted to $875,000,  $761,000,  and
+$808,000 in 2001, 2000, and 1999, respectively.
+
+9.  Fair Value of Financial Instruments
+
+The carrying  amounts and the estimated  fair values of the Company's  financial
+instruments are summarized as follows:
+<TABLE>
+<CAPTION>
+                                                                                             2001                     2000
+                                                                                     -----------------------------------------------
+                                                                                     Carrying    Estimated     Carrying    Estimated
+                                                                                       Amount   Fair Value       Amount   Fair Value
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                       (In thousands)
+<S>                                                                                  <C>          <C>         <C>           <C>
+
+Long-term debt, including current portion                                            $182,468     $179,603     $190,292     $187,140
+Notes payable                                                                          24,500       24,500            -            -
+Class B Common Stock of Moog Inc.                                                       2,264        2,264        2,264        2,264
+
+The estimated fair values were determined as follows:
+
+     Long-term debt - The quoted market prices for similar debt or current rates
+     offered to the Company for debt with the same maturities.
+
+     Notes payable - The carrying amount approximates fair value due to the
+     short-term maturity of the notes.
+
+     Class B Common Stock of Moog Inc. - Based on quoted market prices.
+
+</TABLE>
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+10. Acquisition
+
+In 2000, the Company acquired certain assets of the Midwest private label canned
+vegetable  business  from Agrilink  Foods,  Inc., a  wholly-owned  subsidiary of
+Pro-Fac  Cooperative,  for  approximately  $48 million.  The Company purchased a
+plant  and  related  equipment  for  $5  million  in  Arlington,  Minnesota  and
+inventories of the acquired  business for $43 million.  The annual sales of this
+business are approximately $73 million.  The purchase price was partially funded
+by a subordinated note for $5 million while the balance was paid in cash.
+
+The fiscal 2000 and 1999 results of operations on a proforma basis, assuming the
+Agrilink acquisition occurred at the beginning of the periods, are as follows:
+
+
+                                              2000                      1999
+- ----------------------------------------------------------------------------
+                                                         (Unaudited)
+                                       (In thousands, except per share amounts)
+
+ Net sales                               $ 664,698                 $ 665,347
+ ===========================================================================
+ Net earnings from continuing operations
+   before extraordinary item             $   4,118                 $   1,107
+ ===========================================================================
+ Basic net earnings from continuing
+   operations before extraordinary
+   item per share                        $     .63                 $     .18
+ ===========================================================================
+
+
+This acquisition was accounted for under the purchase  method,  and accordingly,
+the  operating  results  of the  acquired  business  have been  included  in the
+consolidated operating results since the acquisition date.
+
+
+<PAGE>
+
+
+Notes to Consolidated Financial Statements (continued)
+
+11.  Other Income and Expense
+
+Other expense in 2001 consisted of the  following:  1) a gain on the sale of the
+Othello,  Washington  facility of $1,151,000;  2) a loss of $1,443,000  which is
+related  primarily  to  exiting a line of  business;  3) an  impairment  loss of
+$898,000;  and 4) a gain  on the  sale  of the  Buckley,  Michigan  facility  of
+$219,000.
+
+Other expense in 2000 consisted of the following:  1) a loss of $2,219,000 which
+is related primarily to exiting a line of business; and 2) a gain on the sale of
+the Chicopee, Massachusetts warehouse of $965,000.
+
+Other income in 1999 consisted of the  following:  1) a gain on the sale of land
+in Rochester,  Minnesota of $6,220,000;  2) a gain on the sale of an aircraft of
+$650,000; and 3) an impairment loss of $2,036,000.
+
+12.  Sales Information
+
+The Company sold $241,492,000,  $209,872,000 and $246,760,000, representing 36%,
+34% and 42% of net sales, to one customer in 2001, 2000 and 1999, respectively.
+
+13.      Segment Information
+
+The Company  manages its business on the basis of one  reportable  segment - the
+processing  and sale of  vegetables.  The Company  markets  its  product  almost
+entirely  in the United  States.  The Company  has an  Alliance  Agreement  with
+Pillsbury  whereby  the  Company  processes  canned  and frozen  vegetables  for
+Pillsbury  under  the  Green  Giant  brand  name.   Pillsbury  continues  to  be
+responsible for all of the sales, marketing,  and customer service functions for
+the Green  Giant  products.  In 2001,  2000,  and 1999,  the sale of Green Giant
+vegetables account for 43%, 42%, and 49% of net sales. The following information
+is presented in accordance with SFAS No. 131,  "Disclosure  about Segments of an
+Enterprise and Related Information,":
+
+Classes of similar products/services:    2001           2000            1999
+- ----------------------------------------------------------------------------
+
+                                                   (In thousands)
+Net Sales:
+   Green Giant vegetables           $ 290,346       $ 263,279       $ 289,946
+   Canned vegetables                  326,224         291,436         250,266
+   Frozen vegetables                   22,052          27,889          20,446
+   Fruit and chip products             20,092          21,075          18,117
+   Flight operations                    5,905           5,105           4,225
+   Other                                9,681          12,294           5,049
+- -----------------------------------------------------------------------------
+                                    $ 674,300       $ 621,078       $ 588,049
+=============================================================================
+
+
+14. Discontinued Operations
+
+In December 1998,  the Company sold a significant  portion of its Juice Division
+to Northland Cranberries, Inc., together with an exclusive license to market and
+sell Seneca juice  products,  for  $28,200,000  in cash plus the  assumption  of
+certain liabilities. This transaction resulted in a pre-tax gain on the disposal
+of $6,760,000,  which was recognized  during the Company's  fourth quarter ended
+March 31, 1999.  This sale included plants in Dundee,  New York;  Mountain Home,
+North Carolina;  Jackson,  Wisconsin; a warehouse in Eau Claire, Michigan; and a
+receiving station in Portland, New York.
+
+In  January  1999,  the  Company  completed  the sale to Tree Top,  Inc.  of its
+processing  facility  in  Prosser,  Washington  together  with  its  non-branded
+specialty fruit concentrate business and an exclusive license to market and sell
+the Company's branded  applesauce.  Tree Top paid  approximately  $29,000,000 in
+cash.  This  transaction   resulted  in  a  pre-tax  gain  on  the  disposal  of
+$10,427,000,  which was also  recognized in the Company's  fourth  quarter ended
+March 31, 1999.
+
+As a result of these  sales,  the  disposition  of the Juice  Business  has been
+accounted for as a discontinued operation. Net sales for the Juice Business were
+$121,290,000 in 1999.  Interest  expense  allocated to  discontinued  operations
+includes an  allocation  of  corporate  interest  expense  and amounts  directly
+related to the  discontinued  business.  The  allocation  of corporate  interest
+expense  was based,  in part,  on a ratio of the net assets of the  discontinued
+operations to the sum of  consolidated  net assets and  consolidated  debt.  The
+amount allocated in 1999 totaled $1,567,000.
+
+
+<PAGE>
+
+
+Independent Auditors' Report
+
+To the Board of Directors and Stockholders of
+Seneca Foods Corporation
+Pittsford, New York
+
+We have audited the  accompanying  consolidated  balance  sheets of Seneca Foods
+Corporation  and  subsidiaries  as of March 31,  2001 and 2000,  and the related
+consolidated  statements of net earnings,  stockholders'  equity, and cash flows
+for each of the three years in the period ended March 31, 2001.  These financial
+statements   are  the   responsibility   of  the   Company's   management.   Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the  United  States of  America.  Those  standards  require  that we plan and
+perform the audit to obtain  reasonable  assurance  about  whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audits  provide  a
+reasonable basis for our opinion.
+
+In our opinion,  such consolidated  financial  statements present fairly, in all
+material  respects,  the  financial  position of Seneca  Foods  Corporation  and
+subsidiaries as of March 31, 2001 and 2000, and the results of their  operations
+and their cash flows for each of the three  years in the period  ended March 31,
+2001 in conformity with accounting  principles  generally accepted in the United
+States of America.
+
+
+
+/s/Deloitte & Touche LLP
+
+DELOITTE & TOUCHE LLP
+Rochester, New York
+May 25, 2001
+
+
+
+<PAGE>
+
+
+Notice of Annual Meeting
+
+The 2001 Annual Meeting of Shareholders will be held on Friday,  August 3, 2001,
+beginning at 1:00 P.M. at the  Company's  facilities  at 3736 South Main Street,
+Marion, New York. A formal notice of the meeting together with a proxy statement
+and proxy form will be mailed to shareholders of record as of June 15, 2001.
+
+Additional Information
+
+A copy of the  Company's  Annual  Report on Form 10-K for the fiscal  year ended
+March 31, 2001, as filed with the  Securities and Exchange  Commission,  will be
+provided by the Company to any shareholder who so requests in writing.  Requests
+should  be  sent  to  Philip  G.   Paras,   Seneca   Foods   Corporation,   1162
+Pittsford-Victor Road, Pittsford, New York 14534, or contact us via our web site
+at http://www.senecafoods.com, or e-mail us at senecafoods@senecafoods.com.
+
+Forward-Looking Statements
+
+Except for the historical information contained herein, the matters discussed in
+this  annual  report are  forward-looking  statements  as defined in the Private
+Securities  Litigation  Reform Act (PSLRA) of 1995.  The Company  wishes to take
+advantage  of the  "safe  harbor"  provisions  of the PSLRA by  cautioning  that
+numerous important factors which involve risks and uncertainties,  including but
+not limited to economic,  competitive,  governmental and  technological  factors
+affecting the Company's operations,  markets, products, services and prices, and
+other  factors  discussed  in the  Company's  filings  with the  Securities  and
+Exchange  Commission,  in the future,  could affect the Company's actual results
+and could cause its actual consolidated  results to differ materially from those
+expressed  in any  forward-looking  statement  made by,  or on  behalf  of,  the
+Company.
+
+
+<PAGE>
+
+
+Shareholder Information and Quarterly Results
+
+The Company's  common stock is traded on The NASDAQ  National Stock Market.  The
+3.8 million of Class A  outstanding  shares and 2.8 million  Class B outstanding
+shares are owned by 351 and 343 shareholders of record,  respectively.  The high
+and low prices of the Company's common stock during each quarter of the past two
+years are shown below:
+
+      Class A:               2001                         2000
+                      ----------------------------------------------
+      Quarter          High          Low            High         Low
+      --------------------------------------------------------------
+
+      First           $12.75       $11.00         $15.50       $10.25
+      Second           14.00        11.25          13.75        12.50
+      Third            15.25        12.75          12.75        11.50
+      Fourth           14.13        12.38          11.94        10.69
+
+      Class B:                2001                         2000
+                      -----------------------------------------------
+      Quarter          High          Low            High          Low
+      ---------------------------------------------------------------
+
+      First           $12.25       $10.75         $14.75       $10.00
+      Second           14.88        11.50          13.88        10.50
+      Third            14.75        12.75          12.38        11.25
+      Fourth           14.25        12.75          11.94        10.75
+
+
+The  Company  may pay  dividends  on common  stock  only from  consolidated  net
+earnings  available  for  distribution,  which  were none as of March 31,  2001.
+Payment of dividends to common  stockholders  is made at the  discretion  of the
+Company's  Board of Directors  and depends,  among other  factors,  on earnings,
+capital  requirements,  operating  and financial  condition of the Company.  The
+Company has not declared or paid a common dividend in many years.
+
+The  following is a summary of the  unaudited  interim  results of operations by
+quarter:
+<TABLE>
+<CAPTION>
+
+                                                                         First          Second            Third          Fourth
+- -------------------------------------------------------------------------------------------------------------------------------
+                                                                                      (In thousands, except per share data)
+<S>                                                                  <C>             <C>              <C>             <C>
+
+Year ended March 31, 2001:
+Net sales                                                            $ 131,159       $ 187,774        $ 248,109       $ 107,258
+Gross margin                                                            11,468          13,630           10,821           8,243
+Net earnings (loss)                                                      1,290           2,053           (1,116)         (1.414)
+Basic earnings (loss) per common share                                     .20             .31             (.17)           (.22)
+Diluted earnings (loss) per common share                                   .13             .20             (.17)           (.22)
+
+Year ended March 31, 2000:
+Net sales                                                            $  91,594       $ 185,812        $ 246,333       $  97,339
+Gross margin                                                             9,482           9,368           13,326          13,718
+Net earnings                                                                35             325            2,212           1,748
+Basic earnings per common share                                            .00             .05              .34             .27
+Diluted earnings per common share                                          .00             .03              .22             .17
+
+<FN>
+Earnings for the fourth quarter have historically reflected adjustments of
+previously estimated raw material costs and production levels. Due to the
+dependence on fruit and vegetable yields of the Company's food processing
+segment, interim costing must be estimated. The net sales and gross margin
+amounts have been restated as a result of classifying freight expenses as an
+expense versus a reduction of net sales.
+</FN>
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<FILENAME>e2101.txt
+<DESCRIPTION>SUBSIDIARIES 2001
+<TEXT>
+
+
+                                   Exhibit 21
+
+                              LIST OF SUBSIDIARIES
+
+The following is a listing of subsidiaries 100% owned by Seneca Foods
+Corporation, directly or indirectly:
+
+    Name                                                             State
+
+    Marion Foods, Inc.                                              New York
+    Seneca Foods International, Ltd.                                New York
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<FILENAME>e2301.txt
+<DESCRIPTION>CONSENT 2001
+<TEXT>
+
+
+                                   Exhibit 23
+
+                          INDEPENDENT AUDITORS' CONSENT
+
+We consent to the  incorporation by reference in this  Post-Effective  Amendment
+No. 1 of  Registration  Statement No.  333-12365 of Seneca Foods  Corporation on
+Form S-8 of our reports  dated May 25, 2001,  appearing in and  incorporated  by
+reference in the Annual Report on Form 10-K of Seneca Foods  Corporation for the
+year ended March 31, 2001.
+
+DELOITTE & TOUCHE LLP
+
+Rochester, New York
+June 25, 2001
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
