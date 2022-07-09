@@ -1,0 +1,3320 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Rg3B3fTNW7RupFpVHsjwuw6RCxiW32TImUIHgWA6xzcOoItitctwpdI841Ek5uB9
+ SBTm4P+DUUbvAJDmtUH1Bg==
+
+<SEC-DOCUMENT>0000920049-00-000010.txt : 20000321
+<SEC-HEADER>0000920049-00-000010.hdr.sgml : 20000321
+ACCESSION NUMBER:		0000920049-00-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19991231
+FILED AS OF DATE:		20000320
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TECHNITROL INC
+		CENTRAL INDEX KEY:			0000096763
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		IRS NUMBER:				231292472
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-05375
+		FILM NUMBER:		573567
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1210 NORTHBROOK DR STE 385
+		CITY:			TREVOSE
+		STATE:			PA
+		ZIP:			19053
+		BUSINESS PHONE:		2153552900
+
+	MAIL ADDRESS:	
+		STREET 1:		1210 NORTHBROOK DR
+		STREET 2:		STE 385
+		CITY:			TREVOSE
+		STATE:			PA
+		ZIP:			19053
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K ANNUAL REPORT
+<TEXT>
+
+================================================================================
+
+                                  UNITED STATES
+                        SECURITIES & EXCHANGE COMMISSION
+                             Washington, D. C. 20549
+
+                                    FORM 10-K
+
+[X] Annual Report Pursuant to Section 13 or 15(d) of the Securities
+    Exchange Act of 1934 For the fiscal year ended December 31, 1999
+                                                   -----------------
+                                  or
+[ ] Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+    Act of 1934
+    For the transition period from _______________ to _______________
+
+    Commission File No. 1-5375
+
+                                TECHNITROL, INC.
+               (Exact name of registrant as specified in Charter)
+      PENNSYLVANIA                                      23-1292472
+(State of Incorporation)                   (IRS Employer Identification Number)
+
+          1210 Northbrook Drive, Suite 385, Trevose, Pennsylvania 19053
+               (Address of principal executive offices) (Zip Code)
+
+        Registrant's telephone number, including area code: 215-355-2900
+
+Securities registered pursuant to Section 12(b) of the Act:
+    Title of each class              Name of each Exchange on which registered
+    -------------------              -----------------------------------------
+        Common Stock
+ par value $.125 per share                    New York Stock Exchange
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to the filing
+requirements for at least the past 90 days.
+
+                                 YES [X]     NO [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+The aggregate market value of voting stock held by non-affiliates as of February
+25, 2000 is $641,839,000 computed by reference to the closing price on the New
+York Stock Exchange on such date.
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of February 25, 2000.
+
+                                                 Number of shares outstanding
+     Title of each class                                February 25, 2000
+     -------------------                                -----------------
+         Common stock                                      16,282,098
+  par value $.125 per share
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+                       -----------------------------------
+DOCUMENT                                                      REFERENCE
+- --------                                                      ---------
+The Registrant's definitive Proxy Statement,                   Part III
+dated March 29, 2000, to be used in                       Page 29 of 61 pages
+connection with Registrant's 2000 Annual Meeting
+of Shareholders
+
+                                  Page 1 of 61
+
+
+<PAGE>
+
+
+                                     Part I
+
+Item 1  Business
+
+General
+
+     Technitrol, Inc. is a global manufacturer of electronic and metallurgical
+components. We incorporated in Pennsylvania on April 10, 1947.
+
+     We operate two business segments: the Electronic Components Segment and the
+Metallurgical Components Segment. We refer to these segments as the ECS and the
+MCS. Each segment is managed by a President who reports to our Chief Executive
+Officer. Prior to June 4, 1997, we operated a third segment, the Test &
+Measurement Products Segment. We sold this segment to focus our resources on
+designing, manufacturing and marketing electronic and metallurgical components.
+
+Electronic Components Segment
+
+     Our Electronic Components Segment provides a variety of magnetics-based
+components, miniature chip inductors and modules. These components modify or
+filter electronic signals. They are used primarily in local area network,
+Internet connectivity, telecommunication and power-conversion products. We
+manufacture these products in the United States, Ireland, France, Malaysia,
+Thailand, the Philippines and the People's Republic of China. We sometimes refer
+to the People's Republic of China as the PRC.
+
+     Our strategy is to expand our electronic components business through a
+combination of internal growth and acquiring companies in the electronic
+components business. Acquisitions during the last several years include:
+
+     o Pulse Engineering, Inc. - In 1995, we acquired Pulse Engineering, Inc.,
+       with manufacturing locations in Ireland and China. The addition of Pulse
+       significantly increased the size of our ECS business.
+
+     o The magnetic components business of Northern Telecom, Ltd. - We completed
+       this acquisition on November 30, 1997. The primary assets we purchased
+       included manufacturing plants in Malaysia and Thailand and a design
+       engineering group in Canada. These assets primarily serve the
+       telecommunication and power markets.
+
+     o FEE Technology, S.A. - We purchased FEE on July 3, 1998. FEE designed and
+       manufactured magnetic components for telecommunications and power
+       conversion equipment. With the purchase of FEE, we acquired manufacturing
+       facilities in France, Thailand and Poland. We subsequently closed FEE's
+       Thailand and Poland facilities.
+
+
+                                  Page 2 of 61
+
+<PAGE>
+
+
+     o GTI Corporation - We completed the acquisition of GTI and its subsidiary,
+       Valor Electronics, on November 16, 1998. Valor designed and manufactured
+       magnetics-based components for signal processing and power transfer
+       functions primarily for local area network products and, to a much lesser
+       extent, telecommunication and power-conversion products. Their
+       manufacturing facilities were located in the People's Republic of China
+       and the Philippines. We closed Valor's Philippine facility and have
+       substantially completed the consolidation of Valor's PRC facility into
+       our facilities in the PRC.
+
+
+     Our electronic component businesses operate as a unified business
+throughout the world. This unified business operates under the Pulse name.
+
+Metallurgical Components Segment
+
+     Our Metallurgical Components Segment manufactures:
+
+     o electrical contacts and assemblies;
+
+     o contact materials;
+
+     o thermostatic bimetals;
+
+     o clad metal products; and
+
+     o precision contact subassemblies.
+
+We also provide electroplating and refining services.
+
+     We sell these metallurgical components to a wide range of industrial and
+consumer product manufacturers. Our products are used in a variety of
+applications which affect daily living including:
+
+     o residential, commercial and industrial circuit breakers;
+
+     o motor controls;
+
+     o switches and relays;
+
+     o wiring devices;
+
+     o temperature controls;
+
+     o appliances;
+
+     o automobiles;
+
+     o telecommunications products; and
+
+     o various other electrical products.
+
+
+                                  Page 3 of 61
+
+<PAGE>
+
+
+     In late 1996, we acquired the assets of Doduco GmbH in Germany and Spain to
+support our strategy of increasing market share and the international presence
+of our metallurgical businesses. This business was then combined with our
+existing metallurgical component operations in North America. All of our
+metallurgical component businesses now operate globally under the name AMI
+Doduco.
+
+     In July of 1998, we acquired certain assets of Metales y Contactos, S.A. de
+C.V. Metales designed and manufactured precious and semi-precious metal contacts
+used mainly in automobiles and other durable goods. The Metales facility is
+located near Mexico City.
+
+     During the fourth quarter of 1999, we made two acquisitions and
+substantially completed a third. In November of 1999, we acquired the operating
+assets of the Tianjin Electrical Metal Works electrical contacts business based
+in Tianjin, PRC. On December 22, 1999, we acquired the operating assets of MEC
+Betras Italia S.r.l. MEC Betras, located in Italy, produced electrical contact
+rivets and stamped electrical contact parts. In January of 2000, we completed an
+acquisition of a tool and die design and manufacturing operation near Tallinn,
+Estonia. These most recent acquisitions provide the MCS with additional
+lower-cost operating locations and an enhanced market presence in key areas of
+the business.
+
+     In 1999, the MCS manufactured in the United States, Germany, Spain, Puerto
+Rico and Mexico. We began manufacturing metallurgical products in Italy, the PRC
+and Estonia during the first quarter of 2000.
+
+
+
+                                  Page 4 of 61
+
+<PAGE>
+
+
+Business Segment Financial Information.  Amounts are in thousands:
+
+<TABLE>
+<CAPTION>
+                                                       1999          1998           1997
+                                                       ----          ----           ----
+<S>                                                  <C>           <C>            <C>
+Net sales from continuing operations
+     Electronic Components                           $307,351      $218,876       $179,772
+     Metallurgical Components                         223,085       229,663        217,295
+                                                     --------      --------        -------
+         Total                                       $530,436      $448,539       $397,067
+                                                     ========      ========        =======
+Operating profit before income taxes
+     Electronic Components                           $ 49,893      $ 37,721       $ 30,865
+     Metallurgical Components                          11,296        15,695         14,888
+                                                     --------      --------       --------
+         Total operating profit                      $ 61,189      $ 53,416       $ 45,753
+     Items not included in Segment profit (1)          (2,180)       (1,073)         1,011
+                                                     --------      --------       --------
+     Earnings from continuing operations
+       before income taxes                           $ 59,009      $ 52,343       $ 46,764
+                                                     ========      ========       ========
+Assets at end of year
+     Electronic Components                           $173,027      $177,264       $115,467
+     Metallurgical Components                         111,076       101,422         83,023
+                                                     --------      --------       --------
+         Segment assets                              $284,103      $278,686       $198,490
+     Assets not included in Segment assets (2)         97,136        65,448         56,844
+                                                     --------      --------       --------
+         Total                                       $381,239      $344,134       $255,334
+                                                     ========      ========       ========
+Capital expenditures (3)
+     Electronic Components                           $ 10,894      $ 27,695       $ 11,888
+     Metallurgical Components                          12,031        14,117          5,928
+     Discontinued operations                               --            --            322
+                                                     --------      --------       --------
+         Total                                       $ 22,925      $ 41,812       $ 18,138
+                                                     ========      ========       ========
+Depreciation and amortization
+     Electronic Components                           $ 12,586      $  9,937       $  7,195
+     Metallurgical Components                           6,825         6,343          5,668
+     Discontinued operations                               --            --            284
+                                                     --------      --------       --------
+         Total                                       $ 19,411      $ 16,280       $ 13,147
+                                                     ========      ========       ========
+
+<FN>
+(1) Includes interest income, interest expense and other non-operating items
+    disclosed in our Consolidated Statements of Earnings. We exclude these
+    items when measuring segment operating profit.
+(2) Cash and cash equivalents are the primary corporate assets.  We also
+    exclude net deferred tax assets when measuring segment assets.
+(3) During the past three years, our segments have acquired many companies. See
+    Note 2 of Notes to Consolidated Financial Statements. We have included
+    acquired property, plant and equipment in these capital expenditure
+    amounts.
+</FN>
+</TABLE>
+
+                                  Page 5 of 61
+
+<PAGE>
+
+
+
+     Our segments generally recognize revenue when the products are shipped to
+customers. We offer our customers credit terms which we believe are generally
+consistent with the terms offered in our industries. We reserve for or write off
+a customer account when we no longer feel the customer can or will pay us. We
+believe that the quality of our customers, which are generally large global
+companies, and our extensive customer base limit our exposure to significant
+concentrations of customer credit risk. For example, no customer accounted for
+more than 10% of sales in 1999, 1998 or 1997. Sales to our ten largest customers
+accounted for 32% of sales in 1999, 36% of sales in 1998 and 24% of sales in
+1997. Depending on the amount of cash we have from time to time, we may maintain
+significant cash investments at financial institutions.
+
+     We do not use income taxes when measuring the segment results; however, we
+allocate income taxes to the segments to determine certain performance measures.
+These performance measures include return on employed capital and economic
+profit. The following pro forma disclosure of segment income tax expense is
+based on simplified assumptions and includes allocations of corporate tax items.
+These allocations are based on the proportionate share of total tax expense for
+each segment, obtained by multiplying the respective segment's operating profit
+by the estimated effective tax rate for the year. The allocated tax expense
+amounts for the ECS were, in thousands, $10,834, $12,275 and $10,022 in 1999,
+1998 and 1997, respectively. For the MCS, they were, in thousands, $3,863,
+$6,759 and $7,656 in 1999, 1998 and 1997, respectively.
+
+Geographic Information
+
+     Our sales are not concentrated in any particular geographic area. We sell
+our products to customers in North America and throughout the world. The
+following table summarizes our sales to customers in the United States and
+Germany, where sales are significant. Other countries in which our sales are not
+significant are grouped into regions. We attribute customer sales to the country
+addressed in the sales invoice. The product is usually shipped to the same
+country. Amounts are in thousands.
+
+                                            1999          1998          1997
+                                            ----          ----          ----
+Sales to customers in:
+United States                            $226,376      $180,541      $177,701
+Europe, other than Germany                108,339        98,892        97,122
+Germany                                    86,174        85,860        76,026
+Asia                                       70,589        55,914        33,375
+North America, other than U.S.             36,507        24,972         9,945
+Other                                       2,451         2,360         2,898
+                                         --------      --------      --------
+         Total                           $530,436      $448,539      $397,067
+                                         ========      ========      ========
+
+                                  Page 6 of 61
+<PAGE>
+
+
+
+     The following table includes net property, plant and equipment located in
+the United States, Germany and China where assets are significant. Other
+countries in which such assets are not significant are grouped into regions.
+Property, plant and equipment represents all of our relevant assets which have
+long useful lives. Amounts are in thousands.
+
+                                           1999          1998          1997
+                                           ----          ----          ----
+Net property, plant and equipment
+ located in:
+United States                             $22,554       $23,469       $18,476
+China                                      19,170        19,507        11,320
+Germany                                    14,639        16,466        12,608
+Asia, other than China                     12,563        15,210        11,818
+Europe, other than Germany                 10,659        11,156         5,276
+Other                                       3,137         3,260           165
+                                          -------       -------       -------
+         Total                            $82,722       $89,068       $59,663
+                                          =======       =======       =======
+
+International Operations
+
+     We have significant operations outside the United States. These operations,
+like all international operations, are subject to a number of risks including:
+
+     o currency fluctuations;
+
+     o capital and exchange control regulations;
+
+     o restrictive government actions; and
+
+     o expropriation and nationalization.
+
+     We believe that the risks in international operations are greatest in
+developing countries. The ECS has significant manufacturing operations in
+several developing countries, especially the People's Republic of China.
+Although the PRC has a large and growing economy, its potential economic,
+political and labor developments necessarily entail uncertainties and risks. The
+risks posed to us are not unique and we believe are the same as those posed to
+any U.S. company doing business in the PRC. While the PRC has been receptive to
+foreign investment, we can't be certain that the current policies will continue
+indefinitely into the future. If any country in which we have significant
+operations adopts economic, legal, or trading policies harmful to private
+industry or foreign investment, such policies could affect us significantly.
+
+     The unpredictability of economic forces and government policies in foreign
+countries could cause changes to the favorable operating conditions we have
+experienced in recent years. We continually monitor business conditions in all
+of the regions where we operate.
+
+Sales and Marketing
+
+     Sales managers, district managers, direct salespeople and sales agents
+execute our sales and marketing activities.
+
+                                  Page 7 of 61
+<PAGE>
+
+Competition
+
+     We operate in highly competitive industries. The industries are
+characterized by numerous firms competing in international markets.
+
+Backlog
+
+     Our backlog of orders at December 31, 1999 was $92.5 million compared to
+$77.3 million at the end of 1998. We expect to ship the majority of the backlog
+over the next six months. Our delivery times vary between segments but are
+generally less than thirteen weeks. Customers can cancel orders upon payment of
+cancellation charges. As more customers adopt "demand-pull" and other creative
+inventory management policies, we believe backlog is a less accurate indicator
+of near-term business activity than it was previously.
+
+Raw Materials
+
+     We are not dependent on any particular source of supply. However, there are
+not a lot of suppliers of certain:
+
+     o ferrite materials used in electronic components;
+
+     o powder metals used in electrical contacts; and
+
+     o specialty steel used in metal laminates.
+
+We have not had any significant difficulties obtaining these raw materials and
+do not currently anticipate we will have any significant difficulties.
+
+     The MCS uses silver and other precious metals as raw material.
+Historically, these precious metals have been readily available. However, early
+in 1998, the demand for silver increased significantly, and the price of silver
+and associated financing costs also increased. This occurred again during the
+early part of 1999, although to a lesser extent. The terms of sale within the
+MCS allow us to charge customers for the current market value of silver.
+However, financing and other costs cannot always be recovered. Thus far we have
+been successful in managing the costs associated with our precious metals.
+However, if the terms and conditions under which we obtain silver or other
+precious metals change significantly in a short period of time, we may
+experience a negative impact on our future operating results.
+
+
+                                  Page 8 of 61
+<PAGE>
+
+
+Research and Development
+
+     We do not engage in any basic research activities. Our engineers improve
+existing products and develop new products related to current or new product
+lines. The amount of expenses we incurred for research and development
+activities in each of the last three years is included in Note 5 of Notes to
+Consolidated Financial Statements. We own numerous patents, trademarks and
+tradenames, but we do not consider our earnings to be materially dependent upon
+any one patent, trademark or license.
+
+Environment
+
+     Federal, state, and local environmental laws affect most of our
+manufacturing operations. These laws relate to the discharge of materials and
+the protection of the environment. We will continue to make expenditures to meet
+or exceed the environmental standards set by these laws. We charge to earnings
+or capitalize, as appropriate, the environmental expenditures as they are
+incurred.
+
+     We are studying and undertaking certain remedial action with respect to
+groundwater pollution and soil contamination at a former GTI facility. The
+facility is located in Leesburg, Indiana. We anticipate making additional
+environmental expenditures related to this facility in future years. The
+expenditures will be for continued environmental studies and analysis and, upon
+mutual agreement with appropriate state agencies, implementation of a
+remediation plan. Based on our current knowledge of the situation, we do not
+anticipate that the future expenses associated with the environmental
+remediation will have a material impact on our financial position.
+
+         We are also involved in several matters relating to superfund sites,
+none of which belong to us. Our involvement has generally arisen from the
+alleged disposal at these sites by licensed waste haulers of very small amounts
+of waste material many years ago. While we cannot predict the future costs of
+cleanup activities, capital expenditures, or operating costs for environmental
+compliance at these sites, we do not believe they (alone or together) will have
+a material effect on our capital expenditures, earnings or competitive position.
+
+     We have reserves which we believe are sufficient to cover the aggregate
+amount of our ultimate environmental liability. These reserves are not material
+to our current financial position.
+
+Employees
+
+     At December 31, 1999, we had approximately 21,600 full time employees
+compared with 21,400 at the end of 1998. Some of our ECS operations in Asia are
+labor intensive.
+
+
+                                  Page 9 of 61
+<PAGE>
+
+
+Energy
+
+     We did not have difficulty obtaining supplies of electricity, gas or oil in
+1999, and we do not expect difficulty in 2000.
+
+     In developing countries, we may experience short interruptions of
+electrical service or other utilities from time to time. Our facilities in those
+countries generally maintain independent power supplies through back-up
+generators. As a result, power interruptions have not had and are not expected
+to have a material effect on our operations.
+
+Products
+
+         Within each segment, the primary products sold are similar in design,
+material content, production process, application and customer base. We
+continually introduce new or improved products in response to customers' needs
+and changes within the markets served. For more information on our products, see
+pages 2, 3 and 4.
+
+Factors That May Affect Our Future Results (Cautionary Statements for Purposes
+of the "Safe Harbor" Provisions of the Private Securities Litigation Reform Act
+of 1995)
+
+     Our disclosures and analysis in this report and in our 1999 annual report
+to shareholders contain forward-looking statements. Forward-looking statements
+give our current expectations of future events. You can identify these
+statements by the fact that they do not relate strictly to historical or current
+facts. They often (but not always) use words such as "anticipate", "estimate",
+"expect", "project", "intend", "plan", "believe", and similar terms. From time
+to time, we also provide oral or written forward-looking statements in other
+materials we release to the public.
+
+     Any or all of our forward-looking statements in this report, in our 1999
+annual report and in any other public statements we make may turn out to be
+wrong. They may be affected by inaccurate assumptions we might make or by risks
+and uncertainties which are either unknown or not fully known or understood.
+Consequentially, no forward-looking statement can be guaranteed. Actual future
+results may, and probably will, vary materially.
+
+     We do not provide forecasts of future financial performance. We are
+optimistic about our long-term prospects; however, the following issues and
+uncertainties, among others, should be considered in evaluating our prospects
+for the future.
+
+Some of Our Products Are Subject to Rapid Technological Changes.
+
+     The ECS operates in an industry known for rapid change, consolidation,
+uncertainty and constant new and emerging technologies. Generally, we expect
+product life cycles to be very short. Changes in recent years due to the
+Internet, on-line services and expansion of networking require the ECS to
+maintain a strong engineering and development program. The program is necessary
+to avoid product obsolescence and to meet or exceed customer expectations.
+
+                                  Page 10 of 61
+<PAGE>
+
+Accordingly, we expect to continue to spend money on engineering and development
+with no assurances that our efforts in these areas will continue to be
+successful.
+
+We Cannot Predict the Market Growth Rate for Our Products.
+
+     The ECS sells its products into markets that are characterized by rapidly
+changing growth rates. These markets include LAN, telecommunication devices and
+power-conversion products. It is often difficult for our customers or us to
+assess worldwide demand for upgrades or replacement of networks, or the pace at
+which telecommunication infrastructure will be deployed throughout the world.
+The markets may counterbalance one another in terms of growth or they may move
+in the same direction. All of these variables will impact ECS growth rates.
+
+     The growth rates of housing, construction, appliance, telecommunication
+systems and auto sales, which are highly cyclical, will impact the revenue
+growth of the MCS and the ECS.
+
+We May Receive Lower Prices for Our Products.
+
+     Both the MCS and the ECS operate in businesses characterized by continually
+declining average selling prices on existing products. Future prices for our
+products may decrease from historical levels, depending on competition and other
+factors, and we may not be able to bring our manufacturing costs down
+proportionately or continue to introduce new products, each of which is
+necessary to maintain average selling prices and profitability.
+
+We May Not Be Able to Maintain Our Current Gross Margins as a Percentage of
+Sales.
+
+     Cost of sales as a percentage of sales is different for each segment and
+can vary greatly based on sales mix and method of distribution. Mix factors may
+increase cost of sales as a percentage of sales in the future. Acquisitions that
+we make may also reduce our gross margin percentages, temporarily or
+permanently.
+
+We May Not Be Able to Obtain Sufficient Quantities of Raw Materials.
+
+     If we cannot obtain sufficient quantities of raw materials, including
+precious metals used by the MCS, or if the cost of those materials increases
+significantly, and we cannot increase our selling prices, future operating
+results could be much different from our expectations. Please refer to the
+discussion of raw materials on page 8 of this report.
+
+We May Not Successfully Identify, Integrate, or Manage Acquisitions.
+
+     We have completed several acquisitions over the past three years. The
+degree of success of these acquisitions depends on our ability to:
+
+     o successfully integrate or consolidate acquired operations into our
+       existing segments;
+
+
+                                  Page 11 of 61
+<PAGE>
+
+     o identify and take advantage of cost reduction opportunities; and
+
+     o further penetrate the market for the products acquired.
+
+Integration of acquisitions may take longer than expected and may never be
+achieved to the extent originally anticipated. This could result in business
+growth which may be less than anticipated or manufacturing costs which are
+higher than anticipated. In addition, acquisitions may cause a disruption in our
+ongoing business, distract our managers, unduly tax our other resources and make
+it difficult or impossible to maintain our historical standards, procedures and
+controls.
+
+     The timing, price, structure and success of future acquisitions are
+uncertain. In addition, we may not be able to identify suitable acquisition
+candidates at reasonable prices, thereby reducing the aggressive acquisition
+component of our growth.
+
+We Operate Internationally and in Developing Countries.
+
+     We are a global company subject to the risks of doing business outside of
+the United States, particularly in developing countries. Please refer to the
+discussion of international operations on pages 6 and 7.
+
+     The slowing of Asian economies during the latter part of the 1990s affected
+portions of our business as the installation and growth of communications and
+electrical infrastructure systems that utilize our components were delayed.
+During the fourth quarter of 1999, we saw improvements in this market. We remain
+optimistic about our prospects in the Asia Pacific region and we are committed
+to our presence in Asia. We believe our widespread manufacturing presence in
+Asia has been a key factor in our success. Nevertheless, we are aware of the
+inherent unpredictability of the economic situation in Asia. We attempt to
+carefully monitor all relevant developments throughout Asia.
+
+Effectively Managing Our Growth May Be Difficult.
+
+     We have grown rapidly in the last five years, and we expect to continue to
+grow internally and through additional acquisitions. This growth is likely to
+place significant strain on our resources and systems. To manage our growth, we
+must implement systems, recruit and develop additional human resources and
+control our operations by continually training employees at every level.
+
+
+
+                                  Page 12 of 61
+<PAGE>
+
+
+Other Factors
+
+     In addition to the factors discussed above, other factors which could
+materially affect actual results include, but are not limited to:
+
+     o business conditions and the degree of optimism affecting the economies
+       throughout the world in general;
+
+     o competitive factors such as competitors seeking increased market share
+       based on price;
+
+     o manufacturing efficiencies and capacity;
+
+     o legal liability unknown at this time;
+
+     o risk of obsolescence due to shifts in market demand;
+
+     o information technology issues related to our computer systems or the
+       computer systems of our suppliers or customers (please see management's
+       discussion and analysis in Item 7 of Part II of this report); and
+
+     o the timing of customer product introductions.
+
+     We believe that we have the market opportunities, product offerings,
+facilities, personnel and competitive and financial resources for continued
+business success. However, future events, costs, margins, product mix and
+profits are all subject to unpredictable factors including those discussed
+above.
+
+Item 2  Properties
+
+     We produce and market our products all over the world. At December 31,
+1999, we operated 22 manufacturing plants in 12 countries. Our corporate offices
+are located in Trevose, Pennsylvania where we lease approximately 11,000 square
+feet of office space. The lease expires in 2006.
+
+     At December 31, 1999, the ECS had 9 manufacturing facilities, 6 of which
+are owned. Principal manufacturing facilities are located in the People's
+Republic of China, the Philippines, Malaysia, Thailand and Ireland. The PRC
+facilities are operated under negotiated contracts with the provincial
+government of China. In addition to the manufacturing space, each PRC facility
+includes space for staff quarters and dormitories. The ECS also owns and leases
+office and warehouse space in San Diego to serve as the segment's headquarters
+and North American distribution center. Including office space for
+administrative and sales functions, the ECS owns approximately 382,000 square
+feet of space and leases approximately 1,774,000 square feet. The lease terms
+vary by facility. See Note 7 of Notes to Consolidated Financial Statements for
+additional information related to our outstanding leases.
+
+
+                                  Page 13 of 61
+<PAGE>
+
+
+
+
+     The MCS operates 13 manufacturing plants. The plants are located in the
+United States, Europe, Puerto Rico, Mexico and China. The MCS owns the majority
+of its manufacturing facilities. The only major manufacturing plant leased is
+located in Export, Pennsylvania. This lease expires in 2001 but it is expected
+to be renewed. Total space used by the MCS is 1,303,000 square feet, including
+office space for administrative and sales functions.
+
+     The productive capacity and extent of utilization of our facilities are
+difficult to quantify. In any one facility, maximum capacity and utilization
+vary periodically depending on the segment's manufacturing strategies, the
+product being manufactured and the current market conditions and demand. We
+estimate that our average utilization of overall production capacity in 1999 was
+between 75% and 90%.
+
+Item 3  Legal Proceedings
+
+     We have been named in several lawsuits. We consider lawsuits to be part of
+what arises in the normal course of business. We do not expect the outcome of
+any of these lawsuits to have a material adverse effect on our consolidated
+financial condition.
+
+Item 4  Submission of Matters to a Vote of Security Holders   -        None
+
+
+                                  Page 14 of 61
+<PAGE>
+
+
+
+                                     Part II
+
+Item 5  Market for Registrant's Common Equity and Related Stockholder Matters
+
+     Our common stock is traded on the New York Stock Exchange. The following
+table reflects the highest and lowest sales prices in each quarter of the last
+two years. The dividends paid are also shown.
+
+                               First       Second         Third        Fourth
+                              Quarter      Quarter       Quarter      Quarter
+                              -------      -------       -------      -------
+
+1999 High                      $32.19       $32.63        $37.19       $46.25
+
+1999 Low                       $19.88       $22.63        $32.38       $31.56
+
+1999 Dividends Paid            $.0600       $.0600        $.0675       $.0675
+
+
+1998 High                      $39.50       $44.38        $43.38       $32.50
+
+1998 Low                       $27.38       $37.00        $18.00       $16.88
+
+1998 Dividends Paid            $.0525       $.0600        $.0600       $.0600
+
+     On January 7, 2000, there were approximately 1,421 registered holders of
+our common stock which has a par value of $.125 per share and is the only class
+of stock that we have outstanding.
+
+
+
+
+                                  Page 15 of 61
+<PAGE>
+
+
+Item 6  Selected Financial Data  (In Thousands, Except Per Share Data)
+
+<TABLE>
+<CAPTION>
+                                     1999(a)     1998(a)      1997(a)      1996(a)      1995(a)
+                                     ----        ----         ----         ----         ----
+<S>                                 <C>         <C>          <C>          <C>          <C>
+Net sales(b)                        $530,436    $448,539     $397,067     $243,312     $143,662
+Net earnings(b)                     $ 44,312    $ 33,309     $ 29,086     $ 18,138     $  7,351
+     Earnings per share(b):
+         Basic                      $   2.76    $   2.08     $   1.81     $   1.14     $    .57
+         Diluted                    $   2.73    $   2.06     $   1.80     $   1.13     $    .56
+Total assets                        $381,239    $344,134     $255,334     $218,347     $144,940
+Total long-term debt                $ 60,496    $ 60,898     $ 32,957     $ 41,701     $ 17,125
+Shareholders' equity                $215,635    $174,809     $142,375     $103,590     $ 84,761
+     Net worth per share            $  13.26    $  10.81     $   8.82     $   6.48     $   5.41
+Working capital                     $141,851    $102,336     $ 87,618     $ 74,787     $ 43,242
+     Current ratio                  2.5 to 1    2.0 to 1     2.2 to 1     2.1 to 1     2.1 to 1
+Number of shares outstanding:
+     Weighted average,
+       including common stock
+       equivalents                    16,246      16,203       16,137       16,096       13,076
+     Year end                         16,266      16,170       16,135       15,975       15,672
+Dividends declared per share        $  .2625    $   .240     $   .210     $   .200     $   .198
+Price range per share:
+     High                           $  46.25    $  44.38     $  43.13     $  21.88     $  11.88
+     Low                            $  19.88    $  16.88     $  17.13     $   9.56     $   6.63
+
+<FN>
+(a) During 1999, we purchased the operating assets of Tianjin Electrical Metal
+    Works and MEC Betras Italia S.r.l. In 1998, we acquired FEE Technology,
+    Metales y Contactos and GTI Corporation. We acquired the magnetic
+    components business of Nortel in 1997, Doduco GmbH in 1996 and Pulse
+    Engineering, Inc. in 1995. See Note 2 of Notes to Consolidated Financial
+    Statements.
+(b) Amounts reflect continuing operations.  See Note 2 of Notes to Consolidated
+    Financial Statements.
+</FN>
+</TABLE>
+
+
+                                  Page 16 of 61
+<PAGE>
+
+
+
+Item 7 Management's Discussion and Analysis of Financial Condition and Results
+       of Operations
+
+Introduction
+
+     This discussion and analysis of our financial condition and results of
+operations, as well as other sections of this report, contain certain
+"forward-looking statements" within the meaning of the Private Securities
+Litigation Reform Act of 1995. Please refer to pages 10 through 13 of this
+report for a description of "forward-looking statements" and factors that may
+affect future results.
+
+     We are making the statements below to inform our shareholders of our
+general financial condition and our results of operations. We are not trying to
+influence investors to buy or sell our securities.
+
+Business Overview
+
+     Please refer to Part I, Item I for a description of our continuing
+businesses and strategic initiatives.
+
+     In June 1997, we sold our Test & Measurement Products Segment, which
+manufactured material testing systems, force measurement products and weighing
+devices. We sold these businesses because they did not fit within our core
+competencies and did not offer us opportunities to create significant
+shareholder value. The Test & Measurement Products Segment is reported as
+discontinued operations in the accompanying financial statements.
+
+     We believe that the investments, divestiture and strategies described in
+Part I, Item I and in the preceding paragraph have positioned us for future
+growth and the creation of additional shareholder value.
+
+Liquidity and Capital Resources
+
+     Working capital at December 31, 1999 was $141.9 million, an increase of
+$39.5 million from the working capital of $102.3 million at December 31, 1998.
+Worldwide, cash on hand at December 31, 1999 was $88.2 million, approximately
+$37.6 million greater than at December 31, 1998. Cash provided by operating
+activities, supplemented by $4.6 million of net borrowings, was more than
+adequate to pay for capital expenditures, acquisitions, and dividends.
+
+     We believe that the combination of cash on hand, cash generated by
+operations and, if necessary, additional borrowings under our credit facilities
+will be sufficient to satisfy our operating cash requirements for the
+foreseeable future. In addition, we may use internally generated funds and
+additional borrowings for acquisitions of suitable businesses or assets. At
+December 31, 1999, we had approximately $146.0 million of unused lines of credit
+from banks.
+
+
+                                  Page 17 of 61
+<PAGE>
+
+
+
+     Cash Flows from Operating Activities
+
+     Cash flow from operations was $69.3 million for the year ended December 31,
+1999, an increase of $19.5 million from 1998. Net earnings before depreciation
+and amortization, reductions in net deferred tax assets and inventory and an
+increase in accounts payable contributed to cash provided by operations.
+Offsetting these favorable cash flow factors were an increase in accounts
+receivable due to record sales levels contributed by the ECS during the fourth
+quarter of 1999 and a decrease in accured expenses due to payments for income
+taxes and for acquisition related transaction and integration expenses.
+
+     Cash Flows from Investing Activities
+
+     Cash used by investing activities was $32.9 million during 1999. We used
+approximately $15.3 million of cash to pay for acquisitions and $18.8 million to
+pay for capital expenditures.
+
+     Cash payments for capital expenditures, excluding acquisitions, represented
+approximately 3.5% of net sales during 1999 and exceeded overall depreciation by
+about $3.1 million. We make capital expenditures to expand production capacity
+and to improve our operating efficiency. We expect to continue making such
+expenditures.
+
+     With the exception of approximately $7.2 million of retained earnings in
+China which are restricted by PRC regulations, substantially all retained
+earnings are free from legal or contractual restrictions. We have not
+experienced any significant liquidity restrictions in any country in which we
+operate and none are foreseen. However, foreign exchange ceilings imposed by
+local governments and the sometimes lengthy approval processes which some
+foreign governments require for international cash transfers may delay our
+internal cash movements from time to time. The retained earnings in other
+countries represent a material portion of our assets. We expect to reinvest
+these earnings outside of the United States because we anticipate that a
+significant portion of our opportunities for growth in the coming years will be
+abroad. If such earnings were brought back to the United States, significant tax
+liabilities could be incurred in the United States. This could have a material
+unfavorable impact on our net income and cash position.
+
+     Cash Flows from Financing Activities
+
+     During 1999, we borrowed approximately $77.8 million and repaid
+approximately $73.2 million of debt. We entered into two DM10.0 million
+unsecured loan facilities in Germany in order to convert a portion of our
+outstanding credit from a variable-rate revolver to a fixed-rate term debt. One
+facility is due in July 2003 and bears interest at a rate of 4.85%. The second
+facility terminates in August 2009 and bears interest at 5.65%. In addition, we
+entered into an additional variable-rate Eurocurrency revolving credit facility.
+This facility has a maximum draw of $20.0 million and is due in June 2001. We
+used the proceeds of the additional debt instruments to finance acquisitions,
+working capital and capital expenditures.
+
+
+                                  Page 18 of 61
+<PAGE>
+
+
+     We have paid dividends for the last 95 consecutive quarters. Dividends paid
+in 1999 were $4.1 million compared to $3.8 million in 1998. We expect to
+continue making quarterly dividend payments for the foreseeable future.
+
+     Foreign Currency Effects
+
+     During 1999, the Euro devalued approximately 14% relative to the U.S.
+dollar. As a result, we incurred foreign currency losses at our ECS European
+operations, as Euro denominated net assets were translated to U.S. dollars for
+financial reporting purposes. In addition, we experienced a negative translation
+adjustment to equity as our investment in the MCS's European operations became
+worth less in U.S. dollars than it was prior to the devaluation of the Euro.
+This U.S. dollar decrease in investment value for 1999 resulted in a reduction
+in equity of approximately $1.8 million.
+
+     During 1998, we did not experience any significant foreign currency gains
+or losses but had a positive adjustment to equity as a result of strengthening
+of the Deutsche mark and the French franc during the second half of 1998.
+
+     During 1997, currencies of several of the Asian countries in which we
+manufacture and/or sell products devalued significantly relative to the U.S.
+dollar. The majority of our sales originating in those countries, as well as the
+majority of raw material purchased, are denominated in U.S. dollars. Expenses in
+those countries, particularly labor and overhead, are denominated and paid in
+local currencies which devalued against the U.S. dollar. As a result, the
+devaluation of these local currencies favorably affected our profitability by
+reducing the manufacturing costs incurred in those countries.
+
+     We transact a significant amount of sales in currencies other than the U.S.
+dollar. Therefore, changing exchange rates often impact our financial results.
+This is particularly true of movements in the exchange rate between the U.S.
+dollar and the Euro because AMI Doduco's European sales are denominated
+primarily in Euro currencies. In the future, it is possible that an increasing
+percentage of our sales will be denominated in non-U.S. currencies. This would
+increase our exposure to foreign currency fluctuations.
+
+     Please see the section titled "Foreign Currency Risk" under Item 7a of this
+report for a description of our strategies to manage foreign currency risks.
+
+New Accounting Pronouncements
+
+     In June of 1998, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 133, "Accounting for Derivative
+Instruments and Hedging Activities." This statement establishes accounting and
+reporting standards for derivative instruments and for hedging activities. This
+standard is effective for quarters of fiscal years beginning after June 15,
+2000. Adoption of this standard is not expected to have a material effect on our
+operating results or liquidity. The impact of this standard on our balance sheet
+will depend on the amount of hedging activity outstanding on the date of
+adoption.
+
+
+
+                                  Page 19 of 61
+<PAGE>
+
+
+Results of Operations
+
+     Our results from continuing operations for 1999, 1998 and 1997 are as
+follows.(1) Amounts are in thousands:
+
+                                                        Year Ended
+                                                       December 31,
+                                            1999           1998           1997
+                                            ----           ----           ----
+Net sales:
+     Electronic Components                 $307,351       $218,876      $179,772
+     Metallurgical Components               223,085        229,663       217,295
+                                           --------       --------      --------
+         Total                             $530,436       $448,539      $397,067
+                                           ========       ========      ========
+
+Earnings before income taxes:
+     Electronic Components                 $ 49,893       $ 37,721      $ 30,865
+     Metallurgical Components                11,296         15,695        14,888
+                                           --------       --------      --------
+         Operating profit                    61,189         53,416        45,753
+     Other income (expense), net             (2,180)        (1,073)        1,011
+                                           --------       --------      --------
+     Earnings from continuing
+       operations before income taxes      $ 59,009       $ 52,343      $ 46,764
+                                           ========       ========      ========
+
+         Revenues
+
+     Our net sales from continuing operations for 1999 increased by $81.9
+million, or 18.3%, from 1998. We attribute the 1999 sales increase to:
+
+     o strong demand, particularly in the second half of 1999, in the ECS for
+       local area networking, telecommunication and power conversion products;
+       and
+
+     o a full year of operating contributions by our 1998 acquisitions -
+       Metales, FEE and GTI.
+
+Partially offsetting these positive sales factors was a decrease in sales
+contributed by the MCS' European operations.
+
+     Our 1999 ECS sales increased $88.5 million, or 40.4%, from the prior year.
+As previously noted, we experienced strong demand for our products during the
+second half of the year. In addition, our 1999 results include a full year of
+FEE and GTI contributions. Our 1998 results included operating FEE for
+approximately six months and GTI for approximately six weeks.
+
+     Sales in the MCS decreased by $6.6 million, or 2.9%, from 1998 to 1999. The
+MCS sales in 1999 were affected by:
+
+- ---------------
+ (1) The results of the Test & Measurement Products Segment are reported as
+     discontinued operations in the accompanying financial statements. The 1997
+     sales of the Test & Measurement Products Segment were approximately $11.8
+     million prior to the divestiture on June 4, 1997.
+
+
+                                  Page 20 of 61
+<PAGE>
+
+     o generally weaker European electric power, industrial machinery and
+       durable goods markets;
+
+     o an average Deutsche mark-to-dollar exchange rate that was approximately
+       4.5% below the 1998 average; and
+
+     o the phase-out of certain non-core product lines.
+
+During the latter part of 1999, we began to see a recovery in the European
+markets as domestic demand strengthened and exports to Asia rebounded. In
+addition, our 1999 sales into North American markets increased from 1998.
+
+     The increase in consolidated sales from 1997 to 1998 resulted from a full
+year of operating the magnetic components business purchased from Nortel in late
+1997, partial-year sales contributed by our 1998 acquisitions and strong sales
+volume from the MCS's European operations.
+
+     Cost of Sales
+
+     Gross margin for 1999 was 32.4% of sales. The comparable amounts for 1998
+and 1997 are 31.7% and 32.2%, respectively. Although the gross margin for both
+the ECS and the MCS were lower when compared to the prior year, on a
+consolidated basis the margin was higher as we realized proportionately more
+higher-margin ECS sales than MCS sales.
+
+     The margin for the ECS decreased from the prior year as a result of the
+ECS's 1998 acquisitions and continuing pricing pressures from ECS customers. The
+FEE and Valor businesses acquired by the ECS in 1998 operated at lower margins
+than the previously existing ECS business. In addition, expenses were incurred
+related to the FEE and Valor integration efforts. Partially offsetting these
+factors in the second half of 1999 was the positive impact on margins of volume
+efficiencies and the cost control programs instituted in the first quarter of
+1999.
+
+     The MCS gross margin decreased slightly from the prior year as cost
+reduction efforts were more than offset by weakness in the European markets,
+which caused our fixed costs to be allocated over less volume, and higher sales
+of precious metals on which we realize very low margins. We assume little to no
+price risk on sales of precious metals. Our cost reduction efforts continue
+into 2000 in both the manufacturing and administrative areas. We are evaluating
+additional ways to reduce the cost structure of the MCS and improve its
+operating performance.
+
+     The decrease in gross margin from 1997 to 1998 was due to a slower LAN
+market in 1998 when compared to 1997 and the acquisition by the ECS of
+businesses operating at lower margins than our previously existing business.
+
+
+                                  Page 21 of 61
+<PAGE>
+
+
+     Operating Expenses
+
+     Our total selling, general and administrative expenses for 1999, 1998 and
+1997 are as follows. Amounts are in thousands:
+
+                                                      Year Ended
+                                                     December 31,
+                                         1999            1998             1997
+                                         ----            ----             ----
+     Selling, general &
+       administrative expenses         $110,694         $88,827         $82,264
+
+     Percentage of net sales              20.9%           19.8%           20.7%
+
+     Selling, general and administrative expense increased both in absolute
+dollars and as a percentage of sales in 1999 as compared to 1998. The increases
+result from:
+
+     o higher spending required to support the higher level of ECS sales;
+
+     o significantly higher expenses incurred in 1999 associated with
+       implementing and optimizing a global ERP system within the MCS;
+
+     o costs associated with integrating our most recent acquisitions into the
+       Company;
+
+     o costs associated with reorganizing the MCS business; and
+
+     o expenses related to acquisition development activity, particularly within
+       the MCS.
+
+Partially offsetting these factors was the cost reduction program instituted in
+both segments in the first quarter of 1999.
+
+     The increase in total selling, general and administrative expenses from
+1997 to 1998 resulted from increased spending to support more sales volume. As a
+percentage of sales, selling, general and administrative expense decreased from
+1997 to 1998 due to the absence of Netwave Technologies, Inc. Netwave was a
+wireless local area network product line which we sold at the end of 1997.
+Netwave required a high level of spending relative to its revenues. In 1998,
+expenses related to integrating acquisitions partially offset the benefit of
+divesting Netwave.
+
+
+
+                                  Page 22 of 61
+<PAGE>
+
+
+     We include research, development and engineering expenses within selling,
+general and administrative expenses. We refer to research, development and
+engineering expenses as RD&E. RD&E by segment for the past three years is as
+follows. Amounts are in thousands:
+
+                                                     Year Ended
+                                                    December 31,
+                                          1999            1998            1997
+                                          ----            ----            ----
+
+     ECS                                $13,972         $11,085         $10,560
+     Percentage of segment sales           4.6%            5.1%            5.9%
+
+     MCS                                $ 5,639        $  5,755        $  5,807
+     Percentage of segment sales           2.5%            2.5%            2.7%
+
+     RD&E spending within the ECS increased from 1998 as the ECS continues to
+invest in new technologies and related improvements to respond to technology
+changes in its marketplace. As a percentage of sales, the ECS spending is less
+than the prior year as the ECS sales reached record levels in 1999. Although the
+ECS spending in dollars on RD&E increased only slightly from 1997 to 1998, the
+1997 amount included RD&E at Netwave. Excluding Netwave's high RD&E expenses in
+relation to its sales, the ECS spending on RD&E increased significantly from
+1997.
+
+     Neither segment anticipates any significant changes to RD&E efforts in the
+near-term.
+
+     Interest
+
+     Interest income for 1999 was $1.9 million compared with $2.1 million in
+1998 and $2.5 million in 1997. Although cash and cash equivalents were
+substantially higher at December 31, 1999 than December 31, 1998, the majority
+of the increase in cash was generated during the latter part of 1999.
+
+     For 1999, interest expense was $3.5 million as compared with $3.3 million
+during 1998 and $2.4 million for 1997. The slight increase in interest expense
+resulted from higher debt levels in 1999 than 1998, particularly in the early
+part of 1999 as we used debt to partially finance our November 1998 acquisition
+of GTI/Valor. Partially offsetting the effect of higher debt levels in 1999 was
+more favorable interest rates on our European debt facilities.
+
+     Please see the section titled "Interest Rate Risk" under Item 7a of this
+report for additional information regarding interest.
+
+
+                                  Page 23 of 61
+<PAGE>
+
+
+     Income Taxes
+
+     Our effective income tax rate during 1999 was 24.9%. This compares to 36.4%
+in 1998 and 37.8% in 1997. The substantial decrease in our effective tax rate
+resulted from actions initiated in the first quarter of 1999 related to a
+comprehensive global review of our business operations. This comprehensive
+review was aimed at ensuring that our overall tax rates are optimal and
+appropriate. Also contributing to the lower overall tax rate was a decline in
+the proportion of taxable income attributable to high-tax jurisdictions such as
+Germany.
+
+     We have benefited over recent years from favorable offshore tax treatments;
+however, there are no assurances that such treatments will continue in the
+future. Developing countries and, in particular, the People's Republic of China,
+may change their tax policies at any time. In addition to income tax policies,
+we monitor developments relating to other business taxes.
+
+Other Issues
+
+     Precious Metal
+
+     The MCS uses silver as well as other precious metals in the manufacturing
+of electrical contacts, rivets and other products. Historically, we have leased
+or held the majority of these materials through consignment arrangements with
+our suppliers. Leasing and consignment costs have been substantially below the
+costs to borrow funds to purchase the metals. In addition, the risk of a
+decrease in the market price of owned precious metal can be substantial. As is
+sometimes the case, during the first quarter of 1998, and to a lesser extent in
+early 1999, the price of silver increased significantly. The associated leasing
+costs also increased. The terms of sale within the MCS allow us to charge
+customers for the current market value of silver. However, leasing costs cannot
+always be recovered. Thus far we have been successful in managing the costs
+associated with our precious metals. While limited amounts were purchased during
+1999 for use in production, the vast majority of our precious metal inventory
+continues to be leased or held on consignment. If our leasing/consignment fees
+increase significantly in a short period of time, and we are unable to recover
+these increased costs through higher sale prices, a negative impact on our
+results of operations and liquidity may result. We believe this risk is shared
+by our competitors.
+
+                                  Page 24 of 61
+<PAGE>
+
+     Year 2000
+
+     The popularly called "Year 2000" issues associated with the programming
+code in existing computer systems revolved around whether computer systems would
+properly recognize date-sensitive information when the year changed to 2000.
+Information technology ("IT") and non-IT systems that did not properly recognize
+such information could have generated erroneous data or caused a system to fail.
+
+     We substantially completed the required modifications to our IT and non-IT
+systems. Since the inception of our efforts to address potential Year 2000
+issues, we incurred approximately $.5 million of Year 2000 remediation expenses
+related to our systems. These costs were expensed as SG&A as incurred. In
+addition, we incurred costs to install new software. These costs have been
+capitalized and will be amortized over the expected useful life of the related
+software.
+
+     Following the arrival of the Year 2000, we have not experienced any
+significant problems related to Year 2000 issues. We have built and delivered
+product and transacted business with our customers and suppliers without
+interruption. In addition, we have not received any notifications from customers
+regarding Year 2000 issues related to product sold. We will, however, continue
+to monitor our computer systems to ensure any latent Year 2000 issues that may
+arise are addressed promptly.
+
+     Euro Conversion
+
+     On January 1, 1999, 11 of the 15 member countries of the European Union
+established fixed conversion rates between their existing sovereign currencies
+and the Euro. We refer to the 11 countries as the participating countries and
+the participating countries' sovereign currencies as the legacy currencies. The
+Euro now trades on currency exchanges and is available for non-cash
+transactions.
+
+     The legacy currencies are scheduled to remain legal tender in the
+participating countries as denominations of the Euro between January 1, 1999 and
+July 1, 2002. During this transition period, public and private parties may pay
+for goods and services using either the Euro or a legacy currency. Beginning
+January 1, 2002, the participating countries will issue new Euro-denominated
+bills and coins for use in cash transactions. By July 1, 2002, the participating
+countries will withdraw all bills and coins denominated in the legacy
+currencies, so that the legacy currencies no longer will be legal tender for any
+transactions. The conversion to the Euro will then be complete.
+
+
+                                  Page 25 of 61
+<PAGE>
+
+     We have developed plans to ensure, to the extent possible, our operations
+will not be negatively impacted by the Euro. On a company-wide basis, those
+efforts have been coordinated by the corporate Treasurer and have included
+internal personnel as well as external consultants. The ECS is continually
+evaluating the impact of the Euro on the operations located in Europe. The MCS
+is in the renovation and implementation stages of addressing Euro conversion
+related system issues so that optimal customer services relating to Euro
+transactions can be provided to its European customers.
+
+     As of December 31, 1999, no significant problems related to Euro conversion
+issues have occurred. The failure to correct a material Euro conversion issue
+could result in an interruption in, or failure of, certain normal business
+activities. Such failures could materially and adversely affect our results of
+operations, liquidity and financial condition.
+
+
+Item 7a Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk
+
+     Our financial instruments exposed to changes in interest rates are
+long-term debt obligations. We invest our excess cash with high-credit-rated
+financial institutions. We limit our exposure to any one financial institution
+to the extent practical. Our board has adopted policies relating to these risks
+and the audit committee of the board continually monitors compliance with these
+policies.
+
+     The majority of our credit facilities have variable interest rates.
+Accordingly, interest expense may increase if the rates associated with, or the
+amount of, our borrowings move higher. In addition, we may pursue additional or
+alternative financing for growth opportunities in one or both segments. We may
+use interest rate swaps or other financial derivatives in order to manage the
+risk associated with changes in market interest rates. However, we have not used
+any of these instruments to date.
+
+
+
+                                  Page 26 of 61
+<PAGE>
+
+
+     The table below presents principal amounts in equivalent U.S. dollars and
+related weighted average interest rates by year of maturity for our debt
+obligations. The carrying value of long-term debt approximates its fair value
+after taking into consideration current rates offered to us for similar debt
+instruments of comparable maturities. We do not hold or issue financial
+instruments or derivative financial instruments for trading purposes. Amounts
+are in thousands:
+<TABLE>
+<CAPTION>
+
+                                                                                                                 Approx.
+                                                                                        There-                      Fair
+                                  2000       2001       2002        2003       2004      after          Total      Value
+                                  ----       ----       ----        ----       ----      -----          -----      -----
+<S>                            <C>        <C>         <C>        <C>        <C>         <C>           <C>        <C>
+Liabilities
+Long-term debt
+- --------------
+   Fixed rate:
+      U.S.$                    $    27         --         --          --         --         --        $    27    $    27
+      Wt. ave. interest rate      4.50%
+
+      Euro (1)                 $   140    $   151     $  164     $10,477    $   147     $5,385        $16,464    $16,464
+      Wt. ave. interest rate      8.50%      8.50%      8.50%       5.25%      8.50%      5.77%
+
+   Variable rate:
+      U.S.$                    $11,000         --         --          --         --         --        $11,000    $11,000
+      Wt. ave. interest rate      6.90%
+
+      Euro (1)                      --    $33,005         --          --         --         --        $33,005    $33,005
+      Wt. ave. interest rate                 4.09%
+
+<FN>
+(1) U.S. dollar equivalent
+</FN>
+</TABLE>
+
+
+                                  Page 27 of 61
+<PAGE>
+
+
+
+Foreign Currency Risk
+
+     We conduct business in various foreign currencies, including those of
+emerging market countries in Asia and well-developed European countries. In
+order to reduce our exposure resulting from currency fluctuations, we may
+purchase currency exchange forward contracts and/or currency options. These
+contracts guarantee a predetermined range of exchange rates at the time the
+contract is purchased. This allows us to shift the majority of the risk of
+currency fluctuations from the date of the contract to a third party for a fee.
+In determining the use of forward exchange contracts and currency options, we
+consider the amount of sales and purchases made in local currencies, the type of
+currency, and the costs associated with the contracts. At December 31, 1999, the
+Company did not have any currency exchange forward contracts or currency options
+outstanding.
+
+     The table below provides information about our non-derivative financial
+instruments and presents the information in equivalent U.S. dollars. Amounts are
+in thousands:
+
+<TABLE>
+<CAPTION>
+                                                                                                              Approx.
+                                                                                       There-                   Fair
+                                Current      2001       2002       2003      2004      after       Total       Value
+                                -------      ----       ----       ----      ----      -----       -----       -----
+<S>                             <C>        <C>        <C>        <C>        <C>        <C>        <C>         <C>
+Assets
+Cash and equivalents
+- --------------------
+   Variable rate:
+      Euro (1)                  $3,037         --         --         --        --         --      $ 3,037     $ 3,037
+
+      Other currencies (1)      $2,561         --         --         --        --         --      $ 2,561     $ 2,561
+
+Liabilities
+Long-term debt
+- --------------
+   Fixed rate:
+      Euro (1)                  $  140     $   151    $   164    $10,477    $  147     $5,385     $16,464     $16,464
+
+   Variable rate:
+      Euro (1)                      --     $33,005        --          --      --           --     $33,005     $33,005
+
+<FN>
+(1) U.S. dollar equivalent
+</FN>
+</TABLE>
+
+
+Item 8 Financial Statements and Supplementary Data
+
+     Information required by this item is incorporated by reference from the
+Independent Auditor's Report found on page 32 and from the consolidated
+financial statements and supplementary schedule on pages 33 through 58.
+
+Item 9 Changes in and Disagreements with Accountants on Accounting and Financial
+       Disclosure
+
+       None
+
+
+                                  Page 28 of 61
+<PAGE>
+
+
+                                    Part III
+
+                              Cross Reference Index
+
+<TABLE>
+<CAPTION>
+                            Form 10-K
+                    Item Number and Caption                              Incorporated Material
+                    -----------------------                              ---------------------
+
+<S>  <C>                                                       <C>
+Item 10   Directors and Executive Officers of the Registrant   Registrant's Definitive Proxy Statement
+Item 11   Executive Compensation                               Registrant's Definitive Proxy Statement
+Item 12   Security Ownership of Certain Beneficial Owners      Registrant's Definitive Proxy Statement
+             and Management
+Item 13   Certain Relationships and Related Transactions       Registrant's Definitive Proxy Statement
+
+</TABLE>
+
+                                     Part IV
+
+Item 14  Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+         (a)  Documents filed as part of this report
+
+              Financial Statements
+              --------------------
+
+              Independent Auditors' Report
+              Consolidated Balance Sheets - December 31, 1999 and 1998
+              Consolidated Statements of Earnings - Years ended December 31,
+                1999, 1998 and 1997
+              Consolidated Statements of Cash Flows - Years ended December 31,
+                1999, 1998 and 1997
+              Consolidated Statements of Changes in Shareholders' Equity - Years
+                ended December 31, 1999, 1998 and 1997
+              Notes to Consolidated Financial Statements
+
+              Financial Statement Schedules
+              -----------------------------
+
+              Schedule II, Valuation and Qualifying Accounts
+
+         (b)  Reports on Form 8-K
+
+              None
+
+         (c)  Exhibits
+
+              (21) Subsidiaries of the Registrant
+              (23) Consent of Certified Public Accountants
+              (27) Financial Data Schedule (electronic filing only)
+
+                                  Page 29 of 61
+<PAGE>
+
+                                   Signatures
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities and
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+TECHNITROL, INC.
+
+By         /s/James M. Papada, III
+           -----------------------
+           James M. Papada, III
+           Chairman of the Board of Directors,
+           Chief Executive Officer and Director
+
+Date March 13, 2000
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+By                                    By   /s/Graham Humes
+     -----------------------               ------------------------------------
+     Stanley E. Basara                     Graham Humes
+     Director                              Director
+
+Date March 13, 2000                   Date March 13, 2000
+
+By                                    By   /s/Edward M. Mazze
+     -----------------------               ------------------------------------
+     John E. Burrows, Jr.                  Edward M. Mazze
+     Director                              Director
+
+Date March 13, 2000                   Date March 13, 2000
+
+By   /s/Rajiv L. Gupta                By   /s/Drew A. Moyer
+     -----------------------               ------------------------------------
+     Rajiv L. Gupta                        Drew A. Moyer
+     Director                              Corporate Controller and Secretary
+                                           (Principal Accounting Officer)
+Date March 13, 2000
+                                      Date March 13, 2000
+By
+     -----------------------
+     J. Barton Harrison               By   /s/Albert Thorp, III
+     Director                               ------------------------------------
+                                           Albert Thorp, III
+Date March 13, 2000                        Vice President - Finance and Chief
+                                              Financial Officer
+                                           (Principal Financial Officer)
+By   /s/Roy E. Hock
+     -----------------------          Date March 13, 2000
+     Roy E. Hock
+     Director
+
+Date March 13, 2000
+
+
+
+                                  Page 30 of 61
+<PAGE>
+
+
+
+                   Index to Financial Statements and Schedules
+
+                              Financial Statements
+                              --------------------
+
+Independent Auditors' Report
+
+Consolidated Balance Sheets - December 31, 1999 and 1998
+
+Consolidated Statements of Earnings - Years ended December 31, 1999, 1998 and
+   1997
+
+Consolidated Statements of Cash Flows - Years ended December 31, 1999, 1998 and
+   1997
+
+Consolidated Statements of Changes in Shareholders' Equity - Years ended
+   December 31, 1999, 1998 and 1997
+
+Notes to Consolidated Financial Statements
+
+                          Financial Statement Schedule
+                          ----------------------------
+
+Schedule II - Valuation and Qualifying Accounts
+
+
+
+
+
+
+
+
+
+
+
+                                  Page 31 of 61
+<PAGE>
+
+
+
+                          Independent Auditors' Report
+
+
+
+         The Board of Directors and Shareholders
+         Technitrol, Inc.:
+
+         We have audited the consolidated financial statements of Technitrol,
+         Inc. and subsidiaries as listed in the accompanying index. In
+         connection with our audits of the consolidated financial statements, we
+         also have audited the financial statement schedule as listed in the
+         accompanying index. These consolidated financial statements and the
+         financial statement schedule are the responsibility of the Company's
+         management. Our responsibility is to express an opinion on these
+         consolidated financial statements and the financial statement schedule
+         based on our audits.
+
+         We conducted our audits in accordance with generally accepted auditing
+         standards. Those standards require that we plan and perform the audit
+         to obtain reasonable assurance about whether the financial statements
+         are free of material misstatement. An audit includes examining, on a
+         test basis, evidence supporting the amounts and disclosures in the
+         financial statements. An audit also includes assessing the accounting
+         principles used and significant estimates made by management, as well
+         as evaluating the overall financial statement presentation. We believe
+         that our audits provide a reasonable basis for our opinion.
+
+         In our opinion, the consolidated financial statements referred to above
+         present fairly, in all material respects, the financial position of
+         Technitrol, Inc. and subsidiaries as of December 31, 1999 and 1998, and
+         the results of their operations and their cash flows for each of the
+         years in the three-year period ended December 31, 1999, in conformity
+         with generally accepted accounting principles. Also in our opinion, the
+         related financial statement schedule, when considered in relation to
+         the basic consolidated financial statements taken as a whole, presents
+         fairly, in all material respects, the information set forth therein.
+
+                                                                       KPMG LLP
+
+
+         Philadelphia, Pennsylvania
+         February 25, 2000
+
+
+
+                                  Page 32 of 61
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                              Technitrol, Inc. and Subsidiaries
+
+                                 Consolidated Balance Sheets
+
+                                 December 31, 1999 and 1998
+                             In thousands, except for share data
+
+                                Assets                                    1999         1998
+                                ------                                    ----         ----
+<S>                                                                     <C>          <C>
+Current assets:
+     Cash and cash equivalents                                          $ 88,161     $ 50,563
+     Trade receivables, net                                               77,514       71,482
+     Inventories                                                          65,101       71,230
+     Prepaid expenses and other current assets                             8,512       10,597
+                                                                        --------     --------
+           Total current assets                                          239,288      203,872
+
+Property, plant and equipment                                            150,926      149,035
+     Less accumulated depreciation                                        68,204       59,967
+                                                                        --------     --------
+           Net property, plant and equipment                              82,722       89,068
+Deferred income taxes                                                      8,615        9,296
+Excess of cost over net assets acquired, net                              48,666       39,249
+Other assets                                                               1,948        2,649
+                                                                        --------     --------
+                                                                        $381,239     $344,134
+                                                                        ========     ========
+
+                 Liabilities and Shareholders' Equity
+                 ------------------------------------
+Current liabilities:
+     Current installments of long-term debt                             $    167     $    193
+     Accounts payable                                                     26,186       23,270
+     Accrued expenses                                                     71,084       78,073
+                                                                        --------     --------
+           Total current liabilities                                      97,437      101,536
+
+Long-term liabilities:
+     Long-term debt, excluding current installments                       60,329       60,705
+     Other long-term liabilities                                           7,838        7,084
+
+Commitments and contingencies (Note 7)
+
+Shareholders' equity:
+     Common stock: 75,000,000 shares authorized; 16,265,838 and
+       16,170,406 outstanding in 1999 and 1998, respectively; $.125
+       par value per share and additional paid-in capital                 48,263       45,109
+     Retained earnings                                                   171,278      131,227
+     Other                                                                (3,906)      (1,527)
+                                                                        --------     --------
+           Total shareholders' equity                                    215,635      174,809
+                                                                        --------     --------
+                                                                        $381,239     $344,134
+                                                                        ========     ========
+
+   See accompanying Notes to Consolidated Financial Statements.
+</TABLE>
+
+
+                                  Page 33 of 61
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                           Technitrol, Inc. and Subsidiaries
+
+                          Consolidated Statements of Earnings
+
+                     Years ended December 31, 1999, 1998 and 1997
+                          In thousands, except per share data
+
+                                                       1999        1998        1997
+                                                       ----        ----        ----
+
+<S>                                                  <C>         <C>         <C>
+Net sales                                            $530,436    $448,539    $397,067
+Cost of sales                                         358,553     306,296     269,050
+                                                     --------    --------    --------
+       Gross profit                                   171,883     142,243     128,017
+
+Selling, general and administrative expenses          110,694      88,827      82,264
+                                                     --------    --------    --------
+       Operating profit                                61,189      53,416      45,753
+Other income (expense):
+     Interest income                                    1,882       2,080       2,469
+     Interest expense                                  (3,477)     (3,264)     (2,387)
+     Other, net                                          (585)        111         929
+                                                     --------    --------    --------
+                                                       (2,180)     (1,073)      1,011
+                                                     --------    --------    --------
+     Earnings before income taxes                      59,009      52,343      46,764
+Income taxes                                          (14,697)    (19,034)    (17,678)
+                                                     --------    --------    --------
+
+Net earnings from continuing operations                44,312      33,309      29,086
+
+Discontinued operations, net of income taxes:
+     Earnings from operations of the Test &
+        Measurement Products Segment                      --          --          258
+    Gain on disposal                                      --          --       11,502
+                                                     --------    --------    --------
+
+Net earnings                                         $ 44,312    $ 33,309    $ 40,846
+                                                     ========    ========    ========
+
+Earnings per share from continuing operations:
+    Basic                                            $   2.76    $   2.08    $   1.81
+                                                     ========    ========    ========
+    Diluted                                          $   2.73    $   2.06    $   1.80
+                                                     ========    ========    ========
+
+Net earnings per share:
+    Basic                                            $   2.76    $   2.08    $   2.54
+                                                     ========    ========    ========
+    Diluted                                          $   2.73    $   2.06    $   2.53
+                                                     ========    ========    ========
+
+See accompanying Notes to Consolidated Financial Statements.
+</TABLE>
+
+                                  Page 34 of 61
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+                                  Technitrol, Inc. and Subsidiaries
+
+                                Consolidated Statements of Cash Flows
+
+                            Years ended December 31, 1999, 1998, and 1997
+                                          In thousands
+
+                                                                    1999          1998         1997
+                                                                    ----          ----         ----
+<S>                                                                <C>           <C>          <C>
+Cash flows from operating activities:
+     Net earnings                                                  $44,312       $33,309      $40,846
+     Adjustments to reconcile net earnings to net cash
+       provided by operating activities:
+         Depreciation and amortization                              19,411        16,280       13,147
+         Deferred taxes                                              3,319         3,415         (748)
+         Gain on sale of Test & Measurement Products Segment            --            --       (11,502)
+         Changes in assets and liabilities net of effect of
+           acquisitions and divestitures:
+              Trade receivables                                     (9,345)       (1,705)     (15,440)
+              Inventories                                            5,745        (4,634)     (12,329)
+              Accounts payable                                       3,788         5,191        1,633
+              Accrued expenses                                      (3,028)       (4,688)       9,406
+         Other, net                                                  5,050         2,559       (1,279)
+                                                                   -------       -------      -------
+         Net cash provided by operating activities                  69,252        49,727       23,734
+                                                                   -------       -------      -------
+Cash flows from investing activities:
+     Proceeds from the sale of discontinued operations,
+       net of cash sold and expenses paid                               --            --        32,362
+     Acquisitions, net of cash acquired                            (15,277)      (42,804)     (26,514)
+     Capital expenditures, exclusive of acquisitions               (18,766)      (20,398)     (13,447)
+     Proceeds from sale of property, plant and equipment             1,115           368          668
+                                                                   -------       -------      -------
+         Net cash used in investing activities                     (32,928)      (62,834)      (6,931)
+                                                                   -------       -------      -------
+Cash flows from financing activities:
+     Principal payments on long-term debt                          (73,185)      (25,483)     (19,093)
+     Net repayments of short-term debt                                 --            --        (2,911)
+     Long-term borrowings                                           77,753        44,218       15,536
+     Dividends paid                                                 (4,133)       (3,759)      (3,336)
+     Exercise of stock options                                           5            97          317
+     Sale of stock through employee stock purchase plan                916           --           --
+     Purchase of Technitrol stock                                      --           (145)         --
+     Contributions from minority interest in subsidiary                --            --           100
+                                                                   -------       -------      -------
+         Net cash provided by (used in) financing activities         1,356        14,928       (9,387)
+Net effect of exchange rate changes on cash                            (82)          (61)      (2,144)
+                                                                   -------       -------      -------
+Net increase in cash and cash equivalents                           37,598         1,760        5,272
+Cash and cash equivalents at beginning of year                      50,563        48,803       43,531
+                                                                   -------       -------      -------
+Cash and cash equivalents at end of year                           $88,161       $50,563      $48,803
+                                                                   =======       =======      =======
+
+See accompanying Notes to Consolidated Financial Statements.
+
+</TABLE>
+
+                                  Page 35 of 61
+<PAGE>
+<TABLE>
+<CAPTION>
+                                 Technitrol, Inc. and Subsidiaries
+
+                    Consolidated Statements of Changes in Shareholders' Equity
+
+                           Years ended December 31, 1999, 1998 and 1997
+                                In thousands, except per share data
+
+                                                                                           Other
+                                                                                  ---------------------------
+                                                                                                   Accumu-
+                                           Common stock and                                       lated other
+                                           paid-in capital                        Deferred        compre-       Compre-
+                                         --------------------       Retained       compen-         hensive       hensive
+                                         Shares        Amount       earnings       sation          income       income
+                                         ------        ------       --------       -------          ------       ------
+
+<S>                                      <C>          <C>           <C>            <C>            <C>             <C>
+Balance at January 1, 1997               15,975       $40,638       $ 64,339       $  (800)       $  (587)
+Stock options, awards and related
+    compensation                            160         1,354             --          (378)            --
+Tax benefit of stock compensation            --         1,156             --            --             --
+Currency translation adjustments             --            --             --            --           (808)        $  (808)
+Net earnings                                 --            --         40,846            --             --          40,846
+                                                                                                                  -------
+Comprehensive income                         --            --             --            --             --         $40,038
+                                                                                                                  =======
+Dividends declared ($.21 per share)          --            --         (3,385)           --             --
+                                         ------       -------       --------       -------        -------
+Balance at December 31, 1997             16,135       $43,148       $101,800       $(1,178)       $(1,395)
+                                         ======       =======       ========       =======        =======
+Purchase of common stock                     (8)         (145)            --            --             --
+Stock options, awards and related
+    compensation                             43         1,398             --          (614)            --
+Tax benefit of stock compensation            --           708             --            --             --
+Currency translation adjustments             --            --             --            --          1,660         $ 1,660
+Net earnings                                 --            --         33,309            --             --          33,309
+                                                                                                                  -------
+Comprehensive income                         --            --             --            --             --         $34,969
+                                                                                                                  =======
+Dividends declared ($.24 per share)          --            --         (3,882)           --             --
+                                         ------       -------       --------       -------        -------
+Balance at December 31, 1998             16,170       $45,109       $131,227       $(1,792)       $   265
+                                         ======       =======       ========       =======        =======
+Stock options, awards and related
+    compensation                             66         1,809             --          (609)            --
+Tax benefit of stock compensation            --           429             --            --             --
+Stock issued under employee stock
+    purchase plan                            30           916             --            --             --
+Currency translation adjustments             --            --             --            --         (1,770)        $(1,770)
+Net earnings                                 --            --         44,312            --             --          44,312
+                                                                                                                  -------
+Comprehensive income                         --            --             --            --             --         $42,542
+                                                                                                                  =======
+Dividends declared ($.2625 per share)        --            --         (4,261)           --             --
+                                         ------       -------       --------       -------        -------
+Balance at December 31, 1999             16,266       $48,263       $171,278       $(2,401)       $(1,505)
+                                         ======       =======       ========       =======        =======
+
+See accompanying Notes to Consolidated Financial Statements.
+</TABLE>
+                                  Page 36 of 61
+<PAGE>
+
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+                   Notes to Consolidated Financial Statements
+
+(1) Summary of Significant Accounting Policies
+    ------------------------------------------
+
+Principles of Consolidation
+- ---------------------------
+     The consolidated financial statements include the accounts of Technitrol,
+Inc. (the "Company") and all of its subsidiaries. All material intercompany
+accounts and transactions are eliminated in consolidation.
+
+Cash and Cash Equivalents
+- -------------------------
+     Cash and cash equivalents include funds invested in a variety of liquid
+short-term investments with a maturity of three months or less.
+
+Inventories
+- -----------
+     Inventories are stated at the lower of cost or market. Cost is determined
+by the first-in, first-out (FIFO) method. In addition to the inventories
+included in the accompanying balance sheets, the Company has custody of
+inventories under consignment-type leases from suppliers ($39.5 million at
+December 31, 1999, and $40.0 million at December 31, 1998). This inventory
+consists primarily of precious metals which are used in the Company's
+metallurgical components manufacturing business. Included in interest expense
+for the year ended December 31, 1999 are consignment interest fees of $1.4
+million. These interest costs were $1.4 million and $.4 million in 1998 and
+1997, respectively.
+
+Property, Plant and Equipment
+- -----------------------------
+     Property, plant and equipment are stated at cost. Depreciation is based
+upon the estimated useful life of the assets on both the accelerated and the
+straight-line methods. The estimated useful lives of assets range from 5 to 30
+years for buildings and improvements and from 3 to 10 years for machinery and
+equipment. Expenditures for maintenance and repairs are charged to operations as
+incurred, and major renewals and betterments are capitalized. Upon sale or
+retirement, the cost of the asset and related accumulated depreciation are
+removed from the balance sheet, and any resulting gains or losses are included
+in earnings.
+
+                                                                     (continued)
+
+
+                                  Page 37 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(1) Summary of Significant Accounting Policies, continued
+    -------------------------------------------
+
+Excess of Cost over Net Assets
+- ------------------------------
+     Excess of cost over net assets acquired is amortized on a straight-line
+basis over 15 years. When events and circumstances so indicate, the
+recoverability of its carrying value is evaluated by determining whether its
+remaining balance can be recovered through future undiscounted cash flows from
+operations. Such events and circumstances include a sale of all or a significant
+part of the operations associated with the excess of cost over net assets
+acquired, or a significant decline in the operating performance of the net
+assets. If an evaluation indicates that the carrying value cannot be recovered
+through future operating undiscounted cash flows, an impairment charge will be
+recorded by discounting the future operating cash flows using the implied cost
+of capital for that business segment and comparing the resulting discounted cash
+flow to the carrying value.
+
+Foreign Currency Translation
+- ----------------------------
+     Certain foreign subsidiaries of the Company use the U.S. dollar as the
+functional currency and others use a local currency. For subsidiaries using the
+U.S. dollar as the functional currency, monetary assets and liabilities are
+translated at year-end exchange rates while non-monetary items are translated at
+historical rates. Income and expense accounts are translated at the average
+rates in effect during the year, except for depreciation and cost of sales,
+which are translated at historical rates. Gains or losses from changes in
+exchange rates are recognized in earnings in the year of occurrence. For
+entities using a local currency as the functional currency, net assets are
+translated at year-end rates while income and expense accounts are translated at
+average exchange rates. Adjustments resulting from these translations are
+reflected directly in shareholders' equity.
+
+Financial Instruments and Derivative Financial Instruments
+- ----------------------------------------------------------
+     The carrying value of cash and cash equivalents, accounts receivable,
+short-term borrowings and accounts payable are a reasonable estimate of their
+fair value due to the short-term nature of these instruments. The carrying value
+of long-term debt approximates its fair value after taking into consideration
+current rates offered to the Company for similar debt instruments of comparable
+maturities. The fair values of financial instruments have been determined
+through information obtained from quoted market sources and management
+estimates. The Company does not hold or issue financial instruments or
+derivative financial instruments for trading purposes.
+
+                                                                     (continued)
+
+
+
+                                  Page 38 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(1) Summary of Significant Accounting Policies, continued
+    -------------------------------------------
+
+     The Company is exposed to market risk from changes in interest rates,
+foreign currency exchange rates and precious metal prices. To mitigate the risk
+from these changes, the Company periodically enters into hedging transactions
+which have been authorized pursuant to the Company's policies and procedures.
+Gains and losses related to qualified hedges of firm commitments and anticipated
+transactions are deferred and are recognized in income or as adjustments of
+carrying amounts when the hedged transaction occurs. All other forward exchange
+and option contracts are marked-to-market and unrealized gains and losses are
+included in current-period net income. At December 31, 1999, the Company did not
+have any derivative financial instruments outstanding, other than to sell
+forward approximately $1.2 million of precious metal purchased as part of the
+acquisition of MEC Betras Italia S.r.l. on December 22, 1999.
+
+Estimates
+- ---------
+         The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions. These estimates and assumptions may affect the reported amounts of
+assets and liabilities, the disclosure of contingent assets and liabilities at
+the date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from those
+estimates.
+
+(2) Acquisitions and Divestitures
+    -----------------------------
+
+     Acquisitions
+
+     MEC Betras Italia S.r.l. ("MEC Betras"): On December 22, 1999, the Company
+     ----------------------------------------
+acquired the operating assets of MEC Betras. MEC Betras, located in Italy,
+produced electrical contact rivets and stamped electrical contact parts. The
+purchase price of MEC Betras' assets was not material to the Company's
+consolidated financial position. The Metallurgical Components Segment ("MCS")
+did not operate these assets until January of 2000; therefore, the acquisition
+had no impact on the Company's 1999 operating results. Historical proforma
+results of operations would not be materially different from actual results.
+
+     Tianjin Electrical Metal Works: In November 1999, the Company, through the
+     -------------------------------
+MCS, acquired the assets of an electrical contacts business based in Tianjin,
+the People's Republic of China. The purchase price was not material to the
+Company's consolidated financial position. The impact on the Company's operating
+results is also immaterial. Historical proforma results of operations would not
+be materially different from actual results.
+
+                                                                     (continued)
+
+
+                                  Page 39 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(2) Acquisitions and Divestitures, continued
+    -----------------------------
+
+     GTI Corporation ("GTI"): On November 16, 1998, the Company acquired all of
+     ------------------------
+the capital stock of GTI, whose principal operating unit was Valor Electronics,
+Inc. ("Valor"). Valor designed and manufactured magnetics-based components for
+signal processing and power transfer functions used primarily in local area
+networking and also in telecommunications and broadband products. At the time of
+acquisition, manufacturing operations were located in the People's Republic of
+China and the Philippines. GTI's corporate offices were located in San Diego,
+California.
+
+     The total purchase price included approximately $34.0 million paid to the
+former shareholders of GTI. In addition, transaction expenses and related
+acquisition costs were incurred. To complete the acquisition, the Company used
+approximately $14.0 million of cash on hand, and drew down approximately $20.0
+million from previously unused bank lines of credit.
+
+     The acquisition was accounted for by the purchase method of accounting. An
+allocation of purchase price to the assets acquired and liabilities assumed has
+been made using fair values that include values based on independent appraisals
+and management estimates. The fair value of the assets acquired and liabilities
+assumed approximated $45.9 million and $15.8 million, respectively. The excess
+of costs over net assets acquired approximated $5.8 million. These amounts
+reflect adjustments made during 1999 to reflect the final allocation of the
+purchase price to the fair value of assets acquired and liabilities assumed.
+
+     The liabilities assumed included a reserve of approximately $3.7 million
+for restructuring the GTI businesses. The amount was established in accordance
+with Emerging Issues Task Force Issue 95-3, "Recognition of Liabilities in
+Connection with a Purchase Business Combination," and is intended to cover the
+estimated expenses related to integrating GTI's operations into existing
+Electronic Components Segment ("ECS") facilities. Expenses have been, and are
+expected to be, incurred primarily for terminating employees, leasehold
+terminations and other related exit costs. Actual expenses charged to the
+reserve through December 31, 1999 approximate $3.0 million.
+
+                                                                     (continued)
+
+                                  Page 40 of 61
+<PAGE>
+
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(2) Acquisitions and Divestitures, continued
+    ------------------------------
+
+     GTI experienced significant financial difficulty prior to its acquisition
+by the Company, and the Company has made significant changes in GTI's
+businesses, as noted above. As a result, the Company does not believe that the
+following unaudited pro forma financial information, which reflects continuing
+operations only and assumes GTI was acquired on January 1, 1997, is indicative
+of the results that actually would have occurred if the acquisition had been
+consummated on the date indicated or which may be attained in the future (in
+thousands, except for earnings per share).
+
+                                       Year Ended         Year Ended
+                                    Dec. 31, 1998      Dec. 31, 1997
+                                    -------------      -------------
+    Net sales                            $489,336           $479,658
+    Net earnings                          $17,627            $29,091
+    Diluted earnings per share              $1.09              $1.80
+
+     FEE Technology, S.A. ("FEE"): On July 3, 1998, the Company purchased all of
+     --------------------
+the capital stock of FEE. FEE designed and manufactured magnetic components for
+telecommunications and power conversion equipment. FEE is now part of the ECS.
+
+     The total purchase price including assumed debt was approximately $17.0
+million and was funded by cash on hand. In addition, transaction expenses and
+related acquisition costs were incurred. The approximate fair value of the net
+assets acquired was $8.3 million resulting in goodwill of approximately $8.7
+million. The fair value of liabilities assumed included approximately $1.7
+million for restructuring the FEE businesses, which was substantially completed
+by December 31, 1999. The $1.7 million was primarily for severance payments and
+other related exit costs resulting from closing factories. These amounts include
+adjustments made during 1999 to reflect the final allocation of the purchase
+price to the fair market value of assets acquired and liabilities assumed.
+
+     The acquisition was accounted for by the purchase method of accounting and,
+therefore, the financial results of FEE have been included with those of the
+Company beginning on July 3, 1998. Historical pro forma results of operations
+would not be materially different from actual results.
+
+     Certain Assets of Metales y Contactos, S.A. de C.V. ("Metales"): On July 3,
+     ----------------------------------------------------------------
+1998, the Company, through the MCS, acquired certain assets of Metales. The
+purchase price of Metales' assets was not material to the Company's consolidated
+financial position. The results of the Metallurgical Components Segment include
+the results of operating the acquired assets from July 3, 1998.
+
+                                                                     (continued)
+
+
+
+                                  Page 41 of 61
+<PAGE>
+
+
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(2) Acquisitions and Divestitures, continued
+    ------------------------------
+
+     The Magnetic Components Business of Northern Telecom Ltd. ("Nortel"): On
+     ---------------------------------------------------------------------
+November 30, 1997, the Company acquired the magnetic components business of
+Nortel (the "Business") by purchasing all of the common stock of two Nortel
+subsidiaries (one in Malaysia and one in Thailand) and certain assets in Canada
+relating to design engineering support of those subsidiaries. The acquisition of
+the Business was accounted for by the purchase method of accounting. The
+purchase price was approximately $22.5 million including transaction expenses.
+The fair value of the net assets acquired approximated $8.0 million. The
+purchase price was funded by cash on hand, including cash received from the sale
+of the Test & Measurement Products Segment, as explained below.
+
+     The following unaudited pro forma financial information, which reflects
+continuing operations only, assumes that the Business was acquired on January 1,
+1997, and is provided for comparative purposes only. It does not purport to be
+indicative of the results that actually would have occurred if the acquisition
+had been consummated on the date indicated or which may be attained in the
+future (in thousands, except for earnings per share).
+
+                                                  Year Ended
+                                               Dec. 31, 1997
+                                               -------------
+       Net sales                                    $430,242
+       Net earnings                                  $30,275
+       Diluted earnings per share                      $1.88
+
+     Divestitures
+
+     Test & Measurement Products Segment: On June 4, 1997, the Company completed
+     ------------------------------------
+the sale of those entities which formed its Test & Measurement Products Segment
+to an affiliate of Ametek, Inc. for approximately $34.0 million in cash, and a
+resulting gain of approximately $11.5 million (net of income taxes of
+approximately $11.1 million) was realized in the second quarter of 1997.
+Transaction expenses were paid by the Company from the gross proceeds of the
+sale and are reflected in the net gain realized on the sale. As a result of the
+foregoing, the Company discontinued its manufacturing and marketing of test and
+measurement products and the Test & Measurement Products Segment is reported as
+a discontinued operation in the accompanying Consolidated Statements of Earnings
+and in these Notes to Consolidated Financial Statements.
+
+                                                                     (continued)
+
+                                  Page 42 of 61
+<PAGE>
+
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(2) Acquisitions and Divestitures, continued
+    ------------------------------
+
+     For the year-ended December 31, 1997, the impact of the divestiture on
+earnings per share was as follows:
+
+                                                                      Year Ended
+                                                                   Dec. 31, 1997
+                                                                   -------------
+Earnings per share from continuing operations:
+    Basic                                                                  $1.81
+    Diluted                                                                 1.80
+Discontinued operations, net of tax:
+    Earnings per share from operations - basic and diluted                   .02
+    Earnings per share from gain on disposal - basic and diluted             .71
+Earnings per share:
+    Basic                                                                   2.54
+    Diluted                                                                 2.53
+
+(3) Financial Statement Details
+    ---------------------------
+
+     The following provides details for certain financial statement captions at
+December 31, 1999 and 1998 (in thousands):
+
+                                                  1999             1998
+                                                  ----             ----
+Inventories:
+     Finished goods                             $ 21,916         $ 27,376
+     Work in progress                             13,624           14,926
+     Raw materials and supplies                   29,561           28,928
+                                                --------         --------
+                                                $ 65,101         $ 71,230
+                                                ========         ========
+Property, plant and equipment, at cost:
+     Land                                       $  4,226         $  4,549
+     Buildings and improvements                   30,951           30,431
+     Machinery and equipment                     115,749          114,055
+                                                --------         --------
+                                                $150,926         $149,035
+                                                ========         ========
+Accrued expenses:
+     Income taxes payable                       $ 20,868         $ 32,301
+     Dividends payable                             1,098              970
+     Accrued compensation                         15,552           14,977
+     Other accrued expenses                       33,566           29,825
+                                                --------         --------
+                                                $ 71,084         $ 78,073
+                                                ========         ========
+
+                                                                     (continued)
+
+
+                                  Page 43 of 61
+<PAGE>
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(4) Long-term Debt
+    --------------
+
+At December 31, 1999 and 1998, long-term debt was as follows (in thousands):
+<TABLE>
+<CAPTION>
+                                                                                    1999       1998
+                                                                                    ----       ----
+<S>                                                                                <C>        <C>
+Bank Loans
+- ----------
+
+     Variable-rate (U.S. LIBOR plus .40%), multi-currency revolving
+        credit facility with $125.0 million maximum draw, due June
+         30, 2000 (6.90% rate at December 31, 1999)                                $11,000    $26,000
+
+     Variable-rate (EURIBOR plus .50%), Eurocurrency revolving credit
+        facility with $20.0 million maximum draw, due June 19,
+        2001 (4.04% rate a December 31, 1999)                                       13,954       --
+
+     Variable-rate (German LIBOR plus 0.625%), multi-currency bank
+        loan facility with $40.0 million maximum draw, due
+        December 31, 2001 (4.13% rate at December 31, 1999)                         19,051     27,568
+
+     Fixed-rate (5.57% and 4.85%), unsecured debt in Germany
+       (denominated in Deutsche marks) due June 26, 2003                            10,298      5,993
+
+     Fixed-rate (5.65%), unsecured debt in Germany (denominated in
+        Deutsche marks) due August 2, 2009                                           5,150       --
+                                                                                   -------    -------
+         Total bank loans                                                           59,453     59,561
+
+Mortgage Notes, secured by mortgages on land, buildings, and certain equipment:
+- ---------------
+     4.5% - 10.32% mortgage notes, due in monthly installments until 2007            1,043      1,337
+                                                                                   -------    -------
+         Total long-term debt                                                       60,496     60,898
+     Less current installments                                                         167        193
+                                                                                   -------    -------
+     Long-term debt excluding current installments                                 $60,329    $60,705
+                                                                                   =======    =======
+</TABLE>
+
+                                                                     (continued)
+
+
+                                  Page 44 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(4) Long-term Debt, continued
+    ---------------
+
+     At the Company's option, interest on the $125.0 million multi-currency
+revolving credit facility may be based on the prime rate or on LIBOR.
+
+     The facility expiring on June 30, 2000 is secured by a pledge of the stock
+of certain of the Company's domestic subsidiaries. All outstanding borrowings on
+that facility are denominated in U.S. dollars. The borrowings have been
+classified as non-current because the Company has the ability and the intent to
+refinance these obligations on a long-term basis.
+
+     The Company entered into the Eurocurrency revolving credit facility during
+the fourth quarter of 1999. The facility is unsecured and outstanding borrowings
+are denominated in the Euro.
+
+     The multi-currency facility terminating on December 31, 2001 is unsecured.
+All outstanding borrowings are denominated in Deutsche marks.
+
+     The Company has two fixed-rate term loans due on June 26, 2003. Each is for
+approximately $5.1 million as of December 31, 1999. The interest rates are 5.57%
+and 4.85%. The 4.85% term loan was entered into during 1999.
+
+     The Company also entered into a third fixed-rate term loan during 1999.
+This 5.65% term loan is due August 2, 2009.
+
+     The proceeds from the additional debt instruments entered into during 1999
+were used to reduce the amounts outstanding under the previously existing
+revolving credit facilities and to finance acquisitions, working capital and
+capital expenditures.
+
+     Principal payments due within the next five years are as follows (in
+thousands):
+
+                          2000               $11,167
+                          2001                33,156
+                          2002                   164
+                          2003                10,477
+                          2004                   147
+
+     The bank loan facilities contain certain covenants requiring maintenance of
+minimum net worth and other customary and normal provisions. The Company is in
+compliance with all such covenants.
+
+                                                                     (continued)
+
+
+                                  Page 45 of 61
+<PAGE>
+
+
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(5) Research, Development and Engineering Expenses
+    ----------------------------------------------
+
+     Research, development and engineering expenses ("RD&E") are included in
+selling, general and administrative expenses and were $19.6 million, $16.8
+million and $16.4 million in 1999, 1998 and 1997, respectively, for continuing
+operations. RD&E includes costs associated with new product development, product
+and process improvement, engineering follow-through during early stages of
+production, design of tools and dies, and the adaptation of existing technology
+to specific situations and customer requirements. The research and development
+component of RD&E, which generally includes only those costs associated with new
+technology, new products or significant changes to current products or
+processes, was $12.8 million, $12.5 million and $7.2 million in 1999, 1998 and
+1997, respectively.
+
+(6) Income Taxes
+    ------------
+
+     Earnings before income taxes were as follows (in thousands):
+
+                                     1999            1998            1997
+                                     ----            ----            ----
+Domestic                           $   934         $ 5,984         $23,306
+Non-U.S.                            58,075          46,359          46,537
+                                   -------         -------         -------
+       Total                       $59,009         $52,343         $69,843
+                                   =======         =======         =======
+
+     Earnings attributable to continuing operations were (in thousands) $59,009,
+$52,343 and $46,764 in 1999, 1998 and 1997, respectively.
+
+     Income tax expense was as follows (in thousands):
+
+Current:                             1999            1998            1997
+                                     ----            ----            ----
+       Federal                     $   736         $ 4,420         $14,080
+       State and local                 858             688           2,214
+       Non-U.S.                      9,784          10,511          13,451
+                                   -------         -------         -------
+                                    11,378          15,619          29,745
+Deferred expense (benefit)           3,319           3,415            (748)
+                                   -------         -------         -------
+
+                                   $14,697         $19,034         $28,997
+                                   =======         =======         =======
+
+
+                                                                     (continued)
+
+
+
+                                  Page 46 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(6) Income Taxes, continued
+    -------------
+
+     Income tax expense amounts attributable to continuing operations were (in
+thousands) $14,697, $19,034 and $17,678 in 1999, 1998 and 1997, respectively.
+Income tax expense of $11,319 (in thousands) for 1997 is included in the results
+of discontinued operations. Amounts credited to additional paid-in capital
+include the tax benefit of certain components of employee compensation related
+to the Company's common stock. Such items include dividends paid on restricted
+stock, the change in value from the award date to the release date of restricted
+stock which was released during the period, and employee compensation related to
+the exercise of stock options.
+
+     A reconciliation of the statutory federal income tax rate with the
+effective income tax rate follows:
+
+                                            1999        1998         1997
+                                            ----        ----         ----
+Statutory federal income tax rate            35%         35%          35%
+Increase (decrease) resulting from:
+  Tax-exempt earnings of
+      subsidiary in Puerto Rico              (1)         (1)          (1)
+  State and local income taxes, net
+      of federal tax effect                   1           1            2
+  Non-deductible expenses and
+      other foreign income subject
+      to U.S. income tax                      3          10            5
+  Foreign                                   (14)        (10)          (3)
+  Other, net                                  1           1            4
+                                            ---         ---          ---
+Effective tax rate                           25%         36%          42%
+                                            ===         ===          ===
+
+     For continuing operations, the Company's effective tax rate was
+approximately 38% in 1997. The effective tax rate of 42% for all operations of
+the Company in 1997 reflects significant taxes attributable to the gain on the
+sale of discontinued operations.
+                                                                     (continued)
+
+
+                                  Page 47 of 61
+<PAGE>
+
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(6) Income Taxes, continued
+    -------------
+
+     Deferred tax assets and liabilities included the following at December 31
+(in thousands):
+
+                                                       1999            1998
+                                                       ----            ----
+Assets:
+       Inventories                                    $ 1,064         $ 1,098
+       Plant and equipment                                355             126
+       Vacation pay and other compensation                886             892
+       Pension expense                                    776             785
+       Stock awards                                     1,411           1,247
+       Accrued liabilities                              4,387           5,186
+       Net operating losses                             4,483           4,774
+       Capital losses carryover                         6,582           6,582
+       Other                                              227             100
+                                                      -------         -------
+              Total deferred tax assets                20,171          20,790
+              Valuation allowance                      (6,582)         (6,582)
+                                                      -------         -------
+              Net deferred tax assets                  13,589          14,208
+
+Liabilities:
+       Deferred taxes on foreign operations             2,600             --
+       Other                                              123              23
+                                                      -------         -------
+              Total deferred tax liabilities            2,723              23
+                                                      -------         -------
+              Net deferred tax assets                  10,866          14,185
+              Less current deferred tax assets          2,251           4,889
+                                                      -------         -------
+              Long-term deferred income taxes         $ 8,615         $ 9,296
+                                                      =======         =======
+
+Based on the Company's history of taxable income and its projection of future
+earnings, management believes that it is more likely than not that sufficient
+taxable income will be generated in the foreseeable future to realize the net
+deferred tax assets.
+
+     The Company has not provided for U.S. federal income and foreign
+withholding taxes on approximately $235.3 million of non-U.S. subsidiaries'
+undistributed earnings (as calculated for income tax purposes) as of December
+31, 1999. Such earnings include pre-acquisition earnings of foreign entities
+acquired through stock purchases, and are intended to be reinvested outside of
+the U.S. indefinitely. It is not practical to estimate the amount of
+unrecognized deferred taxes on these undistributed earnings. Where excess cash
+has accumulated in the Company's non-U.S. subsidiaries and it is advantageous
+for tax or foreign exchange reasons, subsidiary earnings may be remitted.
+
+                                                                     (continued)
+
+                                  Page 48 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(7) Commitments and Contingencies
+    -----------------------------
+
+     The Company conducts a portion of its operations from leased premises and
+also leases certain equipment under operating leases. Total rental expense
+amounts for the years ended December 31, 1999, 1998 and 1997 were $5.4 million,
+$4.5 million and $3.6 million, respectively. The aggregate minimum rental
+commitments under non-cancelable leases in effect at December 31, 1999 were as
+follows (in thousands):
+
+              Year ending
+              December 31
+              -----------
+                  2000                     $ 6,102
+                  2001                       4,964
+                  2002                       3,784
+                  2003                       3,357
+                  2004                       2,820
+               Thereafter                    4,405
+                                           -------
+                                           $25,432
+                                           =======
+
+     The Company is involved in several legal actions relating to waste disposal
+sites. The Company's involvement in these matters has generally arisen from the
+alleged disposal by licensed waste haulers of small amounts of waste material
+many years ago. In addition, as a result of the acquisition of GTI, the Company
+is involved in studying and undertaking certain remedial actions with respect to
+groundwater pollution and soil contamination conditions at a facility in
+Leesburg, Indiana. The Company anticipates making additional environmental
+expenditures in future years to continue its environmental studies and analysis.
+Upon mutual agreement with a certain state agency, the Company will implement a
+remediation plan. Based on current knowledge, the Company does not believe that
+any future expenses associated with environmental remediation will have a
+material impact on the financial position of the Company.
+
+     The Company is also subject to various lawsuits, claims and proceedings
+which arise in the ordinary course of its business. The Company does not believe
+that the outcome of any of these lawsuits will have a material adverse effect on
+its financial results.
+
+     The Company accrues costs associated with environmental and legal matters
+when they become probable and reasonably estimable. Accruals are established
+based on the estimated undiscounted cash flows to settle the obligations and are
+not reduced by any potential recoveries from insurance or other indemnification
+claims. Management believes that any ultimate liability with respect to these
+actions in excess of amounts provided will not materially affect the Company's
+operations or consolidated financial position.
+
+                                                                     (continued)
+
+                                  Page 49 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(8) Shareholders' Equity
+    --------------------
+
+     On January 22, 1997, the Company's Board of Directors approved a
+two-for-one split of the Company's common stock in the form of a 100% common
+stock dividend for shareholders of record as of February 7, 1997. A total of
+10,925,774 shares were issued in connection with the split. The stated par value
+of each share was not changed from $.125. All relevant share and per share
+amounts have been restated to retroactively reflect the stock split.
+
+     The retained earnings of the Company at December 31, 1999 include
+approximately $7.2 million which has been restricted in accordance with the laws
+of the People's Republic of China (PRC). This amount, which is based on the
+earnings of the Company's subsidiaries in the PRC, may not be available for
+distribution to the U.S. parent company or its shareholders but is not required
+to be held in cash.
+
+     The Company has a Shareholder Rights Plan. The Rights are currently not
+exercisable, and automatically trade with the Company's common shares. However,
+after a person or group has acquired 15% or more of the common shares, the
+Rights will become exercisable, and separate certificates representing the
+Rights will be distributed. In the event that any person or group acquires 15%
+of the common shares, each holder of two Rights (other than the Rights of the
+acquiring person) will have the right to receive, for $135, that number of
+common shares having a market value equal to two times the exercise price of the
+Rights. Alternatively, in the event that, at any time following the date in
+which a person or group acquires ownership of 15% or more of the common shares,
+the Company is acquired in a merger or other business combination transaction,
+or 50% or more of its consolidated assets or earning power is sold, each holder
+of two Rights (other than the Rights of such acquiring person or group) will
+thereafter have the right to receive, upon exercise, that number of shares of
+common stock of the acquiring entity having a then market value equal to two
+times the exercise price of the Rights. The Rights may be redeemed by the
+Company at a price of $.005 per Right at any time prior to becoming exercisable.
+Rights that are not redeemed or exercised will expire on September 9, 2006.
+
+     Effective September 1, 1999 and subject to shareholder approval, the
+Company adopted a qualified, non-compensatory employee stock purchase plan to
+provide substantially all U.S. employees an opportunity to purchase common stock
+of the Company. The purchase price is equal to 85% of the fair value of the
+common stock on either the first day of the offering period or the last day of
+the purchase period, whichever is lower. The offering periods and purchase
+periods are defined by the plan, but are generally 24 and six months in
+duration, respectively. In connection with this stock purchase plan, 500,000
+shares of common stock are reserved for issuance under the plan. In 1999,
+employees purchased approximately 30,000 shares.
+
+                                                                     (continued)
+
+                                  Page 50 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(8) Shareholders' Equity, continued
+    ---------------------
+
+     As permitted by the provisions of Financial Accounting Standard No. 123,
+"Accounting for Stock-Based Compensation" (FAS 123), the Company applies
+Accounting Principles Board Opinion 25 "Accounting for Stock Issued to
+Employees" and related interpretations in accounting for its stock-based
+employee compensation plans. Accordingly, no compensation cost has been
+recognized for the Company's employee stock purchase plan. If compensation cost
+for the Company's employee stock purchase plan had been determined based on the
+fair value as required by FAS 123, the Company's pro forma net income and
+earnings per basic and diluted share for 1999 would have been $43.9 million,
+$2.74 and $2.70, respectively.
+
+(9) Earnings Per Share
+    ------------------
+
+     Basic earnings per share are calculated by dividing earnings by the
+weighted average number of common shares outstanding (excluding restricted
+shares) during the year. For calculating diluted earnings per share, common
+share equivalents and restricted stock outstanding are added to the weighted
+average number of common shares outstanding. Common share equivalents result
+from outstanding options to purchase common stock as calculated using the
+treasury stock method. Such amounts were approximately 36,000 in 1999 and 1998
+and 44,000 in 1997. Earnings per share calculations are as follows (in
+thousands, except per share amounts):
+
+                                     1999         1998         1997
+                                     ----         ----         ----
+Net income                        $44,312      $33,309      $40,846
+Basic earnings per share:
+    Shares                         16,046       15,981       16,093
+    Per share amount                $2.76        $2.08        $2.54
+
+Diluted earnings per share:
+    Shares                         16,246       16,203       16,137
+    Per share amount                $2.73        $2.06        $2.53
+
+                                                                     (continued)
+
+                                  Page 51 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(10) Employee Benefit Plans
+     ----------------------
+
+     The Company and certain of its subsidiaries maintain defined benefit
+pension plans and make contributions to multi-employer plans covering certain
+union employees. Certain non-U.S. subsidiaries have varying types of retirement
+plans providing benefits for substantially all of their employees. During 1999,
+a non-U.S. defined benefit pension plan was terminated.
+
+     Pension expense (benefit) was as follows (in thousands):
+
+                                                     1999       1998     1997
+                                                     ----       ----     ----
+Principal defined benefit plans                     $(982)     $(176)    $420
+Multi-employer and other employee benefit plans       295        206       40
+                                                    -----      -----     ----
+                                                    $(687)     $  30     $460
+                                                    =====      =====     ====
+
+     The expense for the principal defined benefit pension plans include the
+following components (in thousands):
+
+                                                    1999        1998     1997
+                                                    ----        ----     ----
+Service cost - benefits earned during the
+  period                                           $1,180     $1,093   $1,172
+Interest cost on projected benefit obligation       1,399      1,376    1,332
+Expected actual return on plan assets              (2,256)    (2,290)  (1,927)
+Curtailment gain                                     (664)        --       --
+Net amortization                                     (641)      (355)    (157)
+                                                   ------     ------   ------
+         Net periodic pension cost                 $ (982)    $ (176)  $  420
+                                                   ======     ======   ======
+
+                                                                     (continued)
+
+
+
+                                  Page 52 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(10) Employee Benefit Plans, continued
+     -----------------------
+
+The financial status of the principal defined benefit plans at December 31, 1999
+and 1998, was as follows (in thousands):
+
+                                                           1999         1998
+                                                           ----         ----
+Change in benefit obligation:
+
+     Benefit obligation at beginning of year              $20,910      $20,486
+
+         Service cost                                       1,180        1,093
+         Interest cost                                      1,399        1,376
+         Actuarial gain                                      (880)        (984)
+         Plan termination                                    (900)         --
+         Benefits paid                                       (720)      (1,061)
+                                                          -------      -------
+     Benefit obligation at end of year                     20,989       20,910
+
+Change in plan assets:
+
+     Fair value of plan assets at beginning of year        25,951       26,379
+
+         Actual return on plan assets                       3,189          620
+         Employer contributions                                --           13
+         Plan termination                                  (1,872)          --
+         Benefits paid                                       (720)      (1,061)
+                                                          -------      -------
+     Fair value of plan assets at end of year              26,548       25,951
+                                                          -------      -------
+
+     Funded status                                          5,559        5,041
+     Unrecognized:
+         Net gains                                         (9,496)      (8,124)
+         Prior service cost                                   654          728
+         Net transition obligation                             17           21
+                                                          -------      -------
+Accrued pension costs at December 31                      $(3,266)     $(2,334)
+                                                          =======      =======
+
+                                                                     (continued)
+
+
+
+                                  Page 53 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(10) Employee Benefit Plans, continued
+     -----------------------
+
+     Benefits are based on years of service and average final compensation. For
+U.S. plans, the Company funds, annually, at least the minimum amount required by
+the Employee Retirement Income Security Act of 1974. Depending on the investment
+performance of plan assets and other factors, the funding amount may be zero.
+Plan assets consist principally of short-term investments and listed bonds and
+stocks. Assumptions used to develop data for 1999 and 1998 were as follows:
+
+            Discount rate                                         7.3%
+            Annual compensation increases                         4.8%
+            Expected long-term rates of return on plan assets     9.0%
+
+     The Company maintains defined contribution 401(k) plans covering
+substantially all U.S. employees not affected by certain collective bargaining
+agreements. Under the primary 401(k) plan, the Company contributed a matching
+amount equal to $.50 for each $1.00 of the participant's contribution not in
+excess of 3% of the participant's annual wages. Beginning September 1, 1999, the
+Company increased its contribution amount to a matching amount equal to $1.00
+for each $1.00 of the participants contribution not in excess of 3% of the
+participant's annual wages. The total contribution expense under the 401(k)
+plans for employees of continuing operations was $681,000, $586,000 and $524,000
+in 1999, 1998 and 1997, respectively.
+
+     The Company does not provide any significant post-retirement benefits other
+than the pension plans and 401(k) plans described above.
+
+(11) Stock-Based Compensation
+     ------------------------
+
+     The Company has an incentive compensation plan for employees of the Company
+and its subsidiaries. One component of this plan grants the recipient the right
+of ownership of Technitrol, Inc. common stock, conditional on continued
+employment with the Company. A summary of the shares under the incentive
+compensation plan is as follows:
+
+                                                                 Available to
+                                                                  be granted
+                                                                  ----------
+Shares authorized                                                 1,200,000
+Awarded during years prior to 1999, net of cancellations           (902,055)
+                                                                  ---------
+Balance at December 31, 1998                                        297,945
+Awarded during 1999, net of cancellations                           (60,526)
+                                                                  ---------
+Balance available at December 31, 1999                              237,419
+                                                                  =========
+
+                                                                     (continued)
+
+                                  Page 54 of 61
+<PAGE>
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(11) Stock-Based Compensation, continued
+     -------------------------
+
+     During the years ended December 31, 1999, 1998 and 1997 the Company issued
+to employees, net of cancellations, incentive compensation shares having an
+approximate fair value at date of issue of $1,683,000, $1,210,000 and
+$1,037,000, respectively. Shares are held by the Company until the continued
+employment requirement has been attained. The market value of the shares at the
+date of grant is charged to expense during the vesting period on a straight-line
+basis. Amounts charged to expense as a result of the incentive compensation plan
+and related expenses were $2,327,000 in 1999, $1,186,000 in 1998 and $912,000 in
+1997.
+
+     The Company also has a stock award plan for non-employee directors. The
+Board of Directors Stock Plan was approved in 1998 to assist the Company in
+attracting and retaining highly qualified persons to serve on the Company's
+Board of Directors. Under the terms of the plan, 30,000 shares of the Company's
+common stock are available for grant. On an annual basis, shares amounting to a
+dollar value predetermined by the plan are issued to non-employee directors. In
+1999 and 1998, 5,424 and 2,896 shares, respectively, (including those deferred
+at the directors' election) were issued under the plan.
+
+     In connection with the 1995 acquisition of Pulse Engineering, options which
+had been granted for the purchase of Pulse common shares were assumed by the
+Company and converted into options to purchase Technitrol common stock. At
+December 31, 1999, approximately 43,000 options remained outstanding. No
+additional options are expected to be granted under the assumed plans.
+
+     The Company has not issued any stock options to employees, except for those
+options assumed in connection with the acquisition of Pulse. The fair value of
+those options was included in the purchase price of the acquisition, and,
+accordingly, is amortized as part of the goodwill associated with the
+acquisition. The options have no additional impact on the earnings of the
+Company under the provisions of Statement of Financial Accounting Standards No.
+123, "Accounting for Stock-Based Compensation."
+
+                                                                     (continued)
+
+
+                                  Page 55 of 61
+<PAGE>
+
+
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(12) Supplementary Information
+     -------------------------
+
+     The following amounts were charged directly to costs and expenses (in
+thousands, for continuing operations):
+
+                                                   1999        1998        1997
+                                                   ----        ----        ----
+           Depreciation                          $15,678     $13,933     $11,874
+           Amortization of intangible assets       3,733       2,347       1,379
+           Advertising                               780         799       1,510
+           Repairs and maintenance                 6,480       6,472       5,868
+           Bad debt expense                          116         632         328
+
+      Cash payments made (in thousands,
+        for all operations):
+
+           Income taxes                          $17,604     $11,813     $13,668
+           Interest                                3,528       3,344       2,353
+
+Accumulated other comprehensive income as disclosed in the Consolidated
+Statements of Changes in Shareholders' Equity consists principally of foreign
+currency translation items. In 1997, as a result of the Company's sale of its
+Test & Measurement Products Segment (which included Lloyd Instruments, Ltd., a
+U.K. Company), a reclassification adjustment was made as follows:
+
+       Unrealized currency translation loss arising during period       $(1,341)
+       Less: Reclassification adjustment for losses included in
+             the gain on the sale of the Test & Measurement
+             Products Segment                                               533
+                                                                        --------
+       Net currency translation adjustment                              $  (808)
+                                                                        ========
+
+(13) Segment Information
+     -------------------
+
+     The "Business Segment Financial Information" and "Geographic Information"
+sections on pages 5 through 7 of this Form 10-K are integral parts of the
+Company's consolidated financial statements.
+
+                                                                     (continued)
+                                  Page 56 of 61
+<PAGE>
+
+                        Technitrol, Inc. and Subsidiaries
+
+              Notes to Consolidated Financial Statements, continued
+
+(14) Quarterly Financial Data (Unaudited)
+     -----------------------------------
+
+     Quarterly results of operations (unaudited) for 1999 and 1998 are
+summarized as follows (in thousands, except per share data):
+
+                                                   Quarter Ended
+                                                   -------------
+                                     Apr. 2      July 2      Oct. 1      Dec. 31
+                                     ------      ------      ------      -------
+1999:
+       Net sales                   $125,230    $127,857    $137,032     $140,317
+       Gross profit                  38,139      40,028      44,052       49,664
+       Net earnings                   8,736      10,275      12,218       13,083
+       Net earnings per share:
+            Basic                       .55         .64         .76          .81
+            Diluted                     .54         .63         .75          .80
+
+                                    Mar. 31     June 30    Sept. 30      Dec. 31
+                                    -------     -------    --------      -------
+1998:
+       Net sales                   $110,748    $104,888    $113,349     $119,554
+       Gross profit                  36,142      33,159      34,946       37,996
+       Net earnings                   9,378       8,413       7,442        8,076
+       Net earnings per share:
+            Basic                       .58         .53         .47          .51
+            Diluted                     .58         .52         .46          .50
+
+
+
+
+
+
+
+
+
+                                  Page 57 of 61
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                   Technitrol, Inc. and Subsidiaries
+
+                                    Financial Statement Schedule II
+
+                                   Valuation and Qualifying Accounts
+
+                                       (In thousands of dollars)
+
+
+                                                                 Additions (Deductions)
+                                                        -------------------------------------------
+                                                         Charged to
+                                           Balance        costs and   Write-offs and                     Balance
+Description                               January 1        expenses      payments       Other (1)      December 31
+- -----------                               ---------        --------      --------       ---------      -----------
+<S>                                        <C>              <C>          <C>             <C>             <C>
+Year ended December 31, 1999:
+Reserve for obsolete and slow-moving
+    inventory                              $17,134          $4,483       $(15,334)       $    --         $ 6,283
+                                           =======          ======       ========        =======         =======
+Reserve for doubtful accounts              $   819          $  116       $    (53)       $    --         $   882
+                                           =======          ======       ========        =======         =======
+
+
+Year ended December 31, 1998:
+Reserve for obsolete and slow-moving
+    inventory                              $ 3,720          $3,541       $ (4,280)       $14,153         $17,134
+                                           =======          ======       ========        =======         =======
+Reserve for doubtful accounts              $   202          $  632       $   (416)       $   401         $   819
+                                           =======          ======       ========        =======         =======
+
+
+Year ended December 31, 1997:
+Reserve for obsolete and slow-moving
+    inventory                              $ 4,671          $6,536       $ (7,487)       $    --         $ 3,720
+                                           =======          ======       ========        =======         =======
+Reserve for doubtful accounts              $    --          $  328       $   (126)       $    --         $   202
+                                           =======          ======       ========        =======         =======
+
+<FN>
+(1) Primarily relates to acquisitions
+</FN>
+</TABLE>
+
+
+
+                                  Page 58 of 61
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                  Exhibit Index
+
+DOCUMENT
+- --------
+
+<S>                                                       <C>
+ 3. (a) Articles of Incorporation                         Incorporated by reference to Form 8-A/A dated April 10,
+                                                              1998
+
+    (b) By-laws                                          Incorporated by reference to Form 10-Q for the quarter
+                                                              ended July 2, 1999
+
+ 4. Instruments defining rights of security holders       Incorporated by reference to Form 10-Q for the quarter
+                                                              ended July 2, 1999, and to Form 8-A/A dated
+                                                              April 10, 1998
+
+21. Subsidiaries of Registrant                            Page 60
+
+23. Consent of Certified Public Accountants               Page 61
+
+27. Financial Data Schedule                               Electronic Filing Only
+
+</TABLE>
+
+
+
+
+
+
+                                  Page 59 of 61
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+             Exhibit (21) Significant Subsidiaries of the Registrant
+
+     Technitrol, Inc., which has no parent, has the following subsidiaries:
+
+                                                                       Percent
+Name                                        Incorporation                Owned
+- ----                                        -------------                -----
+AMI Doduco (Mexico), S. de R. L. de C. V.   Mexico                       100%
+AMI Doduco (NC), Inc.                       Delaware                     100%
+AMI Doduco (NJ), Inc.                       Delaware                     100%
+AMI Doduco (PA), Inc.                       Pennsylvania                 100%
+AMI Doduco (PR), Inc.                       Delaware                     100%
+AMI Doduco Espana, S. L.                    Spain                        100%
+AMI Doduco GmbH                             Germany                      100%
+AMI Doduco Italia S.r.l.                    Italy                        100%
+AMI Doduco Singapore Holding Pte. Ltd.      Singapore                    100%
+Dongguan Pulse Electronics Co., Ltd.        People's Republic of China   100%
+Pulse Canada Ltd.                           Canada                       100%
+Pulse Components Ltd.                       Hong Kong                    100%
+Pulse Electronics (Singapore) Pte. Ltd.     Singapore                    100%
+Pulse Electronics Ltd.                      Hong Kong                    100%
+Pulse Engineering Distribution Ltd.         Ireland                      100%
+Pulse Engineering, Inc.                     Delaware                     100%
+Pulse GmbH                                  Germany                      100%
+Pulse Philippines, Inc.                     Philippines                  100%
+Pulse Production (Malaysia) Sdn. Bhd.       Malaysia                     100%
+Pulse Production (Thailand) Ltd.            Thailand                     100%
+Pulse S.A.                                  France                       100%
+Technitrol Delaware, Inc.                   Delaware                     100%
+Technitrol Singapore Holdings Pte. Ltd.     Singapore                    100%
+TNL Singapore Components Holdings Pte. Ltd. Singapore                    100%
+Valor East Electronics Ltd.                 Hong Kong                    100%
+Valor Europe Ltd.                           United Kingdom               100%
+Valor GTI Electronics (Shenzhen) Co. Ltd.   People's Republic of China   100%
+
+
+
+
+                                  Page 60 of 61
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF CERTIFIED PUBLIC ACCOUNTANTS
+<TEXT>
+
+
+
+               Consent of Independent Certified Public Accountants
+
+
+
+The Board of Directors
+Technitrol, Inc.:
+
+We consent to the incorporation by reference in the registration statements
+(Nos. 33-35334, 33-63203, 333-55751, 333-85271 and 333-94073) on Form S-8 of
+Technitrol, Inc. of our report dated February 25, 2000, relating to the
+consolidated balance sheets of Technitrol, Inc. and subsidiaries as of December
+31, 1999 and 1998 and the related consolidated statements of earnings, cash
+flows, changes in shareholders' equity and the financial statement schedule for
+each of the years in the three-year period ended December 31, 1999, which report
+appears in the December 31, 1999 annual report on Form 10-K of Technitrol, Inc.
+
+
+
+
+                                                                       KPMG LLP
+
+
+
+Philadelphia, Pennsylvania
+March 15, 2000
+
+
+
+                                  Page 61 of 61
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>ART. 5 FDS FOR 1999 10-K
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>      5
+<MULTIPLIER>   1000
+
+<S>                                           <C>
+<PERIOD-TYPE>                                        YEAR
+<FISCAL-YEAR-END>                             DEC-31-1999
+<PERIOD-END>                                  DEC-31-1999
+<CASH>                                             88,161
+<SECURITIES>                                            0
+<RECEIVABLES>                                      78,396
+<ALLOWANCES>                                          882
+<INVENTORY>                                        65,101
+<CURRENT-ASSETS>                                  239,288
+<PP&E>                                            150,926
+<DEPRECIATION>                                     68,204
+<TOTAL-ASSETS>                                    381,239
+<CURRENT-LIABILITIES>                              97,437
+<BONDS>                                            60,329
+<COMMON>                                            2,033
+<PREFERRED-MANDATORY>                                   0
+<PREFERRED>                                             0
+<OTHER-SE>                                        213,602
+<TOTAL-LIABILITY-AND-EQUITY>                      381,239
+<SALES>                                           530,436
+<TOTAL-REVENUES>                                  530,436
+<CGS>                                             358,553
+<TOTAL-COSTS>                                     358,553
+<OTHER-EXPENSES>                                      585
+<LOSS-PROVISION>                                        0
+<INTEREST-EXPENSE>                                  3,477
+<INCOME-PRETAX>                                    59,009
+<INCOME-TAX>                                       14,697
+<INCOME-CONTINUING>                                44,312
+<DISCONTINUED>                                          0
+<EXTRAORDINARY>                                         0
+<CHANGES>                                               0
+<NET-INCOME>                                       44,312
+<EPS-BASIC>                                          2.76
+<EPS-DILUTED>                                        2.73
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

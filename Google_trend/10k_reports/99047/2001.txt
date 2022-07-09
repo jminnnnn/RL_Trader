@@ -1,0 +1,2753 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F/mHZKH2PkkUSdFM7UBaK3kc9XJjolApphdaSow5ru54gzssjB1mhj1riqbnudLT
+ 046cRg8LZlOS331388jSSA==
+
+<SEC-DOCUMENT>0000921895-01-000171.txt : 20010409
+<SEC-HEADER>0000921895-01-000171.hdr.sgml : 20010409
+ACCESSION NUMBER:		0000921895-01-000171
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010402
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NYFIX INC
+		CENTRAL INDEX KEY:			0000099047
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				061344888
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-12292
+		FILM NUMBER:		1588697
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 LUDLOW STREET
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		2034258000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRINITECH SYSTEMS INC
+		DATE OF NAME CHANGE:	19940404
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+(Mark one)
+
+
+/X/      Annual  report  pursuant  to  Section  13 or  15(d)  of the  Securities
+         Exchange  Act of 1934 For the Fiscal  Year Ended  December  31, 2000
+
+         OR
+
+/ /      Transition  report  pursuant  to Section 13 or 15(d) of the  Securities
+         Exchange Act of 1934 For the transition period from ________to________
+
+                         Commission file number: 0-21324
+
+                                   NYFIX, INC.
+             (Exact name of registrant as specified in its charter)
+
+         NEW YORK                                        06-1344888
+  (State of incorporation)             (I.R.S. Employer identification number)
+
+                      333 LUDLOW STREET, STAMFORD, CT 06902
+                    (Address of principal executive offices)
+
+Registrant's telephone number, including area code:  (203) 425-8000
+
+Securities registered under Section 12(b) of the Exchange Act: NONE
+
+Securities registered under Section 12(g) of the Exchange Act:
+
+COMMON STOCK, $.001 PAR VALUE PER SHARE            NASDAQ STOCK MARKET
+         (Title of each class)                (Name of each exchange on
+                                                   which registered)
+
+Check  whether  the  registrant  (1) filed all  reports  required to be filed by
+Section 13 or 15(d) of the  Exchange  Act during the past 12 months (or for such
+shorter period that the  registrant was required to file such reports),  and (2)
+has been subject to such filing requirements for the past 90 days. Yes X  No
+                                                                      ---   ---
+
+Check if there is no disclosure of delinquent  filers in response to Item 405 of
+Regulation S-K contained in this form, and no disclosure  will be contained,  to
+the  best  of  registrant's   knowledge,  in  definitive  proxy  or  information
+statements  incorporated  by  reference  in Part  III of this  Form  10-K or any
+amendment to this Form 10-K. X
+                            ---
+
+The  aggregate  market value of the voting stock held by  non-affiliates  of the
+Registrant was approximately $501 million,  as of March 16, 2001. Solely for the
+purposes of this  calculation,  shares  held by  directors  and  officers of the
+Registrant  have  been  excluded.   Such  exclusion   should  not  be  deemed  a
+determination by the Registrant that such individuals are, in fact, "affiliates"
+of the Registrant.
+
+As of March 16, 2001 there were  25,340,788  shares of the  Registrant's  Common
+Stock outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+
+   Documents                                             Form 10-K Reference
+   ---------                                             -------------------
+   Proxy Statement for the 2001 Annual Meeting
+      of Stockholders                                    Part III, Items 10 - 13
+
+
+<PAGE>
+
+                                   NYFIX, INC.
+                         TABLE OF CONTENTS TO FORM 10-K
+
+Item Number                                                               Page
+- -----------                                                               ----
+PART I
+
+         ITEM 1 - BUSINESS                                                  1
+         ITEM 2 - PROPERTIES                                                6
+         ITEM 3 - LEGAL PROCEEDINGS                                         6
+         ITEM 4 - SUBMISSION OF MATTERS TO A VOTE OF
+                        SECURITY HOLDERS                                    6
+PART II
+
+         ITEM 5 - MARKET FOR THE REGISTRANT'S EQUITY AND RELATED
+                        STOCKHOLDER MATTERS                                 6
+         ITEM 6 - SELECTED FINANCIAL DATA                                   7
+         ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                        CONDITION AND RESULTS OF OPERATION                  8
+         ITEM 7A - QUANTATATIVE AND QUALITATIVE DISCLOSURES ABOUT
+                        MARKET RISK                                        13
+         ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA              13
+         ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                        ACCOUNTING AND FINANCIAL DISCLOSURE                13
+PART III
+
+         ITEM 10 - DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT      13
+         ITEM 11 - EXECUTIVE COMPENSATION                                  13
+         ITEM 12 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+                        AND MANAGEMENT                                     13
+         ITEM 13 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS          13
+
+PART IV
+
+         ITEM 14 - EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS
+                        ON FORM 8-K                                        14
+
+
+<PAGE>
+
+                                     PART I
+
+ITEM 1. BUSINESS
+Description of Business
+
+NYFIX, Inc. (the "Company" or "NYFIX") develops and markets advanced  electronic
+trading systems to brokerage  firms,  international  banks and global  exchanges
+trading in equities and derivative  instruments.  The Company's NYFIX Network, a
+combined  Financial  Information  Exchange  protocol ("FIX") and Exchange Access
+Network,  enables  users to  electronically  communicate  trade  data  among the
+buy-side,  sell-side and exchange floor environments.  NYFIX is headquartered in
+Stamford,  Connecticut and maintains operations in New York, Chicago and London.
+The  Company  was  incorporated  in New York in 1991 and is listed on the Nasdaq
+Stock Market under the symbol NYFX. Prior to March 6, 2000, the Company's common
+stock was traded on the American  Stock  Exchange  under the ticker  symbol NYF.
+Prior to October 25, 1999, the Company's common stock was traded on the American
+Stock Exchange under the ticker symbol TSI.
+
+The  Company's  goal is to become the leading  provider of real-time  electronic
+trade  entry  and  routing  systems  and  connectivity  services  to the  global
+financial  services  industry.  The Company  offers its customers the ability to
+enter and route orders and executions electronically from "end-to-end," from the
+buy-side/retail  institution  or remote  branch  office  through to the exchange
+floors and electronic exchanges.  The Company's technology is used by such major
+firms as Lehman  Brothers,  Deutsche Bank, UBS Warburg,  ING Barings and Merrill
+Lynch, among others.
+
+The Company's systems provide  electronic order entry,  order routing,  tracking
+and risk monitoring  capabilities,  replacing existing paper and telephone based
+trading  and  eliminating  a number of  redundant  steps in the  order  flow and
+execution  reporting process. As the financial industry continues to move from a
+paper  and voice  driven  tracking  environment  to  real-time  electronic-based
+trading,  management believes NYFIX is well positioned to take advantage of this
+growing  trend.  Wall Street  firms are  recognizing  the ability of  electronic
+trading  systems to  enhance  order and  information  flow and  improve  trading
+performance by eliminating trading errors and providing on-line risk management,
+in  addition  to the  cost  efficiencies  associated  with  electronic  trading.
+Numerous trading  scandals have provided further impetus for the  implementation
+of  electronic   trading   systems  with  risk  monitoring  and  audit  tracking
+capabilities by financial risk managers.
+
+In September  1997, the Company  launched its NYFIX Network,  a FIX and Exchange
+Access  Network  designed  to provide  the  financial  community  with a central
+electronic  meeting place for routing  real-time  orders and other FIX messages.
+NYFIX provides the Company's equities customers access to its subscription-based
+quote,  order and execution  routing  systems as well as providing  connectivity
+between the buy-side,  sell-side  and exchange  floor  environments  through the
+industry  standard trade  communication  protocol,  FIX. NYFIX offers  financial
+firms the ability to utilize the Company's systems without having to invest in a
+communications  infrastructure.  Furthermore,  the Company's  NYFIX Data Centers
+offer the  potential  for an "any to any"  relationship  for routing  orders and
+executions between and among firms, various exchanges and alternative sources of
+liquidity including Electronic  Communications  Networks (ECNs). The Company has
+made considerable  progress implementing its  subscription-based  NYFIX business
+model throughout 2000 and management believes the Company is well positioned for
+further growth in 2001.  NYFIX continues to provide the financial  industry with
+complete systems,  including the raw terminals (hardware manufactured by NYFIX),
+the software and the infrastructure  (through its NYFIX Data Centers) to tie the
+trading  industry  together for the  electronic  entry and routing of orders and
+executions.
+
+All of the Company's products are available in flexible building blocks that can
+be sold as  complete  systems or  separately  to  complement  existing  customer
+components.  This has given the Company the ability to collect revenue from each
+"link" of the trading process.  The Company also continues to expand and enhance
+its  product  portfolio  with  new  and   complementary   software  modules  and
+connectivity  services  that allow the Company to collect  revenue from multiple
+levels.  The Company offers its trading  systems on a subscription  basis,  with
+hardware, software and maintenance provided for a monthly fee. For the Company's
+customers,  this pricing model offers minimal up-front  investment in technology
+as well as an alternative to costly in-house  development.  For the Company,  it
+offers a  simplification  of the sales  cycle as well as  significant  recurring
+revenue.  From time to time, the Company does offer certain  products (such as a
+custom  enhancement)  for a one-time  fee. The Company as a whole is moving away
+from its previous capital sales model and now offers its systems,  including the
+entire NYFIX product line, on a subscription basis.
+
+                                       1
+<PAGE>
+
+Information  about the  Company's  business  segment  and sales to  unaffiliated
+customers,  gross  profit  and  identifiable  assets,  by  geographic  area,  is
+contained  in  "Note  14  -  Business  Segment  Information"  appearing  in  the
+consolidated  financial statements as noted in the Index appearing under Item 14
+(a) (1).
+
+NYFIX Millennium, L.L.C.
+- ------------------------
+In October of 1999,  the Company  announced the  formation of NYFIX  Millennium,
+L.L.C. ("NYFIX Millennium"),  with Deutsche Bank, ING Barings,  Lehman Brothers,
+Morgan  Stanley  Dean  Witter,  Sanford  C.  Bernstein  & Co.,  Inc.,  SG  Cowen
+Securities  and  UBS  Warburg  (the  "Consortium").  NYFIX  owns  50%  of  NYFIX
+Millennium and the Consortium owns the remaining 50%.
+
+In 2000,  NYFIX  Millennium  became a  Broker/Dealer  and member of the National
+Association of Securities  Dealers  (NASD).  NYFIX  Millennium is an Alternative
+Trading System ("ATS"),  an electronic  execution  facility for equities trading
+transactions.  The System  matches  buyers and sellers of securities  through an
+electronic matching facility. The system is designed to provide investors with a
+valuable  tool for  achieving  "best  execution,"  by aiming  to help  investors
+achieve price  improvement,  ensure  anonymity  and reduce market  fragmentation
+through the electronic linkage of various liquidity sources, including exchanges
+and electronic  communication  networks (ECNs).  NYFIX Millennium  leverages the
+NYFIX  network's  large order routing  share volume to provide a more  efficient
+liquidity source for the financial community. NYFIX Millennium is referred to as
+a Hybrid Market System because it combines the electronic  execution  technology
+of an ECN with the liquidity of traditional  primary markets.  Through real-time
+matching and automatic  forwarding of unexecuted  orders to the primary exchange
+markets,  NYFIX  Millennium  plans to  provide  traders  unparalleled  access to
+liquidity.  NYFIX Millennium plans to generate  transaction-oriented  revenue by
+providing high quality executions,  providing price improvement and/or liquidity
+enhancements,   reducing   execution  costs  and  providing  superior  execution
+services.  The NYFIX Millennium ATS went into a test phase with a limited number
+of customers in late 2000.
+
+On March 14,  2001,  NYFIX  Millennium  added  Bank of America  and First  Union
+Securities as new partners, with additional partners and funding expected in the
+near term. Pursuant to the terms of the Operating Agreement of NYFIX Millennium,
+each new partner  contributed  $2,000,000 to NYFIX  Millennium,  and the Company
+maintained  its 50%  ownership  interest in NYFIX  Millennium  in  exchange  for
+reducing  certain of its  rights to share in future  dividend  distributions  of
+NYFIX  Millennium.  The Company issued 94,000 shares of its common stock to each
+new partner in return for the same option rights noted above.
+
+
+                                    Products
+
+Portfolio of Complete Electronic Trading Systems
+- ------------------------------------------------
+NYFIX  supplies  complete,   standardized  trading  solutions  that  consist  of
+hardware,  proprietary  software packages and network technology for the trading
+of equities and derivative  instruments.  In addition,  the Company supports its
+customers in all aspects of planning and  implementing  these systems as well as
+providing on-going technical support.
+
+The Company has two principal product lines: Equities and Future & Options. Each
+product line maintains technical  management staff with expert knowledge so that
+the  individual  product  lines are  efficiently  targeted  to their  respective
+customers.  The Equities  product line  operates  primarily out of the Company's
+Stamford  and New York offices and the Future & Options  product  line  operates
+primarily  out of the  Company's  London  and  Chicago  offices.  The London and
+Chicago  offices are included in a wholly-owned  subsidiary of the Company known
+as Trinitech  Systems  International,  Inc. Each location has the opportunity to
+sell, or enter into subscriptions for, each of the Company's product lines.
+
+
+                                       2
+<PAGE>
+
+Equities Product Line
+- ---------------------
+The Company has developed eight systems for equities trading:
+     1.          Market Looks System
+     2.          FloorReport(R)
+     3.          FIXTrader(R)
+     4.          NYFIX(R)Network Services
+     5.          Breakwatch(TM)
+     6.          TradeWatch
+     7.          NYFIX HandHeld
+     8.          Nasdaq Agency Interface
+
+The NYFIX Market Looks System consists of the Trinitech Touchpad(R),  a scanner,
+server and  proprietary  software.  The  touchpad was designed by the Company to
+simplify and expedite the entry of orders and information related to the trading
+of financial  instruments.  The  Trinitech  Touchpad(R),  with its patented flat
+panel design,  was  developed to optimize  critical  trader/broker  desktop real
+estate. Its proprietary open architecture  offers seamless  integration with all
+major industry  operating  systems,  thereby allowing customers to freely choose
+between  the most  popular  operating  systems.  The  Market  Looks  Systems  is
+comprised of two complementary  software modules:  FloorLook(R) for the exchange
+floor booth and FloorLook  ImageViewer(R)  for the upstairs trader  workstation.
+The Market Looks System  solves the  challenge  faced by member firms in getting
+real-time quotes or "looks" on stocks directly from the exchange floor to firms'
+upstairs  trading  operations.  The Market  Looks  System  operates  by scanning
+handwritten  quote slips called  "looks" into a scanner by a floor clerk located
+at the member's booth. These scanned looks are instantly transmitted to upstairs
+traders  at  their   workstations   in  multiple   sites  and  remote   offices.
+Implementation of the system results in the elimination of repetitive  telephone
+traffic  between clerks and traders.  The Market Looks System helps firms reduce
+errors and disseminate information more efficiently.
+
+The NYFIX FloorReport(R) System is a complete electronic order management system
+designed  for exchange  member  firms'  exchange  floor  operations.  Orders are
+received  electronically  from  upstairs  traders (via the FIX  Protocol),  with
+execution  information routed back in the same efficient manner.  FloorReport(R)
+enables floor clerks to route  execution  information to sales and block traders
+in real time,  enabling  them to better  service  their  customers.  FloorReport
+organizes  orders in a central  blotter,  helping clerks by tracking  status and
+calculating average price in real-time.
+
+The NYFIX FIXTrader  System is a complete order  management  system for upstairs
+traders,  which allows the electronic entry and routing of orders and executions
+between buy-side institutions,  sales and block desks and exchange floor booths.
+Traders enter orders quickly and  efficiently  through a Touchpad(R) (or a mouse
+and keyboard  configuration)  and which are then routed to the appropriate venue
+in seconds,  with executions routed back in the same efficient manner.  With the
+financial  industry's adoption of FIX as the standard protocol for communicating
+electronically,   FIXTrader(R)  offers  an  easy  way  for  firms  to  gain  FIX
+compliance. FIXTrader(R) enables firms to receive orders electronically from the
+buy-side  as well as  connect  to back  office  systems  helping  firms  achieve
+straight-through processing.
+
+The NYFIX  Network is a  Combined  FIX and  Exchange  Access  Network  that link
+various  companies   throughout  the  financial   industry  for  the  electronic
+communication of trade information.  Connecting  buy-side,  brokerage,  exchange
+floor booths and various exchange  systems,  NYFIX is a private,  secure network
+designed  to  provide  firms  with  secure and  reliable  transmission  of their
+electronic  trade  information.  NYFIX  provides a number of benefits to clients
+including  reduced cost  compared to  maintaining  one's own network,  increased
+routing options and network management ensuring connectivity between parties.
+
+Breakwatch(TM)  is NYFIX's  application for identifying  intra-day trade errors.
+This program  helps firms  identify  potential  trading  errors,  giving firms a
+chance to rectify mistakes on the day the trade takes place. Breakwatch(TM) also
+provides a link into the OCS system, simplifying reporting as per exchange trade
+reporting requirements.
+
+TradeWatch  is NYFIX's  application  for  monitoring  an entire  trading  desk's
+positions. This application,  used by head traders and/or risk managers, enables
+management to keep apprised of all the trading  desk's  positions
+
+                                       3
+<PAGE>
+by integrating data from all of the firm's FIXTrader workstations.
+
+The NYFIX  HandHeld  is the  Company's  Market  Looks  System,  which  runs on a
+handheld computer. This wireless, lightweight computer is used by exchange floor
+brokers to transmit  looks from the  specialist  to their booth and  directly to
+traders'   workstations.   Battery-powered,   the  NYFIX  HandHeld  enables  the
+simultaneous  transmission  of looks to  multiple  traders  as well as  enabling
+traders to receive  looks  directly from "the crowd" on the trading  floor.  The
+Handheld units were rolled out during the first quarter of 2000.
+
+NYFIX's Nasdaq Agency Interface is an application  designed to accommodate order
+management  and  routing for the Nasdaq  marketplace.  Level II  compliant,  the
+Nasdaq Agency Interface enables traders to communicate  electronically  with the
+Nasdaq market.
+
+During  2000,  the  Company  enhanced  its  product  line by  adding a number of
+auxiliary services,  such as increased connectivity options and linkages as well
+as  increased  functionality.  Product  development  continues  to be focused on
+adding more  features to the  Company's  existing  product  line,  accommodating
+customer  requests.  The  Company is also  developing  additional  products  and
+services to be offered in 2001.
+
+Product Pricing - Equities
+All of NYFIX's products for equities  trading are sold on a subscription  basis,
+with hardware, software and maintenance provided for a monthly subscription fee.
+Subscription  agreements  usually run from one to three  years,  with  automatic
+multiple  year  renewal  provisions  included.  Products are priced on a monthly
+basis per terminal.
+
+Product Penetration - Equities
+Building upon the Data Center  established  in late 1996,  the Company  launched
+NYFIX(R),  its combined FIX and Exchange Access Network,  in September 1997. The
+Network and data center,  strategically located several blocks from the New York
+Stock  Exchange,  offers easy  monthly  subscription-based  access to all of the
+Company's quote,  order and execution  routing  systems.  The NYFIX Network also
+allows  smaller  "two-dollar"  and  independent  brokers access to the Company's
+systems.  Firms no longer need a  communications  infrastructure  to utilize the
+Company's systems, as they can simply subscribe to the service. During 2000, the
+Company  has  continued  to invest in the NYFIX data  center  infrastructure  to
+accommodate customer needs and growth of the service.
+
+Futures & Options Product Line
+- ------------------------------
+For the futures & options  trading  market,  the  Company  markets its Futures &
+Options Order Book Management System ("OBMS"), which enables futures and options
+traders to enter,  route and manage orders and  executions in real-time.  Global
+order routing between different  international branches of the same firm and all
+the major global exchanges, both open outcry and electronic is supported by this
+comprehensive system. OBMS is offered utilizing the Company's patented Trinitech
+Touchpad(R) or in stand-alone software versions.
+
+Product Pricing - Futures & Options
+The Company offers OBMS on a subscription or transaction  basis,  with hardware,
+software and  maintenance  provided for a monthly fee.  Subscription  agreements
+usually  run  from one to three  years  with  automatic  multiple  year  renewal
+provisions included.  When OBMS is sold on a transaction basis, the Company will
+receive a fee per futures  contract  traded through the system with a guaranteed
+monthly minimum payment.
+
+Product Penetration - Futures & Options
+OBMS has been  utilized  by a number of leading  firms in the  futures & options
+industry,  including CS First Boston,  Dresdner  Kleinwort  Benson,  and Merrill
+Lynch, among others.
+
+                                    Marketing
+
+Electronic Trading Systems
+- --------------------------
+
+The Company  believes that the financial  trading  industry  represents an ideal
+example  of  a  uniform  niche  market.  The  characteristics  of  this  market,
+particularly  its low level of  automation  at the  trade-entry  or  deal-making
+level, provide an excellent  opportunity for the marketing of cost-effective and
+innovative technical solutions. The Company believes that this market is clearly
+defined, readily accessible,  and accustomed to technological  adjustment.  As a
+single,  coherent
+
+                                       4
+
+<PAGE>
+
+community,  the  trading  industry  allows the  Company  to market  standardized
+products in a uniform  manner for  Equities  and Futures & Options  trading on a
+global  basis.  Management  believes  the  Company's  offering  of products on a
+subscription   or  transaction   basis  through  a  data  center  solution  will
+significantly  aid in the  roll-out of its products on an  industry-wide  basis,
+opening up new markets for the Company's products.
+
+The Company continued its aggressive marketing efforts in 2000 and increased its
+global   presence  by   exhibiting   its  products  at  numerous   domestic  and
+international  technology and financial industry  conferences.  The Company also
+generated  significant  press coverage with respect to its FIX trading solutions
+and industry wide FIX and exchange connectivity network,  NYFIX(R).  The Company
+intends to continue its marketing initiatives in 2001.
+
+                                   Competition
+
+Electronic Trading Systems
+- --------------------------
+Competition exists in the Company's primary market. The Company believes that it
+competes favorably with its trading systems, gaining additional leverage through
+optimized  integration  of  NYFIX's  advanced  systems  and its large  number of
+connectivity  options. To further enhance the marketability of its systems,  the
+Company is implementing  its solutions on the most popular and  well-established
+client server architectures.
+
+The Company believes that its technology  offers unique  advantages  compared to
+alternative  technologies utilized by competitors.  The Company believes,  based
+upon customer feedback,  that its systems  successfully fulfill their promise of
+immediate  entry,  routing  and  reporting  of  trading  positions,  operational
+savings,  reduction of input error and  improvement  in reporting for compliance
+purposes.
+
+The  Company  also  believes  that its  management  and staff  have an  in-depth
+knowledge of the  inner-workings  of trading  rooms,  exchange  floors,  and the
+overall  marketplace,  thus  facilitating its ability to serve client needs with
+technological hardware and software adaptations.
+
+                               Product Production
+
+The Company designs, develops and produces its proprietary software and hardware
+products at its facility in Stamford,  Connecticut. The Company is not dependent
+upon any one  supplier,  vendor or  subcontractor  for any of its  manufacturing
+components.
+
+                             Patents and Trademarks
+
+The  Company   maintains  a  program  of  obtaining  and  protecting   U.S.  and
+international  patents and trademarks.  The Company believes that the success of
+its business is not  materially  dependent  on the  existence or duration of any
+patent,  group of patents or  trademarks.  The  Company's  trademarks  should be
+available for the Company's use as long as it desires.
+
+                                 Major Customers
+
+Information about the Company's  dependence on major customers relating to sales
+and accounts receivable is contained in "Note 8 - Major Customers"  appearing in
+the financial statements as noted in the Index appearing under Item 14 (a) (1).
+
+                               Rule 123 Amendments
+
+NYFIX is aware of amendments on file with the SEC to change certain  regulations
+governing the recording and transmission of orders to and on the NYSE floor. The
+first phase of such regulations  calls for all orders received on the NYSE floor
+to be input into an electronic order management system for better monitoring and
+tracking of trades.  The second phase calls for all orders to the exchange to be
+sent  electronically.   The  Company  believes  this  regulation  is  positively
+impacting  NYFIX's  business.  The Company already  produces  systems capable of
+meeting and exceeding  regulatory  requirements  with many  additional  features
+designed to reduce errors and maximize customer
+
+                                       5
+<PAGE>
+
+efficiency.  Management  believes that as the Rule 123 amendments wind their way
+through  the SEC's  notice and  comment  period  NYFIX will be  provided an even
+greater  opportunity  to capture  market share both on the exchange floor and on
+the upstairs trading desks.
+
+                                    Employees
+
+As of March 16, 2001 the Company had 124 full-time employees.
+
+                    Risk Factors: Forward Looking Statements
+
+The management discussion and analysis and the information provided elsewhere in
+this Form 10-K contain forward looking statements regarding the Company's future
+plans,  objectives  and  expected  performance.  Those  statements  are based on
+assumptions that the Company believes are reasonable,  but are subject to a wide
+range of risks  and  uncertainties,  and a number  of  factors  could  cause the
+Company's  actual  results  to differ  materially  from those  expressed  in the
+forward  looking  statements  referred to above.  These factors  include,  among
+others, the Company's ability to further penetrate the financial services market
+with a full range of the Company's products and the highly competitive market in
+which the Company operates.
+
+ITEM 2. PROPERTIES
+
+The Company maintains its executive offices and production  facilities in leased
+premises at 333 Ludlow Street,  Stamford, CT 06902 and its European Sales Office
+in London,  England. The Company's U.S.  headquarters  consists of approximately
+12,900 square feet at a current  annual rental of $348,000,  expiring on May 31,
+2002.  The  Company's  London  office  lease,  expiring on June 6, 2009,  is for
+approximately 5,490 square feet at a yearly rental of $137,000,  excluding local
+taxes. The Company sublets a portion of the space for an annual rental income of
+$37,000,  excluding local taxes. The Company also rents office space at 100 Wall
+Street, New York, NY 10005 and at 20 North Wacker Drive,  Chicago,  IL 60606 for
+an annual rental of $145,000 and $19,000,  respectively, and approximately 4,800
+square feet and 1,000 square feet, respectively. The Company leases office space
+of approximately 3,700 square feet at 33 Union Square, New York, NY 10003 for an
+annual rental of $162,000,  expiring on December 1, 2001,  which it subleases to
+NYFIX Millennium on a month-to-month basis.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+There are no material legal  proceedings  that are currently  pending or, to the
+Company's knowledge, contemplated against the Company or to which it is a party.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY OWNERS
+
+Not applicable.
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+        MATTERS
+
+(a) Market Information
+The Company's common stock is traded on the Nasdaq Stock Market under the symbol
+NYFX.  Prior to March 6,  2000,  the  Company's  common  stock was traded on the
+American  Stock Exchange under the ticker symbol NYF. Prior to October 25, 1999,
+the Company's  common stock was traded on the American  Stock Exchange under the
+ticker symbol TSI. The following  table sets forth the high and low sales prices
+for the common stock,  for the periods  presented,  as reported by the Nasdaq or
+AMEX, as applicable.
+
+                                       6
+
+<PAGE>
+
+
+Prices of Common Stock
+                                             High              Low
+                                             ----              ---
+2000
+- ----
+
+First Quarter *                              $43.67            $14.17
+Second Quarter                               $44.38            $20.69
+Third Quarter                                $46.31            $29.63
+Fourth Quarter                               $45.81            $18.00
+
+1999        **                                High             Low
+- ----                                         ----              ---
+
+First Quarter                                $ 4.22            $ 3.06
+Second Quarter                               $ 8.17            $ 2.83
+Third Quarter                                $13.33            $ 6.39
+Fourth Quarter                               $21.17            $11.11
+
+*    Restated for 3 for 2 stock split in the form of a stock dividend  effective
+     4/4/2000
+**   Restated for 3 for 2 stock splits in the form of stock dividends  effective
+     11/15/1999 and 4/4/2000
+
+(b) Holders
+At March 16, 2001 the records of the Company's  transfer  agent  indicated  that
+there were 403 holders of record of the Company's common stock.
+
+(c) Dividends
+Shareholders of the Company's common stock are entitled to dividends if and when
+declared by the Board of Directors out of funds legally  available.  The Company
+has not paid or declared any  dividends on any class of its capital  stock since
+its  organization  and has no present  intention of paying cash dividends on its
+common stock. The Company intends to utilize any earnings it may achieve for the
+development of its business and for working capital purposes.
+
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+
+                                                                         Year Ended December 31,
+                                          ----------------------------------------------------------------------------------------
+                                               2000               1999              1998              1997                 1996
+                                               ----               ----              ----              ----                 ----
+<S>                                         <C>                <C>              <C>               <C>                  <C>
+Total revenues                              $23,980,167        $12,209,451      $ 6,235,393       $ 5,006,017          $7,013,605
+Gross profit                                $17,602,815        $ 8,443,864      $ 3,702,684       $ 2,325,879          $2,867,115
+Earnings (loss) from operations             $ 6,474,494        $ 1,194,166      $(2,226,337)      $(2,712,109)         $ (518,781)
+Net earnings (loss)                         $ 5,676,427        $   960,419      $(2,233,809)      $(2,594,040)         $ (445,285)
+Net earnings (loss) per common share:
+      Basic                                 $      0.23        $      0.04      $     (0.11)      $     (0.14)         $    (0.03)
+      Diluted                               $      0.21        $      0.04      $     (0.11)      $     (0.14)         $    (0.03)
+
+At year end:
+Cash and cash equivalents                   $ 4,866,629        $ 1,565,649      $ 3,948,004       $ 2,141,307          $1,198,730
+Working capital                             $ 9,158,936        $ 4,512,985      $ 5,970,449       $ 3,803,403          $3,522,756
+Property and equipment, net                 $11,472,473        $ 5,873,037      $ 2,854,131       $ 1,361,707          $  434,638
+Total assets                                $57,558,350        $38,828,025      $12,997,519       $ 7,547,263          $7,473,336
+Long-term debt, including current
+       portion                              $ 3,822,919        $ 2,500,000      $ 1,800,000       $    93,564          $  802,059
+Shareholders' equity                        $42,227,734        $29,885,280      $ 8,118,749       $ 5,901,733          $4,543,835
+</TABLE>
+
+                                       7
+
+<PAGE>
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS
+
+The following  discussion and analysis  should be read in  conjunction  with the
+consolidated financial statements and notes thereto.  Historical results are not
+necessarily indicative of the operating results for any future period.
+
+The  Company  commenced  operations  in  January  1991,  initially  focusing  on
+order-capturing of trading information via its Guided-Input(R)  Touchpad system,
+and since then has transitioned from a hardware vendor to a provider of complete
+infrastructure,  systems,  software and  wireless  trading  technologies  to the
+brokerage industry. The Company provides electronic trading and straight-through
+trade  processing  solutions to various  participants in the brokerage  industry
+such as brokerage firms,  international  banks and global  exchanges  trading in
+equities,  futures, options and currencies. The Company's deployment of products
+and services via the  Company's  NYFIX network has resulted in its customer base
+processing  a daily  volume  ranging  from as low as 200  million  shares in the
+beginning  of the year to single  trading days  exceeding  more than 500 million
+shares towards the end of year 2000.
+
+By 1996, the financial  services industry had adopted the Financial  Information
+Exchange Protocol,  commonly referred to as the FIX protocol, which provides the
+brokerage  industry  with a common  underlying  language  to  enable  electronic
+trading and  communications.  In late 1997,  the Company  built a  communication
+infrastructure  known as the "NYFIX network"  utilizing the FIX protocol through
+an individual  dedicated  circuit into the NYFIX network  which  provides  NYFIX
+customers  with global  electronic  connectivity  for trade order  routing.  The
+Company  currently offers its NYFIX services,  consisting of integrated  systems
+including  hardware and software,  together with linkage  through its NYFIX data
+center.  Customers  subscribe  to NYFIX  services  by paying a  monthly  fee per
+terminal  for  use of  the  Company's  integrated  infrastructure  and  software
+systems.  Beginning in late 1997, the Company  focused  primarily on selling its
+products and services on a subscription basis with ongoing monthly  subscription
+fees rather than a software  and capital  equipment  sales model with  one-time,
+upfront fees.  Since making this  transition,  total  revenues have increased to
+$23,980,000  in 2000 from  $5,006,000 in 1997,  representing  a compound  annual
+growth rate of 69%. The Company has been  profitable  since the first quarter of
+1999 and has had eight consecutive quarters of increasing profitability.
+
+The  Company's  revenues  comprise  subscription,  sales  and  service  contract
+revenue. Consistent with the Company's transition to a subscription sales model,
+subscription  fees represent a majority and increasing  share of total revenues.
+Subscription revenue contracts are primarily with brokerage firms, international
+banks and global exchanges trading in equities, and are generally for an initial
+period  of  one  to  three  years  with  one  to  three  year  renewal  periods.
+Subscription  revenues are recognized ratably over the lives of the subscription
+agreements  with  customers  and begin  once  installation  is  complete.  Sales
+revenue,  which is comprised of software sales and capital  equipment  sales, is
+generated primarily by sales to customers in the futures, options and currencies
+trading market, and is expected to decrease as a percentage of total revenues as
+the Company  continues to shift its focus to  servicing  those  markets  using a
+subscription fee model. Sales revenue is recognized upon shipment of the product
+and  acceptance  by the  customer.  Service  contract  revenue is  comprised  of
+maintenance contracts for capital sales equipment and subscription equipment and
+is  recognized  ratably  over the period that the service is  provided.  Service
+contract  revenue on  subscription  contracts is charged to customers as a fixed
+percentage of such contracts.
+
+Cost of revenues  principally  consists  of  subscription  communication  lines,
+amortization  of  capitalized  product  enhancement  costs and  depreciation  of
+subscription-based equipment, labor, materials and overhead.
+
+Selling,  general and  administrative  expenses  account for the majority of the
+Company's  operating  expenses  and consist of salaries and  benefits,  rent and
+office  expenses,  non-customer  specific  communication  fees,  provisions  for
+doubtful  accounts and marketing  expenses.  During the past several years,  the
+Company has expanded its efforts to support an increasing number of services and
+to increase the number of exchanges, brokerage firms and "buy-side" institutions
+connecting  to  the  NYFIX  network.  Management  believes  that  its  continued
+investment  in  the   development   of  the  NYFIX  system  and  its  associated
+applications  and  services  has  increased  order  flow,  which in turn  should
+facilitate both revenue growth and further distribution of its products.
+
+Research  and  development  expenses  relate  to  developing  new  products  and
+technologies  to meet the current and future needs of the  Company's  customers.
+These costs  consist  primarily of salaries and related  costs for technical
+
+                                       8
+
+<PAGE>
+
+and programming personnel.
+
+Depreciation and amortization  expense consists of depreciation and amortization
+of equipment and software used to operate the Company's systems.
+
+On October 27, 1999,  the Company  announced the  formation of NYFIX  Millennium
+L.L.C., a consortium of the Company and seven international investment banks and
+brokerage  firms,  consisting of Deutsche  Bank, ING Barings,  Lehman  Brothers,
+Morgan Stanley Dean Witter,  Sanford C. Bernstein & Co., SG Cowen Securities and
+UBS Warburg.  NYFIX Millennium is registered as a Broker/Dealer and is operating
+in compliance with Regulation ATS. In October 2000, NYFIX  Millennium  commenced
+the roll-out of its ATS on a limited basis to the Company's existing clients and
+is  allowing  them to use the  system  without  charging  for  orders  executed.
+Although the number of users and orders  passing  through NYFIX  Millennium  has
+been increasing, the Company currently does not anticipate that NYFIX Millennium
+will generate revenue until sufficient liquidity has been established within the
+system. Once sufficient liquidity is established in the system, NYFIX Millennium
+intends to generate  revenue by charging for each transaction on a fee per share
+basis.
+
+On March 14,  2001,  NYFIX  Millennium  added  Bank of America  and First  Union
+Securities as new partners, with additional partners and funding expected in the
+near term. Pursuant to the terms of the Operating Agreement of NYFIX Millennium,
+each new partner  contributed  $2,000,000 to NYFIX  Millennium,  and the Company
+maintained  its 50%  ownership  interest in NYFIX  Millennium  in  exchange  for
+reducing  certain of its  rights to share in future  dividend  distributions  of
+NYFIX  Millennium.  The Company issued 94,000 shares of its common stock to each
+new partner in return for the same option rights noted above.
+
+Year Ended December 31, 2000 Compared to Year Ended December 31, 1999
+
+Revenues
+Subscription  revenue  increased 137% to $15,955,000 in 2000, from $6,733,000 in
+1999,  principally due to increased desktop placements among existing customers,
+and also  the  addition  of new  customers  and new  product  offerings  sold to
+existing and new  customers.  As a percentage  of total  revenues,  subscription
+revenue increased to 67% in 2000 from 55% in 1999.
+
+Sales revenue  increased 37% to $5,089,000 in 2000, from $3,715,000 in 1999. The
+increase  in  sales  revenue  is  principally  due to  customer  demand  for the
+Company's Order Book Management  System ("OBMS")  derivatives  trading  software
+products.  As a percentage of total revenue,  sales revenue  decreased to 21% in
+2000, from 30% in 1999,  which is consistent with the Company's  transition to a
+subscription-based  model,  with software sales comprising the majority of sales
+revenue.
+
+Service contract revenue increased 67% to $2,936,000 in 2000, from $1,761,000 in
+1999,  principally due to an increase in subscription contract revenue. In 2000,
+service contract revenue  comprised 12% of total revenue,  as compared to 14% in
+1999.
+
+Cost of Revenues and Gross Profit
+Gross profit as a percentage of total revenues increased to 73% in 2000 from 69%
+in 1999. The increase in gross profit  percentage  principally  resulted from an
+increase in the amount of higher  margin  software  installations  and  improved
+pricing on  communication  charges  relating  to  subscription  agreements.  The
+Company obtains its materials and supplies from a variety of vendors in the U.S.
+and Far East and did not  experience  any  significant  price  increases  in its
+component  parts  purchased  during  2000.  Included  in  cost of  revenues  was
+amortization expense of product enhancement costs of $1,185,000 and $719,000 for
+2000 and 1999, respectively.  Also included in cost of revenues was depreciation
+expense for subscription-based equipment of $1,257,000 and $586,000 for 2000 and
+1999, respectively.
+
+Selling, General and Administrative
+Selling,  general and  administrative  expenses  increased  50% to $9,419,000 in
+2000,  from  $6,290,000 in 1999, but decreased as a percentage of total revenues
+to 39% in  2000  from  52% in  1999.  The  dollar  increase  reflects  increased
+salaries,  related personnel costs, rent expense and various office expenses due
+to personnel  increases to support the
+
+                                       9
+
+<PAGE>
+
+Company's growth. Also increasing were  non-recoverable  communication fees, and
+bad debt  expense  primarily  due to certain  independent  brokers  going out of
+business during 2000.
+
+Research and Development
+Research  and  development  expenses  increased  53% to $454,000  in 2000,  from
+$297,000  in 1999,  as the  Company  continued  to  research  ways to expand its
+product portfolio.
+
+Depreciation and Amortization
+Depreciation and amortization  expenses increased 89% to $1,255,000 in 2000 from
+$663,000  in  1999,  reflecting  principally  the  continued  investment  in the
+Company's infrastructure.
+
+Interest Expense
+Interest  expense  increased  50% to  $333,000 in 2000,  from  $222,000 in 1999,
+principally  as a result of capital  lease  obligations  entered into during the
+period and higher average  balances  outstanding on the Company's line of credit
+due to the draw down of an additional $700,000 in August 1999, offset in part by
+repayment of the principal of $83,000 a month commencing in July 2000.
+
+Interest Income
+Interest  income  increased  38% to  $156,000  in 2000,  from  $113,000 in 1999,
+principally due to higher average cash balances maintained by the Company during
+the year ended December 31, 2000 versus the comparable period in 1999.
+
+Provision for Income Taxes
+The  provision for income taxes  increased to $601,000 in 2000,  from $94,000 in
+1999.  As of  December  31,  1999,  the  Company  established  a full  valuation
+allowance of  $2,010,000  for its  deferred  tax assets based upon  management's
+determination  of the amount that would  ultimately be realized.  Based upon the
+continued  profitability  of the Company during 2000 as well as expected  future
+profitability,  management  determined as of December 31, 2000, that a valuation
+allowance was no longer required.
+
+At December 31, 2000, the Company had a net operating loss carryforward  balance
+for federal  income tax purposes of  $3,776,000,  expiring in 2014 through 2019.
+This  carryforward  balance  may be  significantly  limited  under the  Internal
+Revenue  Code as a result of  ownership  changes  resulting  from the  Company's
+equity offerings.  In the event that the Company continues to be profitable,  as
+it has been since the first quarter of 1999,  the Company will have income taxes
+on its  earnings.  These  taxes  will  have an effect  on the  Company's  future
+reported net earnings and cash flows.
+
+Year Ended December 31, 1999 Compared to Year Ended December 31, 1998
+
+Revenues
+Subscription  revenue  increased 196% to $6,733,000 in 1999,  from $2,278,000 in
+1998. The increase in  subscription  revenue is principally due to the Company's
+transition from offering its products and services on a capital sales basis to a
+subscription basis. The increase in subscription revenue is also partly due to a
+number of new product  enhancements and order routing services introduced during
+the year as well as the Company's continued increase in new orders.
+
+Sales revenue  increased 40% to $3,715,000 in 1999, from $2,653,000 in 1998. The
+increase  in sales  revenue  was  principally  due to  increased  demand for the
+Company's OBMS derivatives trading software.
+
+Service contract revenue increased 35% to $1,761,000 in 1999, from $1,304,000 in
+1998,  primarily due to the increase in subscription  contract revenue. In 1999,
+service contract revenue comprised 14% of total revenues,  as compared to 21% in
+1998.
+
+Cost of Revenues and Gross Profit
+Gross profit as a percentage of total  revenues  increased to 69% in 1999,  from
+59% in 1998,  principally  due to an  increase  in the  amount of higher  margin
+software installations and subscription agreements. During 1999, the Company did
+not experience any significant  price  increases in component  parts  purchased.
+Included in cost of sales was
+
+                                       10
+
+<PAGE>
+
+amortization  expense for product enhancement costs of $719,000 and $479,000 for
+1999 and 1998,  respectively.  Also  included in cost of sales was  depreciation
+expense for  subscription-based  equipment of $586,000 and $291,000 for 1999 and
+1998, respectively.
+
+Selling, General and Administrative
+Selling,  general and  administrative  expenses  increased  27% to $6,290,000 in
+1999, from $4,957,000 in 1998. This increase reflected increases in salaries and
+related personnel costs,  travel expenses and various office expenses  resulting
+from continued expansion both in the U.S. and in London.
+
+Research and Development
+Research  and  development  expenses  decreased  45% to $297,000  in 1999,  from
+$537,000 in 1998, primarily as a result of the Company focusing on enhancing its
+existing product line in 1999 as opposed to developing new products in 1998.
+
+Depreciation and Amortization
+Depreciation and amortization  expenses  increased 40% to $663,000 in 1999, from
+$475,000  in  1998,  reflecting  principally  the  continued  investment  in the
+Company's infrastructure in its NYFIX data center.
+
+Interest Expense
+Interest expense increased 106% to $222,000 in 1999, from $108,000 in 1998. This
+increase  was  principally  a  result  of  higher  balances  outstanding  on the
+Company's  new line of credit and the cost of warrants  issued for the guarantee
+of the amounts outstanding under the line of credit.
+
+Interest Income
+Interest  income  increased  23% to  $113,000  in 1999,  from  $92,000  in 1998,
+principally as a result of higher cash balances maintained by the Company.
+
+Liquidity and Capital Resources
+
+Prior to achieving the Company's present levels of profitability,  the Company's
+primary  source of  liquidity  had been equity  capital and  drawdowns  from the
+Company's line of credit agreement.  In November 1998 and in September 1999, the
+Company raised $3,450,000 and $2,547,000,  respectively, from private placements
+of  securities.  At December 31,  2000,  the cash and cash  equivalents  balance
+increased to $4,867,000  from $1,566,000 at December 31, 1999 as a result of the
+increase  in net  earnings  and the  exercise  of stock  options  and  warrants,
+partially offset by capital  expenditures and the acquisition of other assets to
+support the Company's infrastructure and repayments under the line of credit.
+
+At December 31, 2000, the Company had total debt of $3,823,000, which represents
+amounts  outstanding  under the line of credit and  capital  lease  obligations.
+Subsequent to year-end,  the Company has entered into capital lease  obligations
+for service bureau equipment valued at $524,000. The leases are for a three-year
+period,  with  annual  payments  of  $193,000.  Except for these  capital  lease
+obligations,  at December 31, 2000, the Company had no material  commitments for
+capital expenditures or inventory purchases.
+
+On July 13,  1998,  the Company  entered  into a  three-year  $3 million line of
+credit  agreement with a financial  institution  with advances on such agreement
+available to the Company  during the first 18 months.  The credit  agreement was
+primarily intended to finance equipment expenditures. The credit agreement bears
+interest at either LIBOR plus 1.25% or the bank's prime rate,  at the  Company's
+discretion. The Company drew down an aggregate of $1,800,000 under the agreement
+during  1998 and an  additional  $700,000  during  1999.  The  credit  agreement
+prohibited  the Company from making  principal  repayments  prior to February 1,
+2000.  Repayment  of principal  commenced  on July 30, 2000 with twelve  monthly
+installments  of $83,333  with the  remaining  balance due on July 30,  2001.  A
+non-employee  shareholder of the Company and the Company's president  personally
+secured the debt.  In  consideration  for  securing  the credit  agreement,  the
+non-employee shareholder and the Company's president received 337,500 and 56,250
+warrants,  respectively,  to purchase the Company's  common stock at $2.8333 per
+share, which was the market value of the Company's common stock on the date such
+warrants were issued.  Expense related to the warrants is being  recognized over
+the three-year term of the credit agreement.
+
+                                       11
+
+<PAGE>
+
+The Company believes it has sufficient liquidity,  including cash generated from
+operations and issuances of common stock,  to support its cash needs in the year
+2001.
+
+Working Capital
+At December 31, 2000 and 1999, the Company had working capital of $9,159,000 and
+$4,513,000, respectively, representing an 82% improvement. The Company's present
+capital resources  include proceeds from internal  operations and from issuances
+of common stock.
+
+Cash Provided by Operating Activities
+During 2000, net cash provided by operations was $9,432,000,  as compared to net
+cash provided by  operations  of $2,445,000 in 1999.  This increase is primarily
+attributable  to the 491% increase in net  earnings,  to $5,676,000 in 2000 from
+$960,000 in 1999.
+
+Cash Used in Investing Activities
+During 2000 and 1999,  net cash used in investing  activities was $9,387,000 and
+$8,769,000,  respectively.  The  increase  principally  represents  payments for
+purchases of equipment  related to the  Company's  data center and  subscription
+equipment and payments  related to product  enhancement  costs for the Company's
+product portfolio, along with advances made to NYFIX Millennium.
+
+Cash Provided By Financing Activities
+During 2000 and 1999, net proceeds from financing activities were $3,256,000 and
+$3,942,000,  respectively.  During 2000 proceeds of $3,955,000 from the exercise
+of warrants and stock  options were  partially  offset by  repayments  under the
+credit line of $500,000 and principal  payments under capital lease  obligations
+of $200,000.  During 1999,  proceeds were $2,547,000 from a private placement of
+common  stock,  the exercise of warrants and stock  options  generated  funds of
+$695,000, and borrowings under our line of credit were $700,000.
+
+Seasonality
+
+The Company  believes  that its  operations  are not  significantly  effected by
+seasonality.
+
+New Accounting Pronouncements
+
+In June 1998, the Financial  Accounting Standards Board ("FASB") issued SFAS No.
+133  ("SFAS  133"),   "Accounting   for  Derivative   Instruments   and  Hedging
+Activities." SFAS 133 is effective for all fiscal years beginning after June 15,
+2000. SFAS 133, as amended,  establishes  accounting and reporting standards for
+derivative  instruments,  including certain derivative  instruments  embedded in
+other contracts and for hedging  activities.  Under SFAS 133, certain  contracts
+that were not formerly  considered  derivatives may now meet the definition of a
+derivative.  The Company adopted SFAS 133 effective January 1, 2001.  Management
+believes that the adoption of SFAS 133 will not have a significant impact on the
+financial position, results of operations, or cash flows of the Company.
+
+In December 1999, the  Securities and Exchange  Commission  ("SEC") issued Staff
+Accounting  Bulletin  No. 101 ("SAB  101"),  "Revenue  Recognition  in Financial
+Statements." SAB 101 summarizes certain of the SEC's views in applying generally
+accepted accounting  principles to revenue recognition in financial  statements.
+The  adoption  of SAB 101 did not have an effect on the  Company's  consolidated
+financial statements.
+
+In March 2000, the FASB issued  Interpretation  No. 44,  "Accounting for Certain
+Transactions Involving Stock Compensation" ("FIN 44"). FIN 44, an interpretation
+of APB 25, provides guidance on the application of APB 25 for stock compensation
+involving  employees.  The  adoption  of FIN 44 did not  have an  effect  on the
+Company's consolidated financial statements.
+
+                                       12
+
+<PAGE>
+
+
+ITEM 7a. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company is exposed to financial market risks,  including changes in interest
+rates and foreign  currency  exchange rates. The Company does not use derivative
+financial  instruments  for any purpose.  Interest rate exposure is  principally
+limited to the $2 million  current  portion of  long-term  debt  outstanding  at
+December 31, 2000,  under the  Company's  line of credit  agreement.  Borrowings
+under the line of credit  agreement  bear  interest at rates that float with the
+market.  The impact of a 100 basis point change in the interest rate on the line
+of credit agreement would not be material to earnings, cash flows or fair value.
+As discussed in Note 2 to the consolidated  financial statements,  the financial
+statements of the Company's London sales office are remeasured into U.S. dollars
+using the U.S.  dollar as the functional  currency.  The market risk  associated
+with  foreign  currency  exchange  rates  is not  material  in  relation  to the
+Company's consolidated financial position, results of operations or cash flows.
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+See index to Financial Statements on Page 16.
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+        AND FINANCIAL DISCLOSURE
+
+On April 27, 2000,  Deloitte & Touche LLP was appointed as independent  auditors
+for  the  Company,  replacing  Arthur  Andersen  LLP.  The  decision  to  change
+accountants was approved by the Company's Board of Directors. The Company had no
+disagreements  with Arthur Andersen LLP in the year ended December 31, 1999. The
+Company filed a Form 8-K reporting the change in independent accountants.
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information required by this Item is incorporated herein by reference to the
+Section  entitled  "Proposal  No. 1.  -Election  of  Directors"  and  "Executive
+Compensation"  in the  Company's  Proxy  Statement  for the June 4, 2001  Annual
+Meeting of Stockholders, to be filed with the Securities and Exchange Commission
+no later than April 30, 2001.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information required by this Item is incorporated herein by reference to the
+Section entitled  "Executive  Compensation and Transactions  with Management" in
+the  Company's   Proxy  Statement  for  the  June  4,  2001  Annual  Meeting  of
+Stockholders,  to be filed with the Securities and Exchange  Commission no later
+than April 30, 2001.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information required by this Item is incorporated herein by reference to the
+Sections  entitled  "Principal  Holders  of  Voting  Securities"  and  "Security
+Ownership of Officers and  Directors" of the Company's  Proxy  Statement for the
+June 4, 2001 Annual Meeting of Stockholders, to be filed with the Securities and
+Exchange Commission no later than April 30, 2001.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information required by this Item is incorporated herein by reference to the
+Section entitled  "Executive  Compensation and Transactions  with Management" in
+the  Company's   Proxy  Statement  for  the  June  4,  2001  Annual  Meeting  of
+Stockholders,  to be filed with the Securities and Exchange  Commission no later
+than April 30, 2001.
+
+                                       13
+
+<PAGE>
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) Documents filed as part of this report
+
+       (1) Financial Information
+                   See index to Financial Statements on Page 16.
+
+       (2) Financial Statement Schedules
+                   Supplemental  schedules are omitted because they are not
+       required,  inapplicable or the required  information is shown in the
+       consolidated financial statements or notes thereto.
+
+       (3) Exhibits *
+              3.1      Articles of Incorporation of NYFIX,  Inc. (Exhibit 3.1 to
+                       Registrant's Form 10 filed March 5, 1993).
+              3.2      Certificate of Amendment to Articles of  Incorporation of
+                       NYFIX,  Inc.  (Exhibit 3.3 to Registrant's form S-3 Filed
+                       December 30, 1999).
+              3.3      By-Laws of NYFIX,  Inc. (Exhibit 3.2 to Registrant's Form
+                       10 filed March 5, 1993).
+              4.1      Certificate of  Designation  of Series A Preferred  Stock
+                       (Exhibit  4.1 to  Registrant's  Form 10  filed  March  5,
+                       1993).
+              4.2      Specimen - Common Stock  Certificate  (Exhibit 4.2 to the
+                       Company's  Annual  Report on Form 10-K for the year ended
+                       December 31, 1993).
+              4.3      Rights   Agreement   between  Chase  Mellon   Shareholder
+                       Services,  L.L.C.  and the Registrant  dated September 1,
+                       1997  (Exhibits  1 and  2 to  Registrant's  8-A12B  filed
+                       September 10, 1997).
+              4.4      First Amendment to Rights Agreement  between Chase Mellon
+                       Shareholder  Services,  L.L.C.  and the Registrant  dated
+                       October 25, 1999  (Exhibits  3 to  Registrant's  8-A12B/A
+                       filed November 3, 1999).
+             10.1      Employment  Agreement with Peter  Kilbinger  Hansen dated
+                       January  1, 1991  (Exhibit  3.2 to  Registrant's  Form 10
+                       filed March 5, 1993).
+             10.2      Revolving Credit Agreement,  dated July 13, 1998, between
+                       Chase Manhattan Bank and NYFIX, Inc. (Exhibit 10.4 to the
+                       Company Form 8-K dated July 13, 1998.)
+             10.3      Amended and Restated 1991 Incentive  Stock Option Plan of
+                       NYFIX,  Inc. (Exhibit 10.3 to the Company's Annual Report
+                       on Form 10-KSB for the year ended December 31, 1996)
+             10.4      Amendment  No. 1 to Amended and Restated  1991  Incentive
+                       and Nonqualified Stock Option Plan. **
+             10.5      Amendment  No. 2 to Amended and Restated  1991  Incentive
+                       and Nonqualified Stock Option Plan. **
+             10.6      Limited Liability  Company  Operating  Agreement of NYFIX
+                       Millennium,  L.L.C.  (Exhibit  10.3 to  Company's  Annual
+                       Report  on Form  10-K for the  year  ended  December  31,
+                       1999).
+             21.1      Subsidiaries of the Registrant (Exhibit 21.1 to Company's
+                       Annual Report on Form 10-KSB for the year ended  December
+                       31, 1994).
+             23.1      Independent Auditors' Consent.**
+             23.2      Consent of Independent Public Accountants.**
+
+- ----------------------------------
+ * - Except as noted, all exhibits have been previously filed.
+** - Filed herewith.
+
+(b) Reports on Form 8-K
+- -----------------------
+
+            None
+
+                                       14
+
+<PAGE>
+
+                                   SIGNATURES
+
+         Pursuant to the  requirements  of Section 13 or 15(d) of the Securities
+Exchange Act of 1934,  the  Registrant  has caused this report to be signed this
+30th  day of  March  2001  on its  behalf  by the  undersigned,  thereunto  duly
+authorized.
+
+                                            NYFIX, INC.
+
+
+                                            By: /s/ Peter Kilbinger Hansen
+                                                ------------------------------
+                                                Peter Kilbinger Hansen
+                                                Chairman of the Board
+                                                   and President
+                                                (Chief Executive Officer)
+
+
+
+                                POWER OF ATTORNEY
+
+NYFIX, Inc. and each of the undersigned do hereby appoint Peter Kilbinger Hansen
+and Richard A. Castillo, and each of them severally,  its or his true and lawful
+attorney to execute on behalf of NYFIX,  Inc.  and the  undersigned  any and all
+amendments  to this  Annual  Report  on Form  10-K and to file the same with all
+exhibits  thereto  and  other  documents  in  connection  therewith,   with  the
+Securities and Exchange Commission;  each of such attorneys shall have the power
+to act hereunder with or without the other.
+
+         Pursuant to the  requirements  of the Securities  Exchange Act of 1934,
+this  report has been  signed  below by the  following  persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+/s/ Peter Kilbinger Hansen        Chairman of the Board           March 30, 2001
+- --------------------------        (Principal Executive Officer)
+Peter Kilbinger Hansen
+
+/s/ Richard A. Castillo           Chief Financial Officer &       March 30, 2001
+- -----------------------           Secretary (Principal Financial
+ Richard A. Castillo              Officer and Principal
+                                  Accounting Officer)
+
+/s/ Dean G. Stamos                Executive Vice President        March 30, 2001
+- ------------------                & Director
+Dean G. Stamos
+
+/s/ George O. Deehan              Director                        March 30, 2001
+- --------------------
+George O. Deehan
+
+/s/ William J. Lynch              Director                        March 30, 2001
+- --------------------
+William Lynch
+
+/s/ Carl E. Warden                Director                        March 30, 2001
+- ------------------
+Carl E. Warden
+
+                                       15
+
+<PAGE>
+
+
+                          Index to Financial Statements
+
+
+
+                                                                            Page
+                                                                            ----
+
+Independent Auditors' Report..................................................17
+
+Report of Independent Public Accountants......................................18
+
+Financial Statements:
+
+   Consolidated Balance Sheets at December 31, 2000 and 1999..................19
+
+   Consolidated Statements of Operations for the Years Ended
+     December 31, 2000, 1999 and 1998.........................................20
+
+   Consolidated Statements of Shareholders' Equity for the Years Ended
+     December 31, 2000, 1999 and 1998.........................................21
+
+   Consolidated Statements of Cash Flows for the Years Ended
+     December 31, 2000, 1999 and 1998.........................................22
+
+Notes to Consolidated Financial Statements....................................23
+
+
+                                       16
+
+<PAGE>
+
+
+
+                          INDEPENDENT AUDITORS' REPORT
+
+
+To the Board of Directors
+NYFIX, Inc.
+Stamford, Connecticut
+
+We have audited the accompanying  consolidated  balance sheet of NYFIX, Inc. and
+subsidiary as of December 31, 2000, and the related  consolidated  statements of
+operations,  shareholders' equity, and cash flows for the year then ended. These
+consolidated  financial  statements  are  the  responsibility  of the  Company's
+management.  Our  responsibility  is to express  an  opinion on these  financial
+statements based on our audit.
+
+We conducted our audit in accordance with auditing standards  generally accepted
+in the  United  States of  America.  Those  standards  require  that we plan and
+perform the audit to obtain  reasonable  assurance  about  whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management  as well as  evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audit  provides  a
+reasonable basis for our opinion.
+
+In our opinion,  such consolidated  financial  statements present fairly, in all
+material  respects,  the financial  position of NYFIX, Inc. and subsidiary as of
+December 31, 2000, and the results of their  operations and their cash flows for
+the year then ended in conformity with accounting  principles generally accepted
+in the United States of America.
+
+
+                                       DELOITTE & TOUCHE LLP
+
+
+Stamford, Connecticut
+March 2, 2001
+(March 14, 2001 as to Note 18)
+
+                                       17
+
+<PAGE>
+
+
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To the Stockholders of NYFIX, Inc.:
+
+We have audited the accompanying  consolidated  balance sheet of NYFIX,  Inc. (a
+New York  corporation)  and  subsidiary as of December 31, 1999, and the related
+consolidated  statements of operations,  shareholders' equity and cash flows for
+each of the two years in the period ended  December 31,  1999.  These  financial
+statements   are  the   responsibility   of  the   Company's   management.   Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable  assurance about whether the financial  statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting  the amounts and  disclosures in the financial  statements.  An audit
+also includes assessing the accounting principles used and significant estimates
+made by  management,  as well as  evaluating  the  overall  financial  statement
+presentation.  We believe  that our audits  provide a  reasonable  basis for our
+opinion.
+
+In our opinion,  the financial  statements  referred to above present fairly, in
+all material  respects,  the financial position of NYFIX, Inc. and subsidiary as
+of December 31, 1999,  and the results of their  operations and their cash flows
+for each of the two years in the period ended  December  31, 1999 in  conformity
+with accounting principles generally accepted in the United States.
+
+
+
+                                                  ARTHUR ANDERSEN LLP
+
+
+Stamford, Connecticut
+March 29, 2000
+
+                                       18
+
+<PAGE>
+
+                           NYFIX, INC. AND SUBSIDIARY
+                           CONSOLIDATED BALANCE SHEETS
+                           DECEMBER 31, 2000 AND 1999
+
+<TABLE>
+<CAPTION>
+ASSETS                                                                              2000            1999
+                                                                                -------------   ------------
+<S>                                                                              <C>            <C>
+CURRENT ASSETS
+   Cash and cash equivalents                                                     $  4,866,629   $  1,565,649
+   Accounts receivable - less allowance of $421,000 and $125,000, respectively     12,058,370      7,088,820
+   Inventory, net                                                                   1,742,823      1,303,658
+   Prepaid expenses and other current assets                                          646,814        478,641
+   Due from NYFIX Millennium                                                        1,985,081        861,970
+   Receivable from officers                                                           200,441        156,992
+   Deferred income taxes                                                            1,859,000            -
+                                                                                 ------------   ------------
+                     Total Current Assets                                          23,359,158     11,455,730
+PROPERTY AND EQUIPMENT, net                                                        11,472,473      5,873,037
+INVESTMENT IN NYFIX MILLENNIUM                                                     19,500,000     19,500,000
+DEFERRED INCOME TAXES                                                                 237,000            -
+OTHER ASSETS                                                                        2,989,719      1,999,258
+                                                                                 ------------   ------------
+                     TOTAL ASSETS                                                $ 57,558,350   $ 38,828,025
+                                                                                 ============   ============
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES
+   Accounts payable                                                              $  2,915,167   $  1,845,996
+   Accrued expenses                                                                 2,444,825      1,418,113
+   Current portion of capital lease obligations                                       692,525            -
+   Current portion of long-term debt                                                2,000,000        500,000
+   Advance billings                                                                 6,147,705      3,178,636
+                                                                                 ------------   ------------
+                     Total Current Liabilities                                     14,200,222      6,942,745
+LONG-TERM PORTION OF CAPITAL LEASE OBLIGATIONS                                      1,130,394            -
+LONG-TERM DEBT                                                                            -        2,000,000
+                                                                                 ------------   ------------
+                     Total Liabilities                                             15,330,616      8,942,745
+                                                                                 ------------   ------------
+ COMMITMENTS AND CONTINGENCIES (See Notes)
+ SHAREHOLDERS' EQUITY
+   Preferred stock - par value $1; 5,000,000 shares authorized; none issued               -              -
+   Common stock - par value $.001; 60,000,000 authorized; 25,109,550 and
+     23,854,953 shares issued and outstanding                                          25,110         23,855
+   Additional paid-in capital                                                      42,558,040     35,862,994
+   Retained earnings (accumulated deficit)                                            306,482     (5,369,945)
+   Due from officers and directors                                                   (661,898)      (631,624)
+                                                                                 ------------   ------------
+                     Total Shareholders' Equity                                    42,227,734     29,885,280
+                                                                                 ------------   ------------
+                     TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                  $ 57,558,350   $ 38,828,025
+                                                                                 ============   ============
+</TABLE>
+
+The accompanying notes to consolidated financial statements are an integral part
+of these statements.
+
+                                       19
+
+<PAGE>
+
+                           NYFIX, INC. AND SUBSIDIARY
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+              FOR THE YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
+<TABLE>
+<CAPTION>
+
+                                                                         2000           1999             1998
+                                                                         ----           ----             ----
+
+<S>                                                                 <C>            <C>            <C>
+REVENUES:
+Sales                                                               $  5,089,412   $  3,715,479   $  2,653,100
+Subscription revenue                                                  15,954,989      6,732,928      2,278,447
+Service contracts                                                      2,935,766      1,761,044      1,303,846
+                                                                    ------------   ------------   ------------
+          Total Revenues                                              23,980,167     12,209,451      6,235,393
+                                                                    ------------   ------------   ------------
+COST OF REVENUES:
+Cost of sales                                                            669,878        545,963        726,927
+Cost of subscription revenue                                           5,032,064      2,664,077      1,373,466
+Cost of service contracts                                                675,410        555,547        432,316
+                                                                    ------------   ------------   ------------
+         Total Cost of Revenues                                        6,377,352      3,765,587      2,532,709
+                                                                    ------------   ------------   ------------
+GROSS PROFIT                                                          17,602,815      8,443,864      3,702,684
+                                                                    ------------   ------------   ------------
+OPERATING EXPENSES:
+Selling, general and administrative                                    9,419,182      6,289,686      4,956,679
+Research and development                                                 454,362        297,475        537,346
+Depreciation and amortization                                          1,254,777        662,537        474,996
+                                                                    ------------   ------------   ------------
+          Total Operating Expenses                                    11,128,321      7,249,698      5,969,021
+                                                                    ------------   ------------   ------------
+EARNINGS (LOSS) FROM OPERATIONS                                        6,474,494      1,194,166     (2,266,337)
+Interest expense                                                        (332,750)      (221,711)      (108,465)
+Interest income                                                          155,947        112,807         91,715
+Other (expense) income                                                   (20,009)        11,166         61,744
+                                                                    ------------   ------------   ------------
+EARNINGS (LOSS) BEFORE PROVISION FOR INCOME TAXES AND CUMULATIVE
+ EFFECT OF A CHANGE IN ACCOUNTING PRINCIPLE                            6,277,682      1,096,428     (2,221,343)
+
+PROVISION FOR INCOME TAXES                                               601,255         94,400         12,466
+                                                                    ------------   ------------   ------------
+
+EARNINGS (LOSS) BEFORE CUMULATIVE EFFECT OF A CHANGE IN ACCOUNTING     5,676,427      1,002,028     (2,233,809)
+PRINCIPLE CUMULATIVE EFFECT OF A CHANGE IN ACCOUNTING PRINCIPLE              -          (41,609)           -
+                                                                    ------------   ------------   ------------
+NET EARNINGS (LOSS)                                                 $  5,676,427   $    960,419   $ (2,233,809)
+                                                                    ============   ============   ============
+BASIC EARNINGS (LOSS) PER COMMON SHARE BEFORE
+CUMULATIVE EFFECT OF A CHANGE IN ACCOUNTING PRINCIPLE               $       0.23   $       0.05   $      (0.11)
+                                                                    ============   ============   ============
+BASIC EARNINGS (LOSS) PER COMMON SHARE                              $       0.23   $       0.04   $      (0.11)
+                                                                    ============   ============   ============
+BASIC WEIGHTED AVERAGE COMMON SHARES OUTSTANDING                      24,480,356     21,752,583     19,862,843
+                                                                    ============   ============   ============
+DILUTED EARNINGS (LOSS) PER COMMON SHARE BEFORE AND
+AFTER CUMULATIVE EFFECT OF A CHANGE IN ACCOUNTING
+PRINCIPLE                                                           $       0.21   $       0.04   $      (0.11)
+                                                                    ============   ============   ============
+DILUTED WEIGHTED AVERAGE COMMON SHARES OUTSTANDING                    26,425,130     23,306,912     19,862,843
+                                                                    ============   ============   ============
+</TABLE>
+
+The accompanying notes to consolidated financial statements are an integral part
+of these statements.
+
+                                       20
+
+<PAGE>
+
+
+                           NYFIX, INC. AND SUBSIDIARY
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+              FOR THE YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
+<TABLE>
+<CAPTION>
+
+                                                                                Retained
+                                          Common Stock          Additional      Earnings    Due from           Total
+                                     ---------------------       Paid-in     (Accumulated   Officers        Shareholders'
+  Description                        Shares         Amount       Capital       Deficit)   and Directors        Equity
+  -----------                        ------         ------       -------       --------   -------------        ------
+
+<S>                                <C>         <C>           <C>            <C>            <C>            <C>
+BALANCE,
+JANUARY 1, 1998                    19,180,193  $     19,180  $ 10,409,108   $ (4,096,555)  $   (430,000)  $  5,901,733
+
+Stock issued from exercise of
+    options and warrants              639,000           639       983,111            -              -          983,750
+
+Common stock, net of
+    issuance costs                  1,350,000         1,350     3,448,650            -              -        3,450,000
+
+Warrants issued                           -             -          40,000            -              -           40,000
+
+Due from officers and directors           -             -             -              -          (22,925)       (22,925)
+
+Net loss                                  -             -             -       (2,233,809)           -       (2,233,809)
+                                 ------------  ------------  ------------   ------------   ------------   ------------
+
+BALANCE,
+DECEMBER 31, 1998                  21,169,193        21,169    14,880,869     (6,330,364)      (452,925)     8,118,749
+
+Stock issued from exercise of
+    options and warrants              435,760           436       873,504            -              -          873,940
+
+Common stock, net of
+    issuance costs                  2,250,000         2,250    20,044,625            -              -       20,046,875
+
+Warrants issued                           -             -          63,996            -              -           63,996
+
+Due from officers and directors           -             -             -              -         (178,699)      (178,699)
+
+Net earnings                              -             -             -          960,419            -          960,419
+                                 ------------  ------------  ------------   ------------   ------------   ------------
+
+BALANCE,
+DECEMBER 31, 1999                  23,854,953        23,855    35,862,994     (5,369,945)      (631,624)    29,885,280
+
+Payment for fractional shares             -             -          (3,770)           -              -           (3,770)
+
+Stock issued from exercise of
+    options and warrants            1,254,597         1,255     3,988,268            -              -        3,989,523
+
+Warrants issued                           -             -          75,548            -              -           75,548
+
+Due from officers and directors           -             -             -              -          (30,274)       (30,274)
+
+Tax benefit from exercise of
+    stock options                         -             -       2,635,000            -              -        2,635,000
+
+Net earnings                              -             -             -        5,676,427            -        5,676,427
+                                 ------------  ------------  ------------   ------------   ------------   ------------
+
+BALANCE,
+DECEMBER 31, 2000                  25,109,550  $     25,110  $ 42,558,040   $    306,482   $   (661,898)  $ 42,227,734
+                                 ============  ============  ============   ============   ============   ============
+</TABLE>
+
+The accompanying notes to consolidated financial statements are an integral part
+of these statements.
+
+                                       21
+
+<PAGE>
+
+                           NYFIX, INC. AND SUBSIDIARY
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+              FOR THE YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
+<TABLE>
+<CAPTION>
+
+                                                                                 2000          1999           1998
+                                                                                 ----          ----           ----
+
+<S>                                                                        <C>            <C>            <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+    Net earnings (loss)                                                    $  5,676,427   $    960,419   $ (2,233,809)
+    Adjustments to reconcile net earnings (loss) to net cash provided
+    by (used in) operating activities:
+       Depreciation                                                           2,507,636      1,244,818        747,664
+       Amortization                                                           1,189,003        738,581        497,552
+       Deferred income taxes                                                   (585,300)           -              -
+       Provision for bad debts                                                  415,802         44,758         50,922
+       Noncash financing charges                                                 75,548         63,996         40,000
+       Changes in assets and liabilities:
+           Accounts receivable                                               (5,385,352)    (3,716,160)    (1,609,039)
+           Inventory                                                           (439,165)       (24,356)        31,681
+           Prepaid expenses and other current assets                           (168,173)      (194,729)      (181,412)
+           Receivable from officers                                             (43,449)       (36,409)       (28,986)
+           Accounts payable                                                   1,069,171        972,179        (53,855)
+           Accrued expenses                                                   2,151,012        702,217        263,016
+           Advance billings                                                   2,969,069      1,689,579      1,317,643
+                                                                            -----------    -----------   ------------
+                      Net cash provided by (used in) operating activities     9,432,229      2,444,893     (1,158,623)
+                                                                            -----------    -----------   ------------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+    Capital expenditures                                                     (6,084,180)    (4,263,724)    (2,342,698)
+    Investment in NYFIX Millennium                                                  -       (2,000,000)           -
+   Advances to NYFIX Millennium                                              (1,123,111)      (861,970)           -
+    Payments for product enhancement costs and other assets                  (2,179,464)    (1,643,670)      (809,243)
+                                                                            -----------    -----------   ------------
+                      Net cash used in investing activities                  (9,386,755)    (8,769,364)    (3,151,941)
+                                                                            -----------    -----------   ------------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+    Principal payments under capital lease obligations                         (199,973)           -              -
+    Proceeds from borrowings                                                        -          700,000      2,300,000
+    Repayment of borrowings                                                    (500,000)           -         (593,564)
+    Issuance of common stock, net of issuance costs                           3,955,479      3,242,116      4,410,825
+                                                                            -----------    -----------   ------------
+                      Net cash provided by financing activities               3,255,506      3,942,116      6,117,261
+                                                                            -----------    -----------   ------------
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                              3,300,980     (2,382,355)     1,806,697
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR                                  1,565,649      3,948,004      2,141,307
+                                                                            -----------    -----------   ------------
+CASH AND CASH EQUIVALENTS, END OF YEAR                                     $  4,866,629   $  1,565,649   $  3,948,004
+                                                                            ===========    ===========   ============
+SUPPLEMENTAL INFORMATION:
+    Cash paid during the year for interest                                 $    274,490   $    149,777   $     69,044
+    Cash paid during the year for income taxes                                  286,634         39,150         12,466
+    Capital lease obligations incurred                                        2,022,892            -              -
+    Common stock issued for investment in NYFIX Millennium                          -       17,500,000            -
+</TABLE>
+
+
+The accompanying notes to consolidated financial statements are an integral part
+of these statements.
+
+                                       22
+
+<PAGE>
+
+                           NYFIX, INC. AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+              FOR THE YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
+
+
+
+1.          ORGANIZATION AND PRESENTATION
+
+            NYFIX,  Inc. and  subsidiary  (the  "Company")  develops and markets
+            advanced    electronic   trading   systems   to   brokerage   firms,
+            international  banks and global  exchanges  trading in equities  and
+            derivative instruments. The Company's two product lines are Equities
+            and Futures & Options.  The Company's NYFIX Network,  a combined FIX
+            (Financial   Information  Exchange  protocol)  and  Exchange  Access
+            Network,  enables  users to  electronically  communicate  trade data
+            among the buy-side,  sell-side, and exchange floor environments.  In
+            addition,   the  Company  offers  a  range  of  related  information
+            technology  services,  subscriptions  and maintenance  support.  The
+            Company is  headquartered  in Stamford,  Connecticut  and  maintains
+            operations in New York, Chicago and London.
+
+
+2.          SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+            Principles of Consolidation
+            ---------------------------
+
+            The consolidated financial statements include the accounts of NYFIX,
+            Inc. and its subsidiary.  All significant  intercompany balances and
+            transactions have been eliminated in consolidation.
+
+            Use of Estimates
+            ----------------
+
+            The   preparation  of  financial   statements  in  conformity   with
+            accounting  principles  generally  accepted in the United  States of
+            America  requires  management to make estimates and assumptions that
+            affect  the  amounts  reported  in  the  financial   statements  and
+            accompanying   notes.   Actual   results  could  differ  from  those
+            estimates.
+
+            Reclassifications
+            -----------------
+
+            Certain 1999 and 1998 balances have been  reclassified to conform to
+            the 2000 presentation.
+
+            Cash and Cash Equivalents
+            -------------------------
+
+            The Company  considers all highly liquid  instruments  with original
+            maturities of three months or less to be cash equivalents.
+
+            Inventory
+            ---------
+
+            Inventory  consists of parts,  finished  goods and  materials and is
+            stated at the lower of cost, determined on an average cost basis, or
+            market.
+
+            Property and Equipment
+            ----------------------
+
+            Property  and   equipment   is  stated  at  cost  less   accumulated
+            depreciation. Included in equipment are certain costs related to the
+            development   of  the  NYFIX   network  to  support  the   Company's
+            subscription and service based businesses.  Depreciation is provided
+            using the  straight-line  method over the estimated  useful lives of
+            the assets  ranging from two to eight years.  The  estimated  useful
+            lives for subscription and service-based equipment are generally two
+            to three years.
+
+                                       23
+
+<PAGE>
+
+
+            Other Assets
+            ------------
+
+            Other  assets  consist  principally  of  patents,  deferred  product
+            enhancements   costs   (capitalized   based  on  time  incurred  for
+            enhancements   of  products   which  have   achieved   technological
+            feasibility)  and  deposits.  Product  enhancement  costs  are being
+            amortized using the  straight-line  method over three years.  Patent
+            costs are being amortized over seventeen years.
+
+            Long-Lived Assets
+            -----------------
+
+            Long-lived assets,  primarily  equipment and the investment in NYFIX
+            Millennium   are  reviewed  for   impairment   whenever   events  or
+            circumstances  indicate that the asset's undiscounted  expected cash
+            flows are not sufficient to recover its carrying amount. The Company
+            measures an impairment loss by comparing the fair value of the asset
+            to its  carrying  amount.  The fair value of an asset is  calculated
+            based upon the present  value of expected  future cash flows.  There
+            has been no  impairment in long-lived  assets  through  December 31,
+            2000.
+
+            Revenue Recognition
+            -------------------
+
+            Sales are  generally  recorded  upon  shipment of the product to and
+            acceptance by customers.  Subscription revenue is recognized ratably
+            over the life of the subscription agreements with customers. Revenue
+            from  service  contracts is  recognized  ratably over the period the
+            services are  performed.  Amounts  billed in advance for service and
+            subscription   contracts  are  deferred  and  reflected  as  advance
+            billings.
+
+            Research and Development
+            ------------------------
+
+            The Company expenses research and development costs as incurred.
+
+            Advertising
+            -----------
+
+            The Company  expenses  advertising  costs as  incurred.  Advertising
+            expense was  $170,000,  $159,000  and  $294,000  for the years ended
+            December 31, 2000, 1999 and 1998, respectively.
+
+            Foreign Currency Translation
+            ----------------------------
+
+            The Company's  functional currency is the U.S. dollar.  Accordingly,
+            the monetary  assets and  liabilities of the London sales office are
+            translated at year-end exchange rates while non-monetary  assets and
+            liabilities  are  translated  at  historical  rates.   Revenues  and
+            expenses are  translated at average rates in effect during the year,
+            except for depreciation  and cost of sales,  which are translated at
+            historical rates. The resulting currency translation gain or loss is
+            included in the results of operations.
+
+            Cumulative Effect of a Change in Accounting Principle
+            -----------------------------------------------------
+
+            In 1998,  the American  Institute of  Certified  Public  Accountants
+            issued Statement of Position (SOP) 98-5,  "Reporting on the Costs of
+            Start-Up  Activities." The SOP requires costs of start-up activities
+            and  organization  costs to be  expensed  as  incurred.  The Company
+            adopted the SOP in 1999 and  recognized a charge for the  cumulative
+            effect of accounting change of $42,000.
+
+            Income Taxes
+            ------------
+
+            Deferred  income taxes have been provided for temporary  differences
+            between the  Company's  financial  statement and income tax basis of
+            the Company's  assets and liabilities  using  presently  enacted tax
+            rates.
+
+                                       24
+
+<PAGE>
+
+            Financial Instruments
+            ---------------------
+
+            The carrying  value for all current  assets and current  liabilities
+            approximates  fair value  because of their  short-term  nature.  The
+            carrying value of the Company's long-term debt also approximates its
+            fair value based on prevailing interest rates.
+
+            Accrued Expenses
+            ----------------
+
+            Included in accrued  expenses is sales tax payable of $1,542,000 and
+            $595,000 at December 31, 2000 and 1999, respectively.
+
+            Comprehensive Income
+            --------------------
+
+            For all  years  presented,  comprehensive  income  was  equal to net
+            earnings.
+
+            Impact of Recently Issued Accounting Pronouncements
+            ---------------------------------------------------
+
+            In June 1998,  the Financial  Accounting  Standards  Board  ("FASB")
+            issued  SFAS  No.  133  ("SFAS  133"),   Accounting  for  Derivative
+            Instruments  and Hedging  Activities.  SFAS 133 is effective for all
+            fiscal years  beginning  after June 15, 2000.  SFAS 133, as amended,
+            establishes   accounting  and  reporting  standards  for  derivative
+            instruments,  including certain derivative  instruments  embedded in
+            other contracts and for hedging activities.  Under SFAS 133, certain
+            contracts that were not formerly considered derivatives may now meet
+            the  definition  of a  derivative.  The  Company  adopted  SFAS  133
+            effective January 1, 2001.  Management believes that the adoption of
+            SFAS  133  will  not  have a  significant  impact  on the  financial
+            position, results of operations, or cash flows of the Company.
+
+            In December 1999, the  Securities  and Exchange  Commission  ("SEC")
+            issued  Staff  Accounting  Bulletin  No. 101 ("SAB  101"),  "Revenue
+            Recognition in Financial  Statements." SAB 101 summarizes certain of
+            the SEC's views in applying generally accepted accounting principles
+            to revenue recognition in financial statements.  The adoption of SAB
+            101 did not  have an  effect  on  Company's  consolidated  financial
+            statements.
+
+            In March 2000, the FASB issued  Interpretation  No. 44,  "Accounting
+            for Certain  Transactions  Involving Stock Compensation" ("FIN 44").
+            FIN 44,  an  interpretation  of APB  25,  provides  guidance  on the
+            application of APB 25 for stock  compensation  involving  employees.
+            The  adoption  of FIN 44 did not  have an  effect  on the  Company's
+            consolidated financial statements.
+
+3.          INVENTORY
+
+            Inventory consists of the following:
+
+                                                             December 31,
+                                                       -------------------------
+                                                          2000            1999
+                                                       ----------     ----------
+               Parts and materials                     $1,174,727      $ 828,259
+               Work in process                             39,629           -
+               Finished goods                             620,467        557,399
+                                                       ----------      ---------
+                                                        1,834,823      1,385,658
+               Less: Allowance for obsolescence            92,000         82,000
+                                                       ----------      ---------
+                                    Total              $1,742,823     $1,303,658
+                                                       ==========     ==========
+
+                                       25
+
+<PAGE>
+
+4.          PROPERTY AND EQUIPMENT
+
+            Property and equipment consists of the following:
+<TABLE>
+<CAPTION>
+
+                                                                        December 31,
+                                                                ---------------------------
+                                                                    2000           1999
+                                                                -----------     -----------
+<S>                                                             <C>             <C>
+               Computer software                                $   458,939     $   424,022
+               Leasehold improvements                               558,356         169,755
+               Furniture and equipment                            2,428,962       1,463,694
+               Subscription and service bureau equipment         11,161,438       6,514,267
+               Service bureau equipment under capital leases      2,022,892            -
+                                                                -----------     -----------
+                                                                 16,630,587       8,571,738
+               Less: Accumulated depreciation                     5,158,114       2,698,701
+                                                                -----------     -----------
+                                    Total                       $11,472,473     $ 5,873,037
+                                                                ===========     ===========
+</TABLE>
+
+
+            Included  in  accumulated  depreciation  at  December  31,  2000  is
+            depreciation  on  leased  service  bureau   equipment  of  $123,000.
+            Included in cost of revenues is depreciation  expense of $1,257,000,
+            $586,000 and $291,000 for 2000, 1999 and 1998, respectively.
+
+5.          OTHER ASSETS
+
+            Included  in  other   assets  are   unamortized   deferred   product
+            enhancement  costs of $2,378,000  and  $1,811,000 as of December 31,
+            2000 and 1999,  respectively.  Amounts  deferred  are based  upon an
+            analysis  of  payroll  and  other  costs  directly  related  to  the
+            enhancement  of existing  products.  Included in cost of revenues is
+            amortization  expense for product  enhancement  costs of $1,185,000,
+            $719,000  and  $479,000  for  2000,  1999  and  1998,  respectively.
+            Included in depreciation  and  amortization  expense is amortization
+            expense for other deferred assets of $4,000, $20,000 and $19,000 for
+            2000, 1999 and 1998, respectively.
+
+6.          EARNINGS PER SHARE
+
+            The Company's  basic earnings per common share ("EPS") is calculated
+            based on net earnings (loss)  available to common  shareholders  and
+            the  weighted-average   number  of  shares  outstanding  during  the
+            reported  period.  Diluted EPS  includes  additional  dilution  from
+            common stock  equivalents,  such as stock  issuable  pursuant to the
+            exercise of outstanding stock options and warrants.
+<TABLE>
+<CAPTION>
+
+                                                       Year Ended December 31,
+                                             ----------------------------------------
+                                                 2000          1999           1998
+                                             ------------  ------------  ------------
+<S>                                          <C>           <C>           <C>
+Net earnings (loss)                          $  5,676,427  $    960,419  $ (2,233,809)
+                                             ------------  ------------  ------------
+Basic weighted average shares outstanding      24,480,356    21,752,583    19,862,843
+                                             ------------  ------------  ------------
+Basic earnings (loss) per common share       $       0.23  $       0.04  $      (0.11)
+                                             ============  ============  ============
+     Dilutive options                           1,911,485     1,306,029           -
+     Dilutive warrants                             33,289       248,300           -
+                                             ------------  ------------  ------------
+Diluted weighted average shares outstanding    26,425,130    23,306,912    19,862,843
+                                             ------------  ------------  ------------
+Diluted earnings (loss) per common share     $       0.21  $       0.04  $      (0.11)
+                                             ============  ============  ============
+</TABLE>
+
+Stock options and warrants were excluded from the EPS calculation for 1998 since
+their inclusion would be anti-dilutive.
+
+                                       26
+
+<PAGE>
+
+7.          CAPITAL STOCK
+
+            On October  21,  1999,  shareholders  approved  an  increase  in the
+            authorized  shares of the  Company's  common  and  preferred  stock.
+            Common  shares were  increased to 60 million from 15 million  shares
+            and preferred shares to 5 million from 1 million shares.  Along with
+            this  increase,  the Board of  Directors  authorized a 3 for 2 stock
+            split in the form of a 50% stock  dividend  to all  shareholders  of
+            record on November 1, 1999,  which was paid on November 15, 1999. On
+            March 13, 2000,  the Board of  Directors  authorized a 3 for 2 stock
+            split in the form of a 50% stock  dividend  to all  shareholders  of
+            record on March 24,  2000,  which was paid  April 4,  2000.  All per
+            share and share data in the  consolidated  financial  statements and
+            notes thereto have been restated to reflect the stock splits.
+
+            On September 7, 1999, the Company  completed a private  placement of
+            281,250 shares of common stock to an  institutional  investment firm
+            at a price equal to the average  closing  price of the stock for the
+            30-day  period prior to the closing date on September 1, 1999.  This
+            approximated the fair market value of the stock at $9.0555 per share
+            for an aggregate value of $2,546,875.
+
+            On November 24, 1998, the Company  completed a private  placement of
+            1,350,000  shares of common stock,  at a price of $2.6666 per share,
+            for an aggregate value of $3,600,000. Costs related to this offering
+            amounted to  $150,000  resulting  in net  proceeds to the Company of
+            $3,450,000.
+
+            On September 1, 1997, the Board of Directors  declared a dividend of
+            a preference  share purchase right (a "Right") for each  outstanding
+            share of common stock of the Company held by  shareholders of record
+            on  September  19,  1997.  Each share of common  stock issued by the
+            Company after such record date has the same Right attached  thereto.
+            Each Right  entitles  the  registered  holder to  purchase  from the
+            Company, at any time after a shareholder acquires 20% or more of the
+            Company's  outstanding  common  stock,  as set  forth in the  Rights
+            Agreement,   shares  of  the  Company's  Series  A  Preferred  Stock
+            ("Preference   Stock").   The   purchase   price   is  $40  per  one
+            one-hundredth of a share of Preference Stock,  subject to adjustment
+            as set forth in the Rights Agreement.
+
+            During 2000, 495,000 warrants and 760,000 options were exercised for
+            1,255,000 shares of common stock.  The Company  received  $1,337,000
+            from the warrant exercises and $2,652,000 from the option exercises.
+
+8.          MAJOR CUSTOMERS
+
+            For the year ended December 31, 2000, no customer accounted for more
+            than 10% of total  revenues  or  accounts  receivable.  For the year
+            ended  December 31, 1999,  one customer  accounted  for 13% of total
+            revenues  and  another  customer   accounted  for  11%  of  accounts
+            receivable.  For the  year ended  December  31, 1998,  one  customer
+            accounted for 13% of total revenues and 26% of accounts  receivable,
+            and another customer  accounted for 13% of total revenues and 16% of
+            accounts receivable.
+
+9.          DEBT AND CAPITAL LEASE OBLIGATIONS
+
+            On July 13, 1998,  the Company  entered into a three-year $3 million
+            line  of  credit  agreement  (the   "Agreement")  with  a  financial
+            institution with advances on such agreement available to the Company
+            during  the first  eighteen  months.  The  Agreement  was  primarily
+            intended to finance  equipment  expenditures.  The  Agreement  bears
+            interest at either  LIBOR plus 1.25% or the bank's  prime rate.  The
+            rate used is at the Company's  discretion.  The Company drew down an
+            aggregate  of  $1,800,000  under the  Agreement  during  1998 and an
+            additional  $700,000 during 1999. The weighted  average  outstanding
+            borrowings during 2000 were  approximately  $2,398,000 at a weighted
+            average  interest rate of 7.48%.  The weighted  average  outstanding
+            borrowings  during  1999  were  $2,059,000  at  a  weighted  average
+            interest rate of 7.43%.  The Agreement  prohibited  the Company from
+            making principal  repayments prior to February 1, 2000. Repayment of
+            principal   commenced  on  July  30,  2000,   with  twelve   monthly
+            installments  of $83,333 with the remaining  balance due on July 30,
+            2001. The debt is personally  secured by a non-employee  shareholder
+            of
+
+                                       27
+
+<PAGE>
+
+            the  Company  and the  Company's  president.  In  consideration  for
+            securing the Agreement,  the non-employee  shareholder and president
+            received 337,500 and 56,250 warrants,  respectively, to purchase the
+            Company's common stock at approximately  $2.83 per share,  which was
+            the  market  value of the  Company's  common  stock on the date such
+            warrants were issued.  The expense related to the warrants issued is
+            being recognized over the three-year term of the Agreement.
+
+            In  association  with  obtaining  the  $3  million  line  of  credit
+            facility,  the Company  terminated  its  previous  $500,000  line of
+            credit agreement and repaid all outstanding term loans. The weighted
+            average  outstanding  borrowing  under the previous  credit line was
+            $74,000 during 1998 at a weighted average interest rate of 9.50%.
+
+            At December 31, 2000, the Company was committed  under capital lease
+            obligations  with  interest  rates  ranging from 8.28% to 13.04% for
+            maturities  ranging from  January 2, 2003 to December  31, 2003.  At
+            December 31, 2000, the amount of the obligation was $1,823,000, with
+            $693,000 classified as current.
+
+            Capital  lease  obligations  at  December  31,  2000 are  payable as
+            follows:
+
+                         Year Ending
+                         December 31,                        Amount
+                         ------------                        ------
+                         2001                           $   865,000
+                         2002                               865,000
+                         2003                               366,000
+                                                         ----------
+                         Total                            2,096,000
+                         Less portion of lease
+                            payments representing
+                            interest                        273,000
+                                                         ----------
+                         Present value of minimum
+                            lease payments               $1,823,000
+                                                         ==========
+
+            Capital leases generally provide that the Company pay property taxes
+            and operating costs.  Certain service bureau equipment under capital
+            lease obligations is leased to NYFIX Millennium, L.L.C. See Note 18.
+
+10.         COMMITMENTS AND CONTINGENCIES
+
+            At December  31, 2000,  the Company was  committed  under  operating
+            leases for offices,  production  facilities  and equipment for terms
+            expiring  through  March 25,  2009.  Future  minimum  annual  rental
+            payments are as follows:
+
+                         Year Ending
+                         December 31,                       Amount
+                         ------------                       ------
+                         2001                            $1,856,000
+                         2002                             1,663,000
+                         2003                             1,580,000
+                         2004                             1,581,000
+                         2005                             1,357,000
+                         Thereafter                       1,641,000
+
+            Aggregate rental expense amounted to $959,000, $780,000 and $623,000
+            for the years ended December 31, 2000, 1999 and 1998, respectively.
+
+            The Company has an employment  agreement with its  President,  which
+            calls for a base  salary of  $150,000,  with such base  salary to be
+            reviewed on an annual  basis by the  Compensation  Committee  of the
+            Board of Directors.
+
+                                       28
+
+<PAGE>
+
+11.         RELATED PARTY TRANSACTIONS
+
+            Certain executive officers and directors of the Company have amounts
+            due to the  Company for the  exercise  of  warrants  and options for
+            common stock,  with  interest at rates ranging from 0% to 7.5%,  for
+            maturities  ranging from December 1, 2001 to December 30, 2003. Such
+            amounts aggregated $661,898 and $631,624 as of December 31, 2000 and
+            1999,   respectively,   and  have  been  shown  as  a  reduction  of
+            shareholders' equity.
+
+            At December  31, 2000 and 1999,  the Company had amounts  receivable
+            from  officers  for travel and  payroll  advances  of  $200,441  and
+            $156,992, respectively.
+
+12.         DEFINED CONTRIBUTION PLAN
+
+            The Company sponsors a 401(k)  retirement plan (the "Plan") covering
+            substantially  all  of  its  U.S.  employees  who  meet  eligibility
+            requirements.  The Plan permits  participants  to contribute up to a
+            maximum of 15% of their  annual  compensation,  as  defined,  not to
+            exceed the federal  limit of $10,500 in 2000.  The Plan  permits the
+            Company  to match  employees'  tax  deferred  contributions  up to a
+            maximum  of 3%  of  employees'  compensation  provided  the  Company
+            employs the employee at the end of the year. Remaining contributions
+            under the Plan are discretionary.  Total Company contributions under
+            the Plan were $143,000,  $80,000 and $57,000 in 2000, 1999 and 1998,
+            respectively.
+
+13.         STOCK WARRANTS AND STOCK OPTION PLAN
+
+            On March  30,  1999,  the Board of  Directors  approved  the  second
+            amendment  to  the  Amended  and   Restated   1991   Incentive   and
+            Nonqualified Stock Option Plan. Under this amendment,  the number of
+            options reserved for issuance was increased from 3,375,000 shares to
+            5,625,000 shares of common stock. This amendment was approved at the
+            Company's  Annual Meeting of  Shareholders  held on June 7, 1999. On
+            March 29, 2000, the Board of Directors  approved the third amendment
+            to the Amended and Restated 1991  Incentive and  Nonqualified  Stock
+            Option Plan.  Under this amendment,  the number of options  reserved
+            for issuance was increased from 5,625,000 shares to 6,625,000 shares
+            of common stock. This amendment was approved at the Company's Annual
+            Meeting  of  Shareholders  held on June 5, 2000.  All stock  options
+            granted were at fair market  value at the date of grant,  and expire
+            ten years from the date of grant. The Plan expires on June 23, 2001.
+
+                                       29
+
+<PAGE>
+
+
+            At December  31,  2000,  1999 and 1998,  the  following  options and
+            warrants had been granted and were outstanding:
+<TABLE>
+<CAPTION>
+
+                                                                     Weighted                                      Weighted
+                                             Stock                    Average                  Stock               Average
+                                            Options                Exercise Price             Warrants          Exercise Price
+                                            -------                --------------             --------          --------------
+<S>                                            <C>                    <C>                      <C>                 <C>
+ Outstanding at
+ January 1, 1998                               2,142,000              $2.01                    593,633             $1.56
+     Granted                                     903,825               2.97                    450,000              2.81
+     Exercised                                  (452,250)              1.58                   (186,750)             1.45
+     Forfeited                                  (171,900)              2.90                   (123,750)             1.25
+                                        -------------------                            -----------------
+ Outstanding at
+ December 31, 1998                             2,421,675               2.37                    733,133              2.41
+      Granted                                  1,446,638               6.59                       -                  -
+      Exercised                                 (253,953)              2.38                   (181,883)             1.50
+      Forfeited                                  (61,875)              2.69                       -                  -
+                                        -------------------                            -----------------
+ Outstanding at
+ December 31, 1999
+                                               3,552,485               4.09                    551,250              2.74
+      Granted                                  2,007,063              28.00                       -                  -
+      Exercised                                 (759,713)              3.75                   (495,000)             2.70
+      Forfeited                                 (270,448)             12.41                       -                  -
+                                        -------------------                            -----------------
+ Outstanding at
+ December 31, 2000                             4,529,387              11.50                     56,250              2.83
+                                        ===================                            =================
+</TABLE>
+
+           The weighted  average fair value of stock options  granted during the
+           years ended December 31, 2000,  1999 and 1998 was $16.02,  $13.25 and
+           $1.71,  respectively.  The  weighted  average  fair value of warrants
+           granted during the year ended December 31, 1998 was $1.30.
+
+           The following table  summarizes the options and warrants  exercisable
+           at December  31, 2000,  1999 and 1998 and the  weighted  average fair
+           value of warrants and options granted during the years then ended:
+<TABLE>
+<CAPTION>
+
+                                                Exercisable Options             Exercisable Warrants
+                                                -------------------             --------------------
+
+                                                               Weighted
+                                                               Average                        Weighted
+                                                               Exercise                       Average
+                                               Options           Price        Warrants     Exercise Price
+                                               -------           -----        --------     --------------
+<S>                                            <C>               <C>           <C>             <C>
+           Shares exercisable at
+           December 31, 1998                   550,125           $1.98         165,008         $1.40
+           Shares exercisable at
+           December 31, 1999                 1,017,557           $2.25         551,250         $2.74
+           Shares exercisable at
+           December 31, 2000                 1,376,321           $3.16          56,250         $2.83
+</TABLE>
+
+                                       30
+
+<PAGE>
+
+The  following  table  summarizes  information  about stock options and warrants
+outstanding at December 31, 2000:
+<TABLE>
+<CAPTION>
+
+                                        Granted                                       Exercisable
+                     ----------------------------------------------------    -------------------------------
+
+                         Number             Weighted                            Number
+                     Outstanding at          Average        Weighted         Exercisable at     Weighted
+    Range of           December 31,       Remaining Life     Average         December 31,        Average
+Exercise Prices           2000                (Years)      Exercise Price       2000          Exercise Price
+- ---------------      --------------       --------------   --------------    --------------   --------------
+
+<S>      <C>             <C>                   <C>            <C>              <C>                   <C>
+ $1.14 - $1.61           147,500               4.37           $1.42            147,500               $1.42
+   2.00 - 2.20           928,374               6.01            2.12            604,375                2.11
+   2.50 - 3.61           831,662               7.61            2.93            497,208                2.90
+   3.89 - 6.94           620,188               8.55            6.72            117,750                6.60
+ 10.11 - 18.75         1,211,213               9.03           14.50             65,738               12.25
+ 21.33 - 33.00           456,200               9.38           25.76               -                    -
+ 33.13 - 44.00           390,500               9.54           36.27               -                    -
+                    -------------                                            ---------
+                       4,585,637                                             1,432,571
+                    =============                                            =========
+</TABLE>
+
+
+The fair value of each option  grant is estimated on the date of grant using the
+Black-Scholes   option-pricing   model  with  the   following   weighted-average
+assumptions used for grants in 2000, 1999 and 1998:
+
+
+o        Risk free interest rates range from 4.18% to 6.42%
+o        Expected  dividend yields of 0%
+o        Expected lives of 3 to 5 years and
+o        Expected volatility of 70%, 65% and 63%, respectively
+
+The  Company  applies  APB  Opinion  No.  25,  "Accounting  for Stock  Issued to
+Employees" and related  interpretations  to account for its stock plans.  Except
+for certain warrants granted to non-employees  during 1998, no compensation cost
+has been  recognized  for any  option  grants in the  accompanying  consolidated
+statements of operations.  Had compensation  costs been determined in accordance
+with  the  fair  value  method  as  defined  in SFAS No.  123,  "Accounting  for
+Stock-Based  Compensation",  the net  earnings  (loss)  and  basic  and  diluted
+earnings (loss) per share would have been reduced from the following as reported
+amounts to the following pro forma amounts:
+
+<TABLE>
+<CAPTION>
+
+                                                  Year Ended December 31,
+                                           ----------------------------------------
+                                               2000          1999        1998
+                                               ----          ----        ----
+
+<S>                                        <C>           <C>         <C>
+Net earnings (loss):
+     As reported                           $ 5,676,427   $ 960,419   $  (2,233,809)
+                                           ===========   =========   =============
+     Pro forma                             $(1,650,000)  $(831,791)  $  (3,215,042)
+                                           ===========   =========   =============
+Basic earnings (loss) per common share:
+     As reported                           $      0.23   $    0.04   $       (0.11)
+                                           ===========   =========   =============
+     Pro forma                             $      (.07)  $   (0.04)  $       (0.16)
+                                           ===========   =========   =============
+Diluted earnings (loss) per common share:
+     As reported                           $      0.21   $    0.04   $       (0.11)
+                                           ===========   =========   =============
+     Pro forma                             $      (.07)  $   (0.04)  $       (0.16)
+                                           ===========   =========   =============
+</TABLE>
+
+
+                                       31
+
+<PAGE>
+
+
+14.         BUSINESS SEGMENT INFORMATION
+
+            The Company has adopted the disclosure requirements of SFAS No. 131,
+            "Disclosures   About   Segments   of  an   Enterprise   and  Related
+            Information," which establishes  standards for additional disclosure
+            about   operating   segments   for  interim  and  annual   financial
+            statements.   This  standard  requires   financial  and  descriptive
+            information  be disclosed for segments whose  operating  results are
+            reviewed by the Company for  decisions  on resource  allocation.  It
+            also establishes  standards for related  disclosures  about products
+            and services, geographic areas and major customers.
+
+            The  Company  operates in a single  industry  segment as a financial
+            technology    company    focusing   on   electronic    trading   and
+            straight-through  processing  solutions for the brokerage community.
+            The Company has two principal product lines:  Equities and Futures &
+            Options.  The Company's  Equities  product line is sold primarily by
+            the Stamford and New York locations,  while the Company's  Futures &
+            Options  product  line is sold  primarily  by the London and Chicago
+            locations.  Each  office has the  opportunity  to sell or enter into
+            subscriptions  for either of the Company's  product lines.  However,
+            the  operations of each product line are not  individually  reported
+            nor  are  they  managed  or  evaluated  individually  by  the  Chief
+            Executive  Officer,  who is the Company's  chief decision  maker. As
+            such, the Company does not segment its business by product line.
+
+            Identifiable  assets by geographic  location include assets directly
+            identifiable   with  those   locations.   Corporate  assets  consist
+            primarily of cash and cash  equivalents and fixed assets  associated
+            with non-operating activities.
+
+            Summarized  financial  information by geographic  location for 2000,
+1999 and 1998 is as follows (in 000's):
+
+                                        2000        1999       1998
+                                        ----        ----       ----
+ Revenues:
+    Stamford and New York            $ 18,111   $  9,287   $  4,203
+    London                              2,678      2,636      2,001
+    Chicago                             3,191        286         31
+    Inter-location sales                    5         78         95
+    Inter-location elimination             (5)       (78)       (95)
+                                     --------   --------   --------
+ Total revenues                      $ 23,980   $ 12,209   $  6,235
+                                     ========   ========   ========
+
+Gross profit:
+    Stamford and New York            $ 12,263   $  5,897   $  1,936
+    London                              2,236      2,288      1,745
+    Chicago                             3,104        259         22
+                                     --------   --------   --------
+
+Total gross profit                   $ 17,603   $  8,444   $  3,703
+                                     ========   ========   ========
+
+Identifiable assets at December 31:
+    Stamford and New York            $ 45,554   $ 34,313   $  7,284
+    London                              2,857      2,411      1,472
+    Chicago                             2,122        346         57
+    Corporate                           7,025      1,758      4,184
+                                     --------   --------   --------
+Total identifiable assets            $ 57,558   $ 38,828   $ 12,997
+                                     ========   ========   ========
+
+Capital expenditures:
+    Stamford and New York            $  5,925   $  4,184   $  2,259
+    London                                 26         31         81
+    Chicago                               133         49          3
+                                     --------   --------   --------
+Total capital expenditures           $  6,084   $  4,264   $  2,343
+                                     ========   ========   ========
+
+
+                                       32
+
+<PAGE>
+
+                                        2000        1999       1998
+                                        ----        ----       ----
+
+Depreciation:
+    Stamford and New York            $  2,436   $  1,198   $    676
+    London                                 29         39         69
+    Chicago                                43          8          3
+                                     --------   --------   --------
+Total depreciation                   $  2,508   $  1,245   $    748
+                                     ========   ========   ========
+
+15.         INCOME TAXES
+
+            Deferred  income  taxes  reflect  the net tax  effects of  temporary
+            differences  between the carrying  amount of assets and  liabilities
+            for financial  reporting purposes and the amount used for income tax
+            purposes. The tax effects of temporary differences that give rise to
+            significant  portions of the  deferred  tax assets and  deferred tax
+            liability  recognized as of December 31, 2000 and 1999 are presented
+            below:
+
+                                                December 31,
+                                         ---------------------
+                                             2000         1999
+                                             ----         ----
+
+  Deferred tax assets:
+     Bad debt expense                    $  181,500  $   50,000
+     Inventory obsolescence                  39,600      32,800
+     Product development costs              375,500     218,700
+     Operating loss carryforward          1,511,000   1,721,000
+     AMT credit carryforward                 78,000         -
+     Other                                   69,000      50,500
+                                         ----------  ----------
+              Total deferred tax assets   2,254,600   2,073,000
+Less valuation allowance                        -     2,010,300
+                                         ----------  ----------
+              Net deferred tax assets     2,254,600      62,700
+Less deferred tax liability
+     Depreciation and amortization          158,600      62,700
+                                         ----------  ----------
+              Net deferred tax amount    $2,096,000  $      -
+                                         ==========  ==========
+
+            As of December 31, 1999,  the Company  established a full  valuation
+            allowance  for its  deferred  tax  assets  based  upon  management's
+            determination of the amount that would ultimately be realized. Based
+            upon the continued  profitability of the Company during 2000 as well
+            as  expected  future  profitability,  management  determined  as  of
+            December  31,  2000,  that  a  valuation  allowance  was  no  longer
+            required.
+
+            At  December  31,  2000,   the  Company  had  net   operating   loss
+            carryforwards for federal income tax purposes of $3,776,000 expiring
+            in  2014  through  2019.  In  addition,   the  net  operating   loss
+            carryforwards  may be  significantly  limited  in the  future  under
+            Internal  Revenue Code Section 382 as a result of ownership  changes
+            resulting from the Company's equity offerings.
+
+            The exercise of  non-qualified  stock options and the  disqualifying
+            dispositions  of incentive  stock options under the Company's  stock
+            option plans gives rise to  compensation  which is includable in the
+            taxable  income of the  recipients and deductible by the Company for
+            federal and state income tax  purposes.  The tax benefit  recognized
+            from the utilization of such deductions increased paid-in capital by
+            $2,635,000 during the year ended December 31, 2000.
+
+                                       33
+
+<PAGE>
+
+
+         The  reconciliation  between the federal  statutory income tax rate and
+         the Company's income tax provision (benefit) is as follows:
+
+                                               Year Ended December 31,
+                                               -----------------------
+                                               2000    1999  1998
+                                               ----    ----  ----
+
+Statutory tax rate                              34%    34%   (34%)
+State and local taxes, net of federal benefit    2      6     (6)
+Alternative minimum tax and other                1      3     -
+Valuation allowance                            (27)   (34)    40
+                                               ---    ---    ---
+                                                10%     9%     0%
+                                               ===    ===    ===
+
+            Significant  components of the provision  (benefit) for income taxes
+            are as follows:
+<TABLE>
+<CAPTION>
+
+                                                          Year Ended December 31,
+                                                 ----------------------------------------
+                                                      2000         1999          1998
+                                                 -----------    ----------   ------------
+
+<S>                                                <C>              <C>           <C>
+Current:
+     Federal                                     $ 1,020,555   $       -     $       -
+     State and Foreign                               166,000        94,400        12,466
+                                                 -----------   -----------   -----------
+              Total current                        1,186,555        94,400        12,466
+                                                 -----------   -----------   -----------
+Deferred:
+     Federal                                       1,200,000       321,800      (727,000)
+     State and Foreign                               225,000        68,300      (128,000)
+     (Decrease) increase in valuation allowance   (2,010,300)     (390,100)      855,000
+                                                 -----------   -----------   -----------
+              Total deferred                        (585,300)          -             -
+                                                  -----------   -----------   -----------
+              Total provision for income taxes   $   601,255   $    94,400   $    12,466
+                                                 ===========   ===========   ===========
+</TABLE>
+
+
+16.         VALUATION AND QUALIFYING ACCOUNTS
+
+<TABLE>
+<CAPTION>
+
+                                                        Additions
+                                     Balance at         Charged to                                         Balance at
+                                     Beginning          Costs and                Deductions                  End of
+                                      of Year            Expenses                Write-offs                   Year
+                                      -------            --------                ----------                   ----
+
+
+<S>                                   <C>                <C>                       <C>                      <C>
+ Allowance for doubtful accounts:
+ December 31, 2000                    $125,000           $415,802                  $119,802                 $421,000
+                                     ==========         ==========                ==========               ==========
+ December 31, 1999                     $92,986            $44,758                  $ 12,744                 $125,000
+                                     ==========         ==========                ==========               ==========
+ December 31, 1998                    $144,000            $50,922                  $101,936                  $92,986
+                                     ==========         ==========                ==========               ==========
+
+ Inventory reserve:
+
+ December 31, 2000                    $ 82,000            $10,000                  $    -                   $ 92,000
+                                     ==========         ==========                ==========               ==========
+ December 31, 1999                    $ 82,000            -                        $    -                   $ 82,000
+                                     ==========         ==========                ==========               ==========
+ December 31, 1998                    $ 82,000            -                        $    -                   $ 82,000
+                                     ==========         ==========                ==========               ==========
+</TABLE>
+
+                                       34
+
+<PAGE>
+
+
+17.         EXPORT SALES
+
+            Revenue from export sales,  principally  software sales revenue, was
+            $2,419,000,  $733,000 and $234,000 for the years ended  December 31,
+            2000, 1999 and 1998, respectively.
+
+
+18.         INVESTMENT IN NYFIX MILLENNIUM
+
+            On October 27, 1999,  the Company  announced  the formation of NYFIX
+            Millennium,  L.L.C.  ("NYFIX  Millennium") with seven  international
+            investment banks and brokerage firms (the "Consortium"). The Company
+            owns 50% of NYFIX  Millennium and the Consortium  owns the remaining
+            50%. NYFIX Millennium  intends to operate as an alternative  trading
+            system.  All of the  partners of the  Consortium,  and the  Company,
+            invested  $2,000,000  each  in  NYFIX  Millennium.  Each  Consortium
+            partner received 281,250 shares of common stock of the Company,  for
+            an aggregate  1,968,750  shares,  in return for granting the Company
+            the option to purchase up to an additional 30% of NYFIX  Millennium.
+            The  Company may  exercise  the option  through the  exchange of one
+            share of the Company's  common stock for each NYFIX  Millennium unit
+            to be purchased,  subject to  adjustments in the event of any split,
+            combination,  reclassification  or other  adjustments to the capital
+            structure of the Company.  The Company's  total  investment in NYFIX
+            Millennium of $19,500,000 consists of $17,500,000  (1,968,750 shares
+            of  Company  stock x  $8.89)  and a  capital  cash  contribution  of
+            $2,000,000.   Pursuant  to  the  Operating   Agreement,   the  first
+            $14,000,000 in losses will be allocated to the Consortium investors,
+            which  equals  the  extent  of  their  capital  investment  in NYFIX
+            Millennium,  and no  portion  of those  losses  will be borne by the
+            Company.  The Company has temporarily funded certain operating costs
+            and capital  expenditures  on behalf of NYFIX  Millennium  until its
+            operations  commence.  Such  costs are  reflected  as Due from NYFIX
+            Millennium on the Company's consolidated balance sheets.
+
+            On March 14, 2001,  NYFIX  Millennium  added two new partners,  with
+            additional  partners and funding expected in the near term. Pursuant
+            to the terms of the Operating  Agreement of NYFIX  Millennium,  each
+            new  partner  contributed  $2,000,000  to NYFIX  Millennium  and the
+            Company maintained its 50% ownership interest in NYFIX Millennium in
+            exchange  for  reducing  certain  of its  rights  to share in future
+            dividend  distributions  of NYFIX  Millennium.  The  Company  issued
+            94,000  shares of its common stock to each new partner in return for
+            the same option rights noted above.
+
+            The Company leases computer and office space to NYFIX  Millennium on
+            a month-to-month basis pursuant to a management agreement with NYFIX
+            Millennium.  Future  payments from NYFIX  Millennium for such leases
+            are expected to be as follows:
+
+                         Year Ending
+                         December 31,                 Amount
+                         ------------                 ------
+                         2001                        $849,000
+                         2002                         700,000
+                         2003                         227,000
+                         2004                          69,000
+                         2005                          34,000
+
+
+                                       35
+
+<PAGE>
+
+
+19.         QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+                                             Three Months Ended
+                             -------------------------------------------------
+                                  March     June     September    December
+                                   31,       30,         30,          31,
+                             ----------   ---------  ----------  -----------
+2000:
+
+Total revenues               $4,380,008  $5,534,328  $6,510,825  $7,555,006
+                             ==========  ==========  ==========  ==========
+
+Gross profit                 $3,229,960  $3,996,419  $4,760,880  $5,615,556
+                             ==========  ==========  ==========  ==========
+
+Net earnings                 $  763,760  $1,077,059  $1,665,378  $2,170,230
+                             ==========  ==========  ==========  ==========
+
+Basic earnings per common
+    share                    $     0.03  $     0.04  $     0.07  $     0.09
+                             ==========  ==========  ==========  ==========
+
+Diluted earnings per common
+    share                    $     0.03  $     0.04  $     0.06  $     0.08
+                             ==========  ==========  ==========  ==========
+
+1999:
+
+Total revenues               $2,405,162  $3,041,566  $2,996,589  $3,766,134
+                             ==========  ==========  ==========  ==========
+
+Gross profit                 $1,742,271  $2,064,617  $2,093,979  $2,542,997
+                             ==========  ==========  ==========  ==========
+
+Net earnings                 $   30,177  $  150,165  $  367,668  $  412,409
+                             ==========  ==========  ==========  ==========
+
+Basic earnings per common
+    share                    $     0.00  $     0.01  $     0.02  $     0.02
+                             ==========  ==========  ==========  ==========
+
+Diluted earnings per common
+    share                    $     0.00  $     0.01  $     0.02  $     0.02
+                             ==========  ==========  ==========  ==========
+
+
+36
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>AMENDMENT NO. 1 TO 1991 STOCK OPTION PLAN
+<TEXT>
+
+
+                                                                    EXHIBIT 10.4
+
+
+AMENDMENT NO. 1 TO AMENDED AND RESTATED 1991  INCENTIVE AND  NONQUALIFIED  STOCK
+OPTION PLAN
+
+On February  12, 1996 the Board of  Directors  of NYFIX,  Inc.  adopted  certain
+amendments to the Company's  1991  Incentive  Stock Option Plan. The Amended And
+Restated  1991  Incentive  And  Nonqualified  Stock Option Plan (the "Plan") was
+approved  at the 1996  Annual  Meeting  of  Shareholders.  The  number of shares
+available  under the Plan as  stipulated in Section 3 was increased to 2,500,000
+at the 1999 Annual Meeting of Shareholders. The number of shares available under
+the Plan was increased to 3,750,000 as a result of a 50% stock  dividend  issued
+on November 15, 1999.  These Plan shares were further  increased to 5,625,000 on
+April 4, 2000 as a result of another 50% stock dividend.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>3
+<FILENAME>0003.txt
+<DESCRIPTION>AMENDMENT NO. 2 TO 1991 STOCK OPTION PLAN
+<TEXT>
+
+
+                                                                    EXHIBIT 10.5
+
+
+AMENDMENT NO. 2 TO AMENDED AND RESTATED 1991  INCENTIVE AND  NONQUALIFIED  STOCK
+OPTION PLAN
+
+On February  12, 1996 the Board of  Directors  of NYFIX,  Inc.  adopted  certain
+amendments to the Company's  1991  Incentive  Stock Option Plan. The Amended And
+Restated  1991  Incentive  And  Nonqualified  Stock Option Plan (the "Plan") was
+approved  at the 1996  Annual  Meeting  of  Shareholders.  The  number of shares
+available  under the Plan as  stipulated in Section 3 was increased to 2,500,000
+at the 1999 Annual Meeting of Shareholders. The number of shares available under
+the Plan was increased to 3,750,000 as a result of a 50% stock  dividend  issued
+on November 15, 1999.  These Plan shares were further  increased to 5,625,000 on
+April 4, 2000 as a result of another 50% stock dividend.  On March 29, 2000 at a
+regular  meeting of the Board of  Directors,  the Board  voted to  increase  the
+number of shares  reserved  for issuance  under the Plan to 6,625,000  shares of
+common stock. This increase in the number of shares available under the plan was
+approved at the 2000 Annual Meeting of Shareholders.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>4
+<FILENAME>0004.txt
+<DESCRIPTION>INDEPENDENT AUDITORS' CONSENT
+<TEXT>
+
+                                                                    Exhibit 23.1
+
+
+                          INDEPENDENT AUDITORS' CONSENT
+
+We consent to the  incorporation  by reference in  Registration  Statements  No.
+333-70037 and No.  333-93943 on Form S-3 and No. 333-95285 on Form S-8 of NYFIX,
+Inc. of our report dated March 2, 2001 (March 14, 2001 as to Note 18), appearing
+in this Annual  Report on Form 10-K of NYFIX,  Inc. for the year ended  December
+31, 2000.
+
+
+                                                       /s/ DELOITTE & TOUCHE LLP
+
+Stamford, Connecticut
+March 28, 2001
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.2
+<SEQUENCE>5
+<FILENAME>0005.txt
+<DESCRIPTION>CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+<TEXT>
+
+
+                                                                    Exhibit 23.2
+
+Consent of Independent Public Accountants
+
+As independent public accountants, we hereby consent to the incorporation of our
+report  included  in  this  Form  10-K  into  the  Company's   previously  filed
+Registration Statements File Nos. 333-70037, 333-93943 and 333-95285.
+
+
+                                        /s/ ARTHUR ANDERSEN LLP
+
+Stamford, Connecticut
+March 28, 2001
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

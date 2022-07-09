@@ -1,0 +1,1964 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ dVvJjYr76bZS3X8TJ9YFN3mhIuD/iWLLbqRMihvIbqTetxTlga5AStuRZ7fLtfjn
+ ZM8JFmzu6TPUBiQTXmBJyw==
+
+<IMS-DOCUMENT>0000920049-95-000018.txt : 19950616
+<IMS-HEADER>0000920049-95-000018.hdr.sgml : 19950616
+ACCESSION NUMBER:		0000920049-95-000018
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19941231
+FILED AS OF DATE:		19950321
+SROS:			AMEX
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TECHNITROL INC
+		CENTRAL INDEX KEY:			0000096763
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		IRS NUMBER:				231292472
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05375
+		FILM NUMBER:		95522095
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1210 NORTHBROOK DR STE 385
+		CITY:			TREVOSE
+		STATE:			PA
+		ZIP:			19053
+		BUSINESS PHONE:		2153552900
+
+	MAIL ADDRESS:	
+		STREET 2:		1210 NORTHBROOK DR STE 385
+		CITY:			TREVOSE
+		STATE:			PA
+		ZIP:			19053
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+                               UNITED STATES
+                     SECURITIES & EXCHANGE COMMISSION
+                          Washington, D.C. 20549
+
+                                 FORM 10-K
+
+[X]   Annual Report Pursuant to Section 13 or 15(d) of the Securities
+      Exchange Act of 1934
+      For the fiscal year ended December 31, 1994
+
+                                    or
+
+[ ]  Transition Report Pursuant to Section 13 or 15(d) of the Securities
+     Exchange Act of 1934
+     For the transition period from _______________ to _______________
+
+     Commission File No. 1-5375
+
+                             TECHNITROL, INC.
+            (Exact name of registrant as specified in Charter)
+
+       PENNSYLVANIA                                23-1292472
+ (State of Incorporation)              (IRS Employer Identification Number)
+
+      1210 Northbrook Drive, Suite 385, Trevose, Pennsylvania  19053
+      (Address of principal executive offices)               (Zip Code)
+
+    Registrant's telephone number, including area code:    215-355-2900
+
+Securities registered pursuant to Section 12(b) of the Act:
+    Title of each class           Name of each Exchange on which registered
+  -----------------------         -----------------------------------------
+      Common Stock
+par value $.125 per share                 American Stock Exchange
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+the filing requirements for at least the past 90 days.  YES [X]   NO [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+The aggregate market value of voting stock held by non-affiliates as of
+February 17, 1995 is $90,322,000 computed by reference to the closing price
+on the American Stock Exchange on such date.
+
+Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of February 17, 1995.
+                                           Number of shares outstanding
+    Title of each class                          February 17, 1995
+  -----------------------                ---------------------------------
+     Common Stock                                    6,021,452
+ par value $.125 per share
+
+                    DOCUMENTS INCORPORATED BY REFERENCE
+
+DOCUMENT                                                REFERENCE
+Pages 2 to 8 of the Registrant's definitive Proxy       Part III
+Statement, dated April 17, 1995, to be used in          Page 12 of 32 pages
+connection with Registrant's 1995 Annual Meeting
+of Shareholders
+
+                               Page 1 of 32
+<PAGE>
+                                  PART I
+ITEM I  BUSINESS
+
+Industry Segment Information
+
+     As a result of the acquisition of the Fil-Mag Group in January 1994
+(discussed in Note 2 of Notes to Consolidated Financial Statements),
+Technitrol, Inc. and its consolidated subsidiaries (collectively the
+"Company") have redefined the business segments during the first quarter of
+1994:
+
+     *  The Fil-Mag Group has been added to the Electronic Products
+Segment.  The segment continues to also include the Company's Components
+Division, but excludes the Products Division, Lloyd Instruments, Ltd.
+("Lloyd Instruments") and John Chatillon & Sons, Inc. ("Chatillon").  As a
+result, the Electronic Products Segment is now composed of the Company's
+electronic components business.
+     *  The Electrical Products Segment has become the Metallurgical
+Products Segment.  This segment includes the operations of Advanced
+Metallurgy, Inc. ("AMI") and Chace Precision Metals, Inc. ("Chace").
+AMI manufactures electrical contacts and assemblies for a wide range of
+industrial customers.  Separately, Chace produces thermostatic and clad
+metal products for a broad market of industrial and consumer product
+manufacturers.
+     *  The Mechanical Products Segment no longer exists.  A newly
+configured segment, the End User/Finished Products Segment, includes the
+Products Division, Lloyd Instruments, and Chatillon.  The Products Division
+manufactures document counters and dispensers, and markets its products
+internationally through distributors and on an OEM basis.  Lloyd
+Instruments manufactures a comprehensive range of material testing systems
+and markets its products throughout the world.  Chatillon is composed of
+two primary product families:  (1) mechanical force measurement products
+and mechanical scales, and (2) electronic force measurement products and
+electronic scales.  Chatillon's markets are numerous and international in
+nature.  It possesses multiple channels of marketing and distribution.
+
+     Identifiable assets are those assets that are utilized in each segment
+to provide the respective products.  Corporate assets are principally cash
+and cash equivalents.
+     The Company's products are sold primarily to industrial customers
+through the three segments described above.  All business segments'
+revenues are generally recognized when products are shipped.  The majority
+of the Company's sales are subject to credit terms prevalent in the
+industries it serves.  Receivables are written off when an account is
+considered to be doubtful of collection.  Management believes there are no
+significant concentrations of credit risk.
+
+
+
+                               Page 2 of 32
+<PAGE>
+Industry Segment Financial Information      (in thousands of dollars)
+                                             1994         1993         1992
+- ------------------------------------------------------------------------------
+Net sales
+  Electronic Products ..............      $ 41,173     $  9,375     $  8,164
+  Metallurgical Products ...........        76,534       63,935       60,393
+  End User/Finished Products........        28,737       27,147       29,997
+                                          --------     --------     --------
+    Total ..........................      $146,444     $100,457     $ 98,554
+                                          ========     ========     ========
+Operating profit before income taxes
+  Electronic Products ..............      $  5,023     $  1,678     $  1,059
+  Metallurgical Products ...........         4,792        2,058        1,590
+  End User/Finished Products .......         2,746        1,639        2,209
+                                          --------     --------     --------
+    Total operating profit .........      $ 12,561     $  5,375     $  4,858
+  Other income (expense), net ......        (1,172)        (210)        (519)
+                                          --------     --------     --------
+    Earnings before income taxes ...      $ 11,389     $  5,165     $  4,339
+                                          ========     ========     ========
+Assets at end of year
+  Electronic Products ..............      $ 25,054(a)  $  3,841     $  3,769
+  Metallurgical Products ...........        37,054       34,317       35,178(b)
+                                          --------     --------     --------
+  End User/Finished Products .......        14,086       12,432       13,370
+    Identifiable assets ............      $ 76,194     $ 50,590     $ 52,317
+  Corporate assets .................         8,561        7,982        3,391
+                                          --------     --------     --------
+    Total ..........................      $ 84,755     $ 58,572     $ 55,708
+                                          ========     ========     ========
+Capital expenditures
+  Electronic Products ..............      $  7,933(a)  $    238     $    262
+  Metallurgical Products ...........         2,288        2,191        8,204(b)
+  End User/Finished Products .......           569          226          429
+                                          --------     --------     --------
+    Total ..........................      $ 10,790     $  2,655     $  8,895
+                                          ========     ========     ========
+Depreciation and amortization
+  Electronic Products ..............      $  1,502(a)  $    646     $    419
+  Metallurgical Products ...........         3,205        3,692        3,920(b)
+  End User/Finished Products .......           564          653          629
+                                          --------     --------     --------
+    Total ..........................      $  5,271     $  4,991     $  4,968
+                                          ========     ========     ========
+
+(a)  Includes property, plant and equipment acquired as part of the
+     acquisition of the Fil-Mag Group.  See Note 2 to Consolidated
+     Financial Statements.
+(b)  Includes property, plant and equipment acquired as part of the
+     acquisition of Doduco Corporation.  See Note 2 to Consolidated
+     Financial Statements.
+
+     In 1994, one customer accounted for slightly more than 10% of
+consolidated sales.  The customer is a Fortune 150 entity principally doing
+business with the Metallurgical Products Segment.  The loss of that
+customer could have a material adverse effect on the Company.  Another
+customer, then a Fortune 50 entity principally doing business with the
+Metallurgical Products Segment, produced revenues slightly exceeding 10% of
+total sales in 1993 and 1992.  Sales to the Company's ten largest customers
+accounted for 38% of sales in 1994, 42% in 1993 and 41% in 1992.
+     Export sales from the United States totalled $14.0 million in 1994,
+$11.5 million in 1993 and $13.2 million in 1992.  There has been no
+concentration of sales in any particular domestic or international
+geographic area.  The Company's operations are divided into three
+geographic areas: Domestic, Far East, and All Other Foreign.  Substantially
+all of the revenues, earnings and identifiable assets in the Far East are
+located in Taiwan and the Philippines.  No more than 10% of consolidated
+revenues, pre-tax earnings or total assets are located in any one foreign
+country outside of the Far East.
+
+
+                               Page 3 of 32
+<PAGE>
+Geographic Information                       (in thousands of dollars)
+                                             1994         1993         1992
+- -------------------------------------------------------------------------------
+Sales to unaffiliated customers, from
+  United States .....................     $121,051     $ 92,976     $ 90,201
+  Far East ..........................       16,036           --           --
+  All Other Foreign .................        9,357        7,481        8,353
+                                          --------     --------     --------
+    Total ...........................     $146,444     $100,457     $ 98,554
+                                          ========     ========     ========
+Affiliate sales or transfers, from
+  United States .....................     $     62     $    122     $    112
+  Far East ..........................       10,141           --           --
+  All Other Foreign .................          629          615          634
+                                          --------     --------     --------
+    Total ...........................     $ 10,832      $   737     $    746
+                                          ========     ========     ========
+Operating Profit
+  United States .....................     $  9,032     $  4,814     $  4,850
+  Far East ..........................        2,473           --           --
+  All Other Foreign .................          901          603           53
+  Eliminations ......................          155          (42)         (45)
+                                          --------     --------     --------
+    Total ...........................     $ 12,561     $  5,375     $  4,858
+                                          ========     ========     ========
+Identifiable assets
+  United States .....................     $ 60,645     $ 53,601     $ 51,786
+  Far East ..........................       17,439           --           --
+  All Other Foreign .................        6,671        4,971        3,922
+                                          --------     --------     --------
+    Total ...........................     $ 84,755     $ 58,572     $ 55,708
+                                          ========     ========     ========
+
+Sales and Marketing
+      Sales and marketing are accomplished by sales management, district
+managers, direct salesmen, representatives, agents, dealers and
+distributors.
+
+Competition
+     The business of the Company is highly competitive, and with respect to
+each of its products, it faces competition from numerous firms, many of
+which are larger and possess greater financial resources.
+
+Backlog
+     As of December 31, 1994, the Company's backlog of orders was $28.7
+million compared to $14.9 million at the end of 1993.   Substantially all
+of the current backlog is scheduled for completion during the first six
+months of 1995.  Most orders are subject to cancellation upon payment of
+normal cancellation charges.  Normal delivery time for the Company's
+products is less than thirteen weeks.  No material portion of the Company's
+business is seasonal in nature.
+
+Raw Materials
+     In its diverse manufacturing operations, the Company is not dependent
+upon any particular source of supply.  However, there are relatively few
+suppliers of ferrite materials used in electronic components, powder metals
+used in electrical contacts, and specialty steel used in metal laminates.
+     The Company has not encountered any significant difficulties in
+obtaining adequate supplies of these raw materials for manufacture of its
+products.  One of the Company's subsidiaries engages in a business which
+utilizes silver as a raw material component.  This material has been
+readily available and is anticipated to remain so.
+Patents and Licenses
+     Although the Company possesses several patents and many trademarks and
+tradenames which are used in the conduct of its businesses, the Company
+does not consider its consolidated earnings to be materially dependent upon
+any one patent, trademark or license.
+
+                               Page 4 of 32
+<PAGE>
+Research and Development
+     The Company does not engage in any basic research activities.  Such
+research as is conducted is performed by its engineering personnel and is
+directed primarily toward the development of new products related to its
+current product lines and the improvement and enhancement of existing
+products.
+
+Environment
+     Expenditures required for the Company to meet or exceed Federal, state
+and local provisions regulating the discharge of materials into the
+environment, or otherwise relating to the protection of the environment,
+are not expected to have any material effect on capital expenditures,
+earnings or competitive position.
+     The Company is involved in several matters relating to superfund
+sites.  The Company's involvement has generally arisen from the alleged
+disposal by licensed waste haulers of small amounts of waste material many
+years ago at these sites.  The Company has previously expensed amounts
+which it believes to be sufficient to cover the aggregate amount of the
+ultimate liability, if any, which the Company believes to be reasonably
+possible at this time.
+
+Employees
+     At December 31, 1994, the Company had 3,141 full time employees
+compared with 1,048 at the end of 1993.
+
+Energy
+     The Company did not experience any curtailment of supplies of
+electricity, gas or oil in 1994, and does not expect any curtailment in
+1995.
+
+ITEM 2  PROPERTIES
+
+     The following properties were owned or leased by the Company at
+December 31, 1994.  The Trevose and Philadelphia locations are used in more
+than one business segment.  All other properties are used exclusively in
+one segment, as identified.
+
+                     Approx    Owned/    Lease    % Used
+Location           Square Ft.  Leased    Ending   for Mfg.  Comments
+- ------------------------------------------------------------------------------
+Trevose, PA            4,000   Leased    2001        0      Corporate
+                                                              headquarters
+Philadelphia, PA      70,000   Owned                40
+
+    Electronic Products
+Greensboro, MD        20,000   Owned                95
+San Diego, CA         17,000   Leased    1999        0
+Kaohsiung, Taiwan     51,000   Owned                55      Building is owned;
+                                                              land is leased
+                                                              through 2003
+Cavite, Philippines   26,000   Owned                60      Building is owned;
+                                                              land is leased
+                                                              through 2007
+Singapore              1,000   Leased    1995        0
+Tours, France          1,000   Leased    2003        0
+
+
+
+
+                                 Page 5 of 32
+<PAGE>
+
+                     Approx    Owned/    Lease    % Used
+Location           Square Ft.  Leased    Ending   for Mfg.  Comments
+- ------------------------------------------------------------------------------
+
+    Metallurgical Products
+Export, PA           115,000   Leased    2001       80
+McKeesport, PA        23,000   Leased    2004       65
+Delmont, PA           30,000   Owned                90
+Lancaster, PA         15,000   Leased    1996       90
+Cedar Knolls, NJ      48,000   Owned                65
+Reidsville, NC       250,000   Owned                55
+Luquillo, P.R.        32,000   Owned                80
+Luquillo, P.R.        12,000   Leased    1998       40
+
+   End User/Finished Products
+Feasterville, PA       2,000   Leased    1995        0
+Kew Gardens, NY       67,000   Owned                75
+Greensboro, NC        23,000   Owned                60
+Fareham, England      22,000   Leased    2004       50
+Wuppertal, Germany    20,000   Leased    1995       70
+Versailles, France     2,000   Leased    1997        0
+
+     The Company believes its facilities to be adequate for its present
+needs.
+
+ITEM 3  PENDING LEGAL PROCEEDINGS
+
+     The Company is a defendant in several lawsuits which it considers to
+be in the normal course of business, none of which is expected to have a
+material adverse effect on the Company.
+
+ITEM 4  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS -- NONE
+
+
+
+
+
+
+
+
+
+                               Page 6 of 32
+<PAGE>
+                                  PART II
+
+ITEM 5  MARKET PRICE OF REGISTRANT'S COMMON STOCK AND
+        RELATED SECURITY MATTERS
+
+     Technitrol Inc.'s common stock is traded on the American Stock
+Exchange.  The following table reflects the high and low sales prices on
+such Exchange and the dividends paid to shareholders in each quarterly
+period during Technitrol's last two fiscal years.
+
+QUARTER                          1ST         2ND         3RD         4TH
+- --------------------------------------------------------------------------
+1994 HIGH                      $11.792     $12.917     $14.500     $16.000
+1994 LOW                        $9.875     $10.875     $11.583     $12.000
+1994 DIVIDENDS PAID              $.093       $.093       $.093       $.095
+
+1993 HIGH                       $9.125      $8.500      $9.250     $10.125
+1993 LOW                        $8.250      $7.583      $7.750      $8.208
+1993 DIVIDENDS PAID              $.093       $.093       $.093       $.093
+
+     The relevant amounts have been restated to reflect a 200% stock
+dividend on September 18, 1994.
+
+     The approximate number of holders of record of the common stock,
+Technitrol Inc.'s only class of stock outstanding, as of January 13, 1995
+was:
+
+         TITLE OF CLASS                            NUMBER OF SHAREHOLDERS
+    --------------------------                     ----------------------
+         Common Stock                                         676
+    par value $.125 per share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 7 of 32
+<PAGE>
+<TABLE>
+<CAPTION>
+ITEM 6  SELECTED FINANCIAL DATA LAST 5 YEARS    (in thousands of dollars, except share data)
+
+                                  1994          1993(a)        1992(a)        1991(a)        1990(a)
+- -----------------------------------------------------------------------------------------------------
+<S>                            <C>            <C>            <C>            <C>           <C>
+Net sales                      $ 146,444      $ 100,457      $  98,554      $  81,169      $  83,614
+  Net earnings                 $   6,944      $3,356(b)      $   2,838      $   2,767      $   4,624
+  Earnings per share           $    1.15      $  .56(b)      $     .48      $     .47      $     .78
+
+Total assets                   $  84,755      $  58,572      $  55,708      $  52,512      $  51,552
+
+Long-term debt                 $  15,124      $   5,146      $   6,867      $   4,965      $   7,303
+
+Net worth                      $  45,757      $  40,294      $  38,657      $  38,303      $  37,442
+  Net worth per share          $    7.60      $    6.73      $    6.48      $    6.46      $    6.36
+
+Working capital                $  30,160      $  24,056      $  23,178      $  23,161      $  26,328
+  Working capital ratio         2.3 to 1       2.8 to 1       3.3 to 1       3.0 to 1       3.9 to 1
+
+Number of shares outstanding:
+  Weighted average             6,015,156      5,989,218      5,960,682      5,920,440      5,931,528
+  Year end                     6,021,452      5,986,467      5,970,087      5,928,675      5,889,000
+
+Dividends declared per share   $    .376      $    .373      $    .373      $    .373      $    .373
+
+Price range per share:
+  High                         $   16.00      $  10.125      $   11.00      $   9.875      $   13.75
+  Low                          $   9.875      $   7.583      $   6.625      $    8.08      $    6.75
+
+<FN>
+(a)  Per share amounts and shares outstanding have been restated to reflect a 200% stock dividend on
+     September 18, 1994.
+
+(b)  Excludes cumulative effect of a change in accounting for income taxes. (See Note 6 to the
+     Consolidated Financial Statements.)
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 8 of 32
+<PAGE>
+ITEM 7  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS
+
+Liquidity and Capital Resources
+     Cash and cash equivalents totalled $8.7 million at December 31, 1994,
+compared to $7.7 million a year earlier.  Working capital was $30.2
+million, compared to $24.1 million at December 31, 1993.  Contributing to
+the year-to-year increase in working capital was the 1994 acquisition of
+the Fil-Mag Group as discussed below.
+     Cash provided by operating activities was $9.6 million.  The positive
+cash flow was composed mainly of net earnings of $6.9 million; depreciation
+and amortization of $5.3 million; and increases in accounts payable ($1.1
+million) and accrued expenses ($3.9 million).  A cash decrease due to
+deferred tax benefits was offset by an increase in income taxes payable.
+Cash was consumed by increases in accounts receivable ($4.6 million) and
+inventories ($2.5 million). Those increases were caused by the increase in
+sales from 1993 to 1994.
+     Investing activities consumed $13 million during 1994.  Capital
+expenditures constituted $4.4 million, excluding acquisitions. Separately,
+$8.8 million was paid for the capital stock of the Fil-Mag Group, net of
+cash acquired.  Financing for the acquisition was provided by drawing down
+approximately $10 million on a temporary acquisition line of credit from
+CoreStates Bank, N.A., which was subsequently replaced by a three year
+revolving credit loan.  Projected 1995 capital expenditures are expected to
+be financed by internally generated funds.
+     Cash provided by financing activities was a net $4.2 million.  The
+aforementioned $10 million loan was the source of funds. Cash consumed by
+financing activities was due to combined debt reduction of $3.5 million,
+and $2.3 million of dividend payments. It is expected that dividends will
+continue to be paid on a quarterly basis during 1995.
+     The Company's foreign sales are conducted primarily through its foreign
+subsidiaries, principally in the Far East and Europe. In the Far East, the
+Company's sales are denominated primarily in U.S. dollars. In Europe, sales
+are denominated primarily in local currencies (consisting mainly of English
+pounds and French francs) and to a lesser extent in U.S. dollars.
+     Since a very significant portion of the Company's foreign sales are
+denominated in U.S. dollars, the Company does not believe that its potential
+exposure to currency fluctuations is material to its business. During 1993
+and 1994, the Company did not purchase any currency exchange forward contracts
+or similar instruments generally utilized to reduce the risk of currency
+fluctuations. The Company will reexamine this policy if sales denominated
+in currencies other than U.S. dollars become material to operations.
+
+Balance Sheet Composition at December 31:
+
+                                1994  1993                          1994   1993
+- -------------------------------------------------------------------------------
+Cash and cash equivalents        10%   13%    Current liabilities    28%    22%
+Other current assets             53%   50%    Long-term debt         18%     9%
+Property, plant, and equipment   29%   32%    Shareholders' equity   54%    69%
+Other assets                      8%    5%
+                                ----  ----                          ----   ----
+Total                           100%  100%                          100%   100%
+                                ====  ====                          ====   ====
+
+
+
+
+
+                                 Page 9 of 32
+<PAGE>
+RESULTS OF OPERATIONS
+
+In 1994:
+
+     In 1994, sales were $146.4 million compared to $100.5 million in 1993.
+The 45.7% increase was due to the $30.8 million sales of the Fil-Mag Group,
+acquired in January 1994, and a combined sales increase of $15.1 million
+realized by the other businesses of the Company.  All three of the
+Company's segments experienced increased sales in 1994 from 1993.
+     The December 31 backlog was $28.7 million in 1994 and $14.9 million in
+1993.  Contributing to the increase was the Fil-Mag Group's backlog.
+     The increase in sales of the Electronic Products Segment to $41.2
+million included the sales of the Fil-Mag Group as noted above.  Operating
+profit of the Electronics Products Segment increased to $5.0 million in
+1994, compared to $1.7 million in the prior year.  The increase reflected
+the fifty weeks of profits of the Fil-Mag Group since its acquisition in
+January 1994.  As a percentage of sales, this segment's annual operating
+profits equaled 12.2% which was the highest of the Company's three product
+segments. Year end backlog and order volumes indicated a softening in the
+segment's domestic markets, while offshore demand remained relatively
+strong.
+     The Metallurgical Products Segment produced increased sales, operating
+profit and operating profit as a function of sales in 1994 as compared to
+1993. AMI experienced its largest sales and profit improvements to the
+product line which was acquired from Engelhard Corporation in 1991.
+Housing starts continue to have an eventual impact on demand for various
+AMI products.  Management is monitoring the indirect effect that recent
+interest rate increases will have on AMI backlog levels which were stable
+entering the first quarter of 1995.  Separately, Chace sales and operating
+profits also grew year-to-year.  On-going efforts aimed at cost containment
+and quality improvements have contributed to the growth in sales volume and
+profits. Chace's proven ability to compete in a demanding industrial market
+was reflected by a strong backlog position as it began the new year.
+     Two of the three operating units which constitute the End
+User/Finished Products Segment experienced an increase in sales and
+operating profits.  Chatillon sales volume and profitability improved in
+its primary product families, as the improved economic climate contributed
+to more favorable market conditions.  Lloyd's year-to-year sales increase
+reflected incremental unit sales and the absence of the unfavorable
+currency translation which negatively impacted 1993 results.  Lower sales
+and operating profit occurred at the Company's Products Division.  Domestic
+demand for currency counters and dispensers decreased during 1994, which
+was also the first full year subsequent to the Division withdrawing as a
+provider of engineering services on a prime contract basis to an agency of
+the U.S. Government.
+     The Company's selling, general and administrative expenses increased
+to $27.3 million in 1994 from $19.4 million in 1993. The key reason for the
+increase was the addition of the Fil-Mag Group.
+     Interest expense grew to $1.1 million, caused by the $10 million
+increase in outstanding debt to fund the Fil-Mag Group acquisition and
+rising interest rates during the year.
+     1994 income tax expenses increased as a function of pre-tax earnings.
+The 1994 effective income tax rate rose to 39% from 35% in 1993 as a result
+of proportionately higher taxable income being earned by the Company's
+domestic operations. Effective income tax rates of the domestic operations
+generally exceed those of the Company's offshore operations.
+
+
+                               Page 10 of 32
+<PAGE>
+
+In 1993:
+
+     Sales increased by 1.9% to $100.5 million in 1993.  The sales
+increases of the Electronic Products Segment and the Metallurgical Products
+Segment exceeded the sales decrease experienced by the End User/Finished
+Products Segment.
+     The backlog on December 31, 1993 was $14.9 million, compared to $14.2
+million on December 31, 1992.
+     The Electronic Products Segment sales increased to $9.4 million from
+$8.2 million in 1992.  Sales of the Metallurgical Products Segment
+increased to $63.9 million in 1993 from $60.4 million.  The 1993 year
+marked the first full year of operation at the Export, PA, facility which
+includes the product line acquired from Engelhard Corporation in August
+1991 and relocated during 1992.  End User/Finished Products Segment sales
+decreased from $30 million to $27.1 million.  This reflected a volume
+decrease in currency counters and dispensers in the Products Division.
+Separately, that division withdrew as a provider of engineering services on
+a prime contract basis to an agency of the U.S. Government.  Also causing
+the sales decline of the segment were unfavorable currency translation of
+the sales of Lloyd Instruments Ltd., a U.K. Company, and a decrease in the
+sales of electronic products of Chatillon.
+     Total 1993 gross profit dollars approximated those of 1992.  However,
+as a percentage of sales, 1993 gross profit dropped slightly to 24.6% from
+25.2% in 1992.  Contributing to the decrease were inventory write-offs and
+high production costs incurred at the Export, PA, facility of the
+Metallurgical Products Segment and the cost associated with the Petersburg,
+PA, plant shutdown of the Electronic Products Segment.
+     Selling, general and administrative expenses decreased to $19.4
+million in 1993, compared to $20 million during the previous year.  The
+decrease reflected the non-recurring 1992 expenses associated with AMI-DDC
+(see Note 2 to Consolidated Financial Statements) and relocating the
+Engelhard product line.
+     Operating Profit of $5.4 million in 1993 represented a 10.6% increase
+from year-to-year.  The Electronic Products Segment contributed to the
+increase, with the Components Division experiencing stronger profits in
+1993 as a result of on-going cost reduction efforts.  The operating profit
+increase of the Metallurgical Products Segment included improved earnings
+of the established operations of AMI and the first full year of
+contribution of AMI-DDC exceeding a decrease in profitability on the part
+of the product line acquired from Engelhard.  The major markets of AMI
+remained cyclical and reflected general trends in housing, automotive,
+appliances and capital equipment.  Improved profits were realized by Chace,
+as cost improvement programs yielded their intended results.  Regarding the
+End User/Finished Products Segment, weak demand caused a decrease in
+profitability at the Products Division and flat earnings on certain
+Chatillon products, which more than offset improved profits realized by
+Lloyd Instruments Ltd.
+     Interest expense decreased to $0.4 million in 1993 due to lower
+interest rates and a reduction in the amount of debt outstanding.
+     Income tax expenses increased proportionate to 1993 pre-tax earnings,
+with the 35% effective income tax rate unchanged from the prior year.
+Contributing to the flat effective rate were increased earnings of the
+operation in Puerto Rico, which is exempt from U.S. Federal income taxes.
+     The Company adopted Financial Accounting Standard No. 109, "Accounting
+for Income Taxes," during 1993.  As a result, $261,000 of favorable
+cumulative effect on prior years was added to 1993 net earnings.
+
+                               Page 11 of 32
+<PAGE>
+
+ITEM 8  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The Company's consolidated financial statements, notes to the
+consolidated financial statements, together with the opinion of the
+Company's independent auditors and the supplementary financial information
+required by this item are attached hereto and made part hereof.
+
+ITEM 9  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE - NONE
+
+
+                                 PART III
+
+CROSS REFERENCE INDEX
+
+           FORM 10-K
+          ITEM NUMBER AND CAPTION          INCORPORATED MATERIAL
+          ------------------------------   -----------------------------------
+ITEM 10   DIRECTORS, EXECUTIVE OFFICERS,   REGISTRANT'S DEFINITIVE PROXY
+            PROMOTERS & CONTROL PERSONS      STATEMENT PGS. 3, 4 & 5
+
+ITEM 11   EXECUTIVE COMPENSATION           REGISTRANT'S DEFINITIVE PROXY
+                                             STATEMENT PGS. 6 & 7
+
+ITEM 12   SECURITY OWNERSHIP OF CERTAIN    REGISTRANT'S DEFINITIVE PROXY
+            BENEFICIAL OWNERS AND            STATEMENT PGS. 2 & 3
+            MANAGEMENT
+
+ITEM 13   CERTAIN RELATIONSHIPS AND        REGISTRANT'S DEFINITIVE PROXY
+            RELATED TRANSACTIONS             STATEMENT PGS. 3, 4 & 5
+
+
+                                  PART IV
+
+ITEM 14 EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+   (a)  Documents filed as part of this report
+
+        Financial Statements
+
+        Independent Auditors' Report
+        Consolidated Balance Sheets - December 31, 1994 and 1993
+        Consolidated Statements of Earnings and Retained Earnings - Years
+          ended December 31, 1994, 1993 and 1992
+        Consolidated Statements of Cash Flows - Years ended
+          December 31, 1994, 1993 and 1992
+        Notes to Consolidated Financial Statements
+
+   (b)  Technitrol, Inc. filed a report on Form 8-K on January 31, 1994
+        regarding the acquisition of all shares of capital stock of Fee
+        Fil-Mag Taiwan Corporation, Fee Fil-Mag Singapore Pte. Corporation,
+        and Fil-Mag, Inc.
+
+   (c)  Exhibits
+
+        (21) Subsidiaries of the Registrant
+        (23) Consent of Certified Public Accountants
+        (27) Financial Data Schedule (electronic filing only)
+
+
+                               Page 12 of 32
+<PAGE>
+
+
+                                SIGNATURES
+
+   Pursuant to the requirements of Section 13 or 15(d) of the Securities
+and Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+TECHNITROL, INC.
+
+By    /s/Roy E. Hock
+      --------------------------------
+      Roy E. Hock
+      Chairman (Principal Executive
+        Officer)
+
+Date  March 21, 1995
+      --------------------------------
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+By    /s/Roy E. Hock                       By   /s/Albert Thorp, III
+      --------------------------------          -------------------------------
+      Roy E. Hock                               Albert Thorp, III
+      Chairman of the Board of Directors        Controller
+        and Chief Executive Officer             (Principal Accounting Officer)
+
+Date  March 21, 1995                       Date March 21, 1995
+      --------------------------------          -------------------------------
+
+
+By    /s/Thomas J. Flakoll                 By   /s/Stanley E. Basara
+      --------------------------------          -------------------------------
+      Thomas J. Flakoll                         Stanley E. Basara
+      President and Director                    Director
+
+Date  March 21, 1995                       Date March 21, 1995
+      --------------------------------          -------------------------------
+
+
+By    /s/James J. Rafferty, Jr.            By   /s/John E. Burrows, Jr.
+      --------------------------------          -------------------------------
+      James J. Rafferty, Jr.                    John E. Burrows, Jr.
+      Vice President and Director               Director
+
+Date  March 21, 1995                       Date March 21, 1995
+      --------------------------------          -------------------------------
+
+
+By    /s/J. Barton Harrison                By   /s/Graham Humes
+      --------------------------------          -------------------------------
+      J. Barton Harrison                        Graham Humes
+      Secretary and Director                    Director
+
+Date  March 21, 1995                       Date March 21, 1995
+      --------------------------------          -------------------------------
+
+
+By    /s/Robert J. Citrino                 By   /s/Edward M. Mazze
+      --------------------------------          -------------------------------
+      Robert J. Citrino                         Edward M. Mazze
+      Treasurer                                 Director
+      (Principal Financial Officer)
+
+Date  March 21, 1995                       Date March 21, 1995
+      --------------------------------          -------------------------------
+
+
+By    /s/Michael J. Kirchoff               By   /s/James M. Papada, III
+      --------------------------------          -------------------------------
+      Michael J. Kirchoff                       James M. Papada, III
+      Vice President                            Director
+
+Date  March 21, 1995                       Date March 21, 1995
+      --------------------------------          -------------------------------
+
+                               Page 13 of 32
+<PAGE>
+
+                       INDEX TO FINANCIAL STATEMENTS
+
+                           Financial Statements
+
+Independent Auditors' Report
+
+Consolidated Balance Sheets - December 31, 1994 and 1993
+
+Consolidated Statements of Earnings and Retained Earnings - Years ended
+December 31, 1994, 1993 and 1992
+
+Consolidated Statements of Cash Flows - Years ended December 31, 1994, 1993
+   and 1992
+
+Notes to Consolidated Financial Statements
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 14 of 32
+<PAGE>
+                       Independent Auditors' Report
+
+
+
+The Board of Directors and Shareholders
+Technitrol, Inc.:
+
+We have audited the consolidated financial statements of Technitrol, Inc.
+and subsidiaries as listed in the accompanying index. These consolidated
+financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+Technitrol, Inc. and subsidiaries at December 31, 1994 and 1993, and the
+results of their operations and their cash flows for each of the years in
+the three-year period ended December 31, 1994 in conformity with generally
+accepted accounting principles.
+
+As discussed in note 6 to the consolidated financial statements, the
+Company changed its method of accounting for income taxes in 1993 to adopt
+the provisions of the Financial Accounting Standards Board's Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes."
+
+                                   KPMG Peat Marwick LLP
+
+
+Philadelphia, Pennsylvania
+March 3, 1995
+
+
+
+
+                               Page 15 of 32
+<PAGE>
+                     TECHNITROL, INC. AND SUBSIDIARIES
+                        Consolidated Balance Sheets
+                        December 31, 1994 and 1993
+              In thousands of dollars, except for share data
+
+          Assets                                       1994          1993
+- ---------------------------------------------------------------------------
+Current Assets:
+  Cash and cash equivalents                          $ 8,716       $ 7,721
+  Receivables:
+    Trade                                             22,614        13,389
+    Other                                                139            88
+  Inventories:
+    Finished goods                                     5,471         4,281
+    Work in process                                    8,420         5,991
+    Raw materials and supplies                         7,823         5,169
+                                                     -------       -------
+      Total inventories                               21,714        15,441
+Prepaid expenses                                         851           549
+                                                     -------       -------
+      Total current assets                            54,034        37,188
+
+Property, plant and equipment                         55,180        45,729
+                                                     -------       -------
+  Less accumulated depreciation                       30,809        26,922
+    Net property, plant and equipment                 24,371        18,807
+Deferred income taxes                                  2,409         1,605
+Other assets                                           3,941           972
+                                                     -------       -------
+                                                     $84,755       $58,572
+                                                     =======       =======
+
+
+          Liabilities and Shareholders' Equity         1994          1993
+- ---------------------------------------------------------------------------
+Current liabilities:
+  Current installments of long-term debt             $    22       $    21
+  Short-term debt                                        756            --
+  Accounts payable                                     5,841         3,718
+  Income taxes payable                                 1,916           716
+  Dividends payable                                      572           559
+  Accrued payroll                                      3,118         1,499
+  Accrued pension expense                              4,589         3,002
+  Other accrued expenses                               7,060         3,617
+                                                     -------       -------
+      Total current liabilities                       23,874        13,132
+                                                     -------       -------
+
+Long-term debt, excluding current installments        15,124         5,146
+
+Commitments and contingencies (Note 7)
+
+Shareholders' equity:
+  Common stock, $.125 par. Authorized 10,000,000
+    shares; 8,943,960 shares issued in 1994 and
+    2,981,320 in 1993                                  1,118           373
+  Additional paid-in capital                           4,329         3,926
+  Retained earnings                                   45,923        41,993
+                                                     -------       -------
+                                                      51,370        46,292
+  Less: Cost of treasury stock (2,922,508 shares
+    in 1994, and 985,831 shares in 1993)              (4,573)       (4,628)
+  Unearned compensation under stock award plan          (560)         (485)
+  Cumulative translation adjustment                     (480)         (885)
+                                                     -------       -------
+      Total shareholders' equity                      45,757        40,294
+                                                     =======       =======
+                                                     $84,755       $58,572
+
+See accompanying notes to consolidated financial statements.
+
+
+                               Page 16 of 32
+<PAGE>
+                       TECHNITROL, INC. AND SUBSIDIARIES
+
+           Consolidated Statements of Earnings and Retained Earnings
+
+                  Years ended December 31, 1994, 1993 and 1992
+                 In thousands of dollars, except per share data
+
+                                                  1994       1993        1992
+- -------------------------------------------------------------------------------
+Net sales                                       $146,444   $100,457    $ 98,554
+Cost of sales                                    106,609     75,705      73,677
+                                                --------   --------    --------
+    Gross profit                                  39,835     24,752      24,877
+
+Selling, general and administrative expenses      27,274     19,377      20,019
+                                                --------   --------    --------
+    Operating profit                              12,561      5,375       4,858
+Other income (expense):
+  Interest income                                    140        108          89
+  Interest expense                                (1,130)      (389)       (717)
+  Other, net                                        (182)        71         109
+                                                --------   --------    --------
+                                                  (1,172)      (210)       (519)
+                                                --------   --------    --------
+    Earnings before income taxes                  11,389      5,165       4,339
+Income taxes                                       4,445      1,809       1,501
+                                                --------   --------    --------
+
+Net earnings before cumulative effect of a
+  change in accounting for income taxes         $  6,944   $  3,356    $  2,838
+
+Cumulative effect on prior years (to
+  January 1, 1993) of a change in
+  accounting for income taxes (Note 6)                --        261          --
+                                                --------   --------    --------
+Net earnings                                    $  6,944   $  3,617    $  2,838
+                                                ========   ========    ========
+
+Earnings per share:
+Before cumulative effect of a change in
+  accounting for income taxes                   $   1.15   $    .56    $    .48
+Cumulative effect of a change in accounting
+  for income taxes                              $     --   $    .04    $     --
+                                                --------   --------    --------
+Total earnings per share                        $   1.15   $    .60    $    .48
+                                                ========   ========    ========
+
+Retained earnings:
+  Balance at beginning of year                  $ 41,993   $ 40,614    $ 40,005
+  Net earnings for the year                        6,944      3,617       2,838
+                                                --------   --------    --------
+                                                $ 48,937   $ 44,231    $ 42,843
+  200% Common stock dividend                         745         --          --
+  Cash dividends declared:
+    ($.376 per share in 1994 and $.373
+      per share in 1993 and 1992)                  2,269      2,238       2,229
+                                                --------   --------    --------
+
+  Balance at end of year                        $ 45,923   $ 41,993    $ 40,614
+                                                ========   ========    ========
+
+See accompanying notes to consolidated financial statements.
+
+
+                                 Page 17 of 32
+<PAGE>
+                       TECHNITROL, INC. AND SUBSIDIARIES
+                     Consolidated Statements of Cash Flows
+                 Years ended December 31, 1994, 1993, and 1992
+                            In thousands of dollars
+
+                                                   1994       1993        1992
+- -------------------------------------------------------------------------------
+Cash flows from operating activities:
+  Net earnings                                   $ 6,944    $ 3,617     $ 2,838
+  Cumulative effect of a change in accounting
+    for income taxes                                  --       (261)        --
+  Adjustments to reconcile net earnings to net
+    cash provided by operating activities:
+  Depreciation and amortization                    5,271      4,991       4,968
+  Loss (gain) on disposal of equipment                88        (60)         40
+  Changes in assets and liabilities net of
+    effect of acquisitions:
+      Increase in deferred tax benefits           (1,019)      (492)       (673)
+      Increase(decrease) in income taxes payable   1,055        798        (376)
+      Increase(decrease) in accounts payable       1,082        689         (44)
+      Increase in accrued expenses                 3,912        981          60
+      (Increase)decrease in accounts receivable   (4,626)       142        (192)
+      (Increase)decrease in inventories           (2,482)     1,031        (760)
+  Other, net                                        (607)       108         763
+                                                 -------    -------     -------
+    Net cash provided by operating activities      9,618     11,544       6,624
+Cash flows from investing activities:
+  Acquisition of capital stock of the Fil-Mag
+    Group, net of cash acquired                   (8,805)        --         --
+  Acquisition of capital stock of
+    Doduco Corporation, net of cash acquired          --         --        (441)
+  Sales or maturities of marketable securities         1          4           1
+  Capital expenditures, exclusive
+    of acquisitions                               (4,429)    (2,655)     (3,674)
+  Proceeds from sale of property,
+    plant and equipment                              282         71          54
+                                                 -------    -------     -------
+      Net cash used in investing activities      (12,951)    (2,580)     (4,060)
+                                                 -------    -------     -------
+Cash flows from financing activities:
+  Repayment of Fil-Mag Group funded
+    indebtedness                                  (1,014)        --         --
+  Principal payments on long-term debt               (21)    (8,421)    (10,678)
+  Net repayments of short term debt               (2,504)        --         --
+  Proceeds of long-term borrowings                10,000      6,700      12,600
+  Repayment of Doduco Corporation funded
+    indebtedness                                     --         --       (6,120)
+  Dividends paid                                  (2,255)    (2,237)     (2,224)
+                                                 -------    -------     -------
+      Net cash provided by (used in)
+        financing activities                       4,206     (3,958)     (6,422)
+                                                 -------    -------     -------
+      Net effect of exchange rate changes
+        on cash                                      122        (33)        (71)
+      Net increase(decrease) in cash and
+        cash equivalents                             995      4,973      (3,929)
+Cash and cash equivalents at beginning of year     7,721      2,748       6,677
+                                                 -------    -------     -------
+Cash and cash equivalents at end of year         $ 8,716    $ 7,721     $ 2,748
+                                                 =======    =======     =======
+
+See accompanying notes to consolidated financial statements.
+
+                                 Page 18 of 32
+<PAGE>
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+                Notes to Consolidated Financial Statements
+
+(1)  Summary of Significant Accounting Policies
+
+Principles of Consolidation
+     The consolidated financial statements include the accounts of
+Technitrol, Inc. (the "Company") and all of its subsidiaries.  All material
+intercompany accounts and transactions are eliminated in consolidation.
+
+Cash and Cash Equivalents
+     Cash and cash equivalents include funds invested in a variety of
+liquid short-term investments with a maturity of three months or less.
+
+Inventories
+     Inventories are stated at the lower of cost or market.  Cost is
+determined by the first-in, first-out (FIFO) method.  In addition to the
+inventories included in the accompanying balance sheets, the Company has
+custody of inventories on consignment from suppliers ($14,063,000 at
+December 31, 1994 and $11,092,000 at December 31, 1993).
+
+Property, Plant and Equipment
+     Property, plant and equipment are stated at cost.  Depreciation is
+based upon the estimated useful life of the assets and has been provided
+for on both the accelerated and the straight line methods.  Expenditures
+for maintenance and repairs are charged to operations as incurred, and
+major renewals and betterments are capitalized.  Upon sale or retirement,
+the cost of the asset and related accumulated depreciation are removed from
+the balance sheet, and any resulting gains or losses are included in
+earnings.
+
+Excess of Cost over Net Assets
+     Excess of cost over net assets acquired (which the Company believes
+has continuing value) is being amortized on a straight-line basis over 15
+years. The recoverability of the carrying value of intangible assets is
+evaluated on a recurring basis.
+
+Earnings per Share
+     Earnings per share are calculated based on the weighted average number
+of common shares outstanding.  Earnings per share for prior years have been
+restated to reflect a 200% stock dividend recorded on September 18, 1994.
+
+Foreign Currency Translation
+     The financial statements of the Company's foreign subsidiaries have
+been translated into U.S. dollars in accordance with Financial Accounting
+Standards Board Statement No. 52.  All balance sheet accounts have been
+translated using the year-end exchange rate and all income statement
+accounts have been translated using the average exchange rate for the year.
+The gains and losses resulting from the change in exchange rates from the
+date of acquisition to the current balance sheet date have been reported
+separately as a component of shareholders' equity.  Transaction gains and
+losses are recorded in the statement of earnings for the year in which they
+occur.
+
+
+                                                                (continued)
+
+
+                               Page 19 of 32
+<PAGE>
+                                     2
+                     TECHNITROL, INC. AND SUBSIDIARIES
+           Notes to Consolidated Financial Statements, continued
+
+(2)  Acquisitions
+
+     On January 17, 1994, the Company, through its wholly-owned subsidiary,
+Technitrol International, Inc., a Delaware corporation, acquired from FEE
+Technology, S.A. all of the issued and outstanding capital stock of FEE
+Fil-Mag Taiwan Corporation ("FFT"), FEE Fil-Mag Singapore Pte. Corporation
+("FFS") and Fil-Mag, Inc. ("FMI").  FFT, FFS and FMI are referred to below
+as the "Fil-Mag Group".  The Fil-Mag Group is a supplier of magnetic
+components to domestic and international manufacturers of PCs, network
+interface cards, network controllers and other devices that are connected
+to data communications networks such as Token Ring and Ethernet.  The Fil-
+Mag Group conducts manufacturing operations in its plants in Taiwan and the
+Philippines; engineering activities at its San Diego, California location;
+and sales operations through offices in France, Singapore and San Diego.
+The Company intends to continue the businesses of the Fil-Mag Group at
+their current locations.
+     The purchase price was $9,082,000 (net of expenses).  In addition, the
+Company caused FMI to repay to FEE Technology, S.A. approximately $1
+million of indebtedness.  FFT was indebted to local banks in the amount of
+approximately $3.3 million, of which approximately $2.5 million was retired
+during 1994.  The purchase price and the $1 million debt repayment were
+financed by borrowing $10 million under a temporary acquisition line of
+credit and cash on-hand of approximately $400,000.
+     The purchase price was arrived at pursuant to arms-length
+negotiations, taking into account all pertinent factors including, but not
+limited to, the nature, monetary and strategic value of the assets being
+acquired, the businesses and business prospects of each member of the Fil-
+Mag Group and the synergies of the businesses of the Fil-Mag Group with the
+operations of the Components Division of the Company.  The assets acquired
+had a fair value of approximately $18.0 million, including current assets
+of $9.0 million and approximately $2.5 million of goodwill associated with
+the acquisition.  Liabilities assumed totaled $8.6 million.
+     Subsequent to the acquisition, eight key employees of the Fil-Mag
+Group entered into a covenant against competition with the Company in
+exchange for which the Fil-Mag Group paid them, in the aggregate, $1
+million during the twelve months subsequent to the acquisition.  The $1
+million was financed by cash on-hand.
+     The acquisition has been accounted for by the purchase method of
+accounting.  Had the business been acquired on January 1, 1993, unaudited
+consolidated pro forma results would have been:
+
+                                                  Year ended
+                                               December 31, 1993
+                                              ------------------
+               Sales                           $130.1 million
+               Net earnings                    $  4.3 million
+               Net earnings per share          $   .76
+
+
+
+                                                                (continued)
+                               Page 20 of 32
+<PAGE>
+                                     3
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(2)  Acquisitions, continued
+
+The activity of the Fil-Mag Group for the period from January 1 to January
+17, 1994, was not material to the consolidated results of the Company.
+     This unaudited pro forma information is provided for comparative
+purposes only.  It does not purport to be indicative of the results that
+actually would have occurred if the acquisition had been consummated on the
+date indicated or which may be obtained in the future.
+     On February 12, 1992, the Company purchased all of the issued and
+outstanding shares of the capital stock of Doduco Corporation.  Upon
+acquisition, the name of the acquired business was changed to AMI-DDC, Inc.
+("AMI-DDC").  AMI-DDC is engaged in the business of manufacturing
+electrical contacts.  The cost of the acquisition amounted to $728,000,
+consisting of $111,000 of acquisition costs and $617,000 cash paid for all
+outstanding shares of common stock.  Funded indebtedness of AMI-DDC of $3.6
+million was repaid during March of 1992, and an additional $2.5 million was
+repaid in April of 1992.  The purchase price and debt repayments were
+financed by borrowing $5.9 million under a revolving credit loan (with a
+maximum draw of $6 million) and cash on hand of approximately $1.1 million.
+     The acquisition was accounted for by the purchase method of
+accounting.  Had the business been acquired on January 1, 1992, pro forma
+results of operations would have been:
+
+                                                  Year Ended
+                                                 Dec. 31, 1992
+                                               ----------------
+               Sales                           $99.4 million
+               Net earnings                    $ 2.9 million
+               Net earnings per share          $  .48
+
+     This unaudited pro forma information is provided for comparative
+purposes only.  It does not purport to be indicative of the results that
+actually would have occurred if the acquisition had been consummated on the
+date indicated or which may be attained in the future.
+
+(3)  Property, Plant and Equipment
+
+     Components of property, plant and equipment were as follows (in
+thousands):
+
+                                   1994           1993
+                                 ----------------------
+Land                             $ 1,044        $ 1,044
+Buildings and improvements        15,074         12,400
+Machinery and equipment           39,062         32,285
+                                 -------        -------
+                                 $55,180        $45,729
+                                 =======        =======
+                                                                (continued)
+                               Page 21 of 32
+<PAGE>
+                                     4
+                       TECHNITROL, INC. AND SUBSIDIARIES
+             Notes to Consolidated Financial Statements, continued
+
+(4)  Long-term Debt
+Long-term debt was as follows (in thousands):
+                                                               1994       1993
+- -------------------------------------------------------------------------------
+Bank Loans
+
+  Variable-rate (LIBOR plus 0.875%) bank loan facility
+    with $8.3 million maximum draw, due May 1997
+    (4.125% rate at December 31, 1993)                      $    --     $5,000
+                                                            -------     ------
+  Variable-rate (LIBOR plus 0.75%) bank loan facility
+    with $20.0 million maximum draw, due March 1997
+    (6.97% rate at December 31, 1994)                       $15,000     $   --
+                                                            -------     ------
+      Total bank loans                                      $15,000     $5,000
+
+Mortgage Notes, secured by mortgages on land, buildings,
+and certain equipment:
+
+  4.5% mortgage notes, due in monthly installments
+    until 2000                                                  146        167
+                                                            -------     ------
+      Total long-term debt                                   15,146      5,167
+
+Less current installments                                        22         21
+                                                            -------     ------
+Long-term debt excluding current installments               $15,124     $5,146
+                                                            =======     ======
+
+Principal payments due within the next five years are  as follows (in
+thousands):
+
+                                    Principal
+                                    ---------
+                         1995        $    22
+                         1996             23
+                         1997         15,024
+                         1998             25
+                         1999             26
+
+     In January 1994, the Company borrowed $10 million under a temporary
+acquisition line of credit as described in Note 2.  In March 1994, this
+amount was refinanced along with the $5 million outstanding at December 31,
+1993, into a single variable-rate revolving bank loan facility with a
+maximum draw of $20 million, maturing in March 1997. On February 9, 1995,
+$2 million of the $15 million outstanding at December 31, 1994 was repaid
+and the committed facility was reduced from $20 million to $13 million.
+     The Bank Loan facilities are unsecured and contain certain covenants
+requiring maintenance of minimum net worth and other customary and normal
+provisions.  The Company is in compliance with all such covenants.
+
+                                                                (continued)
+                               Page 22 of 32
+<PAGE>
+                                     5
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(5)  Research and Development Expense
+
+     Research and development expense is included in cost of sales and has
+not exceeded 3.3% of cost of sales in 1994, 1993 and 1992.
+
+(6)  Income Taxes
+
+     During 1992, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 109, "Accounting for Income Taxes"
+("FAS 109").  FAS 109 requires a change from the deferred method of
+accounting for income taxes of Accounting Principles Board Opinion 11 to
+the asset and liability method of accounting for income taxes.  Under the
+asset and liability method of FAS 109, deferred tax assets and liabilities
+are recognized for the future tax consequences attributable to differences
+between the financial statement carrying amounts of existing assets and
+liabilities and their respective tax bases.  The change in these deferred
+tax assets or liabilities, including the effect of a change in tax rates,
+if any, from the beginning to the end of the period generally is recognized
+as deferred tax expense or benefit.
+     Effective January 1, 1993, the Company adopted FAS 109 and has
+reported the cumulative effect of that change in the method of accounting
+for income taxes in the consolidated statement of earnings for the year
+ended December 31, 1993.  Prior year financial statements have not been
+restated.  However, amounts recorded for certain prior business
+combinations have been adjusted from their net of tax amounts to their pre-
+tax amounts.  Related deferred taxes have been recognized.  The effect of
+these adjustments on earnings before taxes is not material.
+
+     Income tax expense was as follows (in thousands):
+
+                                   1994           1993           1992
+- -----------------------------------------------------------------------
+Current:
+Federal                           $2,837         $1,394         $1,666
+State and local                      898            630            487
+Foreign                            1,390            277             21
+                                  ------         ------         ------
+                                   5,125          2,301          2,174
+Deferred (benefit)                  (680)          (492)          (673)
+                                  ------         ------         ------
+                                  $4,445         $1,809         $1,501
+                                  ======         ======         ======
+
+     For the year ended December 31, 1994, approximately $25,000 was
+credited to Additional Paid-In Capital to record the tax benefit of
+dividends paid on restricted stock.  Additional Paid-In Capital was also
+credited for approximately $18,000 for the tax effect of the change in
+value from the award date to the release date of restricted stock which was
+released during the period.
+
+
+                                                                (continued)
+                               Page 23 of 32
+<PAGE>
+                                     6
+                     TECHNITROL, INC. AND SUBSIDIARIES
+           Notes to Consolidated Financial Statements, continued
+
+(6)  Income Taxes, continued
+
+     A reconciliation of the statutory Federal income tax rate with the
+effective income tax rate follows:
+
+                                              1994      1993      1992
+- -----------------------------------------------------------------------
+Statutory Federal income tax rate              34%       34%       34%
+Increase(decrease) resulting from:
+  Tax exempt earnings of
+    subsidiaries in Puerto Rico                (5)      (14)       (9)
+  State and local income taxes, net
+    of federal benefit                          6        10         9
+  Non-deductable expenses                       1         2        --
+  Foreign                                      (1)        1        (1)
+  Other, net                                    4         2         2
+Effective tax rate                             39%       35%       35%
+                                               ===       ===       ===
+
+     Deferred tax assets and liabilities were as follows (in thousands):
+
+                                                   1994        1993
+- -----------------------------------------------------------------------
+Assets:
+  Plant and equipment, principally due to
+    differences in depreciation                  $   --      $   34
+  Inventories, principally due to additional
+    costs valued for tax purposes                   500         229
+  Vacation compensation                             162         141
+  Pension expense                                 1,158         771
+  Stock awards                                      637         556
+  Accrued liabilities                               549         327
+  Other                                             131          84
+                                                 ------      ------
+      Total deferred tax assets                  $3,137      $2,142
+                                                 ======      ======
+Liabilities:
+  Plant and equipment, principally due to
+    differences in depreciation                  $  194      $   --
+  Local tax on Puerto Rico-sourced income            74         120
+  Other                                             460         417
+                                                 ------      ------
+Total deferred tax liabilities                   $  728      $  537
+                                                 ------      ------
+Net deferred tax asset                           $2,409      $1,605
+                                                 ======      ======
+
+No valuation allowance for deferred tax assets was deemed necessary at
+December 31, 1994 or 1993. Based on the Company's history of taxable income
+and its projection of future earnings, management believes that it is more
+likely than not that sufficient taxable income will be generated in the
+foreseeable future to realize the deferred tax assets.
+
+(7)  Lease Commitments
+
+     The Company conducts a portion of its operations from leased premises
+and also leases certain equipment under operating leases.
+(continued)
+
+                               Page 24 of 32
+<PAGE>
+                                     7
+                     TECHNITROL, INC. AND SUBSIDIARIES
+           Notes to Consolidated Financial Statements, continued
+
+(7)  Lease Commitments, continued
+
+     Total rental expense for the years ended December 31, 1994, 1993 and
+1992 was $1,483,000, $1,183,000 and $1,291,000, respectively.  The
+aggregate minimum rental commitments under non-cancellable leases in effect
+at December 31, 1994 are as follows (in thousands):
+
+                    Year ending
+                    December 31        Total
+                   -------------     --------
+                       1995            $1,226
+                       1996             1,140
+                       1997             1,051
+                       1998             1,011
+                       1999               964
+                    Thereafter          2,352
+                                       ------
+                                       $7,744
+                                       ======
+
+(8)            Shareholders' Equity
+
+      Changes were as follows (in thousands):
+<TABLE>
+<CAPTION>
+                                                                    Additional
+                                                      Common          paid-in       Treasury      Unearned
+                                                       stock          capital        stock      compensation
+- ----------------------------------------------------------------------------------------------------------------
+<S>                                                   <C>             <C>            <C>             <C>
+Balance at December 31, 1991                          $  373          3,472          4,720            682
+                                                      ------          -----          -----            ---
+Stock award of 39,180 shares, net of forfeitures          --            312            (62)           374
+Compensation under Restricted Stock Plan                  --             --            --            (424)
+Balance at December 31, 1992                          $  373          3,784          4,658            632
+                                                      ------          -----          -----            ---
+
+Stock award of 18,630 shares, net of forfeitures          --            129           (30)            159
+Compensation under Restricted Stock Plan                  --             --            --            (306)
+Net tax benefit of dividends paid on restricted
+  stock and the difference in value between
+  grant date and date of vesting                          --             13             --             --
+Balance at December 31, 1993                          $  373          3,926          4,628            485
+                                                      ------          -----          -----            ---
+
+Stock award of 34,985 shares, net of forfeitures          --            360           (55)            414
+Compensation under Restricted Stock Plan                  --             --             --           (339)
+Net tax benefit of dividends paid on restricted
+  stock and the difference in value between
+  grant date and date of vesting                          --             43             --             --
+200% stock dividend recorded on September 18,
+  1994.                                                  745             --             --             --
+                                                      ------          -----          -----            ---
+Balance at December 31, 1994                          $1,118          4,329          4,573            560
+                                                      ======          =====         ======            ===
+
+</TABLE>
+The cumulative translation adjustment was $480,000, $885,000 and $824,000
+at December 31, 1994, 1993 and 1992, respectively.
+
+                                                                (continued)
+                               Page 25 of 32
+<PAGE>
+                                     8
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(8)  Shareholders' Equity, continued
+
+     On August 3, 1994, the Company's Board of Directors approved a three-
+for-one split of the Company's common stock in the form of a 200% common
+stock dividend for shareholders of record as of August 18, 1994.  A total
+of 5,962,640 shares were issued in connection with the split.  The stated
+par value of each share was not changed from $.125.  A total of $745,000
+was reclassified from the Company's retained earnings account to the
+Company's common stock account.  All share and per share amounts have been
+restated to retroactively reflect the stock split.
+
+(9)  Employee Benefit Plans
+
+     The Company and its subsidiaries maintain defined benefit pension
+plans and make contributions to multi-employer plans covering certain union
+employees.  Certain non-U.S. subsidiaries have varying types of retirement
+plans providing benefits for substantially all of their employees.
+
+     Pension expense was as follows (in thousands):
+
+                                                    1994      1993      1992
+- -----------------------------------------------------------------------------
+Principal defined benefit plans                    $1,310    $  932    $  811
+Contributions to multi-employer plans                 201       170       180
+Other non-U.S. plans                                  160        --        --
+                                                   ------    ------    ------
+                                                   $1,671    $1,102    $  991
+                                                   ======    ======    ======
+
+     The expense for the principal defined benefit pension plans include
+the following components (in thousands):
+
+                                                    1994      1993      1992
+- ------------------------------------------------------------------------------
+Service cost - benefits earned during the period   $1,286    $  963    $  903
+Interest cost on projected benefit obligation       1,206       991       888
+Actual return on plan assets                         (124)   (1,585)     (586)
+Net amortization and deferral                      (1,058)      563      (394)
+                                                  -------   -------    ------
+     Net periodic pension cost                     $1,310    $  932    $  811
+                                                  =======    ======    ======
+
+                                                                    (continued)
+                                 Page 26 of 32
+<PAGE>
+                                       9
+
+                       TECHNITROL, INC. AND SUBSIDIARIES
+
+             Notes to Consolidated Financial Statements, continued
+
+(9)                      Employee Benefit Plan, continued
+
+     The financial status of the principal defined benefit plans at December
+31, was as follows (in thousands):
+
+                                                            1994         1993
+- ------------------------------------------------------------------------------
+Actuarial present value of obligations:
+  Accumulated benefit obligation (including vested
+    benefits of $10,863,000 in 1994 and
+    $7,891,000 in 1993)                                   $12,401      $ 8,100
+                                                          -------      -------
+  Projected benefit obligation for services to date        18,499       12,808
+Plan assets at fair value                                  15,446       13,144
+                                                          -------       ------
+  Plan assets in excess of (less than) projected
+    benefit obligation                                     (3,053)         336
+
+Unrecognized net (gain) from past experience different
+  from that assumed.                                       (1,206)      (3,368)
+
+Prior service costs not yet recognized                        612          664
+
+Unrecognized net obligation at January 1, 1987 being
+  recognized over 18 years                                     35           38
+                                                         --------     --------
+      Accrued pension costs at December 31                $(3,612)     $(2,330)
+                                                         ========     ========
+
+     Benefits are based on years of service and average final compensation.
+For U.S. plans, the Company funds, annually, at least the minimum amount
+required by the Employee Retirement Income Security Act of 1974.  Plan assets
+consist principally of short-term investments and listed bonds and stocks.
+Assumptions used to develop data for 1994 and 1993 were as follows:
+
+                                                          1994        1993
+- ----------------------------------------------------------------------------
+Discount rates                                          7.3-7.5%      9.0%
+Annual compensation increases                           4.8-7.0%      7.0%
+Expected long-term rates of return on plan assets       7.5-9.0%      9.0%
+
+     The Company provides certain post-retirement benefits (at least
+temporarily) to a small number of retirees at one of its recently acquired
+businesses.  These amounts have been accrued and have not had a material
+impact on the Company's financial statements.
+     The Company maintains a defined contribution 401(k) plan covering
+substantially all U.S. employees not affected by certain collective
+bargaining agreements.  The Company contributes a matching amount equal to
+$.50 for each $1.00 of the participant's contribution not in excess of 3%
+of the participant's annual wages.  The contribution expense under this
+plan was $165,000, $177,000 and $155,000 in 1994, 1993, and 1992,
+respectively.
+
+                                                                (continued)
+                               Page 27 of 32
+<PAGE>
+                                    10
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(10) Quarterly Financial Data (Unaudited)
+
+     Quarterly results of operations (unaudited) for 1994 and 1993 are
+summarized as follows (in thousands, except per share data):
+
+
+                                                      Quarter ended
+                                         Mar. 31   June 30  Sept. 30   Dec. 31
+- ------------------------------------------------------------------------------
+1994:
+     Net sales                           $34,960   $37,816   $36,591   $37,077
+     Gross profit                          9,443    10,324     9,985    10,083
+     Net earnings                          1,370     1,742     1,884     1,948
+     Net Earnings per Share                  .23       .29       .31       .32
+
+1993:
+     Net sales                           $26,116   $25,295   $25,306   $23,740
+     Gross profit                          6,061     6,478     6,265     5,948
+     Net earnings:
+       Before cumulative effect -
+         change in accounting for
+         income taxes                        647       793       903     1,013
+       Cumulative effect -
+         change in accounting for
+         income taxes                        261        --        --        --
+                                          ------    ------    ------    ------
+             Total                           908       793       903     1,013
+     Net earnings per share:
+       Before cumulative effect -
+         change in accounting for
+         income taxes                        .11       .13       .15       .17
+       Cumulative effect - change in
+         accounting for income taxes         .04        --        --        --
+                                          ------    ------    ------    ------
+             Total                           .15       .13       .15       .17
+
+(11) Incentive Compensation Plan
+
+     The Company has an Incentive Compensation Plan for key employees of
+the Company and its subsidiaries.  The Plan grants the recipient the right
+of ownership of Technitrol, Inc. common stock,  conditional on the
+attainment of defined performance goals and/or continued employment with
+the Company.
+
+
+
+
+                                                                (continued)
+
+                               Page 28 of 32
+<PAGE>
+                                    11
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(11) Incentive Compensation Plan, continued
+
+     A summary of the shares under the Incentive Compensation Plan is as
+follows (with relevant share amounts restated to reflect the 200% stock
+dividend):
+
+                                                                 Awarded,
+                                                Available to     Not Yet
+                                                 be Granted      Released
+- ---------------------------------------------------------------------------
+Shares authorized                                    600,000
+Awarded during years prior to 1994                  (342,525)     342,525
+Shares released to recipients prior to 1994                      (157,680)
+Balance at December 31, 1993                         257,475      184,845
+Awarded during 1994, net                             (34,985)      34,985
+Shares released to recipients during 1994            (40,130)
+    Balance at December 31, 1994                     222,490      179,700
+
+     Shares are held by the Company until the defined performance goals
+and/or continued employment requirement have been attained.
+     During the years ended December 31, 1994, 1993 and 1992, the Company
+issued to employees, net of cancellations, Incentive Compensation Shares
+having an approximate fair value at date of issue of $414,000, $159,000 and
+$374,000, respectively.
+     Amounts charged to expense as a result of the incentive compensation
+plan and related expenses were $994,000 in 1994, $658,000 in 1993 and
+$653,000 in 1992.
+
+(12) Supplementary Information
+
+     Charged directly to costs and expenses (in thousands):
+
+                                             1994        1993        1992
+- --------------------------------------------------------------------------
+  Depreciation                              $5,016      $4,901      $4,890
+  Amortization of intangible assets            255          90          78
+  Advertising                                1,159       1,117       1,009
+  Repairs and maintenance                    1,936       1,162       1,079
+  Bad debt expense                             114          76          80
+
+Cash payments made (in thousands):
+  Income taxes                              $3,663      $1,320      $1,780
+  Interest                                   1,058         389         724
+
+
+                                                                (continued)
+                               Page 29 of 32
+<PAGE>
+                                    12
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(12) Supplementary Information, continued
+
+     Supplemental Disclosure of Non-cash Transactions:
+
+     On February 12, 1992, the Company purchased all of the capital stock
+of AMI-DDC for $728,000.  In conjunction with the acquisition, liabilities
+were assumed as follows (in thousands):
+
+          Fair value of assets acquired          $7,730
+          Cash paid for the capital stock          (728)
+          Liabilities assumed                    $7,002
+
+(13) Segment Information
+
+     Information about the Company's reportable business segments and
+foreign operations are contained on Pages 2, 3 and 4 of this Form 10-K and
+is an integral part of the Company's financial statements.
+
+
+
+
+
+
+
+
+
+                               Page 30 of 32
+<PAGE>
+
+                               EXHIBIT INDEX
+
+DOCUMENT
+
+ 3. (a) Articles of Incorporation         Incorporated by reference to Form
+                                            10-Q for quarter ended
+                                             September 30, 1985.
+
+    (b) By-laws                           Incorporated by reference to Form
+                                            10-Q for the quarter ended
+                                          September 30, 1990.
+
+ 4. Instruments defining rights of        Incorporated by reference to Form
+    security holders                        10-K for the year ended
+                                            December 31, 1982.
+
+21. Subsidiaries of Registrant            Page 31
+
+23. Consent of Certified
+    Public Accountants                    Page 32
+
+27. Financial Data Schedule               Electronic Filing Only
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+                EXHIBIT (21) SUBSIDIARIES OF THE REGISTRANT
+
+  Technitrol, Inc., which has no parent, has the following subsidiaries:
+
+     Name                        State of Incorporation    Percent Owned
+John Chatillon & Sons, Inc.           New York                  100%
+Advanced Metallurgy, Inc.             Pennsylvania              100%
+Technitrol International, Inc.        Delaware                  100%
+Chace Precision Metals, Inc.          Delaware                  100%
+Lloyd Instruments, Ltd.               United Kingdom            100%
+Technitrol Investments, Inc.          Delaware                  100%
+Fil-Mag, Inc.                         California                100%
+Fil-Mag Taiwan Corporation            Taiwan                    100%
+Fil-Mag Philippines Corporation       Philippines               100%
+
+
+
+
+
+
+
+                               Page 31 of 32
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF CERTIFIED PUBLIC ACCOUNTANTS
+<TEXT>
+
+                                                                 EXHIBIT-23
+
+            Consent of Independent Certified Public Accountants
+
+The Board of Directors
+Technitrol, Inc.:
+
+We consent to the incorporation by reference in the registration statement
+on Form S-8 of Technitrol, Inc. of our report dated March 3, 1995, relating
+to the consolidated balance sheets of Technitrol, Inc. and subsidiaries as
+of December 31, 1994 and 1993 and the related consolidated statements of
+earnings and retained earnings and cash flows for each of the years in the
+three-year period ended December 31, 1994, which report appears in the
+December 31, 1994 annual report on Form 10-K of Technitrol, Inc.
+
+
+
+
+                                      KPMG Peat Marwick LLP
+
+
+
+Philadelphia, Pennsylvania
+March 20, 1995
+
+
+
+
+
+
+
+
+
+                               Page 32 of 32
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>ART. 5 FDS FOR 1994 10-K
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>                          5
+<MULTIPLIER>                       1000
+       
+<S>                                             <C>
+<PERIOD-TYPE>                                          YEAR
+<FISCAL-YEAR-END>                               DEC-31-1994
+<PERIOD-END>                                    DEC-31-1994
+<CASH>                                                8,716
+<SECURITIES>                                              0
+<RECEIVABLES>                                        22,614
+<ALLOWANCES>                                              0
+<INVENTORY>                                          21,714
+<CURRENT-ASSETS>                                     54,034
+<PP&E>                                               55,180
+<DEPRECIATION>                                       30,809
+<TOTAL-ASSETS>                                       84,755
+<CURRENT-LIABILITIES>                                23,874
+<BONDS>                                              15,124
+<COMMON>                                              1,118
+<PREFERRED-MANDATORY>                                     0
+<PREFERRED>                                               0
+<OTHER-SE>                                           44,639
+<TOTAL-LIABILITY-AND-EQUITY>                         84,755
+<SALES>                                             146,444
+<TOTAL-REVENUES>                                    146,444
+<CGS>                                               106,609
+<TOTAL-COSTS>                                       133,883
+<OTHER-EXPENSES>                                      1,172
+<LOSS-PROVISION>                                          0
+<INTEREST-EXPENSE>                                    1,130
+<INCOME-PRETAX>                                      11,389
+<INCOME-TAX>                                          4,445
+<INCOME-CONTINUING>                                   6,944
+<DISCONTINUED>                                            0
+<EXTRAORDINARY>                                           0
+<CHANGES>                                                 0
+<NET-INCOME>                                          6,944
+<EPS-PRIMARY>                                          1.15
+<EPS-DILUTED>                                          1.15
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

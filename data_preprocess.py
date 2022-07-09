@@ -44,6 +44,9 @@ class FeatureCreator:
     ###############################################################################################
 
     def _read_snp_500_list(self):
+        #THESE ARE THE TICKERS THAT HAD ERRORS...
+        # ['ANTM', 'BRK.B', 'BF.B', 'DISCA', 'FB', 'MAA', 'REG', 'VIAC']
+
         f = open('snp500_list.txt', 'r', encoding='UTF-8')
         list = []
         for line in f:
@@ -144,7 +147,10 @@ class FeatureCreator:
         self.new_df['volume_last_volume_ratio'] = np.zeros(len(self.single_stock_data))
         self.new_df.loc[1:, 'volume_last_volume_ratio'] = (self.single_stock_data['trading_volume'][1:].values -
                                                         self.single_stock_data['trading_volume'][:-1].values) / \
-                                                       self.single_stock_data['trading_volume'][:-1]
+                                                       self.single_stock_data['trading_volume'][:-1].replace(
+                                                           to_replace=0, method='ffill').replace(
+                                                           to_replace=0, method='bfill'
+                                                       ).values
 
 pp = FeatureCreator()
 pp.create_features()

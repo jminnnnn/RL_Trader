@@ -1,0 +1,2964 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IbgcmrWUy4rmAs+ts5p+dMzOdS4WhvAMKtLn+TStt2azxMz4GV1mniOt3T9jRFWp
+ CtCuV8dmxUj4AjCtqKxJwg==
+
+<SEC-DOCUMENT>0000920049-97-000015.txt : 19970321
+<SEC-HEADER>0000920049-97-000015.hdr.sgml : 19970321
+ACCESSION NUMBER:		0000920049-97-000015
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970320
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TECHNITROL INC
+		CENTRAL INDEX KEY:			0000096763
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		IRS NUMBER:				231292472
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05375
+		FILM NUMBER:		97559662
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1210 NORTHBROOK DR STE 385
+		CITY:			TREVOSE
+		STATE:			PA
+		ZIP:			19053
+		BUSINESS PHONE:		2153552900
+
+	MAIL ADDRESS:	
+		STREET 1:		1210 NORTHBROOK DR
+		STREET 2:		STE 385
+		CITY:			TREVOSE
+		STATE:			PA
+		ZIP:			19053
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+                               UNITED STATES
+                     SECURITIES & EXCHANGE COMMISSION
+                         Washington, D. C.  20549
+
+                                 FORM 10-K
+
+[X]   Annual Report Pursuant to Section 13 or 15(d) of the Securities
+      Exchange Act of 1934
+      For the fiscal year ended December 31, 1996
+                                    or
+[ ]   Transition Report Pursuant to Section 13 or 15(d) of the Securities
+      Exchange Act of 1934
+      For the transition period from _______________ to _______________
+
+     Commission File No. 1-5375
+
+                            TECHNITROL, INC.
+           (Exact name of registrant as specified in Charter)
+      PENNSYLVANIA                                  23-1292472
+(State of Incorporation)               (IRS Employer Identification Number)
+
+     1210 Northbrook Drive, Suite 385, Trevose, Pennsylvania  19053
+    (Address of principal executive offices)               (Zip Code)
+
+   Registrant's telephone number, including area code:    215-355-2900
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+  Title of each class             Name of each Exchange on which registered
+  -------------------             -----------------------------------------
+    Common Stock
+par value $.125 per share                    New York Stock Exchange
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+the filing requirements for at least the past 90 days.
+
+                  YES   X             NO
+                      -----              -----
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [X]
+
+The aggregate market value of voting stock held by non-affiliates as of
+March 3, 1997 is $315,586,000 computed by reference to the closing price on
+the New York Stock Exchange on such date.
+
+Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of March 3, 1997.
+
+                                          Number of shares outstanding
+  Title of each class                             March 3, 1997
+  -------------------                     -----------------------------
+     Common stock                                  16,014,070
+par value $.125 per share
+
+                   DOCUMENTS INCORPORATED BY REFERENCE
+                   -----------------------------------
+DOCUMENT                                                     REFERENCE
+- --------                                                     ---------
+The Registrant's definitive Proxy Statement, dated March     Part III
+28, 1997, to be used in connection with Registrant's         Page 18 of 43
+1997 Annual Meeting of Shareholders                          pages
+
+                              Page 1 of 43
+<PAGE>
+
+                                 PART I
+ITEM I  BUSINESS
+
+     Technitrol, Inc. and its consolidated subsidiaries (collectively
+the "Company") segments its business into three areas: Electronic
+Components, Metallurgical Products and Test & Measurement Products.  The
+business segments are described in further detail below.
+
+     Additional information on the Company's foreign operations is shown
+in the geographic segment information immediately following the business
+segment information below.
+
+Business Segment Information
+
+      The Electronic Components Segment includes Pulse Engineering, Inc.
+("Pulse") and Netwave Technologies, Inc. ("Netwave").  Pulse was
+acquired by the Company on September 29, 1995 and significantly
+increased the size of this segment.  Subsequent to the acquisition of
+Pulse, the existing operations of the Electronic Components Segment were
+combined with Pulse to form a unified business throughout the world.
+Netwave, a majority-owned subsidiary, began operations on August 30,
+1996 at which time Netwave acquired all of the wireless local area
+network ("LAN") business assets of Xircom, Inc.  The Electronic
+Components Segment designs, manufactures and markets electronic
+components and modules primarily for manufacturers of local area
+networks and telecommunications systems.
+
+      The Metallurgical Products Segment includes the operations of
+Advanced Metallurgy, Inc. ("AMI"), Doduco GmbH ("Doduco," acquired on
+October 31, 1996) and Chace Precision Metals, Inc. ("Chace").  AMI
+manufactures electrical contacts and assemblies for a wide range of
+industrial customers.  Doduco produces electrical contacts, contact
+materials, thermostatic bimetals and precision contact sub-assemblies.
+Chace produces thermostatic and clad metal products for a broad market
+of industrial and consumer product manufacturers.
+
+      The Test & Measurement Products Segment includes Lloyd
+Instruments, Ltd. ("Lloyd Instruments"), and John Chatillon & Sons, Inc.
+("Chatillon").  Lloyd Instruments manufactures a comprehensive range of
+material testing systems and markets its products throughout the world.
+Chatillon manufactures force measurement products and weighing devices
+and in each case markets these products both domestically and
+internationally.  Until its sale in February 1996, the Company's
+Products Division was also included in this segment.  That division
+manufactured document counters and dispensers, and marketed its products
+internationally through distributors and on an OEM basis.  In January
+1997, the Company announced a possible divestiture of the Test &
+Measurement Products Segment.  See Note 2 of Notes to Consolidated
+Financial Statements.
+
+     Identifiable assets are those assets that are utilized in each
+Segment to provide the respective products.  Corporate assets are
+principally cash and cash equivalents.
+
+     The Company's products are sold primarily to customers through the
+three Segments described above.  All business Segments' revenues are
+generally recognized when products are shipped.  The majority of the
+Company's sales are subject to credit terms prevalent in the industries
+it serves.  Receivables are written off when an account is considered to
+be doubtful of collection.  Management believes there are no significant
+concentrations of credit risk related to its accounts receivable.
+Depending on its level of cash reserves, the Company may maintain
+significant cash investments at certain financial institutions.
+Management of the Company believes that the credit risk associated with
+such deposits and invested balances is not significant, due in part to
+the Company's investment policy requiring cash reserves to be invested
+only at institutions receiving the highest independent credit ratings.
+
+
+
+
+                              Page 2 of 43
+<PAGE>
+Business Segment Financial Information (in thousands of dollars)
+
+                                   1996             1995             1994
+                                   ----             ----             ----
+Net sales
+  Electronic Components          $142,791        $  68,358         $ 41,173
+  Metallurgical Products          100,521           75,304           76,534
+  Test & Measurement Products(a)   30,763           32,757           28,737
+                                 --------         --------         --------
+     Total                       $274,075         $176,419         $146,444
+                                 ========         ========         ========
+
+Operating profit before
+ income taxes
+  Electronic Components          $ 22,536         $ 10,698         $  5,023
+  Metallurgical Products            4,983            1,846            4,792
+  Test & Measurement Products(a)    2,506            2,945            2,746
+                                 --------         --------         --------
+     Total operating profit      $ 30,025         $ 15,489         $ 12,561
+  Other income (expense), net         991             (948)          (1,172)
+                                 --------         --------         --------
+Earnings before income taxes     $ 31,016         $ 14,541         $ 11,389
+                                 ========         ========         ========
+
+Assets at end of year
+  Electronic Components          $ 80,868(b)      $ 80,109(b)      $ 25,054(b)
+  Metallurgical Products           80,802(c)        35,659           37,054
+  Test & Measurement Products(a)   12,814           15,009           14,086
+                                 --------         --------         --------
+    Identifiable assets          $174,484         $130,777         $ 76,194
+  Corporate assets                 43,863           14,163            8,561
+                                 --------         --------         --------
+    Total                        $218,347         $144,940         $ 84,755
+                                 ========         ========         ========
+
+Capital expenditures
+  Electronic Components          $  5,568(b)      $ 23,953(b)      $  7,933(b)
+  Metallurgical Products           12,664(c)         2,248            2,288
+  Test & Measurement Products(a)      710              846              569
+                                 --------         --------         --------
+    Total                        $ 18,942         $ 27,047         $ 10,790
+                                 ========         ========         ========
+
+
+Depreciation and amortization
+  Electronic Components          $  5,384         $  2,430         $  1,502
+  Metallurgical Products            3,160            3,149            3,205
+  Test & Measurement Products(a)      579              666              564
+                                 --------         --------         --------
+    Total                        $  9,123         $  6,245         $  5,271
+                                 ========         ========         ========
+
+(a) See Note 2 of Notes to Consolidated Financial Statements regarding the
+    Company's possible divestiture of the Test & Measurement Products Segment.
+    In 1995 and 1994, a full year of operations of the Products Division was
+    included in this Segment.
+(b) Includes property, plant and equipment acquired as part of the
+    acquisitions of Netwave, Pulse Engineering, Inc. and the Fil-Mag Group
+    in 1996, 1995 and 1994, respectively.  See Note 2 of Notes to
+    Consolidated Financial Statements.
+(c) Includes property, plant and equipment acquired as part of the
+    acquisition of Doduco GmbH.
+
+    In 1996, no customer accounted for more than 10% of the Company's
+consolidated sales.  In 1995 and in 1994, one customer accounted for
+slightly more than 10% of consolidated sales.  The customer is a Fortune
+150 entity principally doing business with the Metallurgical Products
+Segment.  Sales to the Company's ten largest customers accounted for 36%
+of sales in 1996 and 38% of sales in both 1995 and 1994.
+
+    Export sales from the United States totalled $19.9 million in 1996,
+$15.3 million in 1995 and $14.0 million in 1994.  There has been no
+concentration of sales to any particular domestic or international
+geographic area.  The Company's operations are divided into three
+geographic areas: North America, Far East, and Europe.  The Company's
+operations in North America are located entirely in the United States,
+including Puerto Rico.  The Company's operations in Europe are primarily
+located in England, Ireland, Germany and Spain.  The Company's
+operations in the Far East are primarily located in the Philippines,
+Taiwan and the Peoples Republic of China.
+
+                              Page 3 of 43
+<PAGE>
+Geographic Information (in thousands of dollars)
+
+                                          1996           1995           1994
+                                          ----           ----           ----
+Sales to unaffiliated customers, from
+  North America                         $188,490       $139,455       $121,051
+  Far East                                16,671         16,936         16,036
+  Europe                                  68,914         20,028          9,357
+                                        --------       --------       --------
+    Total                               $274,075       $176,419       $146,444
+                                        ========       ========       ========
+
+Affiliate sales or transfers, from
+  North America                         $  4,204       $    415       $     62
+  Far East                                95,870         41,424         10,141
+  Europe                                   4,682          1,310            629
+                                        --------       --------       --------
+    Total                               $104,756       $ 43,149       $ 10,832
+                                        ========       ========       ========
+
+Operating profit
+  North America                         $  7,621       $  4,075       $  9,032
+  Far East                                19,450         10,103          2,473
+  Europe                                   2,941          1,317            901
+  Eliminations                                13             (6)           155
+                                        --------       --------       --------
+    Total                               $ 30,025       $ 15,489       $ 12,561
+                                        ========       ========       ========
+
+Identifiable assets
+  North America                         $ 79,417       $ 80,255       $ 52,084
+  Far East                                31,138         35,497         17,439
+  Europe                                  63,929         15,025          6,671
+                                        --------       --------       --------
+    Total                               $174,484       $130,777       $ 76,194
+                                        ========       ========       ========
+
+Global Activities
+
+    As a diversified global enterprise engaged in manufacturing
+activities, certain risks are inherent to the Company's business.  One
+such risk is its operations in developing countries.  The vast majority
+of the Electronic Components Segment's manufacturing is performed in the
+People's Republic of China (the "PRC") and the Philippines.  Although
+the PRC is one of the world's fastest growing economies, its potential
+economic, political and labor developments provide a number of
+uncertainties and risks.  While the current PRC and Philippine
+governments have been quite receptive to foreign investment for
+manufacturing, there are no assurances that these receptive policies
+will continue and, if they do not continue, that they will not be
+replaced by economic, tax and/or labor policies which are less favorable
+to a foreign manufacturing presence than are the current policies.  If
+the government of the PRC or the Philippines (or any other country in
+which the Company has significant operations) should adopt economic,
+legal, or trading policies harmful to private industry or foreign
+investment, or, if a country should take any other action that would
+jeopardize the value of foreign investments, it could have a material
+adverse effect on the Company.
+
+Sales and Marketing
+
+    Sales and marketing are accomplished by sales management, district
+managers, direct salesmen, representatives, agents, dealers and
+distributors.  Within the Electronic Components Segment, products are
+sold primarily by the Segment's field sales force to customers in the
+computer, local area network (LAN) and telecommunication markets.  The
+field sales personnel are technically trained and actively involved in
+product development and customer applications.  Customers of the
+Metallurgical Products Segment, which include manufacturers of circuit
+protection, power control and power distribution equipment, purchase the
+Company's products primarily through this Segment's direct sales
+employees.  Customers of the Test & Measurement Products Segment (which
+may be divested) include virtually every industry which performs
+inspection and in-process testing.  This Segment's products are sold
+through independent agents, dealers and distributors.
+
+Competition
+
+    The businesses of the Company are highly competitive, and with
+respect to each of its Segment's products, it faces competition from
+numerous firms.  For most of the Company's products, the markets are
+international in nature and its competition is worldwide.
+
+
+                              Page 4 of 43
+<PAGE>
+
+Backlog
+
+    As of December 31, 1996, the Company's backlog of orders was $84.8
+million compared to $55.9 million at the end of 1995.  Approximately
+$32.8 million of the backlog at December 31, 1996 was attributable to
+Doduco, acquired by the Company on October 31, 1996.  Substantially all
+of the current backlog is scheduled for completion during the first six
+months of 1997.  Most orders are subject to cancellation upon payment of
+normal cancellation charges.  Normal delivery time for the Company's
+products varies from Segment to Segment, but is generally less than
+thirteen weeks.  No material portion of the Company's business is
+seasonal in nature.
+
+Raw Materials
+
+    None of the Company's Segments is dependent upon any particular
+source of supply.  However, there are relatively few suppliers of the
+ferrite materials used in electronic components, powder metals used in
+electrical contacts, and the specialty steel used in metal laminates.
+The Company has not encountered any significant difficulties in
+obtaining adequate supplies of these raw materials for manufacture of
+its products.  The Metallurgical Products Segment engages in a business
+which utilizes silver and other precious metals as raw material
+components.  These materials have been readily available and are
+anticipated to remain so.
+
+Research and Development
+
+    The Company does not engage in any basic research activities.
+Development activity is conducted within each Segment principally by
+that Segment's engineering personnel and is directed primarily toward
+the development of new products related to its current product lines and
+the improvement and enhancement of existing products. Although the
+Company possesses numerous patents, trademarks and tradenames which are
+used in the conduct of its businesses, the Company does not consider its
+consolidated earnings to be materially dependent upon any one patent,
+trademark or license.
+
+Environment
+
+    Expenditures required for the Company to meet or exceed Federal,
+state and local provisions regulating the discharge of materials into
+the environment, or otherwise relating to the protection of the
+environment, are not expected to have any material effect on capital
+expenditures, earnings or competitive position.
+
+    The Company is involved in several matters relating to superfund
+sites.  The Company's involvement has generally arisen from the alleged
+disposal at these sites by licensed waste haulers of small amounts of
+waste material many years ago.  The Company has established reserves
+which it believes to be sufficient to cover the aggregate amount of the
+ultimate liability, if any, which the Company believes to be reasonably
+probable at this time.
+
+Employees
+
+    Certain operations of the Company, particularly in the Far East,
+are labor intensive.  At December 31, 1996, the Company had
+approximately 11,200 full time employees compared with 9,300 at the end
+of 1995.  The higher number of employees in 1996 includes approximately
+1,100 Doduco employees in Europe.
+
+Energy
+
+    The Company did not experience any curtailment of supplies of
+electricity, gas or oil in 1996, and does not expect any curtailment in
+1997.
+
+Products
+
+    Within each Segment, the primary products sold are similar in design,
+material content, application and customer base.  Each Segment is
+continually changing its individual product offerings in response to
+customer needs and changes within the markets served.  Further delineation
+of its product lines is not meaningful in gaining an understanding of the
+Company's business risks and opportunities.  The Electronic Components
+Segment primarily produces magnetic-based electronic components and modules
+for use in local area networks, telecommunication, and wireless network
+applications.  The Metallurgical Products Segment's main product offerings
+are electrical contacts, contact materials, thermostatic bimetals,
+precision contact subassemblies and thermostatic clad metal
+
+
+                              Page 5 of 43
+<PAGE>
+products.  The principal product line of the Test & Measurement Products
+Segment (which may be divested during 1997) consists of products used in
+material testing and measurement systems and force measurement products.
+
+CAUTIONARY STATEMENT FOR PURPOSES OF THE "SAFE HARBOUR" PROVISIONS OF THE
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995.
+
+Outlook:  Issues and Uncertainties
+
+    The Company does not provide forecasts of future financial
+performance.  While the Company's management is optimistic about the
+Company's long term prospects, the following issues and uncertainties,
+among others, should be considered in evaluating its growth outlook.
+
+Rapid Technological Changes
+
+    The industry in which the Company's Electronic Components Segment
+operates is characterized by rapid change, consolidation, uncertainty and
+constant new and emerging technologies.  Generally, product life cycles are
+short.  The pace of change has accelerated in recent years due to the
+Internet, on-line services and expansion of networking.  This makes it
+necessary for the Company to maintain a strong engineering and development
+program to continue to succeed.  Accordingly, engineering and development
+expenses are expected to grow in 1997 over 1996 and there are no assurances
+that the Company's efforts in these areas will continue to be successful.
+
+Local Area Network Growth Rate
+
+    The growth rate of local area networks and the rate at which networks
+are upgraded or replaced may be slower or faster in the future.  This will
+affect the Electronic Component Segment's revenue growth.
+
+Housing, Construction and Auto Sales
+
+    The growth rates of housing, construction and auto sales, which are
+highly cyclical in the United States and Europe, will impact the revenue
+growth of the Metallurgical Products Segment.
+
+Prices
+
+    Future prices which the Company can obtain for its products may
+decrease from historical levels, depending on competition and costs.
+
+Costs of Sales
+
+    Although cost of sales as a percentage of sales decreased in 1996 over
+1995, it varies among Segments and within each Segment based on product mix
+and channel of distribution (sales made through distributors have higher
+proportionate costs of sales on average due to lower selling prices).  Mix
+factors may increase costs of sales as a percentage of sales in the future.
+
+Global Integration of Metallurgical Products Segment
+
+    The Company completed the acquisition of Doduco GmbH in October 1996.
+The degree of success of this acquisition depends on the Company's ability
+to successfully integrate all of its Metallurgical Products Segment's
+operations in Europe and North America and to take advantage of more
+rapidly growing markets in the Far East.  Penetration of and participation
+in the Far Eastern marketplace is essential to enable this Segment to grow
+in excess of its anticipated internal growth rate in Europe and North
+America.  This integration may take longer than expected and may never be
+fully achieved, resulting in growth opportunities which may be less than
+anticipated.
+
+
+
+                              Page 6 of 43
+<PAGE>
+
+Continued Acquisition Success
+
+    From 1993 through 1996, the Company completed the acquisition of the
+Fil-Mag Companies (1994), Pulse Engineering, Inc. (1995) and Doduco GmbH
+(1996), each of which added substantially to the Company's revenue growth
+and, in the case of Fil-Mag and Pulse, to the Company's net income.
+Sustained growth in excess of the internal growth rate of the Electronic
+Components Segment will require continued acquisitions.  The timing, price,
+structure and success of all acquisitions are inherently uncertain and
+unpredictable.
+
+Other Factors
+
+    In addition to the factors discussed above, among other factors which
+could cause actual results to differ materially are the following:
+business conditions and the general economy; competitive factors such as
+rival manufacturers (particularly in the Electronic Components Segment and
+Metallurgical Products Segment) seeking increased market share based on
+price; availability of raw materials at reasonable prices; manufacturing
+efficiencies and capacity; the risks associated with foreign operations;
+the risk of obsolescence due to shifts in market demand; the timing of
+customer hardware and software introductions.
+
+    The Company believes that it has the product offerings, facilities,
+personnel and competitive and financial resources for continued business
+success, but future events, costs, margins, product mix and profits are all
+influenced by inherently unpredictable factors such as are discussed above.
+
+ITEM 2  PROPERTIES
+
+    The following properties were owned or leased by the Company at
+December 31, 1996.  Except for the corporate headquarters in Trevose, PA,
+all properties are used exclusively in one Segment, as identified.  The
+properties used by the Test & Measurement Products Segment may be sold (or,
+if leased, the lease may be assigned) to unrelated parties in connection
+with the possible divestiture of the Segment.  Certain small locations of
+the Company, such as regional sales offices, have been excluded from this
+listing.
+
+
+
+
+                              Page 7 of 43
+<PAGE>
+
+ITEM 2  PROPERTIES, continued
+<TABLE>
+<CAPTION>
+                            Approx.     Owned/     Lease    % Used
+ Location                  Square Ft.   Leased     Ending   for Mfg.      Comments
+- ----------------------------------------------------------------------------------------------
+<S>                        <C>          <C>         <C>        <C>     <C>
+Trevose, PA                  6,000      Leased      2001         0     Corporate headquarters
+
+  Electronic Components
+  ---------------------
+Dongguan, Peoples
+ Republic of China         215,000      Leased      2007        95
+
+Philadelphia, PA            70,000      Owned                    0
+Tuam, Ireland               60,000      Owned                   35
+Kaohsiung, Taiwan           45,000      Owned                   20     Building is owned; land is
+                                                                        leased through 2003
+Cavite, Philippines         59,000      Owned                   75     Buildings are owned; land
+                                                                        is leased through 2007
+San Diego, CA               50,000      Owned                    0
+Pleasanton, CA              15,000      Leased      2001        10
+Greensboro, MD              20,000      Owned                   95
+Hong Kong                   13,000      Leased      1997         0
+
+  Metallurgical Products
+  ----------------------
+Pforzheim, Germany         490,000      Owned                    65
+Reidsville, NC             250,000      Owned                    70
+Sinsheim, Germany          222,000      Owned                    55
+Export, PA                 115,000      Leased      2001         80
+Cedar  Knolls, NJ           48,000      Owned                    65
+Luquillo, P.R.              32,000      Owned                    80
+Madrid, Spain               32,000      Owned                    90
+Delmont, PA                 30,000      Owned                    90
+McKeesport, PA              23,000      Leased      2004        100
+Huchenfeld, Germany         16,000      Leased      1997        100
+Lancaster, PA               15,000      Leased      1997         85
+Luquillo, P.R.              12,000      Leased      1998         40
+
+  Test & Measurement
+  Products
+  ------------------
+Kew Gardens, NY             67,000      Owned                    75
+Greensboro, NC              23,000      Owned                    60
+Fareham, England            22,000      Leased      2004         50
+Wuppertal, Germany          17,000      Leased      2005         60
+Versailles, France           2,000      Leased      1997          0
+</TABLE>
+
+     The Company believes its facilities to be adequate for its present
+needs, although additional manufacturing capacity may be pursued for
+certain products.
+
+
+
+
+                              Page 8 of 43
+<PAGE>
+
+ITEM 3  PENDING LEGAL PROCEEDINGS
+
+    The Company is a defendant in several lawsuits which it considers to
+be in the normal course of business, none of which is expected to have a
+material adverse effect on the Company.
+
+ITEM 4  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS - NONE
+
+
+                                PART II
+
+ITEM 5  MARKET PRICE OF REGISTRANT'S COMMON STOCK AND RELATED SECURITY MATTERS
+
+    Technitrol Inc.'s common stock commenced trading on the New York Stock
+Exchange on November 4, 1996 and previously was traded on the American
+Stock Exchange.  The following table reflects the high and low sales prices
+on the relevant Exchange and the dividends paid to shareholders in each
+quarterly period during Technitrol's last two fiscal years.  The amounts
+have been adjusted to reflect the two-for-one stock split effective on
+February 28, 1997.
+
+QUARTER                          1ST         2ND          3RD         4TH
+                                 ---         ---          ---         ---
+1996 HIGH                     $14.56      $21.88       $20.81      $20.31
+
+1996 LOW                       $9.56      $13.56       $12.50      $13.69
+
+1996 DIVIDENDS PAID           $.0500      $.0500       $.0500      $.0500
+
+
+1995 HIGH                      $7.81       $7.50        $9.00      $11.88
+
+1995 LOW                       $6.69       $6.63        $7.00       $7.94
+
+1995 DIVIDENDS PAID           $.0475      $.0475       $.0500      $.0500
+
+     The  approximate  number of holders of record of  the  common  stock,
+Technitrol Inc.'s only class of stock outstanding, as of January  10,  1997
+was:
+
+     TITLE OF CLASS                   NUMBER OF SHAREHOLDERS
+     --------------                   ----------------------
+     Common Stock                              706
+     par value $.125 per share
+
+
+
+                              Page 9 of 43
+<PAGE>
+
+ITEM 6 SELECTED FINANCIAL DATA LAST 5 YEARS
+  (in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                 1996(a)     1995(a)    1994(a)      1993         1992
+                                 ----        ----       ----         ----         ----
+<S>                             <C>         <C>        <C>         <C>           <C>
+Net sales                       $274,075    $176,419   $146,444    $100,457      $ 98,554
+
+Net earnings                    $ 20,427    $  9,340   $  6,944    $ 3,356(b)    $  2,838
+  Earnings per share            $   1.27    $    .72   $    .58    $   .28(b)    $    .24
+
+Total assets                    $218,347    $144,940   $ 84,755    $ 58,572      $ 55,708
+
+Total long-term debt            $ 41,701    $ 17,125   $ 15,146    $  5,167      $  6,887
+
+Shareholders' equity            $103,590    $ 84,761   $ 45,757    $ 40,294      $ 38,657
+
+  Net worth per share           $   6.48    $   5.41   $   3.80    $   3.37      $   3.24
+
+Working capital                 $ 74,787    $ 43,242   $ 32,676    $ 24,056      $ 23,178
+
+  Working capital ratio         2.1 to 1    2.1 to 1   2.5 to 1    2.8 to 1      3.3 to 1
+Number of shares outstanding:
+
+  Weighted average, including
+   commonstock equivalents        16,096      13,076     12,030      11,978        11,922
+
+  Year end                        15,975      15,672     12,042      11,972        11,940
+
+  Dividends declared per share  $   .200    $   .198   $   .188    $   .187      $   .187
+
+Price range per share:
+
+  High                          $  21.88    $ 11.880   $  8.000    $   5.06      $   5.50
+
+  Low                           $   9.56    $   6.63   $   4.94    $   3.79      $   3.31
+
+<FN>
+(a) The Company acquired Doduco in 1996, Pulse Engineering, Inc. in
+    1995 and the Fil-Mag Group in 1994.  See Note 2 to Consolidated
+    Financial Statements.
+
+(b) Excludes cumulative effect of a change in accounting for income taxes.
+    (See Note 6 to the Consolidated Financial Statements.)
+</TABLE?
+
+    Information relating to shares outstanding and per share amounts have
+been restated to reflect the two-for-one stock split effective February 28,
+1997.
+
+
+
+
+                              Page 10 of 43
+<PAGE>
+
+ITEM 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+       RESULTS OF OPERATIONS
+
+Overview
+
+    Technitrol, Inc. ("Technitrol" or the "Company") is a diversified
+manufacturer of electronic components, metallurgical products and test and
+measurement equipment.
+
+    The Company's businesses are operated in those business segments.  The
+Electronic Components Segment provides a broad array of magnetics-based
+components, miniature chip inductors, modules and wireless network products
+for use primarily in local area network and telecommunication products.
+Manufacturing occurs in the United States, Ireland, Taiwan, the Philippines
+and the People's Republic of China.
+
+    The Metallurgical Products Segment is a broad based manufacturer of
+precious metal electrical contacts, bonded or clad metals and contact
+bearing components.  These products are used in a variety of applications
+which include residential, commercial and industrial circuit breakers,
+motor controls, relays, wiring devices, temperature controls, appliances
+and various electronic products.  This Segment also produces sophisticated
+electroplating and metal refining services and produces certain components
+for the automotive industry.  Manufacturing takes place in the United
+States, Puerto Rico, Germany and Spain.
+
+    The Test & Measurement Products Segment produces a variety of force
+measurement products, complementary measurement equipment and mechanical
+scales.  Principal uses of these products are the determination of weight,
+force, tension, compression and torque as well as the density and flow
+characteristics of plastics and other liquids.  Manufacturing occurs in the
+United States and Great Britain.  In early 1997, the Company announced its
+decision to explore the divestiture of the Test & Measurement Products
+Segment if an acceptable transaction can be arranged.
+
+    In 1993, the Company adopted a strategy which focused on expansion of
+the Company's electronics business by acquiring companies serving markets
+characterized by significant growth opportunities.  In 1994, the Company
+acquired the Fil-Mag companies with manufacturing capabilities in Taiwan
+and the Philippines.  In late 1995, the Company acquired Pulse Engineering,
+Inc. ("Pulse") with manufacturing capabilities in Ireland and China.  In
+1996, these businesses, together with the Components Division of the
+Company, were combined to form the Electronic Components Segment which
+provides an array of products for solving problems of customers engaged in
+designing and manufacturing local area network and telecommunications
+products.  The Company believes that the Electronic Components Segment is a
+global market leader in the development and sale of components for local
+area network products.
+
+    In 1996, the Company also acquired a majority equity interest in
+Netwave Technologies, Inc. ("NTI").  NTI was organized in 1996 to acquire
+the assets of the wireless local area network business formerly conducted
+by Xircom, Inc.  The Company made a capital contribution to NTI of cash and
+the assets which comprised the wireless local area network business
+formerly conducted by the Electronic Components Segment.  The minority
+interest in NTI is owned by a group of employees.
+
+    In late 1996, in furtherance of its strategy of creating significant
+critical mass in and further geographical penetration of its metallurgical
+businesses, the Company acquired the assets of Doduco GmbH which is engaged
+in the manufacture in Germany and Spain of precious metal contacts, bimetal
+products and certain contact product modules.  These operations were
+combined with the Company's Advanced Metallurgy, Inc. ("AMI") companies and
+Chace Precision Metals, Inc. ("Chace") to form the Metallurgical Products
+Segment.  The Company believes that the Metallurgical Products Segment now
+possesses the critical mass necessary to enable this Segment to capitalize
+on advantages in the global markets for metallurgical contact, bimetal and
+related products.
+
+
+
+                              Page 11 of 43
+<PAGE>
+
+    During the first quarter of 1996, the Company sold the assets of its
+Products Division (part of the Test & Measurement Products Segment) which
+manufactured currency counters and dispensers.  In early 1997, the Company
+announced its intention to sell the remainder of its Test & Measurement
+Products Segment if an appropriate transaction can be arranged.  Formal
+decisions, including the method of sale, the timing of the sales and the
+expected selling price, have not yet been made.  Since this Segment is
+profitable, the Company may continue to operate it if appropriate value
+cannot be obtained.
+
+    In management's opinion, the investments and strategies described
+above have positioned the Company for future growth and the creation of
+additional shareholder value.
+
+    This Management Discussion and Analysis of Financial Condition and
+Results of Operations, as well as other sections of this Report, contain
+certain "forward looking statements" (within the meaning of the Private
+Securities Litigation Reform Act of 1995) with respect to the Company's
+results of operations, financial condition and other operational matters.
+Words or phrases denoting the anticipated results of future events - such
+as "anticipate," "believe," "estimate," "expect," "will likely," "are
+expected to," "will continue," "project," and similar expressions that
+denote uncertainty - are intended to identify such forward-looking
+statements.  Actual results may differ materially:  (1)  as a result of
+risks and uncertainties identified in connection with those forward-looking
+statements, including those factors identified in the section captioned
+"Commitments and Contingencies" in the Notes to Consolidated Financial
+Statements and those factors set forth elsewhere in this Report under the
+caption "Cautionary Statement For Purposes of the `Safe Harbor' Provisions
+of the Private Securities Litigation Reform Act of 1995";  (2)  as a result
+of factors over which the Company has no control, including the strength of
+domestic and foreign economies, sales growth, competition and certain cost
+increases; or (3)  if the factors on which the Company's expectations are
+based do not prove to be correct.  The data herein is published solely for
+the information of the Company's shareholders.  No statement in this Report
+is made for the purpose of inducing the purchase or sale of any security
+issued by the Company.
+
+Liquidity and Capital Resources
+
+    At December 31, 1996, the Company's cash balance was approximately
+$43.5 million.  This represents an increase of $29.6 million from the end
+of 1995.  The cash on-hand at the end of 1996 included approximately $6.4
+million that was used to repay debt in January 1997 and, separately,
+approximately $7.7 million that was also used early in 1997 for the
+purchase of real estate in Germany pertinent to Doduco.  Although the
+acquisition of Doduco was completed on October 31, 1996 as more fully
+explained below, a portion of the real estate acquired was not transferred
+until early in 1997 as a result of legal proceedings and documentation
+activities that are customary in Germany.  Total working capital was $74.8
+million at the end of the year and, after adjustments for the two items
+related to cash and noted above, was $68.4 million.
+
+    The positive cash flow from operations in 1996 enabled the Company to
+increase cash in addition to reducing approximately $9.0 million of long-
+term debt.  Plans implemented by the Metallurgical Product Segment's
+management to reduce overhead and lower break even points had a positive
+impact on cash flow during the year, as did the improved operating margins
+within the Electronic Components Segment.  Accounts receivable increased by
+$10.8 million during the year as a result of the record sales level.  There
+were no receivables acquired in connection with the acquisition of Doduco,
+except for those receivables of the Doduco subsidiary in Spain.  The
+funding of Doduco's accounts receivable, along with other elements of
+Doduco's working capital requirements, occurred after the October 31, 1996
+acquisition date.  Excluding inventory acquired in connection with the NTI
+and Doduco acquisitions, inventories decreased by $7.0 million from the end
+of 1995.  The total inventory level is related to a backlog of
+approximately $84.8 million at December 31, 1996, including approximately
+$32.8 for Doduco.  The backlog at December 31, 1995 was $55.9 million.
+Inventories decreased significantly in the Metallurgical Products Segment
+as a result of inventory management procedures implemented in connection
+with efforts to improve the Segment's operating performance and cash flow.
+In addition, certain precious metal inventories which were previously owned
+by Doduco are now held on consignment under a leasing arrangement.
+Accounts payable and accrued expenses increased commensurate with the
+higher sales volume.
+
+
+
+                              Page 12 of 43
+<PAGE>
+
+    Cash used by investing activities was $15.3 million during the year.
+The acquisition of Doduco was completed on October 31, 1996 and $10.5
+million of cash related to the acquisition was paid during 1996.  The
+payment for real estate in Pforzheim, Germany (approximately $7.7 million)
+and certain transaction expenses related to the acquisition were paid
+subsequent to December 31, 1996.  The total purchase price for Doduco was
+approximately $20.5 million and, as noted above, significant elements of
+working capital (including accounts receivable) were not acquired.
+Additional working capital will be funded in 1997.  The purchase price for
+the NTI transaction, including related expenses, was approximately $1.2
+million (including amounts paid by minority shareholders).  In addition to
+the Doduco and Netwave acquisitions, capital expenditures totaled $7.8
+million during the year.  Such expenditures were generally made for the
+purposes of expanding production capacity and improving efficiency.
+Projected 1997 capital expenditures are expected to be financed by
+internally generated funds.
+
+    The cash received from the sale of the Company's Products Division
+approximated $3.7 million.  The funds received were used to repay debt and
+for transaction expenses.
+
+    Debt repayments totaled $9.0 million during the year, and total new
+borrowings were $30.8 million.  The Company's domestic credit facility of
+$45.0 million includes a revolving credit portion and a term loan.  The
+$7.0 million that was outstanding under the revolver at December 31, 1995
+was repaid in its entirety and $2.0 million was repaid under the term loan
+during the year.  In connection with the acquisition of Doduco, the Company
+obtained a $40.0 million multi-currency credit facility.  Initially, the
+funds for the purchase of the assets of Doduco were obtained under a
+temporary acquisition facility.  Those borrowings were refinanced under the
+$40.0 million multi-currency credit facility.  As of December 31, 1996, all
+borrowings under the multi-currency facility were denominated in Deutsche
+marks.  The borrowings are expected to be repaid from the eventual cash
+flows of Doduco and, since the functional currency of the primary Doduco
+operation is Deutsche marks, the Company does not believe that it has
+significant foreign currency exposure related to this facility.
+
+    The Company received $2.1 million from the exercise of stock options
+during 1996.  The options exercised were among those assumed in connection
+with the acquisition of Pulse in 1995.  No new options have been granted.
+Financial Accounting Standard No. 123, "Accounting for Stock Based
+Compensation" did not affect the Company's results of operations or related
+disclosures as no new options have been granted.
+
+    During the third quarter of 1996, the Company paid, as a part of its
+previously announced stock repurchase program, $1.0 million for the
+purchase of 36,600 shares of common stock.  The stock repurchase plan was
+formally rescinded in November 1996.  Dividends of $3.2 million were paid
+during 1996 and it is expected that quarterly dividend payments will
+continue to be made during 1997.
+
+    The Company believes that cash from operations and, if necessary,
+additional borrowings under its credit facilities will be sufficient to
+satisfy the Company's requirements for the foreseeable future.  Significant
+cash may be received in connection with the possible divestiture of the
+Test & Measurement Products Segment.  If the divestiture plan is
+successful, the Company ultimately expects to invest the funds received
+into the remaining business Segments.  In addition, internally generated
+funds and additional  borrowings may be used for acquisitions of suitable
+businesses or assets upon terms acceptable to the Board of Directors.
+
+    Prior to 1994, substantially all of the Company's operations were in
+the U.S.  Since 1994, an increasing percentage of the Company's revenues
+are earned outside of the U.S.  The Company's foreign sales are conducted
+primarily through its foreign subsidiaries, principally in the Far East and
+Europe.  In the Far East, the Company's sales are denominated in U.S.
+dollars.  In Europe, sales are denominated principally in local currencies.
+In 1996, approximately 43% of the Company's international sales (including
+the sales of Doduco) were made in local currencies and the remainder in
+U.S. dollars.  The Company anticipates that in 1997 (primarily as a result
+of the acquisition of Doduco) and beyond, the percentage of the Company's
+sales that are made in local currencies will increase.  This increase in
+sales denominated in currencies other than U.S. dollars will increase the
+Company's potential exposure to currency fluctuations, which can adversely
+affect results.  The Company has not experienced any material exchange
+losses through 1996.
+
+
+                              Page 13 of 43
+<PAGE>
+
+    In order to reduce the Company's exposure resulting from currency
+fluctuations, the Company may purchase currency exchange forward contracts
+on a regular basis.  These contracts guarantee a predetermined exchange
+rate at the time the contract is purchased.  This allows the Company to
+shift the risk, whether positive or negative, of currency fluctuations from
+the date of the contract to a third party.  At December 31, 1996 and 1995,
+the Company did not have any outstanding currency exchange forward
+contracts.  When used, the contracts are primarily in European currencies.
+The Company will consider increasing the use of currency exchange forward
+contracts during fiscal year 1997 and beyond depending on the amount of
+sales and purchases made in local currencies and the type of currency.  In
+addition, the Company will evaluate the use of currency options in order to
+reduce the impact that exchange rate fluctuations have on the Company's
+gross margins for sales made by the Company's foreign operations.  The
+combination of currency exchange forward contracts and currency options
+should result in reducing the Company's risks associated with significant
+exchange rate fluctuations.
+
+    Approximately 18% of the Company's identifiable assets are located in
+the Far East and significant sales and operating profits are generated in
+that region.  (See the geographic segment data included in Item 1 of Part 1
+of this report on Form 10-K.)  The Company's operations in the region
+include manufacturing plants in the Peoples Republic of China and in the
+Philippines.  If unfavorable political, economic or other events occur in
+that region, they could have a material adverse effect on the Company's
+liquidity and capital resources.  Management continually monitors events in
+the region and takes steps to reduce the risk of uncertainty when possible.
+
+    A material portion of the Company's liquid assets are offshore and, in
+general, are unlikely to be repatriated to the U.S.  As has been the case
+in recent years, management expects that a significant portion of the
+Company's opportunities for growth in the coming years will be outside of
+the U.S.  Accordingly, the Company's policy with regard to foreign earnings
+is generally to invest them abroad.  If such earnings were repatriated,
+significant tax liabilities could be incurred in the U.S.  In the event
+that a substantial amount of foreign earnings were repatriated, the related
+tax liabilities could have a material unfavorable impact on the Company's
+liquidity and cash flow.
+
+Results of Operations
+
+1996 and 1995
+
+    Revenues
+
+    Consolidated sales for the Company in 1996 were $274.1 million, an
+increase of 55.4% over 1995.  The Electronic Components Segment, which
+includes Pulse (acquired in September 1995), experienced significant demand
+from its customers in the computer, local area network (LAN) and
+telecommunication markets during the first half and the fourth quarter of
+1996.  However, as expected, the sales level in this Segment declined
+somewhat in the third quarter reflecting the lower order rate in the second
+and part of the third quarter.  The decline in orders (occurring primarily
+in the United States and to a lesser extent in Asia) was the result of
+widely observed inventory level adjustments and project deferrals occurring
+within the industry.  Order entry for this Segment improved significantly
+during the fourth quarter of the year.
+
+    Sales of the Metallurgical Products Segment were significantly higher
+than the sales of the Segment in 1995.  The higher level of sales in 1996
+reflected Doduco's sales of approximately $22.7 million for the two-month
+period subsequent to the acquisition.  Volume increases at AMI more than
+offset a decrease in sales at Chace relative to 1995.  Higher market prices
+for metals, which are factored in customer prices for certain products of
+the Segment, also contributed to the sales increase.  In 1996, more
+favorable domestic economic conditions affecting the manufacturers of
+circuit protection, power control and power distribution equipment
+continued to have a significant impact on the sales volume of the Segment.
+
+    Total sales for the Test & Measurement Products Segment in 1996 were
+lower than the prior year as a result of the sale of the Products Division
+during the first quarter of 1996.  The sales of that Division were
+approximately $4.9 million for the full year of 1995.  Without the effect
+of the Products Division sales, the Test & Measurement Products Segment
+experienced a sales increase in 1996.  This increase included higher sales
+of systems which provide for automatic testing within manufacturing
+processes.
+
+
+                              Page 14 of 43
+<PAGE>
+
+    Cost of Sales and Operating Expenses
+
+    During 1996, the Company's consolidated gross margin was 33.5%, an
+increase from 31.5% in 1995.  The higher gross margin was primarily the
+result of improved manufacturing efficiencies and higher shipments within
+the Electronic Components Segment.  The relocation of a major portion of
+that Segment's manufacturing capacity from Taiwan to the Philippines
+contributed positively to the improved margins during 1996.  Total costs of
+approximately $2.1 million associated with that relocation were included in
+general and administrative expenses during 1996.  The majority of these
+costs were incurred during the first half of 1996 and the realization of
+the cost savings began during the last half of the year.  Manufacturing
+efficiencies in Pulse's operations in China, which had begun to be realized
+during the second half of 1995, continued during 1996.
+
+    The significant improvement in the Metallurgical Products Segment also
+contributed to the improved gross margin and operating performance in 1996
+as this Segment successfully addressed the increased price competition and
+raw material cost increases which negatively impacted the last half of
+1995.  As a result, overhead spending was reduced and break-even points
+lowered.  These actions had a favorable impact on the profitability of the
+Segment, particularly with the higher volume in 1996.
+
+    Earnings of the Test & Measurement Products Segment, including the
+gain realized on the sale of the Products Division, increased significantly
+from the comparable prior year period.  Without that gain, the results of
+the Segment in 1996 were lower than in the prior year as the prior year
+included a full year of the operating profit of the Products Division.  The
+results of Lloyd Instruments during 1996 included certain one time
+reorganization expenses incurred in Germany, primarily during the first
+quarter of 1996.  These expenses offset the favorable impact of more
+service and repair work in 1996, which typically has a higher gross margin
+than sales of products.
+
+    Total selling, general and administrative expenses for 1996 were $61.7
+million compared to $40.2 million for 1995.  This represents an increase of
+53.5%.  The increase included the effect of the acquisition of Pulse, as
+well as approximately $2.1 million of restructuring charges associated with
+the relocation of a portion of the manufacturing capacity of the Company's
+Electronic Components Segment from Taiwan to the Philippines.
+Administrative costs also reflected the higher spending required to support
+the higher level of sales and increased complexity of the Company.
+
+    Research, development & engineering expenses ("RD&E") were $10.5
+million during 1996 and are included in general and administrative
+expenses.  RD&E was $6.6 million, $2.4 million, and $1.5 million for the
+Electronic Components Segment, the Metallurgical Products Segment and the
+Test & Measurement Products Segment, respectively.  These amounts include
+expenditures for new product development and for product and process
+improvement.  The Company stresses the importance of RD&E spending and
+believes that it is critical to the future growth and business prospects of
+each Segment.
+
+    Interest
+
+    Interest expense of approximately $1.2 million slightly exceeded
+interest income of approximately $1.0 million during the year.  In 1995,
+interest expense was $1.4 million and interest income was $0.4 million.
+Prior to the acquisition of Doduco during the fourth quarter of 1996, the
+level of debt outstanding had been reduced significantly from the amount
+outstanding at the end of 1995.  The cash flow that was generated also
+provided the Company with higher levels of cash reserves which are invested
+in short-term deposit instruments.  The earnings on these investments
+provides interest income and reduces the amount of net interest expense
+incurred by the Company.  In connection with the acquisition of Doduco and
+the initial working capital requirements of the acquired business,
+additional borrowings occurred late in 1996.  In general, the interest
+rates that the Company has received on its credit facilities are quite
+favorable.  The rate on the term debt balance of $8.0 million at December
+31, 1996 is fixed at 6.65%.  The Company's other credit facilities have
+variable interest rates.
+
+
+
+                              Page 15 of 43
+<PAGE>
+
+    Income Taxes
+
+    The effective income tax rate for 1996 was 34.3%, a decrease from the
+effective rate of 35.8% during 1995.  The decrease was caused by
+proportionately more taxable income earned by the Company's offshore
+operating units, which generally incur lower tax rates than those
+experienced by the Company's domestic operations.  Although a significant
+portion of the Company's manufacturing facilities are located offshore, the
+consolidated effective income tax rate is affected by many non-recurring
+items.  Certain reorganization expenses incurred by Lloyd Instruments
+during the year are not presently deductible for income tax purposes.
+Additionally, the sale of the Product Division during the first quarter of
+1996 provided a significant gain for U.S. tax purposes.  The Doduco
+operations will likely produce profits in higher tax rate jurisdictions and
+the Company believes that its 1997 effective tax rate will exceed that
+experienced in 1996.
+
+    In March 1995, the Financial Accounting Standards Board issued
+Financial Accounting Standard No. 121, Accounting for the Impairment of
+Long-Lived Assets and for Long-Lived Assets to be Disposed of, ("FAS121").
+FAS121 requires impairment losses to be recorded on long-lived assets used
+in operations when indicators of impairment are present and the
+undiscounted cash flows estimated to be generated by those assets are less
+than the assets' carrying amounts.  FAS121 has not had a material impact on
+the Company's financial statements.
+
+1995 and 1994
+
+    Revenues
+
+    Consolidated sales for the Company were $176.4 million in 1995, an
+increase of 20.5% from 1994.  The increase was largely due to the sales of
+Pulse, acquired at the end of September 1995.  The Pulse sales included in
+the consolidated results of the Company were approximately $25.4 million.
+The sales increases of the Electronic Components Segment (which includes
+Pulse) and the Test & Measurement Products Segment exceeded a sales
+decrease experienced by the Metallurgical Products Segment.  The Company's
+backlog at December 31, 1995 was $55.9 million, including $28.2 million for
+Pulse.
+
+    The sales of the Electronic Components Segment increased from $41.2
+million in 1994 to $68.4 million in 1995.  The Fil-Mag Group and Pulse,
+along with the Components Division of the Company, were combined into one
+world-wide operation serving the needs of the local area network (LAN) and
+telecommunications marketplaces.  In addition to the Pulse sales noted
+above, sales of the Fil-Mag Group increased during the year.  The lower
+sales level of the Components Division, which was caused by a decline in
+domestic demand for that Division's products, was more than offset by
+increased demand for products manufactured by Fil-Mag and Pulse.  The
+strong demand of these markets for products produced by Pulse and the Fil-
+Mag Group continued into the beginning of 1996, as evidenced by solid
+backlog and order levels at the end of 1995.  Operating profits for the
+Segment in 1995 were $10.7 million compared to $5.0 million in 1994.  The
+sales and operating profits of the Segment included three months of Pulse
+activity.
+
+
+    The Metallurgical Products Segment experienced a number of challenges
+during 1995 and the sales and operating profits of this Segment were lower
+than the 1994 levels.  Sales in 1995 were $75.3 million, down slightly from
+$76.5 million in 1994.  A sales decrease at AMI exceeded a sales increase
+at Chace.  The sales of AMI and, to a lesser extent, Chace are affected by
+general trends in the domestic economy, particularly those in housing,
+automotive, appliances and capital equipment markets.  During the second
+half of 1995, there was a softening in demand for the products of this
+Segment.  In addition, the Segment's operating profits were negatively
+impacted by increased price competition and rapidly escalating raw material
+costs, particularly in the nonprecious metals markets.  Management focused
+significant attention on attaining increased manufacturing efficiencies and
+implemented a partial pass-through of the raw material price changes by way
+of both a price increase and a metals factor.  Operating profits of the
+Segment were $1.8 million in 1995, down from $4.8 million in 1994.
+
+
+
+                              Page 16 of 43
+<PAGE>
+
+    In the Test & Measurement Products Segment, sales increases at
+Chatillon and Lloyd Instruments exceeded a sales decrease at the Products
+Division.  That sales decrease was primarily caused by weak domestic demand
+for the currency counters and dispensers manufactured by the Products
+Division. Relative to the 1995 results, Lloyd in particular contributed to
+the higher sales and operating profits of the Segment.  The 1995 Lloyd
+sales included a full year of the sales of Erichsen, a German subsidiary
+acquired late in 1994.  Chatillon's sales benefited from recent product
+development efforts.  Sales for the Segment increased from $28.7 million in
+1994 to $32.8 million in 1995 while operating profits increased from $2.7
+million to $2.9 million.
+
+    Cost of Sales and Operating Expenses
+
+    In 1995, the Company's gross margin increased from 29.6% of sales in
+1994 to 31.5% in 1995.  This margin increase was driven primarily by the
+strong product demand and increased manufacturing efficiencies within the
+Electronic Components Segment.  These gains offset the lower gross profits
+of the Metallurgical Products Segment which experienced significant
+decreases in gross profits versus the prior year, with the majority of the
+gross profit decline occurring at AMI.  The softer demand, increased price
+competition and rising metal costs noted above caused this decline.
+
+    The Company's selling, general and administrative expenses increased
+to $40.2 million in 1995 from $30.8 million in 1994.  This represented
+22.8% of sales in 1995 and 21.0% of sales in 1994.  The increase included
+the addition of Pulse for the fourth quarter.
+
+    Interest
+
+    Interest expense increased from $1.1 million in 1994 to $1.4 million
+in 1995 reflecting the incremental borrowing related to the Pulse
+acquisition.
+
+    Income Taxes
+
+    The Company's effective income tax rate declined to 35.8% in 1995 from
+39.0% in 1994.  During 1995, proportionately higher taxable income was
+earned by the Company's foreign operations, which generally have lower tax
+rates than the domestic operations.
+
+ITEM 8  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+    The Company's consolidated financial statements, notes to the
+consolidated financial statements, together with the opinion of the
+Company's independent auditors and the supplementary financial information
+required by this item are attached hereto and made part hereof.
+
+ITEM 9  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE - NONE
+
+
+
+
+                              Page 17 of 43
+<PAGE>
+
+
+                                PART III
+                                --------
+
+                          CROSS REFERENCE INDEX
+                          ---------------------
+
+               FORM 10-K
+         ITEM NUMBER AND CAPTION            INCORPORATED MATERIAL
+         -----------------------            ---------------------
+ITEM 10  DIRECTORS, EXECUTIVE               REGISTRANT'S DEFINITIVE
+           OFFICERS, PROMOTERS &              PROXY STATEMENT
+           CONTROL PERSONS
+ITEM 11  EXECUTIVE COMPENSATION             REGISTRANT'S DEFINITIVE
+                                              PROXY STATEMENT
+ITEM 12  SECURITY OWNERSHIP OF              REGISTRANT'S DEFINITIVE
+           CERTAIN BENEFICIAL OWNERS          PROXY STATEMENT
+           AND MANAGEMENT
+ITEM 13  CERTAIN RELATIONSHIPS AND          REGISTRANT'S DEFINITIVE
+           RELATED TRANSACTIONS               PROXY STATEMENT
+
+
+                                 PART IV
+
+ITEM 14 EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+- -----------------------------------------------------------------------
+
+    (a)  Documents filed as part of this report
+
+         Financial Statements
+         --------------------
+
+         Independent Auditors' Report
+         Consolidated Balance Sheets - December 31, 1996 and 1995
+         Consolidated Statements of Earnings - Years ended December 31,
+           1996, 1995 and 1994
+         Consolidated  Statements of Cash Flows - Years ended December 31,
+           1996, 1995 and 1994
+         Notes to Consolidated Financial Statements
+
+         Financial Statement Schedules
+         -----------------------------
+
+         Schedule II, Valuation and Qualifying Accounts
+
+    (b)  The Company filed a report on Form 8-K on November 8, 1996 and
+         a report on Form 8-K/A on January 7, 1997, both of which
+         pertained to the acquisition of Doduco on October 31, 1996.
+
+    (c)  Exhibits
+
+         (11) Computation of Primary and Fully Diluted Earnings Per Share
+         (21) Subsidiaries of the Registrant
+         (23) Consent of Certified Public Accountants
+         (27) Financial Data Schedule (electronic filing only)
+
+
+
+
+
+                              Page 18 of 43
+<PAGE>
+
+                               SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the
+Securities and Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+TECHNITROL, INC.
+
+By    /s/Thomas J. Flakoll
+      ------------------------------------
+      Thomas J. Flakoll
+      Chief Executive Officer and Director
+
+Date  March 19, 1997
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of
+the registrant and in the capacities and on the dates indicated.
+
+
+By    /s/Stanley E. Basara         By   /s/Drew A. Moyer
+      -----------------------           ------------------------------
+      Stanley E. Basara                 Drew A. Moyer
+      Director                          Corporate Controller and Secretary
+                                        (Principal Accounting Officer)
+Date  March 19, 1997
+                                   Date  March 19, 1997
+
+
+By    /s/John E. Burrows, Jr.      By   /s/James M. Papada, III
+      -----------------------           ------------------------------
+      John E. Burrows, Jr.              James M. Papada, III
+      Director                          Chairman of the Board of Directors
+
+Date  March 19, 1997               Date  March 19, 1997
+
+
+By    /s/J. Barton Harrison        By   /s/James J. Rafferty, Jr.
+      -----------------------           ------------------------------
+      J. Barton Harrison                James J. Rafferty, Jr.
+      Director                          Vice President and Director
+
+Date  March 19, 1997               Date  March 19, 1997
+
+
+By    /s/Roy E. Hock               By   /s/Albert Thorp, III
+      -----------------------           ------------------------------
+      Roy E. Hock                       Albert Thorp, III
+      Director                          Vice President - Finance and Chief
+                                          Financial Officer
+Date  March 19, 1997                    (Principal Financial Officer)
+
+                                   Date  March 19, 1997
+
+
+By    /s/Graham Humes
+      -----------------------
+      Graham Humes
+      Director
+
+Date  March 19, 1997
+
+
+By    /s/Edward M. Mazze
+      -----------------------
+      Edward M. Mazze
+      Director
+
+Date  March 19, 1997
+
+
+
+                              Page 19 of 43
+<PAGE>
+
+
+
+               INDEX TO FINANCIAL STATEMENTS AND SCHEDULES
+
+                          Financial Statements
+                          --------------------
+
+Independent Auditors' Report
+
+Consolidated Balance Sheets - December 31, 1996 and 1995
+
+Consolidated Statements of Earnings - Years ended December 31, 1996, 1995
+     and 1994
+
+Consolidated  Statements of Cash Flows - Years ended December 31, 1996,
+     1995 and 1994
+
+Notes to Consolidated Financial Statements
+
+
+                      Financial Statement Schedules
+                      -----------------------------
+
+Schedule II - Valuation and Qualifying Accounts
+
+
+
+
+
+
+                              Page 20 of 43
+<PAGE>
+
+
+                      Independent Auditors' Report
+
+
+
+     The Board of Directors and Shareholders
+     Technitrol, Inc.:
+
+We have audited the consolidated financial statements of Technitrol, Inc.
+and subsidiaries as listed in the accompanying index. In connection with
+our audits of the consolidated financial statements, we also have audited
+the financial statement schedule as listed in the accompanying index.
+These consolidated financial statements and the financial statement
+schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these consolidated financial
+statements and the financial statement schedule based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation. We believe
+that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+Technitrol, Inc. and subsidiaries at December 31, 1996 and 1995, and
+the results of their operations and their cash flows for each of the
+years in the three-year period ended December 31, 1996 in conformity
+with generally accepted accounting principles. Also in our opinion,
+the related financial statement schedule, when considered in relation
+to the basic consolidated financial statements taken as a whole, presents
+fairly, in all material respects, the information set forth therein.
+
+                                   KPMG Peat Marwick LLP
+
+
+Philadelphia, Pennsylvania
+February 28, 1997
+
+
+
+
+
+
+                              Page 21 of 43
+<PAGE>
+
+                    TECHNITROL, INC. AND SUBSIDIARIES
+                       Consolidated Balance Sheets
+                       December 31, 1996 and 1995
+             In thousands of dollars, except for share data
+
+                Assets                              1996          1995
+                ------                              ----          ----
+Current Assets:
+Cash and cash equivalents                        $ 43,531      $ 13,894
+  Trade receivables                                46,537        33,431
+  Inventories                                      48,028        32,962
+  Prepaid expenses and other current assets         4,530         2,327
+                                                 --------      --------
+    Total current assets                          142,626        82,614
+
+Property, plant and equipment                      96,792        81,063
+  Less accumulated depreciation                    42,654        35,935
+                                                 --------      --------
+    Net property, plant and equipment              54,138        45,128
+Deferred income taxes                               6,834         4,132
+Excess of cost over net assets acquired, net       13,851        10,957
+Other assets                                          898         2,109
+                                                 --------      --------
+                                                 $218,347      $144,940
+                                                 ========      ========
+
+   Liabilities and Shareholders' Equity
+   ------------------------------------
+Current liabilities:
+  Current installments of long-term debt         $  2,024      $  2,023
+  Notes payable                                     2,911            --
+  Accounts payable                                 11,694         8,359
+  Accrued expenses                                 51,210        28,990
+                                                 --------      --------
+    Total current liabilities                      67,839        39,372
+
+Long-term liabilities:
+  Long-term debt, excluding current installments   39,677        15,102
+  Other long-term liabilities                       7,203         5,705
+
+Minority interest in subsidiary                        38            --
+
+Commitments and contingencies (Note 8)
+
+Shareholders' equity:
+  Common stock: 30,000,000 shares
+   authorized; 15,974,918 and 7,835,869
+   outstanding in 1996 and 1995,
+   respectively; $.125 par value per
+   share and additional paid in capital            40,638        38,130
+  Retained earnings                                64,339        48,101
+  Other                                            (1,387)       (1,470)
+                                                 --------      --------
+    Total shareholders' equity                    103,590        84,761
+                                                 --------      --------
+                                                 $218,347      $144,940
+                                                 ========      ========
+
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+
+                              Page 22 of 43
+<PAGE>
+
+                    TECHNITROL, INC. AND SUBSIDIARIES
+
+                   Consolidated Statements of Earnings
+
+              Years ended December 31, 1996, 1995 and 1994
+                   In thousands, except per share data
+
+                                                 1996       1995       1994
+                                                 ----       ----       ----
+
+Net sales                                      $274,075   $176,419   $146,444
+Cost of sales                                   182,330    120,765    103,096
+                                               --------   --------   --------
+  Gross profit                                   91,745     55,654     43,348
+
+Selling, general and administrative expenses     61,720     40,165     30,787
+                                               --------   --------   --------
+  Operating profit                               30,025     15,489     12,561
+Other income (expense):
+  Interest income                                   997        374        140
+  Interest expense                               (1,165)    (1,383)    (1,130)
+  Gain on sale of Products Division assets        1,471         --         --
+  Other, net                                       (312)        61       (182)
+                                               --------   --------   --------
+                                                    991       (948)    (1,172)
+                                               --------   --------   --------
+    Earnings before income taxes                 31,016     14,541     11,389
+Income taxes                                    (10,651)    (5,201)    (4,445)
+Minority interest in net loss of subsidiary          62         --         --
+                                               --------   --------   --------
+
+    Net earnings                               $ 20,427   $  9,340   $  6,944
+                                               ========   ========   ========
+
+    Earnings per share                         $   1.27   $    .72   $    .58
+                                               ========   ========   ========
+
+Average outstanding common and equivalent
+  shares                                         16,096     13,076     12,030
+                                               ========   ========   ========
+
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+
+
+
+                              Page 23 of 43
+<PAGE>
+
+                    TECHNITROL, INC. AND SUBSIDIARIES
+
+                  Consolidated Statements of Cash Flows
+
+              Years ended December 31, 1996, 1995, and 1994
+                         In thousands of dollars
+
+Cash flows from operating activities:           1996        1995        1994
+                                                ----        ----        ----
+  Net earnings                                $20,427     $ 9,340     $ 6,944
+  Adjustments to reconcile net earnings
+   to net cash provided by operating
+   activities:
+  Depreciation and amortization                 9,123       6,245       5,271
+  Provision (benefit) for deferred taxes       (2,702)     (1,098)       (680)
+  Gain on sale of Products Division assets     (1,471)         --          --
+  Changes in assets and liabilities net
+   of effect of acquisitions and
+   divestitures:
+    (Increase) decrease in accounts
+      receivable                              (10,777)      1,346      (4,626)
+    (Increase) decrease in inventories          6,991      (2,769)     (2,482)
+    Increase in accounts payable                2,634       1,216       1,082
+    Increase in accrued expenses                1,734       1,704       4,967
+  Other, net                                     (332)      2,195        (857)
+                                              -------     -------     -------
+
+    Net cash provided by operating
+      activities                               25,627      18,179       9,619
+                                              -------     -------     -------
+
+Cash flows from investing activities:
+  Proceeds from the sale of Products
+    Division assets                             3,671          --          --
+  Acquisitions: Doduco and Netwave in
+    1996, Pulse in 1995, and Fil-Mag
+    in 1994                                   (11,677)     (5,872)     (8,805)
+  Capital expenditures, exclusive of
+    acquisitions                               (7,775)     (5,864)     (4,429)
+  Proceeds from sale of property, plant
+    and equipment                                 466         158         282
+                                              -------     -------     -------
+      Net cash used in investing activities   (15,315)    (11,578)    (12,952)
+                                              -------     -------     -------
+
+Cash flows from financing activities:
+  Principal payments on long-term debt         (9,023)     (7,022)     (1,035)
+  Net borrowings (repayments) of short
+    term debt                                     520        (756)     (2,504)
+  Proceeds of long-term borrowings             30,233       9,000      10,000
+  Dividends paid                               (3,182)     (2,534)     (2,255)
+  Proceeds from exercise of stock options       2,090          --          --
+  Purchase of Technitrol stock                 (1,022)         --          --
+  Contributions from minority interest
+    in subsidiary                                 100          --          --
+                                              -------     -------     -------
+      Net cash provided by (used in)
+        financing activities                   19,716      (1,312)      4,206
+                                              -------     -------     -------
+  Net effect of exchange rate changes
+    on cash                                      (391)       (111)        122
+
+  Net increase in cash and cash equivalents    29,637       5,178         995
+
+Cash and cash equivalents at beginning
+  of year                                     $13,894       8,716       7,721
+                                              -------     -------     -------
+
+Cash and cash equivalents at end of year      $43,531     $13,894     $ 8,716
+                                              =======     =======     =======
+
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+
+
+                              Page 24 of 43
+
+<PAGE>
+
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+                Notes to Consolidated Financial Statements
+
+(1)  Summary of Significant Accounting Policies
+
+Principles of Consolidation
+     The consolidated financial statements include the accounts of
+Technitrol, Inc. (the "Company") and all of its subsidiaries.  All material
+intercompany accounts and transactions are eliminated in consolidation.
+
+Cash and Cash Equivalents
+     Cash and cash equivalents include funds invested in a variety of
+liquid short-term investments with a maturity of three months or less.
+
+Inventories
+     Inventories are stated at the lower of cost or market.  Cost is
+determined by the first-in, first-out (FIFO) method.  In addition to the
+inventories included in the accompanying balance sheets, the Company has
+custody of inventories on consignment from suppliers ($34,391,000 at
+December 31, 1996 and $11,118,000 at December 31, 1995).  This inventory
+consists primarily of precious metals which are used in the Company's
+electrical contact manufacturing business.
+
+Property, Plant and Equipment
+     Property, plant and equipment are stated at cost.  Depreciation is
+based upon the estimated useful life of the assets and has been provided
+for on both the accelerated and the straight line methods.  The estimated
+useful lives range from 5 to 30 years for buildings and improvements and
+from 3 to 10 years for machinery and equipment.  Expenditures for
+maintenance and repairs are charged to operations as incurred, and major
+renewals and betterments are capitalized.  Upon sale or retirement, the
+cost of the asset and related accumulated depreciation are removed from the
+balance sheet, and any resulting gains or losses are included in earnings.
+
+Excess of Cost over Net Assets
+     Excess of cost over net assets acquired (which the Company believes
+has continuing value) is related to acquisitions within the Electronic
+Components Segment and is amortized on a straight-line basis over 15 years.
+The recoverability of its carrying value is evaluated on a recurring basis
+by determining whether the amortization of its remaining balance can be
+recovered through future operating undiscounted cash flows of the acquired
+operation.
+
+Earnings per Share
+     Earnings per share are calculated by dividing earnings by the weighted
+average number of common shares outstanding during the year, including
+common share equivalents.  Common share equivalents are incremental shares
+attributed to outstanding options to purchase common stock.  Relevant share
+amounts and earnings per share have been restated to reflect a two-for-one
+stock split effective on February 28, 1997.
+
+Foreign Currency Translation
+     Certain foreign subsidiaries of the Company use the U.S. dollar as the
+functional currency and others use a local currency.  For subsidiaries
+using the U.S. dollar as the functional currency, monetary assets and
+liabilities are translated at year-end exchange rates while nonmonetary
+items are translated at historical rates.  Income and expense accounts are
+translated at the average rates in effect during the year, except for
+depreciation and cost of sales which are translated at historical rates.
+Gains or losses from changes in exchange rates are recognized in earnings
+in the year of occurrence.  For entities using the local currency as the
+functional currency, net assets are translated at year-end rates while
+income and expense accounts are translated at average exchange rates.
+Adjustments resulting from these translations are reflected directly in
+shareholders' equity.
+
+                                                                (continued)
+
+                               Page 25 of 43
+<PAGE>
+
+                                     2
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+
+
+(1)  Summary of Significant Accounting Policies, continued
+
+Financial Instruments and Derivative Financial Instruments
+     The carrying value of cash and cash equivalents, accounts receivable,
+short-term borrowings and accounts payable are a reasonable estimate of
+their fair value due to the short-term nature of these instruments.  The
+carrying value of long-term debt approximates fair value after taking into
+consideration current rates offered to the Company for similar debt
+instruments of comparable maturities.  The fair values of financial
+instruments have been determined through information obtained from quoted
+market sources and management estimates.  The Company does not hold or
+issue financial instruments or derivative financial instruments for trading
+purposes.
+
+     As a result of the Company's worldwide operating activities, it is
+exposed to changes in foreign currency exchange rates which affect its
+results of operations and financial condition.  Periodically, the Company
+enters into forward foreign exchange contracts with varying terms.  These
+contracts, when used, hedge certain foreign currency denominated
+receivables and payables and foreign currency commitments.  Gains and
+losses on these contracts are deferred and recognized as part of the cost
+of the underlying transaction being hedged.  There were no such contracts
+open at December 31, 1996 or 1995.
+
+Estimates
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions.  These estimates and assumptions may affect the reported
+amounts of assets and liabilities and the disclosure of contingent assets
+and liabilities at the date of the financial statements and the reported
+amounts of revenues and expenses during the reporting period.  Actual
+results could differ from those estimates.
+
+Reclassifications
+     Certain amounts in the prior year financial statements have been
+reclassified to conform with the current year presentation.
+
+(2)  Acquisitions and Divestitures
+
+     Acquisitions
+
+     Doduco GmbH:  On October 31, 1996, the Company acquired certain
+operating assets of the metallurgical business of Doduco GmbH located in
+Germany, as well as all of the capital stock of Doduco Espana located in
+Madrid, Spain.  Doduco produces electrical contacts, contact materials,
+thermostatic bimetals, and precision contact sub-assemblies made from
+precious and non-precious metals by wrought as well as powdered
+metallurgical processes.  Its contact producing operations are complemented
+by broad capabilities in electroplating and precious metals refining.
+
+
+                                                                (continued)
+
+
+                               Page 26 of 43
+<PAGE>
+
+                                     3
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(2)  Acquisitions and Divestitures, continued
+
+     The assets purchased consist of real property in Pforzheim and
+Sinsheim, Germany and Madrid, inventories, fixed assets and intangibles.
+The liabilities assumed consisted of vacation and bonus payments due to
+employees.  The acquisition of Doduco was accounted for by the purchase
+method of accounting.  The purchase price for the assets acquired was
+approximately $20.5 million, including transaction expenses.  In addition,
+the Company entered into consignment-type leases with third party leasing
+companies for approximately $19.0 million of precious metals previously
+owned by Doduco and used in its operations.  The conditions of the leases
+are essentially the same as those of the leases previously in effect
+elsewhere within the Company's Metallurgical Products Segment.  The fair
+value of the net assets acquired approximated $96 million.  The purchase
+price was funded primarily by bank credit provided under a $30.0 million
+multi-currency temporary acquisition facility which was substantially
+refinanced with a $40.0 million permanent multi-currency facility.  The
+total purchase price is subject to adjustment as the expenses and details
+of the transaction are finalized.
+
+     Doduco experienced significant financial difficulty for a number of
+years and entered into bankruptcy during June of 1996 and Receivership in
+August of 1996.  The assets of Doduco which were acquired by the Company
+were acquired from a Receiver and, prior to the Company's purchase of those
+assets, other isolated assets and product lines of Doduco were sold or
+abandoned by Doduco or the Receiver.  In addition, significant
+restructuring occurred after December 31, 1995 which related to both the
+product lines acquired by the Company as well as those otherwise disposed
+of or abandoned by the Receiver.  The net assets acquired by the Company
+relate to product lines and operations which were not operated as a
+separate business entity but rather were an integral part of Doduco GmbH &
+Co. and its subsidiary, Doduco Espana.  As a result, management of the
+Company does not believe that the following unaudited pro forma financial
+information, which assumes that Doduco was acquired on January 1, 1995, is
+indicative of the results that actually would have occurred if the
+acquisition had been consummated on the date indicated or which may be
+attained in the future (in thousands, except for earnings per share).
+
+                                   Year Ended      Year Ended
+                                  Dec. 31, 1996   Dec. 31, 1995
+                                  -------------   -------------
+          Sales                      $407,475        $352,311
+          Net earnings                $23,567         $10,152
+          Earnings per share            $1.46            $.78
+
+     Netwave Technologies, Inc.:  On August 30, 1996, a majority-owned
+subsidiary of the Company, Netwave Technologies, Inc. ("NTI"), completed
+the purchase of all of the wireless LAN business assets of Xircom, Inc.
+The Company's ownership interest of NTI is currently 90%, however its
+interest is expected to decrease to approximately 80% as additional
+contributions are received from minority investors.  The fair value of the
+assets acquired, which included equipment, inventory and certain
+intangibles, is not material to the Company's financial position.
+
+     Pulse Engineering, Inc.:  On September 29, 1995, the Company completed
+the acquisition of Pulse Engineering, Inc. ("Pulse").  Pulse, headquartered
+in San Diego, California, and with operations in Hong Kong, the People's
+Republic of China, Taiwan, the Philippines and Ireland, designs,
+manufactures and markets electronic components and modules primarily for
+manufacturers of local area networks and telecommunications systems.
+
+
+                                                                (continued)
+
+                               Page 27 of 43
+<PAGE>
+
+                                     4
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(2)  Acquisitions and Divestitures, continued
+
+     The total purchase price approximated $60.6 million and consisted of
+cash paid to the former Pulse stockholders, stock issued to the former
+Pulse stockholders, stock options assumed, and related acquisition costs.
+The fair value of the assets acquired and liabilities assumed approximated
+$65.5 million and $17.4 million, respectively.  The excess of cost over net
+assets acquired approximated $12.5 million reflecting final purchase price
+allocation adjustments.  Approximately 3,570,000 shares of Technitrol
+common stock at a fair market value of $8.19 per share were issued to
+former holders of Pulse common stock.  (These amounts are restated to
+reflect the two for one stock split on February 28, 1997).  The cash
+portion of the purchase price, including cash paid to the former
+stockholders of Pulse and related acquisition costs, was approximately
+$27.6 million.  In addition, all outstanding options to purchase Pulse
+common stock were assumed by the Company.  At the date of acquisition,
+approximately 538,000 shares of Technitrol common stock were issuable upon
+exercise of such options and, except for approximately 66,000 options which
+were not yet vested, all assumed options were exercisable immediately at
+prices ranging from $.87 to $7.81.  At December 31, 1996, there were
+180,844 options which remained outstanding.  The options have various
+expiration dates, the latest of which is in April 2001.
+
+     In conjunction with the Pulse acquisition, the Company established a
+credit facility with a group of banks which authorized Technitrol to borrow
+up to $50.0 million on an unsecured basis.  The Company initially used
+approximately $18.0 million of this credit facility to refinance existing
+indebtedness and, separately, approximately $4.0 million of the credit
+facility to partially fund the cash portion of the merger consideration.
+On December 29, 1995, the credit facility was amended in conjunction with a
+partial repayment and the total facility was reduced to $45.0 million
+including $10.0 million under a fixed rate term loan and a $35.0 million
+variable-rate revolving credit facility.
+
+     The acquisition was accounted for by the purchase method of
+accounting.  Had Pulse been acquired on January 1, 1995, unaudited
+consolidated pro forma results of operations would have been (in thousands,
+except for earnings per share):
+
+                                   Year Ended
+                                  Dec. 31, 1995
+                                  -------------
+          Sales                      $252,104
+          Net earnings                $16,825
+          Earnings per share            $2.10
+
+     This unaudited information is provided for comparative purposes only.
+It does not purport to be indicative of the results that actually would
+have occurred if the acquisition had been consummated on the date indicated
+or which may be obtained in the future.  The pro forma earnings per share
+amounts include the effect of shares issued and stock options assumed in
+connection with the merger.
+
+     Divestitures
+
+     Products Division:  On February 27, 1996, the Company sold certain
+assets of its Products Division to an unrelated party.  As a result of the
+sale, the Company discontinued its production and marketing of document
+counters and dispensers, the sales of which approximated $4.9 million in
+1995.  The consideration received approximated $3.7 million and the pre-tax
+gain of approximately $1.5 million that was realized on the sale (after
+recognition of related costs and expenses) was included in earnings for the
+quarter ended March 31, 1996.
+
+
+                                                                (continued)
+
+                               Page 28 of 43
+
+<PAGE>
+                                     5
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(2)  Acquisitions and Divestitures, continued
+
+     Test & Measurement Products Segment:  In January 1997, the Board of
+Directors determined that it would be in the best long-term interest of the
+shareholders to divest the Test & Measurement Products Segment.  Although
+this Segment constitutes a very valuable asset and has contributed
+positively to the Company's earnings and would be expected to continue to
+do so in the future, the Company believes that long-term shareholder value
+is best served by redeploying the capital invested in this Segment into the
+Company's other two segments because of their rapid growth and market
+leadership positions.  The Company has retained an investment banking firm
+to advise it in this matter; however, a formal divestiture plan has not
+been adopted, nor have final decisions been made regarding the expected
+method of sale or the timing of the sale.  The Company expects to realize a
+gain on the proposed sale; however, the sales price has not been determined
+and the Company may continue to operate the Segment if appropriate value
+cannot be obtained.  As a result of uncertainty surrounding the eventual
+divestiture, the Segment is reported as a part of the continuing operations
+of the Company in these financial statements.  The net assets of the
+Segment at December 31, 1996 consist primarily of accounts receivable,
+inventories and fixed assets, net of accounts payable and other accrued
+operating expenses.
+
+(3)  Financial Statement Details
+
+     The following provides details for certain financial statement
+captions at December 31, 1996 and 1995:
+
+                                                        1996          1995
+                                                        ----          ----
+Inventories
+  Finished goods                                      $16,513       $12,926
+  Work in progress                                     14,641         8,888
+  Raw materials and supplies                           16,874        11,148
+                                                      -------       -------
+                                                      $48,028       $32,962
+                                                      =======       =======
+
+Property, plant and equipment, at cost
+  Land                                                $ 3,714       $ 2,152
+  Buildings and improvements                           25,036        23,026
+  Machinery and equipment                              68,042        55,885
+                                                      -------       -------
+                                                      $96,792       $81,063
+                                                      =======       =======
+Accrued expenses
+  Income taxes payable                                $ 9,853       $ 7,082
+  Dividends payable                                       799           784
+  Accrued compensation                                  5,759         5,980
+  Current portion of accrued pension expense                8         2,321
+  Accrual for purchase of Doduco real estate            7,720            --
+  Other accrued expenses                               27,071        12,823
+                                                      -------       -------
+                                                      $51,210       $28,990
+                                                      =======       =======
+
+
+                                                                (continued)
+                               Page 29 of 43
+<PAGE>
+
+                                     6
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(4)  Notes Payable and Long-term Debt
+
+     The Company's majority-owned subsidiary, Netwave Technologies, Inc.
+has established a $3.0 million line of credit with a domestic bank.  The
+interest rate on this facility is variable at LIBOR + 5/8.  The line of
+credit is a demand discretionary line, and, accordingly, does not have an
+expiration date.  At December 31, 1996, a total of $520,000 was outstanding
+under the line of credit, which borrowings are expected to increase in 1997
+to the full extent of the facility.  The Company has guaranteed the
+borrowings under this facility.
+
+     At December 31, 1996, the Company's subsidiary in Spain, which was
+acquired in connection with the Doduco acquisition on October 31, 1996, had
+the equivalent of approximately $2.4 million outstanding under various
+short-term local credit facilities in Spain.  The interest rates on these
+facilities vary from 8.0% to 9.85% and all borrowings under the facilities
+were repaid in 1997.
+
+Long-term debt was as follows (in thousands):
+
+                                                       1996         1995
+                                                       ----         ----
+Bank Loans
+
+Fixed rate term loan (6.65%) due December 29, 2000    $ 8,000      $10,000
+
+Variable rate revolving credit facility with $35.0
+  million maximum draw, due September 29, 1998          6,439        7,000
+
+Variable-rate (LIBOR plus 0.625%) multi-currency
+  bank loan facility with $40.0 million maximum
+  draw, due December 31, 2001 (4.75% rate at
+  December 31, 1996)                                   24,028           --
+
+Long-term debt in Spain (denominated in pesetas)
+  incurring interest at 8.4% and due on
+  October 24, 2003                                      3,132           --
+                                                      -------      -------
+    Total bank loans                                   41,599      $17,000
+
+Mortgage Notes, secured by mortgages on land,
+  buildings, and certain equipment:
+
+  4.5% mortgage notes, due in monthly installments
+    until 2000                                            102          125
+                                                      -------      -------
+    Total long-term debt                               41,701       17,125
+
+  Less current installments                             2,024        2,023
+                                                      -------      -------
+  Long-term debt excluding current installments       $39,677      $15,102
+                                                      =======      =======
+
+     At the Company's option, interest on the revolving credit facility may
+be based on the prime rate or on the LIBOR rate plus 0.625%.  At December
+31, 1996, the outstanding balance of the equivalent of $6.4 million
+incurred interest under the LIBOR rate alternative (then 3.9375%).  At
+December 31, 1995, $5.0 million was outstanding under the prime rate (then
+8.5%) and $2.0 million was outstanding under the LIBOR rate alternative
+(then 6.5%).  Outstanding borrowings under the Company's multi-currency
+facility consist entirely of Deutsche marks.
+
+                                                                (continued)
+                               Page 30 of 43
+<PAGE>
+
+                                     7
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+
+(4)  Notes Payable and Long-term Debt, continued
+
+Principal payments due within the next five years are as follows (in
+thousands):
+
+                        1997       $  2,024
+                        1998          8,458
+                        1999          2,026
+                        2000          2,027
+                        2001         23,802
+
+     The Bank Loan facilities are unsecured and contain certain covenants
+requiring maintenance of minimum net worth and other customary and normal
+provisions.  The Company is in compliance with all such covenants.
+
+(5)  Research, Development and Engineering Expenses
+
+     Research, development and engineering expenses ("RD&E") are
+included in selling, general and administrative expenses and were $10.5
+million, $5.8 million, and $4.6 million in 1996, 1995, and 1994,
+respectively.  RD&E includes costs associated with new product
+development, product and process improvement, engineering follow-through
+during early stages of production, design of tools and dies, and the
+adaptation of existing technology to specific situations and customer
+requirements.  The research and development component of RD&E, which
+generally includes only those costs associated with new technology, new
+products or significant changes to current products or processes, was
+$7.2 million, $4.4 million, and $3.5 million in 1996, 1995, and 1994,
+respectively.
+
+(6)  Restructuring Charges
+
+     Restructuring and related costs were recognized in accordance with
+Emerging Issues Task Force Issue No. 94-3, "Liability Recognition for
+Certain Employee Termination Benefits and other Costs to Exit an Activity
+(including Certain Costs Incurred in a Restructuring)."  During the second
+quarter of 1996, the Company initiated a restructuring plan aimed at
+reducing the costs of manufacturing within its Electronic Components
+Segment.  Accordingly, reserves were established for employee separation
+costs related to the relocation of a majority of the production capacity of
+the Company's production facility in Taiwan to the Company's production
+facility in the Philippines.  Charges of $2,108,000 were included in
+selling, general and administrative expenses for 1996.  Substantially all
+required payments were made prior to December 31, 1996 and no material
+provision existed at the end of the year.  A total of 263 direct and 46
+indirect employees were included in the restructuring plan.
+
+(7)  Income Taxes
+
+     Earnings before income taxes were as follows (in thousands):
+
+                            1996          1995         1994
+                            ----          ----         ----
+Domestic                  $ 8,350       $ 1,941      $ 8,406
+Non U.S.                   22,666        12,600        2,983
+                          -------       -------      -------
+    Total                 $31,016       $14,541      $11,389
+                          =======       =======      =======
+
+                                                                (continued)
+
+                               Page 31 of 43
+<PAGE>
+
+                                     8
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(7)  Income Taxes, continued
+
+     Income tax expense was as follows (in thousands):
+
+                               1996          1995         1994
+                               ----          ----         ----
+Current:
+  Federal                   $ 7,310       $ 2,019      $ 2,837
+  State and local             1,029           651          898
+  Non U.S.                    5,014         3,629        1,390
+                            -------       -------      -------
+                             13,353         6,299        5,125
+Deferred (benefit)           (2,702)       (1,098)        (680)
+                            -------       -------      -------
+                            $10,651       $ 5,201      $ 4,445
+                            =======       =======      =======
+
+     For the year ended December 31, 1996, approximately $1,545,000 was
+credited to Additional Paid-In Capital to record the tax benefit of certain
+components of employee compensation related to the Company's common stock.
+Such items include dividends paid on restricted stock, the change in value
+from the award date to the release date of restricted stock which was
+released during the period, and employee compensation related to the
+exercise of stock options.
+
+     A reconciliation of the statutory Federal income tax rate with the
+effective income tax rate follows:
+
+                                           1996      1995      1994
+Statutory Federal income tax rate           35%       34%       34%
+
+Increase(decrease) resulting from:
+  Tax exempt earnings of subsidiaries
+    in Puerto Rico                          (2)       (2)       (5)
+  State and local income taxes,
+    net of federal benefit                   2         3         6
+  Non-deductible expenses and
+    other foreign income subject
+    to U.S. income tax                       5         1         1
+  Foreign                                   (7)       (3)       (1)
+  Other, net                                 1         3         4
+                                            ---       ---       ---
+Effective tax rate                          34%       36%       39%
+                                            ===       ===       ===
+
+
+
+
+                                                                (continued)
+                               Page 32 of 43
+<PAGE>
+
+                                     9
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(7)  Income Taxes, continued
+
+      Deferred tax assets and liabilities included the following (in
+thousands):
+
+                                               1996       1995
+                                               ----       ----
+Assets:
+  Inventories, principally due to
+    additional costs valued for tax
+    purposes                                 $  746      $  596
+  Vacation pay and other compensation           868         396
+  Pension expense                             1,288         573
+  Stock awards                                  853         845
+  Accrued liabilities                         3,438       2,187
+  Other                                         363          97
+                                             ------      ------
+      Total deferred tax assets              $7,556      $4,694
+                                             ======      ======
+
+Liabilities:
+  Plant and equipment, principally due
+    to differences in depreciation           $  305      $  109
+  Other                                         417         453
+                                             ------      ------
+      Total deferred tax liabilities         $  722      $  562
+                                             ------      ------
+      Net deferred tax asset                 $6,834      $4,132
+                                             ======      ======
+
+Based on the Company's history of taxable income and its projection of
+future earnings, management believes that it is more likely than not that
+sufficient taxable income will be generated in the foreseeable future to
+realize the deferred tax assets.
+
+(8)  Commitments and Contingencies
+
+     The Company conducts a portion of its operations from leased premises
+and also leases certain equipment under operating leases.  Total rental
+expense for the years ended December 31, 1996, 1995 and 1994 was
+$3,306,000,  $1,795,000, and $1,483,000, respectively.  The aggregate
+minimum rental commitments under non-cancelable leases in effect at
+December 31, 1996 are as follows (in thousands):
+
+            Year ending
+            December 31
+            -----------
+               1997       $ 2,764
+               1998         2,103
+               1999         1,844
+               2000         1,537
+               2001         1,266
+            Thereafter      1,426
+                          -------
+                          $10,940
+                          =======
+
+     The Company is involved in several legal actions relating to waste
+disposal sites.  The Company's involvement in these matters has generally
+arisen from the alleged disposal by licensed waste haulers of small amounts
+of waste material many years ago.  In addition, the Company is subject to
+various lawsuits, claims and proceedings which arise in the ordinary course
+of its business.  The Company accrues costs associated with environmental
+and legal matters when they become probable and reasonably estimable.
+Accruals are established based on the estimated undiscounted cash flows to
+settle the obligations and are not reduced by any potential
+
+                                                                (continued)
+
+                               Page 33 of 43
+<PAGE>
+                                    10
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(8)  Commitments and Contingencies, continued
+
+recoveries from insurance or other indemnification claims.  Management
+believes that any ultimate liability with respect to these actions in
+excess of amounts provided, will not materially affect the Company's
+operations or consolidated financial position.
+
+(9)  Shareholders' Equity
+
+Changes in the components of shareholders' equity were as follows (in
+thousands, except share amounts):
+
+</TABLE>
+<TABLE>
+<CAPTION>
+                                                Common stock and
+                                                   additional
+                                                 paid-in capital
+                                               --------------------
+                                                                      Retained
+                                                   Shares    Amount   earnings    Other
+                                                   ------    ------   --------    -----
+<S>                                             <C>          <C>       <C>       <C>
+Balance at December 31, 1993                     1,995,489   $ 4,176   $37,488   $ 1,370
+Stock award, net of forfeitures                     10,975       361        54       414
+Compensation under Restricted Stock Plan                --        --        --     (339)
+Tax benefit of stock-based compensation items           --        43        --       --
+200% stock dividend                              4,014,988       745      (745)      --
+Net change in cumulative translation adjustment         --        --        --     (405)
+Net earnings                                            --        --     6,944       --
+Dividends declared ($.188 per share)                    --    (2,269)       --       --
+                                                ----------   -------   -------   -------
+Balance at December 31, 1994                     6,021,452   $ 5,325   $41,472   $ 1,040
+                                                ==========   =======   =======   =======
+
+Stock issued in connection with the
+ acquisition of Pulse                            1,785,452    29,232        --        --
+Stock options assumed                                   --     3,105        --        --
+Stock options exercised                              4,420        69        --        --
+Stock award, net of forfeitures                     24,545       339        35       375
+Compensation under Restricted Stock Plan                --        --        --      (238)
+Tax benefit of stock-based compensation items           --        60        --        --
+Net change in cumulative translation adjustment         --        --        --       293
+Net earnings                                            --        --     9,340        --
+Dividends declared ($.198 per share)                    --        --    (2,746)       --
+                                                ----------   -------   -------   -------
+Balance at December 31, 1995                     7,835,869   $38,130   $48,101   $ 1,470
+                                                ==========   =======   =======   =======
+
+Stock options exercised                            174,575       550        --        --
+Purchase of common stock                           (36,600)       (5)   (1,017)       --
+Stock award, net of forfeitures                     13,615       418        19       437
+Compensation under Restricted Stock Plan                --        --        --      (347)
+Tax benefit of stock-based compensation items           --     1,545        --        --
+Net change in cumulative translation adjustment         --        --        --      (173)
+Net earnings                                            --        --    20,427        --
+Dividends declared ($.20 per share)                     --        --    (3,191)       --
+Two-for-one stock split declared in
+  February 1997                                  7,987,459        --        --        --
+                                                ----------   -------   -------   -------
+Balance at December 31, 1996                    15,974,918   $40,638   $64,339   $ 1,387
+                                                ==========   =======   =======   =======
+
+</TABLE>
+
+The cumulative translation adjustment was $600,000 and $773,000 at December
+31, 1996 and 1995, respectively.
+
+                                                                (continued)
+
+                               Page 34 of 43
+<PAGE>
+                                    11
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+(9)  Shareholders' Equity, (continued)
+
+     Since the Company decided to formally retire all of the shares of its
+own stock purchased in 1996 and in prior years, the cost of such purchases
+has been charged against the common stock and retained earnings accounts.
+Previously such cost was reflected as an aggregate deduction from
+shareholders' equity.
+
+     On January 22, 1997, the Company's Board of Directors approved a two-
+for-one split of the Company's common stock in the form of a 100% common
+stock dividend for shareholders of record as of February 7, 1997.  A total
+of 10,925,774 shares were issued in connection with the split.  The stated
+par value of each share was not changed from $.125.  All relevant share and
+per share amounts have been restated to retroactively reflect the stock
+split.
+
+     The retained earnings of the Company include approximately $2,007,000
+which has been reserved as an appropriation in accordance with the laws of
+the Peoples Republic of China (PRC).  This amount, which is based on the
+earnings of the Company's subsidiary in the PRC, may not be available for
+distribution to the U.S. parent company or its shareholders.
+
+     During 1996, the Company adopted a shareholder rights plan.  The
+Rights are currently not exercisable, and automatically trade with the
+Company's Common Shares.  However, after a person or group has acquired 15%
+or more of the Common Shares, the Rights will become exercisable and
+separate certificates representing the Rights will be distributed.  In the
+event that any person or group acquires 15% of the Common Shares, each
+holder of two Rights (other than the Rights of the acquiring person) will
+have the right to receive, for $125, that number of Common Shares having a
+market value equal to two times the exercise price of the Rights.
+Alternatively, in the event that, at any time following the date in which a
+person or group acquires ownership of 15% or more of the Common Shares, the
+Company is acquired in a merger or other business combination transaction
+or 50% or more of its consolidated assets or earning power are sold, each
+holder of two Rights (other than the Rights of such acquiring person or
+group) will thereafter have the right to receive, upon exercise, that
+number of shares of common stock of the acquiring entity having a then
+market value equal to two times the exercise price of the Rights.  The
+Rights may be redeemed by the Company at a price of $.005 per Right, at any
+time prior to becoming exercisable.  Rights that are not redeemed or
+exercised will expire on September 9, 2006.
+
+(10) Employee Benefit Plans
+
+     The Company and its subsidiaries maintain defined benefit pension
+plans and make contributions to multi-employer plans covering certain union
+employees.  Certain non-U.S. subsidiaries have varying types of retirement
+plans providing benefits for substantially all of their employees.
+
+
+                                                                 continued)
+
+                               Page 35 of 43
+<PAGE>
+                                    12
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+
+(10) Employee Benefit Plans, continued
+
+     Pension expense was as follows (in thousands):
+
+                                            1996        1995       1994
+                                            ----        ----       ----
+Principal defined benefit plans            $1,024      $1,449    $1,310
+Multi-employer and other non  U.S. plans       61         210       361
+                                           ------      ------    ------
+                                           $1,085      $1,659    $1,671
+                                           ======      ======    ======
+
+      The  expense for the principal defined benefit pension plans  include
+the following components (in thousands):
+
+                                        1996        1995       1994
+                                        ----        ----       ----
+Service cost - benefits earned
+  during the period                    $1,417      $1,369     $1,286
+
+Interest cost on projected
+  benefit obligation                    1,465       1,319      1,206
+Actual return on plan assets           (2,714)     (3,867)      (124)
+Net amortization and deferral             856       2,628     (1,058)
+                                       ------      ------     ------
+    Net periodic pension cost          $1,024      $1,449     $1,310
+                                       ======      ======     ======
+
+      The financial status of the principal defined benefit plans at
+December 31, was as follows (in thousands):
+
+                                                          1996      1995
+Actuarial present value of obligations:
+  Accumulated benefit obligation (including vested
+    benefits of $12,805 in 1996 and $11,990 in 1995)    $13,477   $13,653
+                                                        -------   -------
+  Projected benefit obligation for services to date      19,270    20,404
+Plan assets at fair value                                22,303    20,261
+                                                        -------   -------
+  Plan assets in excess of (less than) projected
+    benefit obligation                                    3,033      (143)
+
+Unrecognized net (gain) from past experience
+  different from that assumed                            (5,372)   (3,661)
+
+Prior service costs not yet recognized                      506       559
+
+Unrecognized net obligation at January 1, 1987
+  being recognized over 18 years                             28        31
+                                                        -------   -------
+      Accrued pension costs at December 31              $(1,805)  $(3,214)
+                                                        =======   =======
+
+     Benefits are based on years of service and average final compensation.
+For U.S. plans, the Company funds, annually, at least the minimum amount
+required by the Employee Retirement Income Security Act of 1974.  Plan
+assets consist principally of short-term investments and listed bonds and
+stocks.  Assumptions used to develop data for 1996 and 1995 were as
+follows:
+
+
+    Discount rates                                      7.0% to 7.25%
+    Annual compensation increases                      4.75% to  7.0%
+    Expected long-term rates of return on plan assets   7.0% to  9.0%
+
+                                                                (continued)
+
+                               Page 36 of 43
+<PAGE>
+
+                                    13
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+
+
+(10) Employee Benefit Plans, continued
+
+     The Company maintains defined contribution 401(k) plans covering
+substantially all U.S. employees not affected by certain collective
+bargaining agreements.  Under the primary 401(k) plan, the Company
+contributes a matching amount equal to $.50 for each $1.00 of the
+participant's contribution not in excess of 3% of the participant's annual
+wages.  The total contribution expense under the 401(k) plans was $462,000,
+$319,000, and $165,000 in 1996, 1995, and 1994, respectively.
+
+     The Company does not provide any significant post-retirement benefits
+other than the pension plans and 401(k) plans described above.
+
+(11) Stock-Based Compensation
+
+     The Company has an incentive compensation plan for key employees of
+the Company and its subsidiaries.  The Plan grants the recipient the right
+of ownership of Technitrol, Inc. common stock,  conditional on the
+attainment of defined performance goals and/or continued employment with
+the Company.  A summary of the shares under the incentive compensation plan
+is as follows (adjusted for the two for one stock split on February 28,
+1997):
+
+                                                             Available to
+                                                              be Granted
+                                                             ------------
+Shares authorized                                             1,200,000
+Awarded during years prior to 1996, net of cancellations       (804,110)
+                                                              ---------
+Balance at December 31, 1995                                    395,890
+Awarded during 1996, net of cancellations                       (27,230)
+                                                              ---------
+Balance available at December 31, 1996                          368,660
+                                                              =========
+
+     During the years ended December 31, 1996, 1995 and 1994, the Company
+issued to employees, net of cancellations, incentive compensation shares
+having an approximate fair value at date of issue of $438,000, $375,000 and
+$414,000, respectively.  Shares are held by the Company until the defined
+performance goals and/or continued employment requirement have been
+attained.  The market value of the shares at the date of grant is charged
+to expense during the vesting period on a straight-line basis.  Amounts
+charged to expense as a result of the incentive compensation plan and
+related expenses were $976,000 in 1996, $1,517,000 in 1995, and $994,000 in
+1994.
+
+     Separately, in connection with the Pulse acquisition, options which
+had been granted for the purchase of Pulse common shares were assumed by
+the Company and converted into options to purchase Technitrol common stock.
+Additional information about the options assumed is provided in Note 2.  At
+December 31, 1996, 180,844 options remained outstanding.  No additional
+options are expected to be granted under the assumed plans.
+
+     In October 1995, the Financial Accounting Standards Board issued
+Statement of Financial Accounting Standards No. 123, "Accounting for Stock-
+Based Compensation" ("FAS123").  FAS 123 requires, among other things,
+additional disclosures relating to stock options granted on or after
+January 1, 1995.  The Company has not issued any stock options to
+employees, except for those options assumed in connection with the
+acquisition of Pulse.  The fair value of those options was included in the
+purchase price of the acquisition, and, accordingly, is amortized as part
+of the goodwill associated with the acquisition.  The options have no
+additional impact on the earnings of the Company under the provisions of
+FAS 123.
+
+                                                                (continued)
+
+                               Page 37 of 43
+<PAGE>
+                                    14
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+           Notes to Consolidated Financial Statements, continued
+
+
+(12) Supplementary Information
+
+     Charged directly to costs and expenses (in thousands):
+
+                                                1996       1995       1994
+                                                ----       ----       ----
+       Depreciation                            $7,895     $5,828     $5,016
+       Amortization of intangible assets        1,228        417        255
+       Advertising                              1,573      1,118      1,159
+       Repairs and maintenance                  4,111      2,540      1,936
+       Bad debt expense                           175        109        114
+
+     Cash payments made (in thousands):
+
+       Income taxes                            $9,205     $3,559     $3,663
+       Interest                                 1,106      1,428      1,058
+
+(13) Segment Information
+
+     The "Business Segment Information" and "Geographic Information"
+sections on pages 2, 3 and 4 of this Form 10-K is an integral part of the
+Company's financial statements.
+
+(14) Quarterly Financial Data (Unaudited)
+
+     Quarterly results of operations (unaudited) for 1996 and 1995 are
+summarized as follows (in thousands, except per share data):
+
+                                        Quarter ended
+                                        -------------
+                            Mar. 31   June 30  Sept. 30   Dec. 31
+                            -------   -------  --------   -------
+1996:
+  Net sales                 $62,852   $68,028   $59,053   $84,142
+  Gross profit               21,068    23,867    20,043    26,767
+  Net earnings                5,466     5,236     4,270     5,455
+  Net earnings per share        .34       .33       .27       .34
+
+
+1995:
+  Net sales                 $40,043   $39,394   $35,940   $61,042
+  Gross profit               11,390    12,657    10,446    21,161
+  Net earnings                1,692     2,020     1,673     3,955
+  Net earnings per share        .14       .17       .14       .25
+
+Earnings  per  share  amounts have been restated to reflect  a  two-for-one
+stock split effective on February 28, 1997.
+
+
+
+
+
+
+                               Page 38 of 43
+<PAGE>
+
+
+                     TECHNITROL, INC. AND SUBSIDIARIES
+
+                      FINANCIAL STATEMENT SCHEDULE II
+
+                     VALUATION AND QUALIFYING ACCOUNTS
+
+                         (In thousands of dollars)
+<TABLE>
+<CAPTION>
+                                         Additions (Deductions)
+                                     -----------------------------
+                                       Charged to    Write-offs
+                             Balance    costs and         &                     Balance
+Description                 January 1   expenses       payments     Other     December 31
+- ------------------------------------------------------------------------------------------
+                             <S>          <C>            <C>        <C>          <C>
+Year ended
+ December 31, 1996:
+Reserve for obsolete and
+  slow-moving inventory      $3,012       $2,534         $(875)     $   --       $4,671
+                             ======       ======         =====      ======       ======
+
+Year ended
+ December 31, 1995:
+Reserve for obsolete and
+  slow-moving inventory      $   --         $441         $(384)     $2,955 (1)   $3,012
+                             ======       ======         =====      ======       ======
+
+<FN>
+(1) Amount represents the acquired reserve of Pulse.  The additions and
+    deductions to the reserve in 1995 represent Pulse's activity subsequent
+    to its acquisition by the Company.
+</TABLE>
+
+      Doubtful accounts are written-off as identified.
+
+
+
+
+
+                               Page 39 of 43
+<PAGE>
+
+
+                               EXHIBIT INDEX
+
+DOCUMENT
+
+3.  (a) Articles of Incorporation      Incorporated by reference to
+                                         Form 10-K for the year ended
+                                         December 31, 1995
+
+    (b) By-laws                        Incorporated by reference to
+                                         Form 10-K for the year ended
+                                         December 31, 1995
+
+4.  Instruments defining rights of     Incorporated by reference to
+       security holders                  Form 10-K for the year ended
+                                         December 31, 1982.
+
+11. Computation of Primary and Fully
+      Diluted Earnings Per Share       Page 41
+
+21. Subsidiaries of Registrant         Page 42
+
+
+23. Consent of Certified Public 
+      Accountants                      Page 43
+      
+
+27. Financial Data Schedule            Electronic Filing Only
+
+
+
+
+
+                               Page 40 of 43
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF PRIMARY AND FULLY DILUTED EARNINGS PER SHARE
+<TEXT>
+
+ EXHIBIT (11) COMPUTATION OF PRIMARY AND FULLY DILUTED EARNINGS PER SHARE
+<TABLE>
+<CAPTION>
+                                        Three Months Ended        Twelve Months Ended
+                                    ------------------------    -------------------------
+                                      Dec. 31,     Dec. 31,       Dec. 31,     Dec. 31,
+                                        1996         1995           1996         1995
+                                        ----         ----           ----         ----
+<S>                                 <C>           <C>           <C>           <C>
+Net income                          $ 5,455,000   $ 3,955,000   $20,427,000   $ 9,340,000
+Primary earnings per share:
+
+Weighted average number of common
+ shares outstanding                  15,977,906    15,667,280    15,956,936    12,977,814
+
+  Add: Shares arising from the
+    assumed exercise of stock
+    options (as determined under
+    the Treasury Stock Method)          141,662       394,336       138,870        98,584
+                                    -----------   -----------   -----------   -----------
+
+  Weighted average of common
+    and  equivalent shares           16,119,568    16,061,616    16,095,806    13,076,398
+                                    ===========   ===========   ===========   ===========
+
+      Primary earnings per share    $       .34   $       .25   $      1.27   $       .72
+                                    ===========   ===========   ===========   ===========
+
+Fully diluted earnings
+ per share (1):
+
+  Weighted average of common and
+    equivalent shares outstanding
+    (as determined for the Primary
+    earnings per share calculation
+    above)                           16,119,568    16,061,616    16,095,806    13,076,398
+
+  Add: Additional shares arising
+    from the assumed exercise of
+    stock options (as determined
+    under the Treasury Stock
+    Method)                                  --            --            --            --
+                                    ===========   ===========   ===========   ===========
+
+Weighted average of common and
+  equivalent shares                  16,119,568    16,061,616    16,095,806    13,076,398
+                                    ===========   ===========   ===========   ===========
+  Fully diluted earnings per share  $       .34   $       .25   $      1.27   $       .72
+
+
+<FN>
+(1) This calculation is submitted in accordance with the Securities Act of
+    1933 Release No. 5,133 although it is not required by footnote 2 to
+    paragraph 14 of APB Opinion No. 15 because it results in dilution of less
+    than 3%.
+</TABLE>
+
+     Amounts have been restated to reflect a two-for-one stock split
+effective on February 28, 1997.
+
+
+
+
+                               Page 41 of 43
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+
+
+          EXHIBIT (21) SIGNIFICANT SUBSIDIARIES OF THE REGISTRANT
+
+  Technitrol, Inc., which has no parent, has the following subsidiaries:
+
+           Name                       Incorporation           Percent Owned
+           ----                       -------------           -------------
+Advanced Metallurgy, Inc.             Pennsylvania                 100%
+Chace Precision Metals, Inc.          Delaware                     100%
+Doduco Espana                         Spain                        100%
+Doduco GmbH                           Germany                      100%
+Dongguan Pulse Electronics Co., Ltd.  Peoples Republic of China    100%
+John Chatillon & Sons, Inc.           New York                     100%
+Lloyd Instruments, Ltd.               United Kingdom               100%
+Netwave Technologies, Inc.            Delaware                      90%
+Pulse Electronics, Ltd.               Hong Kong                    100%
+Pulse Engineering Distribution, Ltd.  Ireland                      100%
+Pulse Engineering, Inc.               Delaware                     100%
+Pulse Philippines Corporation         Philippines                  100%
+Pulse Taiwan Corporation              Taiwan                       100%
+Technitrol Delaware, Inc.             Delaware                     100%
+Technitrol International, Inc.        Delaware                     100%
+Technitrol Investments, Inc.          Delaware                     100%
+
+
+
+                               Page 42 of 43
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF CERTIFIED PUBLIC ACCOUNTANTS
+<TEXT>
+
+
+
+            Consent of Independent Certified Public Accountants
+
+
+
+The Board of Directors
+Technitrol, Inc.:
+
+We consent to the incorporation by reference in the registration statement
+on Form S-8 of Technitrol, Inc. of our report dated February 28, 1997,
+relating to the consolidated balance sheets of Technitrol, Inc. and
+subsidiaries as of December 31, 1996 and 1995 and the related consolidated
+statements of earnings and cash flows for each of the years in the three-
+year period ended December 31, 1996, which report appears in the December
+31, 1996 annual report on Form 10-K of Technitrol, Inc.
+
+
+
+
+                                        KPMG Peat Marwick LLP
+
+
+
+Philadelphia, Pennsylvania
+March 19, 1997
+
+
+
+
+
+                               Page 43 of 43
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>ART. 5 FDS FOR 1996 10-K
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>               5
+<MULTIPLIER>            1000
+       
+<S>                                          <C>
+<PERIOD-TYPE>                                       YEAR
+<FISCAL-YEAR-END>                            DEC-31-1996
+<PERIOD-END>                                 DEC-31-1996
+<CASH>                                             43531
+<SECURITIES>                                           0
+<RECEIVABLES>                                      46537
+<ALLOWANCES>                                           0
+<INVENTORY>                                        48028
+<CURRENT-ASSETS>                                  142626
+<PP&E>                                             96792
+<DEPRECIATION>                                     42654
+<TOTAL-ASSETS>                                    218347
+<CURRENT-LIABILITIES>                              67839
+<BONDS>                                            39677
+<COMMON>                                            1997
+<PREFERRED-MANDATORY>                                  0
+<PREFERRED>                                            0
+<OTHER-SE>                                        101593
+<TOTAL-LIABILITY-AND-EQUITY>                      218347
+<SALES>                                           274075
+<TOTAL-REVENUES>                                  274075
+<CGS>                                             182330
+<TOTAL-COSTS>                                     182330
+<OTHER-EXPENSES>                                       0
+<LOSS-PROVISION>                                       0
+<INTEREST-EXPENSE>                                  1165
+<INCOME-PRETAX>                                    31016
+<INCOME-TAX>                                       10651
+<INCOME-CONTINUING>                                20427
+<DISCONTINUED>                                         0
+<EXTRAORDINARY>                                        0
+<CHANGES>                                              0
+<NET-INCOME>                                       20427
+<EPS-PRIMARY>                                       1.27
+<EPS-DILUTED>                                       1.27
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

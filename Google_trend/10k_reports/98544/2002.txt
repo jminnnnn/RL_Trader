@@ -1,0 +1,3446 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MNYrro3y9H3+UZafba2vKwty9yiXP1MA6Okl6aS9fN0aNcJ+y6SvDW2In/84uXUT
+ 8uuArB2Dq7ivC2j/898ktg==
+
+<SEC-DOCUMENT>0001047469-02-007564.txt : 20021219
+<SEC-HEADER>0001047469-02-007564.hdr.sgml : 20021219
+<ACCEPTANCE-DATETIME>20021219102456
+ACCESSION NUMBER:		0001047469-02-007564
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20020930
+FILED AS OF DATE:		20021219
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TODHUNTER INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000098544
+		STANDARD INDUSTRIAL CLASSIFICATION:	MALT BEVERAGES [2082]
+		IRS NUMBER:				591284057
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13453
+		FILM NUMBER:		02862500
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 LAKEVIEW AVE STE 1500
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+		BUSINESS PHONE:		5616558977
+
+	MAIL ADDRESS:	
+		STREET 1:		222 LAKEVIEW AVE STE 1500
+		STREET 2:		222 LAKEVIEW AVE STE 1500
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a2096429z10-k.txt
+<DESCRIPTION>10-K
+<TEXT>
+<Page>
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   ----------
+
+                                    FORM 10-K
+
+              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 2002      COMMISSION FILE NUMBER 1-13453
+
+                                   ----------
+
+                          TODHUNTER INTERNATIONAL, INC.
+             (Exact name of registrant as specified in its charter)
+
+              DELAWARE                                     59-1284057
+      (State of Incorporation)                           (IRS Employer
+                                                     Identification Number)
+
+222 LAKEVIEW AVENUE, SUITE 1500, WEST PALM BEACH, FL          33401
+      (Address of principal executive office)               (Zip Code)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (561) 655-8977
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+                          COMMON STOCK, $.01 PAR VALUE
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: NONE
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934, as amended, during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. Yes /X/ No / /
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (Section 229.405 of Title 17, Code of Federal
+Regulations) is not contained herein, and will not be contained, to the best of
+registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. /X/
+
+         Aggregate market value of the voting stock held by non-affiliates of
+the registrant as of December 5, 2002 (computed by reference to the last
+reported sale price of the registrant's Common Stock on the American Stock
+Exchange on such date): $21,401,996.
+
+         The number of shares outstanding of the registrant's Common Stock, $.01
+par value per share, as of December 5, 2002, was 5,572,234.
+
+         There were no shares of Preferred Stock outstanding as of December 5,
+2002.
+
+         Documents Incorporated by Reference: Part III - Portions of the
+registrant's definitive proxy statement to be filed within 120 days of the end
+of the registrant's fiscal year in conjunction with the registrant's 2003 annual
+stockholders' meeting.
+
+================================================================================
+
+<Page>
+
+INTRODUCTORY NOTE
+
+         THIS ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED SEPTEMBER 30,
+2002 (THE "FORM 10-K") CONTAINS "FORWARD-LOOKING STATEMENTS," AS DEFINED IN
+SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"),
+AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED (THE
+"EXCHANGE ACT"). FORWARD-LOOKING STATEMENTS ARE STATEMENTS OTHER THAN HISTORICAL
+INFORMATION OR STATEMENTS OF CURRENT CONDITION AND RELATE TO FUTURE EVENTS OR
+THE FUTURE FINANCIAL PERFORMANCE OF THE COMPANY. SOME FORWARD-LOOKING STATEMENTS
+MAY BE IDENTIFIED BY USE OF SUCH TERMS AS "BELIEVES," "ANTICIPATES," "INTENDS"
+OR "EXPECTS." SUCH FORWARD-LOOKING STATEMENTS INVOLVE KNOWN AND UNKNOWN RISKS,
+UNCERTAINTIES AND OTHER FACTORS THAT MAY CAUSE THE ACTUAL RESULTS, PERFORMANCE
+OR ACHIEVEMENTS OF THE COMPANY TO BE MATERIALLY DIFFERENT FROM ANY FUTURE
+RESULTS, PERFORMANCE OR ACHIEVEMENTS EXPRESSED OR IMPLIED BY SUCH
+FORWARD-LOOKING STATEMENTS. THE FOLLOWING IS A LIST OF FACTORS, AMONG OTHERS,
+THAT COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE CONTEMPLATED BY
+THE FORWARD-LOOKING STATEMENTS: CHANGES IN BUSINESS CONDITIONS IN CERTAIN MARKET
+SEGMENTS AND THE GENERAL ECONOMY; COMPETITIVE FACTORS, INCLUDING INCREASED
+COMPETITION AND PRICE PRESSURES; AVAILABILITY OF THIRD-PARTY COMPONENT PRODUCTS
+AT REASONABLE PRICES; INCREASED EXCISE TAXES; FOREIGN CURRENCY EXPOSURE; CHANGES
+IN PRODUCT MIX BETWEEN AND AMONG PRODUCT LINES; LOWER THAN EXPECTED CUSTOMER
+ORDERS AND QUARTERLY SEASONAL FLUCTUATIONS OF THOSE ORDERS; AND PRODUCT SHIPMENT
+INTERRUPTIONS. THE COMPANY UNDERTAKES NO OBLIGATION TO UPDATE OR REVISE ANY
+FORWARD-LOOKING STATEMENTS, WHETHER AS A RESULT OF NEW INFORMATION, FUTURE
+EVENTS OR OTHERWISE.
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+GENERAL OVERVIEW
+
+         Todhunter International, Inc. (the "Company") is a leading producer and
+supplier of brandy, rum, wine and spirits to other beverage alcohol
+manufacturers; produces, imports and markets premium branded spirits; bottles
+beverage alcohol and other beverages on a contract basis and under its own
+labels; and produces vinegar and cooking wine. The Company operates four
+production facilities in the United States and one in St. Croix, United States
+Virgin Islands, and purchases certain products for resale. The Company is a
+Delaware corporation organized in 1970 as a successor to a business founded in
+the Bahamas in 1964. All references in this report to "Fiscal 2002," "Fiscal
+2001" and "Fiscal 2000" shall refer to the Company's fiscal years ended
+September 30 of such year.
+
+OWNERSHIP BY ANGOSTURA LIMITED
+
+         Angostura Limited ("Angostura"), a Trinidad-based distiller, has
+reported that, as of November 26, 2002, it beneficially owned 2,984,313 shares,
+representing 53.6% of the Company's outstanding Common Stock, $.01 par value per
+share (the "Common Stock"). Angostura has also reported that, effective November
+26, 2002, it entered into an agreement with A. Kenneth Pincourt, Jr., the former
+Chairman and Chief Executive Officer of the Company, to purchase from Mr.
+Pincourt 595,985 shares, representing 10.7% of the Company's outstanding Common
+Stock, on January 31, 2003. See also Item 7. Management's Discussion and
+Analysis of Financial Condition and Results of Operations - Retirement of
+Chairman and Chief Executive Officer.
+
+ACQUISITION AND DIVESTITURE ACTIVITY
+
+         In November 1999, the Company acquired substantially all of the assets
+of Adams Wine Company, d/b/a Monarch Wine Company of Georgia ("Monarch"),
+Atlanta, Georgia, for $23.8 million in cash ( the "Monarch Acquisition").
+Monarch specializes in the manufacture of wines, including custom blended wines
+and cooking wines for the food industry and base wines for producers of vinegar
+and beverage alcohol.
+
+         In September 2000, the Company sold all of its remaining operating
+assets in the Bahamas to British Fidelity Holdings Limited, an affiliate through
+common ownership, for a $3.5 million note due in August 2005 bearing interest at
+6% (see Note 5 to the Company's consolidated financial statements). The Company
+recorded a loss of $78,838 on the transaction. Sales of the Bahamian operations
+were previously included in the "Corporate Operations and Other" segment.
+
+                                        1
+<Page>
+
+BUSINESS SEGMENTS
+
+         The Company operates primarily in the beverage alcohol industry in the
+United States. The Company reports its operating results in five segments:
+
+     -   Bulk Alcohol Products (citrus brandy, citrus spirits, rum, cane
+         spirits, fortified citrus wine, purchased distilled products and
+         byproducts)
+     -   Premium Branded Spirits (primarily Cruzan Estate Rums and Cruzan
+         Flavored Rums)
+     -   Bottling Operations (contract bottling services and proprietary and
+         private label products)
+     -   Vinegar and Cooking Wine (bulk vinegar, bulk cooking wine, vinegar
+         stock and proprietary and private label case goods)
+     -   Corporate Operations and Other (primarily corporate-related items)
+
+         Information regarding the net sales, operating income (loss) and total
+assets of each of the Company's business segments and information regarding
+geographic areas is set forth in Note 13 to the Company's consolidated financial
+statements.
+
+         BULK ALCOHOL PRODUCTS. The Company produces and sells citrus brandy,
+citrus spirits, rum, cane spirits and fortified citrus wine in the United States
+and internationally. The Company also purchases distilled products for resale,
+including grain alcohol, which is denatured and packaged and sold as industrial
+alcohol to hospitals, universities, fragrance producers and other manufacturers.
+The Company is the largest supplier of citrus brandy, bulk rum and fortified
+citrus wine in the United States. The Company sells its bulk alcohol products to
+over 40 producers of beverage alcohol in the United States and exports products
+to approximately 10 foreign countries. The Company's distilling operations
+produce a byproduct, which is sold as animal feed.
+
+         Citrus brandy and spirits are distilled from citrus juice byproducts
+purchased from manufacturers of citrus juice concentrate. The Company's citrus
+brandy is used primarily as an ingredient in flavored brandies. Citrus spirits
+are used primarily as a fortifying ingredient to increase the alcohol content of
+the Company's citrus wine and the wine of other manufacturers. The Company's
+citrus wine is fermented from citrus juice and fortified with citrus spirits to
+increase its alcohol content to approximately 20% by volume. Known as fortified
+citrus wine, this product is used primarily as an ingredient in cordials,
+whiskies and other beverage alcohol. Rum and cane spirits are distilled from
+sugar cane molasses and are sold to other bottlers of rum, producers of beverage
+alcohol, food companies and flavor manufacturers. Rum is also used in the
+Company's premium branded spirits and bottling operations.
+
+         Management believes that the Company's proximity to raw materials and
+its use of citrus byproducts in the production of bulk alcohol provide it with
+cost advantages over competitors' products. Because end products are taxed on a
+blended rate based upon the ingredients used rather than on the resulting
+alcohol content of the end product, beverage alcohol producers can lower excise
+taxes on their products by substituting fortified citrus wine for distilled
+spirits alternatives. This cost savings arises because fortified citrus wine is
+currently subject to federal excise taxes of $1.57 per gallon, whereas distilled
+spirits are taxed at $13.50 per proof gallon (one proof gallon is approximately
+equivalent in alcohol content to two and one-half gallons of fortified citrus
+wine). The ability of beverage alcohol producers to substitute fortified citrus
+wine for distilled spirits varies by end product in accordance with government
+regulations. For example, fortified citrus wine may contribute up to 49% of the
+alcohol content of cordials and liqueurs, and up to approximately 10% of the
+alcohol content of Canadian whiskey. In addition, small quantities of fortified
+citrus wine may be used in blended whiskey, rum, brandy and other types of
+beverage alcohol.
+
+         PREMIUM BRANDED SPIRITS. The Company's principal premium brands include
+Cruzan Estate Rums and Cruzan Flavored Rums. The Company produces, bottles,
+imports, develops and markets a line of premium branded spirits in the United
+States and exports to countries in Europe, Central America and the Caribbean.
+Since 1996, the Company has established and strengthened relationships with
+wholesalers, expanded its distribution network, developed new products, obtained
+agency agreements and acquired management and marketing expertise. Management's
+strategy has been to focus on marketing and building premium brands with an
+initial emphasis on the rum category.
+
+                                        2
+<Page>
+
+         BOTTLING OPERATIONS. The Company's bottling operations include contract
+bottling services and the production, bottling and marketing of a complete line
+of distilled spirits under its own proprietary labels and under the private
+labels of major retailers. The Company's primary bottling operations are located
+in Florida and serve customers in the Southeastern United States. The Company
+also produces and sells proprietary label products in the United States Virgin
+Islands.
+
+         Contract bottling products include distilled spirits, coolers, prepared
+cocktails and fruit juices. The Company's proprietary and private label products
+include rum, gin, vodka, tequila, cordials and various whiskies. The Company's
+proprietary label products are marketed in the popular-price category of the
+distilled spirits market.
+
+         VINEGAR AND COOKING WINE. To complement its distilling, winery and
+bottling operations, the Company produces vinegar, vinegar stock, and cooking
+wine for sale to condiment manufacturers, food service distributors and major
+retailers in the United States and Canada. The Company's sales to retailers are
+made using the Company's proprietary labels and under the retailers' private
+labels.
+
+         CORPORATE OPERATIONS AND OTHER. Corporate Operations and Other includes
+corporate-related items and the results of the Company's Bahamian subsidiary
+through Fiscal 2000, when the Company sold all of the subsidiary's remaining
+operating assets.
+
+DEPENDENCE ON MAJOR CUSTOMERS
+
+         The Company sells its bulk alcohol products to over 40 producers of
+beverage alcohol in the United States and exports to approximately 10 foreign
+countries. The Company's contract bottling services and proprietary and private
+label products are sold to a limited number of customers. The Company's vinegar
+and cooking wine are sold to over 700 condiment manufacturers, food service
+distributors and retailers. The Company has major customers in its bulk alcohol
+products and bottling operations businesses; the loss of one or more of these
+major customers could have a material adverse effect on the Company's liquidity
+and results of operations.
+
+PRODUCTION
+
+         The Company's principal domestic production facilities are located in
+Lake Alfred and Auburndale, Florida, both near Orlando and central to Florida's
+citrus growing region. The two plants have similar distilling, bottling and
+winery operations, allowing the Company to shift production from one plant to
+the other. The Lake Alfred plant also has a vinegar production facility. Both
+plants are near major highways and are serviced by a railroad, providing good
+transportation access. The Company has a cold storage, warehousing and plastic
+bottle manufacturing facility in Winter Haven, Florida. The Company also
+operates a winery and vinegar production facility in Louisville, Kentucky. The
+Company's rum production facilities are located in St. Croix, United States
+Virgin Islands.
+
+         DISTILLING. The Company begins its distilling process with citrus or
+cane molasses, which is fermented for approximately two to four days. Once
+fermented, the product has an average alcohol content of 9% by volume, which is
+increased to approximately 95% through distillation. The alcohol is then
+processed through rectifying columns and further refined. The finished product
+is stored in stainless steel tanks, except for rum, which is generally stored in
+wooden barrels for aging purposes. The Lake Alfred, Auburndale and Virgin
+Islands facilities can produce, on a combined basis, up to 23 million gallons of
+distilled products per year.
+
+         WINERY. Wine is produced by the fermentation of citrus or grape juice.
+After fermentation, the wine is fortified by the addition of distilled citrus
+spirits to raise its alcohol content to approximately 20% by volume. Fortified
+citrus wine is sold to producers of beverage alcohol. The wineries are
+physically segregated from the distilling operations and have their own sets of
+fermenting and storage tanks. The Lake Alfred, Auburndale and Louisville
+facilities can produce, on a combined basis, up to 30 million gallons of wine
+per year.
+
+         BOTTLING. The Lake Alfred and Auburndale plants both have automated,
+high-speed bottling lines capable of filling up to 600 12-ounce containers per
+minute. The Lake Alfred plant has two lines that are used primarily to bottle
+vinegar, cooking wine and juices, two lines that are used to bottle proprietary
+and private label products and
+
+                                        3
+<Page>
+
+one line to bottle premium branded spirits. The Auburndale plant has two lines
+that are dedicated to bottling coolers and prepared cocktails and three lines
+that bottle proprietary and private label products and premium branded spirits.
+The Company's warehouse storage areas can accommodate up to 1,000,000 cases. The
+Company's plant in the Virgin Islands has one line capable of bottling up to
+250,000 cases per year. The Company distills and ages its own rum, but generally
+produces its other proprietary and private label products from alcohol purchased
+from third parties. Depending on the particular formula for a product, the
+Company adds flavoring and/or sugar, reduces the product's proof and then
+filters and bottles the finished product. The Company's bottling capacity is
+approximately 10 million cases per year.
+
+         VINEGAR AND COOKING WINE. Vinegar is produced by converting alcohol
+into acetic acid. Several varieties of vinegar, including white distilled, red
+wine, white wine, corn, rice wine, malt, balsamic and apple cider, are produced
+at the Lake Alfred and Louisville facilities, which have a combined capacity of
+10 million grain gallons per year. Cooking wine is produced by the controlled
+fermentation of red or white grape juice into wine. Several varieties of cooking
+wine, including red, white, sherry, golden, marsala and chablis, are produced at
+the Lake Alfred, Auburndale and Louisville facilities.
+
+         QUALITY CONTROL. Each of the Company's facilities is equipped with a
+quality control laboratory. The Company employs several chemists who continually
+test to ensure the quality of raw materials and end products.
+
+         RAW MATERIALS. The principal raw materials used in the Company's
+distilling operations are citrus molasses, a byproduct of citrus juice
+production, and cane molasses, a byproduct of sugar production. Citrus molasses,
+which is used in the production of citrus brandy and citrus spirits, accounted
+for approximately 54% of the raw materials used in the Company's distilling
+operations in Fiscal 2002. Cane molasses, which is used in the production of rum
+and cane spirits, accounted for the remaining 46%. Citrus juice concentrate is
+the primary raw material used in the Company's winery operations. The Company
+purchases such raw materials from a variety of suppliers. The Company purchases
+distilled products, used in its bulk alcohol products and bottling operations
+businesses, from several suppliers. Glass bottles and other materials, such as
+caps, labels and cardboard cartons, are used in bottling and packaging and are
+available from numerous suppliers. Alcohol and grape juice concentrate are the
+primary raw materials used in the Company's vinegar and cooking wine operations.
+During Fiscal 2002, two suppliers each accounted for more than 10% of all of the
+Company's raw material purchases. The cost of raw materials fluctuates depending
+upon a number of factors, including crop conditions, weather, governmental
+programs and purchases by foreign governments.
+
+FLUCTUATIONS IN OPERATING RESULTS; SEASONALITY
+
+         The size and timing of purchase orders and product shipments can cause
+operating results to fluctuate significantly from quarter to quarter,
+particularly since some customers purchase bulk alcohol products in significant
+quantities or place significant orders for contract bottling services, distilled
+spirits, vinegar and cooking wine. Additionally, some Company products generate
+higher profit margins than others, and changes in the Company's product mix will
+therefore cause gross margins to fluctuate. Certain aspects of the Company's
+business are also seasonal, with increased demand for the Company's contract
+bottling services from April to October and increased production of the
+Company's bulk alcohol products from November to June, corresponding to the
+Florida citrus harvest. As a result of these factors, the Company's operating
+results may vary significantly from quarter to quarter.
+
+MARKETING AND DISTRIBUTION
+
+         Bulk alcohol products are sold primarily in large quantities through
+Company-employed salespeople. The Company's marketing strategy emphasizes the
+cost advantages of these products over other ingredients available to end
+producers. Bulk alcohol products are sold primarily to other bottlers,
+distillers and end producers located throughout the United States and Canada.
+
+         The Company produces, imports, markets and sells premium branded
+spirits to wholesalers in the United States and internationally. The Company's
+marketing and promotional programs for its premium brands are directed at
+consumers, retailers and wholesalers. The Company sells proprietary and private
+label spirits to wholesalers for distribution primarily in the Southeastern
+United States. The Company's marketing strategy for these products places
+primary emphasis upon promotional programs emphasizing the Company's cost
+advantages, directed at wholesalers and retailers, rather than consumers.
+Wholesalers market these products to retailers who then market them directly to
+consumers. Although competition for retail shelf space in the beverage alcohol
+industry is significant, wholesalers
+
+                                        4
+<Page>
+
+of such products, and not the Company, generally must address such competition,
+although the Company's promotional programs may affect the allocation of retail
+shelf space for its products. Sales of the Company's premium branded spirits and
+proprietary and private label products are generally made FOB (free on board) at
+the Company's facilities and, accordingly, the purchasers of such products are
+responsible for the risk of loss and transportation costs. In addition to its
+own salesforce, the Company works through various brokers to develop and service
+its sales to wholesalers and retailers.
+
+         The Company's marketing strategy with respect to its contract bottling
+services emphasizes the cost advantages and quality of the Company's services.
+Arrangements with bottling customers are typically negotiated by the Company's
+executive officers.
+
+         Vinegar and cooking wine are sold primarily in large quantities to
+manufacturers, distributors and retailers through the Company's own salesforce.
+These products are also sold through wholesalers and directly to retailers under
+the Company's proprietary labels and under the private labels of retailers.
+
+COMPETITION
+
+         The areas of the beverage alcohol industry in which the Company does
+business are highly competitive with respect to price, service and product
+quality, and there are several companies with substantially greater financial
+and other resources than the Company. The Company's citrus-based bulk alcohol
+products compete primarily with producers of grape-based products. While the
+Company is aware of only two other domestic producers of citrus brandy and
+spirits, there are several producers of grape-based distilled products. The
+Company's proprietary and private label products and premium branded spirits
+compete on a regional and national basis against other distilled spirits
+products, including premium labels, mid-price and popular-price products. The
+proprietary label and premium branded spirits produced by the Company compete
+with those of companies for whom the Company performs contract bottling services
+and to whom the Company sells its bulk alcohol products. The Company believes
+that its relationships with its customers are good, and it has not experienced
+any adverse effects, such as termination or non-renewal of ongoing contracts, as
+a result of competition. In addition, the Company does not expect to experience
+any material adverse effects from such competition in the foreseeable future.
+Contract bottling operations compete against other bottlers located throughout
+the Southeastern United States. The Company experiences similar competition in
+its vinegar and cooking wine operations. While Management believes that it has
+achieved a strong competitive position in the markets it serves, there can be no
+assurance that the Company will be able to maintain its competitive position in
+the future.
+
+REGULATION AND TAXATION
+
+         Producing, importing and selling wine and spirits is subject to
+extensive regulation by certain federal and state agencies, and the Company is
+required to obtain various permits, bonds and licenses to comply with these
+regulations. Pursuant to federal and state environmental requirements, the
+Company is required to obtain permits and licenses to operate certain
+facilities, and to treat and remove effluents discharged from its distilling,
+winery and bottling operations. Management believes it is presently in material
+compliance with all applicable federal and state regulations.
+
+         Beverage alcohol produced and bottled by the Company is subject to
+substantial federal excise taxes. As of September 30, 2002, excise taxes were
+being imposed at flat rates of $13.50 per proof gallon for distilled spirits and
+$1.57 per gallon for fortified wine.
+
+         The Company's fortified wine products, as an ingredient of beverage
+alcohol, have a cost advantage under the component method of taxation, which
+taxes wine at a lower rate than distilled spirits. Changes in, or the
+elimination of, the component method of taxation, as it relates to wine, would
+have a material adverse effect on the Company's results of operations.
+
+EMPLOYEES
+
+         As of September 30, 2002, the Company had approximately 420 full-time
+employees. Additional workers are generally employed at the Company's bottling
+facilities during the summer months, when the bulk of contract bottling takes
+place. None of the Company's employees is a member of any labor union nor are
+there any collective bargaining agreements between the Company and its
+employees, with the exception of 36 of the Company's 55 Virgin Islands
+
+                                        5
+<Page>
+
+employees. Management believes that its relations with its employees are good.
+
+INFORMATION ABOUT FOREIGN AND DOMESTIC OPERATIONS AND EXPORT SALES
+
+         The Company has facilities in Florida and Kentucky for the production
+of its bulk alcohol products, premium branded spirits, contract bottling
+services, vinegar and cooking wine. The Company sells its products and services
+primarily to customers in the United States but also exports certain products to
+foreign countries, primarily in Europe, Canada, Central America and the
+Caribbean. The Company's rum production facilities are located in St. Croix,
+United States Virgin Islands. Rum produced in the Virgin Islands is sold
+primarily to other bottlers of rum, producers of beverage alcohol, food
+companies and flavor manufacturers located in the United States but is also sold
+to foreign countries in the Caribbean, South America and Europe. See Note 13 to
+the Company's consolidated financial statements for additional information about
+the Company's foreign and domestic operations and export sales.
+
+ITEM 2.  PROPERTIES
+
+         The Company owns all of its principal production facilities, including
+all related land, buildings, and equipment. The Lake Alfred facility consists of
+four principal buildings with approximately 250,000 total square feet on 32
+acres. The Auburndale facility consists of three principal buildings with
+approximately 250,000 total square feet on 16 acres. The Louisville facility
+consists of three principal buildings with approximately 60,000 total square
+feet on 27.5 acres. The Winter Haven facility consists of five principal
+buildings with approximately 260,000 total square feet on 30 acres. The Virgin
+Islands facility consists of seven principal buildings with approximately
+120,000 total square feet on 33 acres. The Company leases approximately 10,000
+square feet of office space in West Palm Beach, Florida for its executive
+offices. Management believes that all of its facilities, both owned and leased,
+are adequate and suitable for operations in the foreseeable future. However,
+management may undertake the expansion of certain facilities from time to time
+in the ordinary course of business.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         The Company and its subsidiaries are subject to litigation from time to
+time in the ordinary course of business. None of these routine legal proceedings
+are material.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         No matters were submitted to security holders during the fourth quarter
+of Fiscal 2002.
+
+                                        6
+<Page>
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+         The Company's Common Stock trades on the American Stock Exchange under
+the symbol "THT." The following table sets forth the high and low closing
+quotations of the Company's Common Stock for each quarter during the past two
+fiscal years.
+
+<Table>
+<Caption>
+PERIOD                                             HIGH       LOW
+- ------                                             ----       ---
+<S>                                              <C>        <C>
+Fiscal 2001
+  First quarter                                  $   7.19   $   5.38
+  Second quarter                                     9.95       6.94
+  Third quarter                                      9.05       7.80
+  Fourth quarter                                     9.15       7.70
+Fiscal 2002
+  First quarter                                      8.75       8.30
+  Second quarter                                     9.60       8.75
+  Third quarter                                     12.00       9.50
+  Fourth quarter                                    10.90      10.20
+</Table>
+
+         The number of stockholders of record as of December 5, 2002 was 38. In
+addition, based upon a list of non-objecting beneficial owners, there were at
+least 574 beneficial owners at January 22, 2002.
+
+         No dividends were paid to stockholders during Fiscal 2001 and Fiscal
+2002. The Company intends to continue to retain earnings for use in its business
+and therefore does not anticipate declaring or paying cash dividends in the
+forseeable future. The payment of cash dividends would also require the consent
+of the Company's lender. Also, see "Financial Liquidity and Capital Resources,"
+included in Item 7.
+
+                                        7
+<Page>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The following selected financial data are derived from the Company's
+audited consolidated financial statements. These data are qualified by reference
+to, and should be read in conjunction with, the consolidated financial
+statements and related notes and "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" included elsewhere herein.
+
+<Table>
+<Caption>
+                                                                         YEAR ENDED SEPTEMBER 30,
+                                                                         ------------------------
+                                                       2002          2001          2000          1999          1998
+                                                    ----------    ----------    ----------    ----------    ----------
+                                                                  (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                                 <C>           <C>           <C>           <C>           <C>
+STATEMENTS OF INCOME DATA:
+Net sales                                           $   99,759    $   99,771    $   92,987    $   76,733    $   75,096
+Cost of goods sold                                      68,620        67,688        64,117        53,000        53,006
+                                                    ----------    ----------    ----------    ----------    ----------
+Gross profit                                            31,139        32,083        28,870        23,733        22,090
+Selling, general and administrative expenses            22,539        20,534        17,772        15,023        13,937
+                                                    ----------    ----------    ----------    ----------    ----------
+Operating income                                         8,600        11,549        11,098         8,710         8,153
+Other income (expense):
+  Interest income                                          754           864           901           715           655
+  Interest expense                                      (3,073)       (4,893)       (5,115)       (3,608)       (3,946)
+  Other, net                                               288           244          (178)          181           660
+                                                    ----------    ----------    ----------    ----------    ----------
+Income before income taxes and extraordinary item        6,569         7,764         6,706         5,998         5,522
+Income tax expense                                       1,122         1,561         1,649         1,458           808
+                                                    ----------    ----------    ----------    ----------    ----------
+Income before extraordinary item                         5,447         6,203         5,057         4,540         4,714
+Extraordinary item, net of income tax benefit                -             -        (1,169)            -             -
+                                                    ----------    ----------    ----------    ----------    ----------
+Net income                                          $    5,447    $    6,203    $    3,888    $    4,540    $    4,714
+                                                    ==========    ==========    ==========    ==========    ==========
+
+Net income per share
+  Basic
+    Income before extraordinary item                $     0.99    $     1.12    $     0.92    $     0.91    $     0.95
+    Extraordinary item                                       -             -         (0.21)            -             -
+                                                    ----------    ----------    ----------    ----------    ----------
+      Net income                                    $     0.99    $     1.12    $     0.71    $     0.91    $     0.95
+                                                    ==========    ==========    ==========    ==========    ==========
+
+  Diluted
+    Income before extraordinary item                $     0.97    $     1.12    $     0.91    $     0.91    $     0.95
+    Extraordinary item                                       -             -         (0.21)            -             -
+                                                    ----------    ----------    ----------    ----------    ----------
+      Net income                                    $     0.97    $     1.12    $     0.70    $     0.91    $     0.95
+                                                    ==========    ==========    ==========    ==========    ==========
+Weighted average shares outstanding
+  Basic                                                  5,527         5,514         5,514         4,964         4,950
+  Diluted                                                5,624         5,527         5,550         4,982         4,985
+BALANCE SHEET DATA (AT PERIOD END):
+Working capital                                     $   55,315    $   51,889    $   40,372    $   36,246    $   37,807
+Total assets                                           137,883       133,588       126,548        97,167        96,997
+Short-term debt                                          4,000         4,000         8,000         6,000         1,888
+Long-term debt                                          53,017        55,685        51,334        28,000        42,581
+Stockholders' equity                                    67,069        61,221        54,841        51,193        41,004
+</Table>
+
+                                        8
+<Page>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+INTRODUCTION
+
+         Management's discussion and analysis of financial condition and results
+of operations contains "forward-looking statements." See "Introductory Note" on
+page 1.
+
+         The following discussion and analysis summarizes the significant
+factors affecting (i) consolidated results of operations of the Company for
+Fiscal 2002 compared to Fiscal 2001, and Fiscal 2001 compared to Fiscal 2000,
+and (ii) financial liquidity and capital resources for Fiscal 2002. This
+discussion and analysis should be read in conjunction with the Company's
+consolidated financial statements and notes thereto included herein. Certain
+amounts presented in this Item 7 have been rounded to the nearest thousand and
+hundred thousand, as applicable, but the percentages are based on actual amounts
+without rounding.
+
+         The Company operates primarily in the beverage alcohol industry in
+the United States. The Company reports its operating results in five
+segments: Bulk Alcohol Products (citrus brandy, citrus spirits, rum, cane
+spirits, fortified citrus wine, purchased distilled products and byproducts);
+Premium Branded Spirits (primarily Cruzan Estate Rums and Cruzan Flavored
+Rums); Bottling Operations (contract bottling services and proprietary and
+private label products); Vinegar and Cooking Wine (bulk vinegar, bulk cooking
+wine, vinegar stock and proprietary and private label case goods); and
+Corporate Operations and Other (primarily corporate related items).
+
+         Information regarding net sales, operating income (loss) and total
+assets of each of the Company's business segments and information regarding
+geographic areas is set forth in Note 13 to the Company's consolidated financial
+statements located in Item 8 of this Annual Report on Form 10-K.
+
+         The following tables set forth statement of income items as a
+percentage of net sales and information on net sales of certain Company
+products.
+
+<Table>
+<Caption>
+                                                          YEAR ENDED SEPTEMBER 30,
+                                                          ------------------------
+                                                       2002         2001         2000
+                                                     --------     --------     --------
+<S>                                                     <C>          <C>          <C>
+Net sales                                               100.0%       100.0%       100.0%
+Cost of goods sold                                       68.8         67.8         69.0
+                                                     --------     --------     --------
+Gross margin                                             31.2         32.2         31.0
+Selling, general and administrative expenses             22.6         20.6         19.1
+                                                     --------     --------     --------
+Operating income                                          8.6         11.6         11.9
+Other income (expense), net                              (2.0)        (3.8)        (4.7)
+                                                     --------     --------     --------
+Income before income taxes and extraordinary item         6.6          7.8          7.2
+Income tax expense                                       (1.1)        (1.6)        (1.8)
+                                                     --------     --------     --------
+Income before extraordinary item                          5.5          6.2          5.4
+Extraordinary item                                          -            -         (1.2)
+                                                     --------     --------     --------
+Net income                                                5.5%         6.2%         4.2%
+                                                     ========     ========     ========
+</Table>
+
+<Table>
+<Caption>
+                                                         YEAR ENDED SEPTEMBER 30,                % CHANGE
+                                                         ------------------------            ------------------
+                                                        2002        2001        2000         02/01        01/00
+NET SALES                                                     (IN THOUSANDS)
+<S>                                                  <C>         <C>         <C>             <C>         <C>
+Bulk alcohol products                                $  35,447   $  39,727   $  37,457       (10.8)         6.1
+Premium branded spirits                                 24,698      18,547      16,119        33.2         15.1
+Bottling operations                                     18,661      20,644      16,823        (9.6)        22.7
+Vinegar and cooking wine                                20,953      20,853      20,477         0.5          1.8
+Corporate operations and other                               -           -       2,111           -       (100.0)
+                                                     ---------   ---------   ---------
+                                                     $  99,759   $  99,771   $  92,987         0.0          7.3
+                                                     =========   =========   =========
+</Table>
+
+                                        9
+<Page>
+
+The following table provides unit sales volume data for certain Company
+products.
+
+<Table>
+<Caption>
+                                                     YEAR ENDED SEPTEMBER 30,       % CHANGE
+                                                     ------------------------   ----------------
+                                                      2002     2001     2000     02/01     01/00
+                                                     ------   ------   ------   ------     -----
+                                                          (IN THOUSANDS)
+<S>                                                  <C>      <C>      <C>       <C>       <C>
+Bulk alcohol products:
+  Distilled products, in proof gallons
+    Citrus brandy                                     1,170    1,450    1,446    (19.3)      0.3
+    Citrus spirits                                      504      560      621     (9.9)     (9.9)
+    Rum                                               4,413    4,672    4,557     (5.5)      2.5
+    Cane spirits                                        605      581      531      4.0       9.5
+  Fortified citrus wine, in gallons                  10,072   11,736   10,999    (14.2)      6.7
+Premium branded spirits, in cases                       587      355      289     65.2      22.9
+Bottling operations, in cases                         5,571    6,346    4,342    (12.2)     46.2
+Vinegar
+  Bulk, in 100 grain gallons                          5,453    6,217    5,175    (12.3)     20.1
+  Cases                                                 667      671      612     (0.7)      9.6
+  Drums, in 100 grain gallons                         1,733    1,143    1,510     51.6     (24.3)
+Cooking Wine
+  Bulk, in gallons                                    3,113    2,838    2,385      9.7      19.0
+  Cases                                                 648      750      692    (13.6)      8.3
+</Table>
+
+         The Company is a leading producer and supplier of brandy, rum, wine and
+spirits to other beverage alcohol manufacturers; produces, imports and markets
+premium branded spirits; bottles beverage alcohol and other beverages on a
+contract basis and under its own labels; and produces vinegar and cooking wine.
+
+         The Company's net sales and gross margins (gross profit as a percentage
+of net sales) vary depending on the mix of business among the Company's
+products. Historically, gross margins have been highest in bulk alcohol products
+and premium branded spirits and lower in bottling operations and vinegar and
+cooking wine operations. Within its bottling operations, sales and gross margins
+have varied substantially based upon the mix of business from the Company's
+"Type A" and "Type B" bottling customers. Type A bottling customers pay the
+Company to purchase their raw materials and these costs are passed through to
+the customer. Type B bottling customers supply their own raw materials and are
+only charged for bottling charges. Although gross profit per case for the
+Company's Type A and Type B bottling customers is approximately equal, given the
+same case volume, net sales and cost of goods sold with respect to products
+bottled for Type A bottling customers are higher, and gross margins are lower,
+than for Type B bottling customers. As a result, significant fluctuations in
+volume of Type A bottling customers can distort the Company's gross margin.
+
+         The size and timing of purchase orders and product shipments can cause
+operating results to fluctuate significantly from quarter to quarter,
+particularly since some customers purchase bulk alcohol products in significant
+quantities or place significant orders for contract bottling services, distilled
+spirits, vinegar and cooking wine. Additionally, some Company products generate
+higher profit margins than others, and changes in the Company's product mix will
+therefore cause gross margins to fluctuate. Certain aspects of the Company's
+business are also seasonal, with increased demand for the Company's contract
+bottling services from April to October and increased production of the
+Company's bulk alcohol products from November to June, corresponding to the
+Florida citrus-harvest. As a result of these factors, the Company's operating
+results may vary significantly from quarter to quarter.
+
+         Net sales represent the Company's gross sales less excise taxes. Excise
+taxes are generally payable on products bottled by the Company. In addition,
+excise taxes are payable on sales of industrial alcohol to certain customers.
+Accordingly, excise taxes vary from period to period depending upon the
+Company's product and customer mix.
+
+                                       10
+<Page>
+
+RESULTS OF OPERATIONS
+
+FISCAL 2002 COMPARED TO FISCAL 2001
+
+         NET SALES. Net sales were $99.8 million in 2002 and 2001.
+
+         Net sales of bulk alcohol products were $35.4 million in 2002, a
+decrease of 10.8% from net sales of $39.7 million in 2001. The decrease resulted
+primarily from decreased sales of citrus brandy, citrus spirits, rum and
+fortified wine. The Company's bulk alcohol product sales have declined primarily
+due to increased competition.
+
+         Net sales of premium branded spirits were $24.7 million in 2002, an
+increase of 33.2% from net sales of $18.5 million in 2001. In 2002, net sales of
+premium branded spirits included $1.9 million of bulk tequila sales and $1.5
+million of new Cruzan ready-to-drink products. Bulk tequila sales represent the
+liquidation of inventory that was held to produce Porfidio tequila. During the
+third quarter of 2002, the Company introduced a new line of Cruzan products in
+the ready-to-drink category, sales of which are included in the Company's
+premium branded spirits segment. The Company sold approximately 134,000 cases of
+this new product, representing net sales of $1.5 million through September 30,
+2002. Sales of the Company's Cruzan ready-to-drink products are highly seasonal
+and there can be no assurance that sales of these products will continue at this
+level in the future. In addition, due to more competition within the
+ready-to-drink product category, the gross margin on the Cruzan ready-to-drink
+products is lower than other premium branded spirits in this segment. The
+Company is repositioning its Cruzan ready-to-drink products for the 2003
+spring/summer season and is pursuing opportunities in the export market.
+Excluding bulk tequila and Cruzan ready-to-drink product sales, net sales of
+premium branded spirits were $21.2 million in 2002, an increase of 20.1% from
+net sales of $17.6 million in 2001.
+
+         Sales of the Company's Cruzan Estate Rums and Cruzan Flavored Rums
+increased $0.8 million and $4.4 million, or 19.1% and 51.2%, respectively, in
+2002 compared to 2001. These sales increases were partially offset by a decrease
+in sales of Porfidio tequila. Sales of Porfidio tequila were $1.5 million in
+2001. However, the decrease in sales of Porfidio tequila has not had a material
+adverse effect on the Company's consolidated results of operations.
+
+         Net sales of the Company's bottling operations were $18.7 million in
+2002, a decrease of 9.6% from net sales of $20.6 million in 2001. The unit
+volume of the Company's bottling operations decreased 12.2% in 2002 as a result
+of decreased business with a large bottling customer. In addition, during 2002
+the Company lost a contract bottling customer that represented approximately 48%
+of its 2002 unit volume in bottling operations. Management believes that this
+loss in volume will be partially offset by increased business with new and
+existing customers and that total bottling operations volume may decline by
+approxiately 25% in 2003.
+
+         Net sales of vinegar and cooking wine were $21.0 million in 2002, an
+increase of 0.5% from net sales of $20.9 million in 2001.
+
+         GROSS PROFIT. Gross profit was $31.1 million in 2002, a decrease of
+2.9% from gross profit of $32.1 million in 2001. Gross margin decreased to 31.2%
+in 2002 from 32.2% in 2001. The decrease in gross margin was primarily
+attributable to a change in product mix as the unit volume of higher margin bulk
+alcohol products declined.
+
+         SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Selling, general and
+administrative expenses were $22.5 million in 2002, an increase of 9.8% from
+$20.5 million in 2001. Effective October 1, 2001, the Company adopted SFAS
+142, which requires that goodwill and certain other intangible assets no
+longer be amortized. There was no goodwill amortization in 2002 compared to
+$1.3 million in 2001. Excluding goodwill amortization in 2001, selling,
+general and administrative expenses were $22.5 million in 2002, an increase
+of 17.1% from $19.2 million in 2001. The increase was primarily attributable
+to increased selling, general and administrative expenses related to the
+Company's premium branded spirits business of $1.9 million, which included
+increased marketing expenses of $1.1 million and $0.3 million of
+non-recurring legal expenses, and increased corporate overhead of $1.0
+million, which included increases in insurance, personnel costs and $0.4
+million of non-recurring taxes and forfeitures related to the BATF settlement
+with respect to export shipments of bulk alcohol products (see Note 21 to the
+consolidated financial statements).
+
+         OPERATING INCOME. The following table sets forth the operating income
+(loss) by operating segment of the Company for 2002 and 2001 and the percent
+change for the periods.
+
+                                       11
+<Page>
+
+<Table>
+<Caption>
+                                                      YEAR ENDED SEPTEMBER 30,
+                                                      ------------------------
+                                                        2002           2001          % CHANGE
+                                                        ----           ----          --------
+                                                          (IN THOUSANDS)
+<S>                                                   <C>           <C>               <C>
+Bulk Alcohol Products                                 $   10,539    $   12,781        (17.5)
+Premium Branded Spirits                                     (331)         (840)           -
+Bottling Operations                                          129           221        (41.4)
+Vinegar and Cooking Wine                                   4,602         4,739         (2.9)
+Corporate Operations and Other                            (6,339)       (5,352)           -
+                                                      ------------------------
+                                                      $    8,600    $   11,549        (25.5)
+                                                      ========================
+</Table>
+
+As a result of the above factors, operating income was $8.6 million in 2002, a
+decrease of 25.5% from operating income of $11.5 million in 2001.
+
+         The Company's premium branded spirits segment experienced operating
+losses of $331,000 in 2002 and $840,000 in 2001. The operating losses
+reflected the Company's continuing efforts to increase market share by
+reinvesting segment gross profits in selling and marketing expenses, as well
+as legal expenses and decreased sales of Porfidio tequila discussed above.
+
+         INTEREST EXPENSE. Interest expense was $3.1 million in 2002 and $4.8
+million in 2001. The decrease in interest expense was due to a lower average
+debt level and lower interest rates during 2002 compared to 2001.
+
+         INCOME TAX EXPENSE. The Company's effective income tax rate was 17.1%
+in 2002 and 20.1% in 2001. The low tax rate was attributable to a 90% exemption
+of the Company's Virgin Islands subsidiary from U.S. Virgin Islands income
+taxes. The exemption is effective through September 2020 (see Note 10 to the
+Consolidated Financial Statements). In addition, in 2002 and 2001 the Company
+benefited from the new Extraterritorial Income Exclusion.
+
+FISCAL 2001 COMPARED TO FISCAL 2000
+
+         NET SALES. Net sales were $99.8 million in 2001, an increase of 7.3%
+from net sales of $93.0 million in 2000.
+
+         Net sales of bulk alcohol products were $39.7 million in 2001, an
+increase of 6.1% from net sales of $37.5 million in 2000. The increase resulted
+primarily from increased sales of wine products due to the Monarch Acquisition.
+Unit sales of citrus spirits decreased 9.9% and unit sales of wine products
+increased 6.7% in 2001 compared to 2000. These changes resulted from the Monarch
+Acquisition, as Monarch was a major purchaser of the Company's citrus spirits
+for use in producing fortified citrus wine.
+
+         Net sales of premium branded spirits were $18.5 million in 2001, an
+increase of 15.1% from net sales of $16.1 million in 2000. This increase
+reflected the continued success of the Company's Cruzan Estate Rums and
+Cruzan Flavored Rums. Sales of the Company's Cruzan Estate Rums and Cruzan
+Flavored Rums increased 13.8% and 59.6%, respectively, in 2001 compared to
+2000. The strong sales increases in Cruzan Estate Rums and Cruzan Flavored
+Rums were partially offset by a decrease in sales of Porfidio tequila. As of
+September 30, 2001, the Company was out of stock of Porfidio tequila. The
+Company has not received a shipment of Porfidio tequila since March 2001, and
+cannot predict when or whether shipments of Porfidio will resume. During June
+2001, Mexican regulatory authorities alleged that the Porfidio distillery
+violated certain regulations related to the sale of tequila and have
+prohibited the export of Porfidio tequila. The allegations have been denied
+by the Porfidio distillery. In addition, as a result of a trademark dispute
+with the Company, the producer of Antiqueno Aguardiente, one of the Company's
+premium branded spirits products, suspended shipments of the product to the
+Company in June 2001. Sales of the product amounted to $1.6 million in 2001.
+As of November 2001, the Company was out of stock of Antiqueno Aguardiente.
+The Company entered into a settlement agreement with the producer of
+Antiqueno Aguardiente in April 2002. Pursuant to the settlement agreement,
+the Company has been reappointed exclusive U.S. importer of Antiqueno
+Aguardiente for a four-year period. The Company resumed sales of Antiqueno
+Aguardiente in June 2002. Management believes that the decreases in sales of
+Porfidio tequila and Antiqueno Aguardiente have not had, and are not expected
+to have, a material adverse effect on the Company's consolidated results of
+operations.
+
+         Net sales of the Company's bottling operations were $20.6 million in
+2001, an increase of 22.7% from net sales of $16.8 million in 2000. The unit
+volume of the Company's bottling operations increased 46.2% in 2001 as a result
+of a bottling contract with a new customer.
+
+         Net sales of vinegar and cooking wine were $20.9 million in 2001, an
+increase of 1.8% from net sales of $20.5 million in 2000.
+
+                                       12
+<Page>
+
+         GROSS PROFIT. Gross profit was $32.1 million in 2001, an increase of
+11.1% from gross profit of $28.9 million in 2000. Gross margin increased to
+32.2% in 2001 from 31.0% in 2000. The increase in gross margin was primarily
+attributable to a change in product mix as a result of the Monarch Acquisition.
+
+         SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Selling, general and
+administrative expenses were $20.5 million in 2001, an increase of 15.5% from
+$17.8 million in 2000. The increase was primarily attributable to (1) increased
+selling, administrative and marketing expenses related to the Company's premium
+branded spirits business, and (2) increased amortization expense.
+
+         OPERATING INCOME. The following table sets forth the operating income
+(loss) by operating segment of the Company for 2001 and 2000 and the percent
+change for the periods.
+
+<Table>
+<Caption>
+                                                      YEAR ENDED SEPTEMBER 30,
+                                                      ------------------------
+                                                        2002           2001         % CHANGE
+                                                        ----           ----         --------
+                                                           (IN THOUSANDS)
+<S>                                                   <C>           <C>                <C>
+Bulk Alcohol Products                                 $   12,781    $   13,696        (6.7)
+Premium Branded Spirits                                     (840)          120           -
+Bottling Operations                                          221        (1,022)          -
+Vinegar and Cooking Wine                                   4,739         3,673        29.0
+Corporate Operations and Other                            (5,352)       (5,369)          -
+                                                      ----------    ----------
+                                                      $   11,549    $   11,098         4.1
+                                                      ==========    ==========
+</Table>
+
+As a result of the above factors, operating income was $11.5 million in 2001, an
+increase of 4.1% over operating income of $11.1 million in 2000.
+
+         The Company's premium branded spirits segment experienced an operating
+loss of $840,000 in 2001 compared to operating income of $120,000 in 2000. The
+operating loss reflected the Company's continuing efforts to increase market
+share by reinvesting segment gross profits in selling and marketing expenses, as
+well as the decrease in sales of Porfidio tequila discussed above.
+
+         The Company's bottling operations segment reported operating income of
+$221,000 in 2001 compared to an operating loss of $1,022,000 in 2000. The swing
+to profitability reflected volume increases as a result of a new major bottling
+contract.
+
+         INTEREST EXPENSE. Interest expense was $4.9 million in 2001 and $5.1
+million in 2000. The decrease in interest expense was due to lower interest
+rates during 2001 compared to 2000.
+
+         INCOME TAX EXPENSE. The Company's effective income tax rate was
+20.1% in 2001 and 24.6% in 2000. The low tax rate was attributable to a 90%
+exemption of the Company's Virgin Islands subsidiary from U.S. Virgin Islands
+income taxes. The exemption is effective through September 2020 (see Note 10
+to the Consolidated Financial Statements). In addition, in 2001 the Company
+benefited from the new Extraterritorial Income Exclusion.
+
+FINANCIAL LIQUIDITY AND CAPITAL RESOURCES
+
+GENERAL
+
+         The Company's principal use of cash in its operating activities is for
+purchasing raw materials to be used in its manufacturing operations, purchasing
+imported products for its premium branded spirits business and carrying
+inventories and the subsequent receivables. The Company's source of liquidity
+has historically been cash flow from operations and its line of credit. Some of
+the Company's manufacturing operations are seasonal and the Company's borrowings
+on its line of credit vary during the year. For example, the Company uses citrus
+molasses as its primary raw material in the production of citrus brandy and
+spirits at its two Florida distilleries. The Company buys citrus
+
+                                       13
+<Page>
+
+molasses, a byproduct of citrus juice production, from local manufacturers of
+citrus juice and concentrate during the citrus harvest, which generally runs
+from November to June. The Company generally begins purchasing citrus molasses
+in November and builds inventory of citrus brandy and spirits. The Company must
+manufacture and build inventory while raw materials are available due to the
+short life of the citrus molasses it purchases. Another seasonal business of the
+Company is its contract bottling services. Demand for contract bottling services
+is highest from April through October. Management believes that cash provided by
+its operating and financing activities will provide adequate resources to
+satisfy its working capital, liquidity and anticipated capital expenditure
+requirements for both its short-term and long-term capital needs.
+
+OPERATING ACTIVITIES
+
+         Net cash provided by operating activities in 2002 was $12.3 million,
+which resulted from $11.6 million in net income adjusted for noncash items, and
+a $0.7 million net change in operating assets and liabilities.
+
+INVESTING AND FINANCING ACTIVITIES
+
+         Net cash used in investing activities in 2002 was $0.7 million,
+including capital expenditures of $6.0 million partially offset by a net
+redemption of short-term investments of $5.1 million.
+
+         Net cash used in financing activities in 2002 was $3.2 million, which
+resulted primarily from a $1.5 million increase in borrowings under the
+revolving credit facility, offset by $4.2 million of payments on long-term debt
+and $.9 million in refinancing costs.
+
+         In October 2001, the Company's previous long-term debt and line of
+credit were replaced with a $70 million credit agreement between the Company and
+a syndicate of lenders. The current credit agreement consists of (1) a $30
+million revolving credit facility which expires in October 2004, and (2) a term
+loan with an initial amount of $40 million which matures on September 30, 2006.
+See Note 9 to the Company's consolidated financial statements for additional
+information related to the Company's long-term debt.
+
+         The Company's bank debt was $56.5 million as of September 30, 2002, and
+its ratio of total debt to equity was 1.06 to 1.
+
+         The Company's share of the undistributed earnings of its Bahamian and
+Virgin Islands subsidiaries was approximately $7.5 million and $27.9 million,
+respectively, as of September 30, 2002. No provision has been made for taxes
+which would result from the remittance of such undistributed earnings, as the
+Company intends to reinvest these earnings indefinitely. See Note 10 to the
+Company's consolidated financial statements for additional information on income
+taxes related to these subsidiaries.
+
+         Based on current plans and business conditions, management expects that
+its cash and cash equivalents, together with any amounts generated from
+operations and available borrowings, will be sufficient to meet the Company's
+cash requirements for at least the next 12 months.
+
+CRITICAL ACCOUNTING POLICIES
+
+         The Company's significant accounting policies are more fully described
+in Note 1 to the Company's consolidated financial statements located in Item 8
+of this Annual Report on Form 10-K. The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of
+America requires management to make estimates and assumptions that affect the
+reported amounts of assets, liabilities, revenues, and expenses, and the related
+disclosures of contingent assets and liabilities. Actual results could differ
+from those estimates under different assumptions or conditions. The Company
+believes that the following critical accounting policy is subject to estimates
+and judgments used in the preparation of its consolidated financial statements:
+
+         The Company has goodwill and intangible assets associated with business
+acquisitions. The Company reviews these assets for impairment annually and
+whenever an event occurs or circumstances change that would more likely than not
+reduce the fair value of these assets below their carrying value. If the fair
+value of these assets
+
+                                       14
+<Page>
+
+is less than their carrying value, then an impairment loss would be recognized
+equal to the excess of the carrying value over the fair value of the asset.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+         In August 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets." This statement supersedes SFAS No.
+121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be Disposed Of" and the accounting and reporting provisions of
+Accounting Principles Board Opinion No. 30, "Reporting the Results of
+Operations-Reporting the Effects of Disposal of a Segment of a Business, and
+Extraordinary, Unusual and Infrequently Occurring Events and Transactions." SFAS
+No. 144 retains the fundamental provisions of SFAS No. 121 but eliminates the
+requirement to allocate goodwill to long-lived assets to be tested for
+impairment. This statement also requires discontinued operations to be carried
+at the lower of cost or fair value less costs to sell and broadens the
+presentation of discontinued operations to include a component of an entity
+rather than a segment of a business. SFAS No. 144 is effective for fiscal years
+beginning after December 15, 2001, and interim periods within those fiscal
+years, with early application encouraged. The Company does not expect the
+adoption of this statement to have a material impact on its results of
+operations or financial position.
+
+RETIREMENT OF CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+
+         During November 2002, the Company announced the retirement of A.
+Kenneth Pincourt, Jr., its Founder, Chairman and Chief Executive Officer. The
+Company has entered into an agreement with Mr. Pincourt, setting forth the terms
+of his retirement. Under this agreement, the Company elected to accelerate
+retirement benefits and continue to pay compensation and provide related
+benefits through July 15, 2004. The Company will record a charge for these items
+during the first quarter of its 2003 fiscal year. The effect of this charge, net
+of income tax benefits, will be approximately $1 million or $.18 per common
+share. In addition, the Company's majority shareholder, Angostura, Ltd., has
+entered into an agreement with Mr. Pincourt to purchase 595,985 shares of common
+stock.
+
+EFFECTS OF INFLATION AND CHANGING PRICES
+
+         The Company's results of operations and financial condition have not
+been significantly affected by inflation and changing prices. The Company has
+been able, subject to normal competitive conditions, to pass along rising costs
+through increased selling prices.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+<Table>
+<Caption>
+                                                               Market Risk Analysis
+                                                                September 30, 2002
+                                                              Expected Maturity Date
+                     ------------------------------------------------------------------------------------------------------------
+                         2003            2004            2005            2006            2007         Thereafter        Total
+                     ------------    ------------    ------------    ------------    ------------    ------------    ------------
+<S>                  <C>             <C>             <C>             <C>             <C>             <C>             <C>
+Assets
+ Notes receivable:
+  Fixed rate         $    118,165    $    521,768    $  3,432,289    $    100,750    $    109,218    $    195,435    $  4,477,625
+  Average interest
+   rate                      6.40%           6.37%           6.27%           8.12%           8.13%           8.14%           7.24%
+
+Liabilities
+ Long-term debt:
+  Variable rate      $  4,000,000    $ 24,500,000    $  4,000,000    $ 24,517,009    $          -    $          -    $ 57,017,009
+  Average interest
+   rate                      4.57%           5.06%           4.57%           4.70%              -%              -%           4.72%
+
+<Caption>
+                      Market Risk Analysis
+                       September 30, 2002
+                     Expected Maturity Date
+                     ----------------------
+                          Fair Value
+                         ------------
+<S>                      <C>
+Assets
+ Notes receivable:
+  Fixed rate             $  4,619,131
+  Average interest
+   rate                             -
+
+Liabilities
+ Long-term debt:
+  Variable rate          $ 57,017,009
+  Average interest
+   rate                             -
+</Table>
+
+         The Company carries certain variable rate debt and thus is exposed to
+the impact of interest rate changes. The table above summarizes the Company's
+market risk associated with debt obligations as of September 30, 2002.
+
+         In the event of an adverse change in interest rates, management
+would likely take certain actions to further mitigate the Company's exposure.
+However, due to the uncertainty of the actions that would be taken and their
+possible effects, this analysis assumes no such actions. The Company had no
+financial instruments or derivative financial instruments held for trading
+purposes as of September 30, 2002.
+
+                                       15
+<Page>
+
+         See Note 9 to the Company's consolidated financial statements for
+additional information related to Company's financing arrangements.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The consolidated financial statements and financial statement schedules
+of the Company and its subsidiaries, and the report of independent auditors, are
+listed at Item 15.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+         None.
+
+                                       16
+<Page>
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         The information required by Item 10 is incorporated by reference from
+the Company's definitive proxy statement for its 2003 annual stockholders'
+meeting.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         The information required by Item 11 is incorporated by reference from
+the Company's definitive proxy statement for its 2003 annual stockholders'
+meeting.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+                      EQUITY COMPENSATION PLAN INFORMATION
+
+         The following table summarizes information about the Company's equity
+compensation plans as of September 30, 2002. All outstanding awards relate to
+the Company's Common Stock. For additional information about the Company's
+equity compensation plans, see note 12 to our consolidated financial statements.
+
+<Table>
+<Caption>
+                                                                             NUMBER OF SECURITIES
+                             NUMBER OF SECURITIES                           REMAINING AVAILABLE FOR
+                              TO BE ISSUED UPON       WEIGHTED-AVERAGE       FUTURE ISSUANCE UNDER
+                                 EXERCISE OF         EXERCISE PRICE OF     EQUITY COMPENSATION PLANS
+                             OUTSTANDING OPTIONS,   OUTSTANDING OPTIONS,     (EXCLUDING SECURITIES
+      PLAN CATEGORY          WARRANTS AND RIGHTS    WARRANTS AND RIGHTS     REFLECTED IN COLUMN (a))
+- --------------------------   ---------------------  ---------------------  --------------------------
+                                     (a)                    (b)                       (c)
+<S>                                     <C>                       <C>                      <C>
+Equity Compensation                     482,500(2)                8.64(2)                  742,000(2)
+Plans Approved by
+Security Holders(1)
+
+Equity Compensation
+Plans Not Approved by
+Security Holders                         60,000                   9.06                           0
+                             ---------------------  ---------------------  --------------------------
+
+Total                                   542,500(2)                8.69(2)                  742,000(2)
+
+                             ---------------------  ---------------------  --------------------------
+</Table>
+
+- ----------
+
+(1)  All of the shares reported in this row reflect stock options granted under
+     the Company's 1992 Employee Stock Option Plan, as amended.
+
+(2)  During November 2002, the Company announced the retirement of A. Kenneth
+     Pincourt, Jr., its Chairman and Chief Executive Officer. The Company has
+     entered into an agreement with Mr. Pincourt setting forth the terms of his
+     retirement. Under this agreement, all of Mr. Pincourt's options to purchase
+     110,000 shares of Common Stock were canceled. This Equity Compensation Plan
+     Information table does not reflect such cancellation. Were the table to
+     reflect such cancellation as of September 30, 2002, the figures in the
+     "Equity Compensation Plans Approved by Security Holders" row would be:
+     (column (a)) 372,500; (column (b)) $8.13; and (column (c)) 852,000, and the
+     figures under the "Total" row would be: (column (a)) 432,500; (column (b))
+     $8.26; and (column (c)) 852,000.
+
+         The other information required by Item 12 is incorporated by reference
+from the Company's definitive proxy statement for its 2003 annual stockholders'
+meeting.
+
+                                       17
+<Page>
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The information required by Item 13 is incorporated by reference from
+the Company's definitive proxy statement for its 2003 annual stockholders'
+meeting.
+
+ITEM 14. CONTROLS AND PROCEDURES
+
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+
+         Within 90 days prior to the date of this report, management, including
+our Chief Executive Officer and our Chief Financial Officer, carried out an
+evaluation of the effectiveness of the design and operation of our disclosure
+controls and procedures. Based on this evaluation, our Chief Executive Officer
+and our Chief Financial Officer concluded that our disclosure controls and
+procedures are effective in timely alerting them to material information
+required to be included in our periodic SEC reports. It should be noted that the
+design of any system of controls is based in part upon certain assumptions about
+the likelihood of future events, and there can be no assurance that any design
+will succeed in achieving its stated goals under all potential future
+conditions, regardless of how remote.
+
+CHANGES IN INTERNAL CONTROLS
+
+         In addition, management, including our Chief Executive Officer and our
+Chief Financial Officer, reviewed our internal controls, and there have been no
+significant changes in our internal controls or in other factors that could
+significantly affect those controls subsequent to the date of their last
+evaluation.
+
+                                     PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)      Financial Statements and Schedules
+
+         See "Index to Financial Statements and Financial Statement Schedules."
+
+(b)      Reports on Form 8-K
+
+         No reports on Form 8-K were filed during the fourth quarter of Fiscal
+         2002.
+
+         The Company filed a Current Report on Form 8-K dated November 26, 2002.
+         This Form 8-K reported information under Item 5 (Other Events and
+         Required FD Disclosure).
+
+(c)      Exhibits
+
+         See "Index to Exhibits."
+
+                                       18
+<Page>
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, in the City of West
+Palm Beach, State of Florida, on the 12th day of December, 2002.
+
+                                  TODHUNTER INTERNATIONAL, INC.
+
+                                  By:  /s/  Jay S. Maltby
+                                     -------------------------------------
+                                     Jay S. Maltby, Chairman of the Board,
+                                     Chief Executive Officer and President
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<Table>
+         <S>                              <C>                                      <C>
+                                           Chairman of the Board, Chief
+         /s/ Jay S. Maltby                Executive Officer and President          December 12, 2002
+         ----------------------------      (Principal Executive Officer)
+               Jay S. Maltby
+
+         /s/ Troy Edwards                 Treasurer and Chief Financial Officer    December 12, 2002
+         ----------------------------           (Principal Financial
+               Troy Edwards                   and Accounting Officer)
+
+         /s/ Godfrey D. Bain                          Director                     December 12, 2002
+         ----------------------------
+               Godfrey D. Bain
+
+         /s/ Donald L. Kasun                          Director                     December 12, 2002
+         ----------------------------
+               Donald L. Kasun
+
+         /s/ Edward F. McDonnell                      Director                     December 12, 2002
+         ----------------------------
+               Edward F. McDonnell
+
+         /s/ K. Ian McLachlan                         Director                     December 12, 2002
+         ----------------------------
+               K. Ian McLachlan
+
+         /s/ D. Chris Mitchell                        Director                     December 12, 2002
+         ----------------------------
+               D. Chris Mitchell
+
+         /s/ Leonard G. Rogers                        Director                     December 12, 2002
+         ----------------------------
+               Leonard G. Rogers
+
+         /s/ Thomas A. Valdes                         Director                     December 12, 2002
+         ----------------------------
+               Thomas A. Valdes
+</Table>
+
+                                       19
+<Page>
+
+                          CERTIFICATION REQUIRED BY THE
+                             CHIEF EXECUTIVE OFFICER
+            PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Jay S. Maltby, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Todhunter International,
+     Inc.;
+
+2.   Based on my knowledge, this annual report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this annual report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this annual report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+     a)   designed such disclosure controls and procedures to ensure that
+          material information relating to the registrant, including its
+          consolidated subsidiaries, is made known to us by others within those
+          entities, particularly during the period in which this annual report
+          is being prepared;
+
+     b)   evaluated the effectiveness of the registrant's disclosure controls
+          and procedures as of a date within 90 days prior to the filing date of
+          this annual report (the "Evaluation Date"); and
+
+     c)   presented in this annual report our conclusions about the
+          effectiveness of the disclosure controls and procedures based on our
+          evaluation as of the Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent function):
+
+     a)   all significant deficiencies in the design or operation of internal
+          controls which could adversely affect the registrant's ability to
+          record, process, summarize and report financial data and have
+          identified for the registrant's auditors any material weaknesses in
+          internal controls; and
+
+     b)   any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the registrant's internal
+          controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     annual report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+Date:  December 18, 2002
+
+                                           /s/ Jay S. Maltby
+                                         -------------------------------------
+                                         Jay S. Maltby
+                                         Chairman of the Board, Chief Executive
+                                         Officer and President
+
+                                       20
+<Page>
+
+                          CERTIFICATION REQUIRED BY THE
+                             CHIEF FINANCIAL OFFICER
+            PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Troy Edwards, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Todhunter International,
+     Inc.;
+
+2.   Based on my knowledge, this annual report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this annual report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this annual report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+     a)   designed such disclosure controls and procedures to ensure that
+          material information relating to the registrant, including its
+          consolidated subsidiaries, is made known to us by others within those
+          entities, particularly during the period in which this annual report
+          is being prepared;
+
+     b)   evaluated the effectiveness of the registrant's disclosure controls
+          and procedures as of a date within 90 days prior to the filing date of
+          this annual report (the "Evaluation Date"); and
+
+     c)   presented in this annual report our conclusions about the
+          effectiveness of the disclosure controls and procedures based on our
+          evaluation as of the Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent function):
+
+     a)   all significant deficiencies in the design or operation of internal
+          controls which could adversely affect the registrant's ability to
+          record, process, summarize and report financial data and have
+          identified for the registrant's auditors any material weaknesses in
+          internal controls; and
+
+     b)   any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the registrant's internal
+          controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     annual report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+Date:  December 18, 2002
+
+                                              /s/ Troy Edwards
+                                             ----------------------------------
+                                             Troy Edwards
+                                             Chief Financial Officer, Treasurer
+                                             and Controller
+
+                                       21
+<Page>
+
+                          TODHUNTER INTERNATIONAL, INC.
+         INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES
+
+<Table>
+<Caption>
+                                                                                                              PAGE
+                                                                                                              ----
+<S>  <C>                                                                                                        <C>
+a)   Financial Statements
+
+     Independent Auditor's Report                                                                               23
+
+     Consolidated balance sheets as of September 30, 2002 and 2001                                              24
+
+     Consolidated statements of income for the years ended September 30, 2002, 2001 and 2000                    26
+
+     Consolidated statements of stockholders' equity for the years ended September 30, 2002, 2001 and 2000      27
+
+     Consolidated statements of cash flows for the years ended September 30, 2002, 2001 and 2000                29
+
+     Notes to consolidated financial statements                                                                 32
+
+b)   Financial Statement Schedule
+
+     Independent Auditor's Report                                                                               52
+
+     Schedule II Valuation and Qualifying Accounts                                                              53
+</Table>
+
+         All other schedules have been omitted as not required, not applicable,
+         not deemed material or because the information is included in the notes
+         to the Registrant's consolidated finanical statements.
+
+                                       22
+<Page>
+
+                          INDEPENDENT AUDITOR'S REPORT
+
+To the Board of Directors and Stockholders
+Todhunter International, Inc.
+West Palm Beach, Florida
+
+We have audited the accompanying consolidated balance sheets of Todhunter
+International, Inc. and subsidiaries as of September 30, 2002 and 2001, and the
+related consolidated statements of income, stockholders' equity and cash flows
+for each of the three years in the period ended September 30, 2002. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Todhunter
+International, Inc. and subsidiaries as of September 30, 2002 and 2001, and the
+results of their operations and their cash flows for each of the three years in
+the period ended September 30, 2002 in conformity with accounting principles
+generally accepted in the United States of America.
+
+As described in Note 2 to the consolidated financial statements, the Company
+adopted Statement of Financial Accounting Standards No. 142, GOODWILL AND OTHER
+INTANGIBLE ASSETS.
+
+
+                                          /s/ McGladrey & Pullen, LLP
+
+
+West Palm Beach, Florida
+November 26, 2002
+
+                                       23
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+SEPTEMBER 30, 2002 AND 2001
+
+<Table>
+<Caption>
+ASSETS                                                             2002            2001
+- ------                                                         -------------   -------------
+<S>                                                            <C>             <C>
+Current Assets
+  Cash and cash equivalents                                    $  13,946,736   $   5,624,029
+  Short-term investments                                           3,397,033       8,533,851
+  Trade receivables                                               13,505,737      14,719,578
+  Other receivables                                                2,696,743       3,058,471
+  Inventories                                                     27,854,925      27,483,329
+  Notes receivable, current maturities                               118,165         109,770
+  Deferred income taxes                                            1,992,000       1,544,000
+  Other current assets                                             3,078,437       2,311,338
+                                                               -------------   -------------
+        TOTAL CURRENT ASSETS                                      66,589,776      63,384,366
+
+Investments in and Advances to Equity Investees                    1,584,628       1,729,103
+
+Notes Receivable, less current maturities                            584,687         663,785
+
+Notes Receivable From Affiliates, less current maturities          3,774,773       3,560,923
+
+Property and Equipment, less accumulated depreciation
+  2002 $47,590,112; 2001 $43,729,941                              42,185,217      41,468,262
+
+Goodwill                                                          20,524,404      20,524,404
+
+Amortized Intangible Assets                                        2,040,181       1,505,548
+
+Other Assets                                                         598,838         751,773
+                                                               -------------   -------------
+
+                                                               $ 137,882,504   $ 133,588,164
+                                                               =============   =============
+</Table>
+
+See Notes to Consolidated Financial Statements.
+
+                                       24
+<Page>
+
+<Table>
+<Caption>
+LIABILITIES AND STOCKHOLDERS' EQUITY                                          2002              2001
+- ------------------------------------                                     --------------    --------------
+<S>                                                                      <C>               <C>
+Current Liabilities
+  Current maturities of long-term debt                                   $    4,000,000    $    4,000,000
+
+  Accounts payable                                                            4,051,379         5,169,242
+
+  Accrued expenses                                                            3,223,293         2,325,704
+                                                                         --------------    --------------
+
+        TOTAL CURRENT LIABILITIES                                            11,274,672        11,494,946
+
+Long-Term Debt, less current maturities                                      53,017,009        55,684,549
+
+Deferred Income Taxes                                                         4,710,000         3,874,000
+
+Other Liabilities                                                             1,811,459         1,314,036
+                                                                         --------------    --------------
+                                                                             70,813,140        72,367,531
+                                                                         --------------    --------------
+Commitments
+
+Stockholders' Equity
+  Preferred stock, par value $.01 per share; authorized
+    2,500,000 shares, no shares issued                                                -                 -
+  Common stock, par value $.01 per share; authorized
+    10,000,000 shares; issued 2002 5,669,434 and 2001 5,612,934 shares           56,694            56,129
+  Additional paid-in capital                                                 18,664,449        18,326,014
+  Retained earnings                                                          49,086,001        43,639,270
+  Accumulated other comprehensive loss                                                -           (63,000)
+                                                                         --------------    --------------
+                                                                             67,807,144        61,958,413
+  Less cost of 99,200 shares of treasury stock                                 (737,780)         (737,780)
+                                                                         --------------    --------------
+                                                                             67,069,364        61,220,633
+                                                                         --------------    --------------
+                                                                         $  137,882,504    $  133,588,164
+                                                                         ==============    ==============
+</Table>
+
+                                       25
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF INCOME
+YEARS ENDED SEPTEMBER 30, 2002, 2001 AND 2000
+
+<Table>
+<Caption>
+                                                       2002              2001              2000
+                                                  --------------    --------------    --------------
+<S>                                               <C>               <C>               <C>
+Sales                                             $  128,967,429    $  129,553,185    $  123,999,796
+  Less excise taxes                                   29,208,688        29,782,588        31,013,099
+                                                  --------------    --------------    --------------
+        NET SALES                                     99,758,741        99,770,597        92,986,697
+Cost of goods sold                                    68,619,983        67,687,409        64,116,593
+                                                  --------------    --------------    --------------
+        GROSS PROFIT                                  31,138,758        32,083,188        28,870,104
+Selling, general and administrative expenses          22,538,523        20,534,146        17,772,345
+                                                  --------------    --------------    --------------
+        OPERATING INCOME                               8,600,235        11,549,042        11,097,759
+                                                  --------------    --------------    --------------
+Other income (expense):
+  Interest income                                        754,312           863,927           901,285
+  Interest expense                                    (3,072,820)       (4,893,217)       (5,115,911)
+  Equity in income (losses) of equity investees         (144,474)          (10,562)         (297,329)
+  Other, net                                             431,676           254,432           119,833
+                                                  --------------    --------------    --------------
+                                                      (2,031,306)       (3,785,420)       (4,392,122)
+                                                  --------------    --------------    --------------
+        INCOME BEFORE INCOME TAXES
+          AND EXTRAORDINARY ITEM                       6,568,929         7,763,622         6,705,637
+                                                  --------------    --------------    --------------
+Income tax expense (benefit):
+  Current                                                734,198         2,222,052         2,073,878
+  Deferred                                               388,000          (661,000)         (425,000)
+                                                  --------------    --------------    --------------
+                                                       1,122,198         1,561,052         1,648,878
+                                                  --------------    --------------    --------------
+        INCOME BEFORE EXTRAORDINARY ITEM               5,446,731         6,202,570         5,056,759
+Extraordinary item - early extinguishment of
+  debt, net of income tax benefit of $382,075                  -                 -         1,168,790
+                                                  --------------    --------------    --------------
+        NET INCOME                                $    5,446,731    $    6,202,570    $    3,887,969
+                                                  ==============    ==============    ==============
+Net income per common share:
+  Basic:
+    Income before extraordinary item              $         0.99    $         1.12    $         0.92
+    Extraordinary item                                         -                 -             (0.21)
+                                                  --------------    --------------    --------------
+                                                  $         0.99    $         1.12    $         0.71
+                                                  ==============    ==============    ==============
+  Diluted:
+    Income before extraordinary item              $         0.97    $         1.12    $         0.91
+    Extraordinary item                                         -                 -             (0.21)
+                                                  --------------    --------------    --------------
+                                                  $         0.97    $         1.12    $         0.70
+                                                  ==============    ==============    ==============
+Common shares and equivalents outstanding:
+  Basic                                                5,526,781         5,513,734         5,513,734
+                                                  ==============    ==============    ==============
+  Diluted                                              5,624,164         5,527,410         5,550,216
+                                                  ==============    ==============    ==============
+</Table>
+
+See Notes to Consolidated Financial Statements.
+
+                                       26
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+YEARS ENDED SEPTEMBER 30, 2002, 2001 AND 2000
+
+<Table>
+<Caption>
+                                                       Common Stock
+                                               ---------------------------    Additional
+                                                  Shares                       Paid-in
+                                                  Issued         Amount        Capital
+                                               ------------   ------------   ------------
+<S>                                               <C>         <C>            <C>
+Balance, October 1, 1999                          5,612,934   $     56,129   $ 18,326,014
+  Net income                                              -              -              -
+  Unrealized loss on interest rate cap                    -              -              -
+                                               ------------   ------------   ------------
+Balance, September 30, 2000                       5,612,934         56,129     18,326,014
+  Net income                                              -              -              -
+  Net unrealized income on interest rate cap              -              -              -
+                                               ------------   ------------   ------------
+Balance, September 30, 2001                       5,612,934         56,129     18,326,014
+  Issuance of common stock                           56,500            565        338,435
+  Net income                                              -              -              -
+  Net unrealized income on interest rate cap              -              -              -
+                                               ------------   ------------   ------------
+Balance, September 30, 2002                       5,669,434   $     56,694   $ 18,664,449
+                                               ============   ============   ============
+</Table>
+
+See Notes to Consolidated Financial Statements.
+
+                                       27
+<Page>
+
+<Table>
+<Caption>
+                                                                  Accumulated            Treasury Stock
+                                                                     Other       -------------------------------
+                                                  Retained       Comprehensive       Shares
+                                                  Earnings       Income (Loss)      Acquired          Amount
+                                               --------------   --------------   --------------   --------------
+<S>                                            <C>              <C>                      <C>      <C>
+Balance, October 1, 1999                       $   33,548,731   $            -           99,200   $     (737,780)
+  Net income                                        3,887,969                -                -                -
+  Unrealized loss on interest rate cap                      -         (240,500)               -                -
+                                               --------------   --------------   --------------   --------------
+Balance, September 30, 2000                        37,436,700         (240,500)          99,200         (737,780)
+  Net income                                        6,202,570                -                -                -
+  Net unrealized income on interest rate cap                -          177,500                -                -
+                                               --------------   --------------   --------------   --------------
+Balance, September 30, 2001                        43,639,270          (63,000)          99,200         (737,780)
+  Issuance of common stock                                  -                                 -                -
+  Net income                                        5,446,731                -                -                -
+  Net unrealized income on interest rate cap                -           63,000                -                -
+                                               --------------   --------------   --------------   --------------
+Balance, September 30, 2002                    $   49,086,001   $            -           99,200   $     (737,780)
+                                               ==============   ==============   ==============   ==============
+
+<Caption>
+                                                    Total             Total
+                                                Stockholders'     Comprehensive
+                                                   Equity            Income
+                                               --------------    --------------
+<S>                                            <C>               <C>
+Balance, October 1, 1999                       $   51,193,094    $    4,539,936
+  Net income                                        3,887,969         3,887,969
+  Unrealized loss on interest rate cap               (240,500)         (240,500)
+                                               --------------    --------------
+Balance, September 30, 2000                        54,840,563    $    3,647,469
+                                                                 ==============
+  Net income                                        6,202,570    $    6,202,570
+  Net unrealized income on interest rate cap          177,500           177,500
+                                               --------------    --------------
+Balance, September 30, 2001                        61,220,633    $    6,380,070
+                                                                 ==============
+  Issuance of common stock                            339,000
+  Net income                                        5,446,731    $    5,446,731
+  Net unrealized income on interest rate cap           63,000            63,000
+                                               --------------    --------------
+Balance, September 30, 2002                    $   67,069,364    $    5,509,731
+                                               ==============    ==============
+</Table>
+
+                                       28
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEARS ENDED SEPTEMBER 30, 2002, 2001 AND 2000
+
+<Table>
+<Caption>
+                                                           2002             2001             2000
+                                                      -------------    -------------    -------------
+<S>                                                   <C>              <C>              <C>
+Cash Flows From Operating Activities
+  Net income                                          $   5,446,731    $   6,202,570    $   3,887,969
+  Adjustments to reconcile net income
+    to net cash provided by operating activities:
+    Depreciation                                          5,252,962        4,709,087        4,447,504
+    Amortization                                            355,200        1,626,371        1,237,777
+    Equity in losses of equity investees                    144,474           10,562          297,329
+    Deferred income taxes                                   388,000         (661,000)        (425,000)
+    Other                                                   (30,370)           3,191           35,952
+    Changes in assets and liabilities, net of
+      effects of purchases and sales
+      (Increase) decrease in:
+        Receivables                                       1,575,569          450,927       (1,911,422)
+        Inventories                                        (371,596)      (3,953,751)      (1,023,212)
+        Other assets                                       (767,099)         734,049       (1,207,133)
+      Increase (decrease) in:
+        Accounts payable                                 (1,117,863)          92,862         (139,552)
+        Accrued expenses                                    897,589          334,277         (920,201)
+        Other liabilities                                   497,423          130,182          111,892
+                                                      -------------    -------------    -------------
+      NET CASH PROVIDED BY OPERATING ACTIVITIES          12,271,020        9,679,327        4,391,903
+                                                      -------------    -------------    -------------
+Cash Flows From Investing Activities
+  Proceeds from sale of property and equipment               61,088          142,966           63,797
+  Principal payments received on notes receivable           106,853        3,511,912        1,790,095
+  Purchase of property and equipment                     (6,000,633)      (6,634,699)      (5,827,694)
+  Disbursements for notes receivable                       (250,000)          (9,300)        (342,019)
+  Purchase of short-term investments                     (3,397,033)      (8,533,851)      (4,843,348)
+  Redemption of short-term investments                    8,533,851        4,843,348        2,547,365
+  Purchase of Monarch Wine Company                                -                -      (23,761,906)
+  Purchase of minority interest in subsidiary                     -         (671,860)        (100,000)
+  Other                                                     215,934          (72,504)        (409,419)
+                                                      -------------    -------------    -------------
+      NET CASH USED IN INVESTING ACTIVITIES                (729,940)      (7,423,988)     (30,883,129)
+                                                      -------------    -------------    -------------
+</Table>
+
+                                   (Continued)
+
+                                       29
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)
+YEARS ENDED SEPTEMBER 30, 2002, 2001 AND 2000
+
+<Table>
+<Caption>
+                                                           2002             2001             2000
+                                                      -------------    -------------    -------------
+<S>                                                   <C>              <C>              <C>
+Cash Flows From Financing Activities
+  Net borrowings under line of credit arrangements    $   1,500,000    $   6,487,019    $   8,512,981
+  Proceeds from issuance of common stock                    339,000                -                -
+  Purchase of interest rate cap                                   -                -         (250,000)
+  Disbursements for loan costs                             (889,833)        (227,501)        (612,450)
+  Proceeds from long-term borrowings                              -                -       56,947,037
+  Principal payments on long-term borrowings             (4,167,540)      (6,136,694)     (40,125,794)
+                                                      -------------    -------------    -------------
+      NET CASH PROVIDED BY (USED IN)
+        FINANCING ACTIVITIES                             (3,218,373)         122,824       24,471,774
+                                                      -------------    -------------    -------------
+
+      NET INCREASE (DECREASE) IN CASH
+        AND CASH EQUIVALENTS                              8,322,707        2,378,163       (2,019,452)
+
+Cash and cash equivalents:
+  Beginning                                               5,624,029        3,245,866        5,265,318
+                                                      -------------    -------------    -------------
+  Ending                                              $  13,946,736    $   5,624,029    $   3,245,866
+                                                      =============    =============    =============
+
+Supplemental Disclosures of Cash Flow Information
+  Cash payments for:
+    Interest                                          $   2,728,397    $   4,812,818    $   6,158,135
+                                                      =============    =============    =============
+
+    Income taxes                                      $   1,688,788    $   2,465,758    $   1,407,187
+                                                      =============    =============    =============
+
+Supplemental Schedule of Noncash Investing
+  and Financing Activities
+</Table>
+
+                                   (Continued)
+
+                                       30
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)
+YEARS ENDED SEPTEMBER 30, 2002, 2001 AND 2000
+
+<Table>
+<Caption>
+                                                          2002              2001             2000
+                                                      -------------    -------------    -------------
+<S>                                                   <C>              <C>              <C>
+Supplemental Schedule of Noncash Investing
+  and Financing Activities, continued
+  Acquisition of Monarch Wine Company:
+    Cash purchase price                               $           -    $           -    $  23,761,906
+                                                      =============    =============    =============
+
+  Working capital acquired                            $           -    $           -    $   2,006,792
+  Goodwill                                                        -                -       22,528,351
+  Operating lease on plant facility assumed,
+    such facility was abandoned                                   -                -         (773,237)
+                                                      -------------    -------------    -------------
+
+                                                      $           -    $           -    $  23,761,906
+                                                      =============    =============    =============
+
+    Sale of Bahamian operations:
+      Notes receivable exchanged for assets           $           -    $           -    $   3,500,000
+                                                      =============    =============    =============
+
+      Accounts receivable                             $           -    $           -    $     215,033
+      Inventory                                                   -                -        1,393,768
+      Property and equipment                                      -                -        1,469,600
+      Other current assets                                        -                -          121,775
+      Other assets                                                -                -          511,958
+      Other current liabilities assumed                           -                -         (133,296)
+      Loss realized                                               -                -          (78,838)
+                                                      -------------    -------------    -------------
+                                                      $           -    $           -    $   3,500,000
+                                                      =============    =============    =============
+
+    Investment in Premier Wines & Spirits, Ltd.
+      for note receivable                             $           -    $           -    $   1,000,000
+                                                      =============    =============    =============
+</Table>
+
+See Notes to Consolidated Financial Statements.
+
+                                       31
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 1.  NATURE OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+
+NATURE OF BUSINESS: Todhunter International, Inc. (the "Company") is a leading
+producer and supplier of brandy, rum, wine and spirits to other beverage alcohol
+manufacturers; produces, imports and markets premium branded spirits; bottles
+beverage alcohol and other beverages on a contract basis and under its own
+labels; and produces vinegar and cooking wine. The Company operates four
+production facilities in the United States and one in St. Croix, United States
+Virgin Islands and purchases products for resale from other producers.
+
+OWNERSHIP: Angostura Limited ("Angostura"), a Trinidad-based distiller, has
+reported that, as a result of open market and private purchases, it
+beneficially owned shares, representing 53.6% of the Company's common stock
+at September 30, 2002.
+
+A summary of the Company's significant accounting policies follows:
+
+   PRINCIPLES OF CONSOLIDATION: The consolidated financial statements include
+   the accounts of Todhunter International, Inc. and all of its majority-owned
+   subsidiaries. All significant intercompany balances and transactions have
+   been eliminated in consolidation. Investments in business entities in which
+   the Company does not have control, but has the ability to exercise
+   significant influence over operating and financial policies (generally 20-50%
+   ownership), are accounted for by the equity method.
+
+   ACCOUNTING ESTIMATES: The preparation of financial statements requires
+   management to make estimates and assumptions that affect the reported amounts
+   of assets and liabilities and disclosure of contingent assets and liabilities
+   at the date of the financial statements and the reported amounts of revenues
+   and expenses during the reporting period. Actual results could differ from
+   those estimates.
+
+   REVENUE RECOGNITION: The Company recognizes revenue when its product is
+   shipped, at which time title passes to the customer. Revenues from contract
+   bottling services are recognized at the time the bottling process is
+   completed. Excise taxes on products sold are billed directly to customers and
+   are included in sales at the same time the product sold is recognized as
+   revenue.
+
+   CASH EQUIVALENTS: The Company considers certificates of deposit and other
+   short-term investments with an original maturity of three months or less to
+   be cash equivalents. The Company maintains depository accounts in excess of
+   FDIC insured limits. The Company has not experienced any credit losses in
+   such accounts and does not anticipate any losses.
+
+   SHORT-TERM INVESTMENTS: The Company has investments in certificates of
+   deposit and U.S. Government securities, which mature within one year of
+   purchase. All of the Company's short-term investments are classified as
+   held-to-maturity and are carried at amortized cost.
+
+   TRADE RECEIVABLES: The Company records trade receivables at cost, which
+   approximates fair value at the respective balance sheet dates. The Company
+   estimates its allowance for doubtful accounts based on a combination of
+   historical and current information regarding the balance of trade
+   receivables, as well as the current composition of the pool of trade
+   receivables. The Company determines status on trade receivables based on the
+   contractual terms of the original sale. Trade receivables that management
+   believes to be uncollectible are written off upon such determination.
+
+                                       32
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 1.  NATURE OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+   INVENTORIES: Inventories are stated at the lower of cost or market. Cost is
+   determined using the first-in, first-out method.
+
+   PROPERTY AND EQUIPMENT: Property and equipment is stated at cost.
+   Depreciation is calculated on the straight-line method over the estimated
+   useful lives of the various classes of depreciable assets. Estimated lives
+   are as follows:
+
+<Table>
+<Caption>
+                                            Years
+                                           -------
+   <S>                                     <C>
+   Land improvements                       3 to 20
+   Buildings and improvements              3 to 40
+   Machinery and equipment                 3 to 33
+</Table>
+
+   FINANCIAL INSTRUMENTS: The Company had a derivative financial instrument to
+   reduce the Company's interest rate risk, which was canceled in 2001. The
+   derivative instrument consisted of an interest rate cap agreement with a
+   bank, which was being accounted for as a cash flow hedge under Financial
+   Accounting Standard No. 133 ACCOUNTING FOR DERIVATIVE INSTRUMENTS AND HEDGING
+   ACTIVITIES. The Company's policy is not to hold or issue derivative financial
+   instruments for trading purposes.
+
+   Effective for fiscal year 2000, the Company adopted Financial Accounting
+   Standard No. 133, ACCOUNTING FOR DERIVATIVE INSTRUMENTS AND HEDGING
+   ACTIVITIES, as amended, which requires companies to report all derivative
+   instruments on the balance sheet at fair value and establishes criteria for
+   designation and effectiveness of hedging relationships. If a derivative is
+   not a hedge, it must be adjusted to fair value through income. If a
+   derivative is a hedge, and depending on the nature of the hedge, any change
+   in the fair value of the derivative is either (1) offset against the change
+   in fair value of the hedged asset, liability, or firm commitments through
+   earnings, or (2) recognized in other comprehensive income until the hedged
+   item is recognized in earnings or the term of the hedge expires. The
+   ineffective portion of a derivative's change in fair value is immediately
+   recognized in earnings.
+
+   AMORTIZATION: Amortization is computed on the straight-line basis over the
+   estimated lives of the capitalized assets. Estimated lives are as follows:
+
+<Table>
+<Caption>
+                                              Years
+                                             -------
+   <S>                                       <C>
+   Trademarks                                20 - 40
+   Deferred loan costs                          5
+</Table>
+
+   IMPAIRMENT OF LONG-LIVED ASSETS: In accordance with FASB Statement No. 121,
+   ACCOUNTING FOR THE IMPAIRMENT OF LONG-LIVED ASSETS AND FOR LONG-LIVED ASSETS
+   TO BE DISPOSED OF, the Company records impairment losses on long-lived assets
+   used in operations when events and circumstances indicate that the assets
+   might be impaired and the undiscounted cash flows estimated to be generated
+   by those assets are less than the carrying amounts of those assets.
+
+                                       33
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 1.  NATURE OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+   INCOME TAXES: Deferred income tax assets and liabilities are computed for
+   differences between the financial statement and tax bases of assets and
+   liabilities that will result in taxable or deductible amounts in the future
+   based on enacted tax laws and rates applicable to the periods in which the
+   differences are expected to affect taxable income. Valuation allowances are
+   established when necessary to reduce deferred tax assets to the amount
+   expected to be realized.
+
+   PREFERRED STOCK: The Company has authorized 2,500,000 shares of $.01 par
+   value preferred stock. No terms are stated as to dividend, liquidation or
+   other rights applicable to these shares.
+
+   RECLASSIFICATIONS: Certain amounts in the 2001 and 2000 consolidated
+   financial statements have been reclassified to conform with the 2002
+   presentation.
+
+NOTE 2.  RECENT ACCOUNTING PRONOUNCEMENTS
+
+In June 2001, the Financial Accounting Standards Board issued Statement of
+Financial Accounting No. 142 ("SFAS 142"), GOODWILL AND OTHER INTANGIBLE ASSETS.
+
+SFAS 142 Supercedes APB Opinion No. 17, INTANGIBLE ASSETS, and requires goodwill
+and other intangible assets that have an indefinite useful life to no longer be
+amortized; however, these assets must be reviewed at least annually for
+impairment. Application of SFAS 142 was required starting with fiscal years
+beginning after December 15, 2001. Early application was permitted for entities
+with fiscal years beginning after March 15, 2001. The Company adopted SFAS 142
+effective October 1, 2001. As required by SFAS 142, the Company has completed
+the transitional goodwill impairment test and has concluded that there was no
+impairment to goodwill as of October 1, 2001. The following table presents the
+adjusted net income and earnings per share of the Company, adding back the
+goodwill amortization net of income taxes, for the years ended September 30,
+2002, 2001 and 2000, as if the Company had adopted SFAS 142 as of October 1,
+1999.
+
+<Table>
+<Caption>
+                                               2002            2001            2000
+                                          -------------   -------------   -------------
+                                                         (in thousands)
+<S>                                       <C>             <C>             <C>
+Reported Net Income                       $   5,446,731   $   6,202,570   $   3,887,969
+  Add back: Goodwill amortization, net                -         809,581         663,934
+                                          -------------   -------------   -------------
+  Adjusted net income                     $   5,446,731   $   7,012,151   $   4,551,903
+                                          =============   =============   =============
+
+Basic Earning Per Share:
+  Reported net income                     $        0.99   $        1.12   $        0.71
+  Goodwill amortization                               -            0.15            0.12
+                                          -------------   -------------   -------------
+  Adjusted net income                     $        0.99   $        1.27   $        0.83
+                                          =============   =============   =============
+
+Diluted Earnings Per Share:
+  Reported net income                     $        0.97   $        1.12   $        0.70
+  Goodwill amortization                               -            0.15            0.12
+                                          -------------   -------------   -------------
+  Adjusted net income                     $        0.97   $        1.27   $        0.82
+                                          =============   =============   =============
+</Table>
+
+                                       34
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 2   RECENT ACCOUNTING PRONOUNCEMENTS (CONTINUED)
+
+In August 2001, the FASB issued SFAS No. 144 "Accounting for the Impairment or
+Disposal of Long-Lived Assets". This statement supersedes SFAS No. 121,
+"Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+be Disposed Of" and the accounting and reporting provisions of Accounting
+Principles Board Opinion No. 30 "Reporting the Results of Operations-Reporting
+the Effects of Disposal of a Segment of a Business, and Extraordinary, Unusual
+and Infrequently Occurring Events and Transactions". SFAS No. 144 retains the
+fundamental provisions of SFAS No. 121 but eliminates the requirement to
+allocate goodwill to long-lived assets to be tested for impairment. This
+statement also requires discontinued operations to be carried at the lower of
+cost or fair value less costs to sell and broadens the presentation of
+discontinued operations to include a component of an entity rather than a
+segment of a business. SFAS No. 144 is effective for fiscal years beginning
+after December 15, 2001, and interim periods within those fiscal years, with
+early application encouraged. The Company does not expect the adoption of this
+statement to have a material impact on its results of operations or financial
+position.
+
+NOTE 3.  INVENTORIES
+
+The major components of inventories as of September 30, 2002 and 2001 are:
+
+<Table>
+<Caption>
+                                                                   2002           2001
+                                                               ------------   ------------
+<S>                                                            <C>            <C>
+Finished goods                                                 $ 16,470,057   $ 16,879,276
+Work in process                                                   1,513,786        598,648
+Raw materials and supplies                                        9,871,082     10,005,405
+                                                               ------------   ------------
+                                                               $ 27,854,925   $ 27,483,329
+                                                               ============   ============
+</Table>
+
+NOTE 4.  NOTES RECEIVABLE
+
+Notes receivable consist of the following as of September 30, 2002 and 2001:
+
+<Table>
+<Caption>
+                                                                   2002           2001
+                                                               ------------   ------------
+<S>                                                            <C>            <C>
+8% note, collateralized by real property, monthly principal
+  and interest payments of $10,313 through April 2009          $    631,760   $    701,897
+Other                                                                32,025         34,861
+                                                               ------------   ------------
+                                                                    663,785        736,758
+Less current maturities                                              79,098         72,973
+                                                               ------------   ------------
+                                                               $    584,687   $    663,785
+                                                               ============   ============
+</Table>
+
+                                       35
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 5.  NOTES RECEIVABLE FROM AFFILIATES
+
+Notes receivable from affiliates consist of the following as of September 30,
+2002 and 2001:
+
+<Table>
+<Caption>
+                                                                      2002           2001
+                                                                  ------------   ------------
+<S>                                                               <C>            <C>
+6% note, unsecured from British Fidelity Holdings Limited,
+  an affilliate through common ownership. Monthly principal
+  and interest payments of $20,000 due through July 2005, with
+  remaining balance of $3,305,560 due in August 2005. This note
+  is guaranteed by British Fidelity Assurance, Ltd.               $  3,416,793   $  3,450,674
+7% note, unsecured from BF Enterprises Limited, an affilliate
+  through common ownership. Monthly interest payments
+  through July 2004. Principal due on demand on August 1, 2004         397,047        147,046
+                                                                  ------------   ------------
+                                                                     3,813,840      3,597,720
+Less current matruities                                                 39,067         36,797
+                                                                  ------------   ------------
+                                                                  $  3,774,773   $  3,560,923
+                                                                  ============   ============
+</Table>
+
+NOTE 6.  PROPERTY AND EQUIPMENT
+
+The major classifications of property and equipment as of September 30, 2002 and
+2001 are:
+
+<Table>
+<Caption>
+                                                                      2002           2001
+                                                                  ------------   ------------
+<S>                                                               <C>            <C>
+Land                                                              $  5,086,665   $  4,640,086
+Land improvements                                                    1,378,005      1,378,005
+Buildings and improvements                                          17,934,298     17,190,201
+Machinery and equipment                                             65,376,361     61,989,911
+                                                                  ------------   ------------
+                                                                    89,775,329     85,198,203
+Less accumulated depreciation                                       47,590,112     43,729,941
+                                                                  ------------   ------------
+                                                                  $ 42,185,217   $ 41,468,262
+                                                                  ============   ============
+</Table>
+
+                                       36
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 7.  AMORTIZED INTANGIBLE ASSETS
+
+Amortized Intangible Assets consist of the following as of September 30, 2002,
+2001 and 2000:
+
+<Table>
+<Caption>
+                                   2002                            2001                            2000
+                      -----------------------------   -----------------------------   -----------------------------
+                      Gross Carrying    Accumulated   Gross Carrying    Accumulated   Gross Carrying    Accumulated
+                          Amount       Amortization       Amount       Amortization       Amount       Amortization
+                      --------------   ------------   --------------   ------------   --------------   ------------
+<S>                   <C>              <C>            <C>              <C>            <C>              <C>
+Trademarks            $    1,302,000   $    426,951   $    1,302,000   $    386,751   $    1,502,000   $    436,552
+Deferred loan costs        1,729,783        564,651          839,950        249,651          612,450        112,283
+                      --------------   ------------   --------------   ------------   --------------   ------------
+                      $    3,031,783   $    991,602   $    2,141,950   $    636,402   $    2,114,450   $    548,835
+                      ==============   ============   ==============   ============   ==============   ============
+</Table>
+
+Aggregate amortization expenses were $355,200, $287,567 and $172,483 for the
+years ended 2002, 2001 and 2000, respectively.
+
+Estimated amortization expenses as of September 30, 2002 are as follows:
+
+<Table>
+<Caption>
+Year Ending
+September 30,                                           Amount
+- -------------                                        -----------
+<S>                                                  <C>
+2003                                                 $   339,200
+2004                                                     339,200
+2005                                                     339,070
+2006                                                     308,120
+2007                                                      40,000
+                                                     -----------
+                                                     $ 1,365,590
+                                                     ===========
+</Table>
+
+NOTE 8.  ACCRUED EXPENSES
+
+Accrued expenses consist of the following as of September 30, 2002 and 2001:
+
+<Table>
+<Caption>
+                                          2002           2001
+                                       -----------   -----------
+<S>                                    <C>           <C>
+Accrued payroll and related expenses   $ 1,833,255   $ 1,645,788
+Other                                    1,390,038       679,916
+                                       -----------   -----------
+                                       $ 3,223,293   $ 2,325,704
+                                       ===========   ===========
+</Table>
+
+                                       37
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 9.  FINANCING ARRANGEMENTS
+
+Long-term debt consists of the following as of September 30, 2002 and 2001:
+
+<Table>
+<Caption>
+                                                                     2002           2001
+                                                                 ------------   ------------
+<S>                                                              <C>            <C>
+Term loans under a credit agreement (i) (ii), interest payable
+  monthly based on either the Eurodollar or prime rate at the
+  Company's option, plus an applicable margin as defined in
+  the agreement. The interest rate at September 30, 2002
+  was 4.57%. Future minimum quarterly principal installments
+  of $1,000,000 through September 30, 2006 with any
+  remaining balance due on September 30, 2006                    $ 36,000,000   $ 40,000,000
+Revolving loans under a credit agreement (i), interest
+  payable quarterly based on either the Eurodollar or
+  prime rate at the Company's option, plus an applicable
+  margin as defined in the agreement. The blended interest
+  rate at September 30, 2002 was 5.15%. The revolving
+  lines of credit terminate in October 2004                        20,500,000     19,000,000
+Other                                                                 517,009        684,549
+                                                                 ------------   ------------
+                                                                   57,017,009     59,684,549
+Less current maturities                                             4,000,000      4,000,000
+                                                                 ------------   ------------
+                                                                 $ 53,017,009   $ 55,684,549
+                                                                 ============   ============
+</Table>
+
+   (i)   In October 2001, the Company entered into a $70 million credit
+         agreement, which consists of $40 million term loans and $30 million
+         revolving loan facilities. The credit agreement is collateralized by
+         principally all assets located in the United States of America. The
+         Company is restricted from paying dividends to stockholders. Also, the
+         Company is required to maintain unencumbered cash or marketable
+         securities of $4 million at the end of each fiscal quarter and to
+         maintain a minimum fixed charge and interest coverage ratios among
+         other financial covenants.
+   (ii)  In addition to the quarterly principal payments, the Company may be
+         required to make additional principal payments based on results of the
+         Company's domestic operating profits as defined in the agreement.
+
+In fiscal year 2000, the Company recognized an extraordinary loss of $1,168,790,
+net of an income tax benefit of $382,075 on its early extinguishment of debt.
+
+                                       38
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 9.  FINANCING ARRANGEMENTS (CONTINUED)
+
+Maturities of long-term debt as of September 30, 2002 are as follows:
+
+<Table>
+<Caption>
+Year Ending
+September 30,                   Amount
+- -------------                ------------
+<S>                          <C>
+2003                         $  4,000,000
+2004                           24,500,000
+2005                            4,000,000
+2006                           24,517,009
+                             ------------
+                             $ 57,017,009
+                             ============
+</Table>
+
+NOTE 10. INCOME TAXES
+
+Income tax expense before extraordinary item consists of the following for the
+years ended September 30, 2002, 2001 and 2000:
+
+<Table>
+<Caption>
+                                              2002          2001             2000
+                                         ------------   ------------    --------------
+<S>                                      <C>            <C>             <C>
+Current income tax expense (benefit):
+  Federal                                $    756,092   $  2,032,885    $    1,887,250
+  State                                       (21,894)       189,167           186,628
+                                         ------------   ------------    --------------
+                                              734,198      2,222,052         2,073,878
+                                         ------------   ------------    --------------
+Deferred income tax expense (benefit):
+  Federal                                     357,000       (596,000)         (377,000)
+  State                                        31,000        (65,000)          (48,000)
+                                         ------------   ------------    --------------
+                                              388,000       (661,000)         (425,000)
+                                         ------------   ------------    --------------
+Total income tax expense before
+  extraordinary item                     $  1,122,198   $  1,561,052    $    1,648,878
+                                         ============   ============    ==============
+</Table>
+
+                                       39
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 10. INCOME TAXES (CONTINUED)
+
+Temporary differences between the financial statement carrying amounts and tax
+bases of assets and liabilities that give rise to significant portions of the
+deferred tax assets and liabilities relate to the following as of September 30,
+2002 and 2001:
+
+<Table>
+<Caption>
+                                                                     2002         2001
+                                                                 -----------   -----------
+<S>                                                              <C>           <C>
+Deferred tax liabilities:
+  Property and equipment, principally due
+    to differences in depreciation                               $ 4,027,000   $ 3,610,000
+  Goodwill, principally due to differences in amortization           683,000       264,000
+                                                                 -----------   -----------
+                                                                   4,710,000     3,874,000
+                                                                 -----------   -----------
+Deferred tax assets:
+  Inventories, principally due to additional costs inventoried
+    for tax purposes pursuant to the Tax Reform Act of 1986        1,307,000       854,000
+  Differences related to anticipated future expenses and
+    allowances                                                       265,000       499,000
+  Deferred compensation                                              420,000       191,000
+                                                                 -----------   -----------
+                                                                   1,992,000     1,544,000
+                                                                 -----------   -----------
+Net deferred income tax liability                                $ 2,718,000   $ 2,330,000
+                                                                 ===========   ===========
+</Table>
+
+No valuation allowance has been recorded as of September 30, 2002 or 2001.
+
+Income tax expense differed from the amounts computed by applying the statutory
+federal income tax rate to income before income taxes and extraordinary item as
+a result of the following for the years ended September 30, 2002, 2001 and 2000:
+
+<Table>
+<Caption>
+                                             2002            2001          2000
+                                          -----------    -----------    ------------
+<S>                                       <C>            <C>            <C>
+Computed "expected" tax expense           $ 2,233,436    $ 2,639,632    $  2,279,916
+Nondeductible operating losses
+  Bahamian subsidiary                         229,574        141,288         189,374
+Effect of income tax subsidy on
+  earnings of Virgin Islands subsidiary      (930,907)    (1,090,153)     (1,040,427)
+Nondeductible losses of equity investee             -              -         101,092
+Effect of extraterritorial deduction on
+  income tax                                 (208,392)      (224,654)              -
+Other                                        (201,513)        94,939         118,923
+                                          -----------    -----------    ------------
+Total income tax expense on income
+  before extraordinary item               $ 1,122,198    $ 1,561,052    $  1,648,878
+                                          ===========    ===========    ============
+</Table>
+
+                                       40
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 10. INCOME TAXES (CONTINUED)
+
+Generally, the operating income of the Company's Bahamian subsidiary is not
+subject to United States income taxes as there are no income taxes in the
+Commonwealth of the Bahamas. The Company sold all of its remaining operating
+assets in the Bahamas in fiscal year 2000 for $3.5 million. Certain passive
+income of the Bahamian subsidiary is subject to United States income taxes.
+
+The Virgin Islands subsidiary, through the Industrial Development Commission of
+the Government of the Virgin Islands of the United States, has received a 90%
+exemption from income taxes on operating income. This exemption is effective
+through September 2020. The per share effect of this exemption on earnings on a
+basic and diluted basis for the years ended September 30, 2002, 2001 and 2000,
+respectively, is as follows:
+
+<Table>
+<Caption>
+                     2002        2001       2000
+                   ---------   ---------  ---------
+<S>                <C>         <C>        <C>
+Basic              $    0.18   $    0.20  $    0.19
+Diluted                 0.18        0.20       0.19
+</Table>
+
+With respect to the Bahamian and Virgin Islands subsidiaries, no provision has
+been made for taxes, which would result from the remittance of such
+undistributed earnings as the Company intends to reinvest these earnings
+indefinitely. The Company's share of the undistributed earnings of the Bahamian
+and Virgin Islands subsidiaries was approximately $7,500,000 and $27,900,000,
+respectively, as of September 30, 2002. The undistributed earnings of the
+Bahamian subsidiary have been reduced by any previously taxed income.
+
+NOTE 11. LEASES
+
+The Company occupies office space under noncancelable operating leases which
+expire between September 2004 and December 2006. One of the leases contains two
+renewal options of five years each.
+
+Future minimum lease payments under these noncancelable operating leases as of
+September 30, 2002 are as follows:
+
+<Table>
+<Caption>
+Year Ending
+September 30,              Amount
+- -------------            -----------
+<S>                      <C>
+2003                     $   436,032
+2004                         436,032
+2005                         396,432
+2006                         396,432
+2007                          99,108
+                         -----------
+                         $ 1,764,036
+                         ===========
+</Table>
+
+Rent expense for office space (including the Company's share of common area
+expenses, real estate and sales taxes) amounted to $485,206, $400,538 and
+$309,832 for the years ended September 30, 2002, 2001 and 2000, respectively.
+
+                                       41
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 12. STOCK OPTIONS
+
+On August 11, 1992, the Company adopted a stock option plan for the grant of
+options to key employees. Option prices may not be less than 85% of the fair
+market value of the Company's common stock on the date of grant for nonqualified
+options or 100% of such fair market value for qualified stock options. As of
+September 30, 2002, 1,400,000 shares are reserved for issuance under the option
+plan. Options granted have vesting periods ranging from 3 to 5 years. During the
+year ended September 30, 2002, the Company received a total of $339,000 upon the
+exercise of stock options for 56,500 shares. There were no stock options
+exercised during the years ended September 30, 2001 and 2000.
+
+The Company applies Accounting Principles Board Opinion Number 25, ACCOUNTING
+FOR STOCK ISSUED TO EMPLOYEES ("APB 25") and related interpretations in
+accounting for options granted, which requires compensation expense for the
+Company's options to be recognized only if the market price of the underlying
+stock exceeds the exercise price on the date of grant. Accordingly, the Company
+has not recognized compensation expense for its options granted after 1994. SFAS
+123, ACCOUNTING FOR STOCK-BASED COMPENSATION, issued in October 1995, requires
+pro forma disclosures for option grants made after December 31, 1994, when
+accounting for stock-based compensation plans in accordance with APB 25.
+
+If the Company had elected to recognize compensation cost based on the fair
+value of the options granted at grant date as prescribed by SFAS No. 123, net
+income and earnings per common share would have been reduced to the pro forma
+amounts shown below:
+
+<Table>
+<Caption>
+                                 2002            2001            2000
+                             -------------   -------------   -------------
+<S>                          <C>             <C>             <C>
+Net income, as reported      $   5,446,731   $   6,202,570   $   3,887,969
+Net income, pro forma            5,179,845       5,935,684       3,442,853
+Earnings per common share,
+  as reported (Basic)                 0.99            1.12            0.71
+Earnings per common share,
+  as reported (Diluted)               0.97            1.12            0.70
+Earnings per common share,
+  pro forma (Basic)                   0.94            1.08            0.62
+Earnings per common share,
+  pro forma (Diluted)                 0.92            1.07            0.62
+</Table>
+
+The pro forma effects are determined as if compensation costs were recognized
+using the fair value based accounting method. The fair values of options granted
+during 1999 and 1998 were estimated on the date of grant using the Black-Scholes
+option pricing model with the following assumptions: risk free interest rate of
+4.75% and 4.75%; expected lives of 10 years; expected volatility of 29% and 30%;
+and a zero percent dividend yield. The weighted-average fair value of options
+granted during 1999 and 1998 was $3.98 and $4.67, respectively.
+
+                                       42
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 12. STOCK OPTIONS (CONTINUED)
+
+A reconciliation of the Company's stock option activity, and related
+information, for the years ended September 30, 2002, 2001 and 2000 follows:
+
+<Table>
+<Caption>
+                                  2002                          2001                          2000
+                      ----------------------------   ---------------------------   ---------------------------
+                                       WEIGHTED                       Weighted                      Weighted
+                         NUMBER         AVERAGE         Number         Average        Number        Average
+                           OF          EXERCISE           of          Exercise          of          Exercise
+                         OPTIONS         PRICE          Options         Price        Options         Price
+                      ------------    ------------   ------------   ------------   ------------   ------------
+<S>                        <C>        <C>                 <C>       <C>                 <C>       <C>
+Outstanding,
+  beginning of year        599,000    $       8.43        599,000   $       8.43        599,000   $       8.43
+  Granted                        -               -              -              -              -              -
+  Exercised                (56,500)           6.00              -              -              -              -
+  Forfeited                      -               -              -              -              -              -
+                      ============    ============   ============   ============   ============   ============
+Outstanding,
+  end of year              542,500    $       8.69        599,000   $       8.43        599,000   $       8.43
+                      ============    ============   ============   ============   ============   ============
+Exercisable,
+  end of year              408,500    $       8.87        398,000   $       8.59        311,000   $       8.65
+                      ============    ============   ============   ============   ============   ============
+</Table>
+
+The following table summarizes information about the stock options at September
+30, 2002:
+
+<Table>
+<Caption>
+                           NUMBER           NUMBER
+                       OUTSTANDING AT   EXERCISABLE AT
+                        SEPTEMBER 30,    SEPTEMBER 30,     EXPIRATION
+EXERCISE PRICE              2002             2002             DATE
+- --------------         --------------   --------------    ------------
+<S>                           <C>              <C>        <C>
+12.2500                        60,000           60,000    April 2004
+8.1250                         87,500           87,500    February 2006
+9.0625                         60,000           60,000    May 2008
+8.1250                        335,000          201,000    December 2008
+                       --------------   --------------
+                              542,500          408,500
+                       ==============   ==============
+</Table>
+
+The exercise price of options granted has been made at grant date fair value.
+
+                                       43
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 13. SEGMENT AND GEOGRAPHIC INFORMATION
+
+The Company operates primarily in the beverage alcohol industry in the United
+States. The Company reports its operating results in five segments:
+
+Bulk Alcohol Products (citrus brandy, citrus spirits, rum, cane spirits,
+fortified citrus wine, purchased distilled products and byproducts) Premium
+Branded Spirits (primarily Cruzan Estate Rums and Cruzan Flavored Rums)
+Bottling Operations (contract bottling services and proprietary and private
+label products) Vinegar and Cooking Wine (bulk vinegar, bulk cooking wine,
+vinegar stock and proprietary and private label case goods) Corporate
+Operations and Other (primarily corporate related items).
+
+The accounting policies of the reportable segments are the same as those
+described in Note 1 to the Consolidated Financial Statements. The Company
+evaluates the performance of its operating segments based on income before
+income taxes, equity in losses of equity investee, interest income and expense.
+Material intersegment sales and transfers have been eliminated.
+
+Summarized financial information concerning the Company's reportable segments is
+shown in the following table. "Corporate Operations and Other" includes
+corporate related items and the results of certain nonmaterial operations.
+
+                                       44
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 13. SEGMENT AND GEOGRAPHIC INFORMATION (CONTINUED)
+
+Net sales, operating income (loss), identifiable assets, depreciation and
+amortization and capital expenditures for the Company's operating segments for
+the years ended September 30, 2002, 2001 and 2000 are as follows:
+
+<Table>
+<Caption>
+(in thousands)                                            2002              2001               2000
+                                                      ------------      ------------       ------------
+<S>                                                   <C>               <C>                <C>
+Net Sales
+  Bulk Alcohol Products                               $     35,447      $     39,727       $     37,457
+  Premium Branded Spirits                                   24,698            18,547             16,119
+  Bottling Operations                                       18,661            20,644             16,823
+  Vinegar and Cooking Wine                                  20,953            20,853             20,477
+  Corporate Operations and Other                                 -                 -              2,111
+                                                      ------------      ------------       ------------
+                                                      $     99,759      $     99,771       $     92,987
+                                                      ============      ============       ============
+Operating Income (Loss)
+  Bulk Alcohol Products                               $     10,539      $     12,781       $     13,696
+  Premium Branded Spirits                                     (331)             (840)               120
+  Bottling Operations                                          129               221             (1,022)
+  Vinegar and Cooking Wine                                   4,602             4,739              3,673
+  Corporate Operations and Other                            (6,339)           (5,352)            (5,369)
+                                                      ------------      ------------       ------------
+                                                      $      8,600      $     11,549       $     11,098
+                                                      ============      ============       ============
+Identifiable Assets
+  Bulk Alcohol Products                               $     71,974      $     68,235       $     62,969
+  Premium Branded Spirits                                    8,778             8,902              7,764
+  Bottling Operations                                       23,081            24,107             22,239
+  Vinegar and Cooking Wine                                  20,010            21,010             21,152
+  Corporate Operations and Other                            14,040            11,334             12,424
+                                                      ------------      ------------       ------------
+                                                      $    137,883      $    133,588       $    126,548
+                                                      ============      ============       ============
+Depreciation and Amortization
+  Bulk Alcohol Products                               $      3,005      $      3,229       $      2,845
+  Premium Branded Spirits                                       88               271                104
+  Bottling Operations                                        1,612             1,471              1,474
+  Vinegar and Cooking Wine                                     473             1,140                928
+  Corporate Operations and Other                               430               224                334
+                                                      ------------      ------------       ------------
+                                                      $      5,608      $      6,335       $      5,685
+                                                      ============      ============       ============
+Capital Expenditures
+  Bulk Alcohol Products                               $      4,269      $      3,328       $      3,964
+  Premium Branded Spirits                                      166               205                 68
+  Bottling Operations                                        1,166             2,481                857
+  Vinegar and Cooking Wine                                     247               549                754
+  Corporate Operations and Other                               153                72                185
+                                                      ------------      ------------       ------------
+                                                      $      6,001      $      6,635       $      5,828
+                                                      ============      ============       ============
+Goodwill
+  Bulk Alcohol Products                               $      9,471      $      9,471       $     10,072
+  Premium Branded Spirits                                        -                 -                  -
+  Bottling Operations                                            -                 -                  -
+  Vinegar and Cooking Wine                                  11,053            11,053             11,748
+  Corporate Operations and Other                                 -                 -                  -
+                                                      ------------      ------------       ------------
+                                                      $     20,524      $     20,524       $     21,820
+                                                      ============      ============       ============
+</Table>
+
+                                       45
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 13. SEGMENT AND GEOGRAPHIC INFORMATION (CONTINUED)
+
+Sales and operating income for the years ended September 30, 2002, 2001, and
+2000 and identifiable assets as of the end of each period classified by
+geographic area, were as follows:
+
+<Table>
+<Caption>
+                                                          U. S. VIRGIN
+                                                          ISLANDS AND
+                                     UNITED STATES        THE BAHAMAS          CONSOLIDATED
+                                     -------------       --------------       --------------
+<S>                                  <C>                 <C>                  <C>
+September 30, 2002:
+  Net sales                          $  88,617,308       $   11,141,433       $   99,758,741
+  Operating income                       5,372,667            3,227,568            8,600,235
+  Identifiable assets                   95,698,471           42,184,033          137,882,504
+September 30, 2001:
+  Net sales                          $  87,489,403       $   12,281,194       $   99,770,597
+  Operating income                       7,519,943            4,029,099           11,549,042
+  Identifiable assets                   94,024,629           39,563,535          133,588,164
+September 30, 2000:
+  Net sales                          $  79,405,802       $   13,580,895       $   92,986,697
+  Operating income                       7,843,670            3,254,089           11,097,759
+  Identifiable assets                   89,271,882           37,273,566          126,545,448
+</Table>
+
+Included in net sales for the United States are export sales, primarily to
+Eastern Europe, Canada and the Caribbean, totaling approximately $6,400,000,
+$6,400,000 and $5,700,000 for the years ended September 30, 2002, 2001 and 2000.
+
+NOTE 14. PENSION PLAN
+
+The Company has a defined contribution retirement plan which covers
+substantially all United States employees. Effective January 1, 2000, the
+plan was restated as a discretionary 401(k) Profit Sharing Plan and has been
+renamed the Todhunter International, Inc. Compensation Deferral Plan (the
+"Restated Plan"). Under the Restated Plan, participants may make elective
+contributions based on their eligible compensation. Participants are
+immediately vested in any elective contributions and related earnings, if
+any. Generally, employer contributions to the plan begin to vest to the
+benefit of the participant after three years of service. Participants are
+entitled, upon retirement, to their vested portion of the retirement fund
+assets. The Company contributed approximately $1,043,311, $915,998 and
+$644,749 to the plan for the years ended September 30, 2002, 2001 and 2000,
+respectively.
+
+Under the old plan, the Company contributed 6.0% of an employee's total
+compensation, plus 5.5% of compensation in excess of the Social Security tax
+wage base. An employee's compensation in excess of $170,000 was disregarded in
+determining the Company's contribution. Generally, employer contributions to the
+plan began to vest to the benefit of the participant after three years of
+service. Participants were entitled, upon retirement, to their vested portion of
+the retirement fund assets.
+
+                                       46
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 15. INVESTMENT IN PREMIER WINES & SPIRITS, LTD.
+
+In 1997, the Company acquired a 45% interest in Premier Wines & Spirits, Ltd.,
+("Premier"), a wholesale liquor distributor in the United States Virgin Islands,
+for $450,000. This investment is being accounted for using the equity method.
+The Company had sales to Premier of approximately $2,007,654, $1,946,000 and
+$2,069,000 for the years ended September 30, 2002, 2001 and 2000, respectively.
+Included in trade receivables is approximately $455,000 and $416,000 as of
+September 30, 2002 and 2001, respectively, related to these sales. The Company
+has outstanding advances to Premier of $587,019 as of September 30, 2002 and
+2001, respectively, which are included in investments in and advances to equity
+investees. These advances are unsecured and bear interest at 8.5%. On November
+1, 2002 the interest rate was reduced to 6.0%. Interest payments are due monthly
+or on demand in accordance with the terms of the agreement. Principal is payable
+on demand.
+
+NOTE 16. FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The following methods and assumptions were used to estimate the fair value of
+each class of financial instruments for which it is practicable to estimate that
+value:
+
+The carrying amounts approximate fair values as of September 30, 2002 and 2001
+for cash and cash equivalents, short-term investments, trade receivables, other
+receivables and accounts payable because of the short-term maturities of those
+instruments.
+
+NOTES RECEIVABLE: The fair value of the Company's notes receivable has been
+determined based on available market information and management's estimate of
+current market conditions of similar instruments.
+
+LONG-TERM DEBT: The fair value of the Company's long-term debt is estimated
+based on the current rates offered to the Company for debt of the same remaining
+maturities with similar collateral requirements.
+
+<Table>
+<Caption>
+                                                 Carrying Amount                      Fair Value
+                                         -------------------------------    ------------------------------
+                                              2002              2001             2002            2001
+                                         -------------     -------------    -------------    -------------
+<S>                                      <C>               <C>              <C>              <C>
+Financial assets:
+  Notes receivable, including note
+    receivable from affiliate            $   4,477,625     $   4,187,432    $   4,619,131    $   4,270,294
+Financial liabilities:
+  Long-term debt                         $  57,017,009     $  59,684,549    $  57,017,009    $  59,684,549
+</Table>
+
+                                       47
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 17. NET INCOME PER COMMON SHARE
+
+Basic net income per common share is computed using the weighted average number
+of common shares outstanding during the period. Diluted net income per share is
+computed using the weighted average number of common and dilutive common
+equivalent shares outstanding during the period.
+
+<Table>
+<Caption>
+                                                              2002               2001               2000
+                                                         -------------      -------------      -------------
+<S>                                                      <C>                <C>                <C>
+Net income                                               $   5,446,731      $   6,202,570      $   3,887,969
+                                                         =============      =============      =============
+Determination of shares:
+Weighted average number of common shares outstanding         5,526,781          5,513,734          5,513,734
+Shares issuable on exercise of stock options, net of
+  shares assumed to be repurchased                              97,383             13,676             36,482
+                                                         -------------      -------------      -------------
+Average common shares outstanding for diluted
+  computation                                                5,624,164          5,527,410          5,550,216
+                                                         =============      =============      =============
+Net income per common share:
+  Basic:
+    Income before extraordinary item                     $        0.99      $        1.12      $        0.92
+    Extraordinary item                                               -                  -              (0.21)
+                                                         -------------      -------------      -------------
+    Net income                                           $        0.99      $        1.12      $        0.71
+                                                         =============      =============      =============
+  Diluted:
+    Income before extraordinary item                     $        0.97      $        1.12      $        0.91
+    Extraordinary item                                               -                  -              (0.21)
+                                                         -------------      -------------      -------------
+    Net income                                           $        0.97      $        1.12      $        0.70
+                                                         =============      =============      =============
+</Table>
+
+                                       48
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 18. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+<Table>
+<Caption>
+Quarter                                      First            Second             Third              Fourth
+- -------                                   ----------        ----------        -----------         ----------
+                                                (In thousands, except per share and gross margin data)
+<S>                                       <C>               <C>               <C>                 <C>
+2002:
+  Net sales                               $   24,469        $   23,496        $    26,809         $   24,985
+  Gross profit                                 7,556             7,142              8,644              7,797
+  Gross margin                                  30.8%             30.4%              32.2%              31.2%
+  Net income                                   1,490             1,725              1,755                477*
+  Net income per share:
+    Basic                                       0.27              0.31               0.32               0.09
+    Diluted                                     0.27              0.31               0.31               0.08
+
+2001:
+  Net sales                               $   22,263        $   25,474        $    26,093         $   25,941
+  Gross profit                                 7,691             7,777              8,928              7,687
+  Gross margin                                  34.5%             30.5%              34.2%              29.6%
+  Net income                                   1,244             1,487              1,919              1,553
+  Net income per share:
+    Basic                                       0.23              0.27               0.35               0.27
+    Diluted                                     0.23              0.27               0.35               0.27
+
+2000:
+  Net sales                               $   20,462        $   23,458        $    23,722         $   25,345
+  Gross profit                                 6,507             7,276              7,976              7,111
+  Gross margin                                  31.8%             31.0%              33.6%              28.1%
+  Income before extraordinary item             1,290             1,329              1,319              1,119
+  Net income                                     121             1,329              1,319              1,119
+  Net income per share:
+    Basic                                       0.02              0.24               0.24               0.21
+    Diluted                                     0.02              0.24               0.24               0.20
+</Table>
+
+* In the fourth quarter of 2002, the Company incurred increased marketing
+  expenses, increased its reserves for deferred compensation and recorded a
+  loss in an equity investment.
+
+                                       49
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 19. ACQUISITION OF MONARCH WINE COMPANY
+
+In November 1999, the Company completed the purchase of the assets of Monarch
+Wine Company of Atlanta, Georgia, a privately held company. The purchase price
+was approximately $23.8 million in cash. Monarch specializes in the
+manufacturing of wines, including custom blended wines and cooking wines for the
+food industry and base wines for producers of vinegar and beverage alcohol.
+
+The assets acquired and liabilities assumed with this acquisition were as
+follows:
+
+<Table>
+<S>                                                         <C>
+Current assets acquired                                     $    2,937,219
+Goodwill                                                        22,528,351
+Current liabilities assumed                                       (930,427)
+Noncancelable operating lease on plant facility assumed           (773,237)
+                                                            --------------
+                                                            $   23,761,906
+                                                            ==============
+</Table>
+
+The Company assumed a noncancelable lease on Monarch's plant facility which has
+since been abandoned by the Company. The net present value of this lease at the
+date of purchase was recorded as a liability and increased goodwill,
+accordingly.
+
+NOTE 20. SALE OF BAHAMIAN OPERATIONS
+
+In September 2000, the Company sold all of its remaining operating assets in the
+Bahamas to British Fidelity Holdings Limited, an affiliate through common
+ownership, for $3.5 million. The Company received a note receivable (see Note 5)
+for $3.5 million and recorded a loss of $78,838 on the transaction.
+
+NOTE 21. LEGAL PROCEEDINGS
+
+The Bureau of Alcohol, Tobacco and Firearms of the United States Department of
+the Treasury (the "BATF") had advised the Company that it was conducting an
+investigation of shipments made by various U. S. alcohol producers to certain
+countries formerly included in the Soviet Union. The BATF had indicated that it
+believed that certain of the Company's export shipments may not have conformed
+to the specifications required by the BATF, and that this nonconformity may have
+violated U.S. Law.
+
+In June 2002, the Company entered into agreements with the BATF providing for
+the following: (1) the Company agreed to pay a total of $400,000 in taxes and
+forfeitures, which was paid in June 2002; (2) the Company agreed to a four-day
+suspension (which was served in July 2002) of the Company's federal basic permit
+at its Florida facilities; and (3) the BATF has indicated that it will not seek
+any further actions against or penalties from the Company with respect to the
+shipments in question.
+
+The Company believes that the agreements with the BATF have not and will not
+have a material adverse effect on the Company's financial condition or results
+of operation.
+
+                                       50
+<Page>
+
+TODHUNTER INTERNATIONAL, INC. AND SUBSIDIARIES
+
+NOTES TO FINANCIAL STATEMENTS
+
+NOTE 22. SUBSEQUENT EVENT
+
+During November 2002, the Company announced the retirement of A. Kenneth
+Pincourt, Jr., its Founder, Chairman and Chief Executive Officer. The Company
+has entered into an agreement with Mr. Pincourt, setting forth the terms of his
+retirement. Under this agreement, the Company elected to accelerate retirement
+benefits and continue to pay compensation and provide related benefits through
+July 15, 2004. The Company will record a charge for these items during the first
+quarter of its 2003 fiscal year. The effect of this charge, net of income tax
+benefits, will be approximately $1 million or $.18 per common share. In
+addition, the Company's majority shareholder, Angostura, Ltd., has entered into
+an agreement with Mr. Pincourt to purchase 595,985 shares of common stock.
+
+                                       51
+<Page>
+
+                          INDEPENDENT AUDITOR'S REPORT
+                         ON FINANCIAL STATEMENT SCHEDULE
+
+
+To the Board of Directors
+Todhunter International, Inc.
+West Palm Beach, Florida
+
+
+Our audits were made for the purpose of forming an opinion on the basic
+consolidated financial statements taken as a whole. The consolidated financial
+statements Schedule II for the years ended September 30, 2002, 2001, and 2000 is
+presented for purposes of complying with the Securities and Exchange
+Commission's rules and is not a part of the basic consolidated financial
+statements. This schedule has been subjected to the auditing procedures applied
+in our audits of the basic consolidated financial statements and, in our
+opinion, is fairly stated in all material respects in relation to the basic
+consolidated financial statements taken as a whole.
+
+
+                                               /s/ McGladrey & Pullen, LLP
+
+
+West Palm Beach, Florida
+November 26, 2002
+
+                                       52
+<Page>
+
+                          TODHUNTER INTERNATIONAL, INC.
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+<Table>
+<Caption>
+                                         Year Ended September 30,
+                              -------------------------------------------
+                                  2002           2001            2000
+                              ------------   -------------   ------------
+<S>                           <C>            <C>             <C>
+Inventory Reserve:
+Balance, beginning of period  $    723,007   $       9,689   $    222,844
+Charged to costs and expenses      108,633       1,163,318              -
+
+Deductions                        (418,094)       (450,000)      (213,155)
+                              ------------   -------------   ------------
+Balance, end of period        $    413,546   $     723,007   $      9,689
+                              ============   =============   ============
+</Table>
+
+                                       53
+<Page>
+
+                          TODHUNTER INTERNATIONAL, INC.
+                                INDEX TO EXHIBITS
+
+ 3.1      Amended and Restated Certificate of Incorporation of Todhunter
+          International, Inc.(1)
+ 3.2      Amended and Restated By-Laws of Todhunter International, Inc.(6)
+ 4.1      Form of Todhunter International, Inc. Common Stock Certificate(1)
+10.6      Todhunter International, Inc. 1992 Stock Option Plan, as amended(3)
+10.8      Lease, dated March 24, 1988, as amended, between Todhunter
+          International, Inc. and Especially West Palm Beach, Inc.(1)
+10.8(a)   Amendment to Lease, dated January 1, 1997, between Todhunter
+          International, Inc. and Florida Acquisition Fund Esperante, Ltd.(4)
+10.16     Asset Purchase Agreement dated as of September 27, 1999, among
+          Todhunter International, Inc. and Adams Wine Company d/b/a Monarch
+          Wine Company of Georgia, and Howard J. Weinstein, David Paszamant, Jay
+          Paszamant and Matthew Paszamant(5)
+10.18     Executive Employment Agreement dated as of July 15, 1999, between
+          Thomas A. Valdes and Todhunter International, Inc.(6)
+10.19     Executive Employment Agreement dated as of July 15, 1999, between Jay
+          S. Maltby and Todhunter International, Inc.(6)
+10.20     Executive Employment Agreement dated as of July 15, 1999, between A.
+          Kenneth Pincourt, Jr. and Todhunter International, Inc.(6)
+10.21     Executive Employment Agreement dated as of July 15, 1999, between D.
+          Chris Mitchell and Todhunter International, Inc.(6)
+10.22     Amended and Restated Credit Agreement dated as of October 19, 2001, by
+          and among Todhunter International, Inc., and each of the Financial
+          Institutions Initially a Signatory thereto, and SouthTrust Bank(7)
+10.23     Agreement and General Release of All Claims between Todhunter
+          International, Inc. and A. Kenneth Pincourt, Jr., dated as of November
+          26, 2002(8)
+11.1      Statement of Computation of Per Share Earnings(9)
+21.1      Subsidiaries of Todhunter International, Inc.(2)
+23.1      Consent of McGladrey & Pullen, LLP(10)
+99.1      Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+          to Section 906 of the Sarbanes-Oxley Act of 2002(10)
+99.2      Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+          to Section 906 of the Sarbanes-Oxley Act of 2002(10)
+
+ (1)    Incorporated herein by reference to the Company's Registration Statement
+        on Form S-1 (File No. 33-50848).
+
+ (2)    Incorporated herein by reference to the Company's Annual Report on Form
+        10-K for the year ended September 30, 1995.
+
+ (3)    Incorporated herein by reference to the Company's Annual Report on Form
+        10-K for the year ended September 30, 1997.
+
+ (4)    Incorporated herein by reference to the Company's Annual Report on Form
+        10-K for the year ended September 30, 1998.
+
+ (5)    Incorporated herein by reference to the Company's Current Report on
+        Form 8-K for November 17, 1999.
+
+ (6)    Incorporated herein by reference to the Company's Annual Report on Form
+        10-K for the year ended September 30, 1999.
+
+ (7)    Incorporated herein by reference to the Company's Annual Report on Form
+        10-K for the year ended September 30, 2001.
+
+ (8)    Incorporated herein by reference to the Company's Current Report on Form
+        8-K for November 26, 2002.
+
+                                       54
+<Page>
+
+ (9)    Filed herewith and incorporated herein by reference to Note 17 of notes
+        to consolidated financial statements, included in Item 8 of the
+        Company's Annual Report on Form 10-K for the year ended September 30,
+        2002.
+
+(10)    Filed herewith.
+
+                                       55
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>a2096429zex-23_1.txt
+<DESCRIPTION>EXHIBIT 23.1
+<TEXT>
+<Page>
+
+                                                                    EXHIBIT 23.1
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+We hereby consent to the incorporation by reference in the December 16, 1993
+Registration Statement on Form S-8 (Registration No. 33-73018) and in the July
+9, 1996 Registration Statement on Form S-8 (Registration No. 333-07827) of our
+report, dated November 26, 2002, which appears in the annual report on Form 10-K
+of Todhunter International, Inc. for the year ended September 30, 2002.
+
+
+                                               /s/ McGladrey & Pullen, LLP
+
+
+West Palm Beach, Florida
+December 12, 2002
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>a2096429zex-99_1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<Page>
+
+                                                                    EXHIBIT 99.1
+
+                                  CERTIFICATION
+
+
+Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, the undersigned certifies that (1) this Annual
+Report of Todhunter International, Inc. (the "Company") on Form 10-K for the
+period ended September 30, 2002, as filed with the Securities and Exchange
+Commission on the date hereof (this "Report"), fully complies with the
+requirements of Section 13(a) of the Securities Exchange Act of 1934, as
+amended, and (2) the information contained in this Report fairly presents, in
+all material respects, the financial condition of the Company as of September
+30, 2002 and its results of operations for the period ended September 30, 2002.
+
+
+                                           /s/  Jay S. Maltby
+                                         ---------------------------------------
+                                         Jay S. Maltby
+                                         Chairman of the Board,
+                                         Chief Executive Officer and President
+
+
+Date:  December 18, 2002
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>5
+<FILENAME>a2096429zex-99_2.txt
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<Page>
+
+                                                                    EXHIBIT 99.2
+
+                                  CERTIFICATION
+
+
+          Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, the undersigned certifies that (1) this
+Annual Report of Todhunter International, Inc. (the "Company") on Form 10-K for
+the period ended September 30, 2002, as filed with the Securities and Exchange
+Commission on the date hereof (this "Report"), fully complies with the
+requirements of Section 13(a) of the Securities Exchange Act of 1934, as
+amended, and (2) the information contained in this Report fairly presents, in
+all material respects, the financial condition of the Company as of September
+30, 2002 and its results of operations for the period ended September 30, 2002.
+
+
+                                           /s/  Troy Edwards
+                                         ---------------------------------------
+                                         Troy Edwards
+                                         Chief Financial Officer,
+                                         Treasurer and Controller
+
+
+Date:  December 18, 2002
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
