@@ -1,11 +1,12 @@
+import time
+
 from bs4 import BeautifulSoup
 import re
 import string
 import os
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-from nltk.stem import PorterStemmer
+import pandas as pd
+from keybert import KeyBERT
+from pytrends.request import TrendReq
 
 class Extract:
     def __init__(self):
@@ -13,13 +14,17 @@ class Extract:
         self.ticker_cik_dict = {}
         self.cik_ticker_dict ={}
         self.ticker_list = []
+        self.keywords_list = []
 
     ########################################### M A I N ########################################################
     def keyword_extraction(self):
         #read and extract mdna sections
         self._read_snp_500_list()
         self._read_cik_list()
-        self._save_mdna_section()
+        # self._save_mdna_section()
+        self._extract_using_keybert()
+        self._get_google_trends_results()
+        self._add_google_trend_results_to_db()
 
         ##preprocess text in mdna txts
 
@@ -228,29 +233,75 @@ class Extract:
                     continue
                 # print('MD&A section not found for ' + cik + ' for year ' + year)
 
-    def _preprocess_txt_one_by_one(self, text):
-        #only put preprocessiong related codes here
-        #given single set of text
-        tokens = [word for sent in nltk.sent_tokenize(text)
-              for word in nltk.word_tokenize(sent)]
+    # def _preprocess_txt_one_by_one(self, text):
+    #     #only put preprocessiong related codes here
+    #     #given single set of text
+    #     tokens = [word for sent in nltk.sent_tokenize(text)
+    #           for word in nltk.word_tokenize(sent)]
+    #
+    #     stopwords_list = stopwords.words('english')
+    #     tokens = [token for token in tokens if token not in stopwords_list]
+    #     tokens = [word for word in tokens if len(word) >= 2]
+    #     tokens = [word.lower() for word in tokens]
+    #     lmtzr = WordNetLemmatizer()
+    #     tokens = [lmtzr.lemmatize(word) for word in tokens]
+    #     tokens = [lmtzr.lemmatize(word, 'v') for word in tokens]
+    #     stemmer = PorterStemmer()
+    #     tokens = [stemmer.stem(word) for word in tokens]
+    #
+    #     return tokens
 
-        stopwords_list = stopwords.words('english')
-        tokens = [token for token in tokens if token not in stopwords_list]
-        tokens = [word for word in tokens if len(word) >= 2]
-        tokens = [word.lower() for word in tokens]
-        lmtzr = WordNetLemmatizer()
-        tokens = [lmtzr.lemmatize(word) for word in tokens]
-        tokens = [lmtzr.lemmatize(word, 'v') for word in tokens]
-        stemmer = PorterStemmer()
-        tokens = [stemmer.stem(word) for word in tokens]
+    def _extract_using_keybert(self):
+        #note that we only extract from the latest reports
+        mdna_path = './mdna_dataset'
+        cik_list = os.listdir(mdna_path)
+        key_path = './keyword_dataset'
+        # kw_model = KeyBERT('distilbert-base-nil-mean_tokens')
+        kw_model = KeyBERT()
 
-        return tokens
+        for cik in cik_list:
+            if not os.path.exists(key_path + '/' + cik):
+                os.makedirs(key_path + '/' + cik)
 
-    def _preprocess_text_using_keybert(self, text):
+            years = os.listdir(mdna_path + '/' + cik)
+            latest_year = years[-1]
 
+            report_path = mdna_path + '/' + cik + '/' + latest_year
+            report = open(report_path, encoding='UTF-8').read()
+            # print('Company: ', cik, ' Year: ', latest_year)
+            keywords = kw_model.extract_keywords(report, stop_words='english', top_n=5)
 
-    def _save_preprocessed_txt(self):
+            self._add_to_keywords_list(keywords)
+
+            # print(keywords)
+            # print('\n')
+
+    def _add_to_keywords_list(self, keywords):
+        tmp =[]
+        tmp.append(keywords)
+        for t in tmp:
+            self.keywords_list.append(t[0][0])
+
+    def _get_google_trends_results(self):
+        data_df = pd.DataFrame()
+        pytrends = TrendReq(hl='en', tz=540)
+        for word in self.keywords_list:
+            keyword = [word]
+
+            pytrends.build_payload(kw_list=keyword, cat=0, timeframe='2004-01-01 2022-07-01', geo='US')
+            tmp = pytrends.interest_over_time()
+
+            if 'isPartial' in tmp.columns:
+                tmp = tmp.drop(['isPartial'], axis=1)
+
+            data_df = pd.concat([data_df, tmp], axis=1)
+            time.sleep(15)
+        print(data_df)
+
+    def _add_google_trend_results_to_db(self):
         pass
-        #copy logic from save_mdna
+
+
+
 d = Extract()
 d.keyword_extraction()
