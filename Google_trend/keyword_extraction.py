@@ -27,10 +27,15 @@ class Extract:
         #read and extract mdna sections
         self._read_snp_500_list()
         self._read_cik_list()
-        self._save_mdna_section()
+        # self._save_mdna_section()
+
+        print('Done with extracting MDNA from 10-ks')
+        print('***** STARTING KEYWORD EXTRACTION*****')
+
         self._extract_using_keybert()
         self._get_google_trends_results()
         self._add_google_trend_results_to_db()
+        print('FIN. CHECK DB')
 
         ##preprocess text in mdna txts
 
@@ -261,13 +266,13 @@ class Extract:
         #note that we only extract from the latest reports
         mdna_path = './mdna_dataset'
         cik_list = os.listdir(mdna_path)
-        key_path = './keyword_dataset'
+        # key_path = './keyword_dataset'
         # kw_model = KeyBERT('distilbert-base-nil-mean_tokens')
         kw_model = KeyBERT()
 
         for cik in cik_list:
-            if not os.path.exists(key_path + '/' + cik):
-                os.makedirs(key_path + '/' + cik)
+            # if not os.path.exists(key_path + '/' + cik):
+            #     os.makedirs(key_path + '/' + cik)
 
             years = os.listdir(mdna_path + '/' + cik)
             latest_year = years[-1]
@@ -296,7 +301,7 @@ class Extract:
             #cat은 카테고리를 의미
             #geo는 지역
             #한달단위로 줄것임
-            pytrends.build_payload(kw_list=_keyword, cat=0, timeframe='2017-01-01 2022-07-01', geo='US')
+            pytrends.build_payload(kw_list=_keyword, cat=0, timeframe='2017-08-01 2022-07-01', geo='US')
             tmp = pytrends.interest_over_time()
 
             if 'isPartial' in tmp.columns:
