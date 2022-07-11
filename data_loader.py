@@ -84,7 +84,3 @@ class Dataloader:
 
         return df
 
-# dl = Dataloader()
-# if __name__ == '__main__':
-#     dl.update_database()
-

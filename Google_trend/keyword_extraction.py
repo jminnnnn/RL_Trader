@@ -26,7 +26,7 @@ class Extract:
     ########################################### M A I N ########################################################
     def keyword_extraction(self):
         #read and extract mdna sections
-        self._read_snp_500_list()
+        # self._read_snp_500_list()
         self._read_cik_list()
         # self._save_mdna_section()
 
@@ -251,7 +251,7 @@ class Extract:
         # kw_model = KeyBERT('distilbert-base-nil-mean_tokens')
         kw_model = KeyBERT()
 
-        for cik in cik_list:
+        for cik in cik_list[:5]:
             # if not os.path.exists(key_path + '/' + cik):
             #     os.makedirs(key_path + '/' + cik)
 
@@ -314,6 +314,7 @@ class Extract:
 
     def _add_google_trend_results_to_db(self):
         df = self._make_change_ratios_to_trends_df()
+
 
         df.to_sql(self.MYSQL_GOOGLE_TRENDS, self.my_sql, if_exists='append', index=False)
 
