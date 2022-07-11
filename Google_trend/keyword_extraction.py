@@ -21,6 +21,7 @@ class Extract:
         self.keywords_col_list = []
         self.MYSQL_GOOGLE_TRENDS = 'keywords_google_trend_data'
         self.my_sql = MY_SQL
+        self.keyword_dict = {}
 
     ########################################### M A I N ########################################################
     def keyword_extraction(self):
@@ -37,11 +38,8 @@ class Extract:
         self._add_google_trend_results_to_db()
         print('FIN. CHECK DB')
 
-        ##preprocess text in mdna txts
-
 
         #extract keywords from the reports
-        #다만, mdna에 없는 연도의 경우,
 
 
     ###########################################################################################################
@@ -244,23 +242,6 @@ class Extract:
                     continue
                 # print('MD&A section not found for ' + cik + ' for year ' + year)
 
-    # def _preprocess_txt_one_by_one(self, text):
-    #     #only put preprocessiong related codes here
-    #     #given single set of text
-    #     tokens = [word for sent in nltk.sent_tokenize(text)
-    #           for word in nltk.word_tokenize(sent)]
-    #
-    #     stopwords_list = stopwords.words('english')
-    #     tokens = [token for token in tokens if token not in stopwords_list]
-    #     tokens = [word for word in tokens if len(word) >= 2]
-    #     tokens = [word.lower() for word in tokens]
-    #     lmtzr = WordNetLemmatizer()
-    #     tokens = [lmtzr.lemmatize(word) for word in tokens]
-    #     tokens = [lmtzr.lemmatize(word, 'v') for word in tokens]
-    #     stemmer = PorterStemmer()
-    #     tokens = [stemmer.stem(word) for word in tokens]
-    #
-    #     return tokens
 
     def _extract_using_keybert(self):
         #note that we only extract from the latest reports
@@ -275,14 +256,18 @@ class Extract:
             #     os.makedirs(key_path + '/' + cik)
 
             years = os.listdir(mdna_path + '/' + cik)
-            latest_year = years[-1]
+            if len(years) < 1:
+                print('No appropriate mdna for {0}'.format(cik))
+            else:
+                latest_year = years[-1]
 
-            report_path = mdna_path + '/' + cik + '/' + latest_year
-            report = open(report_path, encoding='UTF-8').read()
-            # print('Company: ', cik, ' Year: ', latest_year)
-            keywords = kw_model.extract_keywords(report, stop_words='english', top_n=5)
+                report_path = mdna_path + '/' + cik + '/' + latest_year
+                report = open(report_path, encoding='UTF-8').read()
+                # print('Company: ', cik, ' Year: ', latest_year)
+                keywords = kw_model.extract_keywords(report, stop_words='english', top_n=5)
 
             self._add_to_keywords_list(keywords)
+            self.keyword_dict[cik] = keywords
 
             # print(keywords)
             # print('\n')
@@ -329,6 +314,8 @@ class Extract:
 
     def _add_google_trend_results_to_db(self):
         df = self._make_change_ratios_to_trends_df()
+
         df.to_sql(self.MYSQL_GOOGLE_TRENDS, self.my_sql, if_exists='append', index=False)
+
         #수치 그대로도 넣되, 상대적 변화율을 넣는것이 핵심
 
