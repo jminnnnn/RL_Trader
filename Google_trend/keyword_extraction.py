@@ -315,7 +315,6 @@ class Extract:
     def _add_google_trend_results_to_db(self):
         df = self._make_change_ratios_to_trends_df()
 
-
         df.to_sql(self.MYSQL_GOOGLE_TRENDS, self.my_sql, if_exists='append', index=False)
 
         #수치 그대로도 넣되, 상대적 변화율을 넣는것이 핵심
